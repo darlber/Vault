@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "be88fcbe84b7a961",
+    "type": "split",
+    "children": [
+      {
+        "id": "741960fbf1b3c58a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c6efaa43bfbeaa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SGE/SGE 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SGE 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c7a9200d92d1392",
+    "type": "split",
+    "children": [
+      {
+        "id": "b82994d771459c1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816e6f72a3f9ae99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d1424abd1afc69ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e97a31241481c51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cfc5a5c03bf09d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d83b6432a9c9c01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80af02b3e7851dee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SGE/SGE 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SGE 4"
+            }
+          },
+          {
+            "id": "2cfb51d7b9416cb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SGE/SGE 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SGE 4"
+            }
+          },
+          {
+            "id": "7e0590d69e9c60de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c6aae0b20b71264",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SGE/Instalación de Odoo.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Instalación de Odoo"
+            }
+          },
+          {
+            "id": "7b43a4bccc4e1c73",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7e0590d69e9c60de",
+  "lastOpenFiles": [
+    "SGE/SSH.md",
+    "SGE/SGE 4.md",
+    "SGE/SGE 3.md",
+    "SGE/Personalizar Vistas.md",
+    "SGE/SGE 2.md",
+    "SGE/pgAdmin4.md",
+    "SGE/Instalación de Odoo.md",
+    "SGE/Instalación de Odoo-PCera.md",
+    "entornos de producción.md",
+    "Welcome.md",
+    "SGE",
+    "create a link.md"
+  ]
+}
