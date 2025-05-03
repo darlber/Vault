@@ -1,4 +1,3 @@
-
 # ERP: Elección e Implantación  
 Selección del ERP:  
 	→ Identificar procesos clave  
