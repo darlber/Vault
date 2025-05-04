@@ -19,6 +19,51 @@ Dentro de esta carpeta, crearemos un archivo `__manifest__` que contenga la info
 
 Installable: true quiere decir que se puede instalar; mientras que application:false, quiere decir que no lo vamos a mostrar junto al resto de aplicaciones como «Ventas», o «Inventario»
 ## Definición de vista:
+
+```
+<odoo>
+    <data>
+        <record id="report_custom" model="ir.actions.report">
+            <field name="name">Reports Clientes</field>
+            <field name="model">res.partner</field>
+            <field name="report_type">qweb-pdf</field>
+            <field name="report_name">formSSGG.report_custom_template</field>
+            <field name="print_report_name">'Clientes - %s' % (object.name or '')</field>
+        </record>
+
+        <template id="report_custom_template">
+            <t t-call="web.html_container">
+                <t t-call="web.external_layout">
+                    <div class="page">
+                        <h2>Reporte de Clientes</h2>
+                        <table class="table table-condensed">
+                            <thead>
+                                <tr>
+                                    <th>Nombre</th>
+                                    <th>Teléfono</th>
+                                    <th>Correo Electrónico</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <t t-foreach="docs" t-as="partner">
+                                    <tr>
+                                        <td><t t-esc="partner.name"/></td>
+                                        <td><t t-esc="partner.phone or 'N/A'"/></td>
+                                        <td><t t-esc="partner.email or 'N/A'"/></td>
+                                    </tr>
+                                </t>
+                            </tbody>
+                        </table>
+                    </div>
+                </t>
+            </t>
+        </template>
+    </data>
+</odoo>
+```
+
+Otro ejemplo:
+
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
