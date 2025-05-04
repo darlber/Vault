@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/pgAdmin4.md",
+                "file": "SGE/Personalizar Vistas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pgAdmin4"
+              "title": "Personalizar Vistas"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "6c6efaa43bfbeaa9",
   "lastOpenFiles": [
-    "SGE/Personalizar Vistas.md",
     "SGE/Instalación de Odoo.md",
+    "SGE/pgAdmin4.md",
+    "SGE/Personalizar Vistas.md",
     "SGE/SSH.md",
     "SGE/SGE 4.md",
     "SGE/a/Vault",
@@ -190,7 +191,6 @@
     "SGE/Nueva carpeta",
     "SGE/SGE 3.md",
     "SGE/SGE 2.md",
-    "SGE/pgAdmin4.md",
     "SGE/Instalación de Odoo-PCera.md",
     "entornos de producción.md",
     "Welcome.md",

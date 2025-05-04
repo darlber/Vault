@@ -24,10 +24,9 @@ pero se debe de comprobar.
 `sudo apt update && sudo apt upgrade`
 
 2. Instalamos PostgreSQL:
-
 `sudo apt install postgresql -y`
-3. Usuario para PostgreSQL
 
+3. Usuario para PostgreSQL
 `sudo -u postgres createuser odoo -U postgres -dP`
 
 > [!NOTE] sudo -u 
@@ -62,7 +61,6 @@ git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo
 `sudo apt-get upgrade`
 
 6. Comprobación de status de ambos servicios
-
 `sudo systemctl status odoo`
 `sudo systemctl status postgresql`
 
@@ -72,10 +70,12 @@ Paramos los dos servicios
 `sudo systemctl stop postgresql`
 
 `sudo nano /etc/postgresql/xx/main/postgresql.conf`
-descomentamos 
+
+Descomentamos la siguiente línea
 `listen_addresses = ‘*’`
 
 `sudo nano /etc/postgresql/xx/main/pg_hba.conf`
+
 Añadimos en IPV4
 ```
 host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
