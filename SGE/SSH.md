@@ -2,7 +2,8 @@
 `sudo apt update`
 `sudo apt install openssh-server -y`
 
-Configuración
+Configuración:
+
 `sudo nano /etc/ssh/sshd_config`
 	Port 22 # Puerto por defecto
 	ListenAddress 0.0.0.0 # Acceso desde cualquier IP

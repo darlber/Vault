@@ -98,8 +98,10 @@ Instalación manual en Odoo:
 Descargar módulo desde la web de Odoo → sección Apps  
 Filtrar por: categoría, pago, versión, nombre  
 Descomprimir ZIP en carpeta addons  
+
 `Windows: C:\Program Files (x86)\Odoo...\addons`
 `Linux: /usr/lib/python3/dist-packages/odoo/addons`
+
 Actualizar lista de apps en Odoo (menú Aplicaciones)  
 # Implantación en la empresa
 Adaptación del ERP según análisis previo  
@@ -367,7 +369,7 @@ Bloqueo del Sistema Antiguo:
 Se detiene el antiguo sistema y se pone en marcha el nuevo ERP directamente.  
 - Ventajas: No se requiere duplicación de tareas, pero si el sistema nuevo no ha sido probado adecuadamente, puede haber fallos.  
 - Riesgo: Si las pruebas previas no son exhaustivas, puede haber problemas durante la transición.   
-- 
+
 La elección entre ambos métodos depende de la calidad de las pruebas realizadas.  
   
 Si las pruebas son exhaustivas, se puede optar por el bloqueo del sistema antiguo (solo después de probarlo en un entorno de pruebas). Si no, se recomienda usar las pruebas paralelas durante la puesta en marcha del nuevo sistema en el entorno de producción.  
