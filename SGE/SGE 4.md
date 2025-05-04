@@ -25,7 +25,7 @@ SaaS (Software como Servicio):
 	→ Ideal para pequeñas empresas  
 # Tipos de empresa y necesidades
 PyMES:  
-	→ Gestión de clientes, proveedores, productos, compras, ventas, almacén.  
+	- Gestión de clientes, proveedores, productos, compras, ventas, almacén.  
 Sector servicios:  
 	→ Módulo de gestión por proyectos.  
 Tiendas y restaurantes:  
@@ -211,20 +211,21 @@ Campos son sustituidos por sus valores al generar el informe
 		Menú: Odoo Report Designer > Conversion Fields → Brackets  
 # Exportación de datos
 RML (Report Markup Language):  
-Descripción: Formato descriptor para la generación de documentos impresos, basado en XML similar al HTML. 
+- Descripción: Formato descriptor para la generación de documentos impresos, basado en XML similar al HTML. 
 
 Estructura de un documento RML:  
-Zona de plantilla. Etiqueta: `<pageTemplate>` 
+- Zona de plantilla. Etiqueta: `<pageTemplate>` 
 	Define formato de páginas, contenidos comunes y espacios de documento.  
 
-Zona de estilos  Etiqueta: `<style>` 
+- Zona de estilos  Etiqueta: `<style>` 
 	Define estilos de elementos como colores y tipografías (por ejemplo, para tablas).  
 
-Zona de documento. Etiqueta:`<story>`
+- Zona de documento. Etiqueta:`<story>`
 	Contiene el contenido del documento.  
-	
+
 
 Pasos para exportar a RML:  
+
 	Acceder al menú:
 	Odoo Report Designer > Export to RML  
 	Guardar archivo RML:  
@@ -248,22 +249,24 @@ Pasos clave del proceso:
 6. Importar los datos al ERP.  
 
 Formato CSV:  
-Separadores de campo: ; (punto y coma).  
-Separador de texto: " (comillas dobles).  
-Primera fila: Nombres de los ==campos== deben coincidir con el idioma configurado en las preferencias.  
+
+	Separadores de campo: ; (punto y coma).  
+	Separador de texto: " (comillas dobles).  
+	Primera fila: Nombres de los ==campos== deben coincidir con el idioma configurado en las preferencias.  
+
 Revisar tablas secundarias:  Asegurarse de que las categorías o campos necesarios existan en las tablas (ej. res.partner.category).  
 # Planificación de la implantación
-Objetivo:  
-Asegurar que la implantación del ERP se realice de manera organizada, con tareas detalladas, responsabilidades definidas y tiempos establecidos.  
-Figuras clave en el proyecto:  
-Dirección o Responsables de la empresa  
-	Rol: Tomar decisiones clave, asegurando su implicación y compromiso en el proyecto.  
-Jefe de Proyecto  
-	Rol: Coordinador, validando y verificando las tareas del equipo, sirviendo de intermediario entre las diferentes partes.  
-Responsable de Migración de Datos  
-	Rol: Encargado de la migración de la información desde el sistema antiguo al ERP. Conoce ambos sistemas y las necesidades del nuevo.  
-Equipo de Consultoría  
-	Rol: Realiza el análisis de procesos y requisitos, propone soluciones, instala y configura el sistema, y forma a los usuarios.  
+- Objetivo:  
+	- Asegurar que la implantación del ERP se realice de manera organizada, con tareas detalladas, responsabilidades definidas y tiempos establecidos.  
+- Figuras clave en el proyecto:  
+	- Dirección o Responsables de la empresa  
+		- Rol: Tomar decisiones clave, asegurando su implicación y compromiso en el proyecto.  
+	- Jefe de Proyecto  
+		- Rol: Coordinador, validando y verificando las tareas del equipo, sirviendo de intermediario entre las diferentes partes.  
+	- Responsable de Migración de Datos  
+		- Rol: Encargado de la migración de la información desde el sistema antiguo al ERP. Conoce ambos sistemas y las necesidades del nuevo.  
+	- Equipo de Consultoría  
+		- Rol: Realiza el análisis de procesos y requisitos, propone soluciones, instala y configura el sistema, y forma a los usuarios.  
   
 Etapas clave en la implantación [[SGE 2#Proceso instalación/configuración ERP]]:  
 1. Análisis de procesos y enfoque de la solución  
@@ -321,6 +324,7 @@ Conclusión: La correcta configuración asegura un uso eficiente, seguro y adecu
 	- Escribir  
 	- Crear  
 	- Eliminar  
+
 Configuración:  
 - Gestionar usuarios: Menú Ajustes → Usuarios y compañías → Usuarios.  
 - Gestionar grupos: Menú Ajustes → Usuarios y compañías → Grupos.  
@@ -355,11 +359,11 @@ Proceso en Odoo:
 	Esta acción debe ser activada para ejecutar las copias de seguridad automáticamente.  
 	Indicar la hora, frecuencia y reintento de copias no realizadas.  
 4. Configurar Bases de Datos para Copias:
-- Acceder a Configuración/Personalización/Configure Backup.  
-- Crear un registro para cada base de datos que se desea respaldar, especificando:  
-	Nombre de la base de datos.  
-	Servidor donde se encuentra.  
-	Ubicación de la carpeta para la copia.  
+	- Acceder a Configuración/Personalización/Configure Backup.  
+	- Crear un registro para cada base de datos que se desea respaldar, especificando:  
+		Nombre de la base de datos.  
+		Servidor donde se encuentra.  
+		Ubicación de la carpeta para la copia.  
 # Puesta en Marcha y Finalización del Proyecto
 Pruebas de Funcionamiento en Paralelo:  
 Se operan ambos sistemas (nuevo y antiguo) al mismo tiempo para verificar que los resultados coinciden.  

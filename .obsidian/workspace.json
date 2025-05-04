@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b43a4bccc4e1c73",
+  "active": "4c6aae0b20b71264",
   "lastOpenFiles": [
     "SGE/SGE 3.md",
     "SGE/SGE 2.md",
