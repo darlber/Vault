@@ -79,21 +79,22 @@ Descomentamos la siguiente línea
 Añadimos en IPV4
 ```
 host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
-type   database   user               direccion             encriptado
+type    database        user             direccion               encriptado
 ```
 
 `sudo nano /etc/odoo-server.conf`
 
 ```
-`admin_passwd = {user_odoo_password}`
-`db_host = localhost`
-`db_port = False`
-`db_user = odoo`
-`db_password = password`
-`addons_path = /opt/odoo/odoo/addons,/opt/odoo/odoo/custom-addons`
-`default_productivity_apps = True`
-`xmlrpc_port = 8069`
+admin_passwd = {user_odoo_password}
+db_host = localhost
+db_port = False
+db_user = odoo
+db_password = password
+addons_path = /opt/odoo/odoo/addons,/opt/odoo/odoo/custom-addons
+default_productivity_apps = True
+xmlrpc_port = 8069
 ```
+
 8.  Reload de servicios
 
 `sudo systemctl enable odoo`
