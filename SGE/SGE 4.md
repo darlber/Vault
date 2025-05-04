@@ -382,7 +382,7 @@ Finalización de la Implantación:
 6. Rendimiento del sistema: Asegurarse de que no haya errores, sobrecargas o caídas inesperadas del sistema.  
   
 # Factores de Éxito de la Implantación de un ERP 
-- Factores Clave para el Éxito:  
+1. Factores Clave para el Éxito:  
 	- Liderazgo claro y comprometido.  
 	- Definición precisa de los objetivos.  
 	- Dotación de Medios Adecuada:  
@@ -390,7 +390,7 @@ Finalización de la Implantación:
 		- Implicación y Compromiso de Toda la Organización
 		- Involucrar a todos los departamentos y usuarios desde el principio.  
 
-- Causas Comunes de Fracaso en la Implantación de un ERP:  
+2. Causas Comunes de Fracaso en la Implantación de un ERP:  
 	- Falta de Liderazgo del Equipo Directivo:  
 	- Objetivos poco claros.    
 	- Falta de compromiso para implementar el cambio.  
@@ -410,7 +410,7 @@ Finalización de la Implantación:
 		- Insuficientes recursos humanos o técnicos.  
 	- Falta de tiempo para dedicar al proyecto.  
 	
-- Soluciones para Evitar el Fracaso:  
+3. Soluciones para Evitar el Fracaso:  
 	- Identificación de Puntos Críticos:  
 		- Analizar los problemas desde el principio y abordarlos de manera prioritaria.  
 	- Concienciación y Colaboración:  

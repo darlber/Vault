@@ -76,7 +76,7 @@ Para optimizar la base de datos, conectarse en modo comando:
 sudo su postgres
 ```
 2. Iniciar el monitor interactivo `psql`
-```bash
+```sh
 psql
 ```
 
