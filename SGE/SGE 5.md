@@ -72,6 +72,83 @@ ODOO funciona sobre un marco de trabajo llamado OpenObject. Este framework permi
 Para optimizar la base de datos, conectarse en modo comando:
 
 1. Cambiar al usuario `postgres`:
-```
+```bash
 sudo su postgres
 ```
+2. Iniciar el monitor interactivo `psql`
+```
+psql
+```
+
+### 📋 Comandos útiles en `psql`
+
+```
+- `\h` → Ayuda.
+    
+- `\l` → Listar bases de datos.
+    
+- `\c [nombre_bd]` → Conectarse a una base de datos.
+    
+- `\d` → Ver tablas existentes.
+    
+- `\d [nombre_tabla]` → Ver estructura de una tabla.
+    
+- `VACUUM VERBOSE ANALYZE [tabla];` → Limpia y analiza la tabla para optimización.
+    
+- `\q` → Salir del monitor.
+```
+
+### 🖥️ **Sistemas batch inputs en SAP**
+El **batch-input** es un método para transferir grandes cantidades de datos a un sistema ERP (SAP).
+
+### 📂 **Métodos de batch-input**
+1. **Método clásico**:  
+   - Asíncrono.
+   - Procesa datos y los actualiza después.
+   - Genera un archivo de mensajes o log para tratar errores más tarde.
+
+2. **Método "call transaction"**:  
+   - On-line.
+   - Síncrono.
+   - Rápido, pero no genera log y no es útil para grandes cantidades de datos.
+
+### 🏗️ **Fases del proceso batch-input**
+1. **Fase de generación**:  
+   - Se genera el archivo batch-input con los datos a introducir o modificar.
+   
+2. **Fase de procesamiento**:  
+   - Se ejecuta el archivo batch-input y se realizan las modificaciones en la base de datos.
+
+### 💻 **Lenguaje utilizado en sistemas ERP-CRM**
+
+El **lenguaje de programación utilizado en Odoo** es **Python**, creado por Guido van Rossum en los años 90.
+
+### 🧑‍💻 **Características de Python**
+- Lenguaje sencillo con sintaxis cercana al lenguaje natural.
+- Usado ampliamente en aplicaciones ERP y CRM.
+- Es **orientado a objetos** y **de código abierto** (PSFL), compatible con **GPL**.
+- Python es utilizado por grandes empresas como **Google**, **Yahoo**, **NASA**, y en **distribuciones Linux**.
+
+### 🎓 **Historia y licenciamiento**
+- Creado en el **Centro para las Matemáticas y la Informática (CWI)** en los Países Bajos.
+- En 2001, se fundó la **Python Software Foundation (PSF)**, con patrocinadores como **Google**, **Canonical**, y **Microsoft**.
+
+### 🤖 **Usos comunes**
+- Muy popular para empezar a programar debido a su facilidad.
+- Utilizado en una gran variedad de plataformas y tecnologías.
+
+### 💡 **Curiosidad**
+El nombre "Python" proviene de la afición de su creador por el grupo cómico inglés "Monty Python".
+
+### 🐍 **Características de Python**
+- **Sintaxis sencilla**: Facilita el aprendizaje rápido.
+- **Lenguaje interpretado**: Se ejecuta mediante un intérprete, generando archivos `.pyc` o `.pyo`.
+- **Tipado dinámico**: El tipo de las variables se determina en tiempo de ejecución.
+- **Fuertemente tipado**: No se pueden asignar valores de un tipo diferente sin conversión explícita.
+- **Multiplataforma**: Disponible en diversas plataformas como Linux, Windows y macOS.
+- **Orientado a objetos**: Los programas están formados por clases y objetos, encapsulando datos y funciones.
+
+### 👨‍💻 **Primer programa en Python**
+- El famoso **"Hola Mundo"** se hace con:
+  ```python
+  print('Hola mundo')

@@ -1,4 +1,4 @@
-```
+```sql
 CREATE OR REPLACE PROCEDURE get_cliente_info(cliente_id INTEGER)
 -- Parameters: cliente_id: ID del cliente
 LANGUAGE plpgsql
@@ -25,7 +25,7 @@ $$;
 
 ## Tabla: 
 
-```
+```sql
 CREATE TABLE milog (
     user_id INTEGER,
     cliente_id INTEGER,
@@ -35,7 +35,7 @@ CREATE TABLE milog (
 
 ## Función: 
 
-```
+```sql
 CREATE OR REPLACE FUNCTION log_nuevo_cliente()
 RETURNS TRIGGER
 LANGUAGE plpgsql
@@ -50,7 +50,7 @@ $$;
 
 ## Trigger:
 
-```
+```sql
 CREATE TRIGGER trigger_log_nuevo_cliente
 AFTER INSERT ON res_partner
 FOR EACH ROW
@@ -59,7 +59,7 @@ EXECUTE FUNCTION log_nuevo_cliente();
 
 ### Prueba: 
 
-```
+```sql
 INSERT INTO res_partner (name, create_uid, create_date, autopost_bills)
 VALUES ('Nuevo Cliente', 2, NOW(), false);
 ```

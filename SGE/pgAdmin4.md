@@ -1,11 +1,11 @@
 Primero instalamos curl.
 `sudo apt install curl`	
-```
+```bash
 curl -fsS https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo gpg --dearmor -o /usr/share/keyrings/packages-pgadmin-org.gpg
 ```
 
 Create the repository configuration file:
-```
+```bash
 sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/packages-pgadmin-org.gpg] https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_rele ase -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
 ```
 
