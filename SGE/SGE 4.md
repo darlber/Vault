@@ -212,13 +212,16 @@ RML (Report Markup Language):
 Descripción: Formato descriptor para la generación de documentos impresos, basado en XML similar al HTML. 
 
 Estructura de un documento RML:  
-Zona de plantilla. Etiqueta: ``<pageTemplate>  
+Zona de plantilla. Etiqueta: `<pageTemplate>` 
 	Define formato de páginas, contenidos comunes y espacios de documento.  
-Zona de estilos  Etiqueta: ``<style>  
+
+Zona de estilos  Etiqueta: `<style>` 
 	Define estilos de elementos como colores y tipografías (por ejemplo, para tablas).  
-Zona de documento. Etiqueta:`` <story>  
+
+Zona de documento. Etiqueta:`<story>`
 	Contiene el contenido del documento.  
 	
+
 Pasos para exportar a RML:  
 	Acceder al menú:
 	Odoo Report Designer > Export to RML  

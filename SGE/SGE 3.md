@@ -142,8 +142,10 @@ Monitorización y evaluación del rendimiento:
 
 En servidores Linux se usa sar (incluido en el paquete sysstat) para medir rendimiento.  
 `sudo apt-get install sysstat`
+
 Ejemplo de uso:  
 `sar 1 3`
+
 (toma 3 mediciones cada 1 segundo).  
   
 Parámetros útiles de sar:   
