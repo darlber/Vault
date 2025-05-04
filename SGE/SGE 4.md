@@ -48,24 +48,22 @@ Módulos no precargados:
 	→ Requieren carga manual previa  
 Módulos especiales para España:  
 	→ Archivos de localización española. Necesarios para:
-	
-		Ventas  
-		Compras  
-		Productos  
-		Almacén  
-		Contabilidad  
-		Facturación  
-		Plan contable  
+1. Ventas  
+2. Compras  
+3. Productos  
+4. Almacén  
+5. Contabilidad  
+6. Facturación  
+7. Plan contable  
 # Análisis inicial  
 Objetivo:  
 → Estudiar el funcionamiento actual de la empresa antes de elegir ERP. 
 Áreas clave a analizar:  
-
-	Compras  
-	Ventas  
-	Marketing / CRM  
-	Logística  
-	Recursos Humanos  
+- Compras  
+- Ventas  
+- Marketing / CRM  
+- Logística  
+- Recursos Humanos  
 
 Aspectos a cubrir:  
 1. Datos maestros:  
@@ -156,44 +154,43 @@ Crear un objeto = crear una tabla en la BBDD
 # Creación de formularios personalizados
 Formulario = interfaz para ver/introducir datos  
 [[SGE 3#Formularios y Gráficos|Tipos de vistas]] en Odoo:  
-	Formulario  
-	Árbol (lista)  
-	Gráficos  
+1. Formulario  
+2. Árbol (lista)  
+3. Gráficos  
   
 Modificar [[Personalizar Vistas|vistas]] (2 formas):  
 XML directamente:  
-	→ Ajustes > Técnico > Interfaz de usuario > Vistas  
+- → Ajustes > Técnico > Interfaz de usuario > Vistas  
 Administrador de vistas:  
-	→ Ir al objeto → Menú contextual:  
-	Personalizar > Gestionar Vistas  
+- → Ir al objeto → Menú contextual:  
+- Personalizar > Gestionar Vistas  
   
 # Informes y gráficos personalizados en Odoo  
   
 Tipos de informes en Odoo:  
 - Informes estadísticos:  
-	Gráficos y datos dinámicos  
-	Usan el módulo base_report_creator  
-	Propósito: visualización en pantalla  
+	- Gráficos y datos dinámicos  
+	- Usan el módulo base_report_creator  
+	- Propósito: visualización en pantalla  
 -  Documentos imprimibles:  
-	Informes en PDF  
-	Modificables con OpenOffice.org antes de imprimir
-	
+	1. Informes en PDF  
+	2. Modificables con OpenOffice.org antes de imprimir
+
 Crear documentos imprimibles (3 opciones):  
- 1. Programación directa  
+1. Programación directa  
 2. Herramientas ofimáticas:  
 	Descargar informe → modificar → cargar al servidor  
 3. Motor de informes gráfico:  
 	Ejemplo: Jasper Reports  
 	Exportar objeto → construir informe  
 # Manejo de plantillas de documentos
-Pasos para manejar plantillas:    
 En OpenOffice.org, se activa el menú Odoo Report Designer y barra de herramientas.  
 Funciones principales:    
-	Conectar al servidor  
-	Abrir informes existentes  
-	Añadir campos nuevos  
-	Crear nuevos informes  
-	Enviar informes al servidor  
+1. Conectar al servidor  
+2. Abrir informes existentes  
+3. Añadir campos nuevos  
+4. Crear nuevos informes  
+5. Enviar informes al servidor  
   
 Flujo de trabajo:  
 	Abrir informe:  
