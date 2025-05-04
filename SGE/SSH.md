@@ -15,5 +15,7 @@ Configuración:
 
 
 `sudo systemctl enable ssh`
+
 `sudo systemctl restart ssh`
+
 `sudo ufw allow OpenSSH`

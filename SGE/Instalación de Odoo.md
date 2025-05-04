@@ -84,7 +84,6 @@ type    database        user             direccion               encriptado
 
 `sudo nano /etc/odoo-server.conf`
 
-```
 admin_passwd = {user_odoo_password}
 db_host = localhost
 db_port = False
@@ -93,7 +92,6 @@ db_password = password
 addons_path = /opt/odoo/odoo/addons,/opt/odoo/odoo/custom-addons
 default_productivity_apps = True
 xmlrpc_port = 8069
-```
 
 8.  Reload de servicios
 

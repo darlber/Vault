@@ -82,21 +82,13 @@ psql
 
 ### 📋 Comandos útiles en `psql`
 
-```bash
 - `\h` → Ayuda.
-    
 - `\l` → Listar bases de datos.
-    
 - `\c [nombre_bd]` → Conectarse a una base de datos.
-    
 - `\d` → Ver tablas existentes.
-    
 - `\d [nombre_tabla]` → Ver estructura de una tabla.
-    
 - `VACUUM VERBOSE ANALYZE [tabla];` → Limpia y analiza la tabla para optimización.
-    
 - `\q` → Salir del monitor.
-```
 
 ### 🖥️ **Sistemas batch inputs en SAP**
 El **batch-input** es un método para transferir grandes cantidades de datos a un sistema ERP (SAP).
