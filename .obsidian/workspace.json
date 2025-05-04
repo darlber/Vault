@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/Instalación de Odoo.md",
+                "file": "SGE/Personalizar Vistas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instalación de Odoo"
+              "title": "Personalizar Vistas"
             }
           }
         ]
@@ -181,9 +181,9 @@
   },
   "active": "6c6efaa43bfbeaa9",
   "lastOpenFiles": [
-    "SGE/Personalizar Vistas.md",
-    "SGE/Instalación de Odoo.md",
     "SGE/pgAdmin4.md",
+    "SGE/Instalación de Odoo.md",
+    "SGE/Personalizar Vistas.md",
     "SGE/SSH.md",
     "SGE/SGE 4.md",
     "SGE/a/Vault",

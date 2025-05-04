@@ -1,5 +1,6 @@
 En Odoo, las vistas se definen utilizando archivos XML. Comenzamos navegando hasta la carpeta «addons» y creando una carpeta (modulo) que contenga la view.
-``mkdir /opt/odoo18/odoo18/addons/formSSGG
+`mkdir /opt/odoo18/odoo18/addons/formSSGG`
+
 Dentro de esta carpeta, crearemos un archivo `__manifest__` que contenga la información del módulo.
 ```
 {
