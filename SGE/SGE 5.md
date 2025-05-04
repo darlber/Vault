@@ -172,10 +172,10 @@ En Python, no se declaran las variables antes de usarlas. Simplemente se asignan
 1. **Números enteros** (`int` y `long`):
    - Representan números sin decimales, positivos o negativos.
    - Ejemplo:
-     ```python
-     a = 2        # Número entero
-     a = 2L       # Número entero largo
-     ```
+```python
+a = 2        # Número entero
+a = 2L       # Número entero largo
+```
 
 2. **Números reales** (`float`):
    - Números con decimales.
@@ -214,3 +214,101 @@ es_valido = True
 
 - **Relacionales**:
   - Igual (`==`), distinto (`!=`), menor (`<`), mayor (`>`), menor o igual (`<=`), mayor o igual (`>=`).
+### 🧠 **Estructuras de programación. Colecciones en Python**
+
+Python tiene varias **colecciones** de datos, que son tipos avanzados que permiten almacenar múltiples elementos. Las colecciones más comunes son:
+
+1. **Listas**:
+   - Son colecciones ordenadas de datos, similares a los arrays o vectores en otros lenguajes.
+   - Pueden contener elementos de cualquier tipo de dato.
+   - Ejemplo:
+```python
+l = [3, True, "mi lista", [1, 2]]
+a = l[0]  # a vale 3
+b = l[3][1]  # b vale 2
+```
+
+2. **Tuplas**:
+   - Son similares a las listas, pero son **inmutables** (no pueden modificarse después de su creación).
+   - Se usan cuando se necesitan colecciones ligeras.
+   - Los elementos van entre paréntesis `()`.
+   - Ejemplo:
+```python
+t = ("hola", 2, False)
+b = t[1]  # b vale 2
+```
+
+3. **Diccionarios**:
+   - Son colecciones de **pares clave-valor**.
+   - Se accede a los valores usando sus claves entre corchetes `[]`.
+   - Ejemplo:
+```python
+d = { "Nombre": "Alberto", "Apellido": "Contador", "Victorias": [2007, 2008, 2009] }
+x = d["Nombre"]  # x vale "Alberto"
+x = d["Apellido"]  # x vale "Contador"
+x = d["Victorias"][1]  # x vale 2008
+```
+
+### 🔄 **Mutabilidad**
+- Las **listas** son **mutables**, es decir, podemos cambiar sus elementos después de su creación.
+```python
+l[0] = "Nuevo valor"
+```
+
+Las tuplas son inmutables y no permiten modificar sus elementos después de su creación.
+```python
+tupla = (1, 'hola', 3.0)
+tupla[1] = 'adios'  # Esto causará un error
+```
+
+### 🧑‍💻 **Sentencias del lenguaje Python**
+
+#### 1. **Estructura Condicional (if-else)**
+
+La estructura condicional en Python se utiliza para ejecutar diferentes bloques de código según si una condición es **verdadera** o **falsa**.
+
+- Sintaxis básica:
+```python
+if condicion:
+# Código a ejecutar si la condición es verdadera
+else:
+# Código a ejecutar si la condición es falsa
+```
+
+#### 2. **Bucles (Loops)**
+
+Los bucles permiten ejecutar un bloque de código repetidamente mientras se cumpla una condición.
+
+##### a) **Bucle while**
+
+El bucle `while` ejecuta un bloque de código mientras que la condición sea **verdadera**.
+```python
+num = 1
+while num <= 10:
+    print(num)
+    num += 1
+```
+
+
+##### b) **Bucle for**
+
+El bucle `for` se utiliza para recorrer secuencias como listas, tuplas o rangos.
+
+```python
+milista = ["Maria", "Pepe", "Juan"]
+for elemento in milista:
+    print(elemento)
+```
+
+### 🧑‍💻 **Llamadas a funciones en Python**
+
+Una **función** es un conjunto de instrucciones que realiza una tarea específica y que puede devolver un valor. Las funciones permiten **reutilizar código**, dividir programas en partes más pequeñas y hacer el código más **organizado**, **legible** y fácil de depurar.
+
+#### 1. **Definir una función**
+
+Para definir una función en Python utilizamos la palabra clave `def`, seguida del nombre de la función y los parámetros entre paréntesis.
+
+- Sintaxis básica:
+```python
+def nombre_funcion(parámetro1, parámetro2,...):
+# Instrucciones de la función
