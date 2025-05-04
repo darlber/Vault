@@ -2,7 +2,7 @@ En Odoo, las vistas se definen utilizando archivos XML. Comenzamos navegando has
 `mkdir /opt/odoo18/odoo18/addons/formSSGG`
 
 Dentro de esta carpeta, crearemos un archivo `__manifest__` que contenga la información del módulo.
-```rml
+```python
 {
 'name' : 'formSSGG',
 'version' : '1.0',
@@ -64,7 +64,7 @@ Installable: true quiere decir que se puede instalar; mientras que application:f
 
 Otro ejemplo:
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
     <record id="view_res_partner_tree_custom" model="ir.ui.view">
@@ -103,7 +103,7 @@ Otro ejemplo:
 ```
 
 ## Definición de un menú:
-```
+```xml
 <odoo>
     <!-- Definición del menú -->
     <menuitem id="menu_main" name="MenuASG" sequence="1"/>

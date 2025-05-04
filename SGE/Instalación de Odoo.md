@@ -37,7 +37,7 @@ pero se debe de comprobar.
 4. Instalamos Odoo
 
 Obtenemos dependencias
-```
+```bash
 wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/share/keyrings/odoo-archive-keyring.gpg
  echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/17.0/nightly/deb/ ./' | sudo tee/etc/apt/sources.list.d/odoo.list
 ```
@@ -47,7 +47,7 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
 ---
 Otra opción para instalar resulta:
 Dependencias:
-```
+```bash
 sudo apt-get install git python3 python3-pip build-essential wget python3-dev python3-venv python3-wheel libxslt-dev libzip-dev libldap2-dev libsasl2-dev python3- setuptools node-less libjpeg-dev gdebi -y
 sudo apt-get install nodejs npm -y
 sudo npm install -g rtlcss

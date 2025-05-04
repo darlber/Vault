@@ -76,13 +76,13 @@ Para optimizar la base de datos, conectarse en modo comando:
 sudo su postgres
 ```
 2. Iniciar el monitor interactivo `psql`
-```
+```bash
 psql
 ```
 
 ### 📋 Comandos útiles en `psql`
 
-```
+```bash
 - `\h` → Ayuda.
     
 - `\l` → Listar bases de datos.
@@ -150,5 +150,67 @@ El nombre "Python" proviene de la afición de su creador por el grupo cómico in
 
 ### 👨‍💻 **Primer programa en Python**
 - El famoso **"Hola Mundo"** se hace con:
-  ```python
+```python
   print('Hola mundo')
+```
+### 🔧 **Características adicionales**
+
+- **Comentarios**: Se escriben con el carácter `#`.
+    
+- **Asignación de valores**: Usando `=`.
+    
+- **Definir funciones**:
+```python
+def nombrefuncion(arg1, arg2):
+    instrucción1
+    instrucción2
+```
+
+### 📊 **Declaración de datos en Python**
+En Python, no se declaran las variables antes de usarlas. Simplemente se asignan valores directamente. Los tipos básicos son:
+
+1. **Números enteros** (`int` y `long`):
+   - Representan números sin decimales, positivos o negativos.
+   - Ejemplo:
+     ```python
+     a = 2        # Número entero
+     a = 2L       # Número entero largo
+     ```
+
+2. **Números reales** (`float`):
+   - Números con decimales.
+   - Ejemplo:
+```python
+b = 2.0
+```
+
+3. **Números complejos**:
+   - Tienen una parte real y una imaginaria.
+   - Ejemplo:
+```python
+complejo = 2.0 + 7.5j
+```
+
+4. **Cadenas de texto** (`str`):
+   - Texto entre comillas simples o dobles.
+   - Ejemplo:
+```python
+mensaje = "Bienvenido a Python"
+```
+
+5. **Booleanos** (`bool`):
+   - Solo pueden ser `True` o `False`.
+   - Ejemplo:
+```python
+es_valido = True
+```
+
+### ➕ **Operadores importantes en Python**
+- **Aritméticos**: 
+  - Suma (`+`), resta (`-`), multiplicación (`*`), división (`/`), división entera (`//`), exponente (`**`), módulo (`%`).
+
+- **Booleanos**: 
+  - `and`, `or`, `not`.
+
+- **Relacionales**:
+  - Igual (`==`), distinto (`!=`), menor (`<`), mayor (`>`), menor o igual (`<=`), mayor o igual (`>=`).
