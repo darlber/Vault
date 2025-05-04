@@ -11,20 +11,21 @@ sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/packages-pgadmin-org.gpg] h
 
 Install pgAdmin
 Install for both desktop and web modes:
-	``sudo apt install pgadmin4
+	`sudo apt install pgadmin4`
 
 Install for desktop mode only:
-	``sudo apt install pgadmin4-desktop
+	`sudo apt install pgadmin4-desktop`
 
 Install for web mode only:
-	``sudo apt install pgadmin4-web
+	`sudo apt install pgadmin4-web`
 
 Configure the webserver, if you installed pgadmin4-web:
-	``sudo /usr/pgadmin4/bin/setup-web.sh
+	`sudo /usr/pgadmin4/bin/setup-web.sh`
 
 Probamos el acceso a pgAdmin4 desde la Web con http://localhost/pgadmin4
 
 Posible configuración:
+```
 	Name: Odoo
 	Host name/address: localhost
 	Port: 5432
@@ -32,3 +33,4 @@ Posible configuración:
 	Username: usuario
 	Password: ***********
 	Save password?: Yes
+	```
