@@ -21,8 +21,8 @@ pero se debe de comprobar.
 **Hosts**. Windows, la personalización de Hosts nos permitirá utilizar un nombre de la máquina virtual para acceder por Web sin usar la IP, de forma más natural.
 
 1. Primero siempre actualizar
+`sudo apt update && sudo apt upgrade`
 
-``sudo apt update && sudo apt upgrade
 2. Instalamos PostgreSQL:
 
 ``sudo apt install postgresql -y
