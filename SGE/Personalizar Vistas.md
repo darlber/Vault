@@ -88,3 +88,4 @@ Installable: true quiere decir que se puede instalar; mientras que application:f
     <menuitem id="menu_ver_empresas_action" name="Formulario de Contacto" parent="menu_ver_empresas" action="action_contact_form"/>
 </odoo>
 ```
+
