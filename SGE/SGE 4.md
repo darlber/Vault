@@ -191,14 +191,14 @@ Funciones principales:
 3. Añadir campos nuevos  
 4. Crear nuevos informes  
 5. Enviar informes al servidor  
-  
+
 Flujo de trabajo:  
-	1. Abrir informe:  
-		- Documento con texto estático y campos en gris  
-	2. Modificar informe:  
-		- Añadir texto, cambiar formato, campos, colores, etc.  
-	3. Enviar informe al servidor:  
-		- Se convierte automáticamente a RML  
+1. Abrir informe:  
+	- Documento con texto estático y campos en gris  
+2. Modificar informe:  
+	- Añadir texto, cambiar formato, campos, colores, etc.  
+3. Enviar informe al servidor:  
+	- Se convierte automáticamente a RML  
 
 Campos son sustituidos por sus valores al generar el informe  
 Convertir entre formatos:  
