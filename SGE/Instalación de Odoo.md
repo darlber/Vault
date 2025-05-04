@@ -39,7 +39,6 @@ pero se debe de comprobar.
 
 Obtenemos dependencias
 ```
-
 wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/share/keyrings/odoo-archive-keyring.gpg
  echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/17.0/nightly/deb/ ./' | sudo tee/etc/apt/sources.list.d/odoo.list
 ```
@@ -49,41 +48,42 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
 ---
 Otra opción para instalar resulta:
 Dependencias:
-``sudo apt-get install git python3 python3-pip build-essential wget python3-dev python3-venv python3-wheel libxslt-dev libzip-dev libldap2-dev libsasl2-dev python3- setuptools node-less libjpeg-dev gdebi -y
+```
+sudo apt-get install git python3 python3-pip build-essential wget python3-dev python3-venv python3-wheel libxslt-dev libzip-dev libldap2-dev libsasl2-dev python3- setuptools node-less libjpeg-dev gdebi -y
 
-``sudo apt-get install nodejs npm -y
-``sudo npm install -g rtlcss
+`sudo apt-get install nodejs npm -y`
+`sudo npm install -g rtlcss`
 
-``sudo apt-get install git
-``git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo
-
+`sudo apt-get install git`
+`git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo`
+```
 --- 
 
 5. Upgrade
-``sudo apt-get upgrade
+`sudo apt-get upgrade`
 
 6. Comprobación de status de ambos servicios
 
-``sudo systemctl status odoo
-``sudo systemctl status postgresql
+`sudo systemctl status odoo`
+`sudo systemctl status postgresql`
 
 7.  Archivos de configuración
 Paramos los dos servicios
-``sudo systemctl stop odoo
-``sudo systemctl stop postgresql
+`sudo systemctl stop odoo`
+`sudo systemctl stop postgresql`
 
-``sudo nano /etc/postgresql/xx/main/postgresql.conf
+`sudo nano /etc/postgresql/xx/main/postgresql.conf`
 descomentamos 
-``listen_addresses = ‘*’
+`listen_addresses = ‘*’`
 
-``sudo nano /etc/postgresql/xx/main/pg_hba.conf
+`sudo nano /etc/postgresql/xx/main/pg_hba.conf`
 Añadimos en IPV4
 host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
 type   database   user               direccion             encriptado
 
 ``sudo nano /etc/odoo-server.conf
 
-
+```
 `admin_passwd = {user_odoo_password}`
 `db_host = localhost`
 `db_port = False`
@@ -92,12 +92,12 @@ type   database   user               direccion             encriptado
 `addons_path = /opt/odoo/odoo/addons,/opt/odoo/odoo/custom-addons`
 `default_productivity_apps = True`
 `xmlrpc_port = 8069`
-
+```
 8.  Reload de servicios
 
-`` sudo systemctl enable odoo
-``sudo systemctl enable postgresql
-``sudo systemctl start odoo
-``sudo systemctl start postgresql
+`sudo systemctl enable odoo`
+`sudo systemctl enable postgresql`
+`sudo systemctl start odoo`
+`sudo systemctl start postgresql`
 
 
