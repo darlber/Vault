@@ -20,9 +20,6 @@ Dentro de esta carpeta, crearemos un archivo `__manifest__` que contenga la info
 Installable: true quiere decir que se puede instalar; mientras que application:false, quiere decir que no lo vamos a mostrar junto al resto de aplicaciones como «Ventas», o «Inventario»
 ## Definición de vista:
 
-1. En URL dentro de odoo, buscar el model="loquesea".
-2. Tag `<data>` no es necesario a partir de Odoo 10+
-3. 
 ```
 <odoo>
     <data>
