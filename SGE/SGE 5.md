@@ -312,3 +312,144 @@ Para definir una función en Python utilizamos la palabra clave `def`, seguida d
 ```python
 def nombre_funcion(parámetro1, parámetro2,...):
 # Instrucciones de la función
+```
+#### **Funciones que devuelven valores**
+
+Una función puede devolver un valor utilizando la palabra clave `return`. Esto permite que el resultado de la función sea utilizado en otras partes del programa.
+
+- Ejemplo de función que devuelve el cuadrado:
+```python
+def cuadrado(numero):
+return numero ** 2
+```
+
+### 🧑‍💻 **Clases y Objetos en Python**
+
+En Python, los programas orientados a objetos están formados por **clases** y **objetos**. Las **clases** son plantillas para crear **objetos**, y un **objeto** es una instancia de una clase. Un objeto tiene **atributos** y **métodos** que definen sus características y comportamientos.
+
+#### 1. **Definición de una clase**
+
+Las clases se definen usando la palabra clave `class`, seguida del nombre de la clase y dos puntos. Dentro de la clase, los métodos y atributos se definen con sangrías.
+
+- Ejemplo de una clase `Persona`:
+```python
+  class Persona:
+      def __init__(self, nombre, edad):
+          self.nombre = nombre
+          self.edad = edad
+
+      def mayordeedad(self):
+          if self.edad > 18:
+              print("Es mayor de edad")
+          else:
+              print("No es mayor de edad")
+```
+
+#### 2. **Método `__init__`**
+
+El método `__init__` se usa para **inicializar** los atributos de un objeto cuando se crea una nueva instancia de la clase.
+
+- **Self**: el primer argumento `self` se usa para referirse al objeto actual y acceder a sus atributos y métodos.
+    
+
+#### 3. **Creación de un objeto**
+
+Para crear un objeto de una clase, usamos la clase y pasamos los parámetros necesarios a su constructor:
+```python
+empleado = Persona("Javier", 32)
+```
+
+#### 4. **Acceder a atributos y métodos**
+
+Una vez que tenemos un objeto, podemos acceder a sus atributos y métodos con la sintaxis `objeto.atributo` y `objeto.método`.
+
+- Ejemplo:
+
+```python
+print(empleado.nombre, "tiene", empleado.edad)
+empleado.mayordeedad()
+```
+### 📦 **Módulos y Paquetes en Python**
+
+Los **módulos** en Python son archivos con extensión `.py` que contienen definiciones y declaraciones de código. Nos permiten **organizar** y **reutilizar** el código de manera eficiente.
+
+#### 1. **¿Por qué usar módulos?**
+
+- **Facilitan el mantenimiento**: Al dividir el código en partes más pequeñas.
+- **Reutilización de código**: Funciones y clases definidas en un módulo pueden ser utilizadas en varios programas.
+
+#### 2. **Uso de módulos**
+
+Cuando salimos del intérprete, cualquier código o variable definida desaparece. Para **conservar** los programas y hacerlos más fáciles de ejecutar y mantener, los guardamos en archivos `.py`.
+
+#### 3. **Importar un módulo**
+
+Para utilizar un módulo en otro archivo, usamos la instrucción `import`:
+
+- Ejemplo:
+```python
+  import mi_modulo
+```
+#### 4. **Paquetes**
+
+Un paquete es una colección de módulos organizados en un directorio. Puede contener submódulos y otros paquetes. Para importar módulos de un paquete, utilizamos la misma sintaxis `import` y hacemos referencia al nombre del paquete y submódulo.
+
+- Ejemplo:
+
+```python
+  import paquete.submodulo
+```
+
+### 📚 **Librerías de Funciones (APIs) en Python**
+
+Una **API** (Interfaz de Programación de Aplicaciones), o Biblioteca de Clases, es un conjunto de clases y funciones útiles que los programadores pueden usar en sus programas. Python proporciona una API estándar, cuyo código fuente está disponible de forma libre y es accesible desde el sitio web oficial de Python. Además, existen muchos módulos de terceros que se pueden descargar y utilizar.
+
+#### 1. **Biblioteca Estándar de Python**
+
+Algunos de los módulos más populares de la biblioteca estándar incluyen:
+
+- **`os`**: Proporciona funciones para interactuar con el sistema operativo, como crear archivos, manipular directorios, leer/escribir archivos, manejar rutas, etc.
+- **`sys`**: Permite acceder a información sobre el intérprete de Python, como parámetros del sistema, variables de entorno y más.
+- **`datetime`**: Permite la manipulación de fechas y horas.
+- **`math`**: Contiene funciones matemáticas comunes.
+
+Estas librerías son esenciales para facilitar tareas cotidianas de programación y mejorar la eficiencia del código.
+
+### 🗃 **Inserción, Modificación y Eliminación de Datos en Objetos (Módulos de Odoo)**
+
+Para trabajar con módulos en Odoo y manipular datos en la base de datos, es necesario estructurar correctamente los archivos y directorios del módulo. A continuación se explica cómo crear un módulo básico que interactúe con la base de datos mediante inserción, modificación y eliminación de datos.
+
+#### Estructura de un Módulo en Odoo
+
+1. **Ruta de los módulos**: Los módulos se guardan en la carpeta **`addons`**. En una instalación estándar de Ubuntu, esta ruta suele ser `/usr/lib/python3/dist-packages/odoo/addons`.
+
+2. **Archivos necesarios para el módulo**:
+   - **`__init__.py`**: Este archivo convierte la carpeta en un paquete Python. Contiene los import de los archivos de código Python dentro del módulo.
+   - **`__manifest__.py`**: Contiene la descripción del módulo en formato de diccionario Python, como el autor, la versión y las dependencias de otros módulos.
+   - **`nombre_modulo.py`**: Este archivo define la clase que representará el modelo de datos, como una tabla en la base de datos, junto con su comportamiento y campos.
+   - **`nombre_modulo_view.xml`**: Define la vista de los objetos creados por el módulo. Necesita conocimientos básicos de XML para su creación.
+
+#### Ejemplo de Creación de un Módulo
+
+En **`nombre_modulo.py`**, se crea una clase que define el modelo (tabla) y el comportamiento (métodos) de los objetos:
+```python
+class MiObjeto(models.Model):
+    _name = 'mi.objeto'
+    _description = 'Mi Objeto'
+    
+    nombre = fields.Char('Nombre', required=True)
+    descripcion = fields.Text('Descripción')
+```
+
+<odoo>
+    <record id="view_mi_objeto_form" model="ir.ui.view">
+        <field name="name">mi.objeto.form</field>
+        <field name="model">mi.objeto</field>
+        <field name="arch" type="xml">
+            <form string="Mi Objeto">
+                <field name="nombre"/>
+                <field name="descripcion"/>
+            </form>
+        </field>
+    </record>
+</odoo>
