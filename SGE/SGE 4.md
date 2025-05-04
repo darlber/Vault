@@ -193,18 +193,19 @@ Funciones principales:
 5. Enviar informes al servidor  
   
 Flujo de trabajo:  
-	Abrir informe:  
-		Documento con texto estático y campos en gris  
-	Modificar informe:  
-		Añadir texto, cambiar formato, campos, colores, etc.  
-	Enviar informe al servidor:  
-		Se convierte automáticamente a RML  
+	1. Abrir informe:  
+		- Documento con texto estático y campos en gris  
+	2. Modificar informe:  
+		- Añadir texto, cambiar formato, campos, colores, etc.  
+	3. Enviar informe al servidor:  
+		- Se convierte automáticamente a RML  
+
 Campos son sustituidos por sus valores al generar el informe  
-	Convertir entre formatos:  
-	Nuevo formato a antiguo:  
-		Menú: Odoo Report Designer > Conversion Brackets → Fields  
-	Antiguo a nuevo formato:  
-		Menú: Odoo Report Designer > Conversion Fields → Brackets  
+Convertir entre formatos:  
+Nuevo formato a antiguo:  
+	- Menú: Odoo Report Designer > Conversion Brackets → Fields  
+Antiguo a nuevo formato:  
+	- Menú: Odoo Report Designer > Conversion Fields → Brackets  
 # Exportación de datos
 RML (Report Markup Language):  
 - Descripción: Formato descriptor para la generación de documentos impresos, basado en XML similar al HTML. 
@@ -221,11 +222,10 @@ Estructura de un documento RML:
 
 
 Pasos para exportar a RML:  
-
-	Acceder al menú:
-	Odoo Report Designer > Export to RML  
-	Guardar archivo RML:  
-	Ubicar en el directorio addons del servidor, dentro del directorio report del módulo correspondiente.  
+- Acceder al menú:
+- Odoo Report Designer > Export to RML  
+- Guardar archivo RML:  
+- Ubicar en el directorio addons del servidor, dentro del directorio report del módulo correspondiente.  
 # Traspaso de datos
 Objetivo:  
 Importar datos del sistema antiguo al nuevo ERP, garantizando la integridad y precisión de la información.  
