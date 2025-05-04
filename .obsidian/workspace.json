@@ -15,7 +15,7 @@
               "state": {
                 "file": "SGE/SGE 5.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "SGE 5"

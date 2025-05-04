@@ -441,6 +441,9 @@ class MiObjeto(models.Model):
     descripcion = fields.Text('Descripción')
 ```
 
+En **`nombre_modulo_view.xml`**, se define la vista del objeto:
+
+```xml
 <odoo>
     <record id="view_mi_objeto_form" model="ir.ui.view">
         <field name="name">mi.objeto.form</field>
@@ -453,3 +456,206 @@ class MiObjeto(models.Model):
         </field>
     </record>
 </odoo>
+```
+#### Módulo `base_module_record`
+
+Para crear módulos sin necesidad de escribir código, podemos usar el módulo **`base_module_record`**, que graba las acciones realizadas en la aplicación (similar a las macros en programas de oficina). Este módulo genera un archivo comprimido con la estructura del módulo, que luego se puede colocar en la carpeta `addons` para instalarlo como cualquier otro módulo.
+
+## 🛠 Entornos y Herramientas de Desarrollo en Sistemas ERP-CRM (Caso práctico)
+
+Juan ha comenzado a desarrollar módulos para un sistema ERP-CRM (como Odoo) y necesita un entorno más eficiente que el intérprete de Python. A medida que el código crece, usar un entorno de desarrollo (IDE) se vuelve fundamental para mejorar la productividad, facilitar la depuración y manejar mejor la sintaxis.
+
+### 🔍 ¿Qué es un Entorno de Desarrollo?
+
+Un **IDE** (Entorno de Desarrollo Integrado) es una aplicación que facilita la programación, al incluir:
+- Editor de texto especializado
+- Navegador de archivos
+- Asistentes de compilación
+- Herramientas de depuración
+- Ejecución del código integrada
+
+### 🧰 Opciones de Entornos para Python y Odoo
+
+#### 1. **IDLE**
+- Viene incluido con Python.
+- Sencillo y funcional para proyectos pequeños.
+- Permite revisar la sintaxis (`Run > Check Module`) y ejecutar el código (`Run > Run Module`).
+- Disponible en la mayoría de plataformas, se puede instalar desde Synaptic en Ubuntu.
+
+#### 2. **Gedit con plugin para Odoo**
+- Editor de texto extendido con fragmentos de código específicos para Odoo.
+- Mejora la productividad al insertar estructuras comunes sin necesidad de recordar toda la sintaxis.
+- Ligero y fácil de usar.
+
+#### 3. **Eclipse con soporte para Python**
+- Entorno de desarrollo muy completo.
+- Soporta programación en múltiples lenguajes.
+- Puede extenderse con plantillas específicas para Odoo.
+- Ideal para proyectos grandes o desarrollo colaborativo.
+
+---
+
+Estos entornos permiten a desarrolladores como Juan gestionar proyectos complejos en Odoo con mayor eficiencia y control, facilitando tanto la escritura de código como su organización y depuración.
+
+## 🐞 Depuración de un Programa en Python
+
+La **depuración** es un proceso clave en el desarrollo de software. Nos permite encontrar y corregir errores en el código, mejorando la fiabilidad del programa.
+
+### 🔧 Herramientas de Depuración en Python
+
+Python incluye una herramienta de depuración en su biblioteca estándar: `pdb`.
+
+- **pdb** permite:
+  - Añadir puntos de interrupción
+  - Ejecutar paso a paso
+  - Inspeccionar valores de variables
+  - Salir de funciones o continuar la ejecución
+
+### 🖥 Depuración en el Entorno IDLE
+
+El entorno **IDLE** incluye un depurador gráfico integrado que facilita el proceso de depuración, ideal para quienes prefieren no trabajar en consola.
+
+#### ✅ Activar el depurador en IDLE
+
+- Ir a `Debug > Debugger` en el menú.
+- Establecer puntos de parada con clic derecho sobre la línea deseada.
+- Ejecutar el programa para que el depurador se detenga en ese punto.
+
+#### 🔄 Funciones principales del depurador
+
+| Acción | Descripción |
+|--------|-------------|
+| **Go** | Ejecuta el programa hasta el siguiente punto de ruptura |
+| **Step** | Ejecuta el código línea a línea |
+| **Over** | Ejecuta la línea actual sin entrar en funciones llamadas |
+| **Out** | Ejecuta hasta salir de la función actual |
+| **Quit** | Finaliza la ejecución del programa |
+
+---
+
+El uso de herramientas gráficas como el depurador de IDLE permite ahorrar tiempo y entender mejor el comportamiento del programa en tiempo real.
+
+## ⚠️ Manejo de Errores en Python
+
+Cuando se produce un fallo durante la ejecución de un programa, se genera una **excepción**. Si no se controla, el programa se interrumpe.
+
+### 🧠 ¿Qué es una excepción?
+
+Una **excepción** es un error detectado por el intérprete. Por ejemplo:
+
+```python
+def dividir(a, b): 
+    return a / b
+
+dividir(3, 0)
+```
+Este código lanzará:
+
+```python
+ZeroDivisionError: integer division or modulo by zero
+```
+
+### Captura de Excepciones con `try - except`
+
+Para evitar que el programa se detenga abruptamente, usamos la estructura `try - except`:
+
+```python
+try:
+    def dividir(a, b): 
+        return a / b
+
+    dividir(1, 0)
+
+except:
+    print("Ha ocurrido un error")
+```
+## 🧾 Formularios e Informes en Sistemas ERP-CRM (Odoo)
+
+### 📄 Formularios: Interfaz del Módulo
+
+En Odoo, los **formularios** permiten interactuar con los objetos definidos en el módulo. Para que un módulo sea funcional, además del modelo (`nombre_modulo.py`), es necesario crear:
+
+- **Menús**
+- **Acciones**
+- **Vistas** (formulario y árbol)
+
+Todo esto se describe en el archivo `nombre_modulo_view.xml`.
+
+> ⚠️ Este archivo debe estar declarado en el `__manifest__.py` para que sea cargado por Odoo.
+
+### 🛠 XML como herramienta de definición
+
+El diseño de vistas se realiza en **XML**, que permite definir la estructura del formulario. María, por ejemplo, ha creado una **plantilla XML reutilizable** que incluye:
+
+- Creación de menú
+- Acción asociada
+- Vista tipo formulario
+- Vista tipo árbol
+
+Luego solo necesita modificar los nombres para generar vistas nuevas.
+
+### 📊 Informes en Odoo
+
+Existen dos tipos principales de informes:
+
+- **Estadísticos**: generados en pantalla con herramientas como `base_report_creator`, que permiten gráficos y listados.
+- **Impresos**: generados con herramientas externas o integradas, utilizados para reportes físicos.
+
+Ambos tipos son fundamentales para visualizar y exportar datos del sistema de forma útil y accesible.
+
+## 🧩 Arquitectura de Formularios e Informes en Odoo
+
+Los **formularios y vistas** en Odoo son generados dinámicamente a partir de archivos **XML**, los cuales describen cómo debe presentarse y comportarse la interfaz del cliente. Estos elementos están estructurados por medio de **etiquetas XML**, que definen acciones, vistas, menús y otras funcionalidades.
+
+---
+
+### 📁 Estructura del módulo: `__manifest__.py`
+
+Este archivo especifica qué archivos XML deben cargarse al instalar el módulo:
+
+```python
+'data': [
+    'templates.xml',
+    'views/openacademy.xml',
+],
+```
+
+### 📄 Vista XML típica (`openacademy.xml`)
+
+#### ▶️ Acción (Window Action)
+
+```xml
+<record model="ir.actions.act_window" id="course_list_action">
+    <field name="name">Courses</field>
+    <field name="res_model">openacademy.course</field>
+    <field name="view_mode">tree,form</field>
+</record>
+```
+#### 📂 Menús
+
+```xml
+<menuitem id="main_openacademy_menu" name="Open Academy"/>
+<menuitem id="openacademy_menu" name="Open Academy" parent="main_openacademy_menu"/>
+<menuitem id="courses_menu" name="Courses" parent="openacademy_menu" action="course_list_action"/>
+```
+
+🧾 Ejemplo de vista de tipo formulario
+
+```xml
+<record model="ir.ui.view" id="view_agenda_form">
+    <field name="name">agenda</field>
+    <field name="model">agenda</field>
+    <field name="type">form</field>
+    <field name="priority" eval="5"/>
+    <field name="arch" type="xml">
+        <form string="Agenda">
+            <field name="nombre" select="1"/>
+            <field name="telefono" select="1"/>
+        </form>
+    </field>
+</record>
+```
+
+### 📋 Menú y acción para acceder a la vista
+
+#### Menús
