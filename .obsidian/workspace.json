@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/Personalizar Vistas.md",
+                "file": "SGE/SGE 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personalizar Vistas"
+              "title": "SGE 3"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SGE/pgAdmin4.md",
+                "file": "SGE/SGE 3.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pgAdmin4"
+              "title": "Outline of SGE 3"
             }
           },
           {
@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6efaa43bfbeaa9",
+  "active": "4c6aae0b20b71264",
   "lastOpenFiles": [
-    "SGE/Instalación de Odoo.md",
     "SGE/Personalizar Vistas.md",
+    "SGE/Instalación de Odoo.md",
     "SGE/pgAdmin4.md",
     "SGE/SGE 4.md",
     "SGE/SGE 3.md",
