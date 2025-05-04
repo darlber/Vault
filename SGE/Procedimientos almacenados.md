@@ -21,9 +21,9 @@ END;
 $$;
 ```
 
-## Trigger: 
+# Trigger: 
 
-Tabla: 
+## Tabla: 
 
 ```
 CREATE TABLE milog (
@@ -33,7 +33,7 @@ CREATE TABLE milog (
 );
 ```
 
-Función: 
+## Función: 
 
 ```
 CREATE OR REPLACE FUNCTION log_nuevo_cliente()
@@ -48,7 +48,7 @@ END;
 $$;
 ```
 
-Trigger:
+## Trigger:
 
 ```
 CREATE TRIGGER trigger_log_nuevo_cliente
@@ -57,8 +57,15 @@ FOR EACH ROW
 EXECUTE FUNCTION log_nuevo_cliente();
 ```
 
-Prueba: 
+### Prueba: 
 
 ```
-
+INSERT INTO res_partner (name, create_uid, create_date, autopost_bills)
+VALUES ('Nuevo Cliente', 2, NOW(), false);
 ```
+
+> Name: nombre del usuario> 
+> Create_uid: id del usuario que está creando la fila dentro del registro
+> Create_date: momento de creación> 
+> Autopost_bills: campo booleano not null para la creación automática de facturas. Falso por defecto.
+
