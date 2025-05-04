@@ -1,17 +1,20 @@
 En Odoo, las vistas se definen utilizando archivos XML. Comenzamos navegando hasta la carpeta «addons» y creando una carpeta (modulo) que contenga la view.
 ``mkdir /opt/odoo18/odoo18/addons/formSSGG
 Dentro de esta carpeta, crearemos un archivo `__manifest__` que contenga la información del módulo.
-`{`
-`'name' : 'formSSGG',`
-`'version' : '1.0',`
-`'depends' : ['base'],`
-`'data' : [
-``         'views/formSSGG.xml,
-``         'views/menuSSGG.xml,
-``],`
-`'installable' : True,`
-`'application' : False,`
-`}`
+```
+{
+'name' : 'formSSGG',
+'version' : '1.0',
+'depends' : ['base'],
+'data' : [
+         'views/formSSGG.xml,
+         'views/menuSSGG.xml,
+],`
+'installable' : True,
+'application' : False,
+}
+```
+
 
 Installable: true quiere decir que se puede instalar; mientras que application:false, quiere decir que no lo vamos a mostrar junto al resto de aplicaciones como «Ventas», o «Inventario»
 ## Definición de vista:
