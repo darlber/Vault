@@ -245,10 +245,9 @@ Pasos clave del proceso:
 6. Importar los datos al ERP.  
 
 Formato CSV:  
-
-	Separadores de campo: ; (punto y coma).  
-	Separador de texto: " (comillas dobles).  
-	Primera fila: Nombres de los ==campos== deben coincidir con el idioma configurado en las preferencias.  
+- Separadores de campo: ; (punto y coma).  
+- Separador de texto: " (comillas dobles).  
+- Primera fila: Nombres de los ==campos== deben coincidir con el idioma configurado en las preferencias.  
 
 Revisar tablas secundarias:  Asegurarse de que las categorías o campos necesarios existan en las tablas (ej. res.partner.category).  
 # Planificación de la implantación
@@ -383,37 +382,37 @@ Finalización de la Implantación:
 6. Rendimiento del sistema: Asegurarse de que no haya errores, sobrecargas o caídas inesperadas del sistema.  
   
 # Factores de Éxito de la Implantación de un ERP 
-Factores Clave para el Éxito:  
-	Liderazgo claro y comprometido.  
-	Definición precisa de los objetivos.  
-	Dotación de Medios Adecuada:  
-		Recursos humanos, técnicos y financieros suficientes  
-		Implicación y Compromiso de Toda la Organización
-		Involucrar a todos los departamentos y usuarios desde el principio.  
+- Factores Clave para el Éxito:  
+	- Liderazgo claro y comprometido.  
+	- Definición precisa de los objetivos.  
+	- Dotación de Medios Adecuada:  
+		- Recursos humanos, técnicos y financieros suficientes  
+		- Implicación y Compromiso de Toda la Organización
+		- Involucrar a todos los departamentos y usuarios desde el principio.  
 
-Causas Comunes de Fracaso en la Implantación de un ERP:  
-	Falta de Liderazgo del Equipo Directivo:  
-	Objetivos poco claros.    
-	Falta de compromiso para implementar el cambio.  
-	Resistencia al Cambio:  
-		Desconfianza hacia los consultores externos.  
-	Poca o mala formación de los usuarios.  
-	Habituación de los empleados a la antigua forma de trabajo.  
-	Consultores Inexpertos:  
-		Falta de experiencia y formación en la implantación de ERP.  
-	ERP Poco Flexible:  
-		Dificultad en la configuración y modificaciones.  
-	Interfaz Poco Amigable:  
-		Dificultad de los usuarios para adaptarse a la nueva herramienta.  
-	Funcionalidades No Cubiertas por el ERP:  
-		El ERP no cubre todas las necesidades funcionales inicialmente atribuidas.  
-	Falta de Recursos y Capacidad del Proyecto:  
-		Insuficientes recursos humanos o técnicos.  
-	Falta de tiempo para dedicar al proyecto.  
+- Causas Comunes de Fracaso en la Implantación de un ERP:  
+	- Falta de Liderazgo del Equipo Directivo:  
+	- Objetivos poco claros.    
+	- Falta de compromiso para implementar el cambio.  
+	- Resistencia al Cambio:  
+		- Desconfianza hacia los consultores externos.  
+	- Poca o mala formación de los usuarios.  
+	- Habituación de los empleados a la antigua forma de trabajo.  
+	- Consultores Inexpertos:  
+		- Falta de experiencia y formación en la implantación de ERP.  
+	- ERP Poco Flexible:  
+		- Dificultad en la configuración y modificaciones.  
+	- Interfaz Poco Amigable:  
+		- Dificultad de los usuarios para adaptarse a la nueva herramienta.  
+	- Funcionalidades No Cubiertas por el ERP:  
+		- El ERP no cubre todas las necesidades funcionales inicialmente atribuidas.  
+	- Falta de Recursos y Capacidad del Proyecto:  
+		- Insuficientes recursos humanos o técnicos.  
+	- Falta de tiempo para dedicar al proyecto.  
 	
-Soluciones para Evitar el Fracaso:  
-	Identificación de Puntos Críticos:  
-		Analizar los problemas desde el principio y abordarlos de manera prioritaria.  
-	Concienciación y Colaboración:  
-		Asegurar que todos los usuarios comprendan que la implantación no es un proceso trivial y que su participación es esencial.  
-		Invertir en formación adecuada para todos los empleados involucrados.
+- Soluciones para Evitar el Fracaso:  
+	- Identificación de Puntos Críticos:  
+		- Analizar los problemas desde el principio y abordarlos de manera prioritaria.  
+	- Concienciación y Colaboración:  
+		- Asegurar que todos los usuarios comprendan que la implantación no es un proceso trivial y que su participación es esencial.  
+		- Invertir en formación adecuada para todos los empleados involucrados.
