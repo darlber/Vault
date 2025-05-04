@@ -227,22 +227,25 @@ Comando para instalar SSH Server en Ubuntu:
   
 `sudo apt-get install openssh-server`
   
-– Instalación y configuración de asistencia remota VNC en servidores Windows  
-  
-🖥️ Acceder a un servidor Windows remotamente con UltraVNC  
-Pasos para configurar el servidor VNC en Windows:  
-  
 ### UltraVNC:  
   
 Al instalar UltraVNC en Windows, se incluye el cliente y el servidor.
+
 Para usar el servidor, se ejecuta desde Inicio > Programas > UltraVNC > UltraVNC server.
+
 Aparecerá un icono azul junto al reloj indicando que está activo.
+
 Es crucial configurar una contraseña de conexión.
+
 Se puede acceder desde otro equipo usando un visor VNC (como vncviewer o UltraVNC viewer).
+
 Para cerrar la conexión:
+
     En Ubuntu: Ctrl+C
     En Windows: Botón "Cerrar" de la ventana.
+
 El firewall puede bloquear la conexión; se puede desactivar temporalmente como solución rápida.
+
 Si los equipos están en redes distintas, se deben abrir los puertos 5900-5999 en el router.
 
 Relación de herramientas y utilidad:  

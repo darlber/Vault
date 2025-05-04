@@ -149,10 +149,11 @@ Ejemplo de uso:
 (toma 3 mediciones cada 1 segundo).  
   
 Parámetros útiles de sar:   
-Procesador: `sar -P ALL`
-Memoria: `sar -r`
-Red: `sar -n DEV`
-Disco: `sar -d`
+
+	Procesador: `sar -P ALL`
+	Memoria: `sar -r`
+	Red: `sar -n DEV`
+	Disco: `sar -d`
 
 # Auditorías de control de acceso a los datos y logs:  
   

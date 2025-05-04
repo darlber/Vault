@@ -283,48 +283,48 @@ Acción: Revisar el funcionamiento del sistema y realizar ajustes en base al *fe
 8. Finalización del proyecto  
 Acción: Evaluar el éxito del proyecto, documentar lecciones aprendidas y formalizar la conclusión del proceso de implantación.  
 # Configuración del sistema
-Objetivo: Ajustar el ERP a las necesidades de la empresa, gestionando usuarios, permisos y accesos.  
-Asignación de Usuarios y Permisos:  
-	Crear usuarios según roles (administradores, ventas, finanzas, etc.).  
-	Asignar permisos adecuados según las necesidades de cada rol.  
-Pantallas de Bienvenida:  
-	Personalizar pantallas para cada grupo de usuarios con funciones relevantes.  
-Accesos a Tablas de la Base de Datos:  
-	Definir qué tablas pueden consultar o modificar los usuarios (clientes, productos, ventas, inventarios, etc.).  
-Ajustes Generales del Sistema:  
-	Personalizar la apariencia del sistema y herramientas de análisis.  
-Seguridad y Control de Accesos:  
-	Establecer roles y permisos específicos para evitar accesos no autorizados.  
-Seguridad: Evitar cambios no autorizados.   
-Eficiencia: Cada usuario tiene acceso solo a lo que necesita.  
-Personalización: El sistema se adapta a las necesidades de cada área.  
+- Objetivo: Ajustar el ERP a las necesidades de la empresa, gestionando usuarios, permisos y accesos.  
+- Asignación de Usuarios y Permisos:  
+	- Crear usuarios según roles (administradores, ventas, finanzas, etc.).  
+	- Asignar permisos adecuados según las necesidades de cada rol.  
+- Pantallas de Bienvenida:  
+	- Personalizar pantallas para cada grupo de usuarios con funciones relevantes.  
+- Accesos a Tablas de la Base de Datos:  
+	- Definir qué tablas pueden consultar o modificar los usuarios (clientes, productos, ventas, inventarios, etc.).  
+- Ajustes Generales del Sistema:  
+	- Personalizar la apariencia del sistema y herramientas de análisis.  
+- Seguridad y Control de Accesos:  
+	- Establecer roles y permisos específicos para evitar accesos no autorizados.  
+- Seguridad: Evitar cambios no autorizados.   
+- Eficiencia: Cada usuario tiene acceso solo a lo que necesita.  
+- Personalización: El sistema se adapta a las necesidades de cada área.  
   
 Conclusión: La correcta configuración asegura un uso eficiente, seguro y adecuado del ERP.  
 # Control de acceso
-Objetivo: Gestionar quién puede acceder y realizar acciones dentro del ERP.  
-Usuarios y Grupos:  
-	Usuarios: Cada persona con acceso al sistema.  
-	Grupos: Colección de usuarios con permisos similares.  
-Un usuario puede pertenecer a uno o más grupos.  
-Crear grupos representativos de roles en la empresa (Ej. Departamento de Ventas).  
-Permisos por grupo: Los grupos determinan los permisos de acceso a menús y tablas.  
+- Objetivo: Gestionar quién puede acceder y realizar acciones dentro del ERP.  
+- Usuarios y Grupos:  
+	- Usuarios: Cada persona con acceso al sistema.  
+	- Grupos: Colección de usuarios con permisos similares.  
+- Un usuario puede pertenecer a uno o más grupos.  
+- Crear grupos representativos de roles en la empresa (Ej. Departamento de Ventas).  
+- Permisos por grupo: Los grupos determinan los permisos de acceso a menús y tablas.  
   
-Acceso a Menús y Objetos:  
-Menús: Qué menús puede ver cada grupo.  
-Objetos: Definir qué datos puede ver, crear, editar o eliminar cada grupo.  
-Ejemplo: El grupo Responsable de Ventas tiene acceso a las comisiones de ventas además de lo que tiene el grupo Comercial.  
+- Acceso a Menús y Objetos:  
+- Menús: Qué menús puede ver cada grupo.  
+- Objetos: Definir qué datos puede ver, crear, editar o eliminar cada grupo.  
+- Ejemplo: El grupo Responsable de Ventas tiene acceso a las comisiones de ventas además de lo que tiene el grupo Comercial.  
   
-Control de Acceso por Objetos:  
-Permite definir lo que un usuario puede hacer con los datos una vez accede a ellos.  
-Permisos por objeto (CRUD):  
-	Leer  
-	Escribir  
-	Crear  
-	Eliminar  
+- Control de Acceso por Objetos:  
+- Permite definir lo que un usuario puede hacer con los datos una vez accede a ellos.  
+- Permisos por objeto (CRUD):  
+	- Leer  
+	- Escribir  
+	- Crear  
+	- Eliminar  
 Configuración:  
-Gestionar usuarios: Menú Ajustes → Usuarios y compañías → Usuarios.  
-Gestionar grupos: Menú Ajustes → Usuarios y compañías → Grupos.  
-Definir permisos de acceso a objetos: Menú Ajustes → Técnicos → Seguridad → Permisos de acceso.  
+- Gestionar usuarios: Menú Ajustes → Usuarios y compañías → Usuarios.  
+- Gestionar grupos: Menú Ajustes → Usuarios y compañías → Grupos.  
+- Definir permisos de acceso a objetos: Menú Ajustes → Técnicos → Seguridad → Permisos de acceso.  
 
 Ventajas:  
 - Seguridad: Control total sobre quién puede hacer qué en el sistema.  

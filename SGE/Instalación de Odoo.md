@@ -46,6 +46,7 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
 
 ---
 Otra opción para instalar resulta:
+
 Dependencias:
 ```bash
 sudo apt-get install git python3 python3-pip build-essential wget python3-dev python3-venv python3-wheel libxslt-dev libzip-dev libldap2-dev libsasl2-dev python3- setuptools node-less libjpeg-dev gdebi -y

@@ -25,12 +25,11 @@ Configure the webserver, if you installed pgadmin4-web:
 Probamos el acceso a pgAdmin4 desde la Web con http://localhost/pgadmin4
 
 Posible configuración:
-```
-Name: Odoo
-Host name/address: localhost
-Port: 5432
-Maintenance database: postgres
-Username: usuario
-Password: ***********
-Save password?: Yes
-```
+
+	Name: Odoo
+	Host name/address: localhost
+	Port: 5432
+	Maintenance database: postgres
+	Username: usuario
+	Password: ***********
+	Save password?: Yes
