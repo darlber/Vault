@@ -25,10 +25,10 @@ pero se debe de comprobar.
 
 2. Instalamos PostgreSQL:
 
-``sudo apt install postgresql -y
+`sudo apt install postgresql -y`
 3. Usuario para PostgreSQL
 
-``sudo -u postgres createuser odoo -U postgres -dP
+`sudo -u postgres createuser odoo -U postgres -dP`
 
 > [!NOTE] sudo -u 
 > -u le dice al comando que ejecute como el usuario "postgres". Comando que ofrece sudo
@@ -38,11 +38,13 @@ pero se debe de comprobar.
 4. Instalamos Odoo
 
 Obtenemos dependencias
-``wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/share/keyrings/odoo-archive-keyring.gpg
-`` echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/17.0/nightly/deb/ ./' | sudo tee/etc/apt/sources.list.d/odoo.list
+```
 
-``sudo apt-get update
-``sudo apt-get install odoo
+wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/share/keyrings/odoo-archive-keyring.gpg
+ echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/17.0/nightly/deb/ ./' | sudo tee/etc/apt/sources.list.d/odoo.list
+```
+`sudo apt-get update`
+`sudo apt-get install odoo`
 
 ---
 Otra opción para instalar resulta:
