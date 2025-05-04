@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cfc5a5c03bf09d03",
@@ -183,12 +182,12 @@
   },
   "active": "6c6efaa43bfbeaa9",
   "lastOpenFiles": [
+    "SGE/Instalación de Odoo.md",
+    "SGE/Personalizar Vistas.md",
     "SGE/pgAdmin4.md",
     "SGE/SGE 4.md",
     "SGE/SGE 3.md",
     "SGE/SGE 2.md",
-    "SGE/Instalación de Odoo.md",
-    "SGE/Personalizar Vistas.md",
     "SGE/SSH.md",
     "SGE/a/Vault",
     "SGE/a",
