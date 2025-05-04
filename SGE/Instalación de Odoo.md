@@ -78,10 +78,12 @@ descomentamos
 
 `sudo nano /etc/postgresql/xx/main/pg_hba.conf`
 Añadimos en IPV4
+```
 host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
 type   database   user               direccion             encriptado
+```
 
-``sudo nano /etc/odoo-server.conf
+`sudo nano /etc/odoo-server.conf`
 
 ```
 `admin_passwd = {user_odoo_password}`
