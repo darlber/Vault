@@ -657,5 +657,34 @@ Este archivo especifica qué archivos XML deben cargarse al instalar el módulo:
 ```
 
 ### 📋 Menú y acción para acceder a la vista
-
+```xml
+<menuitem name="Agenda" id="menu_agenda_agenda_form"/>
+<menuitem name="Agenda" id="menu_agenda_form" parent="agenda.menu_agenda_agenda_form" action="action_agenda_form"/>
+```
 #### Menús
+```xml
+<record model="ir.actions.act_window" id="action_agenda_form">
+    <field name="res_model">agenda</field>
+    <field name="domain">[]</field>
+</record>
+```
+
+## 🛠️ TL;DR: Herramientas para la creación de formularios e informes en Odoo
+
+- **Formularios**:
+  - Se crean en archivos XML (`nombre_modulo_view.xml`).
+  - Definen vistas como formularios, árboles, menús, y acciones.
+
+- **Informes**:
+  - Varias herramientas disponibles:
+
+    - `base_report_creator`:  
+      Genera informes estadísticos y gráficos en pantalla.
+
+    - Extensión de OpenOffice/LibreOffice para Odoo:  
+      Permite diseñar informes visuales usando plantillas `.odt`.
+
+    - **Jasper Reports**:  
+      Librería avanzada que genera informes desde archivos `.jrxml` (XML).  
+      Produce salidas en PDF, HTML, Excel, etc.
+
