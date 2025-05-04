@@ -211,12 +211,12 @@ Para conectarte, usa el comando:
 `vncviewer IP_servidor`
   
 Windows -> UltraVNC
-`Ip_Servidor:0
+`Ip_Servidor:0`
   - `Ip_Servidor` la dirección IP del ordenador remoto.
 - `0` un número que indica la ventana en el que está el servidor remoto.
   
 ¿Cómo encontrar la IP del servidor?  
-``comando ifconfig en Ubuntu o ipconfig en Windows
+`comando ifconfig en Ubuntu o ipconfig en Windows`
  
 Después de iniciar sesión con la contraseña en el cliente VNC, aparecerá el escritorio del servidor y podrás controlarlo.  
   
@@ -225,7 +225,7 @@ Si el servidor no tiene entorno gráfico (común en servidores Ubuntu), la conex
   
 Comando para instalar SSH Server en Ubuntu:  
   
-``sudo apt-get install openssh-server  
+`sudo apt-get install openssh-server`
   
 – Instalación y configuración de asistencia remota VNC en servidores Windows  
   

@@ -141,16 +141,16 @@ Monitorización y evaluación del rendimiento:
 # Evaluación del rendimiento
 
 En servidores Linux se usa sar (incluido en el paquete sysstat) para medir rendimiento.  
-``sudo apt-get install sysstat  
+`sudo apt-get install sysstat`
 Ejemplo de uso:  
-``sar 1 3  
+`sar 1 3`
 (toma 3 mediciones cada 1 segundo).  
   
 Parámetros útiles de sar:   
-Procesador: sar -P ALL  
-Memoria: sar -r  
-Red: sar -n DEV  
-Disco: sar -d  
+Procesador: `sar -P ALL`
+Memoria: `sar -r`
+Red: `sar -n DEV`
+Disco: `sar -d`
 
 # Auditorías de control de acceso a los datos y logs:  
   
@@ -172,4 +172,4 @@ Los logs del sistema almacenan eventos y errores que ayudan a diagnosticar probl
 En Ubuntu, los logs se guardan en /var/log.  
   
 Para ver la actividad de Odoo, por ejemplo, puedes usar:  
-``sudo head /var/log/odoo/odoo-server.log  
+`sudo head /var/log/odoo/odoo-server.log`

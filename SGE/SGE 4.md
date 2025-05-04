@@ -98,8 +98,8 @@ Instalación manual en Odoo:
 Descargar módulo desde la web de Odoo → sección Apps  
 Filtrar por: categoría, pago, versión, nombre  
 Descomprimir ZIP en carpeta addons  
-``Windows: C:\Program Files (x86)\Odoo...\addons  
-``Linux: /usr/lib/python3/dist-packages/odoo/addons  
+`Windows: C:\Program Files (x86)\Odoo...\addons`
+`Linux: /usr/lib/python3/dist-packages/odoo/addons`
 Actualizar lista de apps en Odoo (menú Aplicaciones)  
 # Implantación en la empresa
 Adaptación del ERP según análisis previo  
