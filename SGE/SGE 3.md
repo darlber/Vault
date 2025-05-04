@@ -107,7 +107,7 @@ Trazabilidad: Seguir el recorrido del producto desde su entrada hasta su salida.
 Se usan para automatizar tareas en respuesta a eventos (ej. enviar correos o registrar pedidos automáticamente).  
   
 Hay dos formas principales:  
-- Procedimientos almacenados: Programas guardados en la base de datos, ejecutados manualmente o mediante disparadores.  
+- [[Procedimientos almacenados]]: Programas guardados en la base de datos, ejecutados manualmente o mediante disparadores.  
 - Eventos de servidor: Detectan acciones en la app y reaccionan automáticamente, creados desde los menús (no directamente en la base de datos).  
   
 En PostgreSQL, los procedimientos se crean con CREATE FUNCTION y se ejecutan con SELECT nombre_funcion();.  
