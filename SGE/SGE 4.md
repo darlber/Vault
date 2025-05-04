@@ -25,7 +25,7 @@ SaaS (Software como Servicio):
 	→ Ideal para pequeñas empresas  
 # Tipos de empresa y necesidades
 PyMES:  
-	- Gestión de clientes, proveedores, productos, compras, ventas, almacén.  
+	→ Gestión de clientes, proveedores, productos, compras, ventas, almacén.  
 Sector servicios:  
 	→ Módulo de gestión por proyectos.  
 Tiendas y restaurantes:  
@@ -48,6 +48,7 @@ Módulos no precargados:
 	→ Requieren carga manual previa  
 Módulos especiales para España:  
 	→ Archivos de localización española. Necesarios para:
+	
 		Ventas  
 		Compras  
 		Productos  
@@ -59,6 +60,7 @@ Módulos especiales para España:
 Objetivo:  
 → Estudiar el funcionamiento actual de la empresa antes de elegir ERP. 
 Áreas clave a analizar:  
+
 	Compras  
 	Ventas  
 	Marketing / CRM  
@@ -66,41 +68,38 @@ Objetivo:
 	Recursos Humanos  
 
 Aspectos a cubrir:  
-Datos maestros:  
+1. Datos maestros:  
 	→ ¿Qué datos necesita el ERP?  
-Procesos de negocio:  
+2. Procesos de negocio:  
 	→ Tareas por área  
 	→ Herramientas actuales  
 	→ ¿Se adaptan al ERP?  
-Informes necesarios:  
+3. Informes necesarios:  
 	→ Estándar del ERP o personalizados  
-Traspaso de información (crítico):  
+4. Traspaso de información (crítico):  
 	→ Migración automática o manual  
 	→ Revisar estructura y campos necesarios  
 	→ Asegurar datos completos en ERP  
-Planificación del proyecto:  
+5. Planificación del proyecto:  
 	→ Gestión organizada desde el inicio hasta el final  
 
-Resumen final:  
-	→ Reflejar procesos actuales y futuros  
-	→ Organizar implantación como proyecto empresarial estructurado  
-  
 Idea principal:  
-	→ Tras el análisis inicial, se seleccionan e instalan los módulos necesarios.  
+- Tras el análisis inicial, se seleccionan e instalan los módulos necesarios.  
 # Carga de módulos
 Precargados:  
-→ Ya están en el sistema → se instalan directamente  
+- Ya están en el sistema → se instalan directamente  
 (Ej.: base_report_creator)  
 No precargados:  
-→ Requieren descarga e instalación manual  
+- Requieren descarga e instalación manual  
 
 Instalación manual en Odoo:    
-Descargar módulo desde la web de Odoo → sección Apps  
-Filtrar por: categoría, pago, versión, nombre  
-Descomprimir ZIP en carpeta addons  
 
-`Windows: C:\Program Files (x86)\Odoo...\addons`
-`Linux: /usr/lib/python3/dist-packages/odoo/addons`
+	Descargar módulo desde la web de Odoo → sección Apps  
+	Filtrar por: categoría, pago, versión, nombre  
+	Descomprimir ZIP en carpeta addons  
+
+	Windows: C:\Program Files (x86)\Odoo...\addons
+	Linux: /usr/lib/python3/dist-packages/odoo/addons
 
 Actualizar lista de apps en Odoo (menú Aplicaciones)  
 # Implantación en la empresa
@@ -108,30 +107,30 @@ Adaptación del ERP según análisis previo
 [[SGE 2#Proceso instalación/configuración ERP]]
 
 Riesgos comunes:  
-	Retrasos en plazos  
-	Superar presupuesto  
-	Fallos funcionales  
-	Eventos imprevistos  
+1. Retrasos en plazos  
+2. Superar presupuesto  
+3. Fallos funcionales  
+4. Eventos imprevistos  
   
 Resistencia al cambio → clave del fracaso  
 # Consultas necesarias  
   
 Responsabilidad del proveedor ERP en implantación:  
-	Diseño y adaptación del sistema  
-	Puesta en marcha  
-	Soporte final  
+1. Diseño y adaptación del sistema  
+2. Puesta en marcha  
+3. Soporte final  
   
 Importancia del análisis inicial:  
-→ Proporciona requisitos clave para la implantación  
+- Proporciona requisitos clave para la implantación  
   
 Consultas mínimas comunes a casi todas las empresas:  
-	Datos de la empresa    
-	Clientes  
-	Proveedores  
-	Productos  
-	Almacén  
-	Información de compras y ventas  
-	Información financiera  
+- Datos de la empresa    
+- Clientes  
+- Proveedores  
+- Productos  
+- Almacén  
+- Información de compras y ventas  
+- Información financiera  
   
 # Crear objetos
 Paso previo:  
