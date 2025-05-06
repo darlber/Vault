@@ -37,6 +37,28 @@ pero se debe de comprobar.
 No es necesario asignar el usuario “odoo” al grupo “sudoers”, pero si fuera necesario:
 `sudo usermod -aG sudo odoo`
 
+Al consultar el estado del usuario “odoo”, podríamos obtener algo así:
+`odoo:x:1001:1001::/home/odoo:/usr/sbin/nologin`
+
+Pero en la instalación de Odoo, la carpeta del paquete se instala en /home/odoo, por lo que deberemos cambiarla (según tu instalación):
+`sudo usermod -d /opt/odoo odoo`
+
+Ahora, la consulta del usuario debe mostrar:
+`odoo:x:1001:1001::/opt/odoo:/usr/sbin/nologin`
+
+Asignación de Shell
+
+Al igual que la asignación del grupo “sudoers”, no es necesario que el usuario “odoo” pueda acceder a la Shell, comprobando el usuario vemos que, el campo final muestra:
+`/usr/sbin/nologin`
+
+Ello indica que no puede iniciar sesión. Para agregar “odoo” a /bin/bash (donde se almacenan todos los accesos de Shell de usuarios):
+`sudo chsh -s /bin/bash odoo`
+
+Ahora, al consultar la situación del usuario, el campo final debe mostrar la ruta:
+`/bin/bash`
+
+Con ello el usuario “odoo” ya no sólo será un usuario del sistema, sino que tendrá todas las características de un usuario al que podremos suplantar para trabajar en su nombre.
+
 4. Instalamos Odoo
 
 Obtenemos dependencias
