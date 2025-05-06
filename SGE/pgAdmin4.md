@@ -33,3 +33,24 @@ Posible configuración:
 	Username: usuario
 	Password: ***********
 	Save password?: Yes
+
+
+Ejemplos en Odoo:
+
+```sql
+--Ejemplo 1: obtener todos los clientes activos
+SELECT id, name, email
+FROM res_partner
+WHERE customer = true AND active = true
+ORDER BY name ASC;
+--Ejemplo 2: productos más caros
+SELECT name, list_price
+FROM product_template
+ORDER BY list_price DESC
+LIMIT 10;
+--Ejemplo 3: número total de contactos por país
+SELECT country_id, COUNT(*) AS total_contactos
+FROM res_partner
+GROUP BY country_id
+ORDER BY total_contactos DESC;
+```

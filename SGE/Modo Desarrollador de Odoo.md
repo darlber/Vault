@@ -11,3 +11,8 @@ precaución, sabiendo qué y cómo hacer los cambios requeridos
 - Exportación/importación técnica de datos
 - Registro de depuración
 
+
+En Odoo no es lo mismo una “Compañía” que una “Empresa” tipo partner. Las “Empresas” son entes con los que se trabajan los productos o servicios, por ejemplo, las empresas proveedoras o clientes. Las “Compañías” son entes que forman parte de la propia corporación empresarial.
+Es importante no confundirlas para evitar importar productos, por ejemplo, asociados a una compañía en lugar de asociarlos a una empresa
+proveedora.
+Por último, una compañía del grupo pasa también a ser un partner de forma automática al crearla
