@@ -16,3 +16,6 @@ En Odoo no es lo mismo una “Compañía” que una “Empresa” tipo partner. 
 Es importante no confundirlas para evitar importar productos, por ejemplo, asociados a una compañía en lugar de asociarlos a una empresa
 proveedora.
 Por último, una compañía del grupo pasa también a ser un partner de forma automática al crearla
+
+
+No es posible realizar consultas SQL desde la propia interfaz de Odoo, por motivos de seguridad y aislamiento. Odoo trabaja sobre un ORM (Object Relational Mapping), lo que significa que todo acceso a la base de datos se hace a través de objetos Python, no mediante SQL plano.

@@ -35,7 +35,7 @@ Posible configuración:
 	Save password?: Yes
 
 
-Ejemplos en Odoo:
+## Ejemplos en Odoo:
 
 ```sql
 --Ejemplo 1: obtener todos los clientes activos
@@ -53,4 +53,18 @@ SELECT country_id, COUNT(*) AS total_contactos
 FROM res_partner
 GROUP BY country_id
 ORDER BY total_contactos DESC;
+```
+
+## Vistas en Base de Datos:
+
+Una vista es como una tabla virtual (volátil, creada únicamente en tiempo de ejecución) basada en una consulta SQL. No guarda datos, pero permite hacer consultas como si fuera una tabla.
+
+Por ejemplo, podemos visualizar una vista con nombres y correos electrónicos de todos los clientes que estén en situación activa:
+```sql
+CREATE OR REPLACE VIEW vista_clientes_activos AS
+SELECT name, email
+FROM res_partner
+WHERE customer = true AND active = true;
+--Para consultar la vista creada, basta con ejecutar una consulta de selección:
+SELECT * FROM vista_clientes_activos;
 ```

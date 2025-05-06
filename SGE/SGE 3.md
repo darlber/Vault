@@ -12,7 +12,7 @@ La conexión a PostgreSQL en PgAdmin necesita IP/servidor, puerto (5432), base d
   
 Las consultas de acceso a datos sirven para recuperar información de tablas o vistas en la base de datos.  
   
-1. Selecciona las tablas o vistas.  
+1. Selecciona las tablas o [[pgAdmin4#Vistas en Base de Datos|vista]].  
 2. Relaciona las tablas si es necesario.  
 3. Elige los campos que quieres ver.  
 4. Ejecuta la consulta.  
