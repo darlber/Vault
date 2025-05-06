@@ -173,7 +173,7 @@ Los CRM más avanzados incluyen un portal web, para que clientes o proveedores p
 	Traducción al español.  
   
 ### ¿Cómo se instala en Odoo?  
-En la pantalla principal de configuración de [[Instalación de Odoo]], durante la creación de la base de datos, seleccionas el país.  
+En la pantalla principal de configuración de [Instalación-de-Odoo](Instalación-de-Odoo.md), durante la creación de la base de datos, seleccionas el país.  
 Esta selección activa automáticamente la instalación del módulo de localización correspondiente (como el de España).  
 La instalación es asistida, generalmente desde los menús de la propia interfaz de Odoo.  
 ## Asistencia técnica remota en ERP-CRM
