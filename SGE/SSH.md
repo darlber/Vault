@@ -19,3 +19,6 @@ Configuración:
 `sudo systemctl restart ssh`
 
 `sudo ufw allow OpenSSH`
+
+Podremos conectarnos usando usuario@ip
+> alberto@192.168.1.88
