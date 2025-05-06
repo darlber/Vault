@@ -19,3 +19,13 @@ Por último, una compañía del grupo pasa también a ser un partner de forma au
 
 
 No es posible realizar consultas SQL desde la propia interfaz de Odoo, por motivos de seguridad y aislamiento. Odoo trabaja sobre un ORM (Object Relational Mapping), lo que significa que todo acceso a la base de datos se hace a través de objetos Python, no mediante SQL plano.
+
+| Elemento en<br>Odoo | Modelo<br>(Python) | Tabla en<br>PostgreSQL | Vista Xml            |
+| ------------------- | ------------------ | ---------------------- | -------------------- |
+| Cliente             | res.partner        | res_partner            | res.partner.form     |
+| Factura             | account.move       | account_move           | account.invoice.tree |
+| Factura             | account.move       | account_move           | account.invoice.tree |
+
+Esta tabla ayuda a entender la conexión entre capas:
+
+interfaz → controlador (acción) → modelo → tabla

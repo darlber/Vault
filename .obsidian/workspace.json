@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,17 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6efaa43bfbeaa9",
+  "active": "7b43a4bccc4e1c73",
   "lastOpenFiles": [
+    "SGE/Procedimientos almacenados.md",
+    "SGE/Modo Desarrollador de Odoo.md",
     "SGE/pgAdmin4.md",
     "SGE/SGE 3.md",
     "SGE/SGE 4.md",
-    "SGE/Modo Desarrollador de Odoo.md",
     "SGE/Instalación de Odoo.md",
     "SGE/SSH.md",
     "SGE/SGE 5.md",
     "SGE/SGE 2.md",
-    "SGE/Procedimientos almacenados.md",
     "SGE/Personalizar Vistas.md",
     "SGE/a/Vault",
     "SGE/a",
