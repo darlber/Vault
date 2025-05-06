@@ -34,6 +34,9 @@ pero se debe de comprobar.
 > -U significa lo mismo, pero dentro de los comandos que ofrece postgreSQL
 > Por tanto, ejecutamos comando createuser como Postgres, y ejecutamos comando para otorgar -d (database) -P (password) como postgres
 
+No es necesario asignar el usuario “odoo” al grupo “sudoers”, pero si fuera necesario:
+`sudo usermod -aG sudo odoo`
+
 4. Instalamos Odoo
 
 Obtenemos dependencias
