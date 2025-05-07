@@ -1,6 +1,6 @@
 # Organización y consulta de la información
 
-Los principales objetos son: Modelos (tablas), Vistas (formularios), Menús (navegación) y Acciones (abrir vistas o ejecutar tareas). 
+Los principales objetos son: Modelos (tablas), Vistas (formularios XML), Menús (navegación) y Acciones (abrir vistas o ejecutar tareas). 
 
 Una tabla guarda datos en filas y columnas; una vista es una "tabla virtual" basada en otras tablas (no almacena datos físicos).  
 Para manejar la base de datos de Odoo (PostgreSQL), es útil usar PgAdmin 4.  
@@ -10,9 +10,9 @@ La conexión a PostgreSQL en PgAdmin necesita IP/servidor, puerto (5432), base d
   
 🛠️Pasos para conectarte en [[pgAdmin4]]
   
-Las consultas de acceso a datos sirven para recuperar información de tablas o vistas en la base de datos.  
+Las consultas de acceso a datos sirven para recuperar información de tablas o vistas (sql) en la base de datos.  
   
-1. Selecciona las tablas o [[pgAdmin4#Vistas en Base de Datos|vista]].  
+1. Selecciona las tablas o [[pgAdmin4#Vistas en Base de Datos|vista]] (sql).  
 2. Relaciona las tablas si es necesario.  
 3. Elige los campos que quieres ver.  
 4. Ejecuta la consulta.  
@@ -37,6 +37,8 @@ XML es un lenguaje sencillo que sirve para describir datos, no para programar.
 Escribiendo XML (en Ajustes → Técnico → Interfaz de usuario → Vistas).  
 Modificando archivos XML en la carpeta de addons.  
 Después de cambiar una vista, actualiza la app para ver los cambios.  
+
+En caso de hacerse desde un entorno gráfico, debemos activar el [[Modo Desarrollador de Odoo]], con activos para para incluir también vistas heredadas y campos ocultos.
 
 En Odoo, los objetos están definidos en archivos XML y formados por campos.  
 Cada campo se describe con <field name="nombre_campo"/>.  
