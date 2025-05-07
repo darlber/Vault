@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SGE/SGE 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b43a4bccc4e1c73",
+  "active": "6c6efaa43bfbeaa9",
   "lastOpenFiles": [
     "SGE/SGE 2.md",
     "SGE/Instalación de Odoo.md",
