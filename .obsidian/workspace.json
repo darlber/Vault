@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/Modo Desarrollador de Odoo.md",
+                "file": "SGE/SGE 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modo Desarrollador de Odoo"
+              "title": "SGE 5"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SGE/Modo Desarrollador de Odoo.md",
+                "file": "SGE/SGE 5.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Modo Desarrollador de Odoo"
+              "title": "Outline of SGE 5"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6efaa43bfbeaa9",
+  "active": "4c6aae0b20b71264",
   "lastOpenFiles": [
+    "SGE/Modo Desarrollador de Odoo.md",
     "SGE/SGE 5.md",
     "SGE/Personalizar Vistas.md",
     "SGE/Python.md",
@@ -189,7 +190,6 @@
     "SGE/pgAdmin4.md",
     "SGE/SGE 3.md",
     "SGE/SGE 2.md",
-    "SGE/Modo Desarrollador de Odoo.md",
     "SGE/Instalación de Odoo.md",
     "SGE/SSH.md",
     "SGE/a/Vault",
