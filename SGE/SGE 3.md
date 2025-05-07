@@ -82,7 +82,7 @@ Características de la búsqueda en Odoo:
 - Albaranes  
 - Pedidos  
 - Recibos  
-- Reclamaciones a proveedores/ clientes  
+- Reclamaciones a proveedores/clientes  
 - Informes estadísticos  
 - Generación de etiquetas para registros    
 - Informes de agrupamiento: Permiten ver registros agrupados por el valor de un campo.  
