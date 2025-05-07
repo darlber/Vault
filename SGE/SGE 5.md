@@ -164,8 +164,6 @@ Para crear módulos sin necesidad de escribir código, podemos usar el módulo *
 
 ## 🛠 Entornos y Herramientas de Desarrollo en Sistemas ERP-CRM (Caso práctico)
 
-Juan ha comenzado a desarrollar módulos para un sistema ERP-CRM (como Odoo) y necesita un entorno más eficiente que el intérprete de Python. A medida que el código crece, usar un entorno de desarrollo (IDE) se vuelve fundamental para mejorar la productividad, facilitar la depuración y manejar mejor la sintaxis.
-
 ### 🔍 ¿Qué es un Entorno de Desarrollo?
 
 Un **IDE** (Entorno de Desarrollo Integrado) es una aplicación que facilita la programación, al incluir:
@@ -193,10 +191,6 @@ Un **IDE** (Entorno de Desarrollo Integrado) es una aplicación que facilita la 
 - Soporta programación en múltiples lenguajes.
 - Puede extenderse con plantillas específicas para Odoo.
 - Ideal para proyectos grandes o desarrollo colaborativo.
-
----
-
-Estos entornos permiten a desarrolladores como Juan gestionar proyectos complejos en Odoo con mayor eficiencia y control, facilitando tanto la escritura de código como su organización y depuración.
 
 ## 🐞 Depuración de un Programa en Python
 
