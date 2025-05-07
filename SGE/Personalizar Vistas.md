@@ -62,7 +62,7 @@ Installable: true quiere decir que se puede instalar; mientras que application:f
 </odoo>
 ```
 
-Otro ejemplo:
+#### Otro ejemplo + formulario:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>

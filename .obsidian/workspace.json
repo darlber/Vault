@@ -11,10 +11,14 @@
             "id": "6c6efaa43bfbeaa9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SGE/Modo Desarrollador de Odoo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modo Desarrollador de Odoo"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SGE/Modo Desarrollador de Odoo.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Modo Desarrollador de Odoo"
             }
           },
           {
@@ -157,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,6 +182,7 @@
   "active": "6c6efaa43bfbeaa9",
   "lastOpenFiles": [
     "SGE/SGE 5.md",
+    "SGE/Personalizar Vistas.md",
     "SGE/Python.md",
     "SGE/SGE 4.md",
     "SGE/Procedimientos almacenados.md",
@@ -186,7 +192,6 @@
     "SGE/Modo Desarrollador de Odoo.md",
     "SGE/Instalación de Odoo.md",
     "SGE/SSH.md",
-    "SGE/Personalizar Vistas.md",
     "SGE/a/Vault",
     "SGE/a",
     "SGE/Nueva carpeta",

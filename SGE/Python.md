@@ -289,3 +289,73 @@ Algunos de los módulos más populares de la biblioteca estándar incluyen:
 - **`math`**: Contiene funciones matemáticas comunes.
 
 Estas librerías son esenciales para facilitar tareas cotidianas de programación y mejorar la eficiencia del código.
+
+### 🔧 Herramientas de Depuración en Python
+
+Python incluye una herramienta de depuración en su biblioteca estándar: `pdb`.
+
+- **pdb** permite:
+  - Añadir puntos de interrupción
+  - Ejecutar paso a paso
+  - Inspeccionar valores de variables
+  - Salir de funciones o continuar la ejecución
+
+### 🖥 Depuración en el Entorno IDLE
+
+El entorno **IDLE** incluye un depurador gráfico integrado que facilita el proceso de depuración, ideal para quienes prefieren no trabajar en consola.
+
+#### ✅ Activar el depurador en IDLE
+
+- Ir a `Debug > Debugger` en el menú.
+- Establecer puntos de parada con clic derecho sobre la línea deseada.
+- Ejecutar el programa para que el depurador se detenga en ese punto.
+
+#### 🔄 Funciones principales del depurador
+
+| Acción | Descripción |
+|--------|-------------|
+| **Go** | Ejecuta el programa hasta el siguiente punto de ruptura |
+| **Step** | Ejecuta el código línea a línea |
+| **Over** | Ejecuta la línea actual sin entrar en funciones llamadas |
+| **Out** | Ejecuta hasta salir de la función actual |
+| **Quit** | Finaliza la ejecución del programa |
+
+---
+
+El uso de herramientas gráficas como el depurador de IDLE permite ahorrar tiempo y entender mejor el comportamiento del programa en tiempo real.
+
+## ⚠️ Manejo de Errores en Python
+
+Cuando se produce un fallo durante la ejecución de un programa, se genera una **excepción**. Si no se controla, el programa se interrumpe.
+
+### 🧠 ¿Qué es una excepción?
+
+Una **excepción** es un error detectado por el intérprete. Por ejemplo:
+
+```python
+def dividir(a, b): 
+    return a / b
+
+dividir(3, 0)
+```
+Este código lanzará:
+
+```python
+ZeroDivisionError: integer division or modulo by zero
+```
+
+### Captura de Excepciones con `try - except`
+
+Para evitar que el programa se detenga abruptamente, usamos la estructura `try - except`:
+
+```python
+try:
+    def dividir(a, b): 
+        return a / b
+
+    dividir(1, 0)
+
+except:
+    print("Ha ocurrido un error")
+```
+

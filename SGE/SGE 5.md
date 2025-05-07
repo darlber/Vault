@@ -202,74 +202,6 @@ Estos entornos permiten a desarrolladores como Juan gestionar proyectos complejo
 
 La **depuración** es un proceso clave en el desarrollo de software. Nos permite encontrar y corregir errores en el código, mejorando la fiabilidad del programa.
 
-### 🔧 Herramientas de Depuración en Python
-
-Python incluye una herramienta de depuración en su biblioteca estándar: `pdb`.
-
-- **pdb** permite:
-  - Añadir puntos de interrupción
-  - Ejecutar paso a paso
-  - Inspeccionar valores de variables
-  - Salir de funciones o continuar la ejecución
-
-### 🖥 Depuración en el Entorno IDLE
-
-El entorno **IDLE** incluye un depurador gráfico integrado que facilita el proceso de depuración, ideal para quienes prefieren no trabajar en consola.
-
-#### ✅ Activar el depurador en IDLE
-
-- Ir a `Debug > Debugger` en el menú.
-- Establecer puntos de parada con clic derecho sobre la línea deseada.
-- Ejecutar el programa para que el depurador se detenga en ese punto.
-
-#### 🔄 Funciones principales del depurador
-
-| Acción | Descripción |
-|--------|-------------|
-| **Go** | Ejecuta el programa hasta el siguiente punto de ruptura |
-| **Step** | Ejecuta el código línea a línea |
-| **Over** | Ejecuta la línea actual sin entrar en funciones llamadas |
-| **Out** | Ejecuta hasta salir de la función actual |
-| **Quit** | Finaliza la ejecución del programa |
-
----
-
-El uso de herramientas gráficas como el depurador de IDLE permite ahorrar tiempo y entender mejor el comportamiento del programa en tiempo real.
-
-## ⚠️ Manejo de Errores en Python
-
-Cuando se produce un fallo durante la ejecución de un programa, se genera una **excepción**. Si no se controla, el programa se interrumpe.
-
-### 🧠 ¿Qué es una excepción?
-
-Una **excepción** es un error detectado por el intérprete. Por ejemplo:
-
-```python
-def dividir(a, b): 
-    return a / b
-
-dividir(3, 0)
-```
-Este código lanzará:
-
-```python
-ZeroDivisionError: integer division or modulo by zero
-```
-
-### Captura de Excepciones con `try - except`
-
-Para evitar que el programa se detenga abruptamente, usamos la estructura `try - except`:
-
-```python
-try:
-    def dividir(a, b): 
-        return a / b
-
-    dividir(1, 0)
-
-except:
-    print("Ha ocurrido un error")
-```
 ## 🧾 Formularios e Informes en Sistemas ERP-CRM (Odoo)
 
 ### 📄 Formularios: Interfaz del Módulo
@@ -340,7 +272,7 @@ Este archivo especifica qué archivos XML deben cargarse al instalar el módulo:
 <menuitem id="courses_menu" name="Courses" parent="openacademy_menu" action="course_list_action"/>
 ```
 
-🧾 Ejemplo de vista de tipo formulario
+🧾 Ejemplo de vista de tipo formulario [[Personalizar Vistas#Otro ejemplo + formulario]]
 
 ```xml
 <record model="ir.ui.view" id="view_agenda_form">
@@ -363,6 +295,9 @@ Este archivo especifica qué archivos XML deben cargarse al instalar el módulo:
 <menuitem name="Agenda" id="menu_agenda_form" parent="agenda.menu_agenda_agenda_form" action="action_agenda_form"/>
 ```
 #### Menús
+
+[[Personalizar Vistas#Definición de un menú]]
+
 ```xml
 <record model="ir.actions.act_window" id="action_agenda_form">
     <field name="res_model">agenda</field>
@@ -370,7 +305,7 @@ Este archivo especifica qué archivos XML deben cargarse al instalar el módulo:
 </record>
 ```
 
-## 🛠️ TL;DR: Herramientas para la creación de formularios e informes en Odoo
+## 🛠️Herramientas para la creación de formularios e informes en Odoo
 
 - **Formularios**:
   - Se crean en archivos XML (`nombre_modulo_view.xml`).
