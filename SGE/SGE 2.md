@@ -2,7 +2,7 @@
 Los objetivos de los ERP son proporcionar una gestión integrada y flexible.
 - **Integrada**, porque el resultado de un proceso conlleva el inicio de otro, todo ello bajo una base de datos común.
 - **Flexible**, porque se basan en los flujos de trabajo de la empresa.
- 
+
 ### Tipos de Licencia:  
 
 - Copyleft: futuras versiones bajo misma licencia  
