@@ -2,25 +2,19 @@
 Los objetivos de los ERP son proporcionar una gestión integrada y flexible.
 - **Integrada**, porque el resultado de un proceso conlleva el inicio de otro, todo ello bajo una base de datos común.
 - **Flexible**, porque se basan en los flujos de trabajo de la empresa.
-
 ### Tipos de Licencia:  
-
-- Copyleft: futuras versiones bajo misma licencia  
-- GPL: Requiere que las modificaciones se liberen bajo GPL. Copyleft  
-- LGPL: Permite usar en software propietario, con ciertas restricciones. Copyleft  
-- MPL: Modificaciones deben ser públicas, permite código propietario. Copyleft suave.  
-- BSD: Permisiva, permite uso y distribución en software propietario.  
-  
+ Copyleft: futuras versiones bajo misma licencia  
+- **GPL**: Requiere que las modificaciones se liberen bajo GPL. Copyleft  
+- **LGPL**: Permite usar en software propietario, con ciertas restricciones. Copyleft  
+- **MPL**: Modificaciones deben ser públicas, permite código propietario. Copyleft suave.  
+- **BSD**: Permisiva, permite uso y distribución en software propietario.  
 El software libre reduce costes eliminando licencias. Se paga por servicios, no por el programa. No garantiza soporte inmediato, pero ofrece libertad y comunidad activa. Ejemplos: Odoo, Openbravo ERP.  
-  
 ### Historia y ejemplos de ERPs libres:  
 
 - Openbravo nació en la Universidad de Navarra y se volvió internacional, pero su versión actual es privativa.  
 - Odoo (antes OpenERP), creado en Bélgica en 2005, es libre y modular, con base en Python y PostgreSQL.  
 - Dolibarr, escrito en PHP, también es libre y modular, aunque con comunidad más pequeña.  
-  
 ## Proceso instalación/configuración ERP:  
-
 1. Diseño instalación: análisis necesidades  
 2. Instalación equipos: hardware + servidores  
 3. Instalación software: ERP + dependencias  
@@ -29,9 +23,7 @@ El software libre reduce costes eliminando licencias. Se paga por servicios, no 
 6. Pruebas: verificar funcionamiento  
 7. Documentación: manuales + difusión  
 8. Formación: capacitar usuarios  
-  
 ## Tipos de instalación ERP:  
-
 - Máquina virtual: demo rápida, no válida para entornos de producción  
 - Entorno gráfico: asistente fácil, versiones no actualizadas, quizás sirva en un entorno de producción, aunque no esté completamente actualizada la versión a instalar.
 - Instalación personalizada: mayor control, vía comandos, + reciente. Apropiada para entornos de producción.
@@ -41,12 +33,11 @@ El software libre reduce costes eliminando licencias. Se paga por servicios, no 
 > Hace referencia al conjunto de equipos, servidores y aplicaciones de una empresa real. ^256e5d
 
 Modos de uso:  
-	- Monopuesto: todo en un solo equipo → localhost  
-	- Cliente/Servidor: cliente y servidor separados → IP servidor  
+- Monopuesto: todo en un solo equipo → localhost  
+- Cliente/Servidor: cliente y servidor separados → IP servidor  
   
 La instalación varía según el sistema (Windows/Linux). Se recomienda usar versiones recientes y activar repositorios.  
-En  [[#^256e5d|entornos de producción]], usar sistemas con soporte extendido aunque sean menos recientes. Cuanto más tiempo podamos usar el sistema, mejor  
-  
+En [[#^256e5d|entornos de producción]], usar sistemas con soporte extendido aunque sean menos recientes. Cuanto más tiempo podamos usar el sistema, mejor.
 ## Parámetros clave a configurar:  
 
 - Conexión con servidor: Local, red local o remoto.  

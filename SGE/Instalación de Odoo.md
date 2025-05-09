@@ -16,8 +16,7 @@ Odoo 17
 **[[pgAdmin4]]**. Paquete que permite una gestión visual del SGBD
 **[[SSH]]**. acceso remoto
 **Wkhmtltopdf**. Este paquete permite la generación de informes en PDF. En
-función de la forma de instalar Odoo podría estar disponible desde el principio,
-pero se debe de comprobar.
+función de la forma de instalar Odoo podría estar disponible desde el principio, pero se debe de comprobar.
 **Hosts**. Windows, la personalización de Hosts nos permitirá utilizar un nombre de la máquina virtual para acceder por Web sin usar la IP, de forma más natural.
 
 1. Primero siempre actualizar
