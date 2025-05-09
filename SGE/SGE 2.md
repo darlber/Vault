@@ -169,7 +169,6 @@ Configuración del Sistema > Escritorio remoto.
 Elige si deseas que otros solo vean tu escritorio o también lo controlen.  
 Configura una contraseña si deseas que se requiera para conectarse.  
 Acceder al servidor desde otro equipo (cliente VNC):  
-Ubuntu:
 `sudo apt-get install vncviewer`  
   
 Para conectarte, usa el comando:  
