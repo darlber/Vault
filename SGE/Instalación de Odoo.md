@@ -10,12 +10,13 @@ En máquina Virtual, se propone:
 ### Paquetes a instalar
 - PostgreSQL: SGBD propio de Odoo
 - Odoo 17
-#### PAQUETES SECUNDARIOS
-
+#### Paquetes Adicionales
 - **[[pgAdmin4]]**. Paquete que permite una gestión visual del SGBD
 - **[[SSH]]**. acceso remoto
 - **Wkhmtltopdf**. Este paquete permite la generación de informes en PDF. En función de la forma de instalar Odoo podría estar disponible desde el principio, pero se debe de comprobar.
 - **Hosts**. Windows, la personalización de Hosts nos permitirá utilizar un nombre de la máquina virtual para acceder por Web sin usar la IP, de forma más natural.
+
+## Instalación desde paquetes
 1. Primero siempre actualizar
 `sudo apt update && sudo apt upgrade`
 2. Instalamos PostgreSQL:
@@ -28,7 +29,6 @@ En máquina Virtual, se propone:
 > -U significa lo mismo, pero dentro de los comandos que ofrece postgreSQL
 > Por tanto, ejecutamos comando createuser como Postgres, y ejecutamos comando para otorgar -d (database) -P (password) como postgres
 
-
 4. Instalamos Odoo
 Obtenemos dependencias
 ```bash
@@ -40,7 +40,39 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
 `sudo apt-get install odoo`
 
 ---
-Otra opción para instalar resulta:
+## Instalación desde fuente
+
+```bash
+git clone https://github.com/odoo/odoo.git
+git clone https://github.com/odoo/enterprise.git
+```
+
+```bash
+sudo apt install python3
+```
+
+```bash
+sudo apt install postgresql postgresql-client
+```
+
+```bash
+sudo -u postgres createuser -d -R -S $USER
+createdb $USER
+```
+
+Dependencias:
+
+```bash
+cd odoo #CommunityPath
+sudo ./setup/debinstall.sh
+```
+
+```bash
+ cd /CommunityPath
+ python3 odoo-bin --addons-path=addons -d mydb
+```
+
+Donde `CommunityPath` es la ruta de la instalación de Odoo Community y `mydb` es la base de datos de PostgreSQL.
 
 Dependencias:
 ```bash
@@ -93,7 +125,6 @@ Dentro de:
 	addons_path = /opt/odoo/odoo/addons,/opt/odoo/odoo/custom-addons
 	default_productivity_apps = True
 	xmlrpc_port = 8069
-
 8.  Reload de servicios
 ```bash
 sudo systemctl enable odoo 
@@ -101,9 +132,6 @@ sudo systemctl enable postgresql
 sudo systemctl start odoo
 sudo systemctl start postgresql
 ```
-
-
-
 ## Custom usuario
 No es necesario asignar el usuario “odoo” al grupo “sudoers”, pero si fuera necesario:
 
