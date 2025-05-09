@@ -10,7 +10,6 @@ Los objetivos de los ERP son proporcionar una gestión integrada y flexible.
 - **BSD**: Permisiva, permite uso y distribución en software propietario.  
 El software libre reduce costes eliminando licencias. Se paga por servicios, no por el programa. No garantiza soporte inmediato, pero ofrece libertad y comunidad activa. Ejemplos: Odoo, Openbravo ERP.  
 ### Historia y ejemplos de ERPs libres:  
-
 - Openbravo nació en la Universidad de Navarra y se volvió internacional, pero su versión actual es privativa.  
 - Odoo (antes OpenERP), creado en Bélgica en 2005, es libre y modular, con base en Python y PostgreSQL.  
 - Dolibarr, escrito en PHP, también es libre y modular, aunque con comunidad más pequeña.  
@@ -39,26 +38,21 @@ Modos de uso:
 La instalación varía según el sistema (Windows/Linux). Se recomienda usar versiones recientes y activar repositorios.  
 En [[#^256e5d|entornos de producción]], usar sistemas con soporte extendido aunque sean menos recientes. Cuanto más tiempo podamos usar el sistema, mejor.
 ## Parámetros clave a configurar:  
-
-- Conexión con servidor: Local, red local o remoto.  
-- Acceso a base de datos: Ajustar credenciales y dirección del servidor de BBDD.  
-- Idioma: Menús y elementos en el idioma deseado (se pueden instalar módulos de idioma).  
-- Archivos de localización: Adaptación legal/fiscal al país (ej. contabilidad española).  
+- **Conexión** con servidor: Local, red local o remoto.  
+- **Acceso** a base de datos: Ajustar credenciales y dirección del servidor de BBDD.  
+- **Idioma**: Menús y elementos en el idioma deseado (se pueden instalar módulos de idioma).  
+- Archivos de **localización**: Adaptación legal/fiscal al país (ej. contabilidad española).  
   
 En [[#^256e5d|entornos empresariales]], las actualizaciones se deciden tras analizar los impactos en el funcionamiento y los datos de la empresa. Si no es posible una actualización automática, se realiza un traspaso de datos entre versiones, con un periodo de coexistencia de ambas.  
-
 ## Módulos
-
 Módulo = función específica dentro del ERP (ventas, compras, almacén, contabilidad, etc.).  
-  
-Características clave:  
 1. Se instalan/desinstalan fácilmente con asistentes.  
 2. Se configuran para adaptarse al entorno real.  
 3. Generan informes.  
 4. Tienen niveles de seguridad.  
-5. Están interconectados: los datos se comparten, no se duplican.  
+5. Están interconectados: los datos se comparten, no se duplican. 
 6. Pueden personalizar menús y añadir comentarios.  Adaptables
-  
+
 En Odoo, el módulo base incluye:  
 - Ajustes (configuraciones generales).  
 - Aplicaciones (gestión e instalación de módulos).  
@@ -69,47 +63,41 @@ Módulos adicionales importantes:
 - Comercial y ventas.  
 - RRHH y CRM.  
 - Productos, inventario, proyectos, informes, estadísticas.  
-- Solo se instalan si se necesitan.  
-  
 ## Módulo de Gestión Contable y Financiera en un ERP:  
-
 Automatiza y centraliza todas las operaciones contables.  
 Está integrado con ventas, compras y otros módulos para evitar duplicidades y tener datos en tiempo real.  
 Ejemplo: una factura se puede generar automáticamente desde un pedido o albarán.  
 Puede bloquear a clientes morosos en todo el sistema.  
   
 Funcionalidades principales:  
-	1. Contabilidad general y analítica (costes).  
-	2. Gestión de impuestos.  
-	3. Presupuestos.  
-	4. Facturación (clientes y proveedores).  
-	5. Conciliación bancaria (extractos).  
-	6. Informes contables.  
+1. Contabilidad general y analítica (costes).  
+2. Gestión de impuestos.  
+3. Presupuestos.  
+4. Facturación (clientes y proveedores).  
+5. Conciliación bancaria (extractos).  
+6. Informes contables.  
 
 ## Módulo de Compras, Ventas y Almacén
-
-Compras  
-	Gestiona toda la relación con proveedores:  
-	Solicitudes de presupuesto, precios, pedidos.  
-	Tarifas y entregas parciales.  
-	Reclamaciones a proveedores.  
-	Generación automática de pedidos.  
-  
-Ventas  
-	Organiza el proceso de venta:  
-	Pedidos de venta y su seguimiento.  
-	Confirmación de envíos.  
-	Definición de pagos y facturación.  
-	Gestión de gastos de envío.  
-	Albaranes (automáticos y parciales).  
-  
-Almacén  
-	Control total del stock:  
-	Varios almacenes.  
-	Rotación de inventario y niveles de stock.  
-	Traspasos entre almacenes.  
-	Codificación y numeración de productos.  
-	Compras a varios proveedores.  
+- Compras  
+	- Gestiona toda la relación con proveedores:  
+	- Solicitudes de presupuesto, precios, pedidos.  
+	- Tarifas y entregas parciales.  
+	- Reclamaciones a proveedores.  
+	- Generación automática de pedidos.  
+- Ventas  
+	- Organiza el proceso de venta:  
+	- Pedidos de venta y su seguimiento.  
+	- Confirmación de envíos.  
+	- Definición de pagos y facturación.  
+	- Gestión de gastos de envío.  
+	- Albaranes (automáticos y parciales).  
+- Almacén  
+	- Control total del stock:  
+	- Varios almacenes.  
+	- Rotación de inventario y niveles de stock.  
+	- Traspasos entre almacenes.  
+	- Codificación y numeración de productos.  
+	- Compras a varios proveedores.  
   
 ## Módulo de Facturación  
 
