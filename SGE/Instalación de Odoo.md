@@ -98,17 +98,18 @@ git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo
 `sudo systemctl stop odoo`
 
 `sudo systemctl stop postgresql`
-- Dentro de:
+
+Dentro de:
 `sudo nano /etc/postgresql/xx/main/postgresql.conf`
 - Descomentamos la siguiente línea
 `listen_addresses = ‘*’`
-- Dentro de:
+
+Dentro de:
 `sudo nano /etc/postgresql/xx/main/pg_hba.conf`
-Añadimos en **IPV4**
-
-
-	host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
-	type    database        user             direccion               encriptado
+- Añadimos en **IPV4**
+	
+		host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
+		type    database        user             direccion               encriptado
 
 `sudo nano /etc/odoo-server.conf`
 
