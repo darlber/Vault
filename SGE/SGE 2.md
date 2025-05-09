@@ -66,7 +66,8 @@ Módulos adicionales importantes:
 ## Módulo de Gestión Contable y Financiera en un ERP:  
 Automatiza y centraliza todas las operaciones contables.  
 Está integrado con ventas, compras y otros módulos para evitar duplicidades y tener datos en tiempo real.  
-Ejemplo: una factura se puede generar automáticamente desde un pedido o albarán.  
+>Ejemplo: una factura se puede generar automáticamente desde un pedido o albarán.  
+
 Puede bloquear a clientes morosos en todo el sistema.  
   
 Funcionalidades principales:  
@@ -98,92 +99,77 @@ Funcionalidades principales:
 	- Traspasos entre almacenes.  
 	- Codificación y numeración de productos.  
 	- Compras a varios proveedores.  
-  
 ## Módulo de Facturación  
-
-Funciones clave:  
-	Configuración de formas de cobro/pago (contado, transferencia, pagaré, giro…).  
-	Facturación automática desde pedidos o albaranes.  
-	Generación de efectos de cobro y pago.  
-	Gestión de recibos, órdenes de pago y transferencias.  
-	Importación de extractos bancarios.  
-	Envío telemático de remesas al banco.  
-	Gestión de cuentas bancarias (propias, clientes y proveedores).  
-	Facturas automáticas → se generan en borrador desde otros módulos y luego se aprueban y envían.  
-	
+- Configuración de formas de cobro/pago (contado, transferencia, pagaré, giro…).  
+- Facturación automática desde pedidos o albaranes.  
+- Generación de efectos de cobro y pago.  
+- Gestión de recibos, órdenes de pago y transferencias.  
+- Importación de extractos bancarios.  
+- Envío telemático de remesas al banco.  
+- Gestión de cuentas bancarias (propias, clientes y proveedores).  
+- Facturas automáticas → se generan en borrador desde otros módulos y luego se aprueban y envían.  
 ## Módulo de Gestión de Personal (RRHH) en un ERP:  
-
 Gestión de empleados y nóminas  
-Funciones clave:  
-	Gestión de empleados, contratos y calendario de vacaciones.  
-	Administración de beneficios y ausencias.  
-	Seguimiento del rendimiento o producción.  
-	Gestión de perfiles, roles y responsabilidades.  
-	Remuneraciones y comisiones por ventas.  
-  
+- Gestión de empleados, contratos y calendario de vacaciones.  
+- Administración de beneficios y ausencias.  
+- Seguimiento del rendimiento o producción.  
+- Gestión de perfiles, roles y responsabilidades.  
+- Remuneraciones y comisiones por ventas.  
 🔧 En algunos casos, si el ERP no incluye un módulo de RRHH específico, se puede suplir con otros módulos como el contable o comercial.  
-  
 ## Módulo de Gestión de Relaciones con el Cliente (CRM) en un ERP:  
-
-Funciones principales:  
-	1. Crear y gestionar fichas de clientes y sus datos.  
-	2. Segmentación por criterios personalizados.  
-	3. Gestión de clientes potenciales vs reales.  
-	4. Registro de llamadas, reuniones, y seguimiento en calendario.  
-	5. Seguimiento de campañas de marketing y acciones comerciales.  
-	6. Enlace con otros procesos del ERP (facturas, pedidos, etc.).  
-	7. Herramientas de productividad: email masivo, sincronización de contactos y calendario, editor de documentos, SMS, fax.  
-	8. Estadísticas e informes.  
+1. Crear y gestionar fichas de clientes y sus datos.  
+2. Segmentación por criterios personalizados.  
+3. Gestión de clientes potenciales vs reales.  
+4. Registro de llamadas, reuniones, y seguimiento en calendario.  
+5. Seguimiento de campañas de marketing y acciones comerciales.  
+6. Enlace con otros procesos del ERP (facturas, pedidos, etc.).  
+7. Herramientas de productividad: email masivo, sincronización de contactos y calendario, editor de documentos, SMS, fax.  
+8. Estadísticas e informes.  
 
 Los CRM más avanzados incluyen un portal web, para que clientes o proveedores puedan consultar datos relevantes directamente en el sistema.  
 
 📦 Ejemplos de CRM libres: OroCRM, SuiteCRM, SugarCRM  
 🔗 Odoo incluye su propio módulo CRM independiente.  
-
 ## Instalación y configuración de módulos en un ERP (Odoo):  
   
 🌍 Módulo clave: Localización del país  
-	Permite adaptar el ERP a las leyes y estándares locales.  
+- Permite adaptar el ERP a las leyes y estándares locales.  
 🔧 En el caso de España incluye:  
-	Plan General Contable Español.  
-	Módulo de impuestos (tipos de IVA, etc.).  
-	Validaciones (CIF/NIF, cuentas bancarias…).  
-	Datos maestros (provincias, etc.).  
-	Traducción al español.  
-  
+- Plan General Contable Español.  
+- Módulo de impuestos (tipos de IVA, etc.).  
+- Validaciones (CIF/NIF, cuentas bancarias…).  
+- Datos maestros (provincias, etc.).  
+- Traducción al español.  
 ### ¿Cómo se instala en Odoo?  
 En la pantalla principal de configuración de [[Instalación de Odoo]], durante la creación de la base de datos, seleccionas el país.  
 Esta selección activa automáticamente la instalación del módulo de localización correspondiente (como el de España).  
 La instalación es asistida, generalmente desde los menús de la propia interfaz de Odoo.  
 ## Asistencia técnica remota en ERP-CRM
-
-Usar soporte remoto: permite controlar el ordenador del cliente desde otra ubicación, como si estuvieras allí.  
+Usar **soporte** remoto: permite controlar el ordenador del cliente desde otra ubicación, como si estuvieras allí.  
 Mediante programas cliente/servidor que usan el protocolo VNC (Virtual Network Computing):  
-Servidor: el PC del cliente (a controlar).  
-Cliente: el PC del técnico (desde donde se controla).  
+**Servidor**: el PC del cliente (a controlar).  
+**Cliente**: el PC del técnico (desde donde se controla).  
   
-🖥️ Ventajas:  
-	Atención inmediata.  
-	Ahorro de costes y tiempo.  
-	Se puede modificar el ERP, instalar programas, etc., a distancia.  
+- 🖥️ Ventajas:  
+	- Atención inmediata.  
+	- Ahorro de costes y tiempo.  
+	- Se puede modificar el ERP, instalar programas, etc., a distancia.  
 	  
-🔧 Ejemplos de software gratuito por sistema operativo:  
-	Windows: RealVNC, UltraVNC, TightVNC  
-	macOS: Vine Server (servidor), Chicken of the VNC (cliente)  
-	Linux: VINO (servidor), RealVNC/TightVNC (cliente)  
+- 🔧 Ejemplos de software gratuito por sistema operativo:  
+	- Windows: RealVNC, UltraVNC, TightVNC  
+	- macOS: Vine Server (servidor), Chicken of the VNC (cliente)  
+	- Linux: VINO (servidor), RealVNC/TightVNC (cliente)  
   
-✅ También útil para:  
-	Apoyo en clase (profesor ↔ alumnos)  
-	Conexión a tu PC desde casa o el trabajo  
+- ✅ También útil para:  
+	- Apoyo en clase (profesor ↔ alumnos)  
+	- Conexión a tu PC desde casa o el trabajo  
 
 ## Instalación y configuración
-
 Configuración del Sistema > Escritorio remoto.  
 Elige si deseas que otros solo vean tu escritorio o también lo controlen.  
 Configura una contraseña si deseas que se requiera para conectarse.  
 Acceder al servidor desde otro equipo (cliente VNC):  
 Ubuntu:
-  
 `sudo apt-get install vncviewer`  
   
 Para conectarte, usa el comando:  
@@ -203,11 +189,8 @@ Acceso al servidor sin entorno gráfico
 Si el servidor no tiene entorno gráfico (común en servidores Ubuntu), la conexión se realizará a través de [[SSH]] (Terminal remoto seguro)
   
 Comando para instalar SSH Server en Ubuntu:  
-  
 `sudo apt-get install openssh-server`
-  
 ### UltraVNC:  
-  
 Al instalar UltraVNC en Windows, se incluye el cliente y el servidor.
 
 Para usar el servidor, se ejecuta desde Inicio > Programas > UltraVNC > UltraVNC server.
