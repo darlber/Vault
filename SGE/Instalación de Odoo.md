@@ -8,23 +8,18 @@ En máquina Virtual, se propone:
 7. VBoxGuestAdditions
 
 ### Paquetes a instalar
-
-PostgreSQL: SGBD propio de Odjoo
-Odoo 17
+- PostgreSQL: SGBD propio de Odoo
+- Odoo 17
 #### PAQUETES SECUNDARIOS
 
-**[[pgAdmin4]]**. Paquete que permite una gestión visual del SGBD
-**[[SSH]]**. acceso remoto
-**Wkhmtltopdf**. Este paquete permite la generación de informes en PDF. En
-función de la forma de instalar Odoo podría estar disponible desde el principio, pero se debe de comprobar.
-**Hosts**. Windows, la personalización de Hosts nos permitirá utilizar un nombre de la máquina virtual para acceder por Web sin usar la IP, de forma más natural.
-
+- **[[pgAdmin4]]**. Paquete que permite una gestión visual del SGBD
+- **[[SSH]]**. acceso remoto
+- **Wkhmtltopdf**. Este paquete permite la generación de informes en PDF. En función de la forma de instalar Odoo podría estar disponible desde el principio, pero se debe de comprobar.
+- **Hosts**. Windows, la personalización de Hosts nos permitirá utilizar un nombre de la máquina virtual para acceder por Web sin usar la IP, de forma más natural.
 1. Primero siempre actualizar
 `sudo apt update && sudo apt upgrade`
-
 2. Instalamos PostgreSQL:
 `sudo apt install postgresql -y`
-
 3. Usuario para PostgreSQL
 `sudo -u postgres createuser odoo -U postgres -dP`
 
@@ -34,32 +29,35 @@ función de la forma de instalar Odoo podría estar disponible desde el principi
 > Por tanto, ejecutamos comando createuser como Postgres, y ejecutamos comando para otorgar -d (database) -P (password) como postgres
 
 No es necesario asignar el usuario “odoo” al grupo “sudoers”, pero si fuera necesario:
+
 `sudo usermod -aG sudo odoo`
 
 Al consultar el estado del usuario “odoo”, podríamos obtener algo así:
 `odoo:x:1001:1001::/home/odoo:/usr/sbin/nologin`
 
 Pero en la instalación de Odoo, la carpeta del paquete se instala en /home/odoo, por lo que deberemos cambiarla (según tu instalación):
+
 `sudo usermod -d /opt/odoo odoo`
 
 Ahora, la consulta del usuario debe mostrar:
 `odoo:x:1001:1001::/opt/odoo:/usr/sbin/nologin`
 
-Asignación de Shell
-
+#### Asignación de Shell
 Al igual que la asignación del grupo “sudoers”, no es necesario que el usuario “odoo” pueda acceder a la Shell, comprobando el usuario vemos que, el campo final muestra:
+
 `/usr/sbin/nologin`
 
 Ello indica que no puede iniciar sesión. Para agregar “odoo” a /bin/bash (donde se almacenan todos los accesos de Shell de usuarios):
+
 `sudo chsh -s /bin/bash odoo`
 
 Ahora, al consultar la situación del usuario, el campo final debe mostrar la ruta:
+
 `/bin/bash`
 
 Con ello el usuario “odoo” ya no sólo será un usuario del sistema, sino que tendrá todas las características de un usuario al que podremos suplantar para trabajar en su nombre.
 
 4. Instalamos Odoo
-
 Obtenemos dependencias
 ```bash
 wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/share/keyrings/odoo-archive-keyring.gpg
@@ -83,25 +81,28 @@ git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo
 --- 
 
 5. Upgrade
+
 `sudo apt-get upgrade`
 
 6. Comprobación de status de ambos servicios
+
 `sudo systemctl status odoo`
+
 `sudo systemctl status postgresql`
 
-7.  Archivos de configuración
-Paramos los dos servicios
+7.  Archivos de configuración:
+- Paramos los dos servicios
 `sudo systemctl stop odoo`
+
 `sudo systemctl stop postgresql`
-
+- Dentro de:
 `sudo nano /etc/postgresql/xx/main/postgresql.conf`
-
-Descomentamos la siguiente línea
+- Descomentamos la siguiente línea
 `listen_addresses = ‘*’`
-
+- Dentro de:
 `sudo nano /etc/postgresql/xx/main/pg_hba.conf`
 
-Añadimos en IPV4
+Añadimos en **IPV4**
 
 	host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
 	type    database        user             direccion               encriptado
@@ -118,10 +119,12 @@ Añadimos en IPV4
 	xmlrpc_port = 8069
 
 8.  Reload de servicios
+```bash
+sudo systemctl enable odoo 
+sudo systemctl enable postgresql
+sudo systemctl start odoo
+sudo systemctl start postgresql
+```
 
-`sudo systemctl enable odoo`
-`sudo systemctl enable postgresql`
-`sudo systemctl start odoo`
-`sudo systemctl start postgresql`
 
 
