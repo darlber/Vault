@@ -9,7 +9,7 @@ En máquina Virtual, se propone:
 
 ### Paquetes a instalar
 
-PostgreSQL: SGBD propio de Odoo
+PostgreSQL: SGBD propio de Odjoo
 Odoo 17
 #### PAQUETES SECUNDARIOS
 
