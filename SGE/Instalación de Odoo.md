@@ -111,6 +111,7 @@ Dentro de:
 		host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
 		type    database        user             direccion               encriptado
 
+Dentro de:
 `sudo nano /etc/odoo-server.conf`
 
 	admin_passwd = {user_odoo_password}
