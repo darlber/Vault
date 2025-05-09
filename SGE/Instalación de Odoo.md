@@ -33,6 +33,7 @@ No es necesario asignar el usuario “odoo” al grupo “sudoers”, pero si fu
 `sudo usermod -aG sudo odoo`
 
 Al consultar el estado del usuario “odoo”, podríamos obtener algo así:
+
 `odoo:x:1001:1001::/home/odoo:/usr/sbin/nologin`
 
 Pero en la instalación de Odoo, la carpeta del paquete se instala en /home/odoo, por lo que deberemos cambiarla (según tu instalación):
@@ -64,6 +65,7 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
  echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/17.0/nightly/deb/ ./' | sudo tee/etc/apt/sources.list.d/odoo.list
 ```
 `sudo apt-get update`
+
 `sudo apt-get install odoo`
 
 ---
@@ -92,6 +94,7 @@ git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo
 
 7.  Archivos de configuración:
 - Paramos los dos servicios
+
 `sudo systemctl stop odoo`
 
 `sudo systemctl stop postgresql`
@@ -101,8 +104,8 @@ git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo
 `listen_addresses = ‘*’`
 - Dentro de:
 `sudo nano /etc/postgresql/xx/main/pg_hba.conf`
-
 Añadimos en **IPV4**
+
 
 	host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
 	type    database        user             direccion               encriptado
