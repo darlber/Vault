@@ -171,3 +171,4 @@ Ahora, al consultar la situación del usuario, el campo final debe mostrar la ru
 `/bin/bash`
 
 Con ello el usuario “odoo” ya no sólo será un usuario del sistema, sino que tendrá todas las características de un usuario al que podremos suplantar para trabajar en su nombre.
+# [[Actualización Odoo]]
