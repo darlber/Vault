@@ -329,6 +329,125 @@ private class ControladorGestos extends GestureDetector.SimpleOnGestureListener 
     }
 }
 ```
-
 # 5.8 Videojuegos
+## 5.8.2 El Modo de Pantalla
+- **Orientación fija**  
+  - `android:screenOrientation="portrait"` o `"landscape"` en el manifiesto.
+- **Multi‑orientación**  
+  - Añadir `android:configChanges="orientation"` y gestionar cambios en  
+    ```java
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+        // Guardar estado y recalcular coordenadas
+    }
+    ```
+- **Pantalla completa (Immersive Full‑Screen)**  
+  - Llamar a `hideSystemUI()` en `onCreate`:
+    ```java
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        j = new Juego(this);
+        hideSystemUI();
+        setContentView(j);
+    }
 
+    private void hideSystemUI() {
+        j.setSystemUiVisibility(
+            View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+            | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
+            | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
+            | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
+            | View.SYSTEM_UI_FLAG_FULLSCREEN
+            | View.SYSTEM_UI_FLAG_IMMERSIVE);
+    }
+    ```
+- **Calcular tamaño de pantalla**  
+  ```java
+  public int AltoPantalla, AnchoPantalla;
+  public void calculaTamañoPantalla() {
+      Display display = actividad.getWindowManager().getDefaultDisplay();
+      Point size = new Point();
+      display.getSize(size);
+      AnchoPantalla = size.x;
+      AltoPantalla  = size.y;
+  }
+  ```
+- **Escalar bitmaps**  
+  ```java
+  Bitmap imagen = BitmapFactory.decodeResource(getResources(), R.drawable.imagen);
+  Bitmap imagen_escalada = Bitmap.createScaledBitmap(
+      imagen, AnchoPantalla, AltoPantalla, true);
+  ```
+---
+## 5.8.4 El Escenario
+1. **Declarar variables**  
+    ```java
+    private static final int MAX_IMAGENES_FONDO = 6;
+    Bitmap imagenes[] = new Bitmap[MAX_IMAGENES_FONDO];
+    int recursos_imagenes[] = {
+        R.drawable.bg1, R.drawable.bg2, R.drawable.bg3,
+        R.drawable.bg4, R.drawable.bg5, R.drawable.bg6
+    };
+    int yImgActual = 0, yImgSiguiente = -AltoPantalla;
+    int img_actual = 0, img_siguiente = 1;
+    ```
+2. **Cargar y escalar fondos**  
+    ```java
+    public void cargaBackground() {
+        for (int i = 0; i < MAX_IMAGENES_FONDO; i++) {
+            Bitmap fondo = BitmapFactory.decodeResource(
+                getResources(), recursos_imagenes[i]);
+            imagenes[i] = Bitmap.createScaledBitmap(
+                fondo, AnchoPantalla, AltoPantalla, true);
+        }
+    }
+    ```
+3. **Actualizar fondo en el game loop**  
+    ```java
+    public void actualiza_fondo() {
+        yImgActual++;
+        yImgSiguiente++;
+        if (yImgActual > AltoPantalla) {
+            img_actual   = (img_actual + 1)   % MAX_IMAGENES_FONDO;
+            img_siguiente = (img_siguiente + 1) % MAX_IMAGENES_FONDO;
+            yImgActual    = 0;
+            yImgSiguiente = -AltoPantalla;
+        }
+    }
+    ```
+4. **Renderizar fondo**  
+    ```java
+    canvas.drawBitmap(imagenes[img_actual],   0, yImgActual,   null);
+    canvas.drawBitmap(imagenes[img_siguiente],0, yImgSiguiente,null);
+    ```
+---
+## 5.8.14 Libera Recursos
+
+```java
+public void fin() {
+    bucle.fin();
+    mediaPlayer.release();
+    for (Bitmap bmp : imagenes) bmp.recycle();
+    nave.recycle();
+    enemigo_listo.recycle();
+    enemigo_tonto.recycle();
+    disparo.recycle();
+}
+
+@Override
+public void surfaceDestroyed(SurfaceHolder holder) {
+    boolean retry = true;
+    while (retry) {
+        try {
+            fin();
+            bucle.join();
+            retry = false;
+        } catch (InterruptedException e) { }
+    }
+}
+```
+---
+## 5.9 Motores para Videojuegos
+- **2D**: Cocos2d (open source).  
+- **3D**: Unity (motor líder en el mercado).
