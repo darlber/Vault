@@ -19,27 +19,34 @@ En máquina Virtual, se propone:
 ## Instalación siguiendo documentación de Odoo
 
 1. Primero siempre actualizar
-`sudo apt update && sudo apt upgrade`
-2. Instalamos PostgreSQL:
-`sudo apt install postgresql -y`
-3. Usuario para PostgreSQL
-`sudo -u postgres createuser odoo -U postgres -dP`
+```bash
+sudo apt update && sudo apt upgrade
+```
+1. Instalamos PostgreSQL:
+```bash
+sudo apt install postgresql -y
+```
+1. Usuario para PostgreSQL
+```sh
+sudo -u postgres createuser odoo -U postgres -dP
+```
 
 > [!NOTE] sudo -u 
 > -u le dice al comando que ejecute como el usuario "postgres". Comando que ofrece sudo
 > -U significa lo mismo, pero dentro de los comandos que ofrece postgreSQL
 > Por tanto, ejecutamos comando createuser como Postgres, y ejecutamos comando para otorgar -d (database) -P (password) como postgres
 
-4. Instalamos Odoo
+2. Instalamos Odoo
 Obtenemos dependencias
 ```bash
 wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/share/keyrings/odoo-archive-keyring.gpg
  echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/17.0/nightly/deb/ ./' | sudo tee/etc/apt/sources.list.d/odoo.list
 ```
-`sudo apt-get update`
 
-`sudo apt-get install odoo`
-
+```sh
+sudo apt-get update
+sudo apt-get install odoo
+```
 ## Variante
 1. Dependencias python
 ```bash
@@ -49,11 +56,15 @@ sudo apt update && sudo apt install -y python3-pip build-essential wget git pyth
 ```bash
 sudo adduser --home=/opt/odoo odoo
 ```
+3. PostgreSQL
 ```bash
-sudo apt install -y postgresql postgresql-contrib
+sudo apt install postgresql
 sudo systemctl status postgresql
 ```
-
+4. Usuario
+```bash
+sudo -u postgres createuser odoo -U postgres -dP
+```
 ---
 
 
