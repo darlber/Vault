@@ -104,3 +104,108 @@ public void AnimacionBoton(){
     animadorBoton.start();
 }
 ```
+
+# Animaciones View, Drawable y Game Loop en Android
+## 5.5.2 View Animations
+Permiten aplicar animaciones básicas a las vistas (`View`) como rotación, escala, desplazamiento y transparencia.
+### Tipos de animadores:
+- `RotateAnimation`: Rota un objeto.
+- `ScaleAnimation`: Cambia su tamaño.
+- `TranslateAnimation`: Lo mueve por la pantalla.
+- `AlphaAnimation`: Cambia su transparencia.
+- `Transformation`: Aplica transformaciones personalizadas.
+### Tipos de interpoladores:
+Controlan el ritmo del cambio:
+- `AccelerateDecelerateInterpolator`: Lento - rápido - lento.
+- `AccelerateInterpolator`: Lento al inicio, luego acelera.
+- `BounceInterpolator`: Rebote al final.
+- `CycleInterpolator`: Repetición cíclica.
+- `DecelerateInterpolator`: Rápido al inicio, luego se frena.
+- `LinearInterpolator`: Cambio uniforme.
+---
+### 5.5.2.1 Animaciones View en XML
+Archivo en `res/anim` que define animaciones combinadas (rotar + mover):
+
+```xml
+<set android:shareInterpolator="false" xmlns:android="http://schemas.android.com/apk/res/android">
+    <rotate
+        android:duration="1600"
+        android:fromDegrees="0"
+        android:toDegrees="358"
+        android:interpolator="@android:anim/linear_interpolator"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:repeatCount="infinite"/>
+    <translate
+        android:duration="10000"
+        android:fromXDelta="-1200"
+        android:toXDelta="1200"
+        android:fromYDelta="0"
+        android:toYDelta="40"
+        android:repeatMode="reverse"
+        android:repeatCount="infinite"/>
+</set>
+```
+---
+### 5.5.2.2 Animaciones View en código
+Ejemplo de movimiento con `TranslateAnimation` en código:
+```java
+ImageView imagen = findViewById(R.id.imgPlaneta);
+TranslateAnimation animation = new TranslateAnimation(-400.0f, 800.0f, 80.0f, 400.0f);
+animation.setDuration(10000);
+animation.setRepeatCount(5);
+animation.setRepeatMode(2);
+imagen.startAnimation(animation);
+```
+---
+## 5.5.3 Drawable Animations
+Permiten crear animaciones tipo “película” con varios bitmaps encadenados.
+### Definición en XML (`res/drawable/animacion_robot.xml`):
+```xml
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/robot1" android:duration="200"/>
+    ...
+    <item android:drawable="@drawable/robot10" android:duration="200"/>
+</animation-list>
+```
+### Código para lanzar la animación:
+```java
+AnimationDrawable animacion_robot;
+
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_main);
+    ImageView imgRobot = findViewById(R.id.imgRobot);
+    imgRobot.setBackgroundResource(R.drawable.animacion_robot);
+    animacion_robot = (AnimationDrawable) imgRobot.getBackground();
+    imgRobot.setOnTouchListener(this);
+}
+
+@Override
+public boolean onTouch(View v, MotionEvent event) {
+    if (event.getAction() == MotionEvent.ACTION_DOWN) {
+        animacion_robot.start();
+        return true;
+    }
+    return false;
+}
+```
+---
+## 5.6 Game Loop: Animación en Tiempo Real
+Un bucle de juego se repite constantemente mientras el juego esté activo. Tiene tres fases:
+```java
+while (JuegoEnEjecución) {
+    actualizar();   // cálculos de lógica, físicas, inputs
+    renderizar();   // dibuja elementos en pantalla
+    dormir();       // sincroniza con el reloj del sistema
+}
+```
+### Detalles clave:
+- **Actualizar**: Lógica del juego, entradas del usuario, red, estado del juego.
+- **Renderizar**: Dibujo en `Canvas` (usando `View` o `SurfaceView`).
+  - `View`: redibuja automáticamente en `onDraw`.
+  - `SurfaceView`: usa su propio hilo y es más eficiente para juegos con gráficos dinámicos.
+- **Dormir**: Controla el ritmo del bucle para mantener una tasa de FPS (30fps aceptable).
+> Saltarse algunos renderizados puede ayudar a mantener el ritmo del juego sin afectar la jugabilidad.
