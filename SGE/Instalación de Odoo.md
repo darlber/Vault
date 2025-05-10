@@ -18,15 +18,15 @@ En máquina Virtual, se propone:
 
 ## Instalación siguiendo documentación de Odoo
 
-1. Primero siempre actualizar
+1. Actualizar
 ```bash
 sudo apt update && sudo apt upgrade
 ```
-1. Instalamos PostgreSQL:
+2.  PostgreSQL:
 ```bash
 sudo apt install postgresql -y
 ```
-1. Usuario para PostgreSQL
+3. Usuario para PostgreSQL
 ```sh
 sudo -u postgres createuser odoo -U postgres -dP
 ```
@@ -36,8 +36,8 @@ sudo -u postgres createuser odoo -U postgres -dP
 > -U significa lo mismo, pero dentro de los comandos que ofrece postgreSQL
 > Por tanto, ejecutamos comando createuser como Postgres, y ejecutamos comando para otorgar -d (database) -P (password) como postgres
 
-2. Instalamos Odoo
-Obtenemos dependencias
+4. Instalamos Odoo
+Obtenemos dependencias y repositorio
 ```bash
 wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/share/keyrings/odoo-archive-keyring.gpg
  echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/17.0/nightly/deb/ ./' | sudo tee/etc/apt/sources.list.d/odoo.list
@@ -59,31 +59,53 @@ sudo adduser --home=/opt/odoo odoo
 3. PostgreSQL
 ```bash
 sudo apt install postgresql
-sudo systemctl status postgresql
 ```
 4. Usuario
 ```bash
 sudo -u postgres createuser odoo -U postgres -dP
 ```
+5. Cambiamos usuario
+```sh
+su - odoo
+```
+6. Git clone
+```sh
+git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo
+```
+7. Entorno virtual
+```sh
+python3 -m venv .odoo-env
+source .odoo-env/bin/activate
+```
+8. Dependencias python
+```sh
+pip3 install wheel setuptools pip --upgrade
+pip3 install -r requirements.txt
+```
+9. Crear carpeta y desactivar entorno virtual
+```sh
+mkdir /opt/odoo/odoo/custom-addons
+deactivate
+exit
+```
 ---
-
-
 5. Upgrade
-
-`sudo apt-get upgrade`
+```sh
+sudo apt-get upgrade
+```
 
 6. Comprobación de status de ambos servicios
-
-`sudo systemctl status odoo`
-
-`sudo systemctl status postgresql`
+```sh
+sudo systemctl status odoo
+sudo systemctl status postgresql
+```
 
 7.  Archivos de configuración:
 - Paramos los dos servicios
-
-`sudo systemctl stop odoo`
-
-`sudo systemctl stop postgresql`
+```sh
+sudo systemctl stop odoo
+sudo systemctl stop postgresql
+```
 
 Dentro de:
 `sudo nano /etc/postgresql/xx/main/postgresql.conf`
