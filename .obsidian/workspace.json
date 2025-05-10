@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMDM/PMDM4 - Preferences.md",
+                "file": "SGE/Instalación de Odoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PMDM4 - Preferences"
+              "title": "Instalación de Odoo"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PMDM/PMDM4 - Preferences.md",
+                "file": "SGE/Instalación de Odoo.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PMDM4 - Preferences"
+              "title": "Outline of Instalación de Odoo"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b43a4bccc4e1c73",
+  "active": "4c6aae0b20b71264",
   "lastOpenFiles": [
-    "PMDM/PMDM5 - Videojuegos.md",
     "PMDM/PMDM4 - Preferences.md",
+    "PMDM/PMDM5 - Videojuegos.md",
     "SGE/Instalación de Odoo.md",
     "PMDM",
     "SGE/Modo Desarrollador de Odoo.md",

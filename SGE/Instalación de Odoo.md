@@ -39,51 +39,10 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
 
 `sudo apt-get install odoo`
 
+## Instalación desde 
+
 ---
-## Instalación desde fuente
 
-```bash
-git clone https://github.com/odoo/odoo.git
-git clone https://github.com/odoo/enterprise.git
-```
-
-```bash
-sudo apt install python3
-```
-
-```bash
-sudo apt install postgresql postgresql-client
-```
-
-```bash
-sudo -u postgres createuser -d -R -S $USER
-createdb $USER
-```
-
-Dependencias:
-
-```bash
-cd odoo #CommunityPath
-sudo ./setup/debinstall.sh
-```
-
-```bash
- cd /CommunityPath
- python3 odoo-bin --addons-path=addons -d mydb
-```
-
-Donde `CommunityPath` es la ruta de la instalación de Odoo Community y `mydb` es la base de datos de PostgreSQL.
-
-Dependencias:
-```bash
-sudo apt-get install git python3 python3-pip build-essential wget python3-dev python3-venv python3-wheel libxslt-dev libzip-dev libldap2-dev libsasl2-dev python3- setuptools node-less libjpeg-dev gdebi -y
-sudo apt-get install nodejs npm -y
-sudo npm install -g rtlcss
-
-sudo apt-get install git
-git clone https://github.com/odoo/odoo --depth 1 --branch 17.0 odoo
-```
---- 
 
 5. Upgrade
 
