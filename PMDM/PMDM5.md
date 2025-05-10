@@ -193,7 +193,7 @@ public boolean onTouch(View v, MotionEvent event) {
 }
 ```
 ---
-## 5.6 Game Loop: Animación en Tiempo Real
+# 5.6 Game Loop: Animación en Tiempo Real
 Un bucle de juego se repite constantemente mientras el juego esté activo. Tiene tres fases:
 ```java
 while (JuegoEnEjecución) {
@@ -209,3 +209,126 @@ while (JuegoEnEjecución) {
   - `SurfaceView`: usa su propio hilo y es más eficiente para juegos con gráficos dinámicos.
 - **Dormir**: Controla el ritmo del bucle para mantener una tasa de FPS (30fps aceptable).
 > Saltarse algunos renderizados puede ayudar a mantener el ritmo del juego sin afectar la jugabilidad.
+
+# 5.7 La Interacción con el Jugador
+- La interacción se gestiona vía eventos táctiles (`Touch`) y gestos.
+- Ciclo de Touch: `dispatchTouchEvent` → `onInterceptTouchEvent` → `onTouchEvent`.
+---
+## 5.7.1 Eventos Touch
+1. **Dispatch**: Recorre hijos de la actividad para procesar el toque.  
+2. **Intercept**: Decide si un hijo procesa el evento.  
+3. **Callback**: `onTouchEvent` maneja la lógica final (tipo de acción y coordenadas).
+### Acciones de `MotionEvent`:
+- `ACTION_DOWN`: Inicio del toque.  
+- `ACTION_MOVE`: Movimiento tras el toque.  
+- `ACTION_UP`: Fin del toque.  
+- `ACTION_CANCEL`: Gesto abortado.
+### Ejemplo básico de `onTouch` en `SurfaceView`:
+```java
+public class Juego extends SurfaceView implements SurfaceHolder.Callback, OnTouchListener {
+    int touchX, touchY;
+    boolean hayToque = false;
+
+    public Juego(Context ctx) {
+        super(ctx);
+        setOnTouchListener(this);
+    }
+
+    @Override
+    public void onDraw(Canvas canvas) {
+        if (hayToque) {
+            canvas.drawCircle(touchX, touchY, 20, myPaint);
+        }
+    }
+
+    @Override
+    public boolean onTouch(View v, MotionEvent event) {
+        switch (event.getActionMasked()) {
+            case MotionEvent.ACTION_DOWN: hayToque = true; break;
+            case MotionEvent.ACTION_UP:   hayToque = false; break;
+        }
+        touchX = (int) event.getX();
+        touchY = (int) event.getY();
+        return true;
+    }
+}
+```
+---
+## 5.7.2 Eventos Multitouch
+- Cada dedo es un **pointer** (x, y, id, index).  
+- Eventos:
+  - Primer dedo: `ACTION_DOWN`  
+  - Dedos adicionales: `ACTION_POINTER_DOWN`  
+  - Movimiento: `ACTION_MOVE`  
+  - Dedo suelto: `ACTION_POINTER_UP`  
+  - Último dedo suelto: `ACTION_UP`  
+### Claves:
+- `event.getPointerCount()` para contar toques.  
+- `MotionEventCompat.getActionIndex(event)` para obtener índice.  
+- `MotionEventCompat.getX/Y(event, index)` para coordenadas.
+### Ejemplo de manejo multitouch:
+```java
+public class Toque { int index, x, y; Toque(int i, int x, int y){...} }
+private ArrayList<Toque> toques = new ArrayList<>();
+
+@Override
+public boolean onTouch(View v, MotionEvent event) {
+    int index = MotionEventCompat.getActionIndex(event);
+    switch (event.getActionMasked()) {
+        case ACTION_DOWN:
+        case ACTION_POINTER_DOWN:
+            int x = (int) MotionEventCompat.getX(event, index);
+            int y = (int) MotionEventCompat.getY(event, index);
+            toques.add(new Toque(index, x, y));
+            break;
+        case ACTION_POINTER_UP:
+        case ACTION_UP:
+            toques.removeIf(t -> t.index == index);
+            break;
+    }
+    hayToque = !toques.isEmpty();
+    return true;
+}
+
+public void render(Canvas canvas) {
+    if (hayToque) {
+        synchronized(this) {
+            for (Toque t : toques) {
+                canvas.drawCircle(t.x, t.y, 100, myPaint);
+                canvas.drawText(String.valueOf(t.index), t.x, t.y, myPaint2);
+            }
+        }
+    }
+}
+```
+---
+## 5.7.3 Gestos (Gestures)
+- Se usan **GestureDetector** y sus listeners:
+  - **OnGestureListener**:
+    - `onDown`, `onSingleTapUp`, `onFling`, `onLongPress`, `onScroll`, `onShowPress`
+  - **OnDoubleTapListener**:
+    - `onDoubleTap`, `onDoubleTapEvent`, `onSingleTapConfirmed`
+### Uso en `onTouchEvent`:
+```java
+@Override
+public boolean onTouchEvent(MotionEvent event) {
+    return detectorGestos.onTouchEvent(event);
+}
+```
+### Ejemplo de `SimpleOnGestureListener`:
+```java
+private class ControladorGestos extends GestureDetector.SimpleOnGestureListener {
+    @Override public boolean onDown(MotionEvent e) { Log.i(TAG,"onDown"); return true; }
+    @Override public void onLongPress(MotionEvent e) { Log.i(TAG,"onLongPress"); }
+    @Override public boolean onScroll(MotionEvent e1, MotionEvent e2, float dx, float dy) {
+        Log.i(TAG,"onScroll"); return false;
+    }
+    @Override public boolean onSingleTapUp(MotionEvent e) { Log.i(TAG,"onSingleTapUp"); return true; }
+    @Override public boolean onFling(MotionEvent e1, MotionEvent e2, float vx, float vy) {
+        Log.i(TAG,"onFling"); return false;
+    }
+}
+```
+
+# 5.8 Videojuegos
+
