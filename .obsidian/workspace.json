@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/Instalación de Odoo.md",
+                "file": "PMDM/PMDM4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instalación de Odoo"
+              "title": "PMDM4"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cfc5a5c03bf09d03",
@@ -181,8 +182,10 @@
   },
   "active": "6c6efaa43bfbeaa9",
   "lastOpenFiles": [
-    "SGE/Modo Desarrollador de Odoo.md",
     "SGE/Instalación de Odoo.md",
+    "PMDM/PMDM4.md",
+    "PMDM",
+    "SGE/Modo Desarrollador de Odoo.md",
     "SGE/pgAdmin4.md",
     "SGE/Personalizar Vistas.md",
     "SGE/SGE 3.md",
