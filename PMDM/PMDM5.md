@@ -17,7 +17,6 @@
 ## Canvas de Android
 - Se utiliza para gráficos dinámicos.
 - Basado en coordenadas `(x, y)` y una superficie de dibujo asociada a un `Bitmap`.
-
 ### Elementos necesarios para dibujar:
 1. Coordenadas (x, y)
 2. Primitiva de dibujo (`Rect`, `Text`, `Bitmap`, etc.)
@@ -60,5 +59,48 @@ public void render(Canvas canvas) {
     myPaint.setStyle(Paint.Style.FILL);
     myPaint.setTextSize(100);
     canvas.drawText("Aquí un texto", 50, 200, myPaint); // Texto
+}
+```
+#  Dibujables y Framework de Animaciones en Android
+## 5.4 Dibujables (Drawables)
+- **Drawable**: Abstracción para cualquier elemento que pueda ser dibujado (imágenes, formas, etc.).
+- **Formatos soportados**:
+  - `.png` (preferido)
+  - `.jpg` (aceptable)
+  - `.gif` (desaconsejado)
+### Sprites
+- Imágenes con fondo transparente, usadas para integrarse visualmente en escenas.
+- Solo se dibujan los píxeles no transparentes.
+- Se crean con herramientas como **GIMP**:
+  - Editor gráfico open-source.
+  - Soporta creación de transparencias esenciales para sprites.
+## 5.5 Framework de Animaciones de Android
+- Permite crear animaciones complejas sin necesidad de conocimientos avanzados de física o matemáticas.
+- Se usa principalmente la clase `Animation` y `AnimationSet`.
+- Tipos de animaciones:
+  - **Property Animations**
+  - **View Animations**
+  - **Drawable Animations**
+### 5.5.1 Property Animations
+- Introducidas en API nivel 11.
+- Permiten animar propiedades de cualquier objeto (`View`, botones, etc.).
+- Ejemplo: Trasladar y desvanecer (fade in) un botón simultáneamente.
+```java
+public void AnimacionBoton(){
+    AnimatorSet animadorBoton = new AnimatorSet();
+
+    // Traslada desde -800px hasta la posición original
+    ObjectAnimator trasladar = ObjectAnimator.ofFloat(botonJuego, "translationX", -800, 0);
+    trasladar.setDuration(5000); // duración 5 segundos
+
+    // Efecto fade in de 0 a 1 (transparente a opaco)
+    ObjectAnimator fade = ObjectAnimator.ofFloat(botonJuego, "alpha", 0f, 1f);
+    fade.setDuration(8000); // duración 8 segundos
+
+    // Ejecutar ambas animaciones simultáneamente
+    animadorBoton.play(trasladar).with(fade);
+
+    // Iniciar la animación
+    animadorBoton.start();
 }
 ```
