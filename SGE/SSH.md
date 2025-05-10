@@ -20,5 +20,7 @@ Configuración:
 
 `sudo ufw allow OpenSSH`
 
+Revisar ip con `ip a` o instalar net-tools y usar `ifconfig`
+
 Podremos conectarnos usando usuario@ip
 > alberto@192.168.1.88

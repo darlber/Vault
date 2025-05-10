@@ -40,8 +40,11 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
 
 `sudo apt-get install odoo`
 
-## Instalación desde 
-
+## Variante
+1. Dependencias python
+```bash
+sudo apt update && sudo apt install -y python3-pip build-essential wget git python3-dev libxml2-dev libxslt1-dev libevent-dev libjpeg-dev libpq-dev libz-dev curl fonts-dejavu libldap2-dev libsasl2-dev libtiff5-dev libwebp-dev libopenjp2-7-dev libyaml-dev xz-utils libblas-dev libatlas-base-dev python3-venv
+```
 ---
 
 
