@@ -16,7 +16,8 @@ En máquina Virtual, se propone:
 - **Wkhmtltopdf**. Este paquete permite la generación de informes en PDF. En función de la forma de instalar Odoo podría estar disponible desde el principio, pero se debe de comprobar.
 - **Hosts**. Windows, la personalización de Hosts nos permitirá utilizar un nombre de la máquina virtual para acceder por Web sin usar la IP, de forma más natural.
 
-## Instalación desde paquetes
+## Instalación siguiendo documentación de Odoo
+
 1. Primero siempre actualizar
 `sudo apt update && sudo apt upgrade`
 2. Instalamos PostgreSQL:
