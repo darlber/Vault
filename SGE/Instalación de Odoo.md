@@ -89,38 +89,42 @@ deactivate
 exit
 ```
 ---
-5. Upgrade
+## Configuración
+1. Actualización
 ```sh
 sudo apt-get upgrade
 ```
-
-6. Comprobación de status de ambos servicios
+2. Status
 ```sh
 sudo systemctl status odoo
 sudo systemctl status postgresql
 ```
-
-7.  Archivos de configuración:
+3.  Archivos de configuración:
 - Paramos los dos servicios
 ```sh
 sudo systemctl stop odoo
 sudo systemctl stop postgresql
 ```
-
 Dentro de:
-`sudo nano /etc/postgresql/xx/main/postgresql.conf`
+```sh
+sudo nano /etc/postgresql/xx/main/postgresql.conf
+```
 - Descomentamos la siguiente línea
 `listen_addresses = ‘*’`
 
 Dentro de:
-`sudo nano /etc/postgresql/xx/main/pg_hba.conf`
+```sh
+sudo nano /etc/postgresql/xx/main/pg_hba.conf
+```
 - Añadimos en **IPV4**
 	
 		host    all             odoo             0.0.0.0/0               md5 / scram-sha-256
 		type    database        user             direccion               encriptado
 
 Dentro de:
-`sudo nano /etc/odoo-server.conf`
+```sh
+sudo nano /etc/odoo-server.conf
+```
 
 	admin_passwd = {user_odoo_password}
 	db_host = localhost
@@ -130,7 +134,7 @@ Dentro de:
 	addons_path = /opt/odoo/odoo/addons,/opt/odoo/odoo/custom-addons
 	default_productivity_apps = True
 	xmlrpc_port = 8069
-8.  Reload de servicios
+4. Reload de servicios
 ```bash
 sudo systemctl enable odoo 
 sudo systemctl enable postgresql
