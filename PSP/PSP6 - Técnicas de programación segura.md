@@ -71,14 +71,106 @@ class EscribirNumeros {
 }
 ```
 ## 2.3 Validación de Entradas
-- Validar siempre datos externos (formularios, sockets, ficheros).
-- Usar expresiones regulares, rangos, listas blancas.    
-- Evitar inyección (SQL, comandos, XSS).
-## 2.4 Logging y Auditoría
-- Registrar eventos de seguridad (intentos fallidos, excepciones críticas).
-- No loguear datos sensibles (contraseñas).
-- Facilita detección de patrones de ataque y análisis.
-## 2.5 Gestión de Configuración y Permisos
-- Parámetros de seguridad en ficheros externos protegidos.
-- SecurityManager y políticas de acceso (Java Policy).
-- Principio de mínimo privilegio: otorgar solo permisos necesarios.
+- **Errores comunes**: *Buffer overflow* (desbordamiento de memoria) ocurre cuando se ingresan más datos de los permitidos.
+- **Objetivo de la validación**:
+  - Mantener la consistencia de los datos.
+  - Evitar desbordamientos de memoria.
+### Pasos para usar expresiones regulares:
+1. **Importar librería**:
+    ```java
+    import java.util.regex.*;
+    ```
+2. **Definir `Pattern` y `Matcher`**:
+    ```java
+    Pattern pat = null;
+    Matcher mat = null;
+    ```
+3. **Compilar patrón**:
+    ```java
+    pat = Pattern.compile(patron);
+    ```
+4. **Ejemplo de patrón** (DNI):
+    ```java
+    pat = Pattern.compile("[0-9]{8}-[a-zA-Z]");
+    ```
+5. **Evaluar entrada**:
+    ```java
+    mat = pat.matcher(texto);
+    if (mat.find()) {
+        // Coincide
+    } else {
+        // No coincide
+    }
+    ```
+### Expresiones comunes:
+- `[a-z]`: Letra minúscula.
+- `[0-9]`: Número.
+- `[a-zA-Z]`: Letra (minúscula o mayúscula).
+- `hola|adios`: Opción lógica (hola o adios).
+## 2.4 Ejemplo II: Validación de DNI
+
+```java
+import java.io.*;
+import java.util.regex.*;
+
+class ValidarEntrada {
+    public ValidarEntrada() {
+        String dni_cliente = new String();
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        
+        try {
+            System.out.println("Introduce tu DNI (Formato 00000000-A):");
+            dni_cliente = reader.readLine();
+            Pattern pat = Pattern.compile("[0-9]{8}-[a-zA-Z]");
+            Matcher mat = pat.matcher(dni_cliente);
+            
+            if (mat.find()) {
+                System.out.println("Correcto!!  " + dni_cliente);
+            } else {
+                System.out.println("El DNI está mal  " + dni_cliente);
+            }
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
+    }
+
+    public static void main(String[] arg) {
+        new ValidarEntrada();
+    }
+}
+```
+
+# 2.5 Ficheros de Registro
+
+### Pasos para trabajar con ficheros de registro:
+
+1. Importar librería:
+```java
+import java.util.logging.*;
+```
+2. Crear Logger:
+```java
+Logger logger = Logger.getLogger("MyLog");
+```
+3. Asociar a un archivo
+```java
+FileHandler fh = new FileHandler("c:\\MyLogFile.log", true);
+```
+4. Configurar logger
+```java
+logger.setUseParentHandlers(false);
+```
+
+5. Nivel de registro
+```java
+logger.setLevel(Level.SEVERE);
+```
+6. Registrar evento
+```java
+logger.log(Level.WARNING, "Mi primer log");
+```
+### Niveles de registro:
+- `SEVERE`: Máxima importancia.
+- `WARNING`: Advertencia.
+- `INFO`: Información general.
+- `FINEST`: Mínima importancia.
