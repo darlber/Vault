@@ -261,33 +261,52 @@ byte[] digest = md.digest();
 ```
 ## **4.5 - Firma digital con la clase Signature:**
 - **Objetivo:** Realizar firmas digitales y su verificación con la clase `Signature`.
-- **Pasos para realizar una firma digital:**
-    
-    1. **Generar claves pública y privada** con `KeyPairGenerator`.
-        
-        - **PrivateKey:** Para firmar.
-            
-        - **PublicKey:** Para verificar la firma.
-            
-    2. **Firmar el mensaje:**
-        
-        - Crear objeto `Signature` con un algoritmo asimétrico (e.g., DSA).
-            
-        - `initSign()`: Inicializa con la clave privada.
-            
-        - `update()`: Crea el resumen del mensaje.
-            
-        - `sign()`: Devuelve la firma digital.
-            
-    3. **Verificar la firma:**
-        
-        - `initVerify()`: Inicializa con la clave pública.
-            
-        - `update()`: Actualiza el resumen para verificar.
-            
-        - `verify()`: Verifica la firma.
-            
-- **Algoritmo de firma:** El algoritmo DSA (Digital Signature Algorithm) implementado en el JDK usa MD5 y SHA-1 para los resúmenes de mensaje.
-    
+1. **Generar claves pública y privada** con `KeyPairGenerator`.
+	- **PrivateKey:** Para firmar.
+	- **PublicKey:** Para verificar la firma.
+2. **Firmar el mensaje:**
+- Crear objeto `Signature` con un algoritmo asimétrico (e.g., DSA).
+	- `initSign()`: Inicializa con la clave privada.
+	- `update()`: Crea el resumen del mensaje.
+	- `sign()`: Devuelve la firma digital.
+3. *Verificar la firma:**
+	- `initVerify()`: Inicializa con la clave pública.
+	- `update()`: Actualiza el resumen para verificar.
+	- `verify()`: Verifica la firma.
 
+- **Algoritmo de firma:** El algoritmo DSA (Digital Signature Algorithm) implementado en el JDK usa MD5 y SHA-1 para los resúmenes de mensaje.
 **Ejemplo básico de firma y verificación:**
+```java
+// Firmar
+Signature sig = Signature.getInstance("DSA");
+sig.initSign(privateKey);
+sig.update(data);
+byte[] signature = sig.sign();
+
+// Verificar
+sig.initVerify(publicKey);
+sig.update(data);
+boolean isVerified = sig.verify(signature);
+```
+
+## **4.6 - Encriptación con la clase Cipher:**
+
+- **Objetivo:** La clase `Cipher` permite realizar encriptación y desencriptación de datos con clave pública o privada.
+- **Métodos clave:**
+    1. `getInstance()`: Define el algoritmo y proveedor del cifrador.
+    2. `init()`: Define el modo de operación (encriptación/desencriptación).
+    3. `update()` y `doFinal()`: Insertan los datos en el cifrador y completan el proceso.
+- **Modos de operación disponibles:**
+    - **ENCRYPT_MODE:** Encriptación.
+    - **DECRYPT_MODE:** Desencriptación.
+    - **WRAP_MODE:** Convierte una clave en una secuencia de bytes para transmitirla de forma segura.
+    - **UNWRAP_MODE:** Desenvuelve la clave que fue envuelta con `WRAP_MODE`.
+- **Tipos de cifrado:**
+    - **Bloque (Block Cipher):** El texto se divide en bloques de tamaño fijo (e.g., 64 bits). Si el tamaño no es múltiplo de 64 bits, se agrega un relleno (padding).
+        - Ejemplo: `"Rijndael/ECB/PKCS5Padding"` especifica el algoritmo, modo de operación y tipo de relleno.
+    - **Flujo (Stream Cipher):** Cifra bit a bit o byte a byte. Ideal para cifrado en tiempo real.
+
+**Ejemplo básico de encriptación con `Cipher`:**
+Cipher cipher = Cipher.getInstance("AES");
+cipher.init(Cipher.ENCRYPT_MODE, secretKey);
+byte[] encrypted = cipher.doFinal(data);
