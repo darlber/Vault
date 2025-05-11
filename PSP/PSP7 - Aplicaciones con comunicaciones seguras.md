@@ -307,6 +307,56 @@ boolean isVerified = sig.verify(signature);
     - **Flujo (Stream Cipher):** Cifra bit a bit o byte a byte. Ideal para cifrado en tiempo real.
 
 **Ejemplo básico de encriptación con `Cipher`:**
+```java
 Cipher cipher = Cipher.getInstance("AES");
 cipher.init(Cipher.ENCRYPT_MODE, secretKey);
 byte[] encrypted = cipher.doFinal(data);
+```
+# **5. Sockets seguros en Java (JSSE)**
+
+**JSSE (Java Secure Socket Extension):**
+
+JSSE es una biblioteca integrada en el JDK desde la versión 1.4, que ofrece comunicaciones seguras utilizando el protocolo SSL. A través del paquete `javax.net.ssl`, JSSE proporciona una forma de crear **sockets seguros** mediante autenticación, integridad y confidencialidad de los datos transmitidos.
+
+- **Clases principales para sockets seguros:**
+    - **SSLSocket:** Para crear sockets seguros en el cliente.
+    - **SSLServerSocket:** Para crear sockets seguros en el servidor.
+### 5.1 - **Programar un socket seguro de servidor:**
+Para crear un socket seguro de servidor, se sigue el patrón de diseño **Factory**. El proceso consiste en:
+
+1. Obtener un objeto **SSLServerSocketFactory**.
+2. Crear un **SSLServerSocket** y especificar el puerto de escucha del servidor.
+3. El servidor escucha conexiones entrantes y establece un canal seguro con cada cliente.
+
+**Código ejemplo:**
+
+```java
+SSLServerSocketFactory factory = (SSLServerSocketFactory) SSLServerSocketFactory.getDefault();
+SSLServerSocket serverSocket = (SSLServerSocket) factory.createServerSocket(5000);
+```
+### 5.2 - **Programar un socket seguro cliente:**
+En el caso del cliente, también se utiliza una fábrica, **SSLSocketFactory**, para crear el socket seguro. Sin embargo, en ciertos casos, no es necesario crear esta fábrica explícitamente.
+
+Los pasos son:
+
+1. Obtener un objeto **SSLSocketFactory**.
+2. Crear un **SSLSocket**, especificando el nombre del servidor y el puerto.
+3. Establecer un canal seguro de comunicación con el servidor.
+
+**Código ejemplo:**
+```java
+SSLSocketFactory factory = (SSLSocketFactory) SSLSocketFactory.getDefault();
+SSLSocket socket = (SSLSocket) factory.createSocket("localhost", 5000);
+```
+### 5.3 - **Ejemplos de aplicaciones con comunicaciones seguras:**
+Para autenticar y asegurar la comunicación, se utilizan **certificados digitales**. Estos certificados se pueden generar utilizando la herramienta **keytool**, que es parte del JDK y permite crear, almacenar y gestionar certificados para SSL.
+
+**Proceso de conexión segura:**
+1. El servidor crea un certificado utilizando **keytool**.
+2. El servidor establece un socket seguro con los clientes utilizando SSL.
+3. El cliente también se autentica utilizando un certificado válido.
+
+**Ejemplo de uso de keytool:**
+```sh
+keytool -genkey -alias myserver -keyalg RSA -keystore mykeystore.jks
+```
