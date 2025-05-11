@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMDM/PMDM5 - Videojuegos.md",
+                "file": "PSP/PSP4.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "PMDM5 - Videojuegos"
+              "title": "PSP4"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PMDM/PMDM5 - Videojuegos.md",
+                "file": "PSP/PSP4.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PMDM5 - Videojuegos"
+              "title": "Outline of PSP4"
             }
           },
           {
@@ -179,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b43a4bccc4e1c73",
+  "active": "7730eeb8ae4b63dd",
   "lastOpenFiles": [
-    "PMDM/PMDM4 - Preferences.md",
-    "PMDM/PMDM5 - Videojuegos.md",
     "PMDM/PMDM6 - Sensores.md",
+    "PSP/PSP4.md",
+    "PSP",
+    "PMDM/PMDM5 - Videojuegos.md",
+    "PMDM/PMDM4 - Preferences.md",
     "Untitled.md",
     "SGE/Instalación de Odoo.md",
     "SGE/Actualización Odoo.md",
