@@ -213,5 +213,125 @@ int estado;       // Estado actual
 String comando;   // Entrada del cliente  
 ```
 Se gestionan con `if` y `switch`.
+# 2.6️ Ejemplo III: Diagrama de Transiciones
+```java
+    int estado = 1;
+
+    do {
+        switch (estado) {
+        case 1:
+            flujo_salida.writeUTF("Introduce comando (ls/get/exit)");
+            comando = flujo_entrada.readUTF();
+            if (comando.equals("ls")) {
+                System.out.println("\tEl cliente quiere ver el contenido del directorio");
+                // Mostrar directorio...
+                estado = 1;
+                break;
+            } else if (comando.equals("get")) {
+                // Voy al estado 3 para mostrar el fichero
+                estado = 3;
+                break;
+            } else {
+                estado = 1;
+                break;
+            }
+        case 3:
+            // Estado 3: mostrar archivo
+            flujo_salida.writeUTF("Introduce el nombre del archivo");
+            String fichero = flujo_entrada.readUTF();
+            // Mostrar contenido del fichero...
+            estado = 1;
+            break;
+        }
+        if (comando.equals("exit")) {
+            estado = -1;
+        }
+    } while (estado != -1);
+```
+# 2.7️ Monitorizar Tiempos de Respuesta
+- **Tiempo de procesamiento**: tiempo interno en el servidor  
+- **Tiempo de transmisión**: retraso en la red
+
+Para medir **tiempo de procesamiento** (ms), en el servidor:
+
+```java
+    import java.util.Date;
+
+    long t1 = (new Date()).getTime();
+    // Procesar petición...
+    long t2 = (new Date()).getTime();
+    System.out.println("\tTiempo = " + (t2 - t1) + " ms");
+```
+
+Para medir **tiempo de transmisión**, el servidor envía al cliente:
+
+    long tEnvio = System.currentTimeMillis();
+    flujo_salida.writeUTF(Long.toString(tEnvio));
+
+Y el cliente calcula:
+
+    long tRecibido = (new Date()).getTime();
+    long rtt = tRecibido - tEnvio;
+
+Los relojes deben estar sincronizados (NTP):  
+- Windows: automático  
+- Linux: `/usr/sbin/ntpdate -u 0.centos.pool.ntp.org`
+
+También se puede usar `ping` para medir RTT.
+# 2.8️ Ejemplo IV: Cálculo de Tiempo de Transmisión
+#### Servidor.java (servidor envía timestamp)
+```java
+    import java.io.*;
+    import java.net.*;
+    import java.util.Date;
+
+    class Servidor {
+        static final int Puerto = 2000;
+        public Servidor() {
+            try {
+                ServerSocket ss = new ServerSocket(Puerto);
+                System.out.println("Escucho el puerto " + Puerto);
+                Socket sc = ss.accept();
+                System.out.println("Cliente conectado");
+                DataOutputStream out = new DataOutputStream(sc.getOutputStream());
+                long tiempo1 = (new Date()).getTime();
+                out.writeUTF(Long.toString(tiempo1));
+                sc.close();
+                System.out.println("Cliente desconectado");
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
+            }
+        }
+        public static void main(String[] args) {
+            new Servidor();
+        }
+    }
+```
+#### Cliente.java (cliente calcula diferencia)
+```java
+    import java.io.*;
+    import java.net.*;
+    import java.util.Date;
+
+    class Cliente {
+        static final String HOST = "localhost";
+        static final int Puerto = 2000;
+        public Cliente() {
+            try {
+                Socket s = new Socket(HOST, Puerto);
+                DataInputStream in = new DataInputStream(s.getInputStream());
+                long tiempo1 = Long.valueOf(in.readUTF());
+                long tiempo2 = (new Date()).getTime();
+                System.out.println("\nEl tiempo de transmisión es: " + (tiempo2 - tiempo1) + " ms");
+                s.close();
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
+            }
+        }
+        public static void main(String[] args) {
+            new Cliente();
+        }
+    }
+```
 
 [[PSP5 - Generación de servicios en red]]
