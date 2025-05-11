@@ -489,5 +489,4 @@ private void galleryAddPic() {
     this.sendBroadcast(mediaScanIntent);
 }
 ```
-
-# [[PMDM5 - Videojuegos]]
+ [[PMDM5 - Videojuegos]]

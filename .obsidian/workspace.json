@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMDM/PMDM6.md",
+                "file": "PMDM/PMDM5 - Videojuegos.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "PMDM6"
+              "title": "PMDM5 - Videojuegos"
             }
           }
         ]
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PMDM/PMDM5 - Videojuegos.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PMDM5 - Videojuegos"
             }
           },
           {
@@ -178,17 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7730eeb8ae4b63dd",
+  "active": "7b43a4bccc4e1c73",
   "lastOpenFiles": [
-    "PMDM/PMDM6.md",
+    "PMDM/PMDM4 - Preferences.md",
+    "PMDM/PMDM5 - Videojuegos.md",
+    "PMDM/PMDM6 - Sensores.md",
     "Untitled.md",
     "SGE/Instalación de Odoo.md",
     "SGE/Actualización Odoo.md",
-    "PMDM/PMDM4 - Preferences.md",
     "SGE/SGE 2.md",
     "SGE/SGE 4.md",
     "SGE/SSH.md",
-    "PMDM/PMDM5 - Videojuegos.md",
     "PMDM",
     "SGE/Modo Desarrollador de Odoo.md",
     "SGE/pgAdmin4.md",
