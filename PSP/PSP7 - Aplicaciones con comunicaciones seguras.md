@@ -11,12 +11,10 @@
     - **Confidencialidad**: Solo Isabel debe entenderlo.
     - **Autenticación**: Firma digital para verificar que es de Antonio.
     - **No repudio**: Antonio no puede negar que envió el mensaje, e Isabel no puede negar que lo recibió.
-
 # 2. **Criptografía**
 - **Definición**: Técnica de "escritura secreta" para codificar la información, asegurando que solo el receptor autorizado pueda leerla.
 - **Criptoanálisis**: Estudia la seguridad de los sistemas criptográficos y mejora su eficacia.
 - **Criptología**: Ciencia que abarca tanto la criptografía como el criptoanálisis.
-
 ## 2.1 **Encriptación de la Información**
 - **Cifrado**: Convertir la información en algo ininteligible.
 - **Descifrado**: Convertir la información cifrada de vuelta a su forma original.
@@ -53,7 +51,6 @@
 - **Factores de seguridad**:
   1. **Diseño del algoritmo**: Cuanto menos fallos tenga, más seguro será.
   2. **Longitud de la clave**: A mayor longitud, mayor seguridad (mínimo 128 bits).
-
 ## 2.3 **Criptografía de clave privada o simétrica**
 - **Características**:
   - La clave es secreta, conocida solo por el emisor y receptor.
@@ -67,7 +64,6 @@
   - **Escalabilidad**: Se necesitan muchas claves si hay múltiples personas.
 
 - **Ejemplos de algoritmos**: AES, Rijndael, DES, 3-DES, DES-X, IDEA, RC5.
-
 ## 2.4 **Criptografía de clave pública o asimétrica**
 - **Características**:
   - Cada parte tiene una **pareja de claves**: una pública (conocida por todos) y una privada (solo conocida por el propietario).
@@ -85,8 +81,7 @@
 - **Ejemplos de algoritmos**: DSA, RSA, Diffie-Hellman.
 
 - **Uso combinado**: Se utiliza criptografía asimétrica para negociar una clave privada para la comunicación.
-
-## 2.5 **Resumen de mensajes, firma digital y certificados digitales**
+## 2.5 **Resemen de mensajes, firma digital y certificados digitales**
 - **Resumen de mensajes** (Funciones HASH):  
   - Convierte un mensaje de longitud variable en un resumen de longitud fija.  
   - **Propiedades**: Salida constante, aleatorio y unidireccional.
@@ -103,28 +98,163 @@
   - **Función**: Proveer confianza y autenticar a las partes.
 
 - **Entidad Certificadora**: Organizaciones responsables de emitir y gestionar certificados digitales, incluyendo su revocación, suspensión y verificación.
+## **2.6 - Principales aplicaciones de la criptografía:**
+1. **Seguridad de las comunicaciones:**
+   - Establece canales seguros sobre redes inseguras.
+   - Utiliza cifrado simétrico y algoritmos de clave pública para mantener la privacidad sin afectar la velocidad de transferencia.
 
-# 3- Resumen de Protocolos Seguros
+2. **Identificación y autentificación:**
+   - Uso de firmas digitales y técnicas criptográficas para validar identidad o acceso.
+   - Más seguro que sistemas tradicionales de usuario y clave.
 
-Los protocolos seguros de comunicación son fundamentales para garantizar la privacidad, integridad y autenticidad de la información que se transmite a través de redes no seguras como Internet. En este contexto, los protocolos criptográficos como SSL/TLS, SSH y HTTPS juegan un papel esencial. A continuación, resumimos las principales características y aplicaciones de estos protocolos:
+3. **Certificación:**
+   - Agentes confiables validan identidades en sistemas grandes.
+   - Extiende el uso de la criptografía a gran escala para identificación y autentificación.
 
-**SSL/TLS:**
-- **SSL (Secure Sockets Layer)** y **TLS (Transport Layer Security)** son protocolos criptográficos utilizados para asegurar la comunicación entre clientes y servidores.
-- SSL fue diseñado inicialmente por Netscape para garantizar la confidencialidad, autenticidad e integridad de las comunicaciones en la web.
-- TLS es una versión más moderna de SSL que mejora la seguridad y soporta más algoritmos criptográficos.
-- La seguridad se basa en un protocolo de "apretón de manos" (handshake) para negociar las claves y algoritmos de cifrado. Durante este proceso, se utilizan tanto criptografía asimétrica como simétrica.
+4. **Comercio electrónico:**
+   - Garantiza transacciones seguras a través de canales protegidos y mecanismos de identificación.
+   - Reduce fraudes y robos.
+# **3 - Protocolos seguros de comunicaciones:**
 
-**HTTPS (HyperText Transfer Protocol Secure):**
-- HTTPS es simplemente HTTP sobre SSL/TLS, garantizando que la comunicación web se realice de forma segura.
-- Se utiliza principalmente para el intercambio de información sensible en sitios web, como datos bancarios o detalles personales.
-- El protocolo HTTPS asegura que los datos transmitidos no puedan ser interceptados ni modificados durante su transferencia.
+1. **SSL (Secure Sockets Layer):**
+   - Proporciona seguridad en la comunicación cliente/servidor.
+   - Protege contra ataques como "man in the middle".
 
-**SSH (Secure Shell):**
-- SSH es un protocolo utilizado para acceder a sistemas remotos de manera segura, reemplazando a Telnet.
-- Funciona sobre el puerto 22 y garantiza la seguridad utilizando criptografía, tanto para la autenticación como para la transmisión de datos.
-- SSH permite realizar conexiones seguras a través de redes inseguras, protegiendo así las sesiones de acceso remoto.
-# **4.- Ataques Criptográficos Comunes**
-- **Ataque de Fuerza Bruta**: Consiste en probar todas las combinaciones posibles de una clave hasta encontrar la correcta. Este tipo de ataque es efectivo especialmente cuando las claves son cortas o débiles.
-- **Ataque de Hombre en el Medio (Man-in-the-Middle, MitM)**: En este ataque, un atacante intercepta y posiblemente altera las comunicaciones entre dos partes sin que ellas lo sepan.
-- **Ataque de Colisión en Hash**: En este ataque, un atacante busca dos mensajes diferentes que generen el mismo valor hash, lo que puede comprometer la integridad de los datos.
+2. **TLS (Transport Layer Security):**
+   - Evolución de SSL.
+   - Soporta más algoritmos criptográficos.
+
+3. **Relación con la pila TCP/IP:**
+   - SSL/TLS operan entre la capa de transporte (TCP/UDP) y la capa de aplicación (HTTP, FTP, etc.).
+
+4. **Protocolos seguros con SSL/TLS:**
+   - **SSH:** Reemplaza a Telnet con comunicaciones seguras.
+   - **HTTPS:** HTTP sobre SSL/TLS para navegación segura.
+## **3.1 - Protocolo criptográfico SSL/TLS:**
+
+- **SSL (Secure Sockets Layer):**
+  - Diseñado por Netscape para comunicaciones seguras entre un navegador y un servidor web.
+  - Proporciona los servicios de **autenticación**, **confidencialidad**, e **integridad**.
   
+- **TLS (Transport Layer Security):**
+  - Evolución de SSL con más algoritmos criptográficos y mayor seguridad frente a nuevos ataques.
+  
+- **Fases de funcionamiento:**
+  1. **Fase inicial:** Negociación de algoritmos criptográficos.
+  2. **Fase de autenticación y clave de sesión:** Intercambio de claves y autenticación mediante certificados, usando criptografía asimétrica.
+  3. **Fase final:** Verificación del canal seguro.
+  4. Comunicación segura establecida.
+  
+- **Algoritmos utilizados:**
+  - **Cifrado simétrico:** DES, 3DES, RC2, RC4, IDEA.
+  - **Clave pública:** RSA.
+  - **Resúmenes:** MD5, SHA.
+  - **Certificados:** DSS, RSA.
+  
+- **Protocolo híbrido:**
+  - Usa criptografía asimétrica en la negociación y simétrica en la transmisión de datos.
+  
+- **Usos:**
+  - Comercio electrónico y creación de redes privadas virtuales (VPN).
+
+---
+
+## **3.2 - Otros protocolos seguros:**
+
+- **HTTPS (HTTP sobre SSL/TLS):**
+  - Usado para asegurar comunicaciones en sitios web, especialmente en bancos y tiendas en línea.
+  - Garantiza seguridad frente a ataques "man-in-the-middle".
+  - Requiere una **Autoridad de Certificación** de confianza.
+  - El certificado debe ser válido y corresponder correctamente al sitio web.
+
+- **SSH (Secure Shell):**
+  - Protocolo para acceso remoto seguro a computadoras.
+  - Reemplaza a Telnet y usa el puerto 22.
+  - Utiliza criptografía para asegurar la conexión.
+  - El servidor envía la clave pública al cliente para la comunicación cifrada.
+  
+---
+
+# **4 - Criptografía en Java:**
+
+- **Java y la criptografía:**
+  - Java proporciona APIs para comunicaciones seguras.
+  - **Tareas que soporta:**
+    - Encriptación, firma digital, resumen de mensajes (HASH), certificados digitales, y comunicaciones seguras con SSL.
+  
+- **APIs criptográficas en Java:**
+  - **JCA (Java Cryptography Architecture):** Acceso a funciones criptográficas generales.
+  - **JCE (Java Cryptography Extension):** Complementa JCA y está incluido en el JDK desde la versión 1.4.
+  
+- **Paquetes en JCA y JCE:**
+  - **java.security** y **javax.crypto**.
+  
+- **Otras bibliotecas en el JDK:**
+  - **JSSE:** Comunicaciones seguras (SSLSocket).
+  - **JGSS:** Seguridad mediante Kerberos.
+  - **SASL:** Autenticación y seguridad.
+  - **JAAS:** Autenticación y autorización.
+**4.1 - Arquitectura criptográfica de Java:**
+
+- **JCA (Java Cryptography Architecture):**
+  - La arquitectura principal para la criptografía en Java.
+  - Diseñada para:
+    1. **Independencia de la aplicación:** Los programas usan algoritmos criptográficos a través de la plataforma Java sin necesidad de implementarlos.
+    2. **Interoperabilidad:** Los proveedores son compatibles con diversas aplicaciones, sin estar atados a una aplicación específica.
+    3. **Extensibilidad:** Permite agregar proveedores personalizados para implementar nuevos servicios criptográficos.
+
+- **Componentes clave de la JCA:**
+  1. **Bibliotecas e interfaces:** Incluye clases en el paquete `java.security` que proporcionan servicios básicos.
+  2. **Proveedores de servicios criptográficos:** Implementaciones de algoritmos, como el proveedor Sun.
+
+- **JCE (Java Cryptography Extension):**
+  - Complementa JCA proporcionando servicios adicionales como encriptación, firmas digitales, etc.
+
+- **Componentes:**
+  1. `java.security`: Manejo de certificados, claves y resúmenes de mensajes.
+  2. `javax.crypto`: Encriptación, desencriptación, generación de claves y códigos de autenticación de mensajes (MAC).
+  3. `javax.crypto.spec`: Especificaciones de claves y algoritmos.
+  4. `javax.crypto.interfaces`: Interfaces para algoritmos como Diffie-Hellman.
+
+---
+
+**4.2 - Proveedores y motores criptográficos:**
+
+- **Proveedor de servicios criptográficos:**
+  - Implementa clases e interfaces definidas por JCA/JCE.
+  - Un motor criptográfico es el conjunto de clases necesarias para implementar un proveedor.
+  
+- **Clases principales:**
+  1. **MessageDigest:** Resúmenes de mensajes.
+  2. **Signature:** Firmas digitales.
+  3. **KeyFactory:** Manejo de claves.
+  4. **KeyPairGenerator:** Generación de claves públicas y privadas.
+  5. **Cipher:** Encriptación/desencriptación.
+
+- **Proveedor por defecto:**
+  - El proveedor **SUN** implementa:
+    1. DSA, MD5 y SHA-1.
+    2. Generación de claves para DSA.
+    3. Construcción de certificados X.509.
+
+- **Uso de múltiples proveedores:**
+  - Puedes modificar el fichero `java.security` para usar varios proveedores.
+  - Ejemplo: `MessageDigest.getInstance("MD5", "ProveedorA");`
+
+---
+## **4.3 - Gestión de claves con el paquete java.security:**
+- **Generación de claves:**
+  - Usando **números aleatorios seguros** generados a partir de una semilla.
+
+- **Clases para la gestión de claves:**
+  1. **Key:** Representación y almacenamiento de claves.
+     - Métodos: `getAlgorithm()`, `getEncoded()`, `getFormat()`.
+  2. **KeyPairGenerator:** Generación de claves públicas y privadas (asimétricas).
+     - El método `initialize()` permite establecer el tamaño de la clave.
+  3. **KeyGenerator:** Generación de claves privadas (simétricas).
+     - El método `init()` permite establecer el tamaño de la clave.
+  4. **SecureRandom:** Generación de números aleatorios seguros.
+     - Métodos: `setSeed()`, `next()`, `nextBytes()`.
+
+- **Consideración del tamaño de las claves:**
+  - Claves más grandes pueden incrementar el tiempo de cálculo y afectar el rendimiento.
