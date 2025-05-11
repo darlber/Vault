@@ -11,10 +11,14 @@
             "id": "7730eeb8ae4b63dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PMDM/PMDM6.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PMDM6"
             }
           }
         ]
@@ -174,8 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b43a4bccc4e1c73",
+  "active": "7730eeb8ae4b63dd",
   "lastOpenFiles": [
+    "PMDM/PMDM6.md",
+    "Untitled.md",
     "SGE/Instalación de Odoo.md",
     "SGE/Actualización Odoo.md",
     "PMDM/PMDM4 - Preferences.md",
