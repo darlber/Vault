@@ -107,7 +107,7 @@ class EscribirNumeros {
 - `[0-9]`: Número.
 - `[a-zA-Z]`: Letra (minúscula o mayúscula).
 - `hola|adios`: Opción lógica (hola o adios).
-## 2.4 Ejemplo II: Validación de DNI
+### Ejemplo II: Validación de DNI
 
 ```java
 import java.io.*;
@@ -140,7 +140,7 @@ class ValidarEntrada {
 }
 ```
 
-# 2.5 Ficheros de Registro
+## 2.5 Ficheros de Registro
 
 ### Pasos para trabajar con ficheros de registro:
 
@@ -174,3 +174,149 @@ logger.log(Level.WARNING, "Mi primer log");
 - `WARNING`: Advertencia.
 - `INFO`: Información general.
 - `FINEST`: Mínima importancia.
+### Ejemplo III.
+**MyLogger.java**
+
+```java
+import java.io.*;
+
+import java.util.logging.*;
+
+public class MyLogger {
+
+  public static void main(String[] args) { 
+
+    Logger logger = Logger.getLogger("MyLog");
+
+    FileHandler fh;
+
+    try {
+
+      // Configuro el logger y establezco el formato
+
+      fh = new FileHandler("c:\\MyLogFile.log", true);
+
+      logger.addHandler(fh);
+
+      logger.setLevel(Level.ALL);
+
+      SimpleFormatter formatter = new SimpleFormatter();
+
+      fh.setFormatter(formatter);
+
+      // Añado un mensaje al log   
+
+      logger.log(Level.WARNING, "Mi primer log");
+
+    } catch (SecurityException e) {
+
+      e.printStackTrace();
+
+    } catch (IOException e) {
+
+      e.printStackTrace();
+
+    }
+
+  }
+
+}
+```
+
+**Compilación y ejecución:**
+
+1. Compilamos el código:
+   `javac MyLogger.java`
+
+2. Ejecutamos:
+   `java MyLogger`
+
+Al ejecutar el programa, se crea un archivo de registro donde se almacenan los registros generados por el programa.
+# 3.- Políticas de seguridad.
+### 3.1.- Modelo de seguridad de Java
+Java ofrece un modelo de seguridad basado en políticas de acceso, configurable, con control de acceso, servicios criptográficos, y gestión de claves. El modelo de seguridad ha ido evolucionando en las siguientes versiones:
+
+- **JDK 1.0:** El modelo de seguridad era muy básico. Las aplicaciones locales tenían acceso total al sistema, y las aplicaciones remotas no tenían acceso completo.
+- **JDK 1.1:** Se permitió a las aplicaciones firmadas digitalmente acceder a todos los recursos del sistema.
+- **JDK 1.2:** Mejoró la seguridad permitiendo establecer políticas de acceso para aplicaciones locales y remotas. Las aplicaciones autorizadas pueden enviar peticiones al Security Manager para acceder a recursos del sistema.
+### 3.2.- Elementos de las políticas de seguridad
+Las políticas de seguridad se pueden establecer usando los siguientes elementos:
+
+- **Origen:** Usuario o ruta de acceso de la aplicación.
+- **Permisos:** Se puede indicar si tiene permisos de lectura/escritura sobre un archivo o si puede enviar información.
+- **Destino:** El recurso al que afecta el permiso, como un archivo.
+- **Acción:** Las acciones que se pueden realizar sobre el archivo, como lectura o escritura.
+
+**Permisos más utilizados en Java:**
+
+- **PropertyPermission:** Permite controlar el acceso a la información del sistema, como el sistema operativo o el directorio home del usuario.
+- **SocketPermission:** Controla las comunicaciones de red, estableciendo permisos para direcciones IP, URLs o puertos.
+- **FilePermission:** Controla el acceso a archivos o carpetas específicas, permitiendo establecer permisos de lectura o escritura.
+### 3.3.- Asegurando las aplicaciones (I)
+Por defecto, el **Security Manager** está deshabilitado en aplicaciones locales. Para activar el **Security Manager**, se debe usar la opción `-Djava.security.manager`. Veamos cómo aplicar políticas de seguridad a una aplicación local.
+
+**GetProps.java**
+```java
+import java.lang.*;
+import java.security.*;
+
+class GetProps {
+
+    public static void main(String[] args) { 
+
+        // Test reading properties with and without security manager
+
+        String s;
+
+        try {
+
+            System.out.println("About to get os.name property value");
+
+            s = System.getProperty("os.name", "not specified");
+            System.out.println("  The name of your operating system is: " + s);
+
+            System.out.println("About to get java.version property value");
+
+            s = System.getProperty("java.version", "not specified");
+            System.out.println("  The version of the JVM you are running is: " + s);
+
+            System.out.println("About to get user.home property value");
+
+            s = System.getProperty("user.home", "not specified");
+            System.out.println("  Your user home directory is: " + s);
+
+            System.out.println("About to get java.home property value");
+
+            s = System.getProperty("java.home", "not specified");
+            System.out.println("  Your JRE installation directory is: " + s);
+
+        } catch (Exception e) {
+            System.err.println("Caught exception " + e.toString());
+        } 
+
+    }
+
+}
+```
+'
+**Compilación y ejecución:**
+
+1. Compilamos el código:
+   `javac GetProps.java`
+
+2. Ejecutamos el código sin el **Security Manager**:
+   `java GetProps`
+
+   Esto permite que la aplicación acceda a todas las propiedades del sistema.
+   
+Para aplicar las políticas de seguridad, activamos el **Security Manager** utilizando la opción `-Djava.security.manager`:
+
+**Ejecutar con Security Manager:**
+
+`java -Djava.security.manager GetProps`
+
+En este caso, las políticas de seguridad por defecto no permiten el acceso a información sensible como el directorio home del usuario (`user.home`) o el directorio de trabajo de Java (`java.home`). El **Security Manager** generará excepciones como `AccessControlException`, que indica que no tiene permisos de acceso.
+
+Esto asegura que la aplicación solo pueda acceder a los datos necesarios y no a información sensible sin permisos explícitos.
+
+
