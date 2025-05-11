@@ -115,7 +115,6 @@
    - Garantiza transacciones seguras a través de canales protegidos y mecanismos de identificación.
    - Reduce fraudes y robos.
 # **3 - Protocolos seguros de comunicaciones:**
-
 1. **SSL (Secure Sockets Layer):**
    - Proporciona seguridad en la comunicación cliente/servidor.
    - Protege contra ataques como "man in the middle".
@@ -131,7 +130,6 @@
    - **SSH:** Reemplaza a Telnet con comunicaciones seguras.
    - **HTTPS:** HTTP sobre SSL/TLS para navegación segura.
 ## **3.1 - Protocolo criptográfico SSL/TLS:**
-
 - **SSL (Secure Sockets Layer):**
   - Diseñado por Netscape para comunicaciones seguras entre un navegador y un servidor web.
   - Proporciona los servicios de **autenticación**, **confidencialidad**, e **integridad**.
@@ -156,11 +154,7 @@
   
 - **Usos:**
   - Comercio electrónico y creación de redes privadas virtuales (VPN).
-
----
-
 ## **3.2 - Otros protocolos seguros:**
-
 - **HTTPS (HTTP sobre SSL/TLS):**
   - Usado para asegurar comunicaciones en sitios web, especialmente en bancos y tiendas en línea.
   - Garantiza seguridad frente a ataques "man-in-the-middle".
@@ -172,11 +166,7 @@
   - Reemplaza a Telnet y usa el puerto 22.
   - Utiliza criptografía para asegurar la conexión.
   - El servidor envía la clave pública al cliente para la comunicación cifrada.
-  
----
-
 # **4 - Criptografía en Java:**
-
 - **Java y la criptografía:**
   - Java proporciona APIs para comunicaciones seguras.
   - **Tareas que soporta:**
@@ -194,8 +184,7 @@
   - **JGSS:** Seguridad mediante Kerberos.
   - **SASL:** Autenticación y seguridad.
   - **JAAS:** Autenticación y autorización.
-**4.1 - Arquitectura criptográfica de Java:**
-
+## **4.1 - Arquitectura criptográfica de Java:**
 - **JCA (Java Cryptography Architecture):**
   - La arquitectura principal para la criptografía en Java.
   - Diseñada para:
@@ -215,11 +204,7 @@
   2. `javax.crypto`: Encriptación, desencriptación, generación de claves y códigos de autenticación de mensajes (MAC).
   3. `javax.crypto.spec`: Especificaciones de claves y algoritmos.
   4. `javax.crypto.interfaces`: Interfaces para algoritmos como Diffie-Hellman.
-
----
-
-**4.2 - Proveedores y motores criptográficos:**
-
+## **4.2 - Proveedores y motores criptográficos:**
 - **Proveedor de servicios criptográficos:**
   - Implementa clases e interfaces definidas por JCA/JCE.
   - Un motor criptográfico es el conjunto de clases necesarias para implementar un proveedor.
@@ -240,8 +225,6 @@
 - **Uso de múltiples proveedores:**
   - Puedes modificar el fichero `java.security` para usar varios proveedores.
   - Ejemplo: `MessageDigest.getInstance("MD5", "ProveedorA");`
-
----
 ## **4.3 - Gestión de claves con el paquete java.security:**
 - **Generación de claves:**
   - Usando **números aleatorios seguros** generados a partir de una semilla.
@@ -258,3 +241,53 @@
 
 - **Consideración del tamaño de las claves:**
   - Claves más grandes pueden incrementar el tiempo de cálculo y afectar el rendimiento.
+## **4.4 - Resúmenes de mensajes con la clase MessageDigest:**
+- **Objetivo:** La clase `MessageDigest` permite crear resúmenes de mensajes utilizando el algoritmo y proveedor especificados.
+
+- **Métodos clave:**
+  1. `getInstance()`: Obtiene el algoritmo de resumen.
+  2. `update()`: Actualiza el resumen con nuevos datos.
+  3. `digest()`: Completa la obtención del resumen.
+
+- **Algoritmos disponibles:**
+  - **MD5:** Resumen de 128 bits.
+  - **SHA-1:** Resumen de 160 bits.
+
+**Ejemplo básico de uso con SHA-1:**
+```java
+MessageDigest md = MessageDigest.getInstance("SHA-1");
+md.update(data);
+byte[] digest = md.digest();
+```
+## **4.5 - Firma digital con la clase Signature:**
+- **Objetivo:** Realizar firmas digitales y su verificación con la clase `Signature`.
+- **Pasos para realizar una firma digital:**
+    
+    1. **Generar claves pública y privada** con `KeyPairGenerator`.
+        
+        - **PrivateKey:** Para firmar.
+            
+        - **PublicKey:** Para verificar la firma.
+            
+    2. **Firmar el mensaje:**
+        
+        - Crear objeto `Signature` con un algoritmo asimétrico (e.g., DSA).
+            
+        - `initSign()`: Inicializa con la clave privada.
+            
+        - `update()`: Crea el resumen del mensaje.
+            
+        - `sign()`: Devuelve la firma digital.
+            
+    3. **Verificar la firma:**
+        
+        - `initVerify()`: Inicializa con la clave pública.
+            
+        - `update()`: Actualiza el resumen para verificar.
+            
+        - `verify()`: Verifica la firma.
+            
+- **Algoritmo de firma:** El algoritmo DSA (Digital Signature Algorithm) implementado en el JDK usa MD5 y SHA-1 para los resúmenes de mensaje.
+    
+
+**Ejemplo básico de firma y verificación:**
