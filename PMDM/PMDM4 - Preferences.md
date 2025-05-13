@@ -4,6 +4,12 @@ SharedPreferences misPreferencias = getSharedPreferences("prefs", MODE_PRIVATE);
 ```
 - Prefs es el nombre. Ilimitado.
 - Mode_Private. Modo de creación. Solo se puede desde la propia aplicación. Existen otros dos modos (_MODE_WORLD_READABLE_ y _MODE_WORLD_WRITEABLE_), los cuales son totalmente desaconsejados debido a los problemas de seguridad que puedan provocar.
+Una vez que tenemos acceso a las preferencias, para crear, modificar o borrar valores se usa el interfaz _SharedPreferences.Editor_. La forma de obtener un objeto de dicho interfaz es:
+
+```java
+SharedPreferences.Editor editor = misPreferencias.edit();
+```
+
 Ejemplo:
 ```java
 editor.putString("nombre", “Raistlin”);
