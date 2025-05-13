@@ -189,7 +189,6 @@ public boolean onTouch(View v, MotionEvent event) {
     return false;
 }
 ```
----
 # 5.6 Game Loop: Animación en Tiempo Real
 Un bucle de juego se repite constantemente mientras el juego esté activo. Tiene tres fases:
 ```java
@@ -250,7 +249,6 @@ public class Juego extends SurfaceView implements SurfaceHolder.Callback, OnTouc
     }
 }
 ```
----
 ## 5.7.2 Eventos Multitouch
 - Cada dedo es un **pointer** (x, y, id, index).  
 - Eventos:
@@ -298,7 +296,6 @@ public void render(Canvas canvas) {
     }
 }
 ```
----
 ## 5.7.3 Gestos (Gestures)
 - Se usan **GestureDetector** y sus listeners:
   - **OnGestureListener**:
