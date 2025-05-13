@@ -10,6 +10,7 @@ La conexión a PostgreSQL en PgAdmin necesita:
 - Usuario y contraseña.  
   
 ==Las vistas no almacenan datos físicamente. Se basan en otras tablas.==  
+
 🛠️Pasos para conectarte en [[pgAdmin4]]
   
 Las consultas de acceso a datos sirven para recuperar información de tablas o vistas (sql) en la base de datos.  
