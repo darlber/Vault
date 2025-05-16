@@ -1,15 +1,15 @@
-PreferenceActivity (con headers)
-└── PreferenceHeaders (XML: preferences_headers.xml)
-    ├── Header: "Preferencias generales"
-    │   └── PreferenceFragment (R.xml.pref_generales)
-    │       ├── EditTextPreference
-    │       └── CheckBoxPreference
-    ├── Header: "Notificaciones"
-    │   └── PreferenceFragment (R.xml.pref_notificaciones)
-    │       └── SwitchPreference
-    └── Header: "Cuenta"
-        └── PreferenceFragment (R.xml.pref_cuenta)
-            └── ListPreference
+	PreferenceActivity (con headers)
+	└── PreferenceHeaders (XML: preferences_headers.xml)
+	    ├── Header: "Preferencias generales"
+	    │   └── PreferenceFragment (R.xml.pref_generales)
+	    │       ├── EditTextPreference
+	    │       └── CheckBoxPreference
+	    ├── Header: "Notificaciones"
+	    │   └── PreferenceFragment (R.xml.pref_notificaciones)
+	    │       └── SwitchPreference
+	    └── Header: "Cuenta"
+	        └── PreferenceFragment (R.xml.pref_cuenta)
+	            └── ListPreference
 
 | Tipo de Preference                                   | Descripción                                                                                                  |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -21,3 +21,17 @@ PreferenceActivity (con headers)
 | 📁 **`RingtonePreference`**                          | Permite al usuario seleccionar un tono del sistema.                                                          |
 | ⏰ **`TimePreference` / `DatePreference`** _(custom)_ | No existen nativamente pero pueden implementarse como preferencias personalizadas para elegir hora o fecha.  |
 Desde Android 10 (API 29), estas clases están oficialmente **deprecated** y se recomienda migrar a la biblioteca **AndroidX Preference**, que ofrece una solución más moderna, compatible y flexible.
+
+	MainActivity (host de fragmentos)
+	└── FragmentContainer (ej. FrameLayout)
+	    ├── SettingsFragment (menú principal de configuración)
+	    │   ├── Entrada: "Preferencias generales"
+	    │   │   └── Navega a: GeneralPrefsFragment (R.xml.pref_generales)
+	    │   │       ├── EditTextPreference
+	    │   │       └── CheckBoxPreference
+	    │   ├── Entrada: "Notificaciones"
+	    │   │   └── Navega a: NotifPrefsFragment (R.xml.pref_notificaciones)
+	    │   │       └── SwitchPreference
+	    │   └── Entrada: "Cuenta"
+	    │       └── Navega a: CuentaPrefsFragment (R.xml.pref_cuenta)
+	    │           └── ListPreference
