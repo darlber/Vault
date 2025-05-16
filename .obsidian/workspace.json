@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/Instalación de Odoo.md",
+                "file": "SGE/Personalizar Vistas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instalación de Odoo"
+              "title": "Personalizar Vistas"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SGE/Instalación de Odoo.md",
+                "file": "SGE/Personalizar Vistas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Instalación de Odoo"
+              "title": "Outgoing links from Personalizar Vistas"
             }
           },
           {
@@ -184,7 +184,15 @@
   },
   "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
+    "SGE/Módulos Odoo.md",
+    "SGE/Modo Desarrollador de Odoo.md",
+    "SGE/Procedimientos almacenados.md",
+    "SGE/Personalizar Vistas.md",
+    "SGE/SGE 5.md",
     "SGE/Actualización Odoo.md",
+    "SGE/pgAdmin4.md",
+    "SGE/SSH.md",
+    "SGE/Instalación de Odoo.md",
     "SGE/SGE 2.md",
     "PSP/PSP4 - Aplicaciones Cliente-Servidor.md",
     "PMDM/PMDM6 - Sensores.md",
@@ -195,26 +203,18 @@
     "PSP/PSP5 - Generación de servicios en red.md",
     "PMDM/Resumen Jerarquía Preferences.md",
     "SGE/SGE 3.md",
-    "SGE/pgAdmin4.md",
-    "SGE/Instalación de Odoo.md",
     "PSP",
     "Untitled.md",
     "SGE/SGE 4.md",
-    "SGE/SSH.md",
     "PMDM",
-    "SGE/Modo Desarrollador de Odoo.md",
-    "SGE/Personalizar Vistas.md",
     "Instalación-de-Odoo.md",
-    "SGE/SGE 5.md",
     "SGE/Python.md",
-    "SGE/Procedimientos almacenados.md",
     "SGE/a/Vault",
     "SGE/a",
     "SGE/Nueva carpeta",
     "SGE/Instalación de Odoo-PCera.md",
     "entornos de producción.md",
     "Welcome.md",
-    "SGE",
-    "create a link.md"
+    "SGE"
   ]
 }

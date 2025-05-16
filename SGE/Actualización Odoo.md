@@ -15,7 +15,6 @@ sudo -u postgres pg_dump Odoo > ~/backups/Odoo_backup.sql
 ls -lh ~/backups/Odoo_backup.sql
 ```
 3. Actualización de dependencias antes de cambiar el código
-
 ```sh
 #el guion sirve para que se simule inicio de sesión completo, si hacemos "su odoo" mantendrá las path del usuario actual
 su - odoo
