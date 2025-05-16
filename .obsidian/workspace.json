@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/SGE 2.md",
+                "file": "SGE/Instalación de Odoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SGE 2"
+              "title": "Instalación de Odoo"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SGE/SGE 2.md",
+                "file": "SGE/Instalación de Odoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SGE 2"
+              "title": "Outgoing links from Instalación de Odoo"
             }
           },
           {
@@ -184,6 +184,8 @@
   },
   "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
+    "SGE/Actualización Odoo.md",
+    "SGE/SGE 2.md",
     "PSP/PSP4 - Aplicaciones Cliente-Servidor.md",
     "PMDM/PMDM6 - Sensores.md",
     "PMDM/PMDM5 - Videojuegos.md",
@@ -191,10 +193,8 @@
     "PSP/PSP7 - Aplicaciones con comunicaciones seguras.md",
     "PSP/PSP6 - Técnicas de programación segura.md",
     "PSP/PSP5 - Generación de servicios en red.md",
-    "SGE/SGE 2.md",
     "PMDM/Resumen Jerarquía Preferences.md",
     "SGE/SGE 3.md",
-    "SGE/Actualización Odoo.md",
     "SGE/pgAdmin4.md",
     "SGE/Instalación de Odoo.md",
     "PSP",

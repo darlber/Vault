@@ -66,6 +66,7 @@ Módulos adicionales importantes:
 ## Módulo de Gestión Contable y Financiera en un ERP:  
 Automatiza y centraliza todas las operaciones contables.  
 Está integrado con ventas, compras y otros módulos para evitar duplicidades y tener datos en tiempo real.  
+
 >Ejemplo: una factura se puede generar automáticamente desde un pedido o albarán.  
 
 Puede bloquear a clientes morosos en todo el sistema.  
@@ -165,8 +166,8 @@ Mediante programas cliente/servidor que usan el protocolo VNC (Virtual Network C
 	- Conexión a tu PC desde casa o el trabajo  
 
 ## Instalación y configuración
->Configuración del Sistema > Escritorio remoto.  
 
+>Configuración del Sistema > Escritorio remoto.  
 
 Elige si deseas que otros solo vean tu escritorio o también lo controlen.  
 Configura una contraseña si deseas que se requiera para conectarse.  
