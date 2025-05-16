@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMDM/Resumen Jerarquía Preferences.md",
+                "file": "PSP/PSP5 - Generación de servicios en red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen Jerarquía Preferences"
+              "title": "PSP5 - Generación de servicios en red"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PMDM/Resumen Jerarquía Preferences.md",
+                "file": "PSP/PSP5 - Generación de servicios en red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Resumen Jerarquía Preferences"
+              "title": "Outgoing links from PSP5 - Generación de servicios en red"
             }
           },
           {
@@ -181,17 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cfb51d7b9416cb9",
+  "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
+    "PSP/PSP4 - Aplicaciones Cliente-Servidor.md",
+    "PSP/PSP5 - Generación de servicios en red.md",
+    "PMDM/Resumen Jerarquía Preferences.md",
     "PMDM/PMDM4 - Preferences.md",
     "PMDM/PMDM6 - Sensores.md",
     "PMDM/PMDM5 - Videojuegos.md",
-    "PMDM/Resumen Jerarquía Preferences.md",
-    "PSP/PSP5 - Generación de servicios en red.md",
     "SGE/SGE 3.md",
     "SGE/Actualización Odoo.md",
     "SGE/pgAdmin4.md",
-    "PSP/PSP4 - Aplicaciones Cliente-Servidor.md",
     "SGE/Instalación de Odoo.md",
     "PSP/PSP7 - Aplicaciones con comunicaciones seguras.md",
     "PSP/PSP6 - Técnicas de programación segura.md",
