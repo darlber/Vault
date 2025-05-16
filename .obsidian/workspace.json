@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/Personalizar Vistas.md",
+                "file": "SGE/Módulos Odoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personalizar Vistas"
+              "title": "Módulos Odoo"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SGE/Personalizar Vistas.md",
+                "file": "SGE/Módulos Odoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Personalizar Vistas"
+              "title": "Outgoing links from Módulos Odoo"
             }
           },
           {
@@ -184,11 +184,11 @@
   },
   "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
+    "SGE/SGE 5.md",
     "SGE/Módulos Odoo.md",
+    "SGE/Personalizar Vistas.md",
     "SGE/Modo Desarrollador de Odoo.md",
     "SGE/Procedimientos almacenados.md",
-    "SGE/Personalizar Vistas.md",
-    "SGE/SGE 5.md",
     "SGE/Actualización Odoo.md",
     "SGE/pgAdmin4.md",
     "SGE/SSH.md",

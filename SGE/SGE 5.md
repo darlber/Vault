@@ -25,7 +25,7 @@ ODOO funciona sobre un marco de trabajo llamado OpenObject. Este framework permi
     - `sale`: ventas
     - `mrp`: fabricación
     - `crm`: clientes/proveedores
-### 📁 **Estructura de un módulo**
+### 📁 **Estructura de un [[Módulos Odoo|módulo]]**
 1. Carpeta en `addons/` con nombre del módulo
 2. Archivos obligatorios:
     - `__init__.py` → inicia el módulo
