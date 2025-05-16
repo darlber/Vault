@@ -72,7 +72,7 @@
     //compilamos con javac servidor.java
 ```
 # 2️ Optimización de Sockets en Aplicaciones Cliente/Servidor
-## 2.1️ Atender múltiples peticiones simultáneamente
+## 2.1 Atender múltiples peticiones simultáneamente
 **Problema:** El servidor actual atiende a un cliente y **bloquea** las demás peticiones hasta terminar.  
 **Solución:** Crear un **hilo (thread)** por cada cliente que se conecta al servidor:
 ```java
@@ -86,7 +86,7 @@
     }
 ```
 Cada nuevo cliente se atiende en una hebra **independiente**, permitiendo la concurrencia.
-## 2.2️ Threads en Java
+## 2.2 Threads en Java
 Para crear un thread en Java:
 ```java
     class Servidor extends Thread {
@@ -106,7 +106,7 @@ Para crear un thread en Java:
 - `run()` contiene las tareas de la hebra.  
 - `start()` inicia la ejecución del thread.  
 - El constructor `Servidor()` se usa para inicializar datos.
-## 2.3️ Ejemplo práctico con sockets concurrentes
+## 2.3 Ejemplo práctico con sockets concurrentes
 ### 🔌 Servidor.java
 ```java
     import java.io.*;
@@ -182,7 +182,7 @@ Para crear un thread en Java:
         }
     }
 ```
-## 2.4 Pérdida de información y mensajes ACK
+## 2.3 Pérdida de información y mensajes ACK
 Las comunicaciones pueden perder paquetes. Para evitarlo se usan **mensajes de confirmación (ACK)**.
 ### 🔁 Método básico
 - Cliente envía mensaje → Servidor responde con ACK.  
@@ -195,7 +195,7 @@ Ejemplo de vector de ACK:
     Mensaje: 0 1 2 3 4 5 6 7 8 9
     ACK:     1 1 0 0 1 1 0 0 0 0
 A partir del último mensaje recibido correctamente (1), se envían siguientes (10, 11, …).
-## 2.5️ Seguridad: Transacciones
+## 2.5 Seguridad: Transacciones
 El servidor debe controlar:
 
     • Órdenes no autorizadas  
@@ -213,7 +213,7 @@ int estado;       // Estado actual
 String comando;   // Entrada del cliente  
 ```
 Se gestionan con `if` y `switch`.
-# 2.6️ Ejemplo III: Diagrama de Transiciones
+# 2.6 Ejemplo III: Diagrama de Transiciones
 ```java
     int estado = 1;
 
@@ -278,7 +278,7 @@ Los relojes deben estar sincronizados (NTP):
 - Linux: `/usr/sbin/ntpdate -u 0.centos.pool.ntp.org`
 
 También se puede usar `ping` para medir RTT.
-# 2.8️ Ejemplo IV: Cálculo de Tiempo de Transmisión
+# 2.8 Ejemplo IV: Cálculo de Tiempo de Transmisión
 #### Servidor.java (servidor envía timestamp)
 ```java
     import java.io.*;
