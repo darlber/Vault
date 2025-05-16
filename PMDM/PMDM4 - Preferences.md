@@ -85,8 +85,7 @@ public void editarPreferencias(View view){
         startActivity(new Intent(this, MisPreferencias.class));
     }
 ```
-
-## Paso 5. Debug
+	## Paso 5. Debug
 # Preference Fragment
 A partir de Android 3.0, la clase que hereda de _PreferenceActivity_ carga unas cabeceras (_headers_), las cuales apuntan a subclases de _PreferenceFragment_ que son las encargadas de mostrar las preferencias en la pantalla.
 
