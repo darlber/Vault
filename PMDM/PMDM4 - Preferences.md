@@ -403,7 +403,7 @@ private File createImageFile() throws IOException {
     }
 ```
 
-Después, Intent.
+Después, _Intent_.
 ```java
 static final int CAPTURA_IMAGEN_TAMAÑO_REAL = 2;
 private void dispatchTakePictureIntent() {
@@ -450,7 +450,6 @@ private void cargarImagenEscalada() {
     imageView.setImageBitmap(bitmapEscalado);
 }
 ```
-
 # 📹Captura de vídeo en Android
 Manifest:
 ```xml
@@ -463,9 +462,7 @@ Android ofrece **dos formas** principales de grabar vídeo:
 2. Usar la clase `MediaRecorder` para una solución más personalizada (más compleja).
 
 En este ejemplo usamos **la primera opción**, delegando la grabación a la app del sistema.
-
 ## 🧱 Pasos básicos
-
 ### 1. Crear y lanzar el intent
 ```java
 private final static int GRABAR_VIDEO = 1;
