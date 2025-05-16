@@ -319,30 +319,40 @@ Merece especial atención el uso que se ha hecho del método _setVideoURI()_ par
 videoView.setVideoURI(Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.magia));
 ```
 
-- Mediante un string se indica el recurso:  (“android.resource://" + getPackageName() + "/" + R.raw.magia)
-- Con el método _Uri.parse()_ se convierte ese string a un objeto de la clase _Uri_, que es lo que espera el método _setVideoURI()_.
+- Mediante un string se indica el recurso:  `(“android.resource://" + getPackageName() + "/" + R.raw.magia)`
+- Con el método _`Uri.parse()_` se convierte ese string a un objeto de la clase _Uri_, que es lo que espera el método `_setVideoURI()_`.
 # Streaming
 Incluimos el permiso en el Manifest.
 
-`<uses-permission android:name="android.permission.INTERNET"/>`
+```xml
+<uses-permission android:name="android.permission.INTERNET"/>
+```
 
 Y lo segundo y último, es modificar el origen del contenido a reproducir:
 
 a)  En el ejemplo _VideoView_, tendríamos que cambiar la línea:
 
-`videoView.setVideoURI(Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.magia));`
+```java
+videoView.setVideoURI(Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.magia));
+```
 
 Por:
 
-`videoView.setVideoURI(Uri.parse("http://mim.zz.mu/ut4_multimedia/magia.webm"));`
+```java
+videoView.setVideoURI(Uri.parse("http://mim.zz.mu/ut4_multimedia/magia.webm"));
+```
 
 b)  Y en el ejemplo _MediaPlayer05_, cambiamos la línea:
 
-`mediaPlayer.setDataSource(this, Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.metodo_para_escapar));`
+```java
+mediaPlayer.setDataSource(this, Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.metodo_para_escapar));
+```
 
 Por:
 
-`mediaPlayer.setDataSource(this, Uri.parse("http://mim.zz.mu/ut4_multimedia/cirujano/04_aire.ogg"));`
+```java
+mediaPlayer.setDataSource(this, Uri.parse("http://mim.zz.mu/ut4_multimedia/cirujano/04_aire.ogg"));
+```
 
 # Fotos
 1. Usar un _intent_, delegando a la aplicación nativa de Android todo el trabajo sucio.
