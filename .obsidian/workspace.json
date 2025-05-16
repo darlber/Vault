@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SGE/SGE 4.md",
+                "file": "PMDM/Resumen Jerarquía Preferences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SGE 4"
+              "title": "Outgoing links from Resumen Jerarquía Preferences"
             }
           },
           {
@@ -142,32 +142,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSP/PSP5 - Generación de servicios en red.md",
+                "file": "PMDM/Resumen Jerarquía Preferences.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PSP5 - Generación de servicios en red"
+              "title": "Outline of Resumen Jerarquía Preferences"
             }
           },
           {
             "id": "7b43a4bccc4e1c73",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f6844c69f6b1faf",
+  "active": "2cfb51d7b9416cb9",
   "lastOpenFiles": [
     "PMDM/PMDM4 - Preferences.md",
     "PMDM/PMDM6 - Sensores.md",
