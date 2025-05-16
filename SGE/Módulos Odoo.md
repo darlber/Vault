@@ -57,3 +57,5 @@ producto.precio = 69.95
 producto = self.env['mi_modulo.producto'].browse(5)
 producto.unlink()
 ```
+## Permisos y seguridad
+>Todo acceso a los datos en Odoo pasa por el sistema de permisos definido en `ir.model.access.csv`. Si un usuario no tiene permisos para un modelo, aunque el código esté bien generado, recibirá un error

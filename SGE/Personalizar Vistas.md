@@ -19,7 +19,49 @@ Dentro de esta carpeta, crearemos un archivo `__manifest__` que contenga la info
 
 Installable: true quiere decir que se puede instalar; mientras que application:false, quiere decir que no lo vamos a mostrar junto al resto de aplicaciones como «Ventas», o «Inventario»
 ## Definición de vista:
+Estructura básica de vistas XML
+```xml
+<odoo>
+    <record id="vista_form_cliente" model="ir.ui.view">
+        <field name="name">cliente.form</field>
+        <field name="model">mi_modulo.cliente</field>
+        <field name="arch" type="xml">
+            <form string="Cliente">
+                <group>
+                    <field name="nombre"/>
+                    <field name="correo"/>
+                </group>
+            </form>
+        </field>
+    </record>
+</odoo>
+```
+#### Ejemplo 1:
+```xml
+A continuación, podemos ver un ejemplo para un listado de registros en columnas
+usando <tree>.
+<record id="vista_tree_cliente" model="ir.ui.view">
+    <field name="name">cliente.tree</field>
+    <field name="model">mi_modulo.cliente</field>
+    <field name="arch" type="xml">
+        <tree>
+            <field name="nombre"/>
+            <field name="correo"/>
+        </tree>
+    </field>
+</record>
 
+<record id="accion_clientes" model="ir.actions.act_window">
+    <field name="name">Clientes</field>
+    <field name="res_model">mi_modulo.cliente</field>
+    <field name="view_mode">tree,form</field>
+</record>
+
+<menuitem id="menu_erp" name="Gestión ERP" sequence="10"/>
+<menuitem id="menu_clientes" name="Clientes" parent="menu_erp"
+          action="accion_clientes" sequence="20"/>
+```
+#### Ejemplo 2:
 ```xml
 <odoo>
     <data>
