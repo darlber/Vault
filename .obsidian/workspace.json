@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMDM/PMDM5 - Videojuegos.md",
+                "file": "PSP/PSP6 - Técnicas de programación segura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PMDM5 - Videojuegos"
+              "title": "PSP6 - Técnicas de programación segura"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PMDM/PMDM5 - Videojuegos.md",
+                "file": "PSP/PSP6 - Técnicas de programación segura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PMDM5 - Videojuegos"
+              "title": "Outgoing links from PSP6 - Técnicas de programación segura"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
+    "PMDM/PMDM5 - Videojuegos.md",
     "SGE/Módulos Odoo.md",
     "SGE/Actualización Odoo.md",
     "SGE/Personalizar Vistas.md",
@@ -195,7 +196,6 @@
     "SGE/SGE 2.md",
     "PSP/PSP4 - Aplicaciones Cliente-Servidor.md",
     "PMDM/PMDM6 - Sensores.md",
-    "PMDM/PMDM5 - Videojuegos.md",
     "PMDM/PMDM4 - Preferences.md",
     "PSP/PSP7 - Aplicaciones con comunicaciones seguras.md",
     "PSP/PSP6 - Técnicas de programación segura.md",
