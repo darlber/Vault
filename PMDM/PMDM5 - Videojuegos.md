@@ -38,7 +38,6 @@
 - `drawText(...)` – Dibujar texto.
 - `drawTextOnPath(...)` – Dibujar texto siguiendo una ruta.
 ### Ejemplo de método `render(Canvas canvas)`:
-
 ```java
 public void render(Canvas canvas) {
     Paint myPaint = new Paint();
@@ -102,7 +101,6 @@ public void AnimacionBoton(){
     animadorBoton.start();
 }
 ```
-
 ## 5.5.2 View Animations
 Permiten aplicar animaciones básicas a las vistas (`View`) como rotación, escala, desplazamiento y transparencia.
 ### Tipos de animadores:
@@ -122,7 +120,6 @@ Controlan el ritmo del cambio:
 ---
 ### 5.5.2.1 Animaciones View en XML
 Archivo en `res/anim` que define animaciones combinadas (rotar + mover):
-
 ```xml
 <set android:shareInterpolator="false" xmlns:android="http://schemas.android.com/apk/res/android">
     <rotate
@@ -143,7 +140,6 @@ Archivo en `res/anim` que define animaciones combinadas (rotar + mover):
         android:repeatCount="infinite"/>
 </set>
 ```
----
 ### 5.5.2.2 Animaciones View en código
 Ejemplo de movimiento con `TranslateAnimation` en código:
 ```java
@@ -154,7 +150,6 @@ animation.setRepeatCount(5);
 animation.setRepeatMode(2);
 imagen.startAnimation(animation);
 ```
----
 ## 5.5.3 Drawable Animations
 Permiten crear animaciones tipo “película” con varios bitmaps encadenados.
 ### Definición en XML (`res/drawable/animacion_robot.xml`):
