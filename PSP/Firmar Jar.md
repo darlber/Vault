@@ -9,7 +9,8 @@ storepass 123123 -keypass 123123
 keytool -genkeypair -alias PSP06 -keyalg RSA -keysize 2048 -validity 365 -keystore keystore.jks -
 storepass 123123 -keypass 123123
 ```
-> En las versiones antiguas de java, se usaba genkey, actualmente se realiza el proceso con genkeypair. El alias es el nombre de la clave generada dentro del conjunto de claves «keystore.jks». Podremos comprobar las claves mediante el siguiente código:
+> En las versiones antiguas de java, se usaba genkey, actualmente se realiza el proceso con genkeypair. El alias es el nombre de la clave generada dentro del conjunto de claves «keystore.jks». 
+> Podremos comprobar las claves mediante el siguiente código:
 ```sh
 keytool -list -keystore keystore.jks -storepass 123123
 ```
