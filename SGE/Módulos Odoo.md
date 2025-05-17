@@ -1,17 +1,18 @@
 Estructura básica de un módulo en Odoo.
 Para desarrollar componentes propios, se trabaja en un módulo que tiene esta estructura típica de carpetas y archivos:
+```
 mi_modulo/
-	├── __init__.py
-	├── __manifest__.py
-	├── models/
-	│ └── modelo_personalizado.py
-	├── views/
-	│ └── vista_personalizada.xml
-	├── security/
-	│ └── ir.model.access.csv
-	├── report/
-	│ └── informe_qweb.xml (opcional)
-	
+├── __init__.py
+├── __manifest__.py
+├── models/
+│ └── modelo_personalizado.py
+├── views/
+│ └── vista_personalizada.xml
+├── security/
+│ └── ir.model.access.csv
+├── report/
+│ └── informe_qweb.xml (opcional)
+```
 Esta estructura ya se vio (con la ejecución del subcomando “scaffold”) en el apartado de la UT4 en el que se explicaba cómo crear un informe personalizado para ser ejecutado desde la interfaz de Odoo. [[Scaffold]]
 
 Ejemplo:
@@ -24,7 +25,6 @@ _description = 'Cliente personalizado'
 nombre = fields.Char(string='Nombre')
 correo = fields.Char(string='Correo electrónico')
 ```
-
 ORM en Odoo
 El ORM permite convertir automáticamente una clase de Python en una tabla de la base de datos. Cada campo se corresponde con una columna, y cada instancia de la clase, con una fila.
 ```python
@@ -37,7 +37,6 @@ precio = fields.Float(string="Precio")
 Con esta clase, se genera automáticamente una tabla en la base de datos llamada
 mi_modulo_producto.
 ```
-
 Operaciones básicas
 ```python
 #Crear un registro

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSP/Firmar Jar.md",
+                "file": "SGE/Modo Desarrollador de Odoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firmar Jar"
+              "title": "Modo Desarrollador de Odoo"
             }
           }
         ]
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,18 +182,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b43a4bccc4e1c73",
+  "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
-    "PSP/PSP6 - Técnicas de programación segura.md",
-    "PSP/Firmar Jar.md",
-    "PMDM/PMDM5 - Videojuegos.md",
+    "SGE/Procedimientos almacenados.md",
+    "SGE/SGE 3.md",
     "SGE/Módulos Odoo.md",
-    "SGE/Actualización Odoo.md",
     "SGE/Personalizar Vistas.md",
+    "SGE/pgAdmin4.md",
+    "PSP/Firmar Jar.md",
+    "PSP/PSP6 - Técnicas de programación segura.md",
+    "PMDM/PMDM5 - Videojuegos.md",
+    "SGE/Actualización Odoo.md",
     "SGE/SGE 5.md",
     "SGE/Modo Desarrollador de Odoo.md",
-    "SGE/Procedimientos almacenados.md",
-    "SGE/pgAdmin4.md",
     "SGE/SSH.md",
     "SGE/Instalación de Odoo.md",
     "SGE/SGE 2.md",
@@ -202,7 +204,6 @@
     "PSP/PSP7 - Aplicaciones con comunicaciones seguras.md",
     "PSP/PSP5 - Generación de servicios en red.md",
     "PMDM/Resumen Jerarquía Preferences.md",
-    "SGE/SGE 3.md",
     "PSP",
     "Untitled.md",
     "SGE/SGE 4.md",

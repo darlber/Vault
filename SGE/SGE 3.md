@@ -8,13 +8,9 @@ La conexión a PostgreSQL en PgAdmin necesita:
 - Puerto (5432) 
 - Base de datos inicial
 - Usuario y contraseña.  
-  
 ==Las vistas no almacenan datos físicamente. Se basan en otras tablas.==  
-
-🛠️Pasos para conectarte en [[pgAdmin4]]
-  
+#### 🛠️Pasos para conectarte en [[pgAdmin4]]
 Las consultas de acceso a datos sirven para recuperar información de tablas o vistas (sql) en la base de datos.  
-  
 1. Selecciona las tablas o [[pgAdmin4#Vistas en Base de Datos|vista]] (sql).  
 2. Relaciona las tablas si es necesario.  
 3. Elige los campos que quieres ver.  
@@ -135,10 +131,14 @@ En Odoo, exportar desde vista formulario permite acceder a más campos que desde
 Monitorización y evaluación del rendimiento:  
 # Evaluación del rendimiento
 En servidores Linux se usa sar (incluido en el paquete sysstat) para medir rendimiento.  
-`sudo apt-get install sysstat`
+```sh
+sudo apt-get install sysstat
+```
 
 Ejemplo de uso:  
-`sar 1 3` (toma 3 mediciones cada 1 segundo).  
+```sh
+sar 1 3 #(toma 3 mediciones cada 1 segundo).  
+```
   
 Parámetros útiles de sar:   
 
@@ -164,4 +164,6 @@ Los logs del sistema almacenan eventos y errores que ayudan a diagnosticar probl
 En Ubuntu, los logs se guardan en /var/log.  
   
 Para ver la actividad de Odoo, por ejemplo, puedes usar:  
-`sudo head /var/log/odoo/odoo-server.log`
+```sh
+sudo head /var/log/odoo/odoo-server.log
+```

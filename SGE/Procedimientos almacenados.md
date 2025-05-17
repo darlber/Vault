@@ -20,11 +20,8 @@ BEGIN
 END;
 $$;
 ```
-
 # Trigger: 
-
 ## Tabla: 
-
 ```sql
 CREATE TABLE milog (
     user_id INTEGER,
@@ -32,9 +29,7 @@ CREATE TABLE milog (
     create_date TIMESTAMP
 );
 ```
-
 ## Función: 
-
 ```sql
 CREATE OR REPLACE FUNCTION log_nuevo_cliente()
 RETURNS TRIGGER
@@ -46,19 +41,15 @@ BEGIN
     RETURN NEW;
 END;
 $$;
-```
-
+``` 
 ## Trigger:
-
 ```sql
 CREATE TRIGGER trigger_log_nuevo_cliente
 AFTER INSERT ON res_partner
 FOR EACH ROW
 EXECUTE FUNCTION log_nuevo_cliente();
 ```
-
 ### Prueba: 
-
 ```sql
 INSERT INTO res_partner (name, create_uid, create_date, autopost_bills)
 VALUES ('Nuevo Cliente', 2, NOW(), false);

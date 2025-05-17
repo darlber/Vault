@@ -1,5 +1,5 @@
 En Odoo, las vistas se definen utilizando archivos XML. Comenzamos navegando hasta la carpeta «addons» y creando una carpeta (modulo) que contenga la view.
-`mkdir /opt/odoo18/odoo18/addons/formSSGG`
+`mkdir /opt/odoo/addons/formSSGG`
 
 Dentro de esta carpeta, crearemos un archivo `__manifest__` que contenga la información del módulo.
 ```python
@@ -15,8 +15,6 @@ Dentro de esta carpeta, crearemos un archivo `__manifest__` que contenga la info
 'application' : False,
 }
 ```
-
-
 Installable: true quiere decir que se puede instalar; mientras que application:false, quiere decir que no lo vamos a mostrar junto al resto de aplicaciones como «Ventas», o «Inventario»
 ## Definición de vista:
 Estructura básica de vistas XML
@@ -103,9 +101,7 @@ usando <tree>.
     </data>
 </odoo>
 ```
-
 #### Otro ejemplo + formulario:
-
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
@@ -143,7 +139,6 @@ usando <tree>.
 </odoo>
 
 ```
-
 ## Definición de un menú:
 ```xml
 <odoo>
@@ -175,4 +170,3 @@ usando <tree>.
     <menuitem id="menu_ver_empresas_action" name="Formulario de Contacto" parent="menu_ver_empresas" action="action_contact_form"/>
 </odoo>
 ```
-
