@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SGE/Módulos Odoo.md",
+                "file": "PMDM/PMDM5 - Videojuegos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Módulos Odoo"
+              "title": "Outgoing links from PMDM5 - Videojuegos"
             }
           },
           {
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
