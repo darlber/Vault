@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSP/PSP6 - Técnicas de programación segura.md",
+                "file": "PSP/Firmar Jar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PSP6 - Técnicas de programación segura"
+              "title": "Firmar Jar"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSP/PSP6 - Técnicas de programación segura.md",
+                "file": "PSP/Firmar Jar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PSP6 - Técnicas de programación segura"
+              "title": "Outgoing links from Firmar Jar"
             }
           },
           {
@@ -183,6 +183,8 @@
   },
   "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
+    "PSP/PSP6 - Técnicas de programación segura.md",
+    "PSP/Firmar Jar.md",
     "PMDM/PMDM5 - Videojuegos.md",
     "SGE/Módulos Odoo.md",
     "SGE/Actualización Odoo.md",
@@ -198,7 +200,6 @@
     "PMDM/PMDM6 - Sensores.md",
     "PMDM/PMDM4 - Preferences.md",
     "PSP/PSP7 - Aplicaciones con comunicaciones seguras.md",
-    "PSP/PSP6 - Técnicas de programación segura.md",
     "PSP/PSP5 - Generación de servicios en red.md",
     "PMDM/Resumen Jerarquía Preferences.md",
     "SGE/SGE 3.md",
@@ -213,7 +214,6 @@
     "SGE/Nueva carpeta",
     "SGE/Instalación de Odoo-PCera.md",
     "entornos de producción.md",
-    "Welcome.md",
     "SGE"
   ]
 }
