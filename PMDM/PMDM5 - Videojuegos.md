@@ -204,7 +204,6 @@ while (JuegoEnEjecución) {
 # 5.7 La Interacción con el Jugador
 - La interacción se gestiona vía eventos táctiles (`Touch`) y gestos.
 - Ciclo de Touch: `dispatchTouchEvent` → `onInterceptTouchEvent` → `onTouchEvent`.
----
 ## 5.7.1 Eventos Touch
 1. **Dispatch**: Recorre hijos de la actividad para procesar el toque.  
 2. **Intercept**: Decide si un hijo procesa el evento.  
@@ -368,7 +367,6 @@ private class ControladorGestos extends GestureDetector.SimpleOnGestureListener 
   Bitmap imagen_escalada = Bitmap.createScaledBitmap(
       imagen, AnchoPantalla, AltoPantalla, true);
   ```
----
 ## 5.8.4 El Escenario
 1. **Declarar variables**  
     ```java
@@ -410,7 +408,6 @@ private class ControladorGestos extends GestureDetector.SimpleOnGestureListener 
     canvas.drawBitmap(imagenes[img_actual],   0, yImgActual,   null);
     canvas.drawBitmap(imagenes[img_siguiente],0, yImgSiguiente,null);
     ```
----
 ## 5.8.14 Libera Recursos
 
 ```java
