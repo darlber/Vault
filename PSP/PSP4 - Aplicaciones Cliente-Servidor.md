@@ -215,38 +215,38 @@ String comando;   // Entrada del cliente
 Se gestionan con `if` y `switch`.
 # 2.6 Ejemplo III: Diagrama de Transiciones
 ```java
-    int estado = 1;
+int estado = 1;
+String comando = "";
 
-    do {
-        switch (estado) {
+do {
+    if (comando.equals("exit")) {
+        estado = -1;
+        continue;
+    }
+
+    switch (estado) {
         case 1:
             flujo_salida.writeUTF("Introduce comando (ls/get/exit)");
             comando = flujo_entrada.readUTF();
+
             if (comando.equals("ls")) {
                 System.out.println("\tEl cliente quiere ver el contenido del directorio");
-                // Mostrar directorio...
-                estado = 1;
-                break;
+                // Mostrar contenido del directorio...
             } else if (comando.equals("get")) {
-                // Voy al estado 3 para mostrar el fichero
                 estado = 3;
-                break;
-            } else {
-                estado = 1;
-                break;
             }
+            break;
+
         case 3:
-            // Estado 3: mostrar archivo
             flujo_salida.writeUTF("Introduce el nombre del archivo");
             String fichero = flujo_entrada.readUTF();
             // Mostrar contenido del fichero...
             estado = 1;
             break;
-        }
-        if (comando.equals("exit")) {
-            estado = -1;
-        }
-    } while (estado != -1);
+    }
+
+} while (estado != -1);
+
 ```
 # 2.7️ Monitorizar Tiempos de Respuesta
 - **Tiempo de procesamiento**: tiempo interno en el servidor  
