@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSP/Firmar Jar.md",
+                "file": "SGE/SGE 4.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Firmar Jar"
+              "title": "Outline of SGE 4"
             }
           },
           {
@@ -164,12 +164,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f6844c69f6b1faf",
+  "active": "4c6aae0b20b71264",
   "lastOpenFiles": [
     "SGE/SGE 3.md",
     "SGE/SGE 2.md",
