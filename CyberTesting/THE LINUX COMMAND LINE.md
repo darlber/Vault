@@ -111,7 +111,7 @@ Forces Bash to reread and apply changes without needing to close and reopen term
 | ctrl-B or page up   | Up one page.                                                    |
 | numberG             | To line number. For example, `1G` moves to the first line of the file. |
 | G                   | To the last line of the file.                                   |
-### Text Deletion Commands
+### Text Deletion Commands (Deleting is cutting ctrl+X)
 
 | Command | Deletes                                                        |
 |---------|----------------------------------------------------------------|
@@ -125,3 +125,36 @@ Forces Bash to reread and apply changes without needing to close and reopen term
 | d^      | From the current cursor location to the first non-whitespace character in the line |
 | dG      | From the current line to the end of the file                   |
 | d20G    | From the current line to the twentieth line of the file        |
+### Yanking Commands
+
+| Command | Copies                                                                |
+|---------|------------------------------------------------------------------------|
+| yy      | The current line                                                       |
+| 5yy     | The current line and the next four lines                               |
+| yW      | From the current cursor position to the beginning of the next word     |
+| y$      | From the current cursor location to the end of the current line        |
+| y0      | From the current cursor location to the beginning of the line          |
+| y^      | From the current cursor location to the first non-whitespace character in the line |
+| yG      | From the current line to the end of the file                           |
+| y20G    | From the current line to the twentieth line of the file                |
+
+	Command J (not navigation j) to join to the next line
+	/  to search
+	n to repeat search
+	p to paste
+	
+	To switch from one file to the next, use this ex command:
+	:bn
+	
+	To move back to the previous file, use the following:
+	:bp
+	
+#### Example of Global Search-and-Replace Syntax
+
+| Item             | Meaning                                                                                                           |
+|------------------|-------------------------------------------------------------------------------------------------------------------|
+| `:`              | The colon character starts an ex command.                                                                        |
+| `%`              | Specifies the range of lines for the operation. `%` means from the first line to the last line. Can also be written as `1,5` or `1,$`. If omitted, the command operates only on the current line. |
+| `s`              | Specifies the operation — in this case, substitution (search-and-replace).                                       |
+| `/Line/line/`    | Specifies the search pattern (`Line`) and the replacement text (`line`).                                         |
+| `g`              | Stands for "global" — applies the replacement to **every** instance of the search string in each line. If omitted, only the **first** instance per line is replaced. |
