@@ -87,3 +87,8 @@ kill -l
 | 18     | CONT  | Continue. Resumes a process that was stopped (e.g., by a `STOP` or `TSTP` signal). Sent by `bg` and `fg` commands.                                                                                                               |
 | 19     | STOP  | Stop. Pauses a process without terminating it. Cannot be ignored or handled by the process.                                                                                                                                    |
 | 20     | TSTP  | Terminal stop. Sent when `Ctrl-Z` is pressed. Unlike `STOP`, the process receives this signal and can choose to ignore it.                                                                                                      |
+## Source
+```sh
+source 'file'
+```
+Forces Bash to reread and apply changes without needing to close and reopen terminal.
