@@ -25,3 +25,14 @@ Most used:
 | TCP Null Scan          | `-sN`  | Sends packets with no flags set; can evade some firewalls and filters.     |
 | TCP FIN Scan           | `-sF`  | Sends FIN packets; can bypass some filtering devices.                      |
 | TCP Xmas Scan          | `-sX`  | Sends packets with FIN, URG, and PSH flags set; named after blinking lights. |
+NSE:
+
+| Category   | Description                                                                                                  |
+|------------|--------------------------------------------------------------------------------------------------------------|
+| safe       | Won't affect the target                                                                                      |
+| intrusive  | Not safe; likely to affect the target                                                                         |
+| vuln       | Scan for vulnerabilities                                                                                      |
+| exploit    | Attempt to exploit a vulnerability                                                                            |
+| auth       | Attempt to bypass authentication for running services (e.g., log into an FTP server anonymously)             |
+| brute      | Attempt to bruteforce credentials for running services                                                       |
+| discovery  | Attempt to query running services for further information about the network (e.g., query an SNMP server)     |
