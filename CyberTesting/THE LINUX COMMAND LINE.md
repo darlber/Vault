@@ -43,3 +43,38 @@ echo Front-{A,B,C}-Back
 | Alt-D         | Kill text from the cursor location to the end of the current word.                                                           |
 | Alt-Backspace | Kill text from the cursor location to the beginning of the current word. If at the start of a word, kills the previous word. |
 | Ctrl-Y        | Yank text from the kill-ring and insert it at the cursor location.                                                           |
+## Viewing processes
+```sh
+ps
+# Adding the x option (note that there is no leading dash) tells ps to show all of our processes regardless of what terminal (if any) they are controlled by.The presence of a ? in the TTY column indicates no controlling terminal.
+ps x
+# ps aux como task  manager
+ps aux
+# dynamically
+top
+# The shell’s job control facility also gives us a way to list the jobs that have been launched from our terminal. Using the jobs command
+jobs
+```
+## Processes
+```sh
+# llevar al background
+'proceso' &
+#llevar al foreground
+fg %1
+#% es el jobspec, visible con jobs opcional si solo hay 1
+```
+
+## Signals y listado
+```sh
+kill -l
+```
+
+| Number | Name  | Meaning                                                                                                                                                                                                                         |
+|--------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | HUP   | Hang up. Indicates that the controlling terminal has "hung up." Often used by daemon programs (like Apache) to reinitialize and reread configuration files.                                                                    |
+| 2      | INT   | Interrupt. Same as pressing `Ctrl-C` in a terminal; typically terminates a program.                                                                                                       |
+| 9      | KILL  | Kill. Immediately terminates a process without allowing cleanup. Cannot be ignored. Should be used as a last resort.                                                                                                             |
+| 15     | TERM  | Terminate. Default signal sent by the `kill` command. Allows a program to terminate gracefully if it's able to handle the signal.                                                                                               |
+| 18     | CONT  | Continue. Resumes a process that was stopped (e.g., by a `STOP` or `TSTP` signal). Sent by `bg` and `fg` commands.                                                                                                               |
+| 19     | STOP  | Stop. Pauses a process without terminating it. Cannot be ignored or handled by the process.                                                                                                                                    |
+| 20     | TSTP  | Terminal stop. Sent when `Ctrl-Z` is pressed. Unlike `STOP`, the process receives this signal and can choose to ignore it.                                                                                                      |
