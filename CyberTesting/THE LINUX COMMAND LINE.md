@@ -64,6 +64,13 @@ fg %1
 #% es el jobspec, visible con jobs opcional si solo hay 1
 ```
 
+| Command | Description                                                                                                                                              |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| pstree  | Outputs a process list arranged in a tree-like pattern showing the parent-child relationships between processes.                                         |
+| vmstat  | Outputs a snapshot of system resource usage including memory, swap, and disk I/O. To see continuous updates, run `vmstat <seconds>`. Stop with `Ctrl-C`. |
+| xload   | A graphical program that draws a graph showing system load over time.                                                                                    |
+| tload   | Similar to `xload` but draws the graph in the terminal. Terminate the output with `Ctrl-C`.                                                              |
+
 ## Signals y listado
 ```sh
 kill -l
