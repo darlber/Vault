@@ -94,8 +94,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f6844c69f6b1faf",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
     "CyberTesting/nMap.md",
     "CyberTesting/THE LINUX COMMAND LINE - William Shotts.md",
