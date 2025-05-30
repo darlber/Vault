@@ -6,7 +6,7 @@
       {
         "id": "a0bb086a922adc1d",
         "type": "tabs",
-        "dimension": 69.23076923076923,
+        "dimension": 50,
         "children": [
           {
             "id": "0f6844c69f6b1faf",
@@ -23,12 +23,12 @@
         ]
       },
       {
-        "id": "6e16ffb610646e61",
+        "id": "deb97ae6dc1bd77d",
         "type": "tabs",
-        "dimension": 30.76923076923077,
+        "dimension": 50,
         "children": [
           {
-            "id": "c4fb356a288e7c5a",
+            "id": "5ab5999f6d11344d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +114,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,22 +211,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f6844c69f6b1faf",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
-    "CyberTesting/Comandos Linux.md",
-    "CyberTesting/linuxbasicsforhackers.pdf",
-    "CyberTesting/William Shotts - The Linux Command Line_ A Complete Introduction (2019, No Starch Press).pdf",
-    "CyberTesting/Checking files.md",
-    "CyberTesting/OSSTMM.3.pdf",
-    "CyberTesting/nMap.md",
+    "Guitarra/TEMA 33 y 34.pdf",
+    "Guitarra/TEMA 31 y 32.pdf",
+    "Guitarra/TEMA 29 y 30.pdf",
+    "Guitarra/TEMA 28.pdf",
+    "Guitarra/TEMA 27.pdf",
+    "Guitarra/TEMA 25.pdf",
+    "Guitarra/TEMA 22.pdf",
+    "Guitarra/TEMA 20-21.pdf",
+    "Guitarra/TEMA 19-25.pdf",
+    "Guitarra/TEMA 18-19.pdf",
+    "Guitarra/TEMA 16-18.pdf",
     "CyberTesting/List.md",
+    "CyberTesting/nMap.md",
+    "CyberTesting/Comandos Linux.md",
+    "CyberTesting/Checking files.md",
     "SGE/Procedimientos almacenados.md",
     "SGE/SGE 2.md",
     "SGE/SSH.md",
     "2025-05-26.md",
     "SGE/SGE 4.md",
-    "CyberTesting",
-    "Guitarra",
     "SGE/SGE 3.md",
     "PSP/PSP5 - Generación de servicios en red.md",
     "PSP/PSP4 - Aplicaciones Cliente-Servidor.md",
@@ -241,11 +248,6 @@
     "SGE/Actualización Odoo.md",
     "SGE/SGE 5.md",
     "SGE/Instalación de Odoo.md",
-    "PMDM/PMDM4 - Preferences.md",
-    "PSP",
-    "PMDM",
-    "SGE/a/Vault",
-    "SGE/a",
-    "SGE/Nueva carpeta"
+    "PMDM/PMDM4 - Preferences.md"
   ]
 }
