@@ -94,7 +94,7 @@ This is an amazing resource, take some time to go through this [https://www.nets
 
 There are also some books you can read to improve your understanding of certain topics
 
-[Comandos Linux](Comandos%20Linux.md)
+[William Shotts - The Linux Command Line_ A Complete Introduction (2019, No Starch Press)](William%20Shotts%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction%20(2019,%20No%20Starch%20Press).pdf)
 
 Linux for Hackers: [https://nostarch.com/linuxbasicsforhackers](https://nostarch.com/linuxbasicsforhackers)
 
