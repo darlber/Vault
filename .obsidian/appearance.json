@@ -1,4 +1,5 @@
 {
-  "theme": "obsidian",
-  "accentColor": "#8e1010"
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "Things"
 }
