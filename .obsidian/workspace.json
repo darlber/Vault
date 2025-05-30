@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/List.md",
+                "file": "CyberTesting/Checking files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Checking files"
             }
           }
         ]
@@ -190,11 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
+    "CyberTesting/List.md",
+    "CyberTesting/Checking files.md",
     "CyberTesting/nMap.md",
     "CyberTesting/THE LINUX COMMAND LINE - William Shotts.md",
-    "CyberTesting/List.md",
     "SGE/Procedimientos almacenados.md",
     "SGE/SGE 2.md",
     "SGE/SSH.md",
@@ -221,7 +222,6 @@
     "PSP/PSP7 - Aplicaciones con comunicaciones seguras.md",
     "PSP",
     "PMDM",
-    "Instalación-de-Odoo.md",
     "SGE/a/Vault",
     "SGE/a",
     "SGE/Nueva carpeta",
