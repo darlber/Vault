@@ -11,14 +11,12 @@
             "id": "0f6844c69f6b1faf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CyberTesting/Checking files.md",
-                "mode": "source",
-                "source": false
+                "file": "CyberTesting/OSSTMM.3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Checking files"
+              "icon": "lucide-file-text",
+              "title": "OSSTMM.3"
             }
           }
         ]
@@ -192,8 +190,9 @@
   },
   "active": "0f6844c69f6b1faf",
   "lastOpenFiles": [
-    "CyberTesting/List.md",
     "CyberTesting/Checking files.md",
+    "CyberTesting/OSSTMM.3.pdf",
+    "CyberTesting/List.md",
     "CyberTesting/nMap.md",
     "CyberTesting/THE LINUX COMMAND LINE - William Shotts.md",
     "SGE/Procedimientos almacenados.md",
@@ -219,7 +218,6 @@
     "SGE/SGE 5.md",
     "SGE/Instalación de Odoo.md",
     "PMDM/PMDM4 - Preferences.md",
-    "PSP/PSP7 - Aplicaciones con comunicaciones seguras.md",
     "PSP",
     "PMDM",
     "SGE/a/Vault",
