@@ -1,5 +1,12 @@
+```sh
 file name
+#comprueba que es el archivo
+```
+
+```sh
 exiftool 
+#aporta más información
+```
 
 In the context of cyber security, when malicious actors fail to follow proper OPSEC practices, they might leave digital traces that can be pieced together to reveal their identity. Some common OPSEC mistakes include:
 

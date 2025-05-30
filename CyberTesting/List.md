@@ -94,7 +94,7 @@ This is an amazing resource, take some time to go through this [https://www.nets
 
 There are also some books you can read to improve your understanding of certain topics
 
-[THE LINUX COMMAND LINE - William Shotts](THE%20LINUX%20COMMAND%20LINE%20-%20William%20Shotts.md)
+[Comandos Linux](Comandos%20Linux.md)
 
 Linux for Hackers: [https://nostarch.com/linuxbasicsforhackers](https://nostarch.com/linuxbasicsforhackers)
 
