@@ -114,7 +114,6 @@ dig -x <host>            # reverses lookup host
 wget <file>              # downloads file
 
 ```
-
 # 2. Basic Shell Programming
 ## 2.1. Variables
 ```sh
@@ -181,7 +180,7 @@ declare -f          # displays all defined functions in your login session
 
 ```
 ## 2.3. Flow Control
-
+```sh
 statement1 && statement2  # and operator
 statement1 || statement2  # or operator
 
@@ -261,10 +260,9 @@ until condition; do
   statements
 done
 
-
-# 3. Command-Line Processing Cycle.
-
-
+```
+# 3. Command-Line Processing Cycle
+```sh
 # The default order for command lookup is functions, followed by built-ins, with scripts and executables last.
 # There are three built-ins that you can use to override this order: `command`, `builtin` and `enable`.
 
@@ -274,10 +272,9 @@ enable   # enables and disables shell built-ins
 
 eval     # takes arguments and run them through the command-line processing steps all over again
 
-
-# 4. Input/Output Redirectors.
-
-
+```
+# 4. Input/Output Redirectors
+```sh
 cmd1|cmd2  # pipe; takes standard output of cmd1 as standard input to cmd2
 > file     # directs standard output to file
 < file     # takes standard input from file
@@ -299,11 +296,9 @@ n<&m       # file descriptor n is made to be a copy of the input file descriptor
 >&-        # closes the standard output
 n>&-       # closes the ouput from file descriptor n
 n<&-       # closes the input from file descripor n
-
-
-# 5. Process Handling.
-
-
+```
+# 5. Process Handling
+```sh
 # To suspend a job, type CTRL+Z while it is running. You can also suspend a job with CTRL+Y.
 # This is slightly different from CTRL+Z in that the process is only stopped when it attempts to read input from terminal.
 # Of course, to interupt a job, type CTRL+C.
@@ -332,10 +327,9 @@ trap - sig1 sig2    # resets the action taken when the signal is received to the
 disown <PID|JID>    # removes the process from the list of jobs
 
 wait                # waits until all background jobs have finished
-
+```
 # 6. Tips and Tricks.
-
-
+```sh
 # set an alias
 cd; nano .bash_profile
 > alias gentlenode='ssh admin@gentlenode.com -p 3404'  # add your alias in .bash_profile
@@ -347,11 +341,9 @@ cd; nano .bashrc
 
 source .bashrc
 cd websites
-
-
+```
 # 7. Debugging Shell Programs.
-
-
+```sh
 bash -n scriptname  # don't run commands; check for syntax errors only
 set -o noexec       # alternative (set option in script)
 
@@ -383,3 +375,4 @@ function returntrap {
 }
 
 trap returntrap RETURN  # is executed each time a shell function or a script executed with the . or source commands finishes executing
+```
