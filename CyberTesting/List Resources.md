@@ -19,7 +19,7 @@ https://hackerone.com/hacktivity](https://hackerone.com/hacktivity)
 [https://www.hacksplaining.com/](https://www.hacksplaining.com/)
 [https://www.hackerrank.com/domains/shell](https://www.hackerrank.com/domains/shell)
 
-And Blogs Like :
+# Blogs
 [https://www.simplycyber.io/free-cyber-resources](https://www.simplycyber.io/free-cyber-resources)
 [https://blog.g0tmi1k.com/](https://blog.g0tmi1k.com/)
 [https://www.hackingarticles.in/](https://www.hackingarticles.in/)
@@ -29,7 +29,7 @@ And Blogs Like :
 [https://www.hacking-tutorial.com/](https://www.hacking-tutorial.com/)
 [https://hacklido.com/d/85-collection-of-resources-for-oscp](https://hacklido.com/d/85-collection-of-resources-for-oscp)
 
-There are also discord servers for various hacking communities where you can join and ask people for advice
+# Discord 
 [the cyber mentor](https://discord.com/invite/tcm)
 [the many hats club](https://discord.com/invite/infosec)
 [infosec prep](https://discord.com/invite/infosecprep)
@@ -46,15 +46,14 @@ There are also discord servers for various hacking communities where you can joi
 [INE Unofficial server](https://discord.com/invite/XGVaBeapXQ)
 [Offsec official server](https://discord.com/invite/offsec)
 [ctf learn](https://discord.com/invite/Susw824A2T)
-
-This is an amazing resource, take some time to go through this 
+# Web
 [https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 
-There are also some books you can read to improve your understanding of certain topics
+# Books
 
 [William Shotts - The Linux Command Line_ A Complete Introduction (2019, No Starch Press)](William%20Shotts%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction%20(2019,%20No%20Starch%20Press).pdf)
 [linuxbasicsforhackers](linuxbasicsforhackers.pdf)
 
 Linux Command (Learning the Shell): [http://linuxcommand.org/lc3_learning_the_shell.php](http://linuxcommand.org/lc3_learning_the_shell.php)
 
-After awhile, You can signup for an account on HackerOne and start hacking real applications but then put those experiences on ur resume. This is how I got my first pentest job.
+After awhile, You can signup for an account on HackerOne and start hacking real applications but then put those experiences on ur resume.
