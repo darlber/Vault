@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/Pentesting Checklist.md",
+                "file": "CyberTesting/XEE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentesting Checklist"
+              "title": "XEE"
             }
           }
         ]
@@ -27,6 +27,18 @@
         "id": "5f7fc38a683de34e",
         "type": "tabs",
         "children": [
+          {
+            "id": "10847f3beb0d53f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CyberTesting/linuxbasicsforhackers.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "linuxbasicsforhackers"
+            }
+          },
           {
             "id": "ffec0e450a2aa17b",
             "type": "leaf",
@@ -210,13 +222,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78a589e2ea656989",
+  "active": "10847f3beb0d53f0",
   "lastOpenFiles": [
+    "CyberTesting/XEE.md",
+    "CyberTesting/Checking files.md",
+    "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/List Resources.md",
     "CyberTesting/linuxbasicsforhackers.pdf",
     "CyberTesting/Comandos Linux.md",
-    "CyberTesting/Pentesting Checklist.md",
-    "CyberTesting/XEE.md",
     "CyberTesting/nMap.md",
     "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
@@ -227,7 +240,6 @@
     "Guitarra/TEMA 22.pdf",
     "Guitarra/TEMA 20-21.pdf",
     "Guitarra/TEMA 19-25.pdf",
-    "CyberTesting/Checking files.md",
     "SGE/Procedimientos almacenados.md",
     "SGE/SGE 2.md",
     "SGE/SSH.md",
