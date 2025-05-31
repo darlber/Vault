@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/Comandos Linux.md",
+                "file": "CyberTesting/XEE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Linux"
+              "title": "XEE"
             }
           }
         ]
@@ -212,10 +212,11 @@
   },
   "active": "131df45448c255dc",
   "lastOpenFiles": [
+    "CyberTesting/Comandos Linux.md",
+    "CyberTesting/XEE.md",
     "CyberTesting/linuxbasicsforhackers.pdf",
     "CyberTesting/List.md",
     "CyberTesting/nMap.md",
-    "CyberTesting/Comandos Linux.md",
     "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
     "Guitarra/TEMA 29 y 30.pdf",
