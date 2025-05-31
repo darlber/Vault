@@ -11,12 +11,14 @@
             "id": "5ab5999f6d11344d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CyberTesting/linuxbasicsforhackers.pdf"
+                "file": "CyberTesting/List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "linuxbasicsforhackers"
+              "icon": "lucide-file",
+              "title": "List"
             }
           }
         ]
@@ -190,9 +192,9 @@
   },
   "active": "5ab5999f6d11344d",
   "lastOpenFiles": [
+    "CyberTesting/linuxbasicsforhackers.pdf",
     "CyberTesting/List.md",
     "CyberTesting/nMap.md",
-    "CyberTesting/linuxbasicsforhackers.pdf",
     "CyberTesting/Comandos Linux.md",
     "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
