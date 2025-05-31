@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/List Resources.md",
+                "file": "CyberTesting/Comandos Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List Resources"
+              "title": "Comandos Linux"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac1bf6f0e6fd6eef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b61b92778acc8f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberTesting/Comandos Linux.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos Linux"
             }
           }
         ]
@@ -94,7 +114,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,11 +213,11 @@
   },
   "active": "ffec0e450a2aa17b",
   "lastOpenFiles": [
+    "CyberTesting/List Resources.md",
     "CyberTesting/linuxbasicsforhackers.pdf",
     "CyberTesting/XEE.md",
     "CyberTesting/Checking files.md",
     "CyberTesting/Pentesting Checklist.md",
-    "CyberTesting/List Resources.md",
     "CyberTesting/Comandos Linux.md",
     "CyberTesting/nMap.md",
     "Guitarra/TEMA 33 y 34.pdf",
