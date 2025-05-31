@@ -1,24 +1,34 @@
-# Youtube and webs
-[https://www.youtube.com/c/InsiderPhD/playlists](https://www.youtube.com/c/InsiderPhD/playlists)
-[https://github.com/EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
-[https://gist.github.com/LeCoupa/122b12050f5fb267e75f](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
-[https://null-byte.wonderhowto.com/](https://null-byte.wonderhowto.com/)
-https://hackerone.com/hacktivity](https://hackerone.com/hacktivity)
-[https://overthewire.org/wargames/](https://overthewire.org/wargames/)
-[https://underthewire.tech/wargames](https://underthewire.tech/wargames)
-[https://www.hackthebox.eu/](https://www.hackthebox.eu/)
-[https://tryhackme.com/](https://tryhackme.com/)
-[https://ctftime.org/](https://ctftime.org/)
-[https://zsecurity.org/](https://zsecurity.org/)
-[https://portswigger.net/web-security/](https://portswigger.net/web-security/)
-[https://portswigger.net/blog/flying-high-in-the-web-security-academy](https://portswiger.net/blog/flying-high-in-the-web-security-academy)
-[https://owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-sho/)
-[https://ippsec.rocks/?#](https://ippsec.rocks/?#)
-[https://ohmygit.org/](https://ohmygit.org/)
-[https://www.bugbountyhunter.com/](https://www.bugbountyhunter.com/)
-[https://www.hacker101.com/](https://www.hacker101.com/)
-[https://www.hacksplaining.com/](https://www.hacksplaining.com/)
-[https://www.hackerrank.com/domains/shell](https://www.hackerrank.com/domains/shell)
+## 🧠 Learning Platforms & Labs
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security/)
+- [Hack The Box](https://www.hackthebox.eu/)
+- [TryHackMe](https://tryhackme.com/)
+- [OverTheWire Wargames](https://overthewire.org/wargames/)
+- [UnderTheWire Wargames](https://underthewire.tech/wargames)
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- [Hacker101](https://www.hacker101.com/)
+- [Hacksplaining](https://www.hacksplaining.com/)
+- [ZSecurity](https://zsecurity.org/)
+- [Oh My Git!](https://ohmygit.org/)
+## 🎥 YouTube Playlists & Videos
+- [InsiderPhD YouTube Playlists](https://www.youtube.com/c/InsiderPhD/playlists)
+- [IPPSEC – Hack The Box Video Walkthroughs](https://ippsec.rocks/?#)
+
+## 🧪 Bug Bounty & Vulnerability Research
+- [Can I Take Over XYZ? (Subdomain Takeover)](https://github.com/EdOverflow/can-i-take-over-xyz)
+- [Bug Bounty Hunter](https://www.bugbountyhunter.com/)
+- [HackerOne Hacktivity](https://hackerone.com/hacktivity)
+- [PortSwigger Blog: Flying High in the Web Security Academy](https://portswigger.net/blog/flying-high-in-the-web-security-academy)
+
+## 📝 Cheatsheets & Practical References
+- [LeCoupa’s Linux Commands Cheat Sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+- [Hack The Box Linux Commands (HackerRank Shell Domain)](https://www.hackerrank.com/domains/shell)
+
+## 🕵️ CTFs & Challenges
+- [CTFTime](https://ctftime.org/)
+
+## 🌐 Tutorials & Community Sites
+- [Null Byte (WonderHowTo)](https://null-byte.wonderhowto.com/)
+
 # Blogs
 [https://www.simplycyber.io/free-cyber-resources](https://www.simplycyber.io/free-cyber-resources)
 [https://blog.g0tmi1k.com/](https://blog.g0tmi1k.com/)
