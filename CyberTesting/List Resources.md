@@ -1,3 +1,4 @@
+# Youtube and webs
 [https://www.youtube.com/c/InsiderPhD/playlists](https://www.youtube.com/c/InsiderPhD/playlists)
 [https://github.com/EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
 [https://gist.github.com/LeCoupa/122b12050f5fb267e75f](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
@@ -18,7 +19,6 @@ https://hackerone.com/hacktivity](https://hackerone.com/hacktivity)
 [https://www.hacker101.com/](https://www.hacker101.com/)
 [https://www.hacksplaining.com/](https://www.hacksplaining.com/)
 [https://www.hackerrank.com/domains/shell](https://www.hackerrank.com/domains/shell)
-
 # Blogs
 [https://www.simplycyber.io/free-cyber-resources](https://www.simplycyber.io/free-cyber-resources)
 [https://blog.g0tmi1k.com/](https://blog.g0tmi1k.com/)
@@ -46,9 +46,8 @@ https://hackerone.com/hacktivity](https://hackerone.com/hacktivity)
 [INE Unofficial server](https://discord.com/invite/XGVaBeapXQ)
 [Offsec official server](https://discord.com/invite/offsec)
 [ctf learn](https://discord.com/invite/Susw824A2T)
-# Web
+# NetSecFocus
 [https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
-
 # Books
 
 [William Shotts - The Linux Command Line_ A Complete Introduction (2019, No Starch Press)](William%20Shotts%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction%20(2019,%20No%20Starch%20Press).pdf)
