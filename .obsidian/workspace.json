@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/Comandos Linux.md",
+                "file": "CyberTesting/Pentesting Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Linux"
+              "title": "Pentesting Checklist"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/Comandos Linux.md",
+                "file": "CyberTesting/CheatSheet Linux.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Linux"
+              "title": "CheatSheet Linux"
             }
           }
         ]
@@ -114,8 +114,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,12 +212,15 @@
   },
   "active": "ffec0e450a2aa17b",
   "lastOpenFiles": [
-    "CyberTesting/List Resources.md",
-    "CyberTesting/linuxbasicsforhackers.pdf",
-    "CyberTesting/XEE.md",
-    "CyberTesting/Checking files.md",
+    "CyberTesting/XXE.md",
     "CyberTesting/Pentesting Checklist.md",
-    "CyberTesting/Comandos Linux.md",
+    "CyberTesting/List Resources.md",
+    "xxe.md",
+    "CyberTesting/CheatSheet Linux.md",
+    "CyberTesting/Checking files.md",
+    "CyberTesting/Linux PDF/linuxbasicsforhackers.pdf",
+    "CyberTesting/Linux PDF/William Shotts - The Linux Command Line_ A Complete Introduction (2019, No Starch Press).pdf",
+    "CyberTesting/Linux PDF",
     "CyberTesting/nMap.md",
     "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
@@ -227,8 +229,6 @@
     "Guitarra/TEMA 27.pdf",
     "Guitarra/TEMA 25.pdf",
     "Guitarra/TEMA 22.pdf",
-    "Guitarra/TEMA 20-21.pdf",
-    "Guitarra/TEMA 19-25.pdf",
     "SGE/Procedimientos almacenados.md",
     "SGE/SGE 2.md",
     "SGE/SSH.md",
