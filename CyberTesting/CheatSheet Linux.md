@@ -1,7 +1,7 @@
 ---
 Name: Bash CheatSheet for Mac OSX
 Author: J. Le Coupanec
-Date: 04/11/2014
+Date: 2014-11-20
 ---
 # 0. Shortcuts
 	CTRL+A  # move to beginning of line

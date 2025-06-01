@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "CyberTesting/CheatSheet Linux.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -114,8 +114,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,13 +210,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffec0e450a2aa17b",
+  "active": "b61b92778acc8f42",
   "lastOpenFiles": [
-    "CyberTesting/XXE.md",
+    "CyberTesting/CheatSheet Linux.md",
     "CyberTesting/Pentesting Checklist.md",
+    "CyberTesting/XXE.md",
     "CyberTesting/List Resources.md",
     "xxe.md",
-    "CyberTesting/CheatSheet Linux.md",
     "CyberTesting/Checking files.md",
     "CyberTesting/Linux PDF/linuxbasicsforhackers.pdf",
     "CyberTesting/Linux PDF/William Shotts - The Linux Command Line_ A Complete Introduction (2019, No Starch Press).pdf",
