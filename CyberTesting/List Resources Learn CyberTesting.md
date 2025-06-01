@@ -60,8 +60,8 @@
 - [TJNull’s OSCP Preparation Guide (NetSecFocus)](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 
 ## 📚 Books & Command Line Resources
-- [William Shotts - *The Linux Command Line: A Complete Introduction* (PDF)](Linux%20PDF/William%20Shotts%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction%20(2019,%20No%20Starch%20Press).pdf)
-- [Linux Basics for Hackers (PDF)](Linux%20PDF/linuxbasicsforhackers.pdf)
+- [William Shotts - *The Linux Command Line: A Complete Introduction* (PDF)](Assets/PDF/William%20Shotts%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction%20(2019,%20No%20Starch%20Press).pdf)
+- [Linux Basics for Hackers (PDF)](Assets/PDF/linuxbasicsforhackers.pdf)
 - [LinuxCommand.org – Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 
 ---

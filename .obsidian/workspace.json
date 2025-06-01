@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/CheatSheets/Nmap.md",
+                "file": "CyberTesting/List Resources Learn CyberTesting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "List Resources Learn CyberTesting"
             }
           }
         ]
@@ -94,7 +94,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberTesting/CheatSheets/Nmap.md",
+                "file": "CyberTesting/List Resources Learn CyberTesting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nmap"
+              "title": "Outline of List Resources Learn CyberTesting"
             }
           }
         ],
@@ -186,45 +187,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "7b43a4bccc4e1c73",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "CyberTesting/List Resources Learn CyberTesting.md",
+    "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "CyberTesting/CheatSheets/Linux.md",
+    "CyberTesting/Assets/Excalidraw/Deserialization.md",
+    "CyberTesting/Assets/Excalidraw/Authentication.md",
+    "CyberTesting/Assets/Excalidraw/Web Cache Poisoning.md",
+    "CyberTesting/Assets/Excalidraw/SSTI.md",
+    "CyberTesting/Assets/Excalidraw/SSRF.md",
+    "CyberTesting/Assets/Excalidraw/SSL, HSTS.md",
+    "CyberTesting/Assets/Excalidraw/Networking drawings.md",
+    "CyberTesting/Assets/Excalidraw/Modern Web Workflow.md",
+    "CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
+    "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
+    "CyberTesting/Assets/Excalidraw",
+    "CyberTesting/Assets/Templates/Tool Template.md",
+    "CyberTesting/Assets/Templates",
+    "CyberTesting/Assets/Images/Web/SQLi/time-delays.png",
+    "CyberTesting/Assets/Images/Web/SQLi/substring.png",
+    "CyberTesting/Assets/Images/Web/SQLi/string-concatenation.png",
+    "CyberTesting/Assets/Images/Web/SQLi/second-order-sqli.png",
+    "CyberTesting/Assets/Images/Web/SQLi/extract-data-via-visible-err-messages.png",
+    "CyberTesting/Assets/Images/Web/SQLi/dns-lookup.png",
+    "CyberTesting/Assets/Images/Web/SQLi/dns-lookup-with-data-exfiltration.png",
+    "CyberTesting/Assets/Images/Web/SQLi/db-version.png",
+    "CyberTesting/Assets/Images/Web/SQLi/db-contents.png",
+    "CyberTesting/Assets/Images/Web/SQLi/conditional-time-delays.png",
+    "CyberTesting/Assets/Images/Web/SQLi",
+    "CyberTesting/Assets/Images/Web",
+    "CyberTesting/Assets/Images/Networking",
+    "CyberTesting/Assets/Images/Linux",
+    "CyberTesting/Assets/Images",
+    "CyberTesting/Assets",
+    "CyberTesting/Pentesting Checklist.md",
+    "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/OSSTMM.3.pdf",
     "CyberTesting/CheatSheets",
-    "CyberTesting/CheatSheets/Nmap.md",
-    "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/XXE.md",
-    "CyberTesting/Pentesting Checklist.md",
     "0002-09-07.md",
     "CyberTesting/Checking files.md",
-    "CyberTesting/Linux PDF/William Shotts - The Linux Command Line_ A Complete Introduction (2019, No Starch Press).pdf",
     "xxe.md",
-    "CyberTesting/Linux PDF/linuxbasicsforhackers.pdf",
-    "CyberTesting/Linux PDF",
-    "Guitarra/TEMA 33 y 34.pdf",
-    "Guitarra/TEMA 31 y 32.pdf",
-    "Guitarra/TEMA 29 y 30.pdf",
-    "Guitarra/TEMA 28.pdf",
-    "Guitarra/TEMA 27.pdf",
     "SGE/Procedimientos almacenados.md",
     "SGE/SGE 2.md",
     "SGE/SSH.md",
     "2025-05-26.md",
     "SGE/SGE 4.md",
-    "SGE/SGE 3.md",
-    "PSP/PSP5 - Generación de servicios en red.md",
-    "PSP/PSP4 - Aplicaciones Cliente-Servidor.md",
-    "PMDM/PMDM6 - Sensores.md",
-    "PMDM/Resumen Jerarquía Preferences.md",
-    "SGE/Modo Desarrollador de Odoo.md",
-    "SGE/Módulos Odoo.md",
-    "SGE/Personalizar Vistas.md",
-    "SGE/pgAdmin4.md",
-    "PSP/Firmar Jar.md",
-    "PSP/PSP6 - Técnicas de programación segura.md",
-    "PMDM/PMDM5 - Videojuegos.md"
+    "SGE/SGE 3.md"
   ]
 }
