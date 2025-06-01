@@ -29,40 +29,41 @@
 ## 🌐 Tutorials & Community Sites
 - [Null Byte (WonderHowTo)](https://null-byte.wonderhowto.com/)
 
-# Blogs
-[https://www.simplycyber.io/free-cyber-resources](https://www.simplycyber.io/free-cyber-resources)
-[https://blog.g0tmi1k.com/](https://blog.g0tmi1k.com/)
-[https://www.hackingarticles.in/](https://www.hackingarticles.in/)
-[https://blog.tryhackme.com/free_path/](https://blog.tryhackme.com/free_path/)
-[https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/](https://ww.freecodecamp.org/news/what-is-git-learn-git-version-control/)
-[https://www.hackingtutorials.org/](https://www.hackingtutorials.org/)
-[https://www.hacking-tutorial.com/](https://www.hacking-tutorial.com/)
-[https://hacklido.com/d/85-collection-of-resources-for-oscp](https://hacklido.com/d/85-collection-of-resources-for-oscp)
+## 📝 Blogs & Resource Hubs
+- [Simply Cyber – Free Cyber Resources](https://www.simplycyber.io/free-cyber-resources)
+- [g0tmi1k's Blog](https://blog.g0tmi1k.com/)
+- [Hacking Articles](https://www.hackingarticles.in/)
+- [TryHackMe Blog – Free Path](https://blog.tryhackme.com/free_path/)
+- [FreeCodeCamp – What is Git?](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
+- [Hacking Tutorials](https://www.hackingtutorials.org/)
+- [Hacking-Tutorial.com](https://www.hacking-tutorial.com/)
+- [Hacklido – Collection of OSCP Resources](https://hacklido.com/d/85-collection-of-resources-for-oscp)
 
-# Discord 
-[the cyber mentor](https://discord.com/invite/tcm)
-[the many hats club](https://discord.com/invite/infosec)
-[infosec prep](https://discord.com/invite/infosecprep)
-[certification station](https://discord.com/invite/certstation)
-[network Chuck](https://discord.com/invite/networkchuck)
-[nahmsec](https://discord.com/invite/xd75Stsuxk)
-[bounty hunters](https://discord.com/invite/bugbounty)
-[The Alh4z-R3d Team](https://discord.com/invite/thealh4zr3dteam)
-[]](https://discord.com/invite/thealh4zr3dteam)
-[tryhackme](https://discord.com/invite/tryhackme)
-[hack this site](https://discord.com/invite/ETm3Q8SSht)
-[PG (proving grounds)](https://discord.com/invite/6neBxaGjHD)
-[Getting started in security](https://discord.com/invite/dnEcAqZn4x)
-[INE Unofficial server](https://discord.com/invite/XGVaBeapXQ)
-[Offsec official server](https://discord.com/invite/offsec)
-[ctf learn](https://discord.com/invite/Susw824A2T)
-# NetSecFocus
-[https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
-# Books
+## 💬 Discord Communities
+- [The Cyber Mentor](https://discord.com/invite/tcm)
+- [The Many Hats Club](https://discord.com/invite/infosec)
+- [InfoSec Prep](https://discord.com/invite/infosecprep)
+- [Certification Station](https://discord.com/invite/certstation)
+- [NetworkChuck](https://discord.com/invite/networkchuck)
+- [NahmSec](https://discord.com/invite/xd75Stsuxk)
+- [Bug Bounty Hunters](https://discord.com/invite/bugbounty)
+- [The Alh4z-R3d Team](https://discord.com/invite/thealh4zr3dteam)
+- [TryHackMe](https://discord.com/invite/tryhackme)
+- [Hack This Site](https://discord.com/invite/ETm3Q8SSht)
+- [PG (Proving Grounds)](https://discord.com/invite/6neBxaGjHD)
+- [Getting Started in Security](https://discord.com/invite/dnEcAqZn4x)
+- [INE Unofficial Server](https://discord.com/invite/XGVaBeapXQ)
+- [OffSec Official Server](https://discord.com/invite/offsec)
+- [CTF Learn](https://discord.com/invite/Susw824A2T)
 
-[William Shotts - The Linux Command Line_ A Complete Introduction (2019, No Starch Press)](Linux%20PDF/William%20Shotts%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction%20(2019,%20No%20Starch%20Press).pdf)
-[linuxbasicsforhackers](Linux%20PDF/linuxbasicsforhackers.pdf)
+## 🧭 OSCP Preparation
+- [TJNull’s OSCP Preparation Guide (NetSecFocus)](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 
-Linux Command (Learning the Shell): [http://linuxcommand.org/lc3_learning_the_shell.php](http://linuxcommand.org/lc3_learning_the_shell.php)
+## 📚 Books & Command Line Resources
+- [William Shotts - *The Linux Command Line: A Complete Introduction* (PDF)](Linux%20PDF/William%20Shotts%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction%20(2019,%20No%20Starch%20Press).pdf)
+- [Linux Basics for Hackers (PDF)](Linux%20PDF/linuxbasicsforhackers.pdf)
+- [LinuxCommand.org – Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 
-After awhile, You can signup for an account on HackerOne and start hacking real applications but then put those experiences on ur resume.
+---
+
+> 💡 **Tip:** After you get hands-on practice, sign up for a [HackerOne](https://hackerone.com/) account to start hacking real-world applications. Document your findings and include them in your resume to showcase practical experience.
