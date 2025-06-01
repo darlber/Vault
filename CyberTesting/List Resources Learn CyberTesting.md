@@ -63,6 +63,7 @@
 - [William Shotts - *The Linux Command Line: A Complete Introduction* (PDF)](Assets/PDF/William%20Shotts%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction%20(2019,%20No%20Starch%20Press).pdf)
 - [Linux Basics for Hackers (PDF)](Assets/PDF/linuxbasicsforhackers.pdf)
 - [LinuxCommand.org – Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
+- [Open Source Security Testing Methodol](OSSTMM.3.pdf)
 
 ---
 

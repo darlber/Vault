@@ -11,14 +11,12 @@
             "id": "4748d9e370db5bca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CyberTesting/List Resources Learn CyberTesting.md",
-                "mode": "source",
-                "source": false
+                "file": "CyberTesting/OSSTMM.3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "List Resources Learn CyberTesting"
+              "icon": "lucide-file-text",
+              "title": "OSSTMM.3"
             }
           }
         ]
@@ -163,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberTesting/List Resources Learn CyberTesting.md",
+                "file": "CyberTesting/OSSTMM.3.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of List Resources Learn CyberTesting"
+              "title": "Outline of OSSTMM.3"
             }
           }
         ],
@@ -192,10 +190,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b43a4bccc4e1c73",
+  "active": "4748d9e370db5bca",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "CyberTesting/List Resources Learn CyberTesting.md",
+    "Untitled Kanban.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "CyberTesting/CheatSheets/Linux.md",
     "CyberTesting/Assets/Excalidraw/Deserialization.md",
