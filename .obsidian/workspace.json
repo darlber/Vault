@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/CheatSheet Linux.md",
+                "file": "CyberTesting/CheatSheets/Nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CheatSheet Linux"
+              "title": "Nmap"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberTesting/CheatSheet Linux.md",
+                "file": "CyberTesting/CheatSheets/Nmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CheatSheet Linux"
+              "title": "Outline of Nmap"
             }
           }
         ],
@@ -190,11 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4748d9e370db5bca",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
-    "CyberTesting/Nmap Cheat Sheet.md",
-    "CyberTesting/List Resources.md",
-    "CyberTesting/CheatSheet Linux.md",
+    "CyberTesting/CheatSheets/Linux.md",
+    "CyberTesting/OSSTMM.3.pdf",
+    "CyberTesting/CheatSheets",
+    "CyberTesting/CheatSheets/Nmap.md",
+    "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/XXE.md",
     "CyberTesting/Pentesting Checklist.md",
     "0002-09-07.md",
@@ -208,8 +209,6 @@
     "Guitarra/TEMA 29 y 30.pdf",
     "Guitarra/TEMA 28.pdf",
     "Guitarra/TEMA 27.pdf",
-    "Guitarra/TEMA 25.pdf",
-    "Guitarra/TEMA 22.pdf",
     "SGE/Procedimientos almacenados.md",
     "SGE/SGE 2.md",
     "SGE/SSH.md",
@@ -226,7 +225,6 @@
     "SGE/pgAdmin4.md",
     "PSP/Firmar Jar.md",
     "PSP/PSP6 - Técnicas de programación segura.md",
-    "PMDM/PMDM5 - Videojuegos.md",
-    "SGE/Actualización Odoo.md"
+    "PMDM/PMDM5 - Videojuegos.md"
   ]
 }
