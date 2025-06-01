@@ -1,6 +1,5 @@
 ---
-Name: Bash CheatSheet for Mac OSX
-Author: J. Le Coupanec
+Author: https://github.com/lecoupa
 Date: 2014-11-20
 ---
 # 0. Shortcuts
