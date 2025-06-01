@@ -3,6 +3,8 @@ Author: https://github.com/lecoupa
 Date: 2014-11-20
 ---
 # 0. Shortcuts
+	Double click # Copy
+	Middle click # Paste
 	CTRL+A  # move to beginning of line
 	CTRL+B  # moves backward one character
 	CTRL+C  # halts the current command
