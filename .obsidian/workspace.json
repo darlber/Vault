@@ -94,7 +94,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c6aae0b20b71264",
+  "active": "4748d9e370db5bca",
   "lastOpenFiles": [
     "CyberTesting/List Resources.md",
     "CyberTesting/CheatSheet Linux.md",
