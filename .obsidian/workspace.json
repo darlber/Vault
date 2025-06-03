@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2e00a74da8954dbe",
-        "type": "split",
+        "id": "5e5ae00420da6b98",
+        "type": "tabs",
         "children": [
           {
-            "id": "5e5ae00420da6b98",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4748d9e370db5bca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CyberTesting/Assets/Excalidraw/Networking drawings.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Networking drawings"
-                },
-                "group": "103e3d522a3375ad"
-              }
-            ]
-          },
-          {
-            "id": "d8cdc90c8f1bc3dc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9a8f7d8b51b90d72",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "CyberTesting/Assets/Excalidraw/Networking drawings.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": false
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links from Networking drawings"
-                },
-                "group": "103e3d522a3375ad"
-              }
-            ]
+            "id": "4748d9e370db5bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberTesting/Pentesting Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pentesting Checklist"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +94,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberTesting/Assets/Excalidraw/Networking drawings.md",
+                "file": "CyberTesting/Pentesting Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Networking drawings"
+              "title": "Outline of Pentesting Checklist"
             }
           }
         ],
@@ -221,10 +191,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a8f7d8b51b90d72",
+  "active": "4748d9e370db5bca",
   "lastOpenFiles": [
-    "CyberTesting/Assets/Excalidraw/Deserialization.md",
     "CyberTesting/List Resources Learn CyberTesting.md",
+    "CyberTesting/Assets/Excalidraw/Networking drawings.md",
+    "CyberTesting/Assets/PDF/The Cuckoo_s Egg Clifford Stoll.pdf",
+    "CyberTesting/Assets/Excalidraw/Deserialization.md",
     "CyberTesting/OSSTMM.3.pdf",
     "Untitled Kanban.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
@@ -234,7 +206,6 @@
     "CyberTesting/Assets/Excalidraw/SSTI.md",
     "CyberTesting/Assets/Excalidraw/SSRF.md",
     "CyberTesting/Assets/Excalidraw/SSL, HSTS.md",
-    "CyberTesting/Assets/Excalidraw/Networking drawings.md",
     "CyberTesting/Assets/Excalidraw/Modern Web Workflow.md",
     "CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
     "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
@@ -259,7 +230,6 @@
     "CyberTesting/Assets",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/CheatSheets/Nmap.md",
-    "CyberTesting/CheatSheets",
     "CyberTesting/XXE.md",
     "0002-09-07.md",
     "CyberTesting/Checking files.md",
