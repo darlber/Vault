@@ -116,6 +116,9 @@ chmod +x /tmp/thm
 # NFS
 NFS (Network File Sharing) configuration is kept in the /etc/exports file. This file is created during the NFS server installation and can usually be read by users. The critical element for this privilege escalation vector is the **“no_root_squash”** option.
 If the “no_root_squash” option is present on a writable share, we can create an executable with SUID bit set and run it on the target system.
-1. Enumeration
-
+1. Check for NFS shares from your machine:
+```sh
+showmount -e IP
+```
+2. 📁 **Mount the NFS share to your local directory**:
 # Capstone
