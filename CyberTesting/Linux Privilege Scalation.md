@@ -28,3 +28,5 @@
 1. Identify the kernel version
 2. Search and find an exploit code for the kernel version of the target system. Ex: [exploit-db](https://www.exploit-db.com/)
 3. Run the exploit 
+
+# Sudo 
