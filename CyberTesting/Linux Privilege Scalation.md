@@ -91,3 +91,4 @@ Then press _**!sh**_ and hit enter.
 
 # SUID
 `find / -type f -perm -04000 -ls 2>/dev/null` will list files that have SUID or SGID bits set.
+Search info on [GTFOBins](https://gtfobins.github.io)
