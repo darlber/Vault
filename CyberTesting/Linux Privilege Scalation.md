@@ -141,9 +141,8 @@ int main() {
 gcc nfs.c -o nfs
 chmod +s nfs
 ```
-- **Ensure the file is in the NFS-mounted folder**.
-    
-    - The binary will now appear on the **target system** (due to shared mount).
-        
-- 🚪 **Execute the SUID binary on the target to gain root**:
+5. Ensure the file is in the NFS-mounted folder.
+The binary will now appear on the target system (due to shared mount).
+6. Execute the SUID binary on the target to gain root
+`./nfs`
 # Capstone
