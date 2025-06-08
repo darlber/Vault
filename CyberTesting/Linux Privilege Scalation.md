@@ -104,6 +104,18 @@ The idea is quite simple; if there is a scheduled task that runs with root privi
 2. Export that folder to PATH
 Ex:
 	The folder that will be easier to write to is probably /tmp. At this point because /tmp is not present in PATH so we will need to add it. As we can see below, the “`export PATH=/tmp:$PATH`” command accomplishes this.
+3. Place a malicious binary in writable folder:
+```sh
+cp /bin/bash /tmp/thm
+chmod +x /tmp/thm
+```
+4. Run
+```sh
+./path
+```
 # NFS
+NFS (Network File Sharing) configuration is kept in the /etc/exports file. This file is created during the NFS server installation and can usually be read by users. The critical element for this privilege escalation vector is the **“no_root_squash”** option.
+If the “no_root_squash” option is present on a writable share, we can create an executable with SUID bit set and run it on the target system.
+1. Enumeration
 
 # Capstone
