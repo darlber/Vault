@@ -101,6 +101,9 @@ The idea is quite simple; if there is a scheduled task that runs with root privi
 # Path
 `find / -writable 2>/dev/null | cut -d "/" -f 2,3 | grep -v proc | sort -u`
 1. Searching writable folders
+2. Export that folder to PATH
+Ex:
+	The folder that will be easier to write to is probably /tmp. At this point because /tmp is not present in PATH so we will need to add it. As we can see below, the “`export PATH=/tmp:$PATH`” command accomplishes this.
 # NFS
 
 # Capstone
