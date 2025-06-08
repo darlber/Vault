@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/Pentesting Checklist.md",
+                "file": "CyberTesting/Linux Privilege Scalation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentesting Checklist"
+              "title": "Linux Privilege Scalation"
             }
           }
         ]
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberTesting/Pentesting Checklist.md",
+                "file": "CyberTesting/Linux Privilege Scalation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pentesting Checklist"
+              "title": "Outline of Linux Privilege Scalation"
             }
           }
         ],
@@ -194,8 +194,8 @@
   },
   "active": "4748d9e370db5bca",
   "lastOpenFiles": [
-    "CyberTesting/Linux Privilege Scalation.md",
     "CyberTesting/Pentesting Checklist.md",
+    "CyberTesting/Linux Privilege Scalation.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "().md",
     "Exploit-db.md",
