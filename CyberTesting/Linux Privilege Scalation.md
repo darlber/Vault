@@ -145,4 +145,11 @@ chmod +s nfs
 The binary will now appear on the target system (due to shared mount).
 6. Execute the SUID binary on the target to gain root
 `./nfs`
-# Capstone
+# Capstone Challenge
+1. Enumeration
+```sh
+hostname   
+sudo -l   
+cat /etc/passwd   
+uname-a
+```
