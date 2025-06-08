@@ -193,11 +193,13 @@
   },
   "active": "4748d9e370db5bca",
   "lastOpenFiles": [
-    "CyberTesting/XXE.md",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/Linux Privilege Scalation.md",
-    "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
+    "().md",
+    "Exploit-db.md",
+    "CyberTesting/XXE.md",
+    "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/Assets/Excalidraw/Networking drawings.md",
     "CyberTesting/Assets/PDF/The Cuckoo_s Egg Clifford Stoll.pdf",
@@ -236,9 +238,6 @@
     "CyberTesting/Checking files.md",
     "xxe.md",
     "SGE/Procedimientos almacenados.md",
-    "SGE/SGE 2.md",
-    "SGE/SSH.md",
-    "2025-05-26.md",
-    "SGE/SGE 4.md"
+    "SGE/SGE 2.md"
   ]
 }

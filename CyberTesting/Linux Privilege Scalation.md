@@ -26,5 +26,5 @@
 | `find / -name python*`       | Finds installed development tools or interpreters.                                                           |     |
 # Kernel Exploit
 1. Identify the kernel version
-2. Search and find an exploit code for the kernel version of the target system
+2. Search and find an exploit code for the kernel version of the target system. Ex: [exploit-db](https://www.exploit-db.com/)
 3. Run the exploit 
