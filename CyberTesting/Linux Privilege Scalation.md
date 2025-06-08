@@ -92,3 +92,15 @@ Then press _**!sh**_ and hit enter.
 # SUID
 `find / -type f -perm -04000 -ls 2>/dev/null` will list files that have SUID or SGID bits set.
 Search info on [GTFOBins](https://gtfobins.github.io)
+# Capabilities
+1. `getcap -r / 2>/dev/null`
+2. [GTFOBins](https://gtfobins.github.io)
+# Cron 
+Cron jobs are used to run scripts or binaries at specific times. By default, they run with the privilege of their owners and not the current user. While properly configured cron jobs are not inherently vulnerable, they can provide a privilege escalation vector under some conditions.  
+The idea is quite simple; if there is a scheduled task that runs with root privileges and we can change the script that will be run, then our script will run with root privileges.
+# Path
+`find / -writable 2>/dev/null | cut -d "/" -f 2,3 | grep -v proc | sort -u`
+1. Searching writable folders
+# NFS
+
+# Capstone
