@@ -24,3 +24,7 @@
 | `find / -perm -u=s`          | Locates files with the SUID bit set (potential privilege escalation).                                        |     |
 | `find / -writable -type d`   | Finds world-writable directories.                                                                            |     |
 | `find / -name python*`       | Finds installed development tools or interpreters.                                                           |     |
+# Kernel Exploit
+1. Identify the kernel version
+2. Search and find an exploit code for the kernel version of the target system
+3. Run the exploit
