@@ -94,8 +94,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,7 +191,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4748d9e370db5bca",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/Linux Privilege Scalation.md",
