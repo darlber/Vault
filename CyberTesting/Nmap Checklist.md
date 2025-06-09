@@ -1,7 +1,7 @@
 1. Enumerate targets
 2. Discover live hosts
 3. Reverse-DNS lookup
-4. Scan ports
+4. Scan ports [CheatSheets](CheatSheets/Nmap.md)
 5. Detect versions
 6. Detect OS
 7. Traceroute

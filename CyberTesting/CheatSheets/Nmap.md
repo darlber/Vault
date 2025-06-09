@@ -8,10 +8,10 @@ Nmap ("Network Mapper") is a free and open source utility for network discovery 
 ## How to Use Nmap
 Nmap can be used in a variety of ways depending on the user's level of technical expertise.
 
-| Technical Expertise | Usage |
-|:--------------------|:------|
-| Beginner            | [Zenmap](https://nmap.org/zenmap/) the graphical user interface for Nmap |
-| Intermediate        | [Command line](https://nmap.org/) |
+| Technical Expertise | Usage                                                                                  |
+| :------------------ | :------------------------------------------------------------------------------------- |
+| Beginner            | [Zenmap](https://nmap.org/zenmap/) the graphical user interface for Nmap               |
+| Intermediate        | [Command line](https://nmap.org/)                                                      |
 | Advanced            | Python scripting with the [Python-Nmap](https://pypi.org/project/python-nmap/) package |
 ## Examples
 
