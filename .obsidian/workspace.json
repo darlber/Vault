@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/Linux Privilege Scalation.md",
+                "file": "CyberTesting/Nmap Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Privilege Scalation"
+              "title": "Nmap Checklist"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberTesting/Linux Privilege Scalation.md",
+                "file": "CyberTesting/Nmap Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux Privilege Scalation"
+              "title": "Outline of Nmap Checklist"
             }
           }
         ],
@@ -191,20 +191,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "4748d9e370db5bca",
   "lastOpenFiles": [
-    "CyberTesting/Pentesting Checklist.md",
+    "CyberTesting/OSSTMM.3.pdf",
+    "CyberTesting/Nmap Checklist.md",
+    "CyberTesting/attachments/Pasted image 20250609093942.png",
+    "CyberTesting/attachments",
+    "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/Linux Privilege Scalation.md",
+    "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "().md",
     "Exploit-db.md",
     "CyberTesting/XXE.md",
-    "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/Assets/Excalidraw/Networking drawings.md",
     "CyberTesting/Assets/PDF/The Cuckoo_s Egg Clifford Stoll.pdf",
     "CyberTesting/Assets/Excalidraw/Deserialization.md",
-    "CyberTesting/OSSTMM.3.pdf",
     "Untitled Kanban.md",
     "CyberTesting/CheatSheets/Linux.md",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
@@ -227,17 +230,14 @@
     "CyberTesting/Assets/Images/Web/SQLi/dns-lookup-with-data-exfiltration.png",
     "CyberTesting/Assets/Images/Web/SQLi/db-version.png",
     "CyberTesting/Assets/Images/Web/SQLi/db-contents.png",
-    "CyberTesting/Assets/Images/Web/SQLi/conditional-time-delays.png",
     "CyberTesting/Assets/Images/Web/SQLi",
     "CyberTesting/Assets/Images/Web",
     "CyberTesting/Assets/Images/Networking",
     "CyberTesting/Assets/Images/Linux",
     "CyberTesting/Assets/Images",
-    "CyberTesting/Assets",
     "0002-09-07.md",
     "CyberTesting/Checking files.md",
     "xxe.md",
-    "SGE/Procedimientos almacenados.md",
-    "SGE/SGE 2.md"
+    "SGE/Procedimientos almacenados.md"
   ]
 }
