@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/CheatSheets/Nmap.md",
+                "file": "CyberTesting/List Resources Learn CyberTesting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "List Resources Learn CyberTesting"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberTesting/CheatSheets/Nmap.md",
+                "file": "CyberTesting/List Resources Learn CyberTesting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nmap"
+              "title": "Outline of List Resources Learn CyberTesting"
             }
           }
         ],
@@ -194,12 +193,12 @@
   },
   "active": "4748d9e370db5bca",
   "lastOpenFiles": [
+    "CyberTesting/Pentesting Checklist.md",
+    "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/CheatSheets/Linux.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
-    "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/Nmap Checklist.md",
-    "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/OSSTMM.3.pdf",
     "CyberTesting/attachments/Pasted image 20250609093942.png",
     "CyberTesting/attachments",
