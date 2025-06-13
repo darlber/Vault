@@ -2,6 +2,7 @@
 ## Índice:
 
 1. [Historia general de la guitarra: orígenes y antecedentes](#Historia%20general%20de%20la%20guitarra%20orígenes%20y%20antecedentes)
+
     1.1. [Introducción](#Introducción)  
     1.2. [Orígenes y antecedentes](#Antecedentes)
 2. [Evolución histórica desde sus orígenes hasta nuestros días](#Evolución%20histórica%20desde%20sus%20orígenes%20hasta%20nuestros%20días)
