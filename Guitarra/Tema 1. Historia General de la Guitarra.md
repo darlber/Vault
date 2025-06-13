@@ -5,7 +5,7 @@
     1.1. [Introducción](#Introducción)  
     1.2. [Orígenes y antecedentes](#Antecedentes)
 2. [Evolución histórica desde sus orígenes hasta nuestros días](#Evolución%20histórica%20desde%20sus%20orígenes%20hasta%20nuestros%20días)
-3. Diferentes escuelas de construcción
+3. [Diferentes escuelas de construcción](#Diferentes%20escuelas%20de%20construcción)
 4. Bibliografía
 
 # Historia general de la guitarra: orígenes y antecedentes  
@@ -42,4 +42,12 @@ Sus características eran:
 - Aspecto similar al de la vihuela
 
 # Evolución histórica desde sus orígenes hasta nuestros días
-
+- La guitarra tiene una evolución estrechamente ligada a la vihuela, instrumento predominante en la música culta del Renacimiento con un amplio repertorio.
+- El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.
+- Este sistema fue adoptado por otros constructores como Pagés (1777), y se difundió desde Cádiz y Málaga hacia Madrid a principios del siglo XIX.
+- Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de “guitarra española”, coexistiendo guitarras de cinco y seis órdenes hasta el siglo XVIII.
+- En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.
+- En la actualidad, la guitarra ha experimentado múltiples mejoras organológicas (afinación, clavijas, puente, varetaje, sonido).
+- Antonio de Torres fue fundamental en esta transformación: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.
+	- Según José Luis Romanillos, Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
+# Diferentes escuelas de construcción
