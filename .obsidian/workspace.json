@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/XXE.md",
+                "file": "CyberTesting/Pentesting Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XXE"
+              "title": "Pentesting Checklist"
             }
           }
         ]
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberTesting/XXE.md",
+                "file": "CyberTesting/Pentesting Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of XXE"
+              "title": "Outline of Pentesting Checklist"
             }
           }
         ],
@@ -192,17 +192,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4748d9e370db5bca",
+  "active": "7b43a4bccc4e1c73",
   "lastOpenFiles": [
-    "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/XXE.md",
+    "CyberTesting/Assets/Images/ssti.webp",
+    "CyberTesting/attachments/Pasted image 20250609093942.png",
+    "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/CheatSheets/Linux.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "CyberTesting/Nmap Checklist.md",
     "CyberTesting/OSSTMM.3.pdf",
-    "CyberTesting/attachments/Pasted image 20250609093942.png",
     "CyberTesting/attachments",
     "CyberTesting/Linux Privilege Scalation.md",
     "().md",
@@ -230,7 +231,6 @@
     "CyberTesting/Assets/Images/Web/SQLi/dns-lookup.png",
     "CyberTesting/Assets/Images/Web/SQLi/dns-lookup-with-data-exfiltration.png",
     "CyberTesting/Assets/Images/Web/SQLi/db-version.png",
-    "CyberTesting/Assets/Images/Web/SQLi/db-contents.png",
     "CyberTesting/Assets/Images/Web/SQLi",
     "CyberTesting/Assets/Images/Web",
     "CyberTesting/Assets/Images/Networking",
