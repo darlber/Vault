@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 1. Historia General de la Guitarra..md",
+                "file": "Guitarra/Tema 1. Historia General de la Guitarra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 1. Historia General de la Guitarra."
+              "title": "Tema 1. Historia General de la Guitarra"
             }
           }
         ]
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitarra/Tema 1. Historia General de la Guitarra..md",
+                "file": "Guitarra/Tema 1. Historia General de la Guitarra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 1. Historia General de la Guitarra."
+              "title": "Outline of Tema 1. Historia General de la Guitarra"
             }
           }
         ],
@@ -228,7 +228,7 @@
   "active": "4748d9e370db5bca",
   "lastOpenFiles": [
     "Guitarra/oposiciones temas.pdf",
-    "Guitarra/Tema 1. Historia General de la Guitarra..md",
+    "Guitarra/Tema 1. Historia General de la Guitarra.md",
     "Guitarra/TEMA 1-3.pdf",
     "CyberTesting/Linux Privilege Scalation.md",
     "CyberTesting/Pentesting Checklist.md",
