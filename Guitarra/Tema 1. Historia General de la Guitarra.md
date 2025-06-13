@@ -138,7 +138,9 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 
 ## **Otros constructores importantes fuera de España:**
 - Gilbert (Estados Unidos).
-- Vogt (Alemania).
+- Vogt (Alemania). [^1] [^2]
+asdadasd[^3]
+
 
 # Bibliografía
 - **Gimeno García, Julio**: *Escuela de París. La guitarra en París durante el periodo Clásico-Romántico*. Revista 8 Sonoro. Año 2, número 2.
@@ -150,3 +152,12 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 - **Tyler, James**: *The Early Guitar* (1980).
 - **Viglietti, Cedar**: *Origen e historia de la guitarra* (1976).
 - **Wade, Graham**: *Traditions of the Classical Guitar* (1980).
+[1] asdad 
+[2] asdasd 
+
+[^1]: 231314 
+
+[^2]: kk
+	
+
+[^3]: asdad
