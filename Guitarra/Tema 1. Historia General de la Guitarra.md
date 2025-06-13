@@ -51,3 +51,84 @@ Sus características eran:
 - Antonio de Torres fue fundamental en esta transformación: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.
 	- Según José Luis Romanillos, Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
 # Diferentes escuelas de construcción
+- La guitarra española más antigua conocida data de ==1581== y fue construida por **Belchior Dias**.
+- Antes del siglo XVIII es difícil identificar diferencias claras entre las escuelas de construcción. A partir de ese siglo, se pueden distinguir rasgos propios entre escuelas españolas y extranjeras.
+- Las tres principales escuelas españolas son: **castellana**, **andaluza** y **catalana**.
+
+**Escuela catalana:**
+- Uso de **cuatro barras armónicas** en la tapa (como en guitarras de Ignacio Fleta).
+- Ornamentación con **nácar** y elementos decorativos propios del estilo francés.
+- Separación del **zoque** del mango, a diferencia de la tradición española donde el zoque es parte del mástil.
+- Se aleja de las tradiciones más conservadoras de las escuelas castellana y andaluza.
+> Zoque es el bloque que se dispone en la parte inferior del mástil donde se insertan los aros.
+
+**Escuela andaluza:**
+- Introduce en la segunda mitad del siglo XVIII el **varetaje en abanico**, elemento fundamental en la construcción moderna.
+- Incluye varetas cruzadas como refuerzo bajo el lóbulo menor de la tapa.
+
+**Escuela castellana (o madrileña):**
+- Adopta el varetaje en abanico **a principios del siglo XIX**, posterior a la escuela andaluza.
+
+## Autores
+**Escuela andaluza:**
+
+- Juan Pagés
+
+- José Pagés
+
+- Francisco Pagés
+
+- Manuel y José Martínez
+
+- Fernando Rada
+
+- Francisco Sanguino
+
+- Antonio de Lorca
+
+- **Antonio de Torres** (figura clave en la evolución de la guitarra moderna)
+
+- José Pernas
+
+- Rafael Vallejo
+
+- Agustín Caro
+
+- Paco Santiago Marín
+
+
+**Escuela castellana (madrileña):**
+
+- Benito Sánchez de Aguilera
+
+- Manuel Muñoa, Antonio Muñoa y Juan Muñoa
+
+- Vicente Arias
+
+- Manuel Ramírez
+
+- José Ramírez
+
+- Santos Hernández
+
+- Domingo Esteso
+
+- Paulino Bernabé
+
+- Manuel Contreras
+
+
+**Escuela catalana:**
+
+- José Massagué
+
+- Joan Matabosch
+
+- **Ignacio Fleta**
+
+- Francisco Simplicio
+
+- Altimira
+
+
+Estas figuras destacan por sus aportes técnicos y estilísticos, y por haber consolidado la identidad de sus respectivas escuelas de construcción guitarrera.
