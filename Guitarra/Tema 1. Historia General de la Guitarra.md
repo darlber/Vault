@@ -6,7 +6,7 @@
     1.2. [Orígenes y antecedentes](#Antecedentes)
 2. [Evolución histórica desde sus orígenes hasta nuestros días](#Evolución%20histórica%20desde%20sus%20orígenes%20hasta%20nuestros%20días)
 3. [Diferentes escuelas de construcción](#Diferentes%20escuelas%20de%20construcción)
-4. Bibliografía
+4. [Bibliografía](#Bibliografía)
 
 # Historia general de la guitarra: orígenes y antecedentes  
 ## Introducción
@@ -60,6 +60,7 @@ Sus características eran:
 - Ornamentación con **nácar** y elementos decorativos propios del estilo francés.
 - Separación del **zoque** del mango, a diferencia de la tradición española donde el zoque es parte del mástil.
 - Se aleja de las tradiciones más conservadoras de las escuelas castellana y andaluza.
+
 > Zoque es el bloque que se dispone en la parte inferior del mástil donde se insertan los aros.
 
 **Escuela andaluza:**
@@ -70,65 +71,82 @@ Sus características eran:
 - Adopta el varetaje en abanico **a principios del siglo XIX**, posterior a la escuela andaluza.
 
 ## Autores
-**Escuela andaluza:**
-
+### **Escuela andaluza:**
 - Juan Pagés
-
 - José Pagés
-
 - Francisco Pagés
-
 - Manuel y José Martínez
-
 - Fernando Rada
-
 - Francisco Sanguino
-
 - Antonio de Lorca
-
 - **Antonio de Torres** (figura clave en la evolución de la guitarra moderna)
-
 - José Pernas
-
 - Rafael Vallejo
-
 - Agustín Caro
-
 - Paco Santiago Marín
-
-
-**Escuela castellana (madrileña):**
-
+### **Escuela castellana (madrileña):**
 - Benito Sánchez de Aguilera
-
 - Manuel Muñoa, Antonio Muñoa y Juan Muñoa
-
 - Vicente Arias
-
 - Manuel Ramírez
-
 - José Ramírez
-
 - Santos Hernández
-
 - Domingo Esteso
-
 - Paulino Bernabé
-
 - Manuel Contreras
-
-
-**Escuela catalana:**
-
+### **Escuela catalana:**
 - José Massagué
-
 - Joan Matabosch
-
 - **Ignacio Fleta**
-
 - Francisco Simplicio
-
 - Altimira
 
+### Escuela francesa:
+En el Barroco francés destacó **Voboam**, conocido por sus guitarras con gran ornamentación en el mástil.
+En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitarras para Sor y Carulli, quien introdujo varias innovaciones técnicas:
 
-Estas figuras destacan por sus aportes técnicos y estilísticos, y por haber consolidado la identidad de sus respectivas escuelas de construcción guitarrera.
+- Clavijas bloqueables tras la afinación.
+- Sistema de engranajes en la cabeza de la guitarra.
+- El "Piédestal Lacôte", soporte para dejar libres las manos del intérprete, similar al trípode de Aguado.
+- Otros desarrollos como el taburete, diapason y mástil coulé.
+- Algunos cambios estructurales (puente y refuerzos interiores) fueron sugeridos por los propios guitarristas como Sor.
+- Carulli encargó a Lacéte una guitarra de 10 cuerdas, con cuerdas adicionales para tocar bajos sin usar la mano izquierda, para acompañar mejor las piezas.
+- **Francesco Molino** creó un tipo de guitarra con la tapa ligeramente abombada para mejorar el sonido.
+- Otros constructores franceses destacados fueron Grobert, Bernard, Laprévote, Beau, Gratel, Coffe-Goguette, Morlot y Petit Jean, con actividades en París y Mirecourt.
+
+#### **Guitarra francesa típica:**
+- Cabeza con forma de “8” y clavijas, unida al mástil por una especie de “V”.
+- Reverso del mástil lacado en negro, unido a la caja mediante un tacón cónico.
+- Diapasón al ras con la tapa (especialmente en Mirecourt). Trastes hasta la boca desde 1820.
+- Puente con botones y cejuela de marfil.
+- Cuerpo con barras transversales para sostener la tapa de abeto: dos encima de la boca y tres debajo (la central en diagonal).
+- Aros y fondo de arce o palisandro, con fondo de contrachapado sobre pino.
+- Decoración sencilla: solo ribete e incrustaciones de anillos concéntricos alrededor de la boca.
+
+## **Escuelas españolas en el siglo XIX:**
+- Andalucía: varetaje en abanico de tres barras. Constructores destacados: Pagés, Sanguino, Vallejo, Benedit.
+- Castilla: abanico de cuatro barras. Constructores destacados: Muñoa y Ramírez.
+- A finales del siglo XIX, la guitarra se consolida gracias a **Antonio de Torres**.
+- En Cataluña, en la misma época, Fleta y Simplicio destacaron con guitarras de nueve varetas y ornamentación francesa.
+
+## **Siglo XX (constructores españoles destacados):**
+- Ramírez: guitarras con gran sonoridad y potencia.
+- Contreras: sonido potente en agudos, doble tapa y resonador.
+- Rodríguez: puente móvil para afinación.
+- Ángel Benito: guitarras estilo francés.
+- Paulino Bernabé, Paco Santiago Marín, entre otros.
+
+## **Otros constructores importantes fuera de España:**
+- Gilbert (Estados Unidos).
+- Vogt (Alemania).
+
+# Bibliografía
+- **Gimeno García, Julio**: *Escuela de París. La guitarra en París durante el periodo Clásico-Romántico*. Revista 8 Sonoro. Año 2, número 2.
+- **Matlik, Heiki**: *Handbook of Guitar and Lute Composers* (2010).
+- **Ramos Altamira, Ignacio**: *Historia de la guitarra y los guitarristas españoles* (2005).
+- **Romanillos, José Luis**: *Catálogo de la Exposición Guitarras Antiguas Españolas* (1990).
+- **Romanillos, José Luis**: *El guitarrero español y su contribución en el desarrollo de la guitarra de concierto* (1989).
+- **Turnbull, Harvey**: *The Guitar from the Renaissance to the Present Day* (1976).
+- **Tyler, James**: *The Early Guitar* (1980).
+- **Viglietti, Cedar**: *Origen e historia de la guitarra* (1976).
+- **Wade, Graham**: *Traditions of the Classical Guitar* (1980).

@@ -13,14 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/0. Temas Oposiciones.md",
+                "file": "Guitarra/Tema 1. Historia General de la Guitarra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Temas Oposiciones"
+              "title": "Tema 1. Historia General de la Guitarra"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c03361b166bdf977",
+        "type": "tabs",
+        "children": [
           {
             "id": "e56fd781ec0d602b",
             "type": "leaf",
@@ -106,8 +112,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitarra/0. Temas Oposiciones.md",
+                "file": "Guitarra/Tema 1. Historia General de la Guitarra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. Temas Oposiciones"
+              "title": "Outline of Tema 1. Historia General de la Guitarra"
             }
           }
         ],
@@ -205,12 +210,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b43a4bccc4e1c73",
+  "active": "4748d9e370db5bca",
   "lastOpenFiles": [
-    "Tema 2. La guitarra moderna.md",
-    "Guitarra/0. Temas Oposiciones.md",
-    "Guitarra/Tema 1. Historia General de la Guitarra.md",
     "Guitarra/TEMA 1-3.pdf",
+    "Guitarra/Tema 1. Historia General de la Guitarra.md",
+    "Guitarra/0. Temas Oposiciones.md",
+    "Tema 2. La guitarra moderna.md",
     "Guitarra/oposiciones temas.pdf",
     "CyberTesting/Linux Privilege Scalation.md",
     "CyberTesting/Pentesting Checklist.md",
@@ -252,7 +257,6 @@
     "CyberTesting/Assets/Images/Web/SQLi",
     "CyberTesting/Assets/Images/Web",
     "CyberTesting/Assets/Images/Networking",
-    "0002-09-07.md",
-    "CyberTesting/Checking files.md"
+    "0002-09-07.md"
   ]
 }
