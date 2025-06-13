@@ -2,13 +2,10 @@
 ## ÍNDICE:
 
 1. Historia general de la guitarra: orígenes y antecedentes  
-    1.1. Introducción  
-    1.2. Orígenes y antecedentes
-    
-2. Evolución histórica desde sus orígenes hasta nuestros días
-    
+    1.1. [Introducción](#Introducción)  
+    1.2. [Orígenes y antecedentes](#Antecedentes)
+2. [Evolución histórica desde sus orígenes hasta nuestros días](#Evolución%20histórica%20desde%20sus%20orígenes%20hasta%20nuestros%20días)
 3. Diferentes escuelas de construcción
-    
 4. Bibliografía
 
 # Historia general de la guitarra: orígenes y antecedentes  
@@ -43,4 +40,6 @@ Sus características eran:
 - Mástil separado de la caja 
 - Trastes móviles de tripa anudados al mástil 
 - Aspecto similar al de la vihuela
+
+# Evolución histórica desde sus orígenes hasta nuestros días
 
