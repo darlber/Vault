@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 2. La guitarra moderna.md",
+                "file": "Guitarra/Tema 1. Historia General de la Guitarra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 2. La guitarra moderna"
+              "title": "Tema 1. Historia General de la Guitarra"
             }
           }
         ]
@@ -211,8 +211,8 @@
   },
   "active": "00e3d3ffb29fe661",
   "lastOpenFiles": [
-    "Guitarra/TEMA 1-3.pdf",
     "Guitarra/Tema 2. La guitarra moderna.md",
+    "Guitarra/TEMA 1-3.pdf",
     "Guitarra/Tema 1. Historia General de la Guitarra.md",
     "Guitarra/0. Temas Oposiciones.md",
     "Guitarra/oposiciones temas.pdf",
