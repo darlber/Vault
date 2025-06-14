@@ -1,8 +1,15 @@
 # Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada. Peculiaridades derivadas del modo de producción del sonido. Afinación. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales. Formas convencionales y no convencionales de producción del sonido.
 ## Índice:
-1. [Descripción de sus elementos característicos. Introducción](#Descripción%20de%20sus%20elementos%20característicos.%20Introducción)
+1. Características sonoras del instrumento. Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada
+2. Peculiaridades derivadas del modo de producción del sonido
+3. Afinación
 
-	1.1. [Elementos característicos de la guitarra moderna](#Elementos%20característicos%20de%20la%20guitarra%20moderna)
-2. [Mantenimiento, conservación y accesorios](#Mantenimiento,%20conservación%20y%20accesorios)
-3. [Aspectos fundamentales en la elección del instrumento](#Aspectos%20fundamentales%20en%20la%20elección%20del%20instrumento)
-4. [Bibliografía](#Bibliografía)
+	3.1. Por equísonos encontrados en los trastes cuatro y cinco  
+	3.2. Por equísonos entre armónicos naturales  
+	3.3. Por octavas en cuerdas contiguas  
+	3.4. Por octavas en cuerdas no contiguas  
+	3.5. Por comparación de cuerdas al aire  
+	3.6. Afinación por acordes diatónicos
+
+4. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales
+5. Formas convencionales y no convencionales de producción del sonido
