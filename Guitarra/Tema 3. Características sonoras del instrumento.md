@@ -133,12 +133,61 @@ Este método es similar al anterior, pero aquí se compara una nota con la octav
 
 ## Por comparación de cuerdas al aire  
 
-Para usar este método es necesario tener una memoria auditiva interna muy desarrollada, ya que consiste en tocar las cuerdas al aire y comparar esos sonidos con los que tenemos almacenados en nuestra memoria. Es útil también tener bien interiorizados los saltos de intervalos, especialmente la tercera mayor y la cuarta justa, para localizar las notas siguientes a afinar.
+Este método requiere una memoria auditiva interna muy desarrollada. Consiste en tocar las cuerdas al aire y comparar esos sonidos con los almacenados en nuestra memoria. Es importante tener bien interiorizados los intervalos, especialmente la tercera mayor y la cuarta justa, para identificar correctamente las notas que se deben afinar.
 
 ## Afinación por acordes diatónicos
 
-Este método es más bien un método de comprobación que de afinación, ya que consiste en tocar uno por uno los acordes diatónicos de la tonalidad de la obra que interpretarás, para verificar si todos tienen la sonoridad adecuada o si es necesario realizar alguna modificación en alguna cuerda.
+Este método es más una comprobación que una afinación directa. Consiste en tocar uno a uno los acordes diatónicos de la tonalidad de la obra que se va a interpretar, para verificar si todos suenan correctamente o si alguna cuerda necesita ajuste.
 
 # Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales
+
+Cuando pulsamos una cuerda se emite una frecuencia principal llamada **fundamental**, que es la más grave y de mayor intensidad, junto con otras frecuencias llamadas **armónicos**, que son múltiplos de la fundamental. Estos armónicos disminuyen en intensidad cuanto más se alejan de la fundamental, formando la **serie armónica**.
+
+Los intervalos en esta serie se expresan como fracciones que indican la relación entre frecuencias:
+
+- Octava = 2/1  
+- Quinta = 3/2  
+- Cuarta = 4/3  
+
+Al ser múltiplos enteros de la fundamental, basta conocer su frecuencia para calcular las de los armónicos multiplicándola por el numerador de la fracción:
+
+Ejemplo con La (440 Hz):  
+- 2º armónico (octava): 440 × 2 = 880 Hz  
+- 3º armónico (quinta): 440 × 3 = 1320 Hz  
+- 4º armónico (cuarta): 440 × 4 = 1760 Hz  
+
+Ejemplo con Mi (330 Hz):  
+- 2º armónico: 330 × 2 = 660 Hz  
+- 3º armónico: 330 × 3 = 990 Hz  
+- 4º armónico: 330 × 4 = 1320 Hz  
+## Armónicos naturales en la guitarra
+
+Cuando tocamos una nota, además de la frecuencia fundamental, suenan varios armónicos que son múltiplos de esa frecuencia principal. A veces, queremos destacar estos armónicos de forma aislada para efectos musicales.
+
+### ¿Cómo obtener armónicos naturales?
+
+Para que un armónico suene, debemos rozar la cuerda en el punto de inflexión de la vibración, que se calcula dividiendo la longitud total de la cuerda por el numerador de la fracción correspondiente al armónico.
+
+Por ejemplo, para una cuerda de 650 mm:
+
+| Armónico        | Fracción | Punto de inflexión (mm) | Ubicación en trastes |
+|-----------------|----------|-------------------------|----------------------|
+| Segundo armónico (Octava) | 1/2      | 650 / 2 = 325          | Traste 12            |
+| Tercer armónico (Quinta)  | 1/3      | 650 / 3 ≈ 216.6        | Traste 7 y 19        |
+| Cuarto armónico (Cuarta)  | 1/4      | 650 / 4 = 162.5        | Traste 5             |
+
+- El armónico de la octava está en el centro de la cuerda.
+- La quinta justa divide la cuerda en tres partes.
+- La cuarta justa divide la cuerda en cuatro partes.
+
+### Otros armónicos "puros" no ubicados en trastes exactos:
+
+- 650 mm / 5  (Tercera Mayor)
+- 650 mm / 6  (Tercera menor)
+- 650 mm / 7  (Séptima menor o tercera menor baja)
+
+Estos también existen pero no corresponden a un traste específico.
+
+---
 
 # Formas convencionales y no convencionales de producción del sonido
