@@ -30,3 +30,19 @@ Las vibraciones incluyen diversos conceptos físicos:
 Las **cuatro cualidades del sonido** son:
 1. **Altura (tono)**: distingue sonidos graves de agudos. Se basa en la frecuencia, medida en **Hercios (Hz)**. El oído humano capta sonidos entre **20 Hz y 20.000 Hz**, aunque este rango disminuye con la edad o exposición sonora.
 
+Los instrumentos musicales emiten frecuencias entre 64 y 4.500 Hz, consideradas agradables para el oído humano. La guitarra, específicamente, produce frecuencias entre 82,5 Hz (sexta cuerda al aire) y 990 Hz (primera cuerda en el traste 19).
+
+La distancia entre dos frecuencias se llama intervalo, siendo el más importante la octava, que se define como el doble de la frecuencia de un sonido. La guitarra abarca tres octavas y media.
+
+Cada nota tiene una frecuencia principal, por ejemplo, La4 es 440 Hz, y su octava La5 es 880 Hz.
+
+Frecuencias de las cuerdas al aire en la guitarra:
+- Cuerda 1: Mi5 = 330 Hz
+- Cuerda 2: Si4 = 247 Hz
+- Cuerda 3: Sol4 = 196 Hz
+- Cuerda 4: Re4 = 147 Hz
+- Cuerda 5: La3 = 110 Hz
+- Cuerda 6: Mi3 = 82 Hz
+
+La intensidad permite distinguir sonidos fuertes y débiles, relacionada con la amplitud de vibración de las cuerdas. Se mide en decibelios (dB), y en la guitarra varía entre 65 y 85 dB, aunque técnicas modernas están ampliando estos límites.
+
