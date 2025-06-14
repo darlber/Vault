@@ -13,3 +13,20 @@
 
 4. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales
 5. Formas convencionales y no convencionales de producción del sonido
+**Resumen: Principios físicos del sonido y la acústica**
+
+La rama de la física que estudia los fenómenos relacionados con el sonido es la **acústica**. Define el sonido como la **sensación producida por ondas** que llegan a nuestros oídos, transmitidas a través del aire, el agua o los sólidos. La velocidad del sonido varía según el medio: aproximadamente **340 m/s en el aire** y entre **1.000 y 3.600 m/s en la madera**.
+
+Un **elemento sonoro** es cualquier objeto capaz de vibrar de forma adecuada. **Si la vibración es uniforme**, se percibe como **sonido**; si es irregular, se considera **ruido**.
+
+Las vibraciones incluyen diversos conceptos físicos:
+- **Elongación**: desplazamiento respecto al reposo.  
+- **Amplitud**: desplazamiento máximo.  
+- **Fase**: estado momentáneo de la oscilación.  
+- **Periodo**: duración de un ciclo completo.  
+- **Frecuencia**: número de ciclos por segundo (en Hz).  
+- **Longitud de onda**: distancia entre dos puntos en la misma fase de vibración.
+
+Las **cuatro cualidades del sonido** son:
+1. **Altura (tono)**: distingue sonidos graves de agudos. Se basa en la frecuencia, medida en **Hercios (Hz)**. El oído humano capta sonidos entre **20 Hz y 20.000 Hz**, aunque este rango disminuye con la edad o exposición sonora.
+
