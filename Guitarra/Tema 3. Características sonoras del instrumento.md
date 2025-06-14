@@ -73,3 +73,72 @@ Estas opiniones han ayudado a entender mejor cómo influyen ciertos factores en 
 Se puede buscar un punto intermedio, puliendo la uña para que la cuerda se deslice y conseguir un timbre común.
 
 **Ángulo de inclinación del ataque:** el timbre varía según el ángulo con que se ataque la cuerda. Un ángulo cercano a 90° (perpendicular a la cuerda) produce más armónicos superiores y un sonido más brillante. Un ataque más paralelo a las cuerdas produce un sonido menos brillante.
+
+**Ubicación del ataque:**  
+Dependiendo de la zona donde ataquemos las cuerdas, el timbre varía. La guitarra tiene seis cuerdas apoyadas en dos puntos. La zona central tiene mayor amplitud de movimiento y produce armónicos más graves. Cerca del puente, el movimiento está restringido, por lo que el timbre es más metálico y brillante. Atacar sobre los trastes (a partir del traste 12) genera un sonido más dulce y oscuro, parecido al clarinete.
+
+# Afinación
+
+Afinar es lograr que cada cuerda tenga la tensión adecuada para emitir una nota concreta al tocarla al aire. Esto se hace ajustando los afinadores para modificar la tensión y alcanzar la frecuencia deseada.
+
+La guitarra generalmente se afina por cuartas: desde la sexta cuerda, la siguiente está a una cuarta justa. Las cuerdas sexta, quinta, cuarta y tercera se afinan por cuartas, pero la segunda está a una tercera mayor sobre la tercera, y la primera vuelve a una cuarta justa sobre la segunda.
+
+Existen varios métodos para afinar la guitarra, entre ellos:
+
+- Por equisonidos encontrados en los trastes cuatro y cinco  
+- Por equisonidos entre armónicos naturales  
+- Por octavas en cuerdas contiguas  
+- Por octavas en cuerdas no contiguas  
+- Por comparación de cuerdas al aire  
+- Por acordes diatónicos  
+## Por equísonos encontrados en los trastes cuatro y cinco  
+
+Esta afinación es la más extendida entre los guitarristas y la más sencilla de realizar. El proceso es:
+
+- Afinar primero la sexta cuerda con un afinador o comparándola con otro instrumento (guitarra, piano, etc.).
+- Afinar la quinta cuerda pulsando el traste cinco de la sexta cuerda y ajustando la tensión de la quinta hasta que suenen igual.
+- Afinar la cuarta cuerda comparando el traste cinco de la quinta cuerda con la cuarta cuerda al aire.
+- Afinar la tercera cuerda igual que las anteriores (traste cinco de la cuarta).
+- Afinar la segunda cuerda pulsando el traste cuatro de la tercera cuerda (por ser una tercera mayor) y comparando con la segunda cuerda al aire.
+- Afinar la primera cuerda comparando el traste cinco de la segunda cuerda con la primera cuerda al aire.
+
+Es recomendable repetir el proceso al menos dos veces o verificar después con otros métodos.
+
+## Por equísonos entre armónicos naturales  
+
+Al igual que con la afinación por cuartas, primero afinamos la cuerda seis. Luego afinamos las demás comparando los armónicos naturales de los trastes cinco y siete:
+
+- Afinar la quinta cuerda comparando el armónico natural del traste cinco de la sexta cuerda con el del traste siete de la quinta cuerda.
+- Afinar la cuarta cuerda comparando el armónico natural del traste cinco de la quinta cuerda con el del traste siete de la cuarta cuerda.
+- Afinar la tercera cuerda de igual forma.
+- Afinar la segunda cuerda comparando la cuerda al aire con el armónico natural del traste siete de la sexta cuerda (Si 2).
+- Afinar la primera cuerda comparando los armónicos naturales del traste cinco de la segunda cuerda y el traste siete de la primera cuerda.
+
+## Por octavas en cuerdas contiguas  
+
+Para este método, siempre comparamos una nota con su octava superior en la cuerda contigua. Ejemplo:
+
+- Afinar la cuerda dos comparando el Si del traste 7 con el Si al aire de la cuerda dos.
+- Afinar la cuerda tres comparando el Sol del traste 8 (cuerda dos) con el Sol al aire de la cuerda tres.
+- Afinar la cuerda cuatro comparando el Re del traste 7 (cuerda tres) con el Re al aire de la cuerda cuatro.
+
+Siguiendo esta metodología, se afinan las demás notas.
+
+## Por octavas en cuerdas no contiguas  
+
+Este método es similar al anterior, pero aquí se compara una nota con la octava que está dos cuerdas más arriba o abajo. Por ejemplo:
+
+- Afinar la cuerda tres comparándola al aire con el Sol de la primera cuerda.
+- Afinar la cuerda cuatro comparándola al aire con el Re.
+
+## Por comparación de cuerdas al aire  
+
+Para usar este método es necesario tener una memoria auditiva interna muy desarrollada, ya que consiste en tocar las cuerdas al aire y comparar esos sonidos con los que tenemos almacenados en nuestra memoria. Es útil también tener bien interiorizados los saltos de intervalos, especialmente la tercera mayor y la cuarta justa, para localizar las notas siguientes a afinar.
+
+## Afinación por acordes diatónicos
+
+Este método es más bien un método de comprobación que de afinación, ya que consiste en tocar uno por uno los acordes diatónicos de la tonalidad de la obra que interpretarás, para verificar si todos tienen la sonoridad adecuada o si es necesario realizar alguna modificación en alguna cuerda.
+
+# Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales
+
+# Formas convencionales y no convencionales de producción del sonido
