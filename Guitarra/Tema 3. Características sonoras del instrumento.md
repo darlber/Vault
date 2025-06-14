@@ -14,6 +14,8 @@
 4. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales
 5. Formas convencionales y no convencionales de producción del sonido
 
+# Características sonoras del instrumento. Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada
+
 La rama de la física que estudia los fenómenos relacionados con el sonido es la **acústica**. Define el sonido como la **sensación producida por ondas** que llegan a nuestros oídos, transmitidas a través del aire, el agua o los sólidos. La velocidad del sonido varía según el medio: aproximadamente **340 m/s en el aire** y entre **1.000 y 3.600 m/s en la madera**.
 
 Un **elemento sonoro** es cualquier objeto capaz de vibrar de forma adecuada. **Si la vibración es uniforme**, se percibe como **sonido**; si es irregular, se considera **ruido**.
@@ -54,3 +56,20 @@ La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa
 El timbre depende de la cantidad e intensidad de armónicos que acompañan a la frecuencia principal.
 
 La guitarra tiene un timbre único que puede variar mucho según cómo se toquen las cuerdas (yema, uña, púa), el ángulo de ataque y la zona donde se toque la cuerda. Por ejemplo, tocar con la yema cerca del mástil produce un timbre dulce, mientras que usar solo la uña cerca del puente genera un timbre más estridente y con menos armónicos graves.
+
+# Peculiaridades derivadas del modo de producción del sonido
+Desde el siglo XVI, con vihuelistas y laudistas, se ha hablado de la calidad sonora y las formas para lograrla (cuerdas, maneras de pulsar, uñas o yema, etc.).
+
+Esta calidad sonora varía según el estilo y la estética musical, por ejemplo:
+
+- Cuerdas de tripa y pulsación sin uñas en los siglos XVI a XVIII.
+- Dilema de Sor y Aguado sobre la pulsación con yema o uñas.
+- Uso de más o menos uñas según Segovia y Bitetti.
+
+Estas opiniones han ayudado a entender mejor cómo influyen ciertos factores en el timbre:
+
+**Longitud y forma de las uñas:** tema debatido desde Sor y Aguado hasta hoy. La pulsación con uña da un sonido más duro, agudo y metálico, con más armónicos superiores, resultando en un timbre brillante y penetrante. La pulsación con yema produce un sonido más dulce, suave y oscuro, con menos armónicos superiores.
+
+Se puede buscar un punto intermedio, puliendo la uña para que la cuerda se deslice y conseguir un timbre común.
+
+**Ángulo de inclinación del ataque:** el timbre varía según el ángulo con que se ataque la cuerda. Un ángulo cercano a 90° (perpendicular a la cuerda) produce más armónicos superiores y un sonido más brillante. Un ataque más paralelo a las cuerdas produce un sonido menos brillante.
