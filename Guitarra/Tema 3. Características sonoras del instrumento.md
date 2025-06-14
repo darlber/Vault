@@ -5,20 +5,12 @@
 3. [Afinación](#Afinación)
 
 	3.1. [Por equísonos encontrados en los trastes cuatro y cinco](#Por%20equísonos%20encontrados%20en%20los%20trastes%20cuatro%20y%20cinco)
+	
 	3.2. [Por equísonos entre armónicos naturales](#Por%20equísonos%20entre%20armónicos%20naturales)
 	3.3. [Por octavas en cuerdas contiguas](#Por%20octavas%20en%20cuerdas%20contiguas)
 	3.4. [Por octavas en cuerdas no contiguas](#Por%20octavas%20en%20cuerdas%20no%20contiguas)
 	3.5. [Por comparación de cuerdas al aire](#Por%20comparación%20de%20cuerdas%20al%20aire)  
 	3.6. [Afinación por acordes diatónicos](#Afinación%20por%20acordes%20diatónicos)
-
-	3.1. [Por equísonos encontrados en los trastes cuatro y cinco](#Por%20equísonos%20encontrados%20en%20los%20trastes%20cuatro%20y%20cinco)
-	3.2. [Por equísonos entre armónicos naturales](#Por%20equísonos%20entre%20armónicos%20naturales)
-	3.3. [Por octavas en cuerdas contiguas](#Por%20octavas%20en%20cuerdas%20contiguas)
-	3.4. [Por octavas en cuerdas no contiguas](#Por%20octavas%20en%20cuerdas%20no%20contiguas)
-	3.5. [Por comparación de cuerdas al aire](#Por%20comparación%20de%20cuerdas%20al%20aire)  
-	3.6. [Afinación por acordes diatónicos](#Afinación%20por%20acordes%20diatónicos)
-
-
 
 4. [Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales](#Fundamentos%20teóricos%20de%20los%20sonidos%20armónicos.%20Armónicos%20naturales%20y%20artificiales)
 5. [Formas convencionales y no convencionales de producción del sonido](#Formas%20convencionales%20y%20no%20convencionales%20de%20producción%20del%20sonido)
