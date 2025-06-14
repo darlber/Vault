@@ -170,11 +170,11 @@ Para que un armónico suene, debemos rozar la cuerda en el punto de inflexión d
 
 Por ejemplo, para una cuerda de 650 mm:
 
-| Armónico        | Fracción | Punto de inflexión (mm) | Ubicación en trastes |
-|-----------------|----------|-------------------------|----------------------|
-| Segundo armónico (Octava) | 1/2      | 650 / 2 = 325          | Traste 12            |
-| Tercer armónico (Quinta)  | 1/3      | 650 / 3 ≈ 216.6        | Traste 7 y 19        |
-| Cuarto armónico (Cuarta)  | 1/4      | 650 / 4 = 162.5        | Traste 5             |
+| Armónico                  | Fracción | Punto de inflexión (mm) | Ubicación en trastes |
+| ------------------------- | -------- | ----------------------- | -------------------- |
+| Segundo armónico (Octava) | 1/2      | 650 / 2 = 325           | Traste 12            |
+| Tercer armónico (Quinta)  | 1/3      | 650 / 3 ≈ 216.6         | Traste 7 y 19        |
+| Cuarto armónico (Cuarta)  | 1/4      | 650 / 4 = 162.5         | Traste 5             |
 
 - El armónico de la octava está en el centro de la cuerda.
 - La quinta justa divide la cuerda en tres partes.
