@@ -1,0 +1,1 @@
+Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada. Peculiaridades derivadas del modo de producción del sonido. Afinación. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales. Formas convencionales y no convencionales de producción del sonido.
