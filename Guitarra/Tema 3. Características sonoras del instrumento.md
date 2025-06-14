@@ -13,7 +13,6 @@
 
 4. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales
 5. Formas convencionales y no convencionales de producción del sonido
-**Resumen: Principios físicos del sonido y la acústica**
 
 La rama de la física que estudia los fenómenos relacionados con el sonido es la **acústica**. Define el sonido como la **sensación producida por ondas** que llegan a nuestros oídos, transmitidas a través del aire, el agua o los sólidos. La velocidad del sonido varía según el medio: aproximadamente **340 m/s en el aire** y entre **1.000 y 3.600 m/s en la madera**.
 
@@ -27,7 +26,7 @@ Las vibraciones incluyen diversos conceptos físicos:
 - **Frecuencia**: número de ciclos por segundo (en Hz).  
 - **Longitud de onda**: distancia entre dos puntos en la misma fase de vibración.
 
-Las **cuatro cualidades del sonido** son:
+## Las **cuatro cualidades del sonido** son:
 1. **Altura (tono)**: distingue sonidos graves de agudos. Se basa en la frecuencia, medida en **Hercios (Hz)**. El oído humano capta sonidos entre **20 Hz y 20.000 Hz**, aunque este rango disminuye con la edad o exposición sonora.
 
 Los instrumentos musicales emiten frecuencias entre 64 y 4.500 Hz, consideradas agradables para el oído humano. La guitarra, específicamente, produce frecuencias entre 82,5 Hz (sexta cuerda al aire) y 990 Hz (primera cuerda en el traste 19).
@@ -44,5 +43,14 @@ Frecuencias de las cuerdas al aire en la guitarra:
 - Cuerda 5: La3 = 110 Hz
 - Cuerda 6: Mi3 = 82 Hz
 
-La intensidad permite distinguir sonidos fuertes y débiles, relacionada con la amplitud de vibración de las cuerdas. Se mide en decibelios (dB), y en la guitarra varía entre 65 y 85 dB, aunque técnicas modernas están ampliando estos límites.
+2. La intensidad permite distinguir sonidos fuertes y débiles, relacionada con la amplitud de vibración de las cuerdas. Se mide en decibelios (dB), y en la guitarra varía entre 65 y 85 dB, aunque técnicas modernas están ampliando estos límites.
 
+La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.
+
+3. Duración: es el tiempo que transcurre desde el inicio hasta el final de un sonido. En la guitarra, se valora que el instrumento mantenga el sonido por un tiempo prolongado, característica llamada "sustain".
+
+4. Timbre: cualidad que permite identificar la fuente del sonido, aunque tenga la misma altura, duración e intensidad que otro. 
+
+El timbre depende de la cantidad e intensidad de armónicos que acompañan a la frecuencia principal.
+
+La guitarra tiene un timbre único que puede variar mucho según cómo se toquen las cuerdas (yema, uña, púa), el ángulo de ataque y la zona donde se toque la cuerda. Por ejemplo, tocar con la yema cerca del mástil produce un timbre dulce, mientras que usar solo la uña cerca del puente genera un timbre más estridente y con menos armónicos graves.
