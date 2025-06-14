@@ -1,21 +1,20 @@
 # Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada. Peculiaridades derivadas del modo de producción del sonido. Afinación. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales. Formas convencionales y no convencionales de producción del sonido.
 ## Índice:
-1. Características sonoras del instrumento. Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada
-2. Peculiaridades derivadas del modo de producción del sonido
-3. Afinación
+1. [Características sonoras del instrumento. Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada](#Características%20sonoras%20del%20instrumento.%20Principios%20físicos%20de%20la%20producción%20del%20sonido%20en%20los%20instrumentos%20de%20cuerda%20pulsada)
+2. [Peculiaridades derivadas del modo de producción del sonido](#Peculiaridades%20derivadas%20del%20modo%20de%20producción%20del%20sonido)
+3. [Afinación](#Afinación)
 
-	3.1. Por equísonos encontrados en los trastes cuatro y cinco  
-	3.2. Por equísonos entre armónicos naturales  
-	3.3. Por octavas en cuerdas contiguas  
-	3.4. Por octavas en cuerdas no contiguas  
-	3.5. Por comparación de cuerdas al aire  
-	3.6. Afinación por acordes diatónicos
+	3.1. [Por equísonos encontrados en los trastes cuatro y cinco](#Por%20equísonos%20encontrados%20en%20los%20trastes%20cuatro%20y%20cinco)
+	3.2. [Por equísonos entre armónicos naturales](#Por%20equísonos%20entre%20armónicos%20naturales)
+	3.3. [Por octavas en cuerdas contiguas](#Por%20octavas%20en%20cuerdas%20contiguas)
+	3.4. [Por octavas en cuerdas no contiguas](#Por%20octavas%20en%20cuerdas%20no%20contiguas)
+	3.5. [Por comparación de cuerdas al aire](#Por%20comparación%20de%20cuerdas%20al%20aire)  
+	3.6. [Afinación por acordes diatónicos](#Afinación%20por%20acordes%20diatónicos)
 
-4. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales
-5. Formas convencionales y no convencionales de producción del sonido
+4. [Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales](#Fundamentos%20teóricos%20de%20los%20sonidos%20armónicos.%20Armónicos%20naturales%20y%20artificiales)
+5. [Formas convencionales y no convencionales de producción del sonido](#Formas%20convencionales%20y%20no%20convencionales%20de%20producción%20del%20sonido)
 
 # Características sonoras del instrumento. Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada
-
 La rama de la física que estudia los fenómenos relacionados con el sonido es la **acústica**. Define el sonido como la **sensación producida por ondas** que llegan a nuestros oídos, transmitidas a través del aire, el agua o los sólidos. La velocidad del sonido varía según el medio: aproximadamente **340 m/s en el aire** y entre **1.000 y 3.600 m/s en la madera**.
 
 Un **elemento sonoro** es cualquier objeto capaz de vibrar de forma adecuada. **Si la vibración es uniforme**, se percibe como **sonido**; si es irregular, se considera **ruido**.
@@ -78,7 +77,6 @@ Se puede buscar un punto intermedio, puliendo la uña para que la cuerda se desl
 Dependiendo de la zona donde ataquemos las cuerdas, el timbre varía. La guitarra tiene seis cuerdas apoyadas en dos puntos. La zona central tiene mayor amplitud de movimiento y produce armónicos más graves. Cerca del puente, el movimiento está restringido, por lo que el timbre es más metálico y brillante. Atacar sobre los trastes (a partir del traste 12) genera un sonido más dulce y oscuro, parecido al clarinete.
 
 # Afinación
-
 Afinar es lograr que cada cuerda tenga la tensión adecuada para emitir una nota concreta al tocarla al aire. Esto se hace ajustando los afinadores para modificar la tensión y alcanzar la frecuencia deseada.
 
 La guitarra generalmente se afina por cuartas: desde la sexta cuerda, la siguiente está a una cuarta justa. Las cuerdas sexta, quinta, cuarta y tercera se afinan por cuartas, pero la segunda está a una tercera mayor sobre la tercera, y la primera vuelve a una cuarta justa sobre la segunda.
@@ -92,7 +90,6 @@ Existen varios métodos para afinar la guitarra, entre ellos:
 - Por comparación de cuerdas al aire  
 - Por acordes diatónicos  
 ## Por equísonos encontrados en los trastes cuatro y cinco  
-
 Esta afinación es la más extendida entre los guitarristas y la más sencilla de realizar. El proceso es:
 
 - Afinar primero la sexta cuerda con un afinador o comparándola con otro instrumento (guitarra, piano, etc.).
@@ -105,7 +102,6 @@ Esta afinación es la más extendida entre los guitarristas y la más sencilla d
 Es recomendable repetir el proceso al menos dos veces o verificar después con otros métodos.
 
 ## Por equísonos entre armónicos naturales  
-
 Al igual que con la afinación por cuartas, primero afinamos la cuerda seis. Luego afinamos las demás comparando los armónicos naturales de los trastes cinco y siete:
 
 - Afinar la quinta cuerda comparando el armónico natural del traste cinco de la sexta cuerda con el del traste siete de la quinta cuerda.
@@ -115,7 +111,6 @@ Al igual que con la afinación por cuartas, primero afinamos la cuerda seis. Lue
 - Afinar la primera cuerda comparando los armónicos naturales del traste cinco de la segunda cuerda y el traste siete de la primera cuerda.
 
 ## Por octavas en cuerdas contiguas  
-
 Para este método, siempre comparamos una nota con su octava superior en la cuerda contigua. Ejemplo:
 
 - Afinar la cuerda dos comparando el Si del traste 7 con el Si al aire de la cuerda dos.
@@ -125,22 +120,18 @@ Para este método, siempre comparamos una nota con su octava superior en la cuer
 Siguiendo esta metodología, se afinan las demás notas.
 
 ## Por octavas en cuerdas no contiguas  
-
 Este método es similar al anterior, pero aquí se compara una nota con la octava que está dos cuerdas más arriba o abajo. Por ejemplo:
 
 - Afinar la cuerda tres comparándola al aire con el Sol de la primera cuerda.
 - Afinar la cuerda cuatro comparándola al aire con el Re.
 
 ## Por comparación de cuerdas al aire  
-
 Este método requiere una memoria auditiva interna muy desarrollada. Consiste en tocar las cuerdas al aire y comparar esos sonidos con los almacenados en nuestra memoria. Es importante tener bien interiorizados los intervalos, especialmente la tercera mayor y la cuarta justa, para identificar correctamente las notas que se deben afinar.
 
 ## Afinación por acordes diatónicos
-
 Este método es más una comprobación que una afinación directa. Consiste en tocar uno a uno los acordes diatónicos de la tonalidad de la obra que se va a interpretar, para verificar si todos suenan correctamente o si alguna cuerda necesita ajuste.
 
 # Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales
-
 Cuando pulsamos una cuerda se emite una frecuencia principal llamada **fundamental**, que es la más grave y de mayor intensidad, junto con otras frecuencias llamadas **armónicos**, que son múltiplos de la fundamental. Estos armónicos disminuyen en intensidad cuanto más se alejan de la fundamental, formando la **serie armónica**.
 
 Los intervalos en esta serie se expresan como fracciones que indican la relación entre frecuencias:
@@ -161,11 +152,9 @@ Ejemplo con Mi (330 Hz):
 - 3º armónico: 330 × 3 = 990 Hz  
 - 4º armónico: 330 × 4 = 1320 Hz  
 ## Armónicos naturales en la guitarra
-
 Cuando tocamos una nota, además de la frecuencia fundamental, suenan varios armónicos que son múltiplos de esa frecuencia principal. A veces, queremos destacar estos armónicos de forma aislada para efectos musicales.
 
 ### ¿Cómo obtener armónicos naturales?
-
 Para que un armónico suene, debemos rozar la cuerda en el punto de inflexión de la vibración, que se calcula dividiendo la longitud total de la cuerda por el numerador de la fracción correspondiente al armónico.
 
 Por ejemplo, para una cuerda de 650 mm:
@@ -181,13 +170,31 @@ Por ejemplo, para una cuerda de 650 mm:
 - La cuarta justa divide la cuerda en cuatro partes.
 
 ### Otros armónicos "puros" no ubicados en trastes exactos:
-
-- 650 mm / 5  (Tercera Mayor)
-- 650 mm / 6  (Tercera menor)
-- 650 mm / 7  (Séptima menor o tercera menor baja)
-
-Estos también existen pero no corresponden a un traste específico.
-
----
+- 650 mm / 5  (Tercera Mayor) Traste 4, casi 5
+- 650 mm / 6  (Tercera menor) Traste 4, casi 3
+- 650 mm / 7  (Séptima menor o tercera menor baja) Traste 3 mitad.
 
 # Formas convencionales y no convencionales de producción del sonido
+### Formas convencionales
+- **Pulsación tirando-apoyando**: Técnica básica y ampliamente conocida.
+- **Uso de la yema y la uña**:
+  - No hay registros anteriores al siglo XVIII sobre su uso específico.
+  - El debate histórico:
+    - **Fuenllana**: Prefería la pulsación con la yema porque permite comunicar mejor las intenciones del músico.
+    - **Alessandro Piccinini**: Defendía el uso combinado de yema y uña, con la uña corta para que primero la yema deslice y luego la uña toque las cuerdas.
+
+### Formas no convencionales
+- **Menos convencionales** (uso ocasional):
+  - Rasgueos flamencos
+  - Tremolo con un solo dedo
+  - Pizzicato Bartók
+
+- **Poco convencionales** (uso inusual o con objetos):
+  - Tocar con púa
+  - Usar anillo en el dedo para pulsar
+  - Colocar papeles sobre las cuerdas
+  - Gomas elásticas en el diapasón
+  - Uso de _slide_ 
+  - Amplificación
+  - Rasgueos con ambas manos
+  - Golpes con dedos de la mano izquierda o golpes en las cuerdas en general
