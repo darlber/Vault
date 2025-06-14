@@ -9,8 +9,6 @@
 	3.4. [Por octavas en cuerdas no contiguas](#Por%20octavas%20en%20cuerdas%20no%20contiguas)
 	3.5. [Por comparación de cuerdas al aire](#Por%20comparación%20de%20cuerdas%20al%20aire)  
 	3.6. [Afinación por acordes diatónicos](#Afinación%20por%20acordes%20diatónicos)
-
-
 4. [Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales](#Fundamentos%20teóricos%20de%20los%20sonidos%20armónicos.%20Armónicos%20naturales%20y%20artificiales)
 5. [Formas convencionales y no convencionales de producción del sonido](#Formas%20convencionales%20y%20no%20convencionales%20de%20producción%20del%20sonido)
 
