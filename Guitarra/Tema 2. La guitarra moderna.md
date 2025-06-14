@@ -129,14 +129,14 @@ Estas estructuras internas tienen doble función:
 - Un **tiro mayor** suele dar más tensión y potencia, pero puede ser menos cómodo para manos pequeñas.
 - Debe adaptarse a la **morfología** y preferencias del guitarrista.-
 # Bibliografía
-- **Alcaraz Iborra, Mario** (2010). _La guitarra: Historia, organología y repertorio_.
-- **Evans, Tom** y **Evans, Mary Anne** (1977). _Guitars: From the Renaissance to Rock_.
-- **Sáenz, Juan José** (2000). _Diccionario Técnico de la Guitarra_.
-- **Ramos Altamira, Ignacio** (2005). _Historia de la guitarra y los guitarristas españoles_.
-- **Romanillos, José Luis** (1989). _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_.
-- **Romanillos, José Luis** (1990). _Catálogo de la Exposición Guitarras Antiguas Españolas_.
-- **Turnbull, Harvey** (1976). _The Guitar from the Renaissance to the Present Day_.
-- **Tyler, James** (1980). _The Early Guitar_.
-- **Varios autores** (1991). _Catálogo de la Exposición La Guitarra Española_.
-- **Viglietti, Cedar** (1976). _Origen e historia de la guitarra_.
-- **Wade, Graham** (1980). _Traditions of the Classical Guitar_.
+- **Alcaraz Iborra, Mario**: _La guitarra: Historia, organología y repertorio_ (2010).
+- **Evans, Tom y Evans, Mary Anne**: _Guitars: From the Renaissance to Rock_ (1977).
+- **Sáenz, Juan José**: _Diccionario Técnico de la Guitarra_ (2000).
+- **Ramos Altamira, Ignacio**: _Historia de la guitarra y los guitarristas españoles_ (2005).
+- **Romanillos, José Luis**: _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_ (1989).
+- **Romanillos, José Luis**: _Catálogo de la Exposición Guitarras Antiguas Españolas_ (1990).
+- **Turnbull, Harvey**: _The Guitar from the Renaissance to the Present Day_ (1976).
+- **Tyler, James**: _The Early Guitar_ (1980).
+- **Varios autores**: _Catálogo de la Exposición La Guitarra Española_ (1991).
+- **Viglietti, Cedar**: _Origen e historia de la guitarra_ (1976).
+- **Wade, Graham**: _Traditions of the Classical Guitar_ (1980).
