@@ -7,9 +7,8 @@
       B) [Relajación física y mental](#Relajación%20física%20y%20mental)  
       C) [Hábitos posturales](#Hábitos%20posturales)  
       D) [El control de la respiración](#El%20control%20de%20la%20respiración)  
-      E) [El control mental](#El%20control%20mental)  
-      F) [La visualización mental](#La%20visualización%20mental)  
-      G) [La superación del miedo escénico](#La%20superación%20del%20miedo%20escénico)  
+      E) [La visualización mental](#La%20visualización%20mental)  
+      F) [La superación del miedo escénico](#La%20superación%20del%20miedo%20escénico)  
 
 2. [Consecuencias de la ausencia de concienciación corporal](#Consecuencias%20de%20la%20ausencia%20de%20concienciación%20corporal)  
 3. [Conclusiones](#Conclusiones)  
@@ -242,7 +241,53 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Esto conduce al concepto de **visualización**, herramienta fundamental para músicos.
 ### La visualización mental  
 
+- La visualización es una técnica poderosa para controlar la mente, las emociones y el cuerpo, facilitando cambios deseados en la conducta.  
+- Se usa en terapias para aliviar dolores (cefaleas, contracturas, dolores postquirúrgicos) basándose en la autosugestión y la somatización mental.  
+- Consiste en recrear mentalmente situaciones que se deben enfrentar, en un estado de relajación, produciendo efectos físicos y emocionales asociados.  
+- La repetición de estas imágenes con las sensaciones deseadas crea una asociación automática, que se activa en la realidad.  
+
+**Orígenes y desarrollo:**  
+- Emil Coué, farmacéutico francés, fue pionero a principios del siglo XX en el uso de la autosugestión para superar el estrés y mejorar la salud.  
+- Para Coué, el miedo al fracaso genera el fracaso, mientras que la creencia en el éxito lo inspira.  
+- Propuso repetir mentalmente afirmaciones positivas como “cada día estoy mejorando más”.  
+- Métodos contemporáneos amplían esta idea con la visualización positiva, donde se forma una imagen clara del objetivo a alcanzar.  
+
+**Práctica recomendada:**  
+- Realizar ejercicios de visualización 2-3 veces al día, durante 10-12 minutos cada vez, para máxima efectividad.  
+- La visualización crea expectativas positivas que motivan conductas encaminadas al logro de metas.
+
 ### La superación del miedo escénico
+
+- **Definición:**  
+  El miedo escénico-musical es la ansiedad que siente el músico ante una actuación frente a un público, afectando a la ejecución.
+
+- **Impacto:**  
+  Puede deteriorar la calidad de la interpretación y, en casos graves, llevar a evitar completamente actuar (fobia escénica).
+
+- **Características de quienes lo padecen:**  
+  - Hipersensibilidad a la crítica  
+  - Baja autoestima  
+  - Evaluaciones negativas de sí mismos  
+  - Sentimientos de inferioridad
+
+- **Abordaje psicológico:**  
+  La psicología utiliza técnicas para modificar y controlar las respuestas de ansiedad.
+
+- **Técnicas principales para el control del miedo escénico:**  
+  1. Relajación progresiva  
+  2. Desensibilización sistemática  
+  3. Terapias cognitivas
+
+- **Terapias cognitivas:**  
+  - Se centran en cambiar patrones de pensamiento, creencias y actitudes que generan conductas problemáticas.  
+  - Hipótesis básicas:  
+    1. Toda conducta está mediada por la cognición.  
+    2. Los trastornos emocionales provienen de distorsiones cognitivas.  
+    3. La psicoterapia ayuda a comprender y corregir estos patrones distorsionados.
+
+- **Terapia racional-emotiva (Albert Ellis, 1961):**  
+  - Se basa en aceptar la relación entre pensamiento y sentimiento.  
+  - Modificando pensamientos automáticos negativos se pueden cambiar las reacciones emocionales.
 
 # Consecuencias de la ausencia de concienciación corporal
 
