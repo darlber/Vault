@@ -1,0 +1,1 @@
+# Relajación física y mental, concentración, hábitos posturales, respiración, control y visualización mental, miedo escénico. Aspectos anatómicos y fisiomecánicos más importantes en relación con la técnica de la guitarra. Colocación del cuerpo y del instrumento.

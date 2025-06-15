@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/Pentesting Checklist.md",
+                "file": "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentesting Checklist"
+              "title": "Tema 4. Técnicas de concienciación corporal"
+            }
+          }
+        ]
+      },
+      {
+        "id": "18794436849ec12c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2650dba43d0738e3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Guitarra/oposiciones temas.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "oposiciones temas"
             }
           }
         ]
@@ -193,31 +211,36 @@
   },
   "active": "c3b6f9d45434337f",
   "lastOpenFiles": [
-    "CyberTesting/Nmap Checklist.md",
-    "Guitarra/0. Temas Oposiciones.md",
     "Guitarra/oposiciones temas.pdf",
-    "Guitarra/Tema 1. Historia General de la Guitarra.md",
-    "Guitarra/TEMA 1-3.pdf",
-    "Guitarra/Tema 2. La guitarra moderna.md",
-    "Guitarra/Tema 3. Características sonoras del instrumento.md",
+    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+    "Guitarra/0. Temas Oposiciones.md",
     "Guitarra/TEMA 4.pdf",
+    "Guitarra/Tema 3. Características sonoras del instrumento.md",
+    "Guitarra/TEMA 31 y 32.pdf",
+    "Guitarra/TEMA 33 y 34.pdf",
+    "Guitarra/TEMA 29 y 30.pdf",
+    "Guitarra/TEMA 28.pdf",
+    "Guitarra/TEMA 27.pdf",
+    "Guitarra/TEMA 25.pdf",
+    "Guitarra/TEMA 22.pdf",
+    "Guitarra/TEMA 20-21.pdf",
+    "CyberTesting/Pentesting Checklist.md",
+    "CyberTesting/Nmap Checklist.md",
+    "Guitarra/Tema 1. Historia General de la Guitarra.md",
+    "Guitarra/Tema 2. La guitarra moderna.md",
     "Peculiaridades derivadas del modo de producción del sonido.md",
     "CyberTesting/XXE.md",
     "Tema 2. La guitarra moderna.md",
     "CyberTesting/Linux Privilege Scalation.md",
-    "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/Assets/Images/ssti.webp",
     "CyberTesting/attachments/Pasted image 20250609093942.png",
     "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/CheatSheets/Linux.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
-    "CyberTesting/OSSTMM.3.pdf",
-    "CyberTesting/attachments",
     "().md",
     "Exploit-db.md",
     "CyberTesting/Assets/Excalidraw/Networking drawings.md",
-    "CyberTesting/Assets/PDF/The Cuckoo_s Egg Clifford Stoll.pdf",
     "CyberTesting/Assets/Excalidraw/Deserialization.md",
     "Untitled Kanban.md",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
@@ -226,9 +249,6 @@
     "CyberTesting/Assets/Excalidraw/SSRF.md",
     "CyberTesting/Assets/Excalidraw/SSL, HSTS.md",
     "CyberTesting/Assets/Excalidraw/Modern Web Workflow.md",
-    "CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
-    "CyberTesting/Assets/Excalidraw",
-    "CyberTesting/Assets/Templates",
     "CyberTesting/Assets/Images/Web/SQLi/time-delays.png",
     "CyberTesting/Assets/Images/Web/SQLi/substring.png",
     "CyberTesting/Assets/Images/Web/SQLi/string-concatenation.png",
@@ -236,8 +256,6 @@
     "CyberTesting/Assets/Images/Web/SQLi/extract-data-via-visible-err-messages.png",
     "CyberTesting/Assets/Images/Web/SQLi/dns-lookup.png",
     "CyberTesting/Assets/Images/Web/SQLi/dns-lookup-with-data-exfiltration.png",
-    "CyberTesting/Assets/Images/Web/SQLi/db-version.png",
-    "CyberTesting/Assets/Images/Web/SQLi",
-    "CyberTesting/Assets/Images/Web"
+    "CyberTesting/Assets/Images/Web/SQLi/db-version.png"
   ]
 }
