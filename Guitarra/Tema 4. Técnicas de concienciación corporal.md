@@ -227,9 +227,21 @@ Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendim
 3. **Relájese:** intente expulsar la tensión al moverse.  
 4. **Descanse entre movimientos:** para que el cerebro asimile la nueva información sensorial y motriz.  
 
-### El control de la respiración  
-### El control mental  
+### Concentración mental
+
+La actividad musical requiere un alto grado de concentración por dos motivos principales:
+
+1. **Dificultad intrínseca**: Coordinar numerosos procesos mentales y psicomotrices durante la ejecución.  
+2. **Aislamiento del entorno**: Fijar la atención exclusivamente en la música, evitando distracciones.
+
+- Las técnicas de **relajación completa** y **desensibilización sistemática** incluyen el control mental como parte de su práctica.  
+- Sin embargo, la concentración está más relacionada con las **terapias cognitivas**, que buscan cambiar patrones de pensamiento para modificar conductas.  
+- La concentración permite evadirse del entorno y canalizar toda la energía hacia un objetivo.  
+- También puede usarse para la **autosugestión positiva**, eliminando pensamientos negativos.  
+- Detrás de toda conducta hay un pensamiento; por eso el tipo de pensamiento influye directamente en cómo nos sentimos.  
+- Esto conduce al concepto de **visualización**, herramienta fundamental para músicos.
 ### La visualización mental  
+
 ### La superación del miedo escénico
 
 # Consecuencias de la ausencia de concienciación corporal
