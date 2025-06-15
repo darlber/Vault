@@ -33,12 +33,14 @@
             "id": "2650dba43d0738e3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Guitarra/oposiciones temas.pdf"
+                "file": "Guitarra/Tema 5. La técnica de la guitarra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "oposiciones temas"
+              "icon": "lucide-file",
+              "title": "Tema 5. La técnica de la guitarra"
             }
           }
         ]
@@ -213,12 +215,12 @@
   },
   "active": "2650dba43d0738e3",
   "lastOpenFiles": [
+    "Guitarra/oposiciones temas.pdf",
     "Guitarra/Tema 5. La técnica de la guitarra.md",
     "Guitarra/Tema 1. Historia General de la Guitarra.md",
     "Guitarra/Tema 2. La guitarra moderna.md",
     "Guitarra/Tema 3. Características sonoras del instrumento.md",
     "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
-    "Guitarra/oposiciones temas.pdf",
     "Guitarra/99.OCR TEMA 5-7.pdf",
     "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/0. Temas Oposiciones.md",
