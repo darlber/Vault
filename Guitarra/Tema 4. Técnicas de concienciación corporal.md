@@ -357,27 +357,16 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Esto conlleva una mejora en la calidad artística y musical de las interpretaciones.
 
 - En resumen, salud y mejora técnica son aspectos íntimamente relacionados que deben abordarse conjuntamente en el aula de instrumento.
-# Bibliografía
-## 4. Bibliografía
-
-- Bochsma, Hans: “La respiración”. *Brass Bulletin*, n.º 66 (pp. 40–43), II/1989.
-
-- Bourgue, Daniel: “La respiración”. Revista *Trompa* (Asociación Española de Trompistas), n.º 21 (pp. 14–19), marzo 1990.
-
-- Bourgue, Daniel: “La respiración”. Revista *Trompa* (Asociación Española de Trompistas), n.º 22 (pp. 17–20), diciembre 1990.
-
-- Cramer, William F.: “L’acte de souffler”. *Brass Bulletin*, n.º 34 (pp. 29–36), 1981.
-
-- Harrison: *Tratado de medicina interna* (Tomo 1).
-
-- Houssay, B.A. y otros: *Fisiología humana*. Ed. El Ateneo. Colección Ciba de Ilustraciones Médicas.
-
-- Katschmartschyk, Wladimir: “Historia y desarrollo de la espiración permanente”. *Brass Bulletin*, n.º 67 (pp. 42–45), III/1989.
-
-- Netter, F.H.: *Sistema respiratorio* (Tomo VII-A). Ed. Masson, S.A. Salvat.
-
-- Ricquier, Michel: *Traité méthodique de pédagogie instrumentale*. Ed. Billandot. París, 1978.
-
-- Thompson, Kevin H.: “La respiración circular”. *Brass Bulletin*, n.º 69 (pp. 84–87), I/1990.
-
-- Wiener, Jean Christophe: *James-stamp, maestro de la escucha* - 1ª Parte (Apartado de la respiración). *Brass Bulletin*, n.º 100 (pp. 59–67), IV/1997.
+# Bibliografía 
+#TODO
+- Bochsma, Hans. “La respiración.” _Brass Bulletin_, no. 66 (II/1989): 40–43.
+- Bourgue, Daniel. “La respiración.” Revista _Trompa_ (Asociación Española de Trompistas), no. 21 (marzo 1990): 14–19.
+- Bourgue, Daniel. “La respiración.” Revista _Trompa_ (Asociación Española de Trompistas), no. 22 (diciembre 1990): 17–20.
+- Cramer, William F. “L’acte de souffler.” _Brass Bulletin_, no. 34 (1981): 29–36.
+- Harrison. _Tratado de medicina interna_. Tomo 1.
+- Houssay, B. A., et al. _Fisiología humana_. Buenos Aires: Ed. El Ateneo. Colección Ciba de Ilustraciones Médicas.
+- Katschmartschyk, Wladimir. “Historia y desarrollo de la espiración permanente.” _Brass Bulletin_, no. 67 (III/1989): 42–45.
+- Netter, F. H. _Sistema respiratorio_. Tomo VII-A. Barcelona: Ed. Masson, S.A. Salvat.
+- Ricquier, Michel. _Traité méthodique de pédagogie instrumentale_. París: Ed. Billandot, 1978.
+- Thompson, Kevin H. “La respiración circular.” _Brass Bulletin_, no. 69 (I/1990): 84–87.
+- Wiener, Jean Christophe. “James-stamp, maestro de la escucha” – 1ª Parte (Apartado de la respiración). _Brass Bulletin_, no. 100 (IV/1997): 59–67.

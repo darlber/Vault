@@ -6,7 +6,7 @@
       {
         "id": "9f1195f8d478cf6d",
         "type": "tabs",
-        "dimension": 53.125,
+        "dimension": 53.79310344827586,
         "children": [
           {
             "id": "c3b6f9d45434337f",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 2. La guitarra moderna.md",
+                "file": "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 2. La guitarra moderna"
+              "title": "Tema 4. Técnicas de concienciación corporal"
             }
           }
         ]
@@ -27,20 +27,8 @@
       {
         "id": "18794436849ec12c",
         "type": "tabs",
-        "dimension": 46.875,
+        "dimension": 46.206896551724135,
         "children": [
-          {
-            "id": "00922dddf15c3987",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Guitarra/TEMA 4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TEMA 4"
-            }
-          },
           {
             "id": "2650dba43d0738e3",
             "type": "leaf",
@@ -184,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitarra/Tema 2. La guitarra moderna.md",
+                "file": "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 2. La guitarra moderna"
+              "title": "Outline of Tema 4. Técnicas de concienciación corporal"
             }
           },
           {
@@ -204,12 +192,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,10 +213,10 @@
   },
   "active": "c3b6f9d45434337f",
   "lastOpenFiles": [
+    "Guitarra/Tema 3. Características sonoras del instrumento.md",
+    "Guitarra/Tema 2. La guitarra moderna.md",
     "Guitarra/Tema 1. Historia General de la Guitarra.md",
     "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
-    "Guitarra/Tema 2. La guitarra moderna.md",
-    "Guitarra/Tema 3. Características sonoras del instrumento.md",
     "Guitarra/TEMA 4.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
     "Guitarra/oposiciones temas.pdf",

@@ -129,15 +129,16 @@ Estas estructuras internas tienen doble función:
 - Afecta la **tensión de las cuerdas** y la **distancia entre trastes**.
 - Un **tiro mayor** suele dar más tensión y potencia, pero puede ser menos cómodo para manos pequeñas.
 - Debe adaptarse a la **morfología** y preferencias del guitarrista.-
-# Bibliografía
-- **Alcaraz Iborra, Mario**: _La guitarra: Historia, organología y repertorio_ (2010).
-- **Evans, Tom y Evans, Mary Anne**: _Guitars: From the Renaissance to Rock_ (1977).
-- **Sáenz, Juan José**: _Diccionario Técnico de la Guitarra_ (2000).
-- **Ramos Altamira, Ignacio**: _Historia de la guitarra y los guitarristas españoles_ (2005).
-- **Romanillos, José Luis**: _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_ (1989).
-- **Romanillos, José Luis**: _Catálogo de la Exposición Guitarras Antiguas Españolas_ (1990).
-- **Turnbull, Harvey**: _The Guitar from the Renaissance to the Present Day_ (1976).
-- **Tyler, James**: _The Early Guitar_ (1980).
-- **Varios autores**: _Catálogo de la Exposición La Guitarra Española_ (1991).
-- **Viglietti, Cedar**: _Origen e historia de la guitarra_ (1976).
-- **Wade, Graham**: _Traditions of the Classical Guitar_ (1980).
+# Bibliografía 
+#TODO 
+- Alcaraz Iborra, Mario. _La guitarra: Historia, organología y repertorio_. Madrid: Editorial Música, 2010.
+- Evans, Tom, y Mary Anne Evans. _Guitars: From the Renaissance to Rock_. New York: Music Press, 1977.
+- Sáenz, Juan José. _Diccionario Técnico de la Guitarra_. Barcelona: Editorial Instrumentos, 2000.
+- Ramos Altamira, Ignacio. _Historia de la guitarra y los guitarristas españoles_. Madrid: Editorial Música, 2005.
+- Romanillos, José Luis. _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_. Madrid: Editorial Clásica, 1989.
+- Romanillos, José Luis. _Catálogo de la Exposición Guitarras Antiguas Españolas_. Madrid: Museo de la Guitarra, 1990.
+- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. London: Faber and Faber, 1976.
+- Tyler, James. _The Early Guitar_. London: Oxford University Press, 1980.
+- Varios autores. _Catálogo de la Exposición La Guitarra Española_. Madrid: Museo Nacional, 1991.
+- Viglietti, Cedar. _Origen e historia de la guitarra_. Buenos Aires: Editorial Artes, 1976.
+- Wade, Graham. _Traditions of the Classical Guitar_. London: Calder, 1980.

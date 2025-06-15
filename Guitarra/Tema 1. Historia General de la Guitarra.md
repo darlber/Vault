@@ -143,12 +143,13 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 - Vogt (Alemania).
 
 # Bibliografía
-- **Gimeno García, Julio**: *Escuela de París. La guitarra en París durante el periodo Clásico-Romántico*. Revista 8 Sonoro. Año 2, número 2.
-- **Matlik, Heiki**: *Handbook of Guitar and Lute Composers* (2010).
-- **Ramos Altamira, Ignacio**: *Historia de la guitarra y los guitarristas españoles* (2005).
-- **Romanillos, José Luis**: *Catálogo de la Exposición Guitarras Antiguas Españolas* (1990).
-- **Romanillos, José Luis**: *El guitarrero español y su contribución en el desarrollo de la guitarra de concierto* (1989).
-- **Turnbull, Harvey**: *The Guitar from the Renaissance to the Present Day* (1976).
-- **Tyler, James**: *The Early Guitar* (1980).
-- **Viglietti, Cedar**: *Origen e historia de la guitarra* (1976).
-- **Wade, Graham**: *Traditions of the Classical Guitar* (1980).
+#TODO 
+- Gimeno García, Julio. “Escuela de París. La guitarra en París durante el periodo Clásico-Romántico.” _Revista 8 Sonoro_, Año 2, no. 2 (año): páginas.
+- Matlik, Heiki. _Handbook of Guitar and Lute Composers_. Lugar de publicación: Editorial, 2010.
+- Ramos Altamira, Ignacio. _Historia de la guitarra y los guitarristas españoles_. Lugar de publicación: Editorial, 2005.
+- Romanillos, José Luis. _Catálogo de la Exposición Guitarras Antiguas Españolas_. Lugar de publicación: Editorial, 1990.
+- Romanillos, José Luis. _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_. Lugar de publicación: Editorial, 1989.
+- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. Lugar de publicación: Editorial, 1976.
+- Tyler, James. _The Early Guitar_. Lugar de publicación: Editorial, 1980.
+- Viglietti, Cedar. _Origen e historia de la guitarra_. Lugar de publicación: Editorial, 1976.
+- Wade, Graham. _Traditions of the Classical Guitar_. Lugar de publicación: Editorial, 1980.
