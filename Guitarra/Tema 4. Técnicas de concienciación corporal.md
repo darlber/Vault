@@ -172,6 +172,39 @@ Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendim
   2. Es posible habituarse a situaciones amenazadoras.
 
 ### Hábitos posturales  
+#### Técnica Alexander
+
+- Matthias Alexander, actor australiano, desarrolló esta técnica tras sufrir problemas de voz y respiración.  
+- Observó que ciertos movimientos inapropiados de la cabeza afectaban su voz.  
+- Su método se basa en la reeducación del movimiento para que el cuerpo y la mente funcionen de forma más eficiente y fluida.  
+- Mejora las habilidades de comunicación al aumentar la capacidad de respuesta física y mental.  
+- Es útil para procesar la ansiedad escénica y cambiar hábitos corporales destructivos.
+
+1. La Técnica Alexander considera al organismo psico-físico como un todo integrado, no partes aisladas.  
+   - Los problemas en una zona suelen deberse al mal uso en otra.  
+2. Se anima al estudiante a explorar el uso de su cuerpo en todas las actividades diarias para detectar causas de problemas posturales.  
+   - Por ejemplo, un músico que fija las rodillas al tocar probablemente también lo haga en otras situaciones cotidianas.  
+3. El método incluye el contacto manual directo entre profesor y alumno, facilitando una comunicación kinestésica y nuevas sensaciones.  
+4. Un profesor formado busca tensiones no solo en manos y brazos, sino también en caderas, rodillas y cuello.  
+   - Liberar estos músculos mejora la libertad de movimiento, resonancia, agilidad y rapidez en la conexión cerebro-músculo.  
+5. La Técnica puede enseñarse desde edades tempranas con un lenguaje adaptado para niños, funcionando como método preventivo para evitar problemas físicos futuros.  
+6. Conceptos clave:  
+   - **Inhibición** y **dirección**: al evitar un hábito antiguo y ordenar un nuevo uso corporal, se aprende a controlar el tiempo entre estímulo y respuesta, permitiendo elegir cómo reaccionar.
+
+- La reeducación corporal se basa en los principios de una **postura expandida**:  
+  1. Cabeza equilibrada sobre el cuello.  
+  2. Músculos del cuello con tensión mínima.  
+  3. Hombros sueltos y amplios, relacionados con la espalda.  
+  4. Brazos colgando naturalmente hacia adelante, resultado de hombros relajados.  
+  5. Espalda sin huecos pronunciados.  
+  6. Respiración profunda, no superficial.  
+
+- Es fundamental la **integración cuerpo-mente**:  
+  - Muchos músicos ejecutan la música solo con manos y dedos sin una imagen mental y auditiva clara del sonido deseado.  
+  - La efectividad técnica depende de la conexión entre mente y músculos, según Ivan Galamian:  
+    > “La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.”  
+- La Técnica Alexander estimula que la actividad y el movimiento se dirijan desde el cerebro, usando el cuerpo como un todo integrado.
+
 ### El control de la respiración  
 ### El control mental  
 ### La visualización mental  
