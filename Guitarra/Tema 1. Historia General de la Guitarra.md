@@ -1,4 +1,4 @@
-# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción
+# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
 ## Índice:
 
 1. [Historia general de la guitarra: orígenes y antecedentes](#Historia%20general%20de%20la%20guitarra%20orígenes%20y%20antecedentes)

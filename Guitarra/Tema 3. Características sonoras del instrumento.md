@@ -201,3 +201,14 @@ Por ejemplo, para una cuerda de 650 mm:
   - Golpes con dedos de la mano izquierda o golpes en las cuerdas en general
 # Bibliografía 
 #TODO
+- Aguado, Dionisio. _Escuela de guitarra_. Madrid: Editorial Clásica, 1825.
+- Aguado, Dionisio. _Méthode complète pour la guitare_. París: Imprenta Musical, 1826.
+- Aguado, Dionisio. _Nuevo método para guitarra_. Madrid: Editorial Clásica, 1843.
+- Sáenz, Juan José. _Diccionario Técnico de la Guitarra_. Barcelona: Editorial Instrumentos, 2000.
+- Romanillos, José Luis. _Catálogo de la Exposición Guitarras Antiguas Españolas_. Madrid: Museo Nacional de la Guitarra, 1990.
+- Romanillos, José Luis. _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_. Madrid: Editorial Música, 1989.
+- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. London: Faber and Faber, 1976.
+- Tyler, James. _The Early Guitar_. London: Oxford University Press, 1980.
+- Varios autores. _Catálogo de la Exposición La Guitarra Española_. Madrid: Museo Nacional, 1991.
+- Viglietti, Cedar. _Origen e historia de la Guitarra_. Buenos Aires: Editorial Artes, 1976.
+- Wade, Graham. _Traditions of the Classical Guitar_. London: Calder, 1980.
