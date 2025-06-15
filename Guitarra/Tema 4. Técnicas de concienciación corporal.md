@@ -103,7 +103,6 @@ Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendim
 ## Breve análisis de cada una de las técnicas de concienciación corporal
 
 ### La respiración
-
 - **Definición:**  
   La respiración es el proceso por el cual captamos oxígeno y eliminamos dióxido de carbono, esencial para el metabolismo celular.
 
@@ -140,6 +139,38 @@ Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendim
   3. Combinar la respiración con sensaciones mentales positivas que ayuden a liberar tensiones y fortalecer la confianza y seguridad personal.
 
 ### Relajación física y mental  
+- La relajación es una técnica y condición esencial para que el intérprete musical rinda al máximo.  
+- Produce efectos fisiológicos beneficiosos:  
+  - Reduce pulso, presión sanguínea, sudoración, frecuencia respiratoria y tensión muscular.  
+  - Ayuda a mitigar trastornos derivados de la ansiedad.  
+
+- Técnica destacada: **Relajación progresiva de Jacobson** (1938)  
+  - Basada en la idea de que la ansiedad genera tensión muscular.  
+  - Al eliminar la tensión muscular, disminuye la ansiedad.  
+  - Consiste en tensar y relajar sistemáticamente distintos grupos musculares.  
+  - Se aprende a reconocer la diferencia entre tensión y relajación para alcanzar una sensación profunda de calma.  
+
+- Práctica:  
+  - Se realiza desde las manos hacia la cabeza y hombros, y luego hacia los pies.  
+  - Requiere práctica rutinaria, iniciándose en un ambiente tranquilo durante 20-25 minutos.  
+  - Con el tiempo, se reduce la duración y se puede practicar en ambientes menos ideales.
+
+#### Ampliación de la relajación progresiva: Relajación completa
+
+- Consta de tres etapas:  
+  1. Ejercicios de control respiratorio basados en el yoga.  
+  2. Ejercicios propios de la relajación progresiva.  
+  3. Técnica de meditación con visualización, usando una imagen mental como foco de concentración para la exploración sensorial cuando se está físicamente relajado (visualización mental).
+
+#### Desensibilización sistemática (Joseph Wolpe, 1948)
+
+- Técnica derivada de la relajación progresiva aplicada en terapia conductual para contracondicionar el temor.  
+- Usa la relajación para inhibir altos niveles de ansiedad en situaciones reales con estrés progresivo.  
+- Se trabaja primero con escenas imaginadas que evocan ansiedad similar a la real, facilitando la preparación para enfrentar situaciones reales (conciertos, exámenes, etc.).  
+- Principios fundamentales:  
+  1. Una emoción puede contrarrestar otra.  
+  2. Es posible habituarse a situaciones amenazadoras.
+
 ### Hábitos posturales  
 ### El control de la respiración  
 ### El control mental  
