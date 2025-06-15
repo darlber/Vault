@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/0. Temas Oposiciones.md",
+                "file": "Guitarra/Tema 5. La técnica de la guitarra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Temas Oposiciones"
+              "title": "Tema 5. La técnica de la guitarra"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Guitarra/0. Temas Oposiciones.md",
+            "file": "Guitarra/Tema 5. La técnica de la guitarra.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Guitarra/0. Temas Oposiciones.md",
+            "file": "Guitarra/Tema 5. La técnica de la guitarra.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Guitarra/0. Temas Oposiciones.md",
+            "file": "Guitarra/Tema 5. La técnica de la guitarra.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -168,8 +168,8 @@
   },
   "active": "0ec3894830c582ba",
   "lastOpenFiles": [
-    "Guitarra/Tema 5. La técnica de la guitarra.md",
     "Guitarra/0. Temas Oposiciones.md",
+    "Guitarra/Tema 5. La técnica de la guitarra.md",
     "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
     "Guitarra/Tema 3. Características sonoras del instrumento.md"
   ]
