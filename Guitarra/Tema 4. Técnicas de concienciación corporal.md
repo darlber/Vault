@@ -293,7 +293,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 ### Consecuencias físicas:
 - Aparición de dolor y fatiga muscular.
 - La actividad muscular continuada provoca fatiga, causada por el fallo parcial o total del músculo para responder adecuadamente.
-- Según Mosso ("La ley del agotamiento"), el cuerpo se daña más cuando está cansado, porque el músculo agota sus reservas y el sistema nervioso aumenta la acción nerviosa, sobrecargando el organismo.
+- Según Mosso (_La ley del agotamiento_), el cuerpo se daña más cuando está cansado, porque el músculo agota sus reservas y el sistema nervioso aumenta la acción nerviosa, sobrecargando el organismo.
 - La fatiga afecta dos áreas:
   - Central o nerviosa (voluntad y control).
   - Periférica (trabajo químico dentro de las fibras musculares).
