@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitarra/Tema 1. Historia General de la Guitarra.md",
+                "file": "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 1. Historia General de la Guitarra"
+              "title": "Outline of Tema 4. Técnicas de concienciación corporal"
             }
           },
           {
@@ -204,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,10 +223,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "00922dddf15c3987",
+  "active": "4c6aae0b20b71264",
   "lastOpenFiles": [
-    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
     "Guitarra/TEMA 4.pdf",
+    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
     "Guitarra/Tema 3. Características sonoras del instrumento.md",
     "Guitarra/TEMA 31 y 32.pdf",
     "Guitarra/oposiciones temas.pdf",

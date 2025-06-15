@@ -204,6 +204,28 @@ Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendim
   - La efectividad técnica depende de la conexión entre mente y músculos, según Ivan Galamian:  
     > “La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.”  
 - La Técnica Alexander estimula que la actividad y el movimiento se dirijan desde el cerebro, usando el cuerpo como un todo integrado.
+#### Método Moshe Feldenkrais
+
+- En 1942, Moshe Feldenkrais, físico en Londres, sufrió lesiones graves de rodilla con pronóstico poco alentador.  
+- Los médicos le advirtieron que la cirugía tenía un 50% de éxito y que un fracaso podría dejarlo sin posibilidad de caminar.  
+- Eligió no operarse y decidió investigar neurología, anatomía, biomecánica y desarrollo del movimiento humano.  
+- Su objetivo era crear nuevas conexiones neurológicas entre sistema nervioso y músculos para recuperar la movilidad.  
+- Tras dos años, desarrolló un sistema para mejorar el cuerpo activando el poder natural del cerebro y sistema nervioso.  
+- Continuó explorando la relación cerebro-cuerpo y creó cientos de ejercicios para estimular los centros de aprendizaje del movimiento en el cerebro.  
+
+- El cerebro y sistema nervioso controlan todo el cuerpo.  
+- Los ejercicios revitalizan y mejoran el cuerpo intensificando la comunicación cerebro-cuerpo.  
+- Este proceso se llama **aprendizaje sensorial motor**: combinación de sentidos (vista, oído, equilibrio, tacto) y movimiento.  
+- Se basa en un intercambio continuo de información entre sentidos, músculos y cerebro.  
+- A medida que el cuerpo se mueve, los sentidos envían información sobre posición y actividad muscular al cerebro.  
+- El cerebro detecta y elimina el esfuerzo muscular innecesario, formando patrones coordinados de movimiento.  
+- El proceso ocurre casi sin esfuerzo consciente.
+
+#### Claves para el éxito en los ejercicios:
+1. **Realice movimientos con facilidad:** usar el mínimo esfuerzo, sin tensar ni estirar.  
+2. **Haga movimientos lentos:** para notar sensaciones y detectar tensiones innecesarias.  
+3. **Relájese:** intente expulsar la tensión al moverse.  
+4. **Descanse entre movimientos:** para que el cerebro asimile la nueva información sensorial y motriz.  
 
 ### El control de la respiración  
 ### El control mental  
