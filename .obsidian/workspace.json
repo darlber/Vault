@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+                "file": "Guitarra/Tema 2. La guitarra moderna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 4. Técnicas de concienciación corporal"
+              "title": "Tema 2. La guitarra moderna"
             }
           }
         ]
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+                "file": "Guitarra/Tema 2. La guitarra moderna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 4. Técnicas de concienciación corporal"
+              "title": "Outline of Tema 2. La guitarra moderna"
             }
           },
           {
@@ -226,9 +226,11 @@
   },
   "active": "c3b6f9d45434337f",
   "lastOpenFiles": [
-    "Guitarra/TEMA 4.pdf",
+    "Guitarra/Tema 1. Historia General de la Guitarra.md",
     "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+    "Guitarra/Tema 2. La guitarra moderna.md",
     "Guitarra/Tema 3. Características sonoras del instrumento.md",
+    "Guitarra/TEMA 4.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
     "Guitarra/oposiciones temas.pdf",
     "Guitarra/0. Temas Oposiciones.md",
@@ -240,8 +242,6 @@
     "Guitarra/TEMA 22.pdf",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/Nmap Checklist.md",
-    "Guitarra/Tema 1. Historia General de la Guitarra.md",
-    "Guitarra/Tema 2. La guitarra moderna.md",
     "Peculiaridades derivadas del modo de producción del sonido.md",
     "CyberTesting/XXE.md",
     "Tema 2. La guitarra moderna.md",

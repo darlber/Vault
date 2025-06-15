@@ -380,4 +380,4 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 
 - Thompson, Kevin H.: “La respiración circular”. *Brass Bulletin*, n.º 69 (pp. 84–87), I/1990.
 
-- Wiener, Jean Christophe: *Es-stamp, maestro de la escucha* - 12ª Parte (Apartado de la respiración). *Brass Bulletin*, n.º 100 (pp. 59–67), IV/1997.
+- Wiener, Jean Christophe: *James-stamp, maestro de la escucha* - 1ª Parte (Apartado de la respiración). *Brass Bulletin*, n.º 100 (pp. 59–67), IV/1997.
