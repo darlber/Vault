@@ -329,8 +329,32 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Nunca tocar con dolor; si aparece, parar y hacer estiramientos suaves.
 - Acudir a un especialista si el dolor persiste.
 
-
-
 # Conclusiones
+## 3. Conclusiones
 
+- Las técnicas de concienciación y control corporal, junto con todo lo relativo a la salud del instrumentista, deben ser un tratamiento específico dentro de las aulas de instrumento, al mismo nivel que la técnica y el repertorio.
+
+- Estas técnicas tienen una importancia trascendental para la formación completa del alumno y su desarrollo profesional futuro.
+
+- Deben integrarse de forma transversal en el desarrollo de las unidades didácticas a lo largo de todo el curso, para que el alumno las interiorice de manera natural desde las primeras etapas hasta el nivel profesional.
+
+- Así se asegura que la carrera instrumental no se vea afectada por problemas físicos o emocionales derivados de una mala práctica interpretativa.
+
+- Algunos aspectos tratados están directamente relacionados con la mejora técnica del instrumento y la adquisición de competencias que permitirán a los alumnos mejorar como intérpretes.
+
+- El inicio de los estudios instrumentales suele darse en edades tempranas, cuando los niños están en fase de crecimiento; por eso es fundamental el aprendizaje de:
+  - Una correcta posición corporal.
+  - El control y la relajación del cuerpo.
+  
+  Esto contribuye a la salud física y el bienestar personal del alumnado.
+
+- En el plano psicológico, también es importante actuar, aplicando técnicas para mejorar:
+  - El manejo de las emociones.
+  - El autoconocimiento.
+  - El autocontrol.
+  - La salud psicológica de los intérpretes en general.
+
+- Esto conlleva una mejora en la calidad artística y musical de las interpretaciones.
+
+- En resumen, salud y mejora técnica son aspectos íntimamente relacionados que deben abordarse conjuntamente en el aula de instrumento.
 # Bibliografía
