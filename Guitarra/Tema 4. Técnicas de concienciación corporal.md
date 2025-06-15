@@ -1,12 +1,12 @@
 # Relajación física y mental, concentración, hábitos posturales, respiración, control y visualización mental, miedo escénico. Aspectos anatómicos y fisiomecánicos más importantes en relación con la técnica de la guitarra. Colocación del cuerpo y del instrumento.
 ## Índice:
-1. [Técnicas de concienciación corporal: relajación física y mental, concentración, hábitos posturales, respiración, control y visualización mental, miedo escénico](#Técnicas%20de%20concienciación%20corporal%20relajación%20física%20y%20mental,%20concentración,%20hábitos%20posturales,%20respiración,%20control%20y%20visualización%20mental,%20miedo%20escénico)
-   1.1. [La importancia de las técnicas de concienciación corporal en los estudios musicales](#La%20importancia%20de%20las%20técnicas%20de%20concienciación%20corporal%20en%20los%20estudios%20musicales)  
+1. [Técnicas de concienciación corporal: relajación física y mental, concentración, hábitos posturales, respiración, control y visualización mental, miedo escénico](#Técnicas%20de%20concienciación%20corporal%20relajación%20física%20y%20mental,%20concentración,%20hábitos%20posturales,%20respiración,%20control%20y%20visualización%20mental,%20miedo%20escénico)  
+   1.1. [La importancia de las técnicas de concienciación corporal en los estudios musicales](#La%20importancia%20de%20las%20técnicas%20de%20concienciación%20corporal%20en%20los%20estudios%20musicales)    
    1.2. [Breve análisis de cada una de las técnicas de concienciación corporal](#Breve%20análisis%20de%20cada%20una%20de%20las%20técnicas%20de%20concienciación%20corporal)  
       A) [La respiración](#La%20respiración)
       B) [Relajación física y mental](#Relajación%20física%20y%20mental)  
       C) [Hábitos posturales](#Hábitos%20posturales)  
-      D) [El control de la respiración](#El%20control%20de%20la%20respiración)  
+      D) [Concentración mental](#Concentración%20mental)]
       E) [La visualización mental](#La%20visualización%20mental)  
       F) [La superación del miedo escénico](#La%20superación%20del%20miedo%20escénico)  
 
@@ -290,6 +290,46 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
   - Modificando pensamientos automáticos negativos se pueden cambiar las reacciones emocionales.
 
 # Consecuencias de la ausencia de concienciación corporal
+### Consecuencias físicas:
+- Aparición de dolor y fatiga muscular.
+- La actividad muscular continuada provoca fatiga, causada por el fallo parcial o total del músculo para responder adecuadamente.
+- Según Mosso ("La ley del agotamiento"), el cuerpo se daña más cuando está cansado, porque el músculo agota sus reservas y el sistema nervioso aumenta la acción nerviosa, sobrecargando el organismo.
+- La fatiga afecta dos áreas:
+  - Central o nerviosa (voluntad y control).
+  - Periférica (trabajo químico dentro de las fibras musculares).
+- Continuar con actividad muscular cansada no solo reduce la eficacia mecánica sino que genera daño orgánico.
+- Dolor muscular es un aviso de intoxicación causada por anemia muscular y flujo sanguíneo insuficiente.
+- El exceso de horas y repeticiones mecánicas sin concienciación puede producir lesiones como calambres, tendinitis y dolores articulares.
+### Consecuencias psicológicas:
+- Problemas para controlar la ansiedad.
+### Tratamiento y prevención mediante concienciación corporal:
+
+**Objetivo:** Mejorar condiciones del organismo a través de la concienciación corporal.
+
+- Conocer los movimientos mecánicos que subyacen en la técnica instrumental.
+- Dominar conscientemente todos los movimientos activos.
+- Desarrollar elasticidad y tono muscular.
+- Diferenciar movimientos conscientes (activos) de movimientos pasivos (reflejos).
+- Entender que el dominio técnico también requiere reflexión, no solo repetición mecánica.
+### Buenas prácticas para evitar lesiones:
+
+- Realizar estiramientos y calentamientos antes y después de tocar para reducir tensión y mejorar coordinación.
+- Evitar aumentos bruscos en las horas de ensayo; introducir incrementos de forma progresiva.
+- Estudiar pasajes difíciles en la mitad de la sesión, cuando la musculatura está preparada pero no agotada.
+- Comenzar con velocidad lenta y aumentar la dificultad gradualmente.
+- No insistir en repeticiones mecánicas sin resultados; buscar alternativas.
+- Hacer pausas de 5-10 minutos con estiramientos musculares cada hora aproximadamente.
+- Mantener una postura corporal correcta:
+  - Apoyo equilibrado de pies.
+  - Buena postura sentado.
+  - Trabajar la respiración.
+  - Ajustar altura de silla y atril.
+- Estudiar en un ambiente adecuado con buena iluminación y ventilación.
+- Practicar actividad física complementaria, evitando deportes de contacto.
+- Nunca tocar con dolor; si aparece, parar y hacer estiramientos suaves.
+- Acudir a un especialista si el dolor persiste.
+
+
 
 # Conclusiones
 
