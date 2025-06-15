@@ -6,7 +6,7 @@
       {
         "id": "9f1195f8d478cf6d",
         "type": "tabs",
-        "dimension": 58.94097222222222,
+        "dimension": 53.125,
         "children": [
           {
             "id": "c3b6f9d45434337f",
@@ -27,8 +27,20 @@
       {
         "id": "18794436849ec12c",
         "type": "tabs",
-        "dimension": 41.05902777777778,
+        "dimension": 46.875,
         "children": [
+          {
+            "id": "00922dddf15c3987",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Guitarra/TEMA 4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TEMA 4"
+            }
+          },
           {
             "id": "2650dba43d0738e3",
             "type": "leaf",
@@ -196,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,9 +226,9 @@
   },
   "active": "c3b6f9d45434337f",
   "lastOpenFiles": [
-    "Guitarra/Tema 3. Características sonoras del instrumento.md",
-    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
     "Guitarra/TEMA 4.pdf",
+    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+    "Guitarra/Tema 3. Características sonoras del instrumento.md",
     "Guitarra/TEMA 31 y 32.pdf",
     "Guitarra/oposiciones temas.pdf",
     "Guitarra/0. Temas Oposiciones.md",
@@ -225,7 +238,6 @@
     "Guitarra/TEMA 27.pdf",
     "Guitarra/TEMA 25.pdf",
     "Guitarra/TEMA 22.pdf",
-    "Guitarra/TEMA 20-21.pdf",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/Nmap Checklist.md",
     "Guitarra/Tema 1. Historia General de la Guitarra.md",
