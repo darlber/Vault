@@ -9,7 +9,6 @@
       - D) [Concentración mental](#Concentración%20mental)  
       - E) [La visualización mental](#La%20visualización%20mental)  
       - F) [La superación del miedo escénico](#La%20superación%20del%20miedo%20escénico)  
-
 2. [Consecuencias de la ausencia de concienciación corporal](#Consecuencias%20de%20la%20ausencia%20de%20concienciación%20corporal)  
 3. [Conclusiones](#Conclusiones)  
 4. [Bibliografía](#Bibliografía)  
