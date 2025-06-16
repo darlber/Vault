@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fdbfd10fad86bf0a",
+        "id": "09e0968e3dc4ef63",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec3894830c582ba",
+            "id": "bd6b722b8461e374",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "CyberTesting/Assets/Excalidraw/Authentication.md"
+                "file": "Guitarra/Tema 5. La técnica de la guitarra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Authentication"
+              "icon": "lucide-file",
+              "title": "Tema 5. La técnica de la guitarra"
             }
           }
         ]
@@ -164,14 +166,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0ec3894830c582ba",
+  "active": "bd6b722b8461e374",
   "lastOpenFiles": [
+    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+    "Guitarra/Tema 3. Características sonoras del instrumento.md",
+    "Guitarra/Tema 5. La técnica de la guitarra.md",
+    "CyberTesting/Assets/Excalidraw/Authentication.md",
     "CyberTesting/XXE.md",
     "Guitarra/TEMA 10-15.pdf",
     "Guitarra/0. Temas Oposiciones.md",
-    "2025-06-15.md",
-    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
-    "Guitarra/Tema 5. La técnica de la guitarra.md",
-    "Guitarra/Tema 3. Características sonoras del instrumento.md"
+    "2025-06-15.md"
   ]
 }
