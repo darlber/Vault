@@ -45,12 +45,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+                "file": "2025-06-17.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Tema 7. Evolución de las diferentes escuelas y métodos"
+              "title": "2025-06-17"
             }
           }
         ]
@@ -223,16 +233,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c3b6f9d45434337f",
+  "active": "51a85dc643c5adde",
   "lastOpenFiles": [
+    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+    "2025-06-17.md",
+    "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
     "Guitarra/TEMA 7-10.pdf",
     "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
-    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
     "Guitarra/0. Temas Oposiciones.md",
     "Guitarra/Tema 2. La guitarra moderna.md",
-    "2025-06-17.md",
-    "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
     "Guitarra/99.OCR TEMA 5-7.pdf",
     "Guitarra/Tema 5. La técnica de la guitarra.md",
     "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
@@ -247,7 +257,6 @@
     "Guitarra/TEMA 29 y 30.pdf",
     "Guitarra/TEMA 28.pdf",
     "Guitarra/TEMA 27.pdf",
-    "Guitarra/TEMA 25.pdf",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/Nmap Checklist.md",
     "Peculiaridades derivadas del modo de producción del sonido.md",
