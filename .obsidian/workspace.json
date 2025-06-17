@@ -12,15 +12,12 @@
             "id": "50a53175c9820fb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Guitarra/TEMA 19-25.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tema 7. Evolución de las diferentes escuelas y métodos"
+              "icon": "lucide-file-text",
+              "title": "TEMA 19-25"
             },
             "group": "28c833757968d739"
           }
@@ -35,15 +32,12 @@
             "id": "51a85dc643c5adde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Guitarra/TEMA 19-25.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tema 7. Evolución de las diferentes escuelas y métodos"
+              "icon": "lucide-file-text",
+              "title": "TEMA 19-25"
             },
             "group": "28c833757968d739"
           }
@@ -219,28 +213,29 @@
   },
   "active": "51a85dc643c5adde",
   "lastOpenFiles": [
-    "2025-06-17.md",
-    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
-    "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
+    "Guitarra/TEMA 18-19.pdf",
+    "Guitarra/TEMA 16-18.pdf",
+    "Guitarra/TEMA 10-15.pdf",
     "Guitarra/TEMA 7-10.pdf",
-    "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
-    "CyberTesting/Assets/Excalidraw/Authentication.md",
-    "Guitarra/0. Temas Oposiciones.md",
-    "Guitarra/Tema 2. La guitarra moderna.md",
-    "Guitarra/99.OCR TEMA 5-7.pdf",
-    "Guitarra/Tema 5. La técnica de la guitarra.md",
-    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
-    "Guitarra/Tema 3. Características sonoras del instrumento.md",
-    "Guitarra/Tema 1. Historia General de la Guitarra.md",
-    "Guitarra/oposiciones temas.pdf",
-    "2025-06-15.md",
     "Guitarra/TEMA 33 y 34.pdf",
-    "Guitarra/TEMA 5-7.pdf",
-    "Guitarra/TEMA 4.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
     "Guitarra/TEMA 29 y 30.pdf",
     "Guitarra/TEMA 28.pdf",
     "Guitarra/TEMA 27.pdf",
+    "Guitarra/TEMA 25.pdf",
+    "Guitarra/TEMA 22.pdf",
+    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+    "2025-06-17.md",
+    "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
+    "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
+    "CyberTesting/Assets/Excalidraw/Authentication.md",
+    "Guitarra/0. Temas Oposiciones.md",
+    "Guitarra/Tema 2. La guitarra moderna.md",
+    "Guitarra/Tema 5. La técnica de la guitarra.md",
+    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+    "Guitarra/Tema 3. Características sonoras del instrumento.md",
+    "Guitarra/Tema 1. Historia General de la Guitarra.md",
+    "2025-06-15.md",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/Nmap Checklist.md",
     "Peculiaridades derivadas del modo de producción del sonido.md",
