@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+                "file": "Guitarra/0. Temas Oposiciones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
+              "title": "0. Temas Oposiciones"
             },
             "group": "28c833757968d739"
           }
@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+                "file": "Guitarra/0. Temas Oposiciones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
+              "title": "0. Temas Oposiciones"
             },
             "group": "28c833757968d739"
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calendar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,15 +220,14 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6f55113ba7900dc8",
+  "active": "50a53175c9820fb4",
   "lastOpenFiles": [
+    "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Guitarra/0. Temas Oposiciones.md",
     "2025-06-17.md",
-    "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
     "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
