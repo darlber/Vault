@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 7. Evolución de las diferentes escuelas y métodos"
+              "title": "Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
             },
             "group": "28c833757968d739"
           }
@@ -37,30 +37,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 7. Evolución de las diferentes escuelas y métodos"
+              "title": "Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
             },
             "group": "28c833757968d739"
-          },
-          {
-            "id": "fd9931d2790c2b3e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Guitarra/TEMA 7-10.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TEMA 7-10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
+                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 6. La técnica moderna de la guitarra"
+              "title": "Outline of Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
             }
           },
           {
@@ -230,9 +217,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fd9931d2790c2b3e",
+  "active": "6f55113ba7900dc8",
   "lastOpenFiles": [
     "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+    "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+    "Guitarra/0. Temas Oposiciones.md",
+    "Guitarra/Tema 1. Historia General de la Guitarra.md",
+    "Guitarra/Tema 3. Características sonoras del instrumento.md",
+    "Guitarra/Tema 2. La guitarra moderna.md",
+    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+    "Guitarra/Tema 5. La técnica de la guitarra.md",
+    "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
     "Guitarra/TEMA 7-10.pdf",
     "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
@@ -244,15 +239,8 @@
     "Guitarra/TEMA 20-21.pdf",
     "Guitarra/TEMA 19-25.pdf",
     "2025-06-17.md",
-    "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
     "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
-    "Guitarra/0. Temas Oposiciones.md",
-    "Guitarra/Tema 2. La guitarra moderna.md",
-    "Guitarra/Tema 5. La técnica de la guitarra.md",
-    "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
-    "Guitarra/Tema 3. Características sonoras del instrumento.md",
-    "Guitarra/Tema 1. Historia General de la Guitarra.md",
     "2025-06-15.md",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/Nmap Checklist.md",

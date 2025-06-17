@@ -170,3 +170,17 @@ Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica d
 
 # Bibliografía
 #TODO 
+- Bianconi, Lorenzo. _Historia de la música, 5. El siglo XVII_. Ciudad: Editorial, 1986.
+- Buelow, George. _A History of Baroque Music_. Ciudad: Editorial, 2004.
+- Esses, Maurice. _Dance and Instrumental Diferencias in Spain During the 17th and Early 18th centuries: History and background, music and dance_. Ciudad: Editorial, 1992.
+- Hall, Monica. _Guitarra barroca extendida: un estudio de la evidencia_. Ciudad: Editorial, 2010.
+- Hill, John W. _La música barroca. Música en Europa Occidental_. Ciudad: Editorial, 2008.
+- Iborra, Alcaraz. _La guitarra: Historia, organología y repertorio_. Ciudad: Editorial, 2010.
+- Jacobs, Charles. _Introduction to Miguel de Fuenllana: Orphénica Lyra_. Ciudad: Editorial, 1978.
+- Mudarra, Alonso. _Tres libros de música en cifras: para vihuela_. Ciudad: Editorial, 1546.
+- Neuman, Hans Federico. _Introducción a la música española del Renacimiento_. Ciudad: Editorial, 1990.
+- Radole, Giuseppe. _Laúd, guitarra y vihuela_. Ciudad: Editorial, 1982.
+- Reese, Gustave. _Music in the Renaissance_. Ciudad: Editorial, 1954.
+- Rubio, Samuel. _Historia de la música española. Vol 2. Desde el Ars Nova hasta 1600_. Ciudad: Editorial, 1983.
+- Turnbull, Harvey. _The Guitar from the Renaissance to the present day_. Ciudad: Editorial, 1976.
+- Wade, Graham. _Traditions of the classical guitar_. Ciudad: Editorial, 1953.
