@@ -67,7 +67,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "calendar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,18 +99,9 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "d589bcdfb2736b1d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SGE/SGE 4.md",
+                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SGE 4"
+              "title": "Backlinks for Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
             }
           },
           {
@@ -149,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSP/Firmar Jar.md",
+                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Firmar Jar"
+              "title": "Outgoing links from Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
             }
           },
           {
@@ -190,15 +181,29 @@
           {
             "id": "6f55113ba7900dc8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3f45806a2358e3fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,14 +219,18 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6f55113ba7900dc8",
+  "active": "4c6aae0b20b71264",
   "lastOpenFiles": [
-    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
-    "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Guitarra/0. Temas Oposiciones.md",
+    "2025-06-17.md",
+    "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+    "CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
+    "Guitarra/TEMA 33 y 34.pdf",
+    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
     "Guitarra/Tema 1. Historia General de la Guitarra.md",
     "Guitarra/Tema 3. Características sonoras del instrumento.md",
     "Guitarra/Tema 2. La guitarra moderna.md",
@@ -229,7 +238,6 @@
     "Guitarra/Tema 5. La técnica de la guitarra.md",
     "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
     "Guitarra/TEMA 7-10.pdf",
-    "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
     "Guitarra/TEMA 29 y 30.pdf",
     "Guitarra/TEMA 28.pdf",
@@ -238,7 +246,6 @@
     "Guitarra/TEMA 22.pdf",
     "Guitarra/TEMA 20-21.pdf",
     "Guitarra/TEMA 19-25.pdf",
-    "2025-06-17.md",
     "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "2025-06-15.md",
@@ -257,7 +264,6 @@
     "().md",
     "Exploit-db.md",
     "CyberTesting/Assets/Excalidraw/Networking drawings.md",
-    "CyberTesting/Assets/Excalidraw/Deserialization.md",
     "CyberTesting/Assets/Images/Web/SQLi/time-delays.png",
     "CyberTesting/Assets/Images/Web/SQLi/substring.png",
     "CyberTesting/Assets/Images/Web/SQLi/string-concatenation.png",
