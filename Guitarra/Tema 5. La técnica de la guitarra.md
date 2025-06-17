@@ -86,12 +86,12 @@ La pulsación con los dedos **índice, medio y anular** sigue un proceso de **cu
 - Su **ubicación** dependerá de la **posición de la mano** con respecto a las **divisiones del diapasón**, permitiendo una técnica precisa y sin tensiones.
 # Bibliografía 
 #TODO
-- Aguado, Dionisio. _Nuevo método para guitarra_. 1843.
-- Carlevaro, Abel. _Cuaderno n°21: Escalas diatónicas_.
-- Carlevaro, Abel. _Cuaderno n°22: Técnica de la mano derecha_.
-- Carlevaro, Abel. _Cuaderno n°23: Técnica de la mano izquierda_.
-- Carlevaro, Abel. _Cuaderno n°24: Técnica de la mano izquierda_.
-- Carlevaro, Abel. _Escuela de la guitarra: Exposición de la teoría instrumental_.
-- Farias, Joaquín. _Guía práctica de ergonomía musical: Técnica de la guitarra clásica. Biomecánica y prevención de lesiones_. 2010.
-- Pujol, Emilio. _Escuela razonada de la guitarra_, vol. 1 (1934), vol. 2 (1937), vol. 3 (1954), vol. 4 (1971).
-- Sáenz, Juan José. _Diccionario técnico de la guitarra_. 2000.
+- Aguado, Dionisio. _Nuevo método para guitarra_. Madrid: Editorial Clásica, 1843.
+- Carlevaro, Abel. _Cuaderno n° 21: Escalas diatónicas_. Montevideo: Editorial Música, s.f.
+- Carlevaro, Abel. _Cuaderno n° 22: Técnica de la mano derecha_. Montevideo: Editorial Música, s.f.
+- Carlevaro, Abel. _Cuaderno n° 23: Técnica de la mano izquierda_. Montevideo: Editorial Música, s.f.
+- Carlevaro, Abel. _Cuaderno n° 24: Técnica de la mano izquierda_. Montevideo: Editorial Música, s.f.
+- Carlevaro, Abel. _Escuela de la guitarra, exposición de la teoría instrumental_. Montevideo: Editorial Música, s.f.
+- Farías, Joaquín. _Guía práctica de ergonomía musical: Técnica de la guitarra clásica. Biomecánica y prevención de lesiones_. Buenos Aires: Editorial Música y Salud, 2010.
+- Pujol, Emilio. _Escuela Razonada de la Guitarra_. Vols. 1–4. Barcelona: Editorial Clásica, 1934–1971.
+- Sáenz, Juan José. _Diccionario técnico de la guitarra_. Barcelona: Editorial Instrumentos, 2000.

@@ -12,7 +12,6 @@
 2. [Consecuencias de la ausencia de concienciación corporal](#Consecuencias%20de%20la%20ausencia%20de%20concienciación%20corporal)  
 3. [Conclusiones](#Conclusiones)  
 4. [Bibliografía](#Bibliografía)  
-
 # Técnicas de concienciación corporal: relajación física y mental, concentración, hábitos posturales, respiración, control y visualización mental, miedo escénico
 La **concienciación corporal** es un concepto utilizado en campos como la psicología, la pedagogía, la medicina y las artes, que hace referencia a un estado de atención física y mental en el que el individuo es capaz de percibir lo que ocurre en su cuerpo —tanto a nivel físico como emocional— y responder de forma eficiente.
 

@@ -6,7 +6,6 @@
 2. [Mantenimiento, conservación y accesorios](#Mantenimiento,%20conservación%20y%20accesorios)
 3. [Aspectos fundamentales en la elección del instrumento](#Aspectos%20fundamentales%20en%20la%20elección%20del%20instrumento)
 4. [Bibliografía](#Bibliografía)
-
 # Descripción de sus elementos característicos. Introducción
 Gracias a Antonio de Torres, considerado el padre de la guitarra moderna, se establecieron importantes avances en la construcción del instrumento. Entre ellos destacan:
 - Fijación del tiro en 650 mm.
