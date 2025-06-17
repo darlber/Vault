@@ -166,6 +166,7 @@
           {
             "id": "4c6aae0b20b71264",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "outline",
               "state": {
@@ -174,6 +175,7 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
+              "pinned": true,
               "icon": "lucide-list",
               "title": "Outline of Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
             }
@@ -203,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -223,7 +225,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4c6aae0b20b71264",
+  "active": "6f55113ba7900dc8",
   "lastOpenFiles": [
     "Guitarra/0. Temas Oposiciones.md",
     "2025-06-17.md",
