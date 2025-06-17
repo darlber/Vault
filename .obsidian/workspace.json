@@ -6,7 +6,7 @@
       {
         "id": "9f1195f8d478cf6d",
         "type": "tabs",
-        "dimension": 60.182370820668694,
+        "dimension": 59.95045417010735,
         "children": [
           {
             "id": "c3b6f9d45434337f",
@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 2. La guitarra moderna.md",
+                "file": "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Tema 2. La guitarra moderna"
+              "title": "Tema 6. La técnica moderna de la guitarra"
             }
           }
         ]
@@ -27,7 +37,7 @@
       {
         "id": "31132460798bf05d",
         "type": "tabs",
-        "dimension": 39.81762917933131,
+        "dimension": 40.04954582989265,
         "children": [
           {
             "id": "51a85dc643c5adde",
@@ -215,16 +225,19 @@
   },
   "active": "c3b6f9d45434337f",
   "lastOpenFiles": [
-    "2025-06-17.md",
-    "Guitarra/Tema 2. La guitarra moderna.md",
+    "Guitarra/TEMA 7-10.pdf",
+    "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
+    "CyberTesting/Assets/Excalidraw/Authentication.md",
+    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
     "Guitarra/0. Temas Oposiciones.md",
+    "Guitarra/Tema 2. La guitarra moderna.md",
+    "2025-06-17.md",
     "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
     "Guitarra/99.OCR TEMA 5-7.pdf",
     "Guitarra/Tema 5. La técnica de la guitarra.md",
     "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
     "Guitarra/Tema 3. Características sonoras del instrumento.md",
     "Guitarra/Tema 1. Historia General de la Guitarra.md",
-    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
     "Guitarra/oposiciones temas.pdf",
     "2025-06-15.md",
     "Guitarra/TEMA 33 y 34.pdf",
@@ -251,8 +264,6 @@
     "Exploit-db.md",
     "CyberTesting/Assets/Excalidraw/Networking drawings.md",
     "CyberTesting/Assets/Excalidraw/Deserialization.md",
-    "Untitled Kanban.md",
-    "CyberTesting/Assets/Excalidraw/Authentication.md",
     "CyberTesting/Assets/Images/Web/SQLi/time-delays.png",
     "CyberTesting/Assets/Images/Web/SQLi/substring.png",
     "CyberTesting/Assets/Images/Web/SQLi/string-concatenation.png",

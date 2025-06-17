@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBuilding2",
+      "LiSheet",
       "LiKeyRound",
       "LiGuitar"
     ],
@@ -38,5 +40,13 @@
   "CyberTesting": {
     "iconName": "LiKeyRound",
     "iconColor": "#386aff"
+  },
+  "CyberTesting/CheatSheets": {
+    "iconName": "LiSheet",
+    "iconColor": "#37ff00"
+  },
+  "CyberTesting/Assets": {
+    "iconName": "LiBuilding2",
+    "iconColor": "#27ab03"
   }
 }
