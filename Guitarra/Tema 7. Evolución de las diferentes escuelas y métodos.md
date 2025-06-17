@@ -120,5 +120,53 @@ El autor más importante es **Gaspar Sanz**, guitarrista turolense, quien escrib
 - Adornos y ligados
 - Técnica de escalas, arpegios y uso de la ceja
 
+**Gaspar Sanz** publicó tres libros fundamentales para la guitarra barroca en **Zaragoza**, en los años:
+- **1674 (Vol. 1)**: Introducción a la música y a la guitarra  
+- **1675 (Vol. 2)**: Recopilación de los principales sones punteados de la época en España  
+- **1697 (Vol. 3)**: Diferencias elaboradas sobre pasacalles compuestas por él mismo  
+
+Estos libros destacan por su organización progresiva y el tratamiento detallado de los estilos de tañido y la técnica interpretativa.
+
+En la **segunda mitad del siglo XVIII** se inicia una nueva etapa en la pedagogía guitarrística, caracterizada por un creciente interés en la publicación de **material didáctico**, sobre todo en **España y Francia**.
+
+España fue el país con mayor actividad editorial en este campo, destacando autores como:
+- **Fernando Ferandiere**
+- **Abreu-Prieto**
+- **Federico Moretti**
+
+Entre ellos, el más relevante fue **Moretti**, quien publicó en **1799** la que se considera la **primera gran obra didáctica** para guitarra de seis órdenes. Esta obra se caracteriza por:
+
+- Un avanzado tratamiento técnico de **escalas y arpegios**
+- Innovadoras propuestas de **pulsación, cadencias y acordes**
+- Precisa descripción de la **posición del instrumento y de las manos**
+- Una **tabla de arpegios** progresiva para **cuatro dedos**, siendo el primer estudio sistemático en este ámbito
+
+Moretti defendía el valor de la guitarra como instrumento con grandes posibilidades **expresivas** y **artísticas**. Su obra influyó directamente en **Fernando Sor** y **Dionisio Aguado**, quienes la usaron como guía para desarrollar sus propios métodos, incluso superando el nivel pedagógico de su predecesor.
+
+>“... yo no he pretendido hablar aquí como matemático, filósofo, aritmético, sino puramente como músico, pareciéndome suficiente una explicación natural, clara y sencilla, de los rudimentos de música y principios de guitarra, para quien la quiera aprender. No solicito otro interés que facilitar a los amadores de la guitarra española el modo de tocarla, pues con estos primeros rudimentos se ahorrarán los maestros de poner a los discípulos muchas lecciones...”
+
+El **método de Fernando Ferandiere**, titulado *Arte de tocar la guitarra española por música*, fue publicado en **1799**, el mismo año que la obra de Moretti. Este tratado tuvo también **gran importancia** en el desarrollo de la pedagogía guitarrística.
+
+Según el propio autor, su método estaba pensado **"única y exclusivamente para enseñar"**, lo que refleja su orientación completamente didáctica. Ferandiere se centró en ofrecer una enseñanza sistemática, accesible y ordenada, siendo uno de los primeros en abordar el aprendizaje de la guitarra **por medio del sistema musical (notación)** y no únicamente mediante tablatura, lo que representaba un avance en términos pedagógicos y académicos.
+
+Su obra se considera un paso clave en la transición hacia una guitarra más académica y profesionalizada, sentando bases que serían aprovechadas y desarrolladas por guitarristas del siglo XIX como **Fernando Sor**.
+
+### Resumen: Método de Antonio Abreu-Víctor Prieto
+
+Antonio Abreu-Víctor Prieto publicó en **1799** su tratado titulado *Escuela para tocar con perfección la guitarra de cinco y seis órdenes*. Este método surge como una **respuesta crítica** a la falta de profundidad técnica de los métodos anteriores.
+
+Desde el prólogo, Abreu-Prieto expresa su **desacuerdo** con los autores que, según él, ofrecían reglas confusas y no trataban adecuadamente la **técnica de la mano derecha**, que consideraba esencial para el dominio de la guitarra:
+
+>“Aunque son muchos y grandes los Maestros que han escrito sobre la guitarra, así antiguos como modernos, y que esto parece había de ser motivo para acobardarme, no obstante, habiendo visto quasi todas sus obras, diré lo que en esto alcance mi corto talento. De los antiguos algunos o los más se proponen dar reglas con laberintos, y otras instrucciones para tocar rasgueado, y dirigir la mano izquierda con dificultosas posturas y sones de aquellos tiempos en que escribieron, sin acordarse apenas de la mano derecha parcial y necesaria, que debe concurrir con su alternativa en los dedos a los primores característicos de la Guitarra. Pues nadie ignora que la mano derecha, hiriendo las cuerdas de la guitarra, substituye el oficio que hace el arco en el Violín, en el Clave las plumas, y en le Fortepiano las muletillas o martinetes.”
+
+Para **solventar este problema**, su obra se estructura en:
+- **Láminas**
+- **Reglas**
+- **Excepciones de regla**
+
+En ellas incluye **consejos prácticos** y **ejercicios técnicos** orientados a la enseñanza progresiva del instrumento. Prieto equipara la función de la mano derecha con la del arco en el violín o los mecanismos de percusión en el clave y fortepiano, subrayando su importancia expresiva.
+
+Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica de **Dionisio Aguado**, quien también abordó con profundidad la técnica de ambas manos, y cuyo método tuvo gran influencia en la consolidación de la escuela guitarrística clásica del siglo XIX.
+
 # Bibliografía
 #TODO 

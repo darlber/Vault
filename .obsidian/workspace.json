@@ -12,12 +12,15 @@
             "id": "50a53175c9820fb4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Guitarra/TEMA 19-25.pdf"
+                "file": "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "TEMA 19-25"
+              "icon": "lucide-file",
+              "title": "Tema 7. Evolución de las diferentes escuelas y métodos"
             },
             "group": "28c833757968d739"
           }
@@ -32,16 +35,32 @@
             "id": "51a85dc643c5adde",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Guitarra/TEMA 19-25.pdf"
+                "file": "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "TEMA 19-25"
+              "icon": "lucide-file",
+              "title": "Tema 7. Evolución de las diferentes escuelas y métodos"
             },
             "group": "28c833757968d739"
+          },
+          {
+            "id": "fd9931d2790c2b3e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Guitarra/TEMA 7-10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TEMA 7-10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,11 +230,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51a85dc643c5adde",
+  "active": "fd9931d2790c2b3e",
   "lastOpenFiles": [
-    "Guitarra/TEMA 18-19.pdf",
-    "Guitarra/TEMA 16-18.pdf",
-    "Guitarra/TEMA 10-15.pdf",
+    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
     "Guitarra/TEMA 7-10.pdf",
     "Guitarra/TEMA 33 y 34.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
@@ -224,7 +241,8 @@
     "Guitarra/TEMA 27.pdf",
     "Guitarra/TEMA 25.pdf",
     "Guitarra/TEMA 22.pdf",
-    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+    "Guitarra/TEMA 20-21.pdf",
+    "Guitarra/TEMA 19-25.pdf",
     "2025-06-17.md",
     "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
     "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
