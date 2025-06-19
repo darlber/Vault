@@ -289,8 +289,6 @@ A continuación, se listan algunos de los documentos más utilizados y estudiado
 - **Escuela de la guitarra** – Abel Carlevaro  
 - **Serie didáctica para guitarra** (Cuadernos 1–4) – Abel Carlevaro  
 - **La técnica de David Russell en 165 consejos** – Antonio de Contreras  
-
-
 ## La técnica de David Russell 
 - Contenido: 165 consejos clasificados por temáticas diversas relacionadas con la técnica guitarrística.
 - Temáticas principales:
