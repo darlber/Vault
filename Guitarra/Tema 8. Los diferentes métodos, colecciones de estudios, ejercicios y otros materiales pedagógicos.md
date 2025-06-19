@@ -275,9 +275,169 @@ El siglo XX también fue testigo de un **cambio de paradigma**: la entrada de la
 Con Emilio Pujol se inicia una **nueva era metodológica** en la enseñanza de la guitarra: rigurosa, académica y profundamente enraizada en la tradición histórica. Su obra, junto con los aportes contemporáneos de Carlevaro, Gilardino, Cardoso y otros, **sentó las bases de la pedagogía guitarrística moderna**, que sigue vigente en conservatorios y universidades del mundo.
 # Métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos
 
+Dada la gran cantidad de métodos y colecciones de estudios disponibles, se recomienda que cada estudiante:
+
+- Lea los **métodos más relevantes**.
+- Elabore **fichas comparativas** para identificar qué método o ejercicio es más adecuado para trabajar distintos aspectos de la técnica (mano derecha e izquierda).
+
+### Métodos y materiales seleccionados como ejemplo
+
+A continuación, se listan algunos de los documentos más utilizados y estudiados en la pedagogía guitarrística:
+
+- **Nuevo método para guitarra** – Dionisio Aguado  
+- **Escuela razonada de la guitarra** (Vols. 1–4) – Emilio Pujol  
+- **Escuela de la guitarra** – Abel Carlevaro  
+- **Serie didáctica para guitarra** (Cuadernos 1–4) – Abel Carlevaro  
+- **La técnica de David Russell en 165 consejos** – Antonio de Contreras  
+
+
 ## La técnica de David Russell 
+- Contenido: 165 consejos clasificados por temáticas diversas relacionadas con la técnica guitarrística.
+- Temáticas principales:
+  - Técnica mecánica general
+  - Mano izquierda: vibrato, ligados, arrastres, cejilla, esfuerzo de la mano, entre otros.
+  - Mano derecha: arpegios, trinos, colocación del brazo, uso de dedos (con consejos específicos para cada dedo), timbre.
+  - Coordinación entre ambas manos
+  - Sonido, fraseo y acentuación
+  - Técnicas de estudio y presentación
+- Características:
+  - Compilación de consejos que Antonio de Contreras recibió de David Russell.
+  - No incluye ejercicios prácticos, a diferencia de otros métodos.
+  - Enfocado en ofrecer recomendaciones útiles y prácticas para mejorar la técnica.
+
 ## Escuela razonada de la guitarra (Volúmenes 1-4), de Emilio Pujol 
+
+### Escuela razonada de la guitarra – Emilio Pujol
+
+Obra en **cuatro volúmenes**, con una gran cantidad de consejos, explicaciones y ejercicios, basada en la técnica de **Francisco Tárrega**, así como en métodos anteriores como los de **Aguado**.
+
+> “Escuela razonada de la guitarra basada en los principios de la técnica de Tárrega”
+
+#### Volumen 1 – Contenido
+
+En este primer volumen **no se incluyen ejercicios**, ya que todo el contenido es **teórico**. Se presenta información accesible para estudiantes de todos los niveles.
+
+##### Temas tratados:
+
+- **Partes de la guitarra** y sus cualidades (incluidas las cuerdas)
+- **Colocación adecuada** del instrumento
+- **Psicología del guitarrista**
+- **Técnicas de estudio**
+- Explicación sobre:
+  - **Intervalos**
+  - **Sonidos equivalentes (equísonos)**
+  - **Escritura musical para guitarra**
+  - **Digitación**
+  - **Producción del sonido**
+  - **Colocación y uso de ambas manos**
+- **Pequeño glosario** final
+
+El enfoque de Pujol combina **rigor pedagógico** con un lenguaje accesible, sirviendo como **base teórica fundamental** antes de abordar los ejercicios prácticos en los siguientes volúmenes.
+### Segundo volumen – Escuela razonada de la guitarra (Emilio Pujol)
+
+Este volumen combina teoría y práctica, y aunque incluye conceptos para principiantes, desarrolla progresivamente aspectos técnicos más avanzados.
+
+#### Contenidos principales:
+
+- **Afinación de la guitarra**, con consejos detallados
+- **Ejercicios para la mano derecha**:
+  - Pulsación con dedos índice, medio y pulgar (individual y combinada)
+  - Ritmos y patrones en una y varias cuerdas
+- **Consejos y ejercicios para la mano izquierda**:
+  - Movilidad y cambios de posición
+  - Trabajo con líneas melódicas e intervalos
+- **Sincronización de ambas manos**
+- **Técnicas avanzadas**:
+  - Arpegios ascendentes y descendentes
+  - Ligados
+  - Armónicos naturales
+- **Numerosos estudios** para aplicar las técnicas aprendidas
+
+El volumen inicia con un enfoque mayor en la mano derecha y gradualmente incorpora ejercicios para la mano izquierda y el trabajo coordinado de ambas manos.
+
+---
+
+### Tercer volumen – Escuela razonada de la guitarra (Emilio Pujol)
+
+Se centra en el perfeccionamiento y la ampliación técnica, con énfasis en la movilidad y expresión musical.
+
+#### Contenidos principales:
+
+- Ejercicios avanzados de **alternancia de dedos** para ambas manos
+- Consejos sobre la **cejilla (“ceja”)** y la **extensión de la mano izquierda**
+- Ejercicios para trabajar **arpegios complejos** (más notas y cuerdas)
+- Gran cantidad de ejercicios progresivos para **ligados** de varios tipos y dificultades
+- Introducción a técnicas expresivas como:
+  - Apoyaturas
+  - Mordentes
+  - Vibrato
+  - Armónicos
+- Último tercio dedicado a **estudios complementarios**, cada uno precedido de una breve explicación
+
+Este volumen enfatiza la integración de técnica y musicalidad, preparando al guitarrista para un dominio más profundo del instrumento.
+
+## 2.4. Cuarto volumen – Escuela razonada de la guitarra (Emilio Pujol)
+
+Este último libro se enfoca en la **virtuosidad** general, integrando técnica y musicalidad sin centrarse en un solo aspecto.
+
+### Contenidos principales:
+
+- Ejercicios para:
+  - Independencia, movilidad y flexibilidad de los dedos
+  - Escalas, arpegios y digitaciones con muchas combinaciones
+- Técnicas específicas:
+  - Trémolo (por primera vez en esta serie)
+  - Ligados variados
+  - Pizzicatos
+  - Rasgueados
+  - Sonoridades imitativas
+- Consejos para la **interpretación y fraseo**
+- Último cuarto dedicado a nuevos **estudios complementarios**
 ## Escuela de la guitarra, de Abel Carlevaro
+
+Método dirigido en parte a principiantes, con énfasis en la postura y técnica al servicio del arte.
+#### Contenidos principales:
+
+- Colocación del cuerpo e instrumento: tronco, piernas, brazos y manos
+- Explicaciones detalladas sobre:
+  - Relajación y prevención de fatiga muscular
+  - Técnica como medio para el arte
+- Mano derecha:
+  - Funciones de cada dedo
+  - Colocación y limado de uñas
+  - Dirección del ataque y diferenciación de voces
+- Mano izquierda:
+  - Posición correcta y función del pulgar
+  - Descanso de dedos y posiciones de “presentación”
+  - Desplazamientos longitudinal y transversal
+- Escalas: consejos para correcta ejecución y estudio
+- Técnicas expresivas:
+  - Apagadores
+  - Vibrato
 ## Serie didáctica para guitarra (Cuadernos 1-4), de Abel Carlevaro 
+
+Esta serie está compuesta principalmente por ejercicios con breves explicaciones, divididos según aspectos técnicos específicos:
+
+### Cuaderno 1: Escalas diatónicas
+- Páginas: ~10
+- Contenido: Ejercicios para trabajar escalas diatónicas
+- Incluye: Cambios de posición
+
+### Cuaderno 2: Técnica de la mano derecha
+- Páginas: ~50
+- Contenido: Ejercicios variados para la mano derecha
+- Técnicas: combinaciones como anular con pulgar, pulgar con medio, pulgar con índice, variaciones rítmicas
+- Última parte: Ejercicios para elasticidad y acordes repetidos
+
+### Cuaderno 3: Técnica de la mano izquierda (traslado de la mano izquierda en el diapasón)
+- Páginas: primeras 7 páginas teóricas
+- Contenido teórico: consejos sobre presentación y movimientos de la mano izquierda
+- Ejercicios: cambios de posición y sustituciones de dedos
+
+### Cuaderno 4: Técnica de la mano izquierda (conclusión)
+- Contenido: Ejercicios diversos para la mano izquierda
+- Técnicas trabajadas: ligados (varios tipos), trinos, traslado longitudinal y transversal de dedos, ejercicios con dedos fijos
+- Enfoque: cuaderno casi totalmente dedicado a ejercicios
+
 # Bibliografía
 #TODO
