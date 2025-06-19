@@ -12,12 +12,15 @@
             "id": "50a53175c9820fb4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Guitarra/attachments/Pasted image 20250619132810.png"
+                "file": "Guitarra/Tema 1. Historia General de la Guitarra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250619132810"
+              "icon": "lucide-file",
+              "title": "Tema 1. Historia General de la Guitarra"
             },
             "group": "c8bdb6489fdeeff6"
           }
@@ -32,12 +35,15 @@
             "id": "79aea9cc8ee52617",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Guitarra/attachments/Pasted image 20250619132810.png"
+                "file": "Guitarra/Tema 1. Historia General de la Guitarra.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250619132810"
+              "icon": "lucide-file",
+              "title": "Tema 1. Historia General de la Guitarra"
             },
             "group": "c8bdb6489fdeeff6"
           },
@@ -229,12 +235,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "50a53175c9820fb4",
+  "active": "79aea9cc8ee52617",
   "lastOpenFiles": [
+    "Guitarra/attachments/Pasted image 20250619132810.png",
     "Guitarra/attachments/Pasted image 20250619133049.png",
     "Guitarra/attachments/Pasted image 20250619133043.png",
     "Guitarra/attachments/Pasted image 20250619132903.png",
-    "Guitarra/attachments/Pasted image 20250619132810.png",
     "Guitarra/TEMA 7-10.pdf",
     "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Guitarra/0. Temas Oposiciones.md",
