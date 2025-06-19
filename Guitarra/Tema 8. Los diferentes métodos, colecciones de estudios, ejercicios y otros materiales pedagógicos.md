@@ -439,61 +439,32 @@ Esta serie está compuesta principalmente por ejercicios con breves explicacione
 
 # Bibliografía
 #TODO  
-
-Aguado, Dionisio. _Método de guitarra_, vol. 1, 2 y 3. Ciudad: Editorial, año #TODO.
-
-———. _Nuevo método para guitarra_. Ciudad: Editorial, año #TODO.
-
-Arenas, Mario Rodríguez. _La Escuela de la Guitarra_, libros 1 al 7. Ciudad: Editorial, año #TODO.
-
-Brouwer, Leo. _20 Estudios sencillos_. Ciudad: Editorial, año #TODO.
-
-———. _Nuevos estudios sencillos_. Ciudad: Editorial, año #TODO.
-
-Cano, Antonio. _Método Abreviado de Guitarra_. Ciudad: Editorial, año #TODO.
-
-Carcassi, Matteo. _25 Etudes op. 60 for the classical guitar_. Ciudad: Editorial, año #TODO.
-
-Carlevaro, Abel. _Escuela de la guitarra. Exposición de la teoría instrumental_. Ciudad: Editorial, año #TODO.
-
-———. _Serie didáctica para guitarra_, vol. 1-4. Ciudad: Editorial, año #TODO.
-
-Coste, Napoleón. _25 Etudes for guitar Op. 38_. Ciudad: Editorial, año #TODO.
-
-Gilardino, Angelo. _Estudi di virtuositá e di trascendenza_. Ciudad: Editorial, año #TODO.
-
-Giuliani, Mauro. _24 Estudios para guitarra_. Ciudad: Editorial, año #TODO.
-
-———. _La Mariposa_. Ciudad: Editorial, año #TODO.
-
-Moretti, Federico. _Principios para tocar la guitarra de seis órdenes_. Ciudad: Editorial, año #TODO.
-
-Molino, François. _Nouvelle Méthode pour la Guitare_. Ciudad: Editorial, año #TODO.
-
-Pujol, Emilio. _Escuela razonada de la guitarra_, vol. 1-4. Ciudad: Editorial, año #TODO.
-
-Rodríguez, Mario. _La Escuela de la Guitarra_, libros 1-7. Ciudad: Editorial, año #TODO.
-
-Russell, David. _La técnica de David Russell en 165 consejos_. Ciudad: Editorial, año #TODO.
-
-Sagreras, Julio Salvador. _Las Primeras Lecciones de Guitarra_ (1-6). Ciudad: Editorial, año #TODO.
-
-Segovia, Andrés. _Preludios y estudios_. Ciudad: Editorial, año #TODO.
-
-Sor, Fernando. _Colecciones de estudios op. 6, 29, 31, 35..._. Ciudad: Editorial, año #TODO.
-
-———. _24 pequeñas piezas progresivas op. 44_. Ciudad: Editorial, año #TODO.
-
-———. _Método para la guitarra_ (1830). Ciudad: Editorial, año #TODO.
-
-Tenant, Scott. _Pumping Nylon_. Ciudad: Editorial, año #TODO.
-
-Tárrega, Francisco. _25 Estudios originales para guitarra_. Ciudad: Editorial, año #TODO.
-
-———. _30 Estudios para grado elemental_. Ciudad: Editorial, año #TODO.
-
-———. _35 Estudios originales para guitarra_. Ciudad: Editorial, año #TODO.
-
-Villalobos, Heitor. _12 Estudios para guitarra_. Ciudad: Editorial, año #TODO.
-
-Suzuki. _Suzuki Guitar_, volúmenes 1 al 9. Ciudad: Editorial, año #TODO.
+- Aguado, Dionisio. _Método de guitarra_, vol. 1, 2 y 3. Ciudad: Editorial, año #TODO.
+- ———. _Nuevo método para guitarra_. Ciudad: Editorial, año #TODO.
+- Arenas, Mario Rodríguez. _La Escuela de la Guitarra_, libros 1 al 7. Ciudad: Editorial, año #TODO.
+- Brouwer, Leo. _20 Estudios sencillos_. Ciudad: Editorial, año #TODO.
+- ———. _Nuevos estudios sencillos_. Ciudad: Editorial, año #TODO.
+- Cano, Antonio. _Método Abreviado de Guitarra_. Ciudad: Editorial, año #TODO.
+- Carcassi, Matteo. _25 Etudes op. 60 for the classical guitar_. Ciudad: Editorial, año #TODO.
+- Carlevaro, Abel. _Escuela de la guitarra. Exposición de la teoría instrumental_. Ciudad: Editorial, año #TODO.
+- ———. _Serie didáctica para guitarra_, vol. 1-4. Ciudad: Editorial, año #TODO.
+- Coste, Napoleón. _25 Etudes for guitar Op. 38_. Ciudad: Editorial, año #TODO.
+- Gilardino, Angelo. _Estudi di virtuositá e di trascendenza_. Ciudad: Editorial, año #TODO.
+- Giuliani, Mauro. _24 Estudios para guitarra_. Ciudad: Editorial, año #TODO.
+- ———. _La Mariposa_. Ciudad: Editorial, año #TODO.
+- Moretti, Federico. _Principios para tocar la guitarra de seis órdenes_. Ciudad: Editorial, año #TODO.
+- Molino, François. _Nouvelle Méthode pour la Guitare_. Ciudad: Editorial, año #TODO.
+- Pujol, Emilio. _Escuela razonada de la guitarra_, vol. 1-4. Ciudad: Editorial, año #TODO.
+- Rodríguez, Mario. _La Escuela de la Guitarra_, libros 1-7. Ciudad: Editorial, año #TODO.
+- Russell, David. _La técnica de David Russell en 165 consejos_. Ciudad: Editorial, año #TODO.
+- Sagreras, Julio Salvador. _Las Primeras Lecciones de Guitarra_ (1-6). Ciudad: Editorial, año #TODO.
+- Segovia, Andrés. _Preludios y estudios_. Ciudad: Editorial, año #TODO.
+- Sor, Fernando. _Colecciones de estudios op. 6, 29, 31, 35..._. Ciudad: Editorial, año #TODO.
+- ———. _24 pequeñas piezas progresivas op. 44_. Ciudad: Editorial, año #TODO.
+- ———. _Método para la guitarra_ (1830). Ciudad: Editorial, año #TODO.
+- Tenant, Scott. _Pumping Nylon_. Ciudad: Editorial, año #TODO.
+- Tárrega, Francisco. _25 Estudios originales para guitarra_. Ciudad: Editorial, año #TODO.
+- ———. _30 Estudios para grado elemental_. Ciudad: Editorial, año #TODO.
+- ———. _35 Estudios originales para guitarra_. Ciudad: Editorial, año #TODO.
+- Villalobos, Heitor. _12 Estudios para guitarra_. Ciudad: Editorial, año #TODO.
+- Suzuki. _Suzuki Guitar_, volúmenes 1 al 9. Ciudad: Editorial, año #TODO.
