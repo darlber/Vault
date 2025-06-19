@@ -156,10 +156,10 @@ Estas afinaciones coinciden con las del laúd renacentista.
   - Mínima  
   - Semimínima  
   - Corchea  
-  - Semicorchea
-![](attachments/Pasted%20image%2020250619132810.png)
-Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos
-![](attachments/Pasted%20image%2020250619132903.png)
+  - Semicorchea  
+![](attachments/Pasted%20image%2020250619132810.png)    
+Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos  
+![](attachments/Pasted%20image%2020250619132903.png)  
 Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina teblatura francesa. Se diferenciaba principalmente de la italiana en el orden de las cuerdas, que era el mismo que usaba Milán y además en la utilización de letras en vez de números para indicar los trastes.
 # Criterios de transcripción y edición
 - **Uso de fuentes originales**:
@@ -186,9 +186,9 @@ Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guita
        - **Mínima** → **Negra**
        - **Semimínima** → **Corchea**
        - **Fusa** → **Semicorchea**
-       - **Semifusa** → **Fusa**
-![](attachments/Pasted%20image%2020250619133043.png)
-![](attachments/Pasted%20image%2020250619133049.png)
+       - **Semifusa** → **Fusa**  
+![](attachments/Pasted%20image%2020250619133043.png)  
+![](attachments/Pasted%20image%2020250619133049.png)  
 
 - **Precauciones en la transcripción**:
   - La **reducción de figuras** rítmicas puede generar **problemas de acentuación** si no se maneja correctamente.
