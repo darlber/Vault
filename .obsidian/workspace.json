@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/0. Temas Oposiciones.md",
+                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0. Temas Oposiciones"
+              "title": "Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
             },
             "group": "28c833757968d739"
           }
@@ -37,17 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/0. Temas Oposiciones.md",
+                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0. Temas Oposiciones"
+              "title": "Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
             },
             "group": "28c833757968d739"
+          },
+          {
+            "id": "87d51719032cf085",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Guitarra/TEMA 7-10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TEMA 7-10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,6 +238,7 @@
   },
   "active": "50a53175c9820fb4",
   "lastOpenFiles": [
+    "Guitarra/TEMA 7-10.pdf",
     "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Guitarra/0. Temas Oposiciones.md",
     "2025-06-17.md",
@@ -237,7 +251,6 @@
     "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
     "Guitarra/Tema 5. La técnica de la guitarra.md",
     "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
-    "Guitarra/TEMA 7-10.pdf",
     "Guitarra/TEMA 31 y 32.pdf",
     "Guitarra/TEMA 29 y 30.pdf",
     "Guitarra/TEMA 28.pdf",
@@ -263,7 +276,6 @@
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "().md",
     "Exploit-db.md",
-    "CyberTesting/Assets/Excalidraw/Networking drawings.md",
     "CyberTesting/Assets/Images/Web/SQLi/time-delays.png",
     "CyberTesting/Assets/Images/Web/SQLi/substring.png",
     "CyberTesting/Assets/Images/Web/SQLi/string-concatenation.png",
