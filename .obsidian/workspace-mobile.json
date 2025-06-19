@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 5. La técnica de la guitarra.md",
-                "mode": "source",
-                "source": false
+                "file": "Guitarra/Tema 9. El repertorio de vihuela, su estilo y notación.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 5. La técnica de la guitarra"
+              "title": "Tema 9. El repertorio de vihuela, su estilo y notación"
             }
           }
         ]
@@ -49,7 +50,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#TODO",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +87,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "557f8d7601646967",
@@ -149,9 +150,19 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "8069515dc814d195",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +179,49 @@
   },
   "active": "bd6b722b8461e374",
   "lastOpenFiles": [
+    "Guitarra/0. Temas Oposiciones.md",
+    "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+    "Guitarra/Tema 1. Historia General de la Guitarra.md",
+    "Guitarra/Tema 9. El repertorio de vihuela, su estilo y notación.md",
+    "Guitarra/TEMA 7-10.pdf",
+    "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+    "CyberTesting/Assets/Images/Networking/Mesh Topology.png",
+    "Guitarra/Tema 5. La técnica de la guitarra.md",
+    "Guitarra/attachments/Pasted image 20250619133049.png",
+    "Guitarra/attachments/Pasted image 20250619133043.png",
+    "Guitarra/attachments/Pasted image 20250619132903.png",
+    "Guitarra/attachments/Pasted image 20250619132810.png",
+    "Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+    "Guitarra/Tema 6. La técnica moderna de la guitarra.md",
+    "/Guitarra/attachments/Pasted image 20250619133049.png",
+    "/Guitarra/attachments/Pasted image 20250619133043.png",
+    "/Guitarra/attachments/Pasted image 20250619132903.png",
+    "/Guitarra/attachments/Pasted image 20250619132810.png",
+    "/Guitarra/Tema 9. El repertorio de vihuela, su estilo y notación.md",
+    "/Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+    "/Guitarra/Tema 7. Evolución de las diferentes escuelas y métodos.md",
+    "/Guitarra/Tema 6. La técnica moderna de la guitarra.md",
+    "/Guitarra/Tema 5. La técnica de la guitarra.md",
+    "/Guitarra/Tema 4. Técnicas de concienciación corporal.md",
+    "/Guitarra/Tema 3. Características sonoras del instrumento.md",
+    "/Guitarra/Tema 2. La guitarra moderna.md",
+    "/Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+    "/Guitarra/Tema 1. Historia General de la Guitarra.md",
+    "/Guitarra/TEMA 7-10.pdf",
+    "/Guitarra/0. Temas Oposiciones.md",
+    "/CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
+    "/CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
+    "/CyberTesting/Assets/Excalidraw",
+    "/CyberTesting/Assets",
+    "/CyberTesting",
+    "Guitarra/attachments",
+    "/Guitarra/attachments",
+    "/Guitarra",
+    "2025-06-19.md",
     "Guitarra/Tema 4. Técnicas de concienciación corporal.md",
     "Guitarra/Tema 3. Características sonoras del instrumento.md",
-    "Guitarra/Tema 5. La técnica de la guitarra.md",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "CyberTesting/XXE.md",
-    "Guitarra/TEMA 10-15.pdf",
-    "Guitarra/0. Temas Oposiciones.md",
-    "2025-06-15.md"
+    "Guitarra/TEMA 10-15.pdf"
   ]
 }
