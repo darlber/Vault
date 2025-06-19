@@ -438,7 +438,8 @@ Esta serie está compuesta principalmente por ejercicios con breves explicacione
 - Enfoque: cuaderno casi totalmente dedicado a ejercicios
 
 # Bibliografía
-#TODO
+#TODO  
+
 Aguado, Dionisio. _Método de guitarra_, vol. 1, 2 y 3. Ciudad: Editorial, año #TODO.
 
 ———. _Nuevo método para guitarra_. Ciudad: Editorial, año #TODO.
