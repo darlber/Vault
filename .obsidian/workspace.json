@@ -48,19 +48,18 @@
             "group": "c8bdb6489fdeeff6"
           },
           {
-            "id": "87d51719032cf085",
+            "id": "3e00838528b51263",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Guitarra/TEMA 7-10.pdf"
+                "file": "Guitarra/TEMA 10-15.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "TEMA 7-10"
+              "title": "TEMA 10-15"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,9 +238,10 @@
   },
   "active": "50a53175c9820fb4",
   "lastOpenFiles": [
-    "Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
-    "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Guitarra/TEMA 7-10.pdf",
+    "Guitarra/TEMA 10-15.pdf",
+    "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+    "Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Guitarra/Tema 06. La técnica moderna de la guitarra.md",
