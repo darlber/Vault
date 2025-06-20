@@ -46,21 +46,8 @@
               "title": "0. Temas Oposiciones"
             },
             "group": "c8bdb6489fdeeff6"
-          },
-          {
-            "id": "566d6cdc12237109",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Guitarra/tema 10-12 OCR.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "tema 10-12 OCR"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,14 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "pinned": true,
               "icon": "lucide-list",
-              "title": "Outline of Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
+              "title": "Outline"
             }
           },
           {
@@ -221,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +222,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "566d6cdc12237109",
+  "active": "6f55113ba7900dc8",
   "lastOpenFiles": [
+    "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Guitarra/0. Temas Oposiciones.md",
     "Guitarra/tema 10-12 OCR.pdf",
-    "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Guitarra/TEMA 7-10.pdf",
     "Guitarra/TEMA 10-15.pdf",
     "Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
