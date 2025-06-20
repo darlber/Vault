@@ -3,5 +3,7 @@
   "accentColor": "#7f0b0b",
   "cssTheme": "",
   "showRibbon": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "interfaceFontFamily": "",
+  "baseFontSize": 16
 }
