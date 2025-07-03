@@ -15,7 +15,7 @@
               "state": {
                 "file": "Guitarra/Programación Didáctica.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
