@@ -2,8 +2,7 @@
 Author: Alberto Serradilla
 Date: 2025-07-01
 ---
-Concurso-oposición para ingreso en el Cuerpo de Profesores de Música y Artes Escénicas, turno libre. Especialidad: Guitarra. Comunidad de Madrid
-
+Concurso-oposición para ingreso en el Cuerpo de Profesores de Música y Artes Escénicas, turno libre. Especialidad: Guitarra. Comunidad de Madrid.  {{date}}
 **CONTENIDO**
 1. [INTRODUCCIÓN](#INTRODUCCIÓN)  
 2. [Normativa aplicable](#Normativa%20aplicable)  
@@ -31,7 +30,7 @@ Concurso-oposición para ingreso en el Cuerpo de Profesores de Música y Artes E
 		2. [Unidad 7. Renacimiento y Barroco: estilo, articulación y ornamentación.](#Unidad%207.%20Renacimiento%20y%20Barroco%20estilo,%20articulación%20y%20ornamentación.)
 		3. [Unidad 8. Repertorio del Clasicismo y Romanticismo.](#Unidad%208.%20Repertorio%20del%20Clasicismo%20y%20Romanticismo.)  
 		4. [Unidad 9. Siglo XX, etapa moderna y música contemporánea española.](#Unidad%209.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20española.)  
-		5. [Unidad 10. Siglo XX, etapa moderna y música contemporánea internacional.](#Unidad%2010.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20internacional.)  
+		5. [Unidad 10. Siglo XX, etapa moderna y música contemporánea internacional.](#Unidad%2010.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20internacional.) 
 	3. [Bloque III – Herramientas complementarias para la formación integral](#Bloque%20III%20–%20Herramientas%20complementarias%20para%20la%20formación%20integral)  
 		1. [Unidad 11. Improvisación, armonía y recursos contemporáneos en la guitarra.](#Unidad%2011.%20Improvisación,%20armonía%20y%20recursos%20contemporáneos%20en%20la%20guitarra.)  
 		2. [Unidad 12. Lectura a vista y ejercicios complementarios de agilidad visual.](#Unidad%2012.%20Lectura%20a%20vista%20y%20ejercicios%20complementarios%20de%20agilidad%20visual.)  
