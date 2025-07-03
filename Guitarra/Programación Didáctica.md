@@ -5,46 +5,45 @@ Date: 2025-07-01
 Concurso-oposición para ingreso en el Cuerpo de Profesores de Música y Artes Escénicas, turno libre. Especialidad: Guitarra. Comunidad de Madrid
 
 **CONTENIDO**
-
-
 [INTRODUCCIÓN](#INTRODUCCIÓN)  
 [Normativa aplicable](#Normativa%20aplicable)  
-[Normativa estatal](#Normativa%20estatal)  
-[Normativa autonómica](#Normativa%20autonómica)  
+	[Normativa estatal](#Normativa%20estatal)  
+	[Normativa autonómica](#Normativa%20autonómica)  
 [OBJETIVOS](#OBJETIVOS)  
-[Objetivos Generales de las Enseñanzas Profesionales de Música](#Objetivos%20Generales%20de%20las%20Enseñanzas%20Profesionales%20de%20Música)  
-[Objetivos Específicos de las Enseñanzas Profesionales de Música](#Objetivos%20Específicos%20de%20las%20Enseñanzas%20Profesionales%20de%20Música)  
-[Objetivos Específicos de Guitarra](#Objetivos%20Específicos%20de%20Guitarra)  
+	[Objetivos Generales de las Enseñanzas Profesionales de Música](#Objetivos%20Generales%20de%20las%20Enseñanzas%20Profesionales%20de%20Música)  
+	[Objetivos Específicos de las Enseñanzas Profesionales de Música](#Objetivos%20Específicos%20de%20las%20Enseñanzas%20Profesionales%20de%20Música)  
+	[Objetivos Específicos de Guitarra](#Objetivos%20Específicos%20de%20Guitarra)  
 [COMPETENCIAS](#COMPETENCIAS)  
 [CONTENIDOS](#CONTENIDOS)  
-[Temporalización y Secuenciación](#Temporalización%20y%20Secuenciación)  
+	[Temporalización y Secuenciación](#Temporalización%20y%20Secuenciación)  
 [METODOLOGÍA](#METODOLOGÍA)  
-[Formato y desarrollo de las clases](#Formato%20y%20desarrollo%20de%20las%20clases)  
+	[Formato y desarrollo de las clases](#Formato%20y%20desarrollo%20de%20las%20clases)  
 [DESTINATARIOS](#DESTINATARIOS)  
 [UNIDADES DIDÁCTICAS](#UNIDADES%20DIDÁCTICAS)  
-[Bloque I – Bases físicas, cognitivas y metodológicas del instrumentista](#Bloque%20I%20–%20Bases%20físicas,%20cognitivas%20y%20metodológicas%20del%20instrumentista)  
-[Unidad 1. Ergonomía y técnica instrumental: postura, movimiento y digitación.](#<u>Unidad%201.%20Ergonomía%20y%20técnica%20instrumental%20postura,%20movimiento%20y%20digitación.</u>)
-[Unidad 2. Hábitos de estudio y organización del trabajo diario.](#Unidad%202.%20Hábitos%20de%20estudio%20y%20organización%20del%20trabajo%20diario.)  
-[Unidad 3. La memoria en la música: auditiva, visual, motora, analítico y armónica, emotiva.](#Unidad%203.%20La%20memoria%20en%20la%20música:%20auditiva,%20visual,%20motora,%20analítico%20y%20armónica,%20emotiva.)  
-[Unidad 4. Instrumento y su mantenimiento. Pulsación y Proyección.](#Unidad%204.%20Instrumento%20y%20su%20mantenimiento.%20Pulsación%20y%20Proyección.)  
-[Unidad 5 Presencia escénica y control en la interpretación en vivo.](#Unidad%205%20Presencia%20escénica%20y%20control%20en%20la%20interpretación%20en%20vivo.)  
-[Bloque II – Estética, estilos e interpretación del repertorio](#Bloque%20II%20–%20Estética,%20estilos%20e%20interpretación%20del%20repertorio)  
-[Unidad 6. Estudios técnicos y expresivos en la formación del guitarrista](#Unidad%206.%20Estudios%20técnicos%20y%20expresivos%20en%20la%20formación%20del%20guitarrista)  
-[Unidad 7. Renacimiento y Barroco: estilo, articulación y ornamentación](#Unidad%207.%20Renacimiento%20y%20Barroco:%20estilo,%20articulación%20y%20ornamentación)  
-[Unidad 8. Repertorio del Clasicismo y Romanticismo.](#Unidad%208.%20Repertorio%20del%20Clasicismo%20y%20Romanticismo.)  
-[Unidad 9. Siglo XX, etapa moderna y música contemporánea española.](#Unidad%209.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20española.)  
-[Unidad 10. Siglo XX, etapa moderna y música contemporánea internacional.](#Unidad%2010.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20internacional.)  
-[Bloque III – Herramientas complementarias para la formación integral](#Bloque%20III%20–%20Herramientas%20complementarias%20para%20la%20formación%20integral)  
-[Unidad 11. Improvisación, armonía y recursos contemporáneos en la guitarra.](#Unidad%2011.%20Improvisación,%20armonía%20y%20recursos%20contemporáneos%20en%20la%20guitarra.)  
-[Unidad 12. Lectura a vista y ejercicios complementarios de agilidad visual.](#Unidad%2012.%20Lectura%20a%20vista%20y%20ejercicios%20complementarios%20de%20agilidad%20visual.)  
+	[Bloque I – Bases físicas, cognitivas y metodológicas del instrumentista](#Bloque%20I%20–%20Bases%20físicas,%20cognitivas%20y%20metodológicas%20del%20instrumentista)  
+		[Unidad 1. Ergonomía y técnica instrumental: postura, movimiento y digitación.](#Unidad%201.%20Ergonomía%20y%20técnica%20instrumental:%20postura,%20movimiento%20y%20digitación.)  
+		[Unidad 2. Hábitos de estudio y organización del trabajo diario.](#Unidad%202.%20Hábitos%20de%20estudio%20y%20organización%20del%20trabajo%20diario.)  
+		[Unidad 3. La memoria en la música: auditiva, visual, motora, analítico y armónica, emotiva.](#Unidad%203.%20La%20memoria%20en%20la%20música:%20auditiva,%20visual,%20motora,%20analítico%20y%20armónica,%20emotiva.)  
+		[Unidad 4. Instrumento y su mantenimiento. Pulsación y Proyección.](#Unidad%204.%20Instrumento%20y%20su%20mantenimiento.%20Pulsación%20y%20Proyección.)  
+		[Unidad 5 Presencia escénica y control en la interpretación en vivo.](#Unidad%205%20Presencia%20escénica%20y%20control%20en%20la%20interpretación%20en%20vivo.)  
+	[Bloque II – Estética, estilos e interpretación del repertorio](#Bloque%20II%20–%20Estética,%20estilos%20e%20interpretación%20del%20repertorio)  
+		[Unidad 6. Estudios técnicos y expresivos en la formación del guitarrista](#Unidad%206.%20Estudios%20técnicos%20y%20expresivos%20en%20la%20formación%20del%20guitarrista)  
+		[Unidad 7. Renacimiento y Barroco: estilo, articulación y ornamentación](#Unidad%207.%20Renacimiento%20y%20Barroco:%20estilo,%20articulación%20y%20ornamentación)  
+		[Unidad 8. Repertorio del Clasicismo y Romanticismo.](#Unidad%208.%20Repertorio%20del%20Clasicismo%20y%20Romanticismo.)  
+		[Unidad 9. Siglo XX, etapa moderna y música contemporánea española.](#Unidad%209.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20española.)  
+		[Unidad 10. Siglo XX, etapa moderna y música contemporánea internacional.](#Unidad%2010.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20internacional.)  
+	[Bloque III – Herramientas complementarias para la formación integral](#Bloque%20III%20–%20Herramientas%20complementarias%20para%20la%20formación%20integral)  
+		[Unidad 11. Improvisación, armonía y recursos contemporáneos en la guitarra.](#Unidad%2011.%20Improvisación,%20armonía%20y%20recursos%20contemporáneos%20en%20la%20guitarra.)  
+		[Unidad 12. Lectura a vista y ejercicios complementarios de agilidad visual.](#Unidad%2012.%20Lectura%20a%20vista%20y%20ejercicios%20complementarios%20de%20agilidad%20visual.)  
 [EVALUACIÓN](#EVALUACIÓN)  
-[Criterios de evaluación](#Criterios%20de%20evaluación)  
-[Instrumentos de evaluación](#Instrumentos%20de%20evaluación)  
-[Rúbrica](#Rúbrica)  
+	[Criterios de evaluación](#Criterios%20de%20evaluación)  
+	[Instrumentos de evaluación](#Instrumentos%20de%20evaluación)  
+	[Rúbrica](#Rúbrica)  
 [USO DE LAS NUEVAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN](#USO%20DE%20LAS%20NUEVAS%20TECNOLOGÍAS%20DE%20LA%20INFORMACIÓN%20Y%20COMUNICACIÓN)  
 [ATENCIÓN A LA DIVERSIDAD](#ATENCIÓN%20A%20LA%20DIVERSIDAD)  
 [BIBLIOGRAFÍA](#BIBLIOGRAFÍA)  
 [ANEXO I](#ANEXO%20I)  
+
 
 # INTRODUCCIÓN
 
@@ -1046,7 +1045,7 @@ que se conoce a sí mismo —física y mentalmente— y que sabe cómo
 estudiar, recordar y comunicar desde el escenario, está preparado para
 desarrollar plenamente su potencial artístico.
 
-### <u>Unidad 1. Ergonomía y técnica instrumental: postura, movimiento y digitación.</u> 
+### Unidad 1. Ergonomía y técnica instrumental: postura, movimiento y digitación.
 
 Esta unidad se centra en los aspectos físicos fundamentales para la
 ejecución guitarrística: la postura, el control corporal y las técnicas
@@ -1128,7 +1127,7 @@ y anular; alternancia entre anular, corazón e índice; o figueta
 para un contexto determinado. El alumno finalmente escogerá de la lista
 presentada aquella que mejor solucione la cuestión.
 
-### <u>Unidad 2. Hábitos de estudio y organización del trabajo diario.</u>
+### Unidad 2. Hábitos de estudio y organización del trabajo diario.
 
 Esta unidad aborda los elementos organizativos, mentales y físicos que
 inciden en la eficacia del estudio musical. Se propone dotar al
