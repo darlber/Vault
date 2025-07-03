@@ -21,14 +21,14 @@ Concurso-oposición para ingreso en el Cuerpo de Profesores de Música y Artes E
 [DESTINATARIOS](#DESTINATARIOS)  
 [UNIDADES DIDÁCTICAS](#UNIDADES%20DIDÁCTICAS)  
 	[Bloque I – Bases físicas, cognitivas y metodológicas del instrumentista](#Bloque%20I%20–%20Bases%20físicas,%20cognitivas%20y%20metodológicas%20del%20instrumentista)  
-		[Unidad 1. Ergonomía y técnica instrumental: postura, movimiento y digitación.](#Unidad%201.%20Ergonomía%20y%20técnica%20instrumental:%20postura,%20movimiento%20y%20digitación.)  
+		[Unidad 1. Ergonomía y técnica instrumental: postura, movimiento y digitación.](#Unidad%201.%20Ergonomía%20y%20técnica%20instrumental%20postura,%20movimiento%20y%20digitación.)
 		[Unidad 2. Hábitos de estudio y organización del trabajo diario.](#Unidad%202.%20Hábitos%20de%20estudio%20y%20organización%20del%20trabajo%20diario.)  
-		[Unidad 3. La memoria en la música: auditiva, visual, motora, analítico y armónica, emotiva.](#Unidad%203.%20La%20memoria%20en%20la%20música:%20auditiva,%20visual,%20motora,%20analítico%20y%20armónica,%20emotiva.)  
+		[Unidad 3. La memoria en la música: auditiva, visual, motora, analítico y armónica, emotiva.](#Unidad%203.%20La%20memoria%20en%20la%20música%20auditiva,%20visual,%20motora,%20analítico%20y%20armónica,%20emotiva.)  
 		[Unidad 4. Instrumento y su mantenimiento. Pulsación y Proyección.](#Unidad%204.%20Instrumento%20y%20su%20mantenimiento.%20Pulsación%20y%20Proyección.)  
 		[Unidad 5 Presencia escénica y control en la interpretación en vivo.](#Unidad%205%20Presencia%20escénica%20y%20control%20en%20la%20interpretación%20en%20vivo.)  
 	[Bloque II – Estética, estilos e interpretación del repertorio](#Bloque%20II%20–%20Estética,%20estilos%20e%20interpretación%20del%20repertorio)  
 		[Unidad 6. Estudios técnicos y expresivos en la formación del guitarrista](#Unidad%206.%20Estudios%20técnicos%20y%20expresivos%20en%20la%20formación%20del%20guitarrista)  
-		[Unidad 7. Renacimiento y Barroco: estilo, articulación y ornamentación](#Unidad%207.%20Renacimiento%20y%20Barroco:%20estilo,%20articulación%20y%20ornamentación)  
+		[Unidad 7. Renacimiento y Barroco: estilo, articulación y ornamentación.](#Unidad%207.%20Renacimiento%20y%20Barroco%20estilo,%20articulación%20y%20ornamentación.)
 		[Unidad 8. Repertorio del Clasicismo y Romanticismo.](#Unidad%208.%20Repertorio%20del%20Clasicismo%20y%20Romanticismo.)  
 		[Unidad 9. Siglo XX, etapa moderna y música contemporánea española.](#Unidad%209.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20española.)  
 		[Unidad 10. Siglo XX, etapa moderna y música contemporánea internacional.](#Unidad%2010.%20Siglo%20XX,%20etapa%20moderna%20y%20música%20contemporánea%20internacional.)  
@@ -1190,7 +1190,7 @@ tratados. Además, el propio alumno deberá realizar un ejercicio de
 estudio en el aula y evaluar sus hábitos, proponiendo soluciones o
 nuevas interrogantes.
 
-### <u>Unidad 3. La memoria en la música: auditiva, visual, motora, analítico y armónica, emotiva.</u>
+### Unidad 3. La memoria en la música: auditiva, visual, motora, analítico y armónica, emotiva.
 
 Esta unidad abordará la memoria y sus tipos. Como interactúan estos en
 cada fase del aprendizaje y como la comprensión de estos procesos en la
@@ -1235,7 +1235,7 @@ afecta directamente al sentimiento de auto-seguridad sobre el escenario.
 El alumno después identificará los tipos de memoria que mejor responden
 y que menos son afectados por la *ansiedad*.
 
-### <u>Unidad 4. Instrumento y su mantenimiento. Pulsación y Proyección.</u>
+### Unidad 4. Instrumento y su mantenimiento. Pulsación y Proyección.
 
 <span id="_Toc202210392" class="anchor"></span>El instrumento necesita
 de unas condiciones específicas para una proyección y limpieza sonora
@@ -1391,7 +1391,7 @@ El alumno interpretará el estudio o estudios y junto al profesor,
 realizarán una crítica constructiva, definiendo parámetros que necesiten
 especial atención en función de la ejecución y necesidades del alumno.
 
-### Unidad 7. Renacimiento y Barroco: estilo, articulación y ornamentación
+### Unidad 7. Renacimiento y Barroco: estilo, articulación y ornamentación.
 
 La historia del instrumento que conocemos hoy día como «guitarra» tiene
 sus raíces en la vihuela y el repertorio renacentista, con un profundo
