@@ -140,7 +140,6 @@
           {
             "id": "4c6aae0b20b71264",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "outline",
               "state": {
@@ -148,7 +147,6 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "pinned": true,
               "icon": "lucide-list",
               "title": "Outline"
             }
