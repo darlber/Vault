@@ -1,8 +1,8 @@
 ---
 Author: Alberto Serradilla
-Date: 2025-07-01
+Date: {{date:YYYY-MM-DD}}
 ---
-Concurso-oposición para ingreso en el Cuerpo de Profesores de Música y Artes Escénicas, turno libre. Especialidad: Guitarra. Comunidad de Madrid.  {{date}}
+Concurso-oposición para ingreso en el Cuerpo de Profesores de Música y Artes Escénicas, turno libre. Especialidad: Guitarra. Comunidad de Madrid.  
 **CONTENIDO**
 1. [INTRODUCCIÓN](#INTRODUCCIÓN)  
 2. [Normativa aplicable](#Normativa%20aplicable)  
