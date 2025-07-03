@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitarra/Tema 04. Técnicas de concienciación corporal.md",
+                "file": "Guitarra/Programación Didáctica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 04. Técnicas de concienciación corporal"
+              "title": "Programación Didáctica"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "50a53175c9820fb4",
   "lastOpenFiles": [
-    "Programación Didáctica.md",
     "Guitarra/Tema 04. Técnicas de concienciación corporal.md",
+    "Guitarra/Programación Didáctica.md",
+    "Programación Didáctica.md",
     "Guitarra/0. Temas Oposiciones.md",
     "Guitarra/TEMA 20-21.pdf",
     "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
@@ -241,7 +242,6 @@
     "CyberTesting/attachments/Pasted image 20250609093942.png",
     "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/CheatSheets/Nmap.md",
-    "CyberTesting/CheatSheets/Linux.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "CyberTesting/Assets/Images/Web/SQLi/time-delays.png",
     "CyberTesting/Assets/Images/Web/SQLi/substring.png",
