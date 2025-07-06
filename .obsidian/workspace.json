@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Guitarra/Programación Didáctica.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
