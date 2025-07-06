@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"50c8b942852c49a8","type":"file","file":"Chemistry/attachments/periodic.png","x":-460,"y":-460,"width":400,"height":225},
+		{"id":"66325bd820ca9308","type":"file","file":"Chemistry/attachments/valency.png","x":-459,"y":-220,"width":399,"height":207}
+	],
+	"edges":[
+		{"id":"006eb8b921488937","fromNode":"50c8b942852c49a8","fromSide":"bottom","toNode":"66325bd820ca9308","toSide":"top"}
+	]
+}

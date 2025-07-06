@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAtom",
       "LiBuilding2",
       "LiSheet",
       "LiKeyRound",
@@ -48,5 +49,6 @@
   "CyberTesting/Assets": {
     "iconName": "LiBuilding2",
     "iconColor": "#27ab03"
-  }
+  },
+  "Chemistry": "LiAtom"
 }
