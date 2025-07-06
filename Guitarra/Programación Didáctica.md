@@ -821,6 +821,7 @@ visual.</td>
 </table>
 
 # METODOLOGÍA
+#TODO Primera clase no cuenta 
 
 Dentro del Decreto 30/2007, se elabora un apartado denominado
 «Principios metodológicos», el cual establece ocho pequeños apartados
