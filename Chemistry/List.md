@@ -59,6 +59,55 @@
 - [Metallurgy Lectures (IIS)](https://www.youtube.com/watch?v=ZcUuNZMHvYo&list=PLbMVogVj5nJSSIbW1F1yo5B7f8pDTiQ0b)
 - [Biotechnology Lectures (IIS)](https://www.youtube.com/watch?v=kODZbXr7pHs&list=PLbMVogVj5nJQlfWAdnEg4GVq_CIJSd2hB)
 
----
+- __[Inorganic Chemistry - 107 (UCIrvine)](https://www.youtube.com/watch?v=OUj4j6td1es)__
+- __[Co-ordination Chemistry/Chemistry of the Transition Elements (IIS)](https://www.youtube.com/watch?v=BZ_tY88o0oI&index=1&list=PLbMVogVj5nJTWU1tCPCtLBaiWNsJRAiZZ)__
+- __[Bio-Inorganic Chemistry (IIS)](https://www.youtube.com/watch?v=lsNalwRnaq0&list=PLbMVogVj5nJSHhL_cMKfzLv556ddrIT90&index=3)__
 
-If you want, I can help you convert this list into a nicely formatted Obsidian vault note with links and tags for easy navigation. Would you like me to do that?
+**Computational Chemistry**
+- __[Scientific Computing Skills - 5 (UCIrvine)](https://www.youtube.com/watch?v=sAfZeueovi0&list=PLqOZ6FD_RQ7mcZfYTRhu1P8hPTizewI_x&index=1)__
+- __[Computational Techniques (IIS)](https://www.youtube.com/watch?v=zT83sJ5IrEE&list=PL42204FB1209D0EC3)__
+
+**Medicinal/Pharmaceutical Chemistry**
+- __[Organic Reactions and Pharmaceuticals - 14D (UCLA)](https://www.youtube.com/watch?v=nBBWhBSFC1Q&list=PL4BE4AAFBFECDB2F8)__
+
+**Polymer Chemistry**
+- __[Polymer Chemistry (IIS)](https://www.youtube.com/watch?v=jSNlmOwpxYg&list=PLbMVogVj5nJT0slH3tuas5BIp1DG8ZpMj)__
+- __[Instability and Patterning of Thin Polymer Films (IIS)](https://www.youtube.com/watch?v=8BS9R2pgvkA&list=PLE4F2282F66AEA9EF)__
+
+**Lab Technique**
+- __[Chemistry Lab Techniques - 5.301 (MIT)](https://www.youtube.com/watch?v=EUn2skAAjHk&list=PL57499F5778AAB619)__
+
+**Chemical Engineering**
+- __[Intro to Chemical Engineering (Stanford)](https://www.youtube.com/watch?v=WgWNQVdhE9A&list=PLD2D34BCA5468DD9A&index=1)__
+- __[Chemical Reaction Engineering I (IIS)](https://www.youtube.com/watch?v=AGztI5LffUM&list=PLE6AABEBC55CC0F74)__
+- __[Chemical Reaction Engineering II (IIS)](https://www.youtube.com/watch?v=jeUW6h2oVEY&list=PLbMVogVj5nJQErn57Jr7pt_1ncHS-c6ib&index=1)__
+- __[Process Integration, Methods and Area of Integration (IIS)](https://www.youtube.com/watch?v=-uY66EVQksk&list=PLbMVogVj5nJS1MaQpZC8Szg7FzBlnSWpT)__
+- __[Process Design Decisions and Project Economics (IIS)](https://www.youtube.com/watch?v=L2p2hnJCFEM&list=PLbMVogVj5nJS8aivkHJC_5KMvYj7wMcvk)__
+- __[Fundamentals of Transport Processes I (IIS)](https://www.youtube.com/watch?v=52ob19nGU24&list=PL02F0C1794E621BD0)__
+- __[Fundamentals of Transport Processes II (IIS)](https://www.youtube.com/watch?v=IIpDhxLXrE0&index=1&list=PLbMVogVj5nJTebmBoysEQYT_-Q8kOZQWe)__
+- __[Chemical Technology I (IIS)](https://www.youtube.com/watch?v=RjZJjneJ5fk&index=1&list=PLbMVogVj5nJSew0dIborypi2sjPU2Azz6)__
+- __[Plantwide Control of Chemical Processes (IIS)](https://www.youtube.com/watch?v=Ju7L-hAuFwA&list=PLbMVogVj5nJSVd3w8uYYISr70gD2w-_l9&index=1)__
+- __[Advanced Mathematical Techniques in Chemical Engineering (IIS)](https://www.youtube.com/watch?v=z5tNwyS_eys&index=1&list=PLbMVogVj5nJShG25-ezbHPY5qogsATbeD)__
+- __[Mass Transfer Operations I (IIS)](https://www.youtube.com/watch?v=EyREi7l5020&index=1&list=PLbMVogVj5nJSOgW8GYe_nJ3MYfnCQ3XXM)__
+- __[Mass Transfer Operations II (IIS)](https://www.youtube.com/watch?v=HlHyEcP_7SU&list=PL38769A2045D58D20)__
+- __[Heterogeneous Catalysis and Catalytic Processes (IIS)](https://www.youtube.com/watch?v=lbKrINF46dg&list=PLbMVogVj5nJQVyjZ-lEYm8Sp1jSynW9MD&index=1)__
+- __[Microscale Transport Processes (IIS)](https://www.youtube.com/watch?v=kF6zAl5mV8Q&list=PLbMVogVj5nJSoEyPgf5Db_2PLFTTDUOne&index=1)__
+- __[Multiphase Flow (IIS)](https://www.youtube.com/watch?v=nvMeIBnVsKw&list=PLbMVogVj5nJQJ9mEUoQj8EPyhH1QMYPh6)__
+- __[Fluid Mechanics (IIS)](https://www.youtube.com/watch?v=splvwSMAKd0&list=PLbMVogVj5nJQqyKLjvvgAC38ThsmjCJad&index=1)__
+- __[Rate Processes (IIS)](https://www.youtube.com/watch?v=14O204U0OH8&list=PLCDA510B6D57FC6C3)__
+- __[Process Control and Instrumentation (IIS)](https://www.youtube.com/watch?v=sj0PsMFpTKY&list=PLF404D44A280B5C77)__
+- __[Particle Characterization (IIS)](https://www.youtube.com/watch?v=9Sf278j1GTU&index=1&list=PLbMVogVj5nJSkVfiNz6f9HeghkYD5u3c0)__
+- __[Computational Fluid Dynamics (IIS)](https://www.youtube.com/watch?v=G4YHzSmT3qU&list=PLA862585F1B9ACCBD)__
+- __[Heat Transfer (IIS)](https://www.youtube.com/watch?v=KGbw2ZLY9gM&list=PL0D8FD8E7C5FAA7B5)__
+- __[Modern Instrumental Methods of Analysis (IIS)](https://www.youtube.com/watch?v=UHYfgwjE2i4&index=1&list=PL400CAFBA72E94CF8)__
+- __[Novel Separation Processes (IIS)](https://www.youtube.com/watch?v=0WAc06ldbLs&list=PLA15B70D88CA21EBE)__
+- __[Engineering Chemistry 1 (IIS)](https://www.youtube.com/watch?v=UNWOGM5R6as&list=PLEF394C3A35DE8BC7)__
+
+**Biotechnology**
+- __[Analytical Technologies in Biotechnology (IIS)](https://www.youtube.com/watch?v=n18jMutR_z0&list=PLbMVogVj5nJQnmDi4vK8EYwQvNoL_ySRU)__
+- __[Downstream Processing (IIS)](https://www.youtube.com/watch?v=jDR95W_oyXM&list=PLbMVogVj5nJTmNUnrRLWvLc21U5O-jn9I)__
+- __[Proteomics: Principles and Techniques (IIS)](https://www.youtube.com/watch?v=OXobyZ945I0&list=PLbMVogVj5nJR4P1mj4mTS8HEA7HX-LqVY)__
+- __[Thermodynamics (IIS)](https://www.youtube.com/watch?v=hPnnBlz2UVM&list=PL5659F55847E64D75)__
+- __[Biomathematics (IIS)](https://www.youtube.com/watch?v=mKY5O4xw35c&list=PLB694196369E57982)__
+- __[Chemical/Biochemical Engineering (IIS)](https://www.youtube.com/watch?v=m_Xrh5uJFJo&list=PL6A433F179A32A866)__
+- __[Molecular Biology (IIS)](https://www.youtube.com/watch?v=pxcChxvFYic&list=PLQeNZdPJPe96oN-bRdtBpjNEmV4xALhZN)__
