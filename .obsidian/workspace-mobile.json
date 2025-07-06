@@ -11,10 +11,15 @@
             "id": "bd6b722b8461e374",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Guitarra/Programación Didáctica.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Programación Didáctica"
             }
           }
         ]
@@ -45,7 +50,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#TODO",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,7 +87,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "557f8d7601646967",
