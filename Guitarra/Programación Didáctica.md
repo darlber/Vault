@@ -821,7 +821,7 @@ visual.</td>
 </table>
 
 # METODOLOGÍA
-#TODO Primera clase no cuenta 
+#TODO Primera clase no cuenta en 32 sesiones redondear a 30 
 
 Dentro del Decreto 30/2007, se elabora un apartado denominado
 «Principios metodológicos», el cual establece ocho pequeños apartados
