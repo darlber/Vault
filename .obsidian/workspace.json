@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8e42d007683c647b",
+        "id": "482b1c05dc992ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "ced5b2af94c4970d",
+            "id": "dd12dd295abc23eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png"
+                "file": "Chemistry/a.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Periodic_Table_of_Elements_w_Oxidation_States_PubChem"
+              "icon": "lucide-file",
+              "title": "a"
             }
           }
         ]
@@ -140,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
+                "file": "Chemistry/a.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Periodic_Table_of_Elements_w_Oxidation_States_PubChem"
+              "title": "Outline of a"
             }
           },
           {
@@ -194,11 +197,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ced5b2af94c4970d",
+  "active": "dd12dd295abc23eb",
   "lastOpenFiles": [
+    "Chemistry/a.md",
+    "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
     "Chemistry/Periodic Table.canvas",
-    "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/periodic.png",
     "Chemistry/attachments/valency.png",
     "Chemistry/List.md",
