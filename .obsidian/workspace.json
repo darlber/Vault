@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "362de4334ba3f7de",
+        "id": "8e42d007683c647b",
         "type": "tabs",
         "children": [
           {
-            "id": "585249be73fb37ca",
+            "id": "ced5b2af94c4970d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Chemistry/Periodic Table.canvas",
-                "viewState": {
-                  "x": -240.5319310248861,
-                  "y": -210.36953203692582,
-                  "zoom": 0.9128708949360448
-                }
+                "file": "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Periodic Table"
+              "icon": "lucide-image",
+              "title": "Periodic_Table_of_Elements_w_Oxidation_States_PubChem"
             }
           }
         ]
@@ -145,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Periodic Table.canvas",
+                "file": "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Periodic Table"
+              "title": "Outline of Periodic_Table_of_Elements_w_Oxidation_States_PubChem"
             }
           },
           {
@@ -183,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,13 +194,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "585249be73fb37ca",
+  "active": "ced5b2af94c4970d",
   "lastOpenFiles": [
-    "Chemistry/List.md",
+    "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
     "Chemistry/Periodic Table.canvas",
+    "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/periodic.png",
-    "Chemistry/Periodic Table and Valency Chart.md",
     "Chemistry/attachments/valency.png",
+    "Chemistry/List.md",
+    "Chemistry/Periodic Table and Valency Chart.md",
     "Excalidraw/Drawing 2025-07-06 21.21.29.excalidraw.md",
     "Untitled.canvas",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
@@ -245,8 +243,6 @@
     "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
     "2025-06-15.md",
     "CyberTesting/Assets/Images/ssti.webp",
-    "CyberTesting/attachments/Pasted image 20250609093942.png",
-    "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
-    "CyberTesting/Assets/Images/Web/SQLi/time-delays.png"
+    "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas"
   ]
 }
