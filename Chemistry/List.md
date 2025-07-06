@@ -1,3 +1,6 @@
+---
+Author: https://www.reddit.com/r/chemistry/comments/2kqe53/if_youve_ever_wanted_to_learn_university_level/
+---
 ### General Chemistry
 - [Preparation for General Chemistry - 1P (UCIrvine)](https://www.youtube.com/watch?v=cHhPI6GYf7w&index=1&list=PLqOZ6FD_RQ7n_ygfoa2dWAVtaHlrBrjLM)
 - [General Chemistry - 1A (UCIrvine)](https://www.youtube.com/watch?v=zp-rZEEQVoY)
@@ -50,7 +53,11 @@
 - [Modern Physics: Quantum Mechanics (Stanford)](https://www.youtube.com/watch?v=JzhlfbWBuQ8&list=PL84C10A9CB1D13841&index=1)
 - [Particle Physics: Basic Concepts (Stanford)](https://www.youtube.com/watch?v=2eFvVzNF24g&list=PLF363FFF951EC0673)
 - [Particle Physics: Standard Model (Stanford)](https://www.youtube.com/watch?v=Igl8hE3Eac0&list=PL8BCB4981DD1A0108)
-- [The Theoretical Minimum: Quantum Mechanics (Stanford)](https://www.youtube.com/watch?v=iJfw6lDlTuA&list=PL701CD168D02FF56C)
+- [The Theoretical Minimum: Quantum Mechanics (Stanford)](https://www.youtube.com/watch?v=iJfw6lDlTuA&list=PL701CD168D02FF56F)
+- [Advanced Quantum Mechanics (Stanford)](https://www.youtube.com/watch?v=8mi0PoPvLvs&list=PLpGHT1n4-mAsmMxmSX0LCaXIXT2PmU85m&index=7)
+- [Quantum Entanglements: Part 1 (Stanford)](https://www.youtube.com/watch?v=0Eeuqh9QfNI&list=PLA27CEA1B8B27EB67&index=1)
+- [Quantum Entanglements: Part 3 (Stanford)](https://www.youtube.com/watch?v=3ZEYa7SRRsU&list=PL5F9D6DB4231291BE)
+
 
 ### Chemical Engineering
 - [Intro to Chemical Engineering (MIT)](https://www.youtube.com/watch?v=Z9QaMZHqC7I)
@@ -59,25 +66,26 @@
 - [Metallurgy Lectures (IIS)](https://www.youtube.com/watch?v=ZcUuNZMHvYo&list=PLbMVogVj5nJSSIbW1F1yo5B7f8pDTiQ0b)
 - [Biotechnology Lectures (IIS)](https://www.youtube.com/watch?v=kODZbXr7pHs&list=PLbMVogVj5nJQlfWAdnEg4GVq_CIJSd2hB)
 
+### Inorganic Chemistry
 - __[Inorganic Chemistry - 107 (UCIrvine)](https://www.youtube.com/watch?v=OUj4j6td1es)__
 - __[Co-ordination Chemistry/Chemistry of the Transition Elements (IIS)](https://www.youtube.com/watch?v=BZ_tY88o0oI&index=1&list=PLbMVogVj5nJTWU1tCPCtLBaiWNsJRAiZZ)__
 - __[Bio-Inorganic Chemistry (IIS)](https://www.youtube.com/watch?v=lsNalwRnaq0&list=PLbMVogVj5nJSHhL_cMKfzLv556ddrIT90&index=3)__
 
-**Computational Chemistry**
+### Computational Chemistry
 - __[Scientific Computing Skills - 5 (UCIrvine)](https://www.youtube.com/watch?v=sAfZeueovi0&list=PLqOZ6FD_RQ7mcZfYTRhu1P8hPTizewI_x&index=1)__
 - __[Computational Techniques (IIS)](https://www.youtube.com/watch?v=zT83sJ5IrEE&list=PL42204FB1209D0EC3)__
 
-**Medicinal/Pharmaceutical Chemistry**
+### Medicinal/Pharmaceutical Chemistry
 - __[Organic Reactions and Pharmaceuticals - 14D (UCLA)](https://www.youtube.com/watch?v=nBBWhBSFC1Q&list=PL4BE4AAFBFECDB2F8)__
 
-**Polymer Chemistry**
+### Polymer Chemistry
 - __[Polymer Chemistry (IIS)](https://www.youtube.com/watch?v=jSNlmOwpxYg&list=PLbMVogVj5nJT0slH3tuas5BIp1DG8ZpMj)__
 - __[Instability and Patterning of Thin Polymer Films (IIS)](https://www.youtube.com/watch?v=8BS9R2pgvkA&list=PLE4F2282F66AEA9EF)__
 
-**Lab Technique**
+### Lab Technique
 - __[Chemistry Lab Techniques - 5.301 (MIT)](https://www.youtube.com/watch?v=EUn2skAAjHk&list=PL57499F5778AAB619)__
 
-**Chemical Engineering**
+### Chemical Engineering
 - __[Intro to Chemical Engineering (Stanford)](https://www.youtube.com/watch?v=WgWNQVdhE9A&list=PLD2D34BCA5468DD9A&index=1)__
 - __[Chemical Reaction Engineering I (IIS)](https://www.youtube.com/watch?v=AGztI5LffUM&list=PLE6AABEBC55CC0F74)__
 - __[Chemical Reaction Engineering II (IIS)](https://www.youtube.com/watch?v=jeUW6h2oVEY&list=PLbMVogVj5nJQErn57Jr7pt_1ncHS-c6ib&index=1)__
@@ -103,11 +111,29 @@
 - __[Novel Separation Processes (IIS)](https://www.youtube.com/watch?v=0WAc06ldbLs&list=PLA15B70D88CA21EBE)__
 - __[Engineering Chemistry 1 (IIS)](https://www.youtube.com/watch?v=UNWOGM5R6as&list=PLEF394C3A35DE8BC7)__
 
-**Biotechnology**
+### Biotechnology
 - __[Analytical Technologies in Biotechnology (IIS)](https://www.youtube.com/watch?v=n18jMutR_z0&list=PLbMVogVj5nJQnmDi4vK8EYwQvNoL_ySRU)__
 - __[Downstream Processing (IIS)](https://www.youtube.com/watch?v=jDR95W_oyXM&list=PLbMVogVj5nJTmNUnrRLWvLc21U5O-jn9I)__
 - __[Proteomics: Principles and Techniques (IIS)](https://www.youtube.com/watch?v=OXobyZ945I0&list=PLbMVogVj5nJR4P1mj4mTS8HEA7HX-LqVY)__
 - __[Thermodynamics (IIS)](https://www.youtube.com/watch?v=hPnnBlz2UVM&list=PL5659F55847E64D75)__
 - __[Biomathematics (IIS)](https://www.youtube.com/watch?v=mKY5O4xw35c&list=PLB694196369E57982)__
-- __[Chemical/Biochemical Engineering (IIS)](https://www.youtube.com/watch?v=m_Xrh5uJFJo&list=PL6A433F179A32A866)__
-- __[Molecular Biology (IIS)](https://www.youtube.com/watch?v=pxcChxvFYic&list=PLQeNZdPJPe96oN-bRdtBpjNEmV4xALhZN)__
+- [Chemical/Biochemical Engineering (IIS)](https://www.youtube.com/watch?v=m_Xrh5uJFJo&list=PL6A433F179A32A866)
+- [Biochemical Engineering/Enzyme Science and Engineering (IIS)](https://www.youtube.com/watch?v=hmFgUVsKwBA&list=PL6639898F1137AFAA)
+- [Chemical and Biomolecular Engineering - 179 (UCBerkeley)](https://www.youtube.com/watch?v=TylPELl--Qs&t=0s&list=PL-XXv-cvA_iCrUepjUAo_pwNpJQJ6B3FH)
+### Metallurgy
+- [Electronic Materials, Devices, and Fabrication (IIS)](https://www.youtube.com/watch?v=YAouXIS_FSU&list=PLbMVogVj5nJTqQc4Takon3QAhrtOLBV4M)
+- [Structure of Materials (IIS)](https://www.youtube.com/watch?v=zkaN6XKo7Is&list=PLbMVogVj5nJQ5jqiXDYuE6ETz5F5Kn4dA)
+- [Optoelectronic Materials and Devices (IIS)](https://www.youtube.com/watch?v=PVnftOMxl6w&index=1&list=PLbMVogVj5nJQbjE_u2KZhUmCypfLunjG4)
+- [Environmental Degradation of Materials (IIS)](https://www.youtube.com/watch?v=PVnftOMxl6w&index=1&list=PLbMVogVj5nJQbjE_u2KZhUmCypfLunjG4)
+- [Science and Technology of Polymers (IIS)](https://www.youtube.com/watch?v=ACPDEy3evqE&list=PL1AFB213453E37EC3)
+- [Processing of Semiconducting Materials (IIS)](https://www.youtube.com/watch?v=3W-rOtTc3ek&list=PLbMVogVj5nJQkfpFZruN4zT87Yrc4pOkR)
+- [Advanced Ceramics for Strategic Applications (IIS)](https://www.youtube.com/watch?v=LtlxTDOcbXI&list=PLbMVogVj5nJSAZWiwGdkclf9nPPi7j91c)
+- [Principles of Physical Metallurgy (IIS)](https://www.youtube.com/watch?v=9Sf278j1GTU&list=PLbMVogVj5nJSkVfiNz6f9HeghkYD5u3c0)
+- [Electroceramics (IIS)](https://www.youtube.com/watch?v=V9a7mu13Vns&list=PLbMVogVj5nJT8uMEdSuFXBEVBTBwFssC-)
+- [Advanced Metallurgical Thermodynamics (IIS)](https://www.youtube.com/watch?v=nfMO7_hwYuE&list=PLbMVogVj5nJS_jlBSbduzYmy6YX_K4KyM&index=1)
+- [Non-Ferrous Extractive Metallurgy (IIS)](https://www.youtube.com/watch?v=-SA55zz4Lno&list=PLC3F0FC4543ADAC48)
+- [Steel Making (IIS)](https://www.youtube.com/watch?v=CnoVCGx01Tk&list=PL9A090CB69EA83224)
+- [Intro to Biomaterials (IIS)](https://www.youtube.com/watch?v=yZKdFVAJcrE&list=PLF051FCC12CB73ADC)
+- [Materials and Energy Balance (IIS)](https://www.youtube.com/watch?v=FEwmIiDJ9gk&list=PL18DF0AEFCD1784E9)
+- [Fuels, Refractory and Furnaces (IIS)](https://www.youtube.com/watch?v=UeGJpwC1aiQ&list=PLC1A15E0C6761937F)
+- [Physics of Materials (IIS)](https://www.youtube.com/watch?v=dwm_kegn-Tg&list=PL090DAFDD7A36E27B)
