@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"27479cedef2dfb33","x":-180,"y":-400,"width":400,"height":267,"type":"file","file":"Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png"},
-		{"id":"140b03f78ab01d54","x":-180,"y":-60,"width":400,"height":267,"type":"file","file":"Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png"}
+		{"id":"27479cedef2dfb33","type":"file","file":"Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png","x":-180,"y":-400,"width":400,"height":267},
+		{"id":"140b03f78ab01d54","type":"file","file":"Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png","x":-180,"y":-60,"width":400,"height":267}
 	],
 	"edges":[
 		{"id":"466e6338875b703a","fromNode":"27479cedef2dfb33","fromSide":"bottom","toNode":"140b03f78ab01d54","toSide":"top"}
