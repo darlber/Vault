@@ -13,7 +13,7 @@
         "startupType": "instant"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "disabled"
+        "startupType": "short"
       },
       "obsidian-git": {
         "startupType": "instant"

@@ -11,14 +11,11 @@
             "id": "dd12dd295abc23eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "CyberTesting/Assets/Excalidraw/Authentication.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "CyberTesting/Assets/Excalidraw/Authentication.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "Authentication"
             }
           }
@@ -190,13 +187,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "dd12dd295abc23eb",
   "lastOpenFiles": [
-    "Chemistry/List.md",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
+    "Chemistry/List.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
     "Chemistry/Periodic Table.canvas",
