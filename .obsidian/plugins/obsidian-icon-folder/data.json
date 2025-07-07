@@ -50,5 +50,8 @@
     "iconName": "LiBuilding2",
     "iconColor": "#27ab03"
   },
-  "Chemistry": "LiAtom"
+  "Chemistry": {
+    "iconName": "LiAtom",
+    "iconColor": "#1eff00"
+  }
 }
