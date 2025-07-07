@@ -1,5 +1,6 @@
 ---
 Author: https://www.reddit.com/r/chemistry/comments/2kqe53/if_youve_ever_wanted_to_learn_university_level/
+Date: 2025-07-07
 ---
 ### General Chemistry
 - [Preparation for General Chemistry - 1P (UCIrvine)](https://www.youtube.com/watch?v=cHhPI6GYf7w&index=1&list=PLqOZ6FD_RQ7n_ygfoa2dWAVtaHlrBrjLM)
