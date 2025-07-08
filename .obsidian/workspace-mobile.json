@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/List.md",
+                "file": "CyberTesting/Assets/Excalidraw/Authentication.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Authentication"
             }
           }
         ]
@@ -178,9 +178,9 @@
   },
   "active": "bd6b722b8461e374",
   "lastOpenFiles": [
+    "Chemistry/List.md",
     "Chemistry/Periodic Table.canvas",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
-    "Chemistry/List.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Guitarra/Programación Didáctica.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
