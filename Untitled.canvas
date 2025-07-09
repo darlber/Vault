@@ -12,9 +12,11 @@
 		{"id":"5eace43ab859c7cc","type":"text","text":"¿No es hora del snack?","x":-670,"y":-1420,"width":250,"height":60},
 		{"id":"6380a6e21aafe268","type":"text","text":"Me ha parecido ver a la gatika esconderse en Italia","x":-20,"y":-1361,"width":250,"height":100},
 		{"id":"a8657c586a9696f6","type":"text","text":"La gatika se ha robado las letras que faltan para una perfecta felicitación! Ayúdame a encontrarlas. La muy golfa se fue a esconder al robarlas. Empecemos por su escondite preferido","x":-20,"y":-1195,"width":480,"height":120},
-		{"id":"987a7f0a5854e8b1","x":460,"y":-1195,"width":250,"height":120,"type":"text","text":"¿Cómo vamos a encender las velas? Creo que tengo un mechero dentr"},
+		{"id":"987a7f0a5854e8b1","x":460,"y":-1195,"width":250,"height":120,"type":"text","text":"¿Cómo vamos a encender las velas? Creo que dejé un mechero cerca cuando limpié mi baño el año pasado"},
 		{"id":"91e4517e953f50a7","x":-1124,"y":-808,"width":250,"height":60,"type":"text","text":"6. Tapa Sartén"},
-		{"id":"37db13cc0a41ade0","x":-1124,"y":-699,"width":250,"height":60,"type":"text","text":""}
+		{"id":"37db13cc0a41ade0","x":-1124,"y":-699,"width":250,"height":60,"type":"text","text":"7. Nada"},
+		{"id":"02bc53adb90825cc","x":-1122,"y":-553,"width":250,"height":60,"type":"text","text":"8. Mechero"},
+		{"id":"533b0e886ba4b354","x":-661,"y":-723,"width":250,"height":60,"type":"text","text":"Cuantos cumplías? Creo que la gatika dejó una pista "}
 	],
 	"edges":[
 		{"id":"a704bd169dfdecd3","fromNode":"a8657c586a9696f6","fromSide":"bottom","toNode":"a75b3e8fcf261c1c","toSide":"bottom","color":"1"},
@@ -28,6 +30,8 @@
 		{"id":"279059b4199d6aa1","fromNode":"23f33472b9a0adf7","fromSide":"bottom","toNode":"eb77819eb855ea03","toSide":"top","color":"4"},
 		{"id":"5aeadde3d134065b","fromNode":"34c6d14fd51a5c27","fromSide":"top","toNode":"987a7f0a5854e8b1","toSide":"bottom","color":"6"},
 		{"id":"af0de7803bad1233","fromNode":"eb77819eb855ea03","fromSide":"bottom","toNode":"91e4517e953f50a7","toSide":"top","color":"5"},
-		{"id":"4339683de9ef7c7d","fromNode":"91e4517e953f50a7","fromSide":"bottom","toNode":"37db13cc0a41ade0","toSide":"top"}
+		{"id":"4339683de9ef7c7d","fromNode":"91e4517e953f50a7","fromSide":"bottom","toNode":"37db13cc0a41ade0","toSide":"top","color":"6"},
+		{"id":"b6a67af899284f0d","fromNode":"37db13cc0a41ade0","fromSide":"bottom","toNode":"02bc53adb90825cc","toSide":"top","color":"1"},
+		{"id":"a086bc181befcf9f","fromNode":"987a7f0a5854e8b1","fromSide":"bottom","toNode":"533b0e886ba4b354","toSide":"top"}
 	]
 }
