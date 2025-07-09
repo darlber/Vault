@@ -1,22 +1,25 @@
 {
 	"nodes":[
-		{"id":"05cb6de3f87b78c6","x":-1120,"y":-1520,"width":250,"height":60,"type":"text","text":"1. Tarta, tarjeta"},
-		{"id":"768a5fd2b4c4e9fd","x":-1122,"y":-1261,"width":250,"height":60,"type":"text","text":"3. Chocodubai\n"},
-		{"id":"23f33472b9a0adf7","x":-1125,"y":-1105,"width":250,"height":60,"type":"text","text":"4. Nada"},
-		{"id":"eb77819eb855ea03","x":-1124,"y":-959,"width":250,"height":60,"type":"text","text":"5. Gusanitos Rosas Lidl"},
-		{"id":"13c37adef10f97a2","x":-415,"y":-1469,"width":400,"height":1020,"type":"file","file":"Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md"},
-		{"id":"c38239c826849c6e","x":-1120,"y":-1390,"width":250,"height":60,"type":"text","text":"2. Chocolate Dubai"},
+		{"id":"05cb6de3f87b78c6","type":"text","text":"1. Tarta, tarjeta","x":-1120,"y":-1520,"width":250,"height":60},
+		{"id":"768a5fd2b4c4e9fd","type":"text","text":"3. Chocodubai\n","x":-1122,"y":-1261,"width":250,"height":60},
+		{"id":"23f33472b9a0adf7","type":"text","text":"4. Nada","x":-1125,"y":-1105,"width":250,"height":60},
+		{"id":"eb77819eb855ea03","type":"text","text":"5. Gusanitos Rosas Lidl","x":-1124,"y":-959,"width":250,"height":60},
+		{"id":"13c37adef10f97a2","type":"file","file":"Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md","x":-415,"y":-1469,"width":400,"height":1020},
+		{"id":"c38239c826849c6e","type":"text","text":"2. Chocolate Dubai","x":-1120,"y":-1390,"width":250,"height":60},
 		{"id":"83ea5d1092b5690d","type":"text","text":"Prueba a buscar bajo los males","x":-90,"y":-1045,"width":250,"height":60},
 		{"id":"a75b3e8fcf261c1c","type":"text","text":"操你妈","x":-545,"y":-660,"width":130,"height":80},
-		{"id":"34c6d14fd51a5c27","x":-20,"y":-509,"width":250,"height":120,"type":"text","text":"Felicidades! Ahora podemos volver a la tarta y selebrarlo correctamente"},
+		{"id":"34c6d14fd51a5c27","type":"text","text":"Felicidades! Ahora podemos volver a la tarta y selebrarlo correctamente","x":-20,"y":-509,"width":250,"height":120},
 		{"id":"5eace43ab859c7cc","type":"text","text":"¿No es hora del snack?","x":-670,"y":-1420,"width":250,"height":60},
 		{"id":"6380a6e21aafe268","type":"text","text":"Me ha parecido ver a la gatika esconderse en Italia","x":-20,"y":-1361,"width":250,"height":100},
 		{"id":"a8657c586a9696f6","type":"text","text":"La gatika se ha robado las letras que faltan para una perfecta felicitación! Ayúdame a encontrarlas. La muy golfa se fue a esconder al robarlas. Empecemos por su escondite preferido","x":-20,"y":-1195,"width":480,"height":120},
-		{"id":"987a7f0a5854e8b1","x":460,"y":-1195,"width":250,"height":120,"type":"text","text":"¿Cómo vamos a encender las velas? Creo que dejé un mechero cerca cuando limpié mi baño el año pasado"},
-		{"id":"91e4517e953f50a7","x":-1124,"y":-808,"width":250,"height":60,"type":"text","text":"6. Tapa Sartén"},
-		{"id":"37db13cc0a41ade0","x":-1124,"y":-699,"width":250,"height":60,"type":"text","text":"7. Nada"},
-		{"id":"02bc53adb90825cc","x":-1122,"y":-553,"width":250,"height":60,"type":"text","text":"8. Mechero"},
-		{"id":"533b0e886ba4b354","x":-661,"y":-723,"width":250,"height":60,"type":"text","text":"Cuantos cumplías? Creo que la gatika dejó una pista "}
+		{"id":"987a7f0a5854e8b1","type":"text","text":"¿Cómo vamos a encender las velas? Creo que dejé un mechero cerca cuando limpié mi baño el año pasado","x":460,"y":-1195,"width":250,"height":120},
+		{"id":"91e4517e953f50a7","type":"text","text":"6. Tapa Sartén","x":-1124,"y":-808,"width":250,"height":60},
+		{"id":"37db13cc0a41ade0","type":"text","text":"7. Nada","x":-1124,"y":-699,"width":250,"height":60},
+		{"id":"02bc53adb90825cc","type":"text","text":"8. Mechero","x":-1122,"y":-553,"width":250,"height":60},
+		{"id":"533b0e886ba4b354","type":"text","text":"Cuantos cumplías? Creo que la gatika dejó una pista en uno de sus escondites","x":-670,"y":-832,"width":250,"height":109},
+		{"id":"fe8945da79d07984","x":-1120,"y":-424,"width":250,"height":60,"type":"text","text":"9. Mario Kart"},
+		{"id":"3cec8d3a0159b8ee","x":-1122,"y":-294,"width":250,"height":60,"type":"text","text":"10. Switch"},
+		{"id":"f3221bf493ef7695","x":-288,"y":-1584,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"a704bd169dfdecd3","fromNode":"a8657c586a9696f6","fromSide":"bottom","toNode":"a75b3e8fcf261c1c","toSide":"bottom","color":"1"},
@@ -32,6 +35,9 @@
 		{"id":"af0de7803bad1233","fromNode":"eb77819eb855ea03","fromSide":"bottom","toNode":"91e4517e953f50a7","toSide":"top","color":"5"},
 		{"id":"4339683de9ef7c7d","fromNode":"91e4517e953f50a7","fromSide":"bottom","toNode":"37db13cc0a41ade0","toSide":"top","color":"6"},
 		{"id":"b6a67af899284f0d","fromNode":"37db13cc0a41ade0","fromSide":"bottom","toNode":"02bc53adb90825cc","toSide":"top","color":"1"},
-		{"id":"a086bc181befcf9f","fromNode":"987a7f0a5854e8b1","fromSide":"bottom","toNode":"533b0e886ba4b354","toSide":"top"}
+		{"id":"a086bc181befcf9f","fromNode":"987a7f0a5854e8b1","fromSide":"bottom","toNode":"533b0e886ba4b354","toSide":"top","color":"1"},
+		{"id":"5584c2de96c5184c","fromNode":"02bc53adb90825cc","fromSide":"bottom","toNode":"fe8945da79d07984","toSide":"top","color":"2"},
+		{"id":"75177e663b4ddf0d","fromNode":"fe8945da79d07984","fromSide":"bottom","toNode":"3cec8d3a0159b8ee","toSide":"top","color":"3"},
+		{"id":"3485d73b5eee3d91","fromNode":"533b0e886ba4b354","fromSide":"top","toNode":"f3221bf493ef7695","toSide":"bottom"}
 	]
 }
