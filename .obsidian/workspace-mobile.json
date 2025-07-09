@@ -11,12 +11,17 @@
             "id": "bd6b722b8461e374",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "CyberTesting/Assets/Excalidraw/Authentication.md"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -459.1136215961282,
+                  "y": -1376.3193211252544,
+                  "zoom": -1.0492718703251602
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Authentication"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -176,13 +181,13 @@
   },
   "active": "bd6b722b8461e374",
   "lastOpenFiles": [
+    "/Untitled.canvas",
+    "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
-    "/Untitled.canvas",
     "/Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "Excalidraw",
     "/Excalidraw",
-    "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Chemistry/List.md",
     "Chemistry/Periodic Table.canvas",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
