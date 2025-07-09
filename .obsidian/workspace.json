@@ -16,33 +16,15 @@
                 "file": "Untitled.canvas",
                 "viewState": {
                   "x": -35.26900612541914,
-                  "y": -267.7652840337735,
-                  "zoom": 0.6085805966240299
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "122b81c45cb0723d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -253.47009846083193,
-                  "y": -625.2632610072278,
-                  "zoom": -0.6085805966240299
+                  "y": -750.8450900467283,
+                  "zoom": -0.9128708949360448
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +196,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "122b81c45cb0723d",
+  "active": "dd12dd295abc23eb",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "Untitled.canvas",
+    "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "Excalidraw",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Chemistry/List.md",

@@ -1,8 +1,33 @@
 {
 	"nodes":[
-		{"id":"a75b3e8fcf261c1c","x":-378,"y":-655,"width":250,"height":60,"type":"text","text":""},
-		{"id":"57a0e3698b604103","x":-460,"y":-1660,"width":480,"height":1320,"type":"file","file":"Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md"},
-		{"id":"a8657c586a9696f6","type":"text","text":"La gatika se ha robado las letras que faltan para una perfecta felicitación! Ayúdame a encontrarlas. La muy golfa se fue a esconder al robarlas. Empecemos por su escondite preferido","x":-780,"y":-1240,"width":480,"height":120}
+		{"id":"05cb6de3f87b78c6","x":-1120,"y":-1520,"width":250,"height":60,"type":"text","text":"1. Tarta, tarjeta"},
+		{"id":"768a5fd2b4c4e9fd","x":-1122,"y":-1261,"width":250,"height":60,"type":"text","text":"3. Chocodubai\n"},
+		{"id":"23f33472b9a0adf7","x":-1125,"y":-1105,"width":250,"height":60,"type":"text","text":"4. Nada"},
+		{"id":"eb77819eb855ea03","x":-1124,"y":-959,"width":250,"height":60,"type":"text","text":"5. Gusanitos Rosas Lidl"},
+		{"id":"13c37adef10f97a2","x":-415,"y":-1469,"width":400,"height":1020,"type":"file","file":"Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md"},
+		{"id":"c38239c826849c6e","x":-1120,"y":-1390,"width":250,"height":60,"type":"text","text":"2. Chocolate Dubai"},
+		{"id":"83ea5d1092b5690d","type":"text","text":"Prueba a buscar bajo los males","x":-90,"y":-1045,"width":250,"height":60},
+		{"id":"a75b3e8fcf261c1c","type":"text","text":"操你妈","x":-545,"y":-660,"width":130,"height":80},
+		{"id":"34c6d14fd51a5c27","x":-20,"y":-509,"width":250,"height":120,"type":"text","text":"Felicidades! Ahora podemos volver a la tarta y selebrarlo correctamente"},
+		{"id":"5eace43ab859c7cc","type":"text","text":"¿No es hora del snack?","x":-670,"y":-1420,"width":250,"height":60},
+		{"id":"6380a6e21aafe268","type":"text","text":"Me ha parecido ver a la gatika esconderse en Italia","x":-20,"y":-1361,"width":250,"height":100},
+		{"id":"a8657c586a9696f6","type":"text","text":"La gatika se ha robado las letras que faltan para una perfecta felicitación! Ayúdame a encontrarlas. La muy golfa se fue a esconder al robarlas. Empecemos por su escondite preferido","x":-20,"y":-1195,"width":480,"height":120},
+		{"id":"987a7f0a5854e8b1","x":460,"y":-1135,"width":250,"height":60,"type":"text","text":"¿Cómo vamos a encender las velas?"},
+		{"id":"91e4517e953f50a7","x":-1124,"y":-808,"width":250,"height":60,"type":"text","text":"6. Tapa Sartén"},
+		{"id":"37db13cc0a41ade0","x":-1124,"y":-699,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a704bd169dfdecd3","fromNode":"a8657c586a9696f6","fromSide":"bottom","toNode":"a75b3e8fcf261c1c","toSide":"bottom","color":"1"},
+		{"id":"4877861635c74c2b","fromNode":"a75b3e8fcf261c1c","fromSide":"bottom","toNode":"83ea5d1092b5690d","toSide":"bottom","color":"2"},
+		{"id":"5497cdc6f3a74f63","fromNode":"83ea5d1092b5690d","fromSide":"top","toNode":"6380a6e21aafe268","toSide":"bottom","color":"3"},
+		{"id":"d32dc6e3c823c2fd","fromNode":"6380a6e21aafe268","fromSide":"bottom","toNode":"5eace43ab859c7cc","toSide":"bottom","color":"4"},
+		{"id":"2b7a8530fdbe05ce","fromNode":"5eace43ab859c7cc","fromSide":"bottom","toNode":"34c6d14fd51a5c27","toSide":"top","color":"5"},
+		{"id":"36481ffac19c027f","fromNode":"05cb6de3f87b78c6","fromSide":"bottom","toNode":"c38239c826849c6e","toSide":"top","color":"1"},
+		{"id":"2a7606b06cfb1a03","fromNode":"c38239c826849c6e","fromSide":"bottom","toNode":"768a5fd2b4c4e9fd","toSide":"top","color":"2"},
+		{"id":"9591fcd1f9e5a0aa","fromNode":"768a5fd2b4c4e9fd","fromSide":"bottom","toNode":"23f33472b9a0adf7","toSide":"top","color":"3"},
+		{"id":"279059b4199d6aa1","fromNode":"23f33472b9a0adf7","fromSide":"bottom","toNode":"eb77819eb855ea03","toSide":"top","color":"4"},
+		{"id":"5aeadde3d134065b","fromNode":"34c6d14fd51a5c27","fromSide":"top","toNode":"987a7f0a5854e8b1","toSide":"bottom","color":"6"},
+		{"id":"af0de7803bad1233","fromNode":"eb77819eb855ea03","fromSide":"bottom","toNode":"91e4517e953f50a7","toSide":"top","color":"5"},
+		{"id":"4339683de9ef7c7d","fromNode":"91e4517e953f50a7","fromSide":"bottom","toNode":"37db13cc0a41ade0","toSide":"top"}
+	]
 }
