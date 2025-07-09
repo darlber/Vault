@@ -20,7 +20,7 @@
 		{"id":"fe8945da79d07984","type":"text","text":"9. Mario Kart","x":-1120,"y":-424,"width":250,"height":60},
 		{"id":"3cec8d3a0159b8ee","type":"text","text":"10. Switch","x":-1122,"y":-294,"width":250,"height":60},
 		{"id":"f3221bf493ef7695","type":"text","text":"Me pareció ver a la gatika salir corriendo con la última pista persiguiendo a la conga","x":-288,"y":-1640,"width":250,"height":116},
-		{"id":"30615258bfef54f7","x":-473,"y":-372,"width":250,"height":138,"type":"text","text":"Al fin! Hemos encontrado todas las pistas."}
+		{"id":"30615258bfef54f7","x":-473,"y":-372,"width":250,"height":138,"type":"text","text":"Al fin! Hemos encontrado todas las pistas. Que alegría saber por fin cuántos cumples de verdad"}
 	],
 	"edges":[
 		{"id":"a704bd169dfdecd3","fromNode":"a8657c586a9696f6","fromSide":"bottom","toNode":"a75b3e8fcf261c1c","toSide":"bottom","color":"1"},
