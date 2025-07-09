@@ -11,15 +11,38 @@
             "id": "dd12dd295abc23eb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "CyberTesting/Assets/Excalidraw/Authentication.md"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -35.26900612541914,
+                  "y": -267.7652840337735,
+                  "zoom": 0.6085805966240299
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Authentication"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "122b81c45cb0723d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -253.47009846083193,
+                  "y": -625.2632610072278,
+                  "zoom": -0.6085805966240299
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +214,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd12dd295abc23eb",
+  "active": "122b81c45cb0723d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Chemistry/List.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
@@ -204,10 +230,8 @@
     "Chemistry/attachments/valency.png",
     "Chemistry/Periodic Table and Valency Chart.md",
     "Excalidraw/Drawing 2025-07-06 21.21.29.excalidraw.md",
-    "Untitled.canvas",
     "Excalidraw/Drawing 2025-07-06 21.21.09.excalidraw.md",
     "Excalidraw/Drawing 2025-07-06 21.20.52.excalidraw.md",
-    "Excalidraw",
     "zeqa.md",
     "Chemistry/attachments",
     "Guitarra/Programación Didáctica.md",
@@ -238,7 +262,6 @@
     "2025-06-17.md",
     "CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
     "Guitarra/TEMA 33 y 34.pdf",
-    "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
     "CyberTesting/Assets/Images/ssti.webp",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas"
   ]
