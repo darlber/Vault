@@ -4,27 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "09e0968e3dc4ef63",
+        "id": "8a565237ee23f086",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6b722b8461e374",
+            "id": "bf97ba877cdf5b9c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -920.3912692682871,
-                  "y": -706.8270795887885,
-                  "zoom": -0.6111038762436052
+                  "x": -319.6943604844986,
+                  "y": -893.9529979451842,
+                  "zoom": -1.182133343172597
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "426f226df7c6463d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-09 10.49.32.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,12 +192,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bd6b722b8461e374",
+  "active": "426f226df7c6463d",
   "lastOpenFiles": [
-    "/Untitled.canvas",
-    "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
+    "/Untitled.canvas",
+    "CyberTesting/Assets/Excalidraw/Authentication.md",
     "/Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "Excalidraw",
     "/Excalidraw",
