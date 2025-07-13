@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "482b1c05dc992ff3",
+        "id": "8cd846988c634e05",
         "type": "tabs",
         "children": [
           {
-            "id": "dd12dd295abc23eb",
+            "id": "ea84e0d19ba49bc3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -207.5,
-                  "y": -910,
-                  "zoom": -0.8943686753538461
-                }
+                "file": "2025-07-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-07-13"
             }
           }
         ]
@@ -196,10 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd12dd295abc23eb",
+  "active": "ea84e0d19ba49bc3",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "Untitled.canvas",
+    "2025-07-13.md",
+    "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "Excalidraw",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Chemistry/List.md",
@@ -242,7 +241,6 @@
     "Guitarra/attachments/Pasted image 20250619132815.png",
     "Guitarra/attachments",
     "2025-06-17.md",
-    "CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
     "Guitarra/TEMA 33 y 34.pdf",
     "CyberTesting/Assets/Images/ssti.webp",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas"
