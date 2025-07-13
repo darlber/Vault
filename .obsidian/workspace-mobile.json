@@ -28,17 +28,15 @@
             "id": "426f226df7c6463d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -144.39169013030386,
-                  "y": -1029.5879309332724,
-                  "zoom": -1.0886849130823808
-                }
+                "file": "2025-07-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-07-13"
             }
           }
         ],
@@ -193,13 +191,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "426f226df7c6463d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "Untitled.canvas",
+    "2025-07-13.md",
+    "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "/Untitled.canvas",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "/Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
@@ -244,7 +244,6 @@
     "/Guitarra/Tema 3. Características sonoras del instrumento.md",
     "/Guitarra/Tema 2. La guitarra moderna.md",
     "/Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
-    "/Guitarra/Tema 1. Historia General de la Guitarra.md",
     "/Guitarra/TEMA 7-10.pdf",
     "/CyberTesting/Assets/Excalidraw"
   ]
