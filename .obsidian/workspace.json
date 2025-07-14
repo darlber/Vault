@@ -11,15 +11,10 @@
             "id": "ea84e0d19ba49bc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-13"
+              "title": "New tab"
             }
           }
         ]
@@ -190,10 +185,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ea84e0d19ba49bc3",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2025-07-13.md",
