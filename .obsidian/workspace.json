@@ -11,10 +11,15 @@
             "id": "ea84e0d19ba49bc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "List"
             }
           }
         ]
@@ -185,21 +190,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "ea84e0d19ba49bc3",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Chemistry/Periodic Table.canvas",
     "2025-07-13.md",
+    "Untitled.canvas",
     "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
     "Excalidraw",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Chemistry/List.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
-    "Chemistry/Periodic Table.canvas",
     "Guitarra/0. Temas Oposiciones.md",
     "Chemistry/a.md",
     "Chemistry/attachments/periodic.png",
