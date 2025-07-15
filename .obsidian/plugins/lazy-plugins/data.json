@@ -26,6 +26,9 @@
       },
       "obsidian-minimal-settings": {
         "startupType": "disabled"
+      },
+      "dataview": {
+        "startupType": "instant"
       }
     }
   }
