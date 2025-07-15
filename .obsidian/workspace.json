@@ -37,8 +37,7 @@
               "title": "Tema 01. Historia General de la Guitarra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guitarra/Tema 01. Historia General de la Guitarra.md",
+                "file": "Guitarra/0. Temas Oposiciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tema 01. Historia General de la Guitarra"
+              "title": "Backlinks for 0. Temas Oposiciones"
             }
           }
         ],
@@ -188,13 +187,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "523b2d732467387e",
+  "active": "ea84e0d19ba49bc3",
   "lastOpenFiles": [
+    "Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
+    "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Guitarra/0. Temas Oposiciones.md",
+    "Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Untitled Kanban.md",
     "Chemistry/List.md",
     "Chemistry/Periodic Table.canvas",
-    "Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Templates/template.md",
     "Templates",
     "Guitarra/Guitarra.md",
@@ -221,11 +222,9 @@
     "Guitarra/Tema 04. Técnicas de concienciación corporal.md",
     "Programación Didáctica.md",
     "Guitarra/TEMA 20-21.pdf",
-    "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Guitarra/tema 10-12 OCR.pdf",
     "Guitarra/TEMA 7-10.pdf",
     "Guitarra/TEMA 10-15.pdf",
-    "Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Guitarra/Tema 06. La técnica moderna de la guitarra.md",
