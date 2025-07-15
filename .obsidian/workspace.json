@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/List.md",
+                "file": "Templates/template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "template"
             }
           }
         ]
@@ -64,16 +64,6 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "5e97a31241481c51",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
@@ -89,25 +79,6 @@
         "id": "5d83b6432a9c9c01",
         "type": "tabs",
         "children": [
-          {
-            "id": "80af02b3e7851dee",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Guitarra/Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Tema 8. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos"
-            }
-          },
           {
             "id": "2cfb51d7b9416cb9",
             "type": "leaf",
@@ -163,15 +134,22 @@
             }
           },
           {
-            "id": "3f45806a2358e3fd",
+            "id": "72c452134915d9a6",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "backlink",
+              "state": {
+                "file": "Templates/template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for template"
             }
           }
         ],
@@ -190,13 +168,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "ea84e0d19ba49bc3",
   "lastOpenFiles": [
-    "Guitarra/Guitarra.md",
+    "Guitarra/Tema 01. Historia General de la Guitarra.md",
+    "Templates/template.md",
+    "Templates",
+    "Guitarra/0. Temas Oposiciones.md",
     "Chemistry/List.md",
+    "Guitarra/Guitarra.md",
     "Untitled.md",
     "Chemistry/Periodic Table.canvas",
     "2025-07-13.md",
@@ -206,7 +189,6 @@
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
-    "Guitarra/0. Temas Oposiciones.md",
     "Chemistry/a.md",
     "Chemistry/attachments/periodic.png",
     "Chemistry/attachments/valency.png",
@@ -218,7 +200,6 @@
     "Chemistry/attachments",
     "Guitarra/Programación Didáctica.md",
     "Chemistry",
-    "Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Guitarra/b.md",
     "Guitarra/Tema 04. Técnicas de concienciación corporal.md",
     "Programación Didáctica.md",
@@ -233,7 +214,6 @@
     "Guitarra/Tema 06. La técnica moderna de la guitarra.md",
     "Guitarra/Tema 05. La técnica de la guitarra.md",
     "Guitarra/Tema 03. Características sonoras del instrumento.md",
-    "Guitarra/Tema 02. La guitarra moderna.md",
     "Guitarra/attachments/Pasted image 20250619132810.png",
     "Guitarra/attachments/Pasted image 20250619133049.png",
     "Guitarra/attachments/Pasted image 20250619133043.png",
@@ -241,7 +221,6 @@
     "Guitarra/TEMA 29 y 30.pdf",
     "Guitarra/attachments/Pasted image 20250619132815.png",
     "Guitarra/attachments",
-    "Guitarra/TEMA 33 y 34.pdf",
     "CyberTesting/Assets/Images/ssti.webp",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas"
   ]
