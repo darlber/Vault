@@ -29,6 +29,27 @@
             }
           },
           {
+            "id": "ff7d1e4f59f59db9",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
             "id": "523b2d732467387e",
             "type": "leaf",
             "state": {
@@ -43,7 +64,8 @@
               "title": "Tema 01. Historia General de la Guitarra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,15 +213,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ea84e0d19ba49bc3",
+  "active": "ff7d1e4f59f59db9",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled Kanban.md",
+    "Excalidraw/Drawing 2025-07-15 21.02.45.excalidraw.md",
+    "Excalidraw",
     "CyberTesting/Linux Privilege Scalation.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
     "Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Chemistry/Periodic Table.canvas",
     "Chemistry/List.md",
-    "Untitled Kanban.md",
     "Guitarra/0. Temas Oposiciones.md",
     "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
@@ -208,9 +233,7 @@
     "Guitarra/Guitarra.md",
     "Untitled.md",
     "2025-07-13.md",
-    "Untitled.canvas",
     "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
-    "Excalidraw",
     "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Chemistry/a.md",
     "Chemistry/attachments/periodic.png",
@@ -231,8 +254,6 @@
     "Guitarra/TEMA 7-10.pdf",
     "Guitarra/TEMA 10-15.pdf",
     "Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
-    "Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
-    "Guitarra/Tema 06. La técnica moderna de la guitarra.md",
     "Guitarra/attachments/Pasted image 20250619132810.png",
     "Guitarra/attachments/Pasted image 20250619133049.png",
     "Guitarra/attachments/Pasted image 20250619133043.png",
