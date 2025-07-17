@@ -11,42 +11,10 @@
             "id": "ea84e0d19ba49bc3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "ff7d1e4f59f59db9",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -63,9 +31,21 @@
               "icon": "lucide-file",
               "title": "Tema 01. Historia General de la Guitarra"
             }
+          },
+          {
+            "id": "1fcfbab7fcb4cdd5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Android.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Android"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Android.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled Kanban"
+              "title": "Outline of Android"
             }
           },
           {
@@ -210,15 +190,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ff7d1e4f59f59db9",
+  "active": "1fcfbab7fcb4cdd5",
   "lastOpenFiles": [
+    "CyberTesting/CheatSheets/Nmap.md",
+    "CyberTesting/CheatSheets/Linux.md",
+    "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
+    "CyberTesting/Assets/Excalidraw/SSTI.md",
+    "CyberTesting/Assets/Excalidraw/SSL, HSTS.md",
+    "CyberTesting/Assets/Excalidraw/Deserialization.md",
+    "CyberTesting/Assets/Excalidraw/Host Header Manipulations.md",
+    "CyberTesting/Assets/Excalidraw/Cookie and Session drawing.md",
+    "CyberTesting/Assets/Excalidraw/Authentication.md",
+    "Android.md",
     "Untitled.canvas",
     "Untitled Kanban.md",
-    "Excalidraw/Drawing 2025-07-15 21.02.45.excalidraw.md",
     "Excalidraw",
+    "Excalidraw/Drawing 2025-07-15 21.02.45.excalidraw.md",
     "CyberTesting/Linux Privilege Scalation.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
@@ -234,26 +225,18 @@
     "Untitled.md",
     "2025-07-13.md",
     "Excalidraw/Drawing 2025-07-09 10.49.32.excalidraw.md",
-    "CyberTesting/Assets/Excalidraw/Authentication.md",
     "Chemistry/a.md",
     "Chemistry/attachments/periodic.png",
     "Chemistry/attachments/valency.png",
     "Chemistry/Periodic Table and Valency Chart.md",
     "Excalidraw/Drawing 2025-07-06 21.21.29.excalidraw.md",
     "Excalidraw/Drawing 2025-07-06 21.21.09.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-06 21.20.52.excalidraw.md",
-    "zeqa.md",
     "Chemistry/attachments",
-    "Guitarra/Programación Didáctica.md",
     "Chemistry",
-    "Guitarra/b.md",
-    "Guitarra/Tema 04. Técnicas de concienciación corporal.md",
-    "Programación Didáctica.md",
     "Guitarra/TEMA 20-21.pdf",
     "Guitarra/tema 10-12 OCR.pdf",
     "Guitarra/TEMA 7-10.pdf",
     "Guitarra/TEMA 10-15.pdf",
-    "Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Guitarra/attachments/Pasted image 20250619132810.png",
     "Guitarra/attachments/Pasted image 20250619133049.png",
     "Guitarra/attachments/Pasted image 20250619133043.png",
@@ -261,7 +244,6 @@
     "Guitarra/TEMA 29 y 30.pdf",
     "Guitarra/attachments/Pasted image 20250619132815.png",
     "Guitarra/attachments",
-    "CyberTesting/Assets/Images/ssti.webp",
-    "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas"
+    "CyberTesting/Assets/Images/ssti.webp"
   ]
 }
