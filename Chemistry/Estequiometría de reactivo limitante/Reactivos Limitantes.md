@@ -31,4 +31,60 @@ En ese caso, **Al es el reactivo limitante** y **Cl₂ está en exceso**.
 | ---------------------------------------------- | ------------------ | ------------------ |
 | Proporción real **>** relación estequiométrica | Cl₂                | Al                 |
 | Proporción real **<** relación estequiométrica | Al                 | Cl₂                |
+## Determinación del reactivo limitante usando proporciones
+
+Consideremos una reacción química general:
+
+$$
+aA + bB \rightarrow \text{productos}
+$$
+
+donde \(a\) y \(b\) son los coeficientes estequiométricos de los reactivos \(A\) y \(B\).
+
+---
+
+**Paso 1: Calcular la proporción estequiométrica**
+
+La proporción estequiométrica entre los moles de \(A\) y \(B\) es:
+
+$$
+\text{Proporción estequiométrica} = \frac{a}{b}
+$$
+
+---
+
+**Paso 2: Calcular la proporción real**
+
+A partir de las cantidades disponibles, se calculan los moles reales:
+
+$$
+n_A = \frac{\text{masa de } A}{\text{masa molar de } A}
+$$
+
+$$
+n_B = \frac{\text{masa de } B}{\text{masa molar de } B}
+$$
+
+La proporción real es:
+
+$$
+\text{Proporción real} = \frac{n_A}{n_B}
+$$
+
+---
+
+**Paso 3: Comparar las proporciones**
+
+
+$$
+\begin{cases}
+\displaystyle \frac{n_A}{n_B} < \frac{a}{b} \implies \text{Reactivo limitante es } A \\
+\\
+\displaystyle \frac{n_A}{n_B} > \frac{a}{b} \implies \text{Reactivo limitante es } B \\
+\\
+\displaystyle \frac{n_A}{n_B} = \frac{a}{b} \implies \text{Proporciones exactas}
+\end{cases}
+$$
+
+
 [Rendimiento Teórico](Rendimiento%20Teórico.md)

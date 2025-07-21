@@ -45,7 +45,7 @@ $$
 &= 84.6\%\,\text{de rendimiento}
 \end{aligned}
 $$
-#### Ejemplo 2
+### Ejemplo 2
 Hallar gramos que se forman del compuesto Metanol
 $$
 \mathrm{CO} + 2\mathrm{H}_2 \rightarrow \mathrm{CH}_3\mathrm{OH}
