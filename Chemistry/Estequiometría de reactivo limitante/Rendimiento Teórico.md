@@ -6,7 +6,7 @@ tags:
   - quimica
   - ejemplos
 ---
-Podemos usar los moles del reactivo limitante junto con la relación estequiométrica de la reacción balanceada para calcular el rendimiento teórico.
+Podemos usar los moles del reactivo limitante junto con la relación estequiométrica de la reacción balanceada para calcular el rendimiento teórico.  
 $$
 \text{RT en moles} = 5.99 \times 10^{-2}\,\cancel{\text{mol de Cl}_2} \times \dfrac{2\,\text{mol de AlCl}_3}{3\,\cancel{\text{mol de Cl}_2}} = 3.99 \times 10^{-2}\,\text{mol de AlCl}_3
 $$
