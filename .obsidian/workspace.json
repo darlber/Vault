@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Rendimiento Teórico.md",
+                "file": "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rendimiento Teórico"
+              "title": "Reactivos Limitantes"
+            }
+          },
+          {
+            "id": "ad8063e0f8ac778f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Reactivos Limitantes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Rendimiento Teórico.md",
+                "file": "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rendimiento Teórico"
+              "title": "Outline of Reactivos Limitantes"
             }
           },
           {
@@ -139,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Rendimiento Teórico.md",
+                "file": "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rendimiento Teórico"
+              "title": "Backlinks for Reactivos Limitantes"
             }
           }
         ],
@@ -172,10 +188,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1fcfbab7fcb4cdd5",
+  "active": "ad8063e0f8ac778f",
   "lastOpenFiles": [
-    "Chemistry/Reactivos Limitantes.md",
-    "Chemistry/Rendimiento Teórico.md",
+    "Chemistry/Estequiometría de reactivo limitante/Rendimiento Teórico.md",
+    "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
+    "Chemistry/Estequiometría de reactivo limitante",
     "Android.md",
     "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/CheatSheets/Linux.md",
@@ -208,7 +225,6 @@
     "Chemistry/a.md",
     "Chemistry/attachments/periodic.png",
     "Chemistry/attachments/valency.png",
-    "Chemistry/Periodic Table and Valency Chart.md",
     "Chemistry/attachments",
     "Chemistry",
     "Guitarra/TEMA 20-21.pdf",
@@ -221,7 +237,6 @@
     "Guitarra/attachments/Pasted image 20250619132903.png",
     "Guitarra/TEMA 29 y 30.pdf",
     "Guitarra/attachments/Pasted image 20250619132815.png",
-    "Guitarra/attachments",
     "CyberTesting/Assets/Images/ssti.webp"
   ]
 }
