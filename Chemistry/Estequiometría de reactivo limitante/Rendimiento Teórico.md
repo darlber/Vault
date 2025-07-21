@@ -15,7 +15,7 @@ $$
 $$
 \text{Rendimiento porcentual} = \dfrac{\text{rendimiento real}}{\text{rendimiento teórico}} \times 100\%
 $$
-##### Ejemplo
+#### Ejemplo
 La siguiente reacción se lleva a cabo con **1.56 g de BaCl₂**, que es el reactivo limitante.  
 Logramos aislar **1.82 g del producto deseado, AgCl**.
 $$
@@ -44,4 +44,35 @@ $$
 &= 84.6\%\,\text{de rendimiento}
 \end{aligned}
 $$
-##### Ejemplo 2
+#### Ejemplo 2
+Hallar gramos que se forman del compuesto Metanol
+$$
+\mathrm{CO} + 2\mathrm{H}_2 \rightarrow \mathrm{CH}_3\mathrm{OH}
+$$
+**Datos:**
+
+$$
+\begin{cases}
+\text{Masa de CO} = 356\, \mathrm{g} \\
+\text{Masa de } \mathrm{H}_2 = 65\, \mathrm{g}
+\end{cases}
+$$
+
+##### **Paso 1: Calcular moles de cada reactivo**
+$$\text{Masa molar de CO} = 12 + 16 = 28\, \mathrm{g/mol}$$
+$$\text{Masa molar de } \mathrm{H}_2 = 2\, \mathrm{g/mol}$$
+$$n_{\mathrm{CO}} = \frac{356}{28} = 12.71\, \mathrm{mol}$$
+$$n_{\mathrm{H}_2} = \frac{65}{2} = 32.5\, \mathrm{mol}$$
+##### **Paso 2: Determinar el reactivo limitante**
+La reacción indica que: 
+$$1\, \mathrm{mol\, CO} \quad \text{requiere} \quad 2\, \mathrm{mol\, H}_2$$Por lo tanto, para reaccionar con 12.71 mol de CO, se requieren:
+$$12.71 \times 2 = 25.42\, \mathrm{mol\, H}_2$$
+Como tenemos, 32.5 de H₂, hay suficiente hidrógeno. Por lo tanto, **el reactivo limitante es el CO.**
+##### **Paso 3: Calcular moles de metanol producido**
+$$1\, \mathrm{mol\, CO} \rightarrow 1\, \mathrm{mol\, CH}_3\mathrm{OH}$$
+$$n_{\mathrm{CH}_3\mathrm{OH}} = 12.71\, \mathrm{mol}$$
+##### **Paso 4: Calcular la masa de metanol producida**
+Masa molar del metanol:
+$$M_{\mathrm{CH}_3\mathrm{OH}} = 12 + (1 \times 4) + 16 = 32\, \mathrm{g/mol}$$
+Masa producida:
+$$m = n \times M = 12.71 \times 32 = 406.72\, \mathrm{g}$$
