@@ -44,3 +44,4 @@ $$
 &= 84.6\%\,\text{de rendimiento}
 \end{aligned}
 $$
+##### Ejemplo 2
