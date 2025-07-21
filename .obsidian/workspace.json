@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Estequiometría de reactivo limitante/Rendimiento Teórico.md",
+                "file": "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rendimiento Teórico"
+              "title": "Reactivos Limitantes"
             }
           }
         ],
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Estequiometría de reactivo limitante/Rendimiento Teórico.md",
+                "file": "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rendimiento Teórico"
+              "title": "Outline of Reactivos Limitantes"
             }
           },
           {
@@ -189,8 +189,8 @@
   },
   "active": "ad8063e0f8ac778f",
   "lastOpenFiles": [
-    "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
     "Chemistry/Estequiometría de reactivo limitante/Rendimiento Teórico.md",
+    "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
     "Chemistry/Estequiometría de reactivo limitante",
     "Android.md",
     "CyberTesting/CheatSheets/Nmap.md",
