@@ -4,5 +4,8 @@ tags:
   - Android
   - Exercise
   - Logger
-Date: {{date}}
+  - lista
+  - añadidos
+Date:
+  "{ date }":
 ---

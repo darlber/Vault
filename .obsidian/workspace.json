@@ -4,26 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8cd846988c634e05",
+        "id": "d1116d3daab43a45",
         "type": "tabs",
         "children": [
           {
-            "id": "1fcfbab7fcb4cdd5",
+            "id": "6bbb506c8d0d190c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Reactivos Limitantes"
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
             }
           },
           {
-            "id": "ad8063e0f8ac778f",
+            "id": "98900a536de9589e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
+            }
+          },
+          {
+            "id": "3b1cd356f334d8c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +40,21 @@
               },
               "icon": "lucide-file",
               "title": "2025-07-22"
+            }
+          },
+          {
+            "id": "bea0311ea6eea788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/2025-07-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-21"
             }
           }
         ],
@@ -130,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-07-22.md",
+                "file": "Project/2025-07-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-22"
+              "title": "Outline of 2025-07-21"
             }
           },
           {
@@ -167,9 +187,19 @@
               "icon": "links-coming-in",
               "title": "Backlinks for Rendimiento Teórico"
             }
+          },
+          {
+            "id": "14c6e47962ff85fc",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,23 +215,28 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "gemini-assistant:New Gemini chat": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "98900a536de9589e",
   "lastOpenFiles": [
-    "Project/2025-07-21.md",
     "Project/2025-07-22.md",
     "Templates/Template Daily.md",
-    "Templates",
-    "Project/Changelog.md",
     "Project/Android.md",
+    "Project/Changelog.md",
+    "Project/2025-07-21.md",
+    "Guitarra/Tema 01. Historia General de la Guitarra.md",
+    "Guitarra/0. Temas Oposiciones.md",
     "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
-    "Project",
     "Chemistry/Estequiometría de reactivo limitante/Gravimetría por volatilización.md",
+    "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
+    "Templates",
+    "Project",
     "Chemistry/Reacción de doble precipitación.md",
     "Chemistry/Estequiometría de reactivo limitante/Rendimiento Teórico.md",
-    "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Chemical_Group_Block_PubChem.png",
     "Chemistry/Estequiometría de reactivo limitante",
@@ -219,10 +254,8 @@
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-15 21.02.45.excalidraw.md",
     "CyberTesting/Linux Privilege Scalation.md",
-    "Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Chemistry/Periodic Table.canvas",
     "Chemistry/List.md",
-    "Guitarra/0. Temas Oposiciones.md",
     "Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Templates",
