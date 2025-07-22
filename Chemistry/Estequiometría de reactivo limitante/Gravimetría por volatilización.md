@@ -60,6 +60,7 @@ $$
 
 ---
 
-### 🧾 Resultado final:
 
-> La pureza del \( \text{BaCl}_2 \cdot 2\text{H}_2\text{O} \) en la muestra es **26.4%**.
+$\text{Masa del hidrato}~=~\underbrace{0.37\,\cancel{\text{g de H}_2 \text O} ~\times~ \dfrac{1 \,\cancel{\text{mol de H}_2 \text O}}{18.02\,\cancel{\text{g de H}_2 \text O}}} ~\times~\underbrace{  \dfrac{1\,\cancel{\text{mol del hidrato}}}{2 \,\cancel{\text{mol de H}_2 \text O}}} ~\times~\underbrace{ \dfrac{244.47\,\text{g del hidrato}}{1 \,\cancel{\text{mol del hidrato}}}}~=~2.51\,\text{g del hidrato}$
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\text{Paso 2:} ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\text{Paso 3:} ~~~~~~~~~~~~~~~~~~~~~~\text{Paso 4:}$
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\text{encontrar moles de H}_2\text{O}~~~~~~~~~~~~~~~~~~~~\text{usar relación molar}~~~~~~~\text{encontrar g de BaCl}_2 \cdot 2 \text H_2 \text O~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
