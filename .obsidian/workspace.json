@@ -183,12 +183,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ad8063e0f8ac778f",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
+    "Untitled",
     "Chemistry/Estequiometría de reactivo limitante/Gravimetría por volatilización.md",
     "Chemistry/Reacción de doble precipitación.md",
     "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
@@ -222,7 +222,6 @@
     "Templates",
     "Guitarra/Guitarra.md",
     "Untitled.md",
-    "2025-07-13.md",
     "Chemistry/attachments/periodic.png",
     "Chemistry/attachments/valency.png",
     "Chemistry/attachments",
