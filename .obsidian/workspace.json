@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-07-22.md",
+                "file": "Project/2025-07-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "2025-07-21"
             },
             "group": "e79299a17ac1ec33"
           }
@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-07-22.md",
+                "file": "Project/2025-07-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "2025-07-21"
             },
             "group": "e79299a17ac1ec33"
           }
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-07-22.md",
+                "file": "Project/2025-07-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-22"
+              "title": "Outline of 2025-07-21"
             }
           },
           {
@@ -197,12 +197,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c6aae0b20b71264",
+  "active": "3b1cd356f334d8c0",
   "lastOpenFiles": [
+    "Project/2025-07-22.md",
     "Templates/Proyecto Android.md",
     "Project/Wiki.md",
     "Project/Android.md",
-    "Project/2025-07-22.md",
     "Project/2025-07-21.md",
     "Project/Drawing 2025-07-22 20.53.37.excalidraw.md",
     "Guitarra/0. Temas Oposiciones.md",
