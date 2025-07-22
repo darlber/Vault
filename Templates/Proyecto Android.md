@@ -2,10 +2,7 @@
 tags:
   - Proyecto
   - Android
-  - Exercise
-  - Logger
-  - lista
-  - añadidos
+  - Changelog
 Date:
   "{ date }":
 ---

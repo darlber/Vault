@@ -3,8 +3,6 @@ tags:
   - Android
   - Proyecto
   - wiki
-  - Exercise
-  - Logger
 ---
 # Anotaciones comunes en Room (Kotlin)
 
