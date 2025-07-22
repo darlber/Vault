@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Proyecto Android.md",
+                "file": "Project/2025-07-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Proyecto Android"
+              "title": "Outline of 2025-07-22"
             }
           },
           {
@@ -178,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +193,11 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3b1cd356f334d8c0",
+  "active": "4c6aae0b20b71264",
   "lastOpenFiles": [
     "Templates/Proyecto Android.md",
     "Project/Wiki.md",
