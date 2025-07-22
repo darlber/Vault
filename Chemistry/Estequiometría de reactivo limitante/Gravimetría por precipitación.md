@@ -74,14 +74,8 @@ $$
 
 ---
 
-### ✅ Paso 5: Calcular el porcentaje en masa de \ text{MgCl}_2   
+### ✅ Paso 5: Calcular el porcentaje en masa de $\text{MgCl}_2$
 
 $$
 \% \text{MgCl}_2 = \frac{0.3428}{0.7209} \times 100 = 47.6\%
 $$
-
----
-
-### 🎯 Resultado final:
-
-> El porcentaje en masa de \ text{MgCl}_2    en la mezcla es **47.6%**.
