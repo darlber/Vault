@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Estequiometría de reactivo limitante/Rendimiento Teórico.md",
+                "file": "Chemistry/Estequiometría de reactivo limitante/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rendimiento Teórico"
+              "title": "Untitled"
             }
           }
         ],
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Estequiometría de reactivo limitante/Rendimiento Teórico.md",
+                "file": "Chemistry/Estequiometría de reactivo limitante/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rendimiento Teórico"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -183,13 +183,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "ad8063e0f8ac778f",
   "lastOpenFiles": [
-    "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
     "Chemistry/Estequiometría de reactivo limitante/Rendimiento Teórico.md",
+    "Chemistry/Estequiometría de reactivo limitante/Untitled.md",
+    "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
     "Chemistry/Estequiometría de reactivo limitante",
     "Android.md",
     "CyberTesting/CheatSheets/Nmap.md",
