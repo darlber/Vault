@@ -5,6 +5,7 @@ tags:
   - limitantes
   - quimica
   - ejemplos
+  - rendimiento
 ---
 Podemos usar los moles del reactivo limitante junto con la relación estequiométrica de la reacción balanceada para calcular el rendimiento teórico.  
 
