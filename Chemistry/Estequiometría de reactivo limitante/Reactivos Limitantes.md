@@ -86,5 +86,62 @@ $$
 \end{cases}
 $$
 
+### Ejemplo
+## 🧪 Determinar el reactivo limitante
+
+### Reacción balanceada:
+
+$$
+2\,\mathrm{Al}(s) + 3\,\mathrm{Cl}_2(g) \rightarrow 2\,\mathrm{AlCl}_3(s)
+$$
+
+---
+
+### ✅ Datos:
+
+- Masa de Al: 2.80 g  
+- Masa de $Cl_2$: 4.25 g
+
+---
+
+### 🔢 Paso 1: Calcular los moles de cada reactivo
+
+**Para el aluminio (Al):**
+
+$$
+\text{moles de Al} = \frac{2.80\ \text{g}}{26.98\ \text{g/mol}} = 1.04 \times 10^{-1}\ \text{mol}
+$$
+
+**Para el cloro molecular $Cl_2$
+
+$$
+\text{moles de } \mathrm{Cl}_2 = \frac{4.25\ \text{g}}{70.90\ \text{g/mol}} = 5.99 \times 10^{-2}\ \text{mol}
+$$
+
+---
+
+### ⚖️ Paso 2: Dividir los moles entre los coeficientes estequiométricos
+
+- Coeficiente de $Al$ = 2  
+- Coeficiente de $Cl_2$ = 3
+
+$$
+\frac{n_{\mathrm{Al}}}{2} = \frac{1.04 \times 10^{-1}}{2} = 5.20 \times 10^{-2}
+$$
+
+$$
+\frac{n_{\mathrm{Cl}_2}}{3} = \frac{5.99 \times 10^{-2}}{3} = 1.996 \times 10^{-2}
+$$
+
+---
+
+### 🔍 Paso 3: Comparar los valores
+
+$\frac{n_{\mathrm{Al}}}{2} = 5.20 \times 10^{-2}$
+$\frac{n_{\mathrm{Cl}_2}}{3} = 1.996 \times 10^{-2}$
+
+$$
+\text{Como } 1.996 \times 10^{-2} < 5.20 \times 10^{-2} \Rightarrow \text{el reactivo limitante es } \mathrm{Cl}_2
+$$
 
 [Rendimiento Teórico](Rendimiento%20Teórico.md)
