@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "CyberTesting/Red_Teaming_TTPs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -197,7 +197,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "bfeab0d73e1a8d79",
   "lastOpenFiles": [
     "Project/2025-07-22.md",
     "CyberTesting/Red_Teaming_TTPs.md",
