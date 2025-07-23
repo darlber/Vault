@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-07-22.md",
+                "file": "CyberTesting/output.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "output"
             },
             "group": "e79299a17ac1ec33"
           }
@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-07-22.md",
+                "file": "CyberTesting/output.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "output"
             },
             "group": "e79299a17ac1ec33"
           }
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-07-22.md",
+                "file": "CyberTesting/output.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-22"
+              "title": "Outline of output"
             }
           },
           {
@@ -193,13 +193,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "3b1cd356f334d8c0",
   "lastOpenFiles": [
-    "Project/2025-07-21.md",
     "Project/2025-07-22.md",
+    "CyberTesting/output.md",
+    "Project/2025-07-21.md",
     "Templates/Proyecto Android.md",
     "Project/Wiki.md",
     "Project/Android.md",
@@ -232,7 +234,6 @@
     "Excalidraw/Drawing 2025-07-15 21.02.45.excalidraw.md",
     "CyberTesting/Linux Privilege Scalation.md",
     "Chemistry/Periodic Table.canvas",
-    "Chemistry/List.md",
     "Templates",
     "Chemistry/attachments/periodic.png",
     "Chemistry/attachments/valency.png",
