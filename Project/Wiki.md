@@ -90,3 +90,31 @@ Indica clases que convierten tipos complejos para que Room pueda guardarlos.
 @TypeConverters(DateConverter::class)  
 abstract class AppDatabase : RoomDatabase() { ... }
 ```
+
+# UI Elements en Jetpack Compose
+
+## Scaffold
+Estructura base de Material Design que organiza componentes comunes como TopAppBar, FAB y contenido. Proporciona slots predefinidos y maneja padding automático.
+
+## TopAppBar
+Barra superior de la aplicación. Muestra título, acciones y puede contener menús. Versiones: Small, Medium, Large.
+
+## FloatingActionButton (FAB)
+Botón circular prominente para acciones primarias. Tipos: Regular (56dp), Small (40dp), Extended (con texto).
+
+## Box
+Contenedor que permite apilar elementos y alinearlos libremente. Útil para superposiciones y layouts personalizados.
+
+## Row/Column
+Disposiciones horizontales (Row) y verticales (Column) para organizar elementos. Controlan el arreglo con Arrangement y Alignment.
+
+## Modifiers
+Modifican apariencia/comportamiento de componentes. Comunes: 
+- `padding()`, `size()`, `fillMaxSize()`
+- `clickable()`, `background()`, `border()`
+
+## MaterialTheme
+Sistema de diseño que provee colores, tipografía y formas consistentes. Se accede via `MaterialTheme.colorScheme.primary` etc.
+
+## Preview
+`@Preview` muestra el componente en Android Studio sin ejecutar la app. Configurable con parámetros como `showBackground`.
