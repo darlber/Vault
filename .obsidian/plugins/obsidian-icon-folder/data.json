@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSkull",
       "☠",
       "LiAtom",
       "LiBuilding2",
-      "LiSheet",
-      "LiKeyRound"
+      "LiSheet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,7 @@
   },
   "Guitarra": {
     "iconName": "LiGuitar",
-    "iconColor": "#ff0000"
+    "iconColor": "#ff00f7"
   },
   "CyberTesting": {
     "iconName": "LiKeyRound",
@@ -54,5 +54,9 @@
     "iconName": "LiAtom",
     "iconColor": "#00ff00"
   },
-  "Project": "☠"
+  "Project": "☠",
+  "CyberTesting/Read_Teaming_TTPs": {
+    "iconName": "LiSkull",
+    "iconColor": "#ff0000"
+  }
 }
