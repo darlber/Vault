@@ -6,6 +6,9 @@ tags:
   - enumeration
   - checklist
   - wiki
+  - ics
+  - scada
+  - tpps
 Author: https://github.com/RoseSecurity/Red-Teaming-TTPs
 Date: 2025-01-23
 ---

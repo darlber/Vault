@@ -6,6 +6,8 @@ tags:
   - enumeration
   - checklist
   - wiki
+  - cloud
+  - ttps
 Author: https://github.com/RoseSecurity/Red-Teaming-TTPs
 Date: 2025-01-23
 ---
