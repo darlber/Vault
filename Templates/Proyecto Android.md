@@ -6,3 +6,6 @@ tags:
 Date:
   "{{date}}"
 ---
+```kotlin
+
+```
