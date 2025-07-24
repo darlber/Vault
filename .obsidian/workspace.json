@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-07-23.md",
+                "file": "Project/2025-07-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-23"
+              "title": "Outline of 2025-07-24"
             }
           },
           {
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +199,11 @@
   },
   "active": "3b1cd356f334d8c0",
   "lastOpenFiles": [
-    "Project/2025-07-23.md",
-    "Project/2025-07-24.md",
-    "Templates/Proyecto Android.md",
     "Project/2025-07-22.md",
+    "Project/2025-07-24.md",
     "Project/2025-07-21.md",
+    "Project/2025-07-23.md",
+    "Templates/Proyecto Android.md",
     "Project/Wiki.md",
     "CyberTesting/TODO_Red_Teaming_TTPs.md",
     "Project/Android.md",
