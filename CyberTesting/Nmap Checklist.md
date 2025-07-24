@@ -1,3 +1,12 @@
+---
+tags:
+  - nmap
+  - checklist
+  - cheatsheet
+  - enumeration
+  - cybertest
+---
+
 1. Enumerate targets
 2. Discover live hosts
 3. Reverse-DNS lookup

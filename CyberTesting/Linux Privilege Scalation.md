@@ -1,3 +1,14 @@
+---
+tags:
+  - linux
+  - privilege
+  - scalation
+  - cybertest
+  - pentest
+  - commands
+  - cheatsheet
+---
+
 - Identifying the system and environment (e.g., `hostname`, `uname -a`, `/etc/issue`)
 - Reviewing running processes and permissions (e.g., `ps`, `id`, `sudo -l`)
 - Investigating users, files, and history (e.g., `ls -la`, `/etc/passwd`, `history`)

@@ -1,3 +1,12 @@
+---
+tags:
+  - linux
+  - resources
+  - list
+  - cheatsheet
+  - cybertest
+---
+
 ## 🧠 Learning Platforms & Labs
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security/)
 - [Hack The Box](https://www.hackthebox.eu/)
