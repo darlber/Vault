@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-07-25.md",
+                "file": "Project/2025-07-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-25"
+              "title": "2025-07-24"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-07-25.md",
+                "file": "Project/2025-07-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-25"
+              "title": "Outline of 2025-07-24"
             }
           },
           {
@@ -172,9 +172,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "58027e17467d79d5",
   "lastOpenFiles": [
     "Project/2025-07-25.md",
+    "Templates/Proyecto Android.md",
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Threat Intelligence TTPs.md",
     "Project/Kotlin Wiki.md",
@@ -194,7 +195,6 @@
     "Project/2025-07-22.md",
     "Project/2025-07-23.md",
     "Project/2025-07-21.md",
-    "Templates/Proyecto Android.md",
     "Project/Android.md",
     "Project/Drawing 2025-07-22 20.53.37.excalidraw.md",
     "Guitarra/0. Temas Oposiciones.md",
