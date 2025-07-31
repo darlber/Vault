@@ -120,3 +120,4 @@ Sistema de diseño que provee colores, tipografía y formas consistentes. Se acc
 
 ## Preview
 `@Preview` muestra el componente en Android Studio sin ejecutar la app. Configurable con parámetros como `showBackground`.
+
