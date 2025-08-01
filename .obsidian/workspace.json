@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-07-31.md",
+                "file": "Project/2025-08-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-31"
+              "title": "2025-08-01"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-07-31.md",
+                "file": "Project/2025-08-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-31"
+              "title": "Outline of 2025-08-01"
             }
           },
           {
@@ -168,19 +168,22 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "58027e17467d79d5",
   "lastOpenFiles": [
     "Project/0.Listado Commits.md",
+    "Project/2025-08-01.md",
     "Project/Kotlin Wiki.md",
+    "Project/Untitled Kanban.md",
+    "Project/Android.md",
+    "Project/2025-07-31.md",
     "Project/2025-07-27.md",
     "Project/2025-07-26.md",
     "Project/2025-07-29.md",
     "Project/2025-07-28.md",
-    "Project/Android.md",
-    "Project/2025-07-31.md",
     "Templates/Proyecto Android.md",
     "Project/2025-07-30.md",
     "Project/2025-07-24.md",
@@ -198,8 +201,6 @@
     "Templates/Threat Intelligence TTPs.md",
     "CyberTesting/Read_Teaming_TTPs",
     "CyberTesting/XXE.md",
-    "CyberTesting/Linux Privilege Scalation.md",
-    "CyberTesting/List Resources Learn CyberTesting.md",
     "Templates",
     "Project",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
