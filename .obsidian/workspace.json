@@ -11,15 +11,17 @@
             "id": "58027e17467d79d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Project/2025-08-04.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Chemistry/Periodic Table.canvas",
+                "viewState": {
+                  "x": -57.75321263749824,
+                  "y": 511.6254362686351,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-08-04"
+              "icon": "lucide-layout-dashboard",
+              "title": "Periodic Table"
             }
           }
         ]
@@ -114,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-08-04.md",
+                "file": "Chemistry/Periodic Table.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-04"
+              "title": "Outline of Periodic Table"
             }
           },
           {
@@ -168,13 +170,19 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "58027e17467d79d5",
   "lastOpenFiles": [
-    "Project/0.Listado Commits.md",
+    "Chemistry/List.md",
+    "Chemistry/Reacción de doble precipitación.md",
+    "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
+    "Guitarra/0. Temas Oposiciones.md",
+    "Templates/Proyecto Android.md",
     "Project/2025-08-04.md",
+    "Project/0.Listado Commits.md",
     "Project/2025-08-01.md",
     "Project/2025-08-03.md",
     "Project/Android.md",
@@ -185,7 +193,6 @@
     "Project/2025-07-26.md",
     "Project/2025-07-29.md",
     "Project/2025-07-28.md",
-    "Templates/Proyecto Android.md",
     "Project/2025-07-30.md",
     "Project/2025-07-24.md",
     "Project/2025-07-25.md",
@@ -195,10 +202,6 @@
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Threat Intelligence TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Cloud TTPs.md",
-    "CyberTesting/Read_Teaming_TTPs/ICS-SCADA Enumeration Techniques for Effective Scanning, Network Reconnaissance, and Tactical.md",
-    "CyberTesting/Read_Teaming_TTPs/Linux TTPs.md",
-    "CyberTesting/Read_Teaming_TTPs/Web Application TTPs.md",
-    "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
     "CyberTesting/Read_Teaming_TTPs",
     "Templates",
     "Project",

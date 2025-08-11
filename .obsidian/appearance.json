@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "accentColor": "#7f0b0b",
-  "cssTheme": "",
+  "cssTheme": "Baseline",
   "showRibbon": true,
   "nativeMenus": true,
   "interfaceFontFamily": "",
