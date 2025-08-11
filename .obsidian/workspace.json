@@ -11,17 +11,15 @@
             "id": "58027e17467d79d5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Chemistry/Periodic Table.canvas",
-                "viewState": {
-                  "x": -57.75321263749824,
-                  "y": 511.6254362686351,
-                  "zoom": 1
-                }
+                "file": "Project/2025-08-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Periodic Table"
+              "icon": "lucide-file",
+              "title": "2025-08-04"
             }
           }
         ]
@@ -116,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Periodic Table.canvas",
+                "file": "Project/2025-08-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Periodic Table"
+              "title": "Outline of 2025-08-04"
             }
           },
           {
@@ -170,11 +168,14 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "58027e17467d79d5",
   "lastOpenFiles": [
+    "Project/2025-08-11.md",
+    "Chemistry/Periodic Table.canvas",
     "Chemistry/List.md",
     "Chemistry/Reacción de doble precipitación.md",
     "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
@@ -199,8 +200,6 @@
     "Project/2025-07-21.md",
     "Project/2025-07-23.md",
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
-    "CyberTesting/Read_Teaming_TTPs/Threat Intelligence TTPs.md",
-    "CyberTesting/Read_Teaming_TTPs/Cloud TTPs.md",
     "CyberTesting/Read_Teaming_TTPs",
     "Templates",
     "Project",
@@ -210,7 +209,6 @@
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Untitled.canvas",
     "Excalidraw",
-    "Chemistry/Periodic Table.canvas",
     "Templates",
     "Chemistry/attachments/periodic.png",
     "Chemistry/attachments/valency.png",

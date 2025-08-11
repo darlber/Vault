@@ -1,6 +1,7 @@
 {
-  "baseline-style@@accented-interface": true,
+  "baseline-style@@accented-interface": false,
   "baseline-style@@color-scheme-light": "default-light",
-  "baseline-style@@color-scheme-dark": "flexoki-dark",
-  "baseline-style@@color-scheme-accent": true
+  "baseline-style@@color-scheme-dark": "dracula-dark",
+  "baseline-style@@color-scheme-accent": true,
+  "baseline-style@@background-contrast-dark": "contrast-dark"
 }
