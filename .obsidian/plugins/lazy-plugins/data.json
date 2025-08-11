@@ -32,6 +32,9 @@
       },
       "phrasesync": {
         "startupType": "instant"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
       }
     }
   }
