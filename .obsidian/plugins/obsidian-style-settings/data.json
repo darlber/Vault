@@ -3,5 +3,11 @@
   "baseline-style@@color-scheme-light": "default-light",
   "baseline-style@@color-scheme-dark": "dracula-dark",
   "baseline-style@@color-scheme-accent": true,
-  "baseline-style@@background-contrast-dark": "contrast-dark"
+  "baseline-style@@background-contrast-dark": "contrast-dark",
+  "baseline-style@@layout-style": "layout-baseline",
+  "baseline-style@@status-bar-style": "status-bar-compact",
+  "baseline-style@@inline-title-font": "InstrumentSerif",
+  "baseline-style@@h1-font": "InstrumentSerif",
+  "baseline-style@@h1-variant": "normal",
+  "baseline-style@@h1-style": "normal"
 }
