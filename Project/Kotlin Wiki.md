@@ -121,3 +121,8 @@ Sistema de diseño que provee colores, tipografía y formas consistentes. Se acc
 ## Preview
 `@Preview` muestra el componente en Android Studio sin ejecutar la app. Configurable con parámetros como `showBackground`.
 
+# Flatmap
+`flatMap` es útil cuando tienes una lista cuyos elementos a su vez contienen listas y quieres convertirlo todo en una lista "plana" única.
+Por ejemplo:
+- Si tienes una lista de _targets_ y cada _target_ se traduce a varios músculos.
+- Si quieres combinar `primaryMuscles` y `secondaryMuscles` en una lista única de músculos.
