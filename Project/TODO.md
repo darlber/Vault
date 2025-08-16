@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] AlinearFiltros
+- [ ] Filtros
 - [ ] Small Pill e instrucciones en en la pestaña de informacion en ExercisePicker
 - [ ] Localizaciones
 - [ ] Revisar Ejercicios y músculos trabajados
@@ -14,7 +14,7 @@ kanban-plugin: board
 
 ## Completed
 
-- [x] Filtros
+- [x] AlinearFiltros
 - [x] ExercisePicker
 
 

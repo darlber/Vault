@@ -11,19 +11,15 @@
             "id": "58027e17467d79d5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project/TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Project/2025-08-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "2025-08-16"
             }
           }
         ]
@@ -118,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TODO.md",
+                "file": "Project/2025-08-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 2025-08-16"
             }
           },
           {
@@ -176,12 +172,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "58027e17467d79d5",
   "lastOpenFiles": [
+    "Project/TODO.md",
     "Project/Android.md",
     "Project/0.Listado Commits.md",
-    "Project/TODO.md",
-    "Project/TODO.md",
     "Project/2025-08-16.md",
     "Project/2025-08-15.md",
     "Project/Kotlin Wiki.md",
