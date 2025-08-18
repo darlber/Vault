@@ -1,0 +1,12 @@
+formulas:
+  Untitel: list()
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Project"
+        - and:
+            - file.name.contains("2025")
+    order:
+      - file.name
