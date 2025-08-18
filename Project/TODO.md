@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] Small Pill e instrucciones en en la pestaña de informacion en ExercisePicker
 - [ ] Localizaciones
 - [ ] Revisar Ejercicios y músculos trabajados
+- [ ] SmallPill con el Volume Total
 
 
 ## Completed
