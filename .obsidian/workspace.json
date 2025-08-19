@@ -6,19 +6,21 @@
       {
         "id": "2452765cc35c581b",
         "type": "tabs",
-        "dimension": 69.10457963089543,
+        "dimension": 34.654818865345185,
         "children": [
           {
             "id": "58027e17467d79d5",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Project/Untitled.base",
-                "viewName": "Table"
+                "file": "Project/0.Listado Commits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "0.Listado Commits"
             }
           }
         ]
@@ -26,7 +28,7 @@
       {
         "id": "446f87503f7672bb",
         "type": "tabs",
-        "dimension": 30.895420369104578,
+        "dimension": 65.34518113465482,
         "children": [
           {
             "id": "a92d332660043593",
@@ -195,15 +197,16 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "58027e17467d79d5",
   "lastOpenFiles": [
+    "Untitled.md",
     "Project/0.Listado Commits.md",
     "Project/Untitled.base",
     "Project/TODO.md",
-    "Untitled.md",
     "Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Project/2025-07-21.md",
     "Untitled.base",
