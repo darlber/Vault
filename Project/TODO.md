@@ -6,12 +6,14 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Revisar Ejercicios y músculos trabajados
 - [ ] Stats
-- [ ] Timer
 - [ ] al clicar finish, mostrar pantalla principal y graph
+- [ ] Timer
+- [ ] Revisar Ejercicios y músculos trabajados
 - [ ] Optimizaciones
 - [ ] Localizaciones
+- [ ] Colores Filtros
+- [ ] Espaciado a la dcha en ExercisePickerCard
 
 
 ## Completed
