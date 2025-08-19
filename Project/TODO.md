@@ -6,9 +6,9 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] SmallPill con el Volume Total
 - [ ] Revisar Ejercicios y músculos trabajados
 - [ ] Stats
+- [ ] Timer
 - [ ] al clicar finish, mostrar pantalla principal y graph
 - [ ] Optimizaciones
 - [ ] Colores y Themes
