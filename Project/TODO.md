@@ -11,7 +11,6 @@ kanban-plugin: board
 - [ ] Timer
 - [ ] al clicar finish, mostrar pantalla principal y graph
 - [ ] Optimizaciones
-- [ ] Colores y Themes
 - [ ] Localizaciones
 
 
