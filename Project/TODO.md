@@ -6,10 +6,13 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Localizaciones
-- [ ] Revisar Ejercicios y músculos trabajados
 - [ ] SmallPill con el Volume Total
+- [ ] Revisar Ejercicios y músculos trabajados
 - [ ] Stats
+- [ ] al clicar finish, mostrar pantalla principal y graph
+- [ ] Optimizaciones
+- [ ] Colores y Themes
+- [ ] Localizaciones
 
 
 ## Completed
