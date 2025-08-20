@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Stats
 - [ ] al clicar finish, mostrar pantalla principal y graph
 - [ ] Timer
 - [ ] Revisar Ejercicios y músculos trabajados
@@ -18,6 +17,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [x] Stats
 - [x] Small Pill e instrucciones en en la pestaña de informacion en ExercisePicker
 - [x] Filtros
 - [x] AlinearFiltros
