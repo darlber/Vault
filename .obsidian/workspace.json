@@ -6,7 +6,7 @@
       {
         "id": "2452765cc35c581b",
         "type": "tabs",
-        "dimension": 67.87423103212576,
+        "dimension": 53.1784005468216,
         "children": [
           {
             "id": "58027e17467d79d5",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-08-19.md",
+                "file": "Project/2025-08-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-19"
+              "title": "2025-08-20"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "446f87503f7672bb",
         "type": "tabs",
-        "dimension": 32.12576896787423,
+        "dimension": 46.8215994531784,
         "children": [
           {
             "id": "a92d332660043593",
@@ -197,16 +197,18 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "58027e17467d79d5",
   "lastOpenFiles": [
-    "Project/TODO.md",
+    "Project/Untitled.base",
+    "Project/2025-08-20.md",
     "Project/2025-08-19.md",
+    "Project/TODO.md",
     "Project/0.Listado Commits.md",
     "Untitled.md",
-    "Project/Untitled.base",
     "Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Project/2025-07-21.md",
     "Untitled.base",
@@ -229,8 +231,6 @@
     "Project/2025-08-11.md",
     "Project/2025-08-04.md",
     "Chemistry/Periodic Table.canvas",
-    "Chemistry/List.md",
-    "Chemistry/Reacción de doble precipitación.md",
     "CyberTesting/Read_Teaming_TTPs",
     "Templates",
     "Project",
