@@ -34,19 +34,15 @@
             "id": "a92d332660043593",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project/TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "2025-08-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "2025-08-21"
             }
           }
         ]
@@ -196,15 +192,17 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "a92d332660043593",
   "lastOpenFiles": [
+    "Project/TODO.md",
+    "2025-08-21.md",
     "Project/0.Listado Commits.md",
     "Project/2025-08-20.md",
     "Project/2025-08-19.md",
-    "Project/TODO.md",
     "Project/Untitled.base",
     "Untitled.md",
     "Guitarra/Tema 01. Historia General de la Guitarra.md",
