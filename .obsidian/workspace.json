@@ -6,7 +6,7 @@
       {
         "id": "2452765cc35c581b",
         "type": "tabs",
-        "dimension": 53.1784005468216,
+        "dimension": 53.17840054682161,
         "children": [
           {
             "id": "58027e17467d79d5",
@@ -28,7 +28,7 @@
       {
         "id": "446f87503f7672bb",
         "type": "tabs",
-        "dimension": 46.8215994531784,
+        "dimension": 46.82159945317839,
         "children": [
           {
             "id": "a92d332660043593",
@@ -180,12 +180,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +196,7 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "a92d332660043593",
