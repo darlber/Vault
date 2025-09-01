@@ -6,20 +6,19 @@
       {
         "id": "2452765cc35c581b",
         "type": "tabs",
+        "dimension": 62.153602533650044,
         "children": [
           {
             "id": "58027e17467d79d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Project/2025-09-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Project/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2025-09-01"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -27,6 +26,7 @@
       {
         "id": "d8a74c997388dc8d",
         "type": "tabs",
+        "dimension": 37.84639746634996,
         "children": [
           {
             "id": "ca4543a42269efad",
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TODO.md",
+                "file": "Project/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,12 +198,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ca4543a42269efad",
+  "active": "58027e17467d79d5",
   "lastOpenFiles": [
-    "Project/2025-09-01.md",
-    "Project/TODO.md",
     "Project/0.Listado Commits.md",
     "Project/Untitled.base",
+    "Project/2025-09-01.md",
+    "Project/TODO.md",
     "Project/2025-08-21.md",
     "Project/2025-08-20.md",
     "Project/2025-08-19.md",
@@ -227,7 +227,6 @@
     "Project/2025-07-26.md",
     "Project/2025-07-25.md",
     "Project/2025-08-12.md",
-    "Project/2025-08-11.md",
     "Chemistry/Periodic Table.canvas",
     "CyberTesting/Read_Teaming_TTPs",
     "Templates",
