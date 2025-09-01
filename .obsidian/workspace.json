@@ -34,15 +34,14 @@
             "id": "a92d332660043593",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2025-08-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "2025-08-21.md",
+                "bFile": "2025-08-21.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-08-21"
+              "icon": "diff",
+              "title": "Diff: 2025-08-21"
             }
           }
         ]
@@ -195,10 +194,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a92d332660043593",
+  "active": "6f55113ba7900dc8",
   "lastOpenFiles": [
     "Project/Untitled.base",
-    "2025-08-21.md",
+    "Project/2025-08-21.md",
     "Project/0.Listado Commits.md",
     "Project/TODO.md",
     "Project/2025-08-20.md",
