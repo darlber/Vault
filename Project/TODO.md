@@ -7,7 +7,8 @@ kanban-plugin: board
 ## TODO
 
 - [ ] al clicar finish, mostrar pantalla principal y graph
-- [ ] Timer
+- [ ] En vez de base de datos o json inside, pasarlo a un github desde donde se puede colaborar o updatear
+- [ ] Timer en notificaciones y vibraciones
 - [ ] Revisar Ejercicios y músculos trabajados
 - [ ] Optimizaciones
 - [ ] Localizaciones
