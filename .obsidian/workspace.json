@@ -6,7 +6,6 @@
       {
         "id": "2452765cc35c581b",
         "type": "tabs",
-        "dimension": 53.17840054682161,
         "children": [
           {
             "id": "58027e17467d79d5",
@@ -14,34 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/0.Listado Commits.md",
+                "file": "Project/2025-09-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0.Listado Commits"
+              "title": "2025-09-01"
             }
           }
         ]
       },
       {
-        "id": "446f87503f7672bb",
+        "id": "d8a74c997388dc8d",
         "type": "tabs",
-        "dimension": 46.82159945317839,
         "children": [
           {
-            "id": "a92d332660043593",
+            "id": "ca4543a42269efad",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "kanban",
               "state": {
-                "aFile": "2025-08-21.md",
-                "bFile": "2025-08-21.md",
-                "aRef": ""
+                "file": "Project/TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2025-08-21"
+              "icon": "lucide-trello",
+              "title": "TODO"
             }
           }
         ]
@@ -191,15 +194,17 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6f55113ba7900dc8",
+  "active": "ca4543a42269efad",
   "lastOpenFiles": [
+    "Project/2025-09-01.md",
+    "Project/TODO.md",
+    "Project/0.Listado Commits.md",
     "Project/Untitled.base",
     "Project/2025-08-21.md",
-    "Project/0.Listado Commits.md",
-    "Project/TODO.md",
     "Project/2025-08-20.md",
     "Project/2025-08-19.md",
     "Untitled.md",
