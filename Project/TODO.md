@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] al clicar finish, mostrar pantalla principal y graph
 - [ ] En vez de base de datos o json inside, pasarlo a un github desde donde se puede colaborar o updatear
 - [ ] Timer en notificaciones y vibraciones
 - [ ] Revisar Ejercicios y músculos trabajados
@@ -16,6 +15,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [x] al clicar finish, mostrar pantalla principal y graph
 - [x] Espaciado a la dcha en ExercisePickerCard
 - [x] Colores Filtros
 - [x] Stats
