@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] Revisar Ejercicios y músculos trabajados
 - [ ] Localizaciones
 - [ ] Optimizaciones
+- [ ] Crear Workouts personalizados
 
 
 ## Completed
