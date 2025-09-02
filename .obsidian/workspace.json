@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-09-02.md",
+                "file": "Project/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-02"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -200,10 +200,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "58027e17467d79d5",
+  "active": "ca4543a42269efad",
   "lastOpenFiles": [
-    "Project/TODO.md",
     "Project/2025-09-02.md",
+    "Project/TODO.md",
     "Project/Untitled.base",
     "Project/0.Listado Commits.md",
     "Project/2025-09-01.md",

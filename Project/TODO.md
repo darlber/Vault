@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] exerciseCard en Session, la X debe hacer algo supongo
 - [ ] No poder clicar Finish dos veces por sesión
 - [ ] Timer en notificaciones y vibraciones
 - [ ] Timer no funciona en otro movil
@@ -19,6 +18,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [x] exerciseCard en Session, la X debe hacer algo supongo
 - [x] al clicar finish, mostrar pantalla principal y graph
 - [x] Espaciado a la dcha en ExercisePickerCard
 - [x] Colores Filtros
