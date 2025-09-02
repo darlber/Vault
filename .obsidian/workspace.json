@@ -12,29 +12,18 @@
             "id": "58027e17467d79d5",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Project/Untitled.base",
-                "viewName": "Table"
+                "file": "Project/2025-09-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "6c0a6c0de286c06a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "2025-09-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d8a74c997388dc8d",
@@ -152,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Project/2025-09-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-09-02"
             }
           },
           {
@@ -206,13 +196,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6c0a6c0de286c06a",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
-    "Project/0.Listado Commits.md",
     "Project/Untitled.base",
+    "Project/2025-09-02.md",
+    "Project/0.Listado Commits.md",
     "Project/2025-09-01.md",
     "Project/TODO.md",
     "Project/2025-08-21.md",
@@ -237,7 +229,6 @@
     "Project/2025-07-27.md",
     "Project/2025-07-26.md",
     "Project/2025-07-25.md",
-    "Project/2025-08-12.md",
     "Chemistry/Periodic Table.canvas",
     "CyberTesting/Read_Teaming_TTPs",
     "Templates",
