@@ -6,11 +6,15 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] En vez de base de datos o json inside, pasarlo a un github desde donde se puede colaborar o updatear
+- [ ] exerciseCard en Session, la X debe hacer algo supongo
+- [ ] No poder clicar Finish dos veces por sesión
 - [ ] Timer en notificaciones y vibraciones
+- [ ] Timer no funciona en otro movil
+- [ ] En vez de base de datos o json inside, pasarlo a un github desde donde se puede colaborar o updatear
+- [ ] Mejores estadísticas y Graph
 - [ ] Revisar Ejercicios y músculos trabajados
-- [ ] Optimizaciones
 - [ ] Localizaciones
+- [ ] Optimizaciones
 
 
 ## Completed
