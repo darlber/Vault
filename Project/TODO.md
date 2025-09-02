@@ -7,7 +7,6 @@ kanban-plugin: board
 ## TODO
 
 - [ ] No poder clicar Finish dos veces por sesión
-- [ ] Timer en notificaciones y vibraciones
 - [ ] Timer no funciona en otro movil
 - [ ] En vez de base de datos o json inside, pasarlo a un github desde donde se puede colaborar o updatear
 - [ ] Mejores estadísticas y Graph
@@ -18,6 +17,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [x] Timer en notificaciones y vibraciones
 - [x] exerciseCard en Session, la X debe hacer algo supongo
 - [x] al clicar finish, mostrar pantalla principal y graph
 - [x] Espaciado a la dcha en ExercisePickerCard
