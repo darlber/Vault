@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TODO.md",
+                "file": "Project/2025-09-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 2025-09-03"
             }
           },
           {
@@ -200,10 +200,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2f2a1096f407d3bc",
+  "active": "ca4543a42269efad",
   "lastOpenFiles": [
-    "Project/2025-09-03.md",
     "Project/TODO.md",
+    "Project/2025-09-03.md",
     "Math/Logic/Predicate.md",
     "Math/Proof/Strong induction.md",
     "Math/Proof/Proof by contraposition.md",
