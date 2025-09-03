@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] Verificar el idioma del dispositivo par usar un json u otro
 - [ ] Timer no funciona en otro movil
-- [ ] En vez de base de datos o json inside, pasarlo a un github desde donde se puede colaborar o updatear
 - [ ] Mejores estadísticas y Graph
 - [ ] Revisar Ejercicios y músculos trabajados
 - [ ] Localizaciones
@@ -26,6 +26,7 @@ kanban-plugin: board
 - [x] Stats
 - [x] Small Pill e instrucciones en en la pestaña de informacion en ExercisePicker
 - [x] Filtros
+- [x] En vez de base de datos o json inside, pasarlo a un github desde donde se puede colaborar o updatear
 - [x] AlinearFiltros
 - [x] ExercisePicker
 

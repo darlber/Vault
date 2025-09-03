@@ -6,7 +6,6 @@
       {
         "id": "d8a74c997388dc8d",
         "type": "tabs",
-        "dimension": 53.79746835443038,
         "children": [
           {
             "id": "ca4543a42269efad",
@@ -26,12 +25,11 @@
         ]
       },
       {
-        "id": "fd1ae61a74f8a4d8",
+        "id": "e49736e63f3db13f",
         "type": "tabs",
-        "dimension": 46.20253164556962,
         "children": [
           {
-            "id": "2f2a1096f407d3bc",
+            "id": "89f251ee1acdc14e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -141,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-09-03.md",
+                "file": "Project/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-03"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -200,10 +198,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ca4543a42269efad",
+  "active": "89f251ee1acdc14e",
   "lastOpenFiles": [
-    "Project/TODO.md",
     "Project/2025-09-03.md",
+    "Project/TODO.md",
     "Math/Logic/Predicate.md",
     "Math/Proof/Strong induction.md",
     "Math/Proof/Proof by contraposition.md",
