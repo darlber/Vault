@@ -32,19 +32,15 @@
             "id": "89f251ee1acdc14e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project/TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "CyberTesting/Linux Privilege Scalation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "Linux Privilege Scalation"
             }
           }
         ]
@@ -139,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TODO.md",
+                "file": "CyberTesting/Linux Privilege Scalation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of Linux Privilege Scalation"
             }
           },
           {
@@ -200,8 +196,13 @@
   },
   "active": "89f251ee1acdc14e",
   "lastOpenFiles": [
-    "Project/Untitled.base",
+    "CyberTesting/CheatSheets/Nmap.md",
+    "CyberTesting/CheatSheets/Linux.md",
+    "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
+    "CyberTesting/Pentesting Checklist.md",
+    "CyberTesting/Linux Privilege Scalation.md",
     "Project/TODO.md",
+    "Project/Untitled.base",
     "Project/2025-09-03.md",
     "Math/Logic/Predicate.md",
     "Math/Proof/Strong induction.md",
@@ -233,10 +234,7 @@
     "Math/Assets/Images/good colors.png",
     "Math/Basic math concepts/Properties of arithmetic.md",
     "Math/Basic math concepts/Matrix.md",
-    "Math/Basic math concepts/Floor and ceiling functions.md",
-    "Math/Basic math concepts/Even and odd integers.md",
     "Math/Basic math concepts",
-    "Math/Trees/Rooted tree.md",
     "Math/Trees",
     "Math/Sets and Functions",
     "Math/Recursion",
@@ -245,9 +243,7 @@
     "Math/Graphs",
     "Math/Documents/Assets/Images",
     "Math/Documents/Graphs",
-    "Math/Documents/Assets",
     "Chemistry/Periodic Table.canvas",
-    "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Untitled.canvas"
   ]
 }
