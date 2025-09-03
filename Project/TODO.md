@@ -17,6 +17,12 @@ kanban-plugin: board
 
 ## Completed
 
+
+
+***
+
+## Archive
+
 - [x] No poder clicar Finish dos veces por sesión
 - [x] Timer en notificaciones y vibraciones
 - [x] exerciseCard en Session, la X debe hacer algo supongo
@@ -29,9 +35,6 @@ kanban-plugin: board
 - [x] En vez de base de datos o json inside, pasarlo a un github desde donde se puede colaborar o updatear
 - [x] AlinearFiltros
 - [x] ExercisePicker
-
-
-
 
 %% kanban:settings
 ```

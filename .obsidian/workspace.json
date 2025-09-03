@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-09-03.md",
+                "file": "Project/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-03"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -194,11 +194,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ca4543a42269efad",
+  "active": "89f251ee1acdc14e",
   "lastOpenFiles": [
+    "Project/Untitled.base",
     "Project/TODO.md",
     "Project/2025-09-03.md",
     "Math/Logic/Predicate.md",
@@ -235,7 +237,6 @@
     "Math/Basic math concepts/Even and odd integers.md",
     "Math/Basic math concepts",
     "Math/Trees/Rooted tree.md",
-    "Math/Trees/Prim's Algorithm.md",
     "Math/Trees",
     "Math/Sets and Functions",
     "Math/Recursion",
