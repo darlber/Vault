@@ -6,6 +6,7 @@
       {
         "id": "d8a74c997388dc8d",
         "type": "tabs",
+        "dimension": 53.79746835443038,
         "children": [
           {
             "id": "ca4543a42269efad",
@@ -13,13 +14,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Recursion/Recursion.md",
+                "file": "Project/2025-09-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "2025-09-03"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd1ae61a74f8a4d8",
+        "type": "tabs",
+        "dimension": 46.20253164556962,
+        "children": [
+          {
+            "id": "2f2a1096f407d3bc",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project/TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO"
             }
           }
         ]
@@ -114,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Recursion/Recursion.md",
+                "file": "Project/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recursion"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -169,18 +196,33 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ca4543a42269efad",
+  "active": "2f2a1096f407d3bc",
   "lastOpenFiles": [
+    "Project/2025-09-03.md",
+    "Project/TODO.md",
+    "Math/Logic/Predicate.md",
+    "Math/Proof/Strong induction.md",
+    "Math/Proof/Proof by contraposition.md",
+    "Math/Proof/Proof.md",
+    "Math/Combinatorics/License plate problem.md",
+    "Math/Basic math concepts/Prime and composite numbers.md",
+    "Math/Basic math concepts/Matrix multiplication.md",
+    "Math/Trees/Breadth first search.md",
+    "Math/Trees/Spanning tree.md",
+    "Math/Trees/Tree.md",
+    "Math/Combinatorics/Dots and dividers.md",
+    "Math/Recursion/Arithmetic sequence.md",
+    "Math/Recursion/Recursion.md",
     "Math/Recursion/Linear recurrence relation.md",
     "Math/Combinatorics/Additive principle.md",
     "Math/Basic math concepts/Divisibility.md",
     "Math/Basic math concepts/Closure of the integers.md",
     "Math/Assets/Images/bad color.png",
     "Math/Assets/Templates/Entry template.md",
-    "Project/TODO.md",
     "Math/Assets/Images/binary-division.jpg",
     "Math/Assets/Images/bipartite1.png",
     "Math/Assets/Images/complement.png",
@@ -191,27 +233,13 @@
     "Math/Assets/Images/degree-example-2.png",
     "Math/Assets/Images/good colors.png",
     "Math/Basic math concepts/Properties of arithmetic.md",
-    "Math/Basic math concepts/Prime and composite numbers.md",
     "Math/Basic math concepts/Matrix.md",
-    "Math/Basic math concepts/Matrix multiplication.md",
     "Math/Basic math concepts/Floor and ceiling functions.md",
     "Math/Basic math concepts/Even and odd integers.md",
     "Math/Basic math concepts",
-    "Math/Trees/Spanning tree.md",
-    "Math/Trees/Tree.md",
     "Math/Trees/Rooted tree.md",
     "Math/Trees/Prim's Algorithm.md",
-    "Math/Trees/Kruskal's Algorithm.md",
-    "Math/Trees/Minimum spanning tree.md",
-    "Math/Trees/Depth first search.md",
-    "Math/Trees/Breadth first search.md",
     "Math/Trees",
-    "Math/Sets and Functions/Symmetric difference.md",
-    "Math/Sets and Functions/Universal set.md",
-    "Math/Sets and Functions/Union.md",
-    "Math/Sets and Functions/Surjective.md",
-    "Math/Sets and Functions/Subset.md",
-    "Math/Sets and Functions/Set.md",
     "Math/Sets and Functions",
     "Math/Recursion",
     "Math/Proof",
