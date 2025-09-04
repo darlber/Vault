@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-09-04.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-04"
+              "title": "Homepage"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TODO.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -198,9 +198,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa6b92167ae250c7",
+  "active": "ca4543a42269efad",
   "lastOpenFiles": [
     "Project/2025-09-04.md",
+    "Homepage.md",
     "Project/TODO.md",
     "Project/2025-09-03.md",
     "CyberTesting/Linux Privilege Scalation.md",
@@ -237,7 +238,6 @@
     "Math/Assets/Images/cycle5-color2.png",
     "Math/Assets/Images/degree-example-2.png",
     "Math/Assets/Images/good colors.png",
-    "Math/Basic math concepts/Properties of arithmetic.md",
     "Math/Basic math concepts",
     "Math/Trees",
     "Math/Sets and Functions",

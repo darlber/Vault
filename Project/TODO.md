@@ -7,7 +7,6 @@ kanban-plugin: board
 ## TODO
 
 - [ ] Descargar todos los paquetes de idiomas para cambio en tiempo de ejecucion?
-- [ ] Timer no funciona en otro movil
 - [ ] Mejores estadísticas y Graph
 - [ ] Localizaciones
 - [ ] Optimizaciones
@@ -18,6 +17,7 @@ kanban-plugin: board
 ## Completed
 
 - [x] Verificar el idioma del dispositivo par usar un json u otro
+- [x] Timer no funciona en otro movil
 - [x] si se borra database, la lista no aparece, por el cacheado de los items del json. teniendo que reinstalar
 
 
