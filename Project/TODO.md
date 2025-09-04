@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] Verificar el idioma del dispositivo par usar un json u otro
 - [ ] Timer no funciona en otro movil
 - [ ] Mejores estadísticas y Graph
-- [ ] Revisar Ejercicios y músculos trabajados
 - [ ] Localizaciones
 - [ ] Optimizaciones
 - [ ] Crear Workouts personalizados
