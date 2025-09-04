@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Rapidez descargar json de github
 - [ ] si se borra database, la lista no aparece, por el cacheado de los items del json. teniendo que reinstalar
 - [ ] Descargar todos los paquetes de idiomas para cambio en tiempo de ejecucion?
 - [ ] Timer no funciona en otro movil
@@ -14,6 +13,7 @@ kanban-plugin: board
 - [ ] Localizaciones
 - [ ] Optimizaciones
 - [ ] Crear Workouts personalizados
+- [ ] añadir setting para descargar todas las imagenes de github
 
 
 ## Completed
