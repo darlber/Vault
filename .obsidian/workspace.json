@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Project/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -194,14 +194,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ca4543a42269efad",
+  "active": "fa6b92167ae250c7",
   "lastOpenFiles": [
-    "Project/2025-09-04.md",
     "Homepage.md",
+    "Project/2025-09-04.md",
     "Project/TODO.md",
     "Project/2025-09-03.md",
     "CyberTesting/Linux Privilege Scalation.md",
