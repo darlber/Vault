@@ -11,12 +11,14 @@
             "id": "328126bdd995deca",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.base",
-                "viewName": "Table"
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
+              "icon": "lucide-file",
               "title": "Homepage"
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.base",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,11 +173,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "328126bdd995deca",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Homepage.md",
     "Homepage.base",
+    "Homepage.md",
     "Project/TODO.md",
     "Project/2025-09-04.md",
     "Project/2025-09-03.md",
@@ -201,7 +202,6 @@
     "Math/Recursion/Linear recurrence relation.md",
     "Math/Combinatorics/Additive principle.md",
     "Math/Basic math concepts/Divisibility.md",
-    "Math/Basic math concepts/Closure of the integers.md",
     "Math/Assets/Images/bad color.png",
     "Math/Assets/Images/binary-division.jpg",
     "Math/Assets/Images/bipartite1.png",
