@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Verificar el idioma del dispositivo par usar un json u otro
 - [ ] Timer no funciona en otro movil
 - [ ] Mejores estadísticas y Graph
 - [ ] Localizaciones
@@ -16,6 +15,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [x] Verificar el idioma del dispositivo par usar un json u otro
 
 
 ***
