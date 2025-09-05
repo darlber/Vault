@@ -195,20 +195,21 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "328126bdd995deca",
   "lastOpenFiles": [
-    "Project/TODO.md",
+    "Project/2025-09-03.md",
+    "Project/2025-09-04.md",
     "Project/2025-09-05.md",
+    "Project/TODO.md",
     "Project/0.Listado Commits.md",
     "Project/Untitled.base",
     "Homepage.md",
     "Music",
     "Homepage.base",
-    "Project/2025-09-04.md",
-    "Project/2025-09-03.md",
     "CyberTesting/Linux Privilege Scalation.md",
     "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/CheatSheets/Linux.md",
