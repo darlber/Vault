@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-05.md",
+                "file": "Project/2025-09-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-09-05.md",
+                "file": "Project/2025-09-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,10 +198,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "328126bdd995deca",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
     "Project/TODO.md",
-    "2025-09-05.md",
+    "Project/2025-09-05.md",
     "Project/0.Listado Commits.md",
     "Project/Untitled.base",
     "Homepage.md",
