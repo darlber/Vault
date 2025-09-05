@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-09-05.md",
+                "file": "Project/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-05"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -199,11 +199,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "328126bdd995deca",
+  "active": "4ecd2f8c3def6216",
   "lastOpenFiles": [
+    "Project/2025-09-05.md",
     "Project/2025-09-03.md",
     "Project/2025-09-04.md",
-    "Project/2025-09-05.md",
     "Project/TODO.md",
     "Project/0.Listado Commits.md",
     "Project/Untitled.base",
