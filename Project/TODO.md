@@ -7,6 +7,7 @@ kanban-plugin: board
 ## TODO
 
 - [ ] Timer no funciona en otro movil. api 27 si
+- [ ] Notificacion cuenta atras se queda en 1 en vez de borrarse, also barra notificaciones descendiendo, cual es el num max?
 - [ ] Mejores estadísticas y Graph
 - [ ] Localizaciones
 - [ ] Optimizaciones
