@@ -35,6 +35,9 @@
       },
       "obsidian-style-settings": {
         "startupType": "instant"
+      },
+      "homepage": {
+        "startupType": "instant"
       }
     }
   }
