@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TODO.md",
+                "file": "Project/2025-09-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 2025-09-06"
             }
           },
           {
@@ -198,12 +198,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "49f56aa91722b3d1",
+  "active": "7b847b97a990960a",
   "lastOpenFiles": [
+    "Project/TODO.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Project/2025-09-06.md",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
-    "Project/TODO.md",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
     "Math/Combinatorics/k-Permutation.md~RF4cebe30.TMP",
     "CyberTesting/Assets/Images/Networking/Things that make up a network.png~RF4cebd65.TMP",
@@ -217,7 +217,6 @@
     "Homepage.md",
     "Project/2025-09-03.md",
     "Project/0.Listado Commits.md",
-    "Project/Untitled.base",
     "CyberTesting/Linux Privilege Scalation.md",
     "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/CheatSheets/Linux.md",
