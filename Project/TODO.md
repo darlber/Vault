@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] Optimizaciones
 - [ ] Crear Workouts personalizados
 - [ ] añadir setting para descargar todas las imagenes de github
+- [ ] probablemente haya probelmas si exercises_es esta en version 1.4 y switcheamos el idioma a ingles en veresion 1.0
 
 
 ## Completed
