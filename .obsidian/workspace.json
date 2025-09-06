@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "94c55175311d89f8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7b847b97a990960a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +20,31 @@
               },
               "icon": "lucide-file",
               "title": "2025-09-06"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5fc7f03a1711bcd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f56aa91722b3d1",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project/TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO"
             }
           }
         ]
@@ -114,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/2025-09-06.md",
+                "file": "Project/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-06"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -173,18 +198,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "49f56aa91722b3d1",
   "lastOpenFiles": [
-    "Project/2025-09-05.md",
+    "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Project/2025-09-06.md",
-    "Homepage.md",
+    "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Project/TODO.md",
-    "Project/2025-09-03.md",
+    "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
+    "Math/Combinatorics/k-Permutation.md~RF4cebe30.TMP",
+    "CyberTesting/Assets/Images/Networking/Things that make up a network.png~RF4cebd65.TMP",
+    "CyberTesting/Assets/Excalidraw/SSRF.md~RF4cebd17.TMP",
+    "Math/Assets/Images/k33-colored.png~RF4ceb75a.TMP",
+    "CyberTesting/Assets/Excalidraw/Modern Web Workflow.md~RF4ce9897.TMP",
+    "Project/2025-08-01.md~RF4ce94af.TMP",
+    "CyberTesting/Read_Teaming_TTPs/Threat Intelligence TTPs.md~RF4ce86a6.TMP",
     "Project/2025-09-04.md",
+    "Project/2025-09-05.md",
+    "Homepage.md",
+    "Project/2025-09-03.md",
     "Project/0.Listado Commits.md",
     "Project/Untitled.base",
-    "Music",
-    "Homepage.base",
     "CyberTesting/Linux Privilege Scalation.md",
     "CyberTesting/CheatSheets/Nmap.md",
     "CyberTesting/CheatSheets/Linux.md",
@@ -204,7 +237,6 @@
     "Math/Recursion/Arithmetic sequence.md",
     "Math/Recursion/Recursion.md",
     "Math/Recursion/Linear recurrence relation.md",
-    "Math/Combinatorics/Additive principle.md",
     "Math/Assets/Images/bad color.png",
     "Math/Assets/Images/binary-division.jpg",
     "Math/Assets/Images/bipartite1.png",
@@ -215,13 +247,6 @@
     "Math/Assets/Images/cycle5-color2.png",
     "Math/Assets/Images/degree-example-2.png",
     "Math/Assets/Images/good colors.png",
-    "Math/Basic math concepts",
-    "Math/Trees",
-    "Math/Sets and Functions",
-    "Math/Recursion",
-    "Math/Proof",
-    "Math/Logic",
-    "Math/Graphs",
     "Chemistry/Periodic Table.canvas",
     "Untitled.canvas"
   ]
