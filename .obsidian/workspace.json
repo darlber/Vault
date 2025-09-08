@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TODO.md",
+                "file": "2025-09-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 2025-09-08"
             }
           },
           {
@@ -201,10 +201,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "49f56aa91722b3d1",
+  "active": "7b847b97a990960a",
   "lastOpenFiles": [
-    "2025-09-08.md",
     "Project/TODO.md",
+    "2025-09-08.md",
     "Project/2025-09-06.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
