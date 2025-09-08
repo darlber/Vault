@@ -6,6 +6,7 @@
       {
         "id": "94c55175311d89f8",
         "type": "tabs",
+        "dimension": 65.74367088607595,
         "children": [
           {
             "id": "7b847b97a990960a",
@@ -27,6 +28,7 @@
       {
         "id": "5fc7f03a1711bcd2",
         "type": "tabs",
+        "dimension": 34.25632911392405,
         "children": [
           {
             "id": "49f56aa91722b3d1",
@@ -139,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TODO.md",
+                "file": "2025-09-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 2025-09-08"
             }
           },
           {
@@ -182,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +201,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "49f56aa91722b3d1",
+  "active": "7b847b97a990960a",
   "lastOpenFiles": [
+    "Project/TODO.md",
     "2025-09-08.md",
     "Project/2025-09-06.md",
-    "Project/TODO.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
