@@ -8,11 +8,11 @@ kanban-plugin: board
 
 - [ ] Timer no funciona en otro movil. api 27 si
 - [ ] Notificacion cuenta atras se queda en 1 en vez de borrarse, also barra notificaciones descendiendo, cual es el num max?
+- [ ] Crear Workouts personalizados
 - [ ] Mejores estadísticas y Graph
 - [ ] Localizaciones
 - [ ] Optimizaciones
-- [ ] Crear Workouts personalizados
-- [ ] añadir setting para descargar todas las imagenes de github
+- [ ] añadir setting para descargar voluntariamente todas las imagenes de github y que funcione offline
 - [ ] probablemente haya probelmas si exercises_es esta en version 1.4 y switcheamos el idioma a ingles en veresion 1.0
 
 
