@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Ver por que cojones ahora se sobreescirbe la sesion y demas
+- [ ] Exerciseviewmodel e implementaicon con el switch language borran la base de datos para introducir los nuevos ejercicios, no queremos eso, queremos simplemente cmabiar de fucking idioma
 - [ ] Crear Workouts personalizados
 - [ ] Mejores estadísticas y Graph
 - [ ] Localizaciones
