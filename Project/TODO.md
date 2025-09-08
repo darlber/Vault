@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] Ver por que cojones ahora se sobreescirbe la sesion y demas
 - [ ] Crear Workouts personalizados
 - [ ] Mejores estadísticas y Graph
 - [ ] Localizaciones
