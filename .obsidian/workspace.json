@@ -23,6 +23,31 @@
             }
           }
         ]
+      },
+      {
+        "id": "ff352aee5697efeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670f2c61bdecdc11",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project/TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,9 +201,9 @@
   },
   "active": "bf49af9407f74e5c",
   "lastOpenFiles": [
-    "Project/2025-09-08.md",
-    "Project/2025-09-12.md",
     "Project/TODO.md",
+    "Project/2025-09-12.md",
+    "Project/2025-09-08.md",
     "Project/2025-09-06.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
