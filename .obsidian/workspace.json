@@ -195,13 +195,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "bf49af9407f74e5c",
   "lastOpenFiles": [
-    "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
+    "Project/TODO.md",
     "Project/2025-09-13.md",
+    "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
     "Homepage.md",
     "CyberTesting/Read_Teaming_TTPs/Cloud TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Free Resources.md",
@@ -212,7 +214,6 @@
     "CyberTesting/Read_Teaming_TTPs/Web Application TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
     "Project/2025-09-12.md",
-    "Project/TODO.md",
     "Project/2025-09-08.md",
     "Project/2025-09-06.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",

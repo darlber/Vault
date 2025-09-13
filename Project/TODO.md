@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Crear Workouts personalizados
 - [ ] Mejores estadísticas y Graph
 - [ ] Localizaciones
 - [ ] Optimizaciones
@@ -16,6 +15,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [x] Crear Workouts personalizados
 - [x] Exerciseviewmodel e implementaicon con el switch language borran la base de datos para introducir los nuevos ejercicios, no queremos eso, queremos simplemente cmabiar de fucking idioma
 - [x] descargar automaticamente si no hay ninguna cacheada (como cuando iniciamos por primera vez una app o tras borrar la database). ademas se me descarga la version española teniendo el dispositivo en ingles
 - [x] Notificacion cuenta atras se queda en 1 en vez de borrarse, also barra notificaciones descendiendo, cual es el num max?
