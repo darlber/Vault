@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-13.md",
+                "file": "Project/2025-09-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -195,14 +195,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "bf49af9407f74e5c",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
-    "2025-09-13.md",
+    "Project/2025-09-13.md",
     "Homepage.md",
     "CyberTesting/Read_Teaming_TTPs/Cloud TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Free Resources.md",
