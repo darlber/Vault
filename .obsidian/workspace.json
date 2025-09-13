@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/List Resources Learn CyberTesting.md",
+                "file": "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List Resources Learn CyberTesting"
+              "title": "Mac_OS TTPs"
             }
           }
         ]
@@ -201,10 +201,12 @@
   },
   "active": "bf49af9407f74e5c",
   "lastOpenFiles": [
+    "CyberTesting/Read_Teaming_TTPs/Cloud TTPs.md",
+    "CyberTesting/Read_Teaming_TTPs/Free Resources.md",
+    "CyberTesting/List Resources Learn CyberTesting.md",
     "CyberTesting/Read_Teaming_TTPs/ICS-SCADA Enumeration Techniques for Effective Scanning, Network Reconnaissance, and Tactical.md",
     "CyberTesting/Read_Teaming_TTPs/Threat Intelligence TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Linux TTPs.md",
-    "CyberTesting/Read_Teaming_TTPs/Cloud TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Web Application TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
@@ -236,8 +238,6 @@
     "Math/Proof/Strong induction.md",
     "Math/Proof/Proof by contraposition.md",
     "Math/Proof/Proof.md",
-    "Math/Combinatorics/License plate problem.md",
-    "Math/Basic math concepts/Prime and composite numbers.md",
     "Math/Assets/Images/bad color.png",
     "Math/Assets/Images/binary-division.jpg",
     "Math/Assets/Images/bipartite1.png",
