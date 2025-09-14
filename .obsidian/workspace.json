@@ -4,33 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "874747fa22fb65b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf49af9407f74e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/2025-09-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-13"
-            }
-          }
-        ]
-      },
-      {
         "id": "ff352aee5697efeb",
         "type": "tabs",
         "children": [
           {
             "id": "670f2c61bdecdc11",
             "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/2025-09-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-14"
+            }
+          }
+        ]
+      },
+      {
+        "id": "439350c432711927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fddbf52e2ff08d60",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -43,6 +44,7 @@
                   ]
                 }
               },
+              "pinned": true,
               "icon": "lucide-trello",
               "title": "TODO"
             }
@@ -195,13 +197,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "670f2c61bdecdc11",
+  "active": "fddbf52e2ff08d60",
   "lastOpenFiles": [
-    "Project/2025-09-13.md",
+    "Project/2025-09-14.md",
     "Project/TODO.md",
+    "Project/2025-09-13.md",
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
     "Homepage.md",
     "CyberTesting/Read_Teaming_TTPs/Cloud TTPs.md",
@@ -236,7 +240,6 @@
     "CyberTesting/Pentesting Checklist.md",
     "Math/Logic/Predicate.md",
     "Math/Proof/Strong induction.md",
-    "Math/Proof/Proof by contraposition.md",
     "Math/Assets/Images/bad color.png",
     "Math/Assets/Images/binary-division.jpg",
     "Math/Assets/Images/bipartite1.png",
