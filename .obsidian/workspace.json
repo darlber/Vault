@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-09-14.md",
+                "file": "Templates/Proyecto Android.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
+              "title": "Proyecto Android"
             }
           }
         ]
@@ -201,10 +201,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fddbf52e2ff08d60",
+  "active": "670f2c61bdecdc11",
   "lastOpenFiles": [
-    "Project/2025-09-14.md",
     "Project/TODO.md",
+    "Project/2025-09-14.md",
     "Project/2025-09-13.md",
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
     "Homepage.md",
