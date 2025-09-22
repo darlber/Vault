@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] Mejores estadísticas y Graph
 - [ ] Localizaciones
 - [ ] Optimizaciones
-- [ ] añadir setting para descargar voluntariamente todas las imagenes de github y que funcione offline
 - [ ] probablemente haya probelmas si exercises_es esta en version 1.4 y switcheamos el idioma a ingles en veresion 1.0
 
 
