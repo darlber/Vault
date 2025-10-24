@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] Localizaciones
 - [ ] Optimizaciones
 - [ ] probablemente haya probelmas si exercises_es esta en version 1.4 y switcheamos el idioma a ingles en veresion 1.0
+- [ ] quitar api numbers full offline volumen conteo semanal de hard sets. añadir boton de hard sets semanal
 
 
 ## Completed
