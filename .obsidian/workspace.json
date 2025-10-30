@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Project/Android.md"
+                "file": "Project/Esquema inicial.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Android"
+              "title": "Esquema inicial"
             }
           }
         ]
@@ -198,13 +198,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "585971d864482985",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
     "Project/Kotlin Wiki.md",
     "Project/TODO.md",
     "Project/2025-09-04.md",
     "Project/2025-09-22.md",
-    "Project/Android.md",
+    "Project/Esquema inicial.md",
     "Project/0.Listado Commits.md",
     "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
