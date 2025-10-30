@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ff352aee5697efeb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "670f2c61bdecdc11",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Project/Android.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Android"
-            }
-          }
-        ]
-      },
-      {
         "id": "439350c432711927",
         "type": "tabs",
         "children": [
@@ -194,14 +176,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "fddbf52e2ff08d60",
   "lastOpenFiles": [
-    "Project/Android.md",
     "Project/TODO.md",
+    "Project/Android.md",
     "Project/0.Listado Commits.md",
     "Project/Kotlin Wiki.md",
     "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
