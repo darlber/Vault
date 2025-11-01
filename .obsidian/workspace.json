@@ -11,12 +11,15 @@
             "id": "585971d864482985",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Project/Esquema inicial.md"
+                "file": "Project/2025-07-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Esquema inicial"
+              "icon": "lucide-file",
+              "title": "2025-07-21"
             }
           }
         ]
@@ -194,12 +197,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "585971d864482985",
   "lastOpenFiles": [
+    "Project/2025-08-16.md",
+    "Project/2025-08-14.md",
+    "Project/2025-08-04.md",
+    "Project/2025-07-28.md",
     "Project/Kotlin Wiki.md",
     "Project/TODO.md",
     "Project/2025-09-04.md",
@@ -222,10 +228,6 @@
     "CyberTesting/Read_Teaming_TTPs/Threat Intelligence TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Linux TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Web Application TTPs.md",
-    "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
-    "Project/2025-09-12.md",
-    "Project/2025-09-08.md",
-    "Project/2025-09-06.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
