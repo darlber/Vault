@@ -3,7 +3,7 @@ gantt
     title Cronograma de Desarrollo - App Entrenamiento (2025)
     dateFormat  YYYY-MM-DD
     axisFormat  %d/%m
-
+	todayMarker off
     section Infraestructura y Base
     DAO + Constantes                    :done, a1, 2025-09-22, 2d
     Migrar constantes a enums           :done, a2, 2025-09-24, 1d
@@ -47,5 +47,4 @@ gantt
     section Cierre & Entrega
     Pruebas finales y pulido            :crit, g1, 2025-11-12, 28d
     Entrega                             :milestone, g2, 2025-12-12, 0d
-
 ```
