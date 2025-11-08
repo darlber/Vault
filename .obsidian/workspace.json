@@ -44,8 +44,19 @@
               "title": "Gantt previo"
             },
             "group": "a030fff92a029ae4"
+          },
+          {
+            "id": "7b9a208467f3bff6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "439350c432711927",
@@ -220,14 +231,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "87ad4c12699b1297",
+  "active": "7b9a208467f3bff6",
   "lastOpenFiles": [
-    "Project/Gantt post.md",
     "Project/Gantt previo.md",
+    "Project/Gantt post.md",
     "Project/2025-09-22.md",
     "Project/TODO.md",
     "Project/Esquema inicial.md",
