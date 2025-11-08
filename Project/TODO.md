@@ -6,17 +6,17 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Mejores estadísticas y Graph
 - [ ] terminos y condiciones enlazarlos a la pag de github
+- [ ] Mejores estadísticas y Graph
+- [ ] Pantalla bienvenida
+- [ ] Personalizar nombre
+- [ ] Dejar espacio para nuestro nombre y bienvenida en HOME
 - [ ] quitar api numbers full offline volumen conteo semanal de hard sets. añadir boton de hard sets semanal
 - [ ] Localizaciones, todos los strings fuera
 - [ ] Optimizaciones
 - [ ] apartados donde aparezca información académica y un saber más del volumen y to eso
-- [ ] probablemente haya probelmas si exercises_es esta en version 1.4 y switcheamos el idioma a ingles en veresion 1.0
-
-
-## Completed
-
+- [ ] revisar idiomas y base de datos, uniformar
+- [ ] La aplicación se rompe porque si en las estadísticas Si cambias el wallpaper
 
 
 ***
@@ -46,6 +46,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false],"show-checkboxes":true}
 ```
 %%
