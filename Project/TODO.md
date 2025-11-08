@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] terminos y condiciones enlazarlos a la pag de github
+- [ ] terminos y condiciones revisar y hacer cquizas en español?
 - [ ] Mejores estadísticas y Graph
 - [ ] Pantalla bienvenida
 - [ ] Personalizar nombre
