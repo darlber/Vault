@@ -7,11 +7,12 @@ kanban-plugin: board
 ## TODO
 
 - [ ] Mejores estadísticas y Graph
-- [ ] Localizaciones
-- [ ] Optimizaciones
-- [ ] probablemente haya probelmas si exercises_es esta en version 1.4 y switcheamos el idioma a ingles en veresion 1.0
+- [ ] terminos y condiciones enlazarlos a la pag de github
 - [ ] quitar api numbers full offline volumen conteo semanal de hard sets. añadir boton de hard sets semanal
+- [ ] Localizaciones, todos los strings fuera
+- [ ] Optimizaciones
 - [ ] apartados donde aparezca información académica y un saber más del volumen y to eso
+- [ ] probablemente haya probelmas si exercises_es esta en version 1.4 y switcheamos el idioma a ingles en veresion 1.0
 
 
 ## Completed
