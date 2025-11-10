@@ -38,6 +38,9 @@
       },
       "homepage": {
         "startupType": "instant"
+      },
+      "notebook-navigator": {
+        "startupType": "disabled"
       }
     }
   }

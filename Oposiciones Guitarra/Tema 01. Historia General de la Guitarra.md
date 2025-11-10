@@ -59,7 +59,8 @@ Sus características eran:
 - Separación del **zoque** del mango, a diferencia de la tradición española donde el zoque es parte del mástil.
 - Se aleja de las tradiciones más conservadoras de las escuelas castellana y andaluza.
 
-> Zoque es el bloque que se dispone en la parte inferior del mástil donde se insertan los aros.
+> [!NOTE]
+>Zoque es el bloque que se dispone en la parte inferior del mástil donde se insertan los aros.
 
 **Escuela andaluza:**
 - Introduce en la segunda mitad del siglo XVIII el **varetaje en abanico**, elemento fundamental en la construcción moderna.

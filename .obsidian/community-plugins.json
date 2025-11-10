@@ -2,8 +2,8 @@
   "obsidian-git",
   "obsidian-kanban",
   "obsidian-icon-folder",
-  "lazy-plugins",
   "dataview",
   "phrasesync",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "lazy-plugins"
 ]
