@@ -4,37 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "439350c432711927",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5b93d71f7d4dcd5b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Project/TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "TODO"
-            },
-            "group": "a9c5eb2d205c6ed2"
-          }
-        ]
-      },
-      {
         "id": "97f4f0bf76f93a93",
         "type": "tabs",
         "children": [
           {
             "id": "c0a87452a631d342",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -46,10 +22,10 @@
                   ]
                 }
               },
+              "pinned": true,
               "icon": "lucide-trello",
               "title": "TODO"
-            },
-            "group": "a9c5eb2d205c6ed2"
+            }
           }
         ]
       }
@@ -217,7 +193,8 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "c0a87452a631d342",
