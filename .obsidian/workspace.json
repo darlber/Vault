@@ -217,9 +217,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "graph:Open graph view": false,
-      "notebook-navigator:Notebook Navigator": false
+      "graph:Open graph view": false
     }
   },
   "active": "c0a87452a631d342",
