@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-11-15.md",
+                "file": "Project/2025-11-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -257,11 +257,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "e0881fdab03190d4",
   "lastOpenFiles": [
-    "2025-11-15.md",
-    "Project/Gantt previo.md",
     "Project/2025-11-13.md",
+    "Project/2025-11-15.md",
+    "Project/Gantt previo.md",
     "Project/2025-09-22.md",
     "Project/2025-07-30.md",
     "Project/0.Listado Commits.md",
@@ -305,4 +305,8 @@
     "Math/Assets/Images/cycle5-color1.png",
     "Math/Assets/Images/cycle5-color2.png",
     "Math/Assets/Images/degree-example-2.png",
-    "Math/Assets/Images/good colors.pn
+    "Math/Assets/Images/good colors.png",
+    "Chemistry/Periodic Table.canvas",
+    "Untitled.canvas"
+  ]
+}
