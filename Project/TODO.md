@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] añadir en settings para informacion y papers
 - [ ] terminos y condiciones revisar y hacer cquizas en español?
 - [ ] Mejores estadísticas y Graph
 - [ ] Pantalla bienvenida
