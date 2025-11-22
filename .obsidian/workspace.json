@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-11-15.md",
+                "file": "Project/2025-11-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-15"
+              "title": "2025-11-22"
             }
           }
         ],
@@ -253,13 +253,15 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e0881fdab03190d4",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
-    "Project/2025-11-13.md",
     "Project/2025-11-15.md",
+    "Project/2025-11-22.md",
+    "Project/2025-11-13.md",
     "Project/Gantt previo.md",
     "Project/2025-09-22.md",
     "Project/2025-07-30.md",
@@ -284,7 +286,6 @@
     "Project/2025-08-04.md",
     "Project/2025-07-28.md",
     "Project/2025-09-04.md",
-    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
