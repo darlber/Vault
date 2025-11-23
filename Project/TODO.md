@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] Dejar espacio para nuestro nombre y bienvenida en HOME
 - [ ] terminos y condiciones y tutorial
 - [ ] Mejores estadísticas y Graph
-- [ ] Pantalla bienvenida
-- [ ] Personalizar nombre
-- [ ] Dejar espacio para nuestro nombre y bienvenida en HOME
 - [ ] Optimizaciones
+- [x] Pantalla bienvenida
+- [x] Personalizar nombre
 - [x] Localizaciones, todos los strings fuera
 - [x] apartados donde aparezca información académica y un saber más del volumen y to eso
 - [x] revisar idiomas y base de datos, uniformar
