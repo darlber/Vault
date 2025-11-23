@@ -6,10 +6,12 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Dejar espacio para nuestro nombre y bienvenida en HOME
-- [ ] terminos y condiciones y tutorial
+- [ ] pedir notificaciones en donde el timer
+- [ ] terminos y condiciones y tutorial taptargetview
+- [ ] boton updates
 - [ ] Mejores estadísticas y Graph
 - [ ] Optimizaciones
+- [x] Dejar espacio para nuestro nombre y bienvenida en HOME
 - [x] Pantalla bienvenida
 - [x] Personalizar nombre
 - [x] Localizaciones, todos los strings fuera
