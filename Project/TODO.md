@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] pedir notificaciones en donde el timer
 - [ ] terminos y condiciones y tutorial taptargetview
 - [ ] boton updates
 - [ ] Mejores estadísticas y Graph
 - [ ] Optimizaciones
+- [x] pedir notificaciones en donde el timer
 - [x] Dejar espacio para nuestro nombre y bienvenida en HOME
 - [x] Pantalla bienvenida
 - [x] Personalizar nombre
