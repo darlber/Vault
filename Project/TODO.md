@@ -6,17 +6,17 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] terminos y condiciones revisar y hacer cquizas en español?
+- [ ] terminos y condiciones y tutorial
 - [ ] Mejores estadísticas y Graph
 - [ ] Pantalla bienvenida
 - [ ] Personalizar nombre
 - [ ] Dejar espacio para nuestro nombre y bienvenida en HOME
-- [ ] quitar api numbers full offline volumen conteo semanal de hard sets. añadir boton de hard sets semanal
-- [ ] Localizaciones, todos los strings fuera
 - [ ] Optimizaciones
-- [ ] apartados donde aparezca información académica y un saber más del volumen y to eso
-- [ ] revisar idiomas y base de datos, uniformar
-- [ ] La aplicación se rompe porque si en las estadísticas Si cambias el wallpaper
+- [x] Localizaciones, todos los strings fuera
+- [x] apartados donde aparezca información académica y un saber más del volumen y to eso
+- [x] revisar idiomas y base de datos, uniformar
+- [x] La aplicación se rompe porque si en las estadísticas Si cambias el wallpaper
+- [x] quitar api numbers full offline volumen conteo semanal de hard sets. añadir boton de hard sets semanal
 
 
 ***
