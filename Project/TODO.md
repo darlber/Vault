@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] terminos y condiciones y tutorial taptargetview
 - [ ] boton updates
-- [ ] Mejores estadísticas y Graph
+- [ ] Mejores estadísticas y Graph, i18n
 - [ ] Optimizaciones
 - [x] pedir notificaciones en donde el timer
 - [x] Dejar espacio para nuestro nombre y bienvenida en HOME
