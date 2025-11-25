@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2025-11-22.md",
+                "file": "Project/0.Listado Commits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-22"
+              "title": "0.Listado Commits"
             }
           }
         ],
@@ -259,8 +259,8 @@
   },
   "active": "e0881fdab03190d4",
   "lastOpenFiles": [
-    "Project/0.Listado Commits.md",
     "Project/2025-11-22.md",
+    "Project/0.Listado Commits.md",
     "Project/2025-11-19.md",
     "Project/2025-11-18.md",
     "Project/2025-11-21.md",
