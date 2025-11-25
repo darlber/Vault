@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] terminos y condiciones y tutorial taptargetview
+- [ ] quitar terminos y condiciones y por ende la dependencia de markdown y tutorial taptargetview
 - [ ] boton updates
 - [ ] Mejores estadísticas y Graph, i18n, añadir volumen total levantado por ejercicio? en finish?
 - [ ] Optimizaciones
