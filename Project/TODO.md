@@ -6,10 +6,10 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] quitar terminos y condiciones y por ende la dependencia de markdown y tutorial taptargetview
-- [ ] boton updates
-- [ ] Mejores estadísticas y Graph, i18n, añadir volumen total levantado por ejercicio? en finish?
 - [ ] Optimizaciones
+- [x] quitar terminos y condiciones y por ende la dependencia de markdown y tutorial taptargetview
+- [x] Mejores estadísticas y Graph, i18n, añadir volumen total levantado por ejercicio? en finish?
+- [x] boton updates
 - [x] pedir notificaciones en donde el timer
 - [x] Dejar espacio para nuestro nombre y bienvenida en HOME
 - [x] Pantalla bienvenida
