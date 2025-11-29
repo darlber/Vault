@@ -268,18 +268,19 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c0a87452a631d342",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
+    "Project/TODO.md",
     "Project/2025-11-27.md",
     "Project/2025-11-22.md",
     "Project/0.Listado Commits.md",
     "Project/2025-11-19.md",
     "Project/2025-11-18.md",
     "Project/2025-11-21.md",
-    "Project/TODO.md",
     "Project/2025-11-17.md",
     "Project/2025-11-16.md",
     "Project/2025-11-15.md",
