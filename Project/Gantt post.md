@@ -1,50 +1,83 @@
 ```mermaid
 gantt
-    title Cronograma de Desarrollo - App Entrenamiento (2025)
-    dateFormat  YYYY-MM-DD
-    axisFormat  %d/%m
-	todayMarker off
-    section Infraestructura y Base
-    DAO + Constantes                    :done, a1, 2025-09-22, 2d
-    Migrar constantes a enums           :done, a2, 2025-09-24, 1d
-    Theme + i18n base                   :done, a3, 2025-09-25, 2d
 
-    section Funcionalidades Principales
-    HomeViewModel + sesión inicial      :done, b1, 2025-09-27, 1d
-    Settings + export/import DB         :done, b2, 2025-09-28, 1d
-    Pantalla de sesión inicial          :done, b3, 2025-09-29, 1d
-    Splash + UI base                    :done, b4, 2025-09-30, 1d
-    Header + bottom bar refactor        :done, b5, 2025-10-01, 1d
+    title Desarrollo Real MysLog (2025)
 
-    section Exercise Picker
-    Picker básico + VM mejoras          :done, c1, 2025-10-02, 2d
-    UI + ExerciseCard                   :done, c2, 2025-10-04, 5d
-    Buscador + popup imagen             :done, c3, 2025-10-09, 1d
-    Mejoras filtrado + bottom sheets    :done, c4, 2025-10-10, 3d
-    ModalBottomSheet oficial            :done, c5, 2025-10-13, 1d
-    Stats popup + rediseño tarjetas     :done, c6, 2025-10-14, 2d
-    Stats popup final                   :done, c7, 2025-10-16, 1d
+    dateFormat  YYYY-MM-DD
 
-    section Sesión y Timer
-    Timer service + integración         :done, d1, 2025-10-17, 1d
-    Resultados sesión + fun facts       :done, d2, 2025-10-18, 1d
-    Mejora UI Timer & Sesión            :done, d3, 2025-10-19, 1d
+    axisFormat  %d/%m
 
-    section Base de Datos y Datos Remotos
-    Poblar desde GitHub + imágenes      :done, e1, 2025-10-20, 2d
-    Multi-idioma ejercicios             :done, e2, 2025-10-22, 2d
-    Cambio dinámico idioma ejercicios   :done, e3, 2025-10-24, 1d
-    Mejoras actualización DB            :done, e4, 2025-10-25, 5d
+    todayMarker off
 
-    section Optimizaciones finales
-    Logging + limpiar DB                :done, f1, 2025-10-30, 1d
-    Mejoras filtros + sets              :done, f2, 2025-10-31, 2d
-    UI picker + callbacks DB            :done, f3, 2025-11-02, 1d
-    Keep Screen On + SessionScreen      :done, f4, 2025-11-03, 4d
-    Copiar sets + refinado general      :done, f5, 2025-11-07, 3d
-    Migrar imágenes localmente          :done, f6, 2025-11-10, 2d
+  
 
-    section Cierre & Entrega
-    Pruebas finales y pulido            :crit, g1, 2025-11-12, 28d
-    Entrega                             :milestone, g2, 2025-12-12, 0d
+    section Análisis
+
+    Req. y alcance     : 2025-09-22, 4d
+
+    Modelo funcional    : 2025-09-26, 4d
+
+    Arquitectura    : 2025-09-30, 3d
+
+  
+
+    section Diseño
+
+    Diseño UI          : 2025-10-03, 6d
+
+    Diseño BD        : 2025-10-09, 4d
+
+    Navegación    : 2025-10-13, 3d
+
+  
+
+    section Implementación
+
+    Setup proyecto + dependencias : 2025-10-16, 2d
+
+    Database + entidades : 2025-10-18, 2d
+
+    Repository pattern : 2025-10-20, 2d
+
+    Home + Session screens : 2025-10-22, 3d
+
+    ExercisePicker v1 : 2025-10-25, 3d
+
+    ExerciseCard + UI components : 2025-10-28, 3d
+
+    Filtros ExercisePicker : 2025-10-31, 4d
+
+    Timer Service : 2025-11-04, 3d
+
+    Exercise Stats : 2025-11-07, 3d
+
+    Multi-idioma ejercicios : 2025-11-10, 3d
+
+    Workouts system : 2025-11-13, 3d
+
+    Onboarding + perfil : 2025-11-16, 3d
+
+    Tutoriales : 2025-11-19, 3d
+
+  
+
+    section Pruebas
+
+    Pruebas unit. e integración  : 2025-11-22, 5d
+
+    Pruebas de UX + bugs    : 2025-11-27, 4d
+
+  
+
+    section Despliegue y Entrega
+
+    Internacionalización UI : 2025-12-01, 3d
+
+    Settings avanzado : 2025-12-04, 3d
+
+    Import/Export DB : 2025-12-07, 3d
+
+    Iconos + pulido final : 2025-12-10, 2d
+
+    Entrega Final :milestone, 2025-12-11, 0d
 ```
