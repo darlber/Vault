@@ -11,18 +11,15 @@
             "id": "e0881fdab03190d4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project/TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Project/2025-07-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "2025-07-21"
             },
             "group": "a51bdd9d212a6a7b"
           }
@@ -36,18 +33,15 @@
             "id": "f1096f206e562d3b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project/TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Project/2025-07-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "2025-07-21"
             },
             "group": "a51bdd9d212a6a7b"
           }
@@ -223,10 +217,11 @@
   },
   "active": "f1096f206e562d3b",
   "lastOpenFiles": [
+    "Project/0.Listado Commits.md",
+    "Project/TODO.md",
     "Project/Kotlin Wiki.md",
     "Project/Esquema inicial.md",
     "Project/Gantt post.md",
-    "Project/0.Listado Commits.md",
     "Project/Gantt previo.md",
     "Project/2025-11-29.md",
     "Project/2025-11-18.md",
@@ -248,7 +243,6 @@
     "Project/2025-09-02.md",
     "Project/2025-09-01.md",
     "Project/2025-08-21.md",
-    "Project/2025-08-20.md",
     "Untitled.base",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
