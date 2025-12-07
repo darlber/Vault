@@ -30,10 +30,11 @@
 ## Cuerpo (30 min)
 Práctica de frases o semifrases determinadas en función de la sesión anterior y de las dificultades que planteen. 
 - [ ] Práctica lenta, con partitura, de uno o varios compases. 
-	- [ ] Con metrónomo.
-	- [ ] Variando el ritmo.
-	- [ ] Variando la velocidad.
-	- [ ] Variando la dinámica.
+	- [ ] Con metrónomo
+	- [ ] Variando el ritmo
+	- [ ] Variando la velocidad
+	- [ ] Variando la dinámica
+	
 
 >[!IMPORTANT]
 > En esta parte es importante resolver al menos 1 de los problemas que sintamos que la pieza nos plantea. Si no es posible resolverlo, al menos apuntar a que nos salga mejor 7/10 repeticiones.
