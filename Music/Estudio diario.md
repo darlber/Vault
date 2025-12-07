@@ -3,14 +3,14 @@
 # Antes de conocer la obra de memoria:
 - [ ] Toma de decisiones inicial: qué vamos a trabajar en la sesión y con qué objetivo. Qué pasajes y de qué manera.
 ## Conociendo la pieza (30 min)
-- [ ] Montar un número determinado de pasajes (10 min) 
-- [ ] Practicar los mismos (10 min) 
-- [ ] Intentar memorizarlos (10 min). 
+- [ ] Montar un número determinado de pasajes. (10 min) 
+- [ ] Practicar los mismos. (10 min) 
+- [ ] Intentar memorizarlos. (10 min)
 >[!IMPORTANT]
 >Practicar lento y sin metrónomo, muy escalonado para ir aprendiendo compases y uniones por separado. Buena idea empezar a estudiar por los compases del final.
 ## Escoger uno de la siguiente lista cada día (15 min)
 - [ ] Práctica de arpegios y pasajes veloces o virtuosísticos: Simplificar inicialmente. Escoger uno de la siguiente lista cada día.
-	- [ ] Si hay arpegios -> Plaqué
+	- [ ] Si hay arpegios -> Plaqué.
 	- [ ] Si hay acordes plaqué -> Practicar quitando voces intermedias o extremas. Ir añadiendo hasta cómodamente ser capaz de tocar todas las notas del acorde con el mismo volumen. Una vez el acorde esté completo, probar a destacar 1 voz en concreto. Por ejemplo, acorde de 4 notas, que se escuche más la 2a voz.
 	- [ ] Si hay pasajes rápidos -> Practicarlos lento y sin metrónomo. Habituación de la mano sobre el pasaje.
 	- [ ] Si hay polifonía y movimientos imitativos -> Separar voces y practicar únicamente la coherencia entre las distintas voces. Que suenen siempre de la misma manera.
@@ -26,14 +26,15 @@
 	- [ ] Repasar muy lento durante 2 compases, y a tempo los 2 siguientes.
 	- [ ] Repasar cambiando el ritmo. Ejemplo, si son corcheas, alargar la primera y acortar la segunda, a modo de corchea con puntillo-semicorchea. Alternar.
 	- [ ] Repasar con los ojos cerrados
-- [ ] Estudiar enfrente de un espejo observando las distintas secciones del cuerpo cada vez. 1 pase, 1 objetivo. ¿Cuáles son las manías de nuestro cuerpo y en qué pasajes surgen?
+- [ ] Estudiar enfrente de un espejo observando las distintas secciones del cuerpo cada vez. 1 pase, 1 objetivo. ¿Cuáles son las manías de nuestro cuerpo y en qué pasajes surgen? Anotar para resolver en la siguiente sesión.
 ## Cuerpo (30 min)
 Práctica de frases o semifrases determinadas en función de la sesión anterior y de las dificultades que planteen. 
 - [ ] Práctica lenta, con partitura, de uno o varios compases. 
 	- [ ] Con metrónomo
 	- [ ] Variando el ritmo
 	- [ ] Variando la velocidad
-	- [ ] Variando la dinámica
+	- [ ] Variando la dinámica. ¿Qué suena mejor y más convincente?
+
 	
 
 >[!IMPORTANT]

@@ -1,3 +1,4 @@
 - [ ] Revisión de la toma de decisiones agógica y dinámica. ¿Funciona a velocidades más cercanas al tempo real?
 - [ ] ¿Sabemos qué quiere decir la obra en su totalidad?
 - [ ] ¿Sabemos qué quiere decir la obra y las emociones asociadas a cada pasaje?
+- [ ] Revisión de digitación.

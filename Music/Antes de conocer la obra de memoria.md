@@ -1,3 +1,3 @@
 - [ ] Conocer contexto socio-histórico-político que preceden la obra.
 - [ ] Análisis estructural, formal, armónico.
-- [ ] Toma inicial de decisiones sobre agógica y dinámica. Búsqueda de frases y semifrases. Dónde respirar y dónde no.
+- [ ] Toma inicial de decisiones sobre agógica y dinámica. Búsqueda de frases y semifrases. Dónde respirar y dónde no. Digitación.
