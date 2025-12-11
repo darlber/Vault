@@ -11,15 +11,10 @@
             "id": "e0881fdab03190d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Estudio diario.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Estudio diario"
+              "title": "New tab"
             },
             "group": "e362050382cb3edd"
           }
@@ -33,15 +28,10 @@
             "id": "59e6f56ab2305f4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Estudio diario.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Estudio diario"
+              "title": "New tab"
             },
             "group": "e362050382cb3edd"
           }
@@ -215,7 +205,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e0881fdab03190d4",
+  "active": "816e6f72a3f9ae99",
   "lastOpenFiles": [
     "Music/Preparación para concierto.md",
     "Music/Estudio diario.md",
