@@ -11,21 +11,24 @@
             "id": "e0881fdab03190d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             },
             "group": "e362050382cb3edd"
           }
         ]
       },
       {
-        "id": "d4508a27ee7bd1f1",
+        "id": "12f83dee8bb2a0db",
         "type": "tabs",
         "children": [
           {
-            "id": "59e6f56ab2305f4c",
+            "id": "8f6a6641e938de8b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -204,8 +207,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "e0881fdab03190d4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.base",
     "Music/Preparación para concierto.md",
     "Music/Estudio diario.md",
     "Music/Después de conocer la obra de memoria.md",
@@ -230,9 +235,6 @@
     "Project/2025-09-14.md",
     "Project/2025-09-13.md",
     "Project/2025-09-12.md",
-    "Project/2025-09-08.md",
-    "Project/2025-09-06.md",
-    "Untitled.base",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
