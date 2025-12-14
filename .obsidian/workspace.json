@@ -11,13 +11,15 @@
             "id": "e0881fdab03190d4",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Math/Start.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Start"
             },
             "group": "e362050382cb3edd"
           }
@@ -204,13 +206,18 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "e0881fdab03190d4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Math/Combinatorics/Binomial coefficient.md",
+    "Math/Start.md",
+    "Math/Basic math concepts/Closure of the integers.md",
+    "Math/Trees/Breadth first search.md",
     "Untitled.base",
+    "Untitled.md",
     "Music/Preparación para concierto.md",
     "Music/Estudio diario.md",
     "Music/Después de conocer la obra de memoria.md",
@@ -232,9 +239,6 @@
     "Project/2025-09-22.md",
     "Project/2025-09-19.md",
     "Project/2025-09-15.md",
-    "Project/2025-09-14.md",
-    "Project/2025-09-13.md",
-    "Project/2025-09-12.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
