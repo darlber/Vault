@@ -207,16 +207,17 @@
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "phrasesync:Reload PhraseSync": false
     }
   },
-  "active": "e0881fdab03190d4",
+  "active": "8f6a6641e938de8b",
   "lastOpenFiles": [
-    "Math/Combinatorics/Binomial coefficient.md",
     "Math/Start.md",
+    "Untitled.base",
+    "Math/Combinatorics/Binomial coefficient.md",
     "Math/Basic math concepts/Closure of the integers.md",
     "Math/Trees/Breadth first search.md",
-    "Untitled.base",
     "Untitled.md",
     "Music/Preparación para concierto.md",
     "Music/Estudio diario.md",
@@ -238,7 +239,6 @@
     "Project/2025-11-13.md",
     "Project/2025-09-22.md",
     "Project/2025-09-19.md",
-    "Project/2025-09-15.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
