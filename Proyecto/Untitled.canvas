@@ -1,10 +1,5 @@
 {
 	"nodes":[
-		{"id":"B1","type":"text","text":"Video Clip Picker","x":330,"y":550,"width":260,"height":70,"color":"4"},
-		{"id":"B2","type":"text","text":"YouTube API Integration","x":330,"y":665,"width":260,"height":70,"color":"4"},
-		{"id":"H","type":"text","text":"Audio / Video\nTone.js + FFmpeg + YouTube API","x":700,"y":640,"width":280,"height":120,"color":"2"},
-		{"id":"B3","type":"text","text":"Audio Instrument Interface\nTone.js + Canvas","x":330,"y":800,"width":260,"height":100,"color":"4"},
-		{"id":"B4","type":"text","text":"Game Round Logic\nState Management","x":330,"y":935,"width":260,"height":85,"color":"4"},
 		{"id":"G","type":"text","text":"Real-time\nWebSocket + STOMP","x":-920,"y":600,"width":280,"height":80,"color":"2"},
 		{"id":"E","type":"text","text":"Backend\nSpring Boot + PostgreSQL + Redis","x":-1000,"y":55,"width":320,"height":82,"color":"2"},
 		{"id":"A2","type":"text","text":"Day 4–5\nJWT Authentication","x":-560,"y":195,"width":260,"height":85,"color":"1"},
@@ -15,14 +10,19 @@
 		{"id":"A6","type":"text","text":"Day 12–13\nCharacter Editor MVP","x":-560,"y":725,"width":260,"height":100,"color":"1"},
 		{"id":"A7","type":"text","text":"Day 14–15\nDocker Deployment","x":-560,"y":890,"width":260,"height":100,"color":"1"},
 		{"id":"F","type":"text","text":"Frontend\nSvelteKit + TypeScript + Tailwind","x":-200,"y":318,"width":280,"height":120,"color":"2"},
-		{"id":"C1","type":"text","text":"Shop & Inventory System","x":1200,"y":838,"width":260,"height":70,"color":"6"},
-		{"id":"D1","type":"text","text":"Performance Optimization","x":1550,"y":1138,"width":260,"height":70,"color":"6"},
-		{"id":"D2","type":"text","text":"Security Hardening","x":1550,"y":1238,"width":260,"height":70,"color":"6"},
-		{"id":"C2","type":"text","text":"Multiplayer Sync\nWebSocket Events","x":1200,"y":938,"width":260,"height":80,"color":"6"},
-		{"id":"C3","type":"text","text":"UI/UX Polish\nAnimations & Sounds","x":1200,"y":1038,"width":260,"height":100,"color":"6"},
-		{"id":"C4","type":"text","text":"Testing Suite\nUnit & E2E Tests","x":1200,"y":1138,"width":260,"height":100,"color":"6"},
-		{"id":"D3","type":"text","text":"Deployment Pipeline\nCI/CD","x":1550,"y":1338,"width":260,"height":100,"color":"6"},
-		{"id":"D4","type":"text","text":"Production Launch\nMVP Release","x":1550,"y":1438,"width":260,"height":80,"color":"6"}
+		{"id":"B2","type":"text","text":"YouTube API Integration","x":-180,"y":1015,"width":260,"height":70,"color":"4"},
+		{"id":"B3","type":"text","text":"Audio Instrument Interface\nTone.js + Canvas","x":-180,"y":1150,"width":260,"height":100,"color":"4"},
+		{"id":"B4","type":"text","text":"Game Round Logic\nState Management","x":-180,"y":1285,"width":260,"height":85,"color":"4"},
+		{"id":"H","type":"text","text":"Audio / Video\nTone.js + FFmpeg + YouTube API","x":190,"y":990,"width":280,"height":120,"color":"2"},
+		{"id":"B1","type":"text","text":"Video Clip Picker","x":-180,"y":900,"width":260,"height":70,"color":"4"},
+		{"id":"C1","type":"text","text":"Shop & Inventory System","x":210,"y":1370,"width":260,"height":70,"color":"6"},
+		{"id":"C2","type":"text","text":"Multiplayer Sync\nWebSocket Events","x":210,"y":1470,"width":260,"height":80,"color":"6"},
+		{"id":"C3","type":"text","text":"UI/UX Polish\nAnimations & Sounds","x":210,"y":1570,"width":260,"height":100,"color":"6"},
+		{"id":"C4","type":"text","text":"Testing Suite\nUnit & E2E Tests","x":210,"y":1670,"width":260,"height":100,"color":"6"},
+		{"id":"D1","type":"text","text":"Performance Optimization","x":560,"y":1670,"width":260,"height":70,"color":"6"},
+		{"id":"D2","type":"text","text":"Security Hardening","x":560,"y":1770,"width":260,"height":70,"color":"6"},
+		{"id":"D3","type":"text","text":"Deployment Pipeline\nCI/CD","x":560,"y":1870,"width":260,"height":100,"color":"6"},
+		{"id":"D4","type":"text","text":"Production Launch\nMVP Release","x":560,"y":1970,"width":260,"height":80,"color":"6"}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"A1","fromSide":"bottom","toNode":"A2","toSide":"top"},
