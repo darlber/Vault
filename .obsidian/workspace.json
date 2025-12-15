@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Start.md",
+                "file": "Proyecto/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Untitled"
             },
             "group": "e362050382cb3edd"
           }
@@ -33,10 +33,15 @@
             "id": "8f6a6641e938de8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             },
             "group": "e362050382cb3edd"
           }
@@ -207,12 +212,14 @@
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "phrasesync:Reload PhraseSync": false
+      "phrasesync:Reload PhraseSync": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "8f6a6641e938de8b",
   "lastOpenFiles": [
+    "Proyecto/Untitled.md",
+    "Proyecto",
     "Math/Start.md",
     "Untitled.base",
     "Math/Combinatorics/Binomial coefficient.md",
@@ -247,7 +254,6 @@
     "CyberTesting/Assets/Excalidraw/SSRF.md~RF4cebd17.TMP",
     "Math/Assets/Images/k33-colored.png~RF4ceb75a.TMP",
     "CyberTesting/Assets/Excalidraw/Modern Web Workflow.md~RF4ce9897.TMP",
-    "Project/2025-08-01.md~RF4ce94af.TMP",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Math/Assets/Images/bad color.png",
     "Math/Assets/Images/binary-division.jpg",
