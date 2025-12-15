@@ -1,5 +1,5 @@
 ## Backend (Spring Boot Ecosystem)
-- Java 17+ (or Kotlin 1.9+)
+- Java 25
 - Spring Boot 3.2+
 - Spring Security 6+ (Authentication)
 - Spring Data JPA (Database)

@@ -11,15 +11,17 @@
             "id": "e0881fdab03190d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Proyecto/Game Development Technology Stack.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Proyecto/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Game Development Technology Stack"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             },
             "group": "e362050382cb3edd"
           }
@@ -33,15 +35,17 @@
             "id": "8f6a6641e938de8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Proyecto/Game Development Technology Stack.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Proyecto/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Game Development Technology Stack"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             },
             "group": "e362050382cb3edd"
           }
@@ -216,9 +220,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e0881fdab03190d4",
+  "active": "585971d864482985",
   "lastOpenFiles": [
+    "Proyecto/Untitled.canvas",
+    "Proyecto/Drawing 2025-12-15 17.55.21.excalidraw.md",
     "Proyecto/Game Development Technology Stack.md",
+    "Proyecto/Untitled Kanban.md",
     "Proyecto",
     "Math/Start.md",
     "Untitled.base",
@@ -243,9 +250,6 @@
     "Project/0.Listado Commits.md",
     "Project/2025-11-16.md",
     "Project/2025-11-15.md",
-    "Project/2025-11-13.md",
-    "Project/2025-09-22.md",
-    "Project/2025-09-19.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
