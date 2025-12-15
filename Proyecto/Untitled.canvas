@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"b5d83be3568d38b0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"asda"}
+		{"id":"b5d83be3568d38b0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"asda"},
+		{"id":"402eb44adf008489","x":-159,"y":213,"width":250,"height":60,"type":"text","text":"2"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ebc3c9977474af87","fromNode":"b5d83be3568d38b0","fromSide":"bottom","toNode":"402eb44adf008489","toSide":"top"}
+	]
 }
