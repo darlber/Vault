@@ -15,39 +15,14 @@
               "state": {
                 "file": "Proyecto/Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 617.5093614153284,
+                  "y": 845.549002233496,
+                  "zoom": -0.30429029831201493
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
-            },
-            "group": "e362050382cb3edd"
-          }
-        ]
-      },
-      {
-        "id": "12f83dee8bb2a0db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f6a6641e938de8b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Proyecto/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            },
-            "group": "e362050382cb3edd"
+            }
           }
         ]
       }
