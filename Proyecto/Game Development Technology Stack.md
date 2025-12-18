@@ -10,7 +10,7 @@
 - Spring Cloud Config (Optional, for scaling)
 
 ## Database & Storage
-- PostgreSQL 15+ (Primary relational DB)
+- PostgreSQL 15.15 (Primary relational DB)
 - Redis 7+ (Caching & session storage)
 - Amazon S3 / Cloudflare R2 (Media storage)
 - MongoDB (Optional for flexible inventory data)

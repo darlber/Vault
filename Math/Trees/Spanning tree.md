@@ -8,7 +8,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> Let $G$ be a [[Graph|graph]]. A **spanning tree** of $G$ is a [[Subgraph|subgraph]] of $G$ that contains all the [[Graph|vertices]] of $G$ and is a [[tree]].  
+> Let $G$ be a [[Graph|graph]]. A **spanning tree** of $G$ is a [[Subgraph|subgraph]] of $G$ that contains all the [[Graph|vertices]] of $G$ and is a [[Tree]].  
 
 Notes: 
 - A spanning tree need not include all the [[Graph|edges]] of $G$; usually many edges are not included. 

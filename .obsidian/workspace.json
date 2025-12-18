@@ -11,17 +11,15 @@
             "id": "e0881fdab03190d4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Proyecto/Phases.canvas",
-                "viewState": {
-                  "x": -318.39087672469566,
-                  "y": 141.66183336571174,
-                  "zoom": -0.46518153243856797
-                }
+                "file": "Proyecto/Game Development Technology Stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Phases"
+              "icon": "lucide-file",
+              "title": "Game Development Technology Stack"
             }
           }
         ]
@@ -197,8 +195,9 @@
   },
   "active": "e0881fdab03190d4",
   "lastOpenFiles": [
-    "Proyecto/Game Development Technology Stack.md",
+    "Proyecto/MusiChaos - Resumen de Clases.md",
     "Proyecto/Phases.canvas",
+    "Proyecto/Game Development Technology Stack.md",
     "Proyecto/Drawing 2025-12-15 17.55.21.excalidraw.md",
     "Proyecto/Untitled Kanban.md",
     "Proyecto",
@@ -224,7 +223,6 @@
     "Project/2025-07-31.md",
     "Project/0.Listado Commits.md",
     "Project/2025-11-16.md",
-    "Project/2025-11-15.md",
     "Math/Computer Arithmetic/Base 16 representation.md~RF4cf1b16.TMP",
     "Math/Sets and Functions/Roster notation.md~RF4cee39a.TMP",
     "Math/Assets/Images/bipartite1.png~RF4cec47a.TMP",
