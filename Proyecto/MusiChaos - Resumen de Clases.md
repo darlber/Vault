@@ -51,6 +51,9 @@
 - **LobbySocketController.java**: Controlador para manejar mensajes en tiempo real en los lobbies (WebSocket).
 
 ## Test
+
 - **AuthIntegrationTest.java**: Test de integración para registro, login y perfil de usuario.
 - **MusichaosApplicationTests.java**: Test básico de contexto Spring Boot.
-- **RoundIntegrationTest.java**: Test de integración para crear, iniciar y finalizar rondas.
+- **RoundIntegrationTest.java**: Test de integración para crear, iniciar y finalizar rondas vía API, validando que los estados de la ronda cambian correctamente (`WAITING` → `ACTIVE` → `FINISHED`).
+- **RoundLobbyIntegrationTest.java**: Test de integración del servicio, verifica que una ronda se puede crear en un lobby, enviar respuesta y finalizar correctamente.
+- **RoundAnswerIntegrationTest.java**: Test de integración vía HTTP, valida el endpoint de envío de respuestas y que la ronda se actualiza correctamente.
