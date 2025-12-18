@@ -189,8 +189,7 @@
       "obsidian-kanban:Create new board": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
-      "phrasesync:Reload PhraseSync": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "phrasesync:Reload PhraseSync": false
     }
   },
   "active": "e0881fdab03190d4",
