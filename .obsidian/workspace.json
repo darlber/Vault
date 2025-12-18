@@ -15,9 +15,9 @@
               "state": {
                 "file": "Proyecto/Phases.canvas",
                 "viewState": {
-                  "x": -543.968371674538,
-                  "y": 1057.4374114894326,
-                  "zoom": -0.16089123412655304
+                  "x": -318.39087672469566,
+                  "y": 141.66183336571174,
+                  "zoom": -0.46518153243856797
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -195,7 +195,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "816e6f72a3f9ae99",
+  "active": "e0881fdab03190d4",
   "lastOpenFiles": [
     "Proyecto/Game Development Technology Stack.md",
     "Proyecto/Phases.canvas",
