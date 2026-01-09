@@ -1,9 +1,9 @@
-# Escuelas nacionales. Tablaturas, criterios de transcripción y de edición.
+# Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
 ## Índice:
 1. [Introducción](#Introducción)  
 	1. [Características del laúd renacentista](#Características%20del%20laúd%20renacentista)  
 	2. [Repertorio y estilo](#Repertorio%20y%20estilo)  
-2. [Escuelas nacionales. Autores](#Escuelas%20nacionales.%20Autores))  
+2. [Escuelas nacionales. Autores](#Escuelas%20nacionales.%20Autores)  
 	1. [Escuela de Italia](#Escuela%20de%20Italia)  
 	2. [Escuela de Francia](#Escuela%20de%20Francia)  
 	3. [Escuela de Alemania](#Escuela%20de%20Alemania)  
