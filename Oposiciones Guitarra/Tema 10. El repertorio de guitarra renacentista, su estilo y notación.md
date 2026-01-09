@@ -1,3 +1,5 @@
+# Tablaturas, criterios de transcripción y de edición.
+## Índice:
 1. [Repertorio de guitarra renacentista](#Repertorio%20de%20guitarra%20renacentista)
 	1. [Introducción. Ubicación histórica](#Introducción.%20Ubicación%20histórica)
 	2. [Afinación](#Afinación)
