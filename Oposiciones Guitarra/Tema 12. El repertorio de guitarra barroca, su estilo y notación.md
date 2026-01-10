@@ -1,9 +1,7 @@
 # Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
 
 # Índice
-
 # Introducción
-
 Cuando el Renacimiento se ve agotado como corriente y estética, aparece una nueva etapa denominada Barroco. La música, a diferencia de otras artes, tenía libertad para ampliar su campo expresivo en distintas direcciones, lo que estimuló el desarrollo del lado emocional de la misma, creándose teorías como la de los afectos.  
 
 Entre los muchos cambios que se produjeron en la música podemos destacar algunos como:  
@@ -102,4 +100,47 @@ Al final del Barroco, sobre todo en **Italia y España**, el **sistema de notaci
 Gracias al **estilo mixto** se escribieron formas musicales de gran calidad como **pasacalles, chaconas y suites**.  
 
 La evolución a este estilo permitió que la **guitarra española de cinco órdenes**, que estaba catalogada como popular, se elevara en **popularidad y prestigio**, siendo conocida por las cortes más importantes de países europeos como: **Francia, Inglaterra y Países Bajos**.
+## Formas compositivas
+
+Las **colecciones de danzas renacentistas** evolucionaron dando lugar en esta época a **nuevas formas instrumentales**, como:  
+
+Adagio, allemande, aria, balletto, batalla, bourrée, canario, clarines, courante, chaconne, danza, double, españoleta, fandango, folía, fuga, marizapalos, matachím, menuet, pasacalle, pavana, prelude, rondó, ruggiero, villanos, saltarelo, sarabande, seguidilla, sinfonía, sonata, tombeau, tocata, vacas, villanos, y un largo etc.  
+
+Las **formas más recurrentes en la guitarra barroca** son:  
+
+- **Pasacalle** (estilo rasgueado)  
+- **Courante**  
+- **Sarabande**  
+- **Gigue**  
+- **Menuet**  
+- **Aria**  
+- **Chaconne**  
+- **Prelude**  
+- **Folia**  
+
+Estos movimientos corresponden a la **suite barroca**.  
+
+La **mayor parte de las composiciones** para este tipo de guitarra:  
+
+- No se extienden más allá de los 30 compases.  
+- No están bien definidos por la **ausencia de barras de compás**.  
+
+Las **tonalidades predominantes** en las piezas son:  
+
+- Re menor  
+- Re mayor  
+- Do mayor  
+
+Probablemente estas tonalidades estén relacionadas con la **afinación del instrumento**, buscando cuerdas al aire, etc.  
+
+Los **recursos de ornamentación y dinámica** utilizados incluyen:  
+
+- Barras de compás  
+- Trémolos  
+- Sforzatos  
+- Trinos y mordentes  
+- Tenuto  
+- Líneas oblicuas dentro del compás  
+- Piano y forte  
+- Signos de compás
 
