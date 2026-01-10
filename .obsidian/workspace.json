@@ -23,15 +23,10 @@
             "id": "efec5bd1efece737",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tema 11. El repertorio de laúd renacentista, su estilo y notación."
+              "title": "New tab"
             }
           }
         ],
@@ -146,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 11. El repertorio de laúd renacentista, su estilo y notación."
+              "title": "Outline"
             }
           }
         ],
