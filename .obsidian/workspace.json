@@ -177,8 +177,7 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "9138487f52ac8d94",
