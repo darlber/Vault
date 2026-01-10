@@ -1,5 +1,4 @@
 # Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
-
 # Índice
 # Introducción
 Cuando el Renacimiento se ve agotado como corriente y estética, aparece una nueva etapa denominada Barroco. La música, a diferencia de otras artes, tenía libertad para ampliar su campo expresivo en distintas direcciones, lo que estimuló el desarrollo del lado emocional de la misma, creándose teorías como la de los afectos.  
@@ -37,7 +36,6 @@ A partir de ese momento, se escribieron libros dedicados a distintas formas de t
 - Punteado.  
 - Rasgueado, que poco a poco fue perdiendo importancia.
 # Afinación
-
 Aunque la mayoría de guitarristas lo tenían claro y preferían una **prima sencilla** y las demás dobles, afinadas con **la-re-sol-si-mi**, muchos italianos (s. XVII) no lo tenían tan claro. Prácticamente sólo conservamos algunos testimonios que dan vagos esbozos en cuanto a la afinación por **cuartas justas** y una **tercera mayor** entre los órdenes tercero y segundo.  
 
 Sin embargo, hubo autores que fueron más precisos, como **Giloramo Montesardo**, que describió de forma exacta el número de cuerdas y las octavas en su *Nuova inventione* (1606).  
@@ -50,7 +48,6 @@ Esta afinación fue generalizándose en el resto de los países europeos, aunque
 Por lo tanto, se emplearon una gran diversidad de afinaciones, pero generalizando podemos deducir que las **tres más empleadas** fueron:
 ![](attachments/{42A71911-872D-42BB-B355-059C98BE1EC3}.png)
 # El repertorio de guitarra barroca: su estilo y notación
-
 La guitarra barroca en sus comienzos fue considerada un instrumento **humilde y popular**. El estilo habitual de tocar esta guitarra era al **estilo rasgueado o rasgado**, y se utilizaba mayoritariamente para **acompañar la voz**, ejecutando acordes sencillos.  
 
 Sin embargo, poco a poco se fue introduciendo la guitarra **punteada**, que consistía en tocar pequeñas melodías de canciones y danzas. La evolución del anterior estilo hizo que en la guitarra barroca se estableciese un nuevo sistema de enseñanza que se denominaría **"estilo punteado"**.  
@@ -101,7 +98,6 @@ Gracias al **estilo mixto** se escribieron formas musicales de gran calidad como
 
 La evolución a este estilo permitió que la **guitarra española de cinco órdenes**, que estaba catalogada como popular, se elevara en **popularidad y prestigio**, siendo conocida por las cortes más importantes de países europeos como: **Francia, Inglaterra y Países Bajos**.
 ## Formas compositivas
-
 Las **colecciones de danzas renacentistas** evolucionaron dando lugar en esta época a **nuevas formas instrumentales**, como:  
 
 Adagio, allemande, aria, balletto, batalla, bourrée, canario, clarines, courante, chaconne, danza, double, españoleta, fandango, folía, fuga, marizapalos, matachím, menuet, pasacalle, pavana, prelude, rondó, ruggiero, villanos, saltarelo, sarabande, seguidilla, sinfonía, sonata, tombeau, tocata, vacas, villanos, y un largo etc.  
