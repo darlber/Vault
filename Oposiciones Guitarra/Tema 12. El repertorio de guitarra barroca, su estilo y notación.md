@@ -1,5 +1,16 @@
 # Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
 # Índice
+1. [Introducción](#Introducción)
+2. [Afinación](#Afinación)
+3. [El repertorio de guitarra barroca: su estilo y notación](#El%20repertorio%20de%20guitarra%20barroca%20su%20estilo%20y%20notación)
+	1. [Formas compositivas](#Formas%20compositivas)
+4. [Escuelas nacionales](#Escuelas%20nacionales)
+	1. [La escuela española](#La%20escuela%20española)
+	2. [La escuela italiana](#La%20escuela%20italiana)
+	3. [Tablatura francesa](#Tablatura%20francesa)
+	4. [La escuela de los Países Bajos](#La%20escuela%20de%20los%20Países%20Bajos)
+5. [Tablaturas, Criterios de transcripción y edición](#Tablaturas,%20Criterios%20de%20transcripción%20y%20edición)
+6. [Bibliografía](#Bibliografía)
 # Introducción
 Cuando el Renacimiento se ve agotado como corriente y estética, aparece una nueva etapa denominada Barroco. La música, a diferencia de otras artes, tenía libertad para ampliar su campo expresivo en distintas direcciones, lo que estimuló el desarrollo del lado emocional de la misma, creándose teorías como la de los afectos.  
 
@@ -139,4 +150,147 @@ Los **recursos de ornamentación y dinámica** utilizados incluyen:
 - Líneas oblicuas dentro del compás  
 - Piano y forte  
 - Signos de compás
+# Escuelas nacionales
+## La escuela española
+La guitarra barroca **se va ganando en popularidad** gracias al tratado español más antiguo para guitarra de cinco órdenes, perteneciente a **Joan Carles Amat (1572-1642)**, titulado:  
+
+**_Pequeño tratado sobre Guitarra española y Vandolas en dos maneras de guitarra, Castellana y Cathalana de cinco órdenes_**, publicado en 1596 en Barcelona.  
+
+Otro autor importante es **Luis de Briceño**, con su método:  
+
+**_Mui facilisimo para aprender tañer la guitarra a lo Español_** (París, 1626).  
+Gracias a que estudió en Francia, pudo recoger y plasmar lo aprendido de los maestros del país.  
+
+Posteriormente encontramos el **primer tratado completo y detallado** dedicado a la guitarra de cinco órdenes: **Nicolai Doizi de Velasco (1640)**. En él se abordan aspectos teóricos, teoría sobre intabulación y afinación.  
+
+Los tratados anteriores son muy importantes para la literatura de la guitarra barroca, pero aún no hemos mencionado la obra más brillante de la segunda mitad del siglo XVII:  
+
+**_Instrucción de música sobre la guitarra española_** (1674) de **Gaspar Sanz**.  
+La obra está ordenada en tres tomos y recoge:  
+
+- Advertencias sobre la realización de ornamentaciones, transportes e interpretación.  
+- Ejecución del bajo continuo.  
+- Afinación recomendada por Briceño.  
+- Gran variedad de danzas españolas e italianas, además de otras formas.  
+
+Otros libros importantes son:  
+
+- **Francisco Guerau**, _Poema Harmónico_ (1694)  
+- Santiago de Murcia, _Resumen de acompañar la parte con la guitarra_ (1714)  
+- Manuscrito de 1732: _Pasacalles y Obras de guitarra para todos los tonos naturales y accidentales_
+## La escuela italiana
+En Italia suceden varias cosas importantes:  
+
+- **Primer alfabeto para el estilo rasgueado:** Aparece en el libro **_Nuova inventione d'involatura_** (1606) de **Girolamo Montesardo**.  
+- **Estilo mixto:** Por primera vez plasmado en **_Primo, secondo e terzo libro_** (1630) de **Giovanni Foscarini**.  
+
+Además:  
+
+- **Foriano Pico**, en su libro **_Nuova scelta di sonate per la chitarra spagnola_** (1608), continúa la escritura de Montesardo, añadiendo elementos técnicos de ornamentación para acordes y pequeñas líneas verticales para indicar el sentido de los mismos.  
+- **_Intavolatura di chitarra alla spagnola_** de **Colonna** (1620) es una de las tablaturas más antiguas para guitarra española.  
+- **_Primo e secondo di chitarra spagnola_** (1640 y 1655) introduce innovaciones como la utilización de campanelas en la introducción.  
+
+**Francesco Corbetta (1615-1681)** fue una figura destacada en la guitarra barroca, trabajando en varias cortes de Italia, Francia e Inglaterra. Publicó:  
+
+- **_De gli scherzi armonici_** (1639)  
+- **_Varii caprici per la ghittara spagnola_** (Milán, 1643), donde predomina la música de punteo sobre la de rasgueo.  
+
+En la segunda mitad del siglo XVII destacan otros compositores como:  
+
+- Giovanni Battista Granata (1620-1687), alumno de Corbetta  
+- Pellegrini  
+- Carbonchi  
+- Calvi  
+- Angelo Bartolotti  
+- Giulio Banfi  
+- Francesco Coriandoli  
+- Francesco Asioli  
+- Ludovico Roncalli  
+
+Entre otros.
+## La escuela francesa
+Durante los siglos XVI y XVII se aprecia una gran difusión y aceptación de la guitarra en Francia, dominando en el XVI la de cuatro órdenes y en el XVII la barroca.  
+
+Gracias a la publicación de **_Metodo mui facilissimo para aprender a tañer la guitarra a lo español_** (1626) de **Luis de Briceño**, en Francia floreció y creció enormemente el interés hacia la guitarra de cinco órdenes, llegando incluso a “conquistar” el ambiente de la corte.  
+
+De este siglo debemos destacar ciertos personajes:  
+
+- **Francesco Corbetta (1615-1682):** Maestro, compositor y considerado uno de los más grandes virtuosos de la guitarra barroca. Trabajó en la corte real de **Luis XIV** en París y también en Londres, además de publicar cinco libros dedicados a la música para guitarra de cinco órdenes.  
+- **Robert de Visée (1660-1724):** Alumno más famoso de Corbetta, laudista, tiorbista, guitarrista y violagambista, así como cantante y compositor para laúd, guitarra y tiorba. Su música era elegante y refinada; destacamos **_Livre de piéces pour la guitarre dédié ou Roy_** (1682), con gran cantidad de danzas.  
+
+Otros personajes importantes:  
+
+- G. Nivers  
+- R. Médard  
+- H. Grénerin  
+- N. Derosier  
+- François Campion
+## La escuela de los Países Bajos
+Durante este periodo, la guitarra barroca se convirtió en un instrumento perfectamente válido tanto para ser solista como para acompañar la voz.  
+
+No se quedó ahí: además de conseguir bastante protagonismo realizando **bajo continuo**, llegó hasta las cortes de **Francia**, **Inglaterra**, **España** y los **Países Bajos**, donde el personaje más importante en cuanto a guitarra barroca se refiere fue **Francois le Cocq**, quien escribió **_Recueil des piéces de guitare_** (1729).  
+
+Esta evolución fue, en gran medida, gracias a compositores de distintos países:  
+
+- **Santiago de Murcia** (España)  
+- **Giovanni Paolo Foscarini**, **Francesco Corbetta** y **Angelo Bartolotti** (Italia)  
+- **Francois le Cocq** (Países Bajos)  
+- **Robert de Visée** (Francia)  
+
+Todos ellos fueron muy prolíficos y mantuvieron a la guitarra barroca en un lugar destacado dentro de la música europea.
+# Tablaturas, Criterios de transcripción y edición
+Durante este período (del Renacimiento al Barroco), la **tablatura** fue el método de escritura por excelencia para la notación musical, aunque era prácticamente exclusivo de los instrumentos de **cuerda pulsada**.  
+
+Estas tablaturas estaban formadas por **líneas horizontales** en las cuales se sobreponían números, letras, números romanos y otros símbolos, que difieren en gran medida de la notación musical actual.  
+
+De entre todos los tipos de tablatura para **guitarra barroca**, existieron dos cuyo uso se extendió enormemente: la **tablatura italiana** y la **tablatura francesa**.  
+
+Se resumen a continuación sus características principales (ampliamente desarrolladas en el Tema 9):
+## Tablatura italiana
+- Los instrumentos solían tener entre **diez y doce trastes**, que se indicaban de dos formas:  
+  - De la **cuerda al aire (cero)** hasta el traste 10 con **números**.  
+  - A partir de ahí con **números romanos**.  
+- El número de **líneas horizontales** dependía de los órdenes del instrumento, siendo la **línea inferior la primera cuerda**.  
+- Las **líneas divisorias** no coincidían exactamente con el ritmo ni con los acentos, lo que puede causar errores a la hora de transcribir.
+## Tablatura francesa
+En esta tablatura, **la línea superior se refiere a la primera cuerda**, y los trastes se indican con **letras minúsculas**:  
+
+- La letra **“a”** se refiere a las cuerdas al aire.  
+- La letra **“b”** indica el traste uno, y así sucesivamente.  
+- Existe un detalle en la letra **“K”**, que sustituye a la “j” (que en aquella época no existía).  
+
+En cuanto a las **líneas divisorias**, se utilizan de manera que no entren en contradicción con los **acentos** ni con el **ritmo**, a diferencia de la tablatura italiana.  
+
+Según Francisco Javier Ruz en *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*, podemos diferenciar las tablaturas usadas según el estilo:
+
+### Estilo rasgueado
+- Escritura castellana  
+- Escritura catalana  
+- Escritura italiana  
+- Escritura italiana con acordes alfabeto  
+- Escritura francesa  
+
+### Estilo punteado
+- Escritura en tablatura italiana solo con punteo y sin alfabeto  
+- Escritura en tablatura francesa solo con punteo y sin alfabeto  
+- Escritura italiana solo con punteo y acorde de alfabeto inicial  
+- Escritura francesa solo con punteo en tablatura francesa y acorde inicial sobre la tablatura  
+
+Al final del barroco se impuso la **escritura de estilo mixto**, que básicamente era un **híbrido** entre:  
+
+- **Italia:** tablatura italiana de punteado + alfabeto italiano de rasgueado  
+- **Francia:** tablatura francesa de punteado + alfabeto italiano de rasgueado  
+
+De esta forma, surgieron tres nuevas formas de escritura:  
+- Escritura italiana mixta con acordes alfabeto italiano  
+- Escritura francesa mixta sin alfabeto  
+- Escritura pentagramática
+# Bibliografía
+#TODO
+- Iborra, Alcaraz. _La guitarra: Historia, organología y repertorio_. Ciudad: Editorial, 2010.  
+- Radole, Giuseppe. _Laúd, guitarra y vihuela_. Ciudad: Editorial, 1982.  
+- Ruz, Francisco Javier. _La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos_. Ciudad: Editorial, 2010.  
+- Tyler, James. _The Early Guitar_. Ciudad: Editorial, 1980.  
+- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. Ciudad: Editorial, 1976.  
+- Varios autores. _Catálogo de la Exposición La Guitarra Española_. Ciudad: Editorial, 1991.  
 
