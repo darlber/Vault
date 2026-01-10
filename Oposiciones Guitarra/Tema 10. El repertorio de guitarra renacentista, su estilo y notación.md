@@ -150,14 +150,13 @@ Para comprender la música antigua es fundamental conocer tres elementos: la not
 
 - La duración de las notas no se indicaba en cada cifra, sino sólo cuando cambiaba el valor.
 - Si una nota no tenía figura rítmica, se entendía que duraba igual que la anterior.
-- Las figuras usadas y su equivalencia en notación actual son: #TODO
-
-
+- Las figuras usadas y su equivalencia en notación actual son: 
+![](attachments/{F00AF04A-3884-4743-88C1-29EC3EDB70D1}.png)
 ### Indicaciones de tempo
 
 - A veces aparecían símbolos o palabras que indicaban la velocidad aproximada.
-- Ejemplos según el autor: #TODO
-
+- Ejemplos según el autor:
+![](attachments/{1FC9E565-82D8-4A1A-9907-B2622D1C1898}.png)
 ### Tablatura francesa para guitarra de cuatro órdenes
 
 - Se usaban también **cuatro líneas** para las cuerdas.
@@ -168,6 +167,7 @@ Para comprender la música antigua es fundamental conocer tres elementos: la not
 - Estas letras se situaban **entre líneas y espacios**, no encima.
 - El primer espacio inferior correspondía a la cuarta cuerda; el cuarto espacio superior a la primera cuerda.
 - Las figuras rítmicas también sólo se indicaban al cambiar, recordándose al inicio de cada compás.
+![](attachments/{74EB0B94-1C8F-41BC-9E82-EC6496B9C30F}.png)
 ## Lectura
 #FormaciónGabouDePutaMierdaDeQuéCojonesVaisConTanLamentableConsejo
 Sobre la lectura debemos decir que lo recomendable es que el intérprete no utilice ningún tipo de transcripción, ya que hoy en día tenemos los facsímiles y además no es complicado leer una tablatura antigua. Esto ya lo defienden J. Tyler y G. Arriaga, ya que hay una gran cantidad de métodos y libros a nuestro alcance. Esto en parte es debido al fácil acceso que nos permite internet.
