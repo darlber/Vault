@@ -1,8 +1,8 @@
 # Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
 
+# Índice
 
-
-## 1. Introducción
+## Introducción
 
 Cuando el Renacimiento se ve agotado como corriente y estética, aparece una nueva etapa denominada Barroco. La música, a diferencia de otras artes, tenía libertad para ampliar su campo expresivo en distintas direcciones, lo que estimuló el desarrollo del lado emocional de la misma, creándose teorías como la de los afectos.  
 
