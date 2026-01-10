@@ -1,5 +1,5 @@
 # Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
-# Índice
+## Índice
 1. [Introducción](#Introducción)
 2. [Afinación](#Afinación)
 3. [El repertorio de guitarra barroca: su estilo y notación](#El%20repertorio%20de%20guitarra%20barroca%20su%20estilo%20y%20notación)
