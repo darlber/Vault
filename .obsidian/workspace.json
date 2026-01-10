@@ -6,24 +6,6 @@
       {
         "id": "20ca78dd04ebb2cc",
         "type": "tabs",
-        "dimension": 50.49857549857549,
-        "children": [
-          {
-            "id": "534df041120cf925",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4020dacb3703330d",
-        "type": "tabs",
-        "dimension": 49.5014245014245,
         "children": [
           {
             "id": "9138487f52ac8d94",
@@ -31,13 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+                "file": "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 10. El repertorio de guitarra renacentista, su estilo y notación"
+              "title": "Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b10405669960b13f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1fe6594db3cb48",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Oposiciones Guitarra/temas 13-15 OCR.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "temas 13-15 OCR"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+                "file": "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 10. El repertorio de guitarra renacentista, su estilo y notación"
+              "title": "Outline of Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco"
             }
           }
         ],
@@ -183,18 +183,20 @@
   },
   "active": "9138487f52ac8d94",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/temas 13-15 OCR.pdf",
+    "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
+    "Oposiciones Guitarra/0. Temas Oposiciones.md",
+    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/attachments/{74EB0B94-1C8F-41BC-9E82-EC6496B9C30F}.png",
     "Oposiciones Guitarra/attachments/{F00AF04A-3884-4743-88C1-29EC3EDB70D1}.png",
     "Oposiciones Guitarra/attachments/{1FC9E565-82D8-4A1A-9907-B2622D1C1898}.png",
     "Oposiciones Guitarra/TEMA 10-15.pdf",
     "Oposiciones Guitarra/tema 10-12 OCR.pdf",
-    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Oposiciones Guitarra/attachments/{42A71911-872D-42BB-B355-059C98BE1EC3}.png",
     "Oposiciones Guitarra/attachments/{DE11CBBC-2226-4D2E-B382-D3980E74EC28}.png",
-    "Oposiciones Guitarra/0. Temas Oposiciones.md",
     "Oposiciones Guitarra/Programación Didáctica.md",
     "Tema 11. El repertorio de laúd renacentista, su estilo y notación..md",
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación..md",
