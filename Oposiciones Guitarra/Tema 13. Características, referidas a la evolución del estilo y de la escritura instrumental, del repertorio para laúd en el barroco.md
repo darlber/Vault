@@ -39,3 +39,26 @@ La evolución técnica del instrumento permitió favorecer el **estilo polifóni
 - Gusto por la **ornamentación**.
 
 El laúd se adaptó rápidamente a este nuevo estilo, destacando tanto en el **bajo continuo** como como **instrumento solista**, gracias a sus características **armónicas y polifónicas**.
+## Evolución técnica
+Además de los cambios organológicos, los **laudistas** tuvieron que adaptar su **técnica** a composiciones de textura **polifónico-armónica más compleja**. Esto se debió a que la **línea del bajo** se volvió más activa, sirviendo como soporte armónico de la voz principal y secundaria.
+### Adaptaciones de la mano derecha
+- **Separación de funciones de los dedos**:  
+  - Pulgar: exclusivo para líneas de bajo.  
+  - Otros dedos: para arpegios y acompañamiento.
+- Uso de la **figueta** solo cuando el bajo no es muy activo.
+- Cambios en la **posición del instrumentista** por el mayor tamaño y número de órdenes:  
+  - Mano derecha más perpendicular al instrumento.  
+  - Dedo meñique apoyado cerca o detrás del puente.  
+  - Nuevos estilos de arpegiado: los dedos atacan hacia dentro (por debajo del pulgar), usando `i` y `m` para la línea principal.
+### Adaptaciones de la mano izquierda
+- Mayor exigencia **polifónica, armónica y melódica**.  
+- Recomendaciones de tratadistas:  
+  - Ubicar el pulgar en la mitad del mástil.  
+  - Extender más la muñeca.  
+  - Mantener los dedos cerca de las cuerdas incluso si no se usan.  
+- Introducción de **ligados y ornamentos** ejecutados con la mano izquierda sola, anticipando técnicas que aparecerían 300 años después en la guitarra moderna (Tárrega y sucesores).
+### Forma de pulsar
+- Conservación de la **sonoridad profunda y natural de la yema**.  
+- Única excepción: **Thomas Mace**, que menciona la utilidad de la **uña** para música de conjunto.
+
+Los laudistas desarrollaron **estrategias y recursos** para interpretar correctamente la música de su tiempo, logrando una técnica de ejecución envidiable.
