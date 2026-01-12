@@ -1,5 +1,28 @@
 # Tablaturas, criterios de transcripción. La obra para laúd de J. S. Bach
 ## Índice
+1. [Introducción](#Introducción)
+	1. [Evolución del laúd renacentista](#Evolución%20del%20laúd%20renacentista)
+2. [Evolución del estilo y la escritura](#Evolución%20del%20estilo%20y%20la%20escritura)
+	1. [Evolución técnica](#Evolución%20técnica)
+	2. [Nuevos géneros y formas](#Nuevos%20géneros%20y%20formas)
+	3. [Afinación](#Afinación)
+3. [Repertorio y autores](#Repertorio%20y%20autores)
+	1. [El laúd barroco en Italia](#El%20laúd%20barroco%20en%20Italia)
+	2. [El laúd barroco en Francia](#El%20laúd%20barroco%20en%20Francia)
+	3. [El laúd barroco en Alemania](#El%20laúd%20barroco%20en%20Alemania)
+4. [Tablaturas y criterios de transcripción](#Tablaturas%20y%20criterios%20de%20transcripción)
+	1. [Tablaturas](#Tablaturas)
+	2. [Criterios de transcripción](#Criterios%20de%20transcripción)
+	3. [Transcripciones: Tablatura barroca](#Transcripciones%20Tablatura%20barroca)
+5. [La obra para laúd de J. S. Bach](#La%20obra%20para%20laúd%20de%20J.%20S.%20Bach)
+	1. [Suite en Sol Menor, BWV 995](#Suite%20en%20Sol%20Menor,%20BWV%20995)
+	2. [Suite en Mi Menor, BWV 996](#Suite%20en%20Mi%20Menor,%20BWV%20996)
+	3. [Partita en Do Menor, BWV 997](#Partita%20en%20Do%20Menor,%20BWV%20997)
+	4. [Preludio, Fuga y Allegro en Mi Bemol Menor, BWV 998](#Preludio,%20Fuga%20y%20Allegro%20en%20Mi%20Bemol%20Menor,%20BWV%20998)
+	5. [Preludio en Do Menor, BWV 999](#Preludio%20en%20Do%20Menor,%20BWV%20999)
+	6. [Fuga en Sol Menor, BWV 1000](#Fuga%20en%20Sol%20Menor,%20BWV%201000)
+	7. [Suite en Mi Mayor, BWV 1006](#Suite%20en%20Mi%20Mayor,%20BWV%201006)
+6. [Bibliografía](#Bibliografía)
 
 # Introducción
 Desde principios del siglo XVII hasta mediados del siglo XVIII, el **laúd renacentista** vivió una etapa de esplendor en Europa, destacando especialmente en **Italia, Francia, Alemania e Inglaterra**. Durante este período se publicaron numerosos tratados, siendo **Petrucci** en Italia el primero en publicar música para laúd.
@@ -238,26 +261,6 @@ Para la transcripción de música de laúd a **guitarra actual**, se suelen esta
   - No siempre se trata de un error en la tablatura original; a veces, **la nota suena igual de bien o mal**, tanto si se deja como si se modifica  
 
 Este enfoque permite realizar transcripciones **prácticas y respetuosas con el original**, adaptadas a las capacidades de la guitarra moderna.
-## Criterios de transcripción
-Para la transcripción de música de laúd a **guitarra actual**, se suelen establecer los siguientes criterios:  
-
-- **Pentagrama y clave**:  
-  - Un único pentagrama en **clave de Sol**, con octava baja (transcripción estándar para guitarra)  
-
-- **Fuente de la transcripción**:  
-  - Puede realizarse **directamente desde la tablatura** del laúd  
-  - O a partir de versiones para **instrumentos de tecla** (doble pentagrama con claves de Sol y Fa)  
-
-- **Fidelidad al original**:  
-  - Procurar la **máxima fidelidad** a la obra original  
-  - Incluir elementos que **no sean posibles en guitarra** y decidir cómo ejecutarlos como **propio arreglo**  
-  - Las sugerencias del editor pueden tomarse en cuenta, pero no son obligatorias  
-
-- **Consideraciones modales**:  
-  - Algunos sonidos pueden parecer extraños al oído moderno  
-  - No siempre se trata de un error en la tablatura original; a veces, **la nota suena igual de bien o mal**, tanto si se deja como si se modifica  
-
-Este enfoque permite realizar transcripciones **prácticas y respetuosas con el original**, adaptadas a las capacidades de la guitarra moderna.
 ## Transcripciones: Tablatura barroca
 Según José Luis Rojo, la transcripción de tablaturas barrocas requiere un **método "nota a nota"**.  
 ### Aspectos clave:
@@ -335,3 +338,16 @@ Se tratarán las obras **seguras** de Bach para laúd, conocidas por sus manuscr
 - **1727**: *Oda Funeral para la Reina Cristine Eberhardine*, BWV 198  
 - **1729**: Primera versión de la *Pasión según San Mateo*  
 # Bibliografía
+#TODO
+- Boyd, Malcolm. _Bach_. 2006.
+- Cherici, Paolo. _Opere Complete per liuto di J.S. Bach_. 1980.
+- Chiesa, Ruggero. _Intavolatura di liuto di Sylvius Leopold Weiss_. 1967.
+- Harwood, Ian. _A Brief History of the Lute_. 1975.
+- Kehr, Günter. _La obra para violín solo de J.S. Bach_. 1979.
+- Macleod-Coupe, Philip. _Lute Construction_. 1978.
+- Martinez Miura, Enrique. _Bach: Obra Completa Comentada_. 1998.
+- Poulton, Diana. _Lute Playing Technique_. 1981.
+- Roche, Jerome, and Elizabeth Roche. _A Dictionary of Early Music_. 1981.
+- Rojo, José Luis. _La música de laúd en la guitarra: una aproximación práctica_. 2004.
+- Tureck, Rosalyn. _Introducción a la interpretación de J.S. Bach_. 1980.
+- Wolff, Christoph. _Johann Sebastian Bach: El Músico Sabio_. 2008.
