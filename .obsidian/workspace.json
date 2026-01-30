@@ -93,8 +93,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,11 +199,11 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f771c943d4a6c88",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
     "Proyecto/Phases.canvas",
     "Math/Start.md",
