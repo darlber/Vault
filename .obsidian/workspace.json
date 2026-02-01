@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Tema 11. El repertorio de laúd renacentista, su estilo y notación"
             }
+          },
+          {
+            "id": "d1f084c3d3931da0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b10405669960b13f",
@@ -89,8 +102,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]
@@ -198,12 +211,10 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "d1f084c3d3931da0",
   "lastOpenFiles": [
     "Tema 11. El repertorio de laúd renacentista, su estilo y notación..md",
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
