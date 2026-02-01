@@ -8,7 +8,6 @@ tags:
   - gravimetria
   - volatilizacion
 ---
-
 ## 🧪 Ejemplo: determinar la pureza de un hidrato usando gravimetría por volatilización
 
 ¡Malas noticias! Nos informan que Igor, nuestro torpe asistente de laboratorio, pudo haber contaminado accidentalmente una botella del hidrato $\text{BaCl}_2 \cdot 2\text{H}_2\text{O}$ con una cantidad desconocida de KCl. Para conocer la pureza del hidrato, calentamos **9.51 g** de la mezcla para eliminar el agua. Al finalizar, la muestra pesó **9.14 g**.
