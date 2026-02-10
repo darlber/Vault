@@ -11,15 +11,17 @@
             "id": "1f771c943d4a6c88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Proyecto/Phases.canvas",
+                "viewState": {
+                  "x": -90,
+                  "y": 1050.5,
+                  "zoom": -1.3780524273746129
+                }
               },
-              "icon": "lucide-file",
-              "title": "Tema 12. El repertorio de guitarra barroca, su estilo y notación"
+              "icon": "lucide-layout-dashboard",
+              "title": "Phases"
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
+                "file": "Proyecto/Phases.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +97,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tema 12. El repertorio de guitarra barroca, su estilo y notación"
+              "title": "Backlinks for Phases"
             }
           },
           {
@@ -104,12 +106,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
+                "file": "Proyecto/Phases.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tema 12. El repertorio de guitarra barroca, su estilo y notación"
+              "title": "Outgoing links from Phases"
             }
           },
           {
@@ -174,8 +176,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f771c943d4a6c88",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
     "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
     "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
@@ -203,7 +206,6 @@
     "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
     "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
