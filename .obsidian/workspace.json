@@ -13,47 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
+                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 11. El repertorio de laúd renacentista, su estilo y notación"
-            }
-          },
-          {
-            "id": "d1f084c3d3931da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Estequiometría de reactivo limitante/Reactivos Limitantes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Reactivos Limitantes"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b10405669960b13f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c1fe6594db3cb48",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Oposiciones Guitarra/temas 13-15 OCR.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "temas 13-15 OCR"
+              "title": "Tema 12. El repertorio de guitarra barroca, su estilo y notación"
             }
           }
         ]
@@ -98,16 +64,6 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "381a488241d4c14f",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
-            }
           }
         ]
       }
@@ -129,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación..md",
+                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +95,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tema 11. El repertorio de laúd renacentista, su estilo y notación."
+              "title": "Backlinks for Tema 12. El repertorio de guitarra barroca, su estilo y notación"
             }
           },
           {
@@ -148,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto/Phases.canvas",
+                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Phases"
+              "title": "Outgoing links from Tema 12. El repertorio de guitarra barroca, su estilo y notación"
             }
           },
           {
@@ -201,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,40 +170,63 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1f084c3d3931da0",
+  "active": "1f771c943d4a6c88",
   "lastOpenFiles": [
-    "Chemistry/Estequiometría de reactivo limitante/Gravimetría por volatilización.md",
-    "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
-    "Tema 11. El repertorio de laúd renacentista, su estilo y notación..md",
-    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
-    "Proyecto/Game Development Technology Stack.md",
-    "Proyecto/Phases.canvas",
-    "Math/Start.md",
     "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
     "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
-    "Oposiciones Guitarra/0. Temas Oposiciones.md",
-    "Oposiciones Guitarra/temas 13-15 OCR.pdf",
-    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
-    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+    "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
+    "Proyecto/Phases.canvas",
+    "Proyecto/Game Development Technology Stack.md",
+    "Proyecto",
+    "Oposiciones Guitarra/attachments/{DE11CBBC-2226-4D2E-B382-D3980E74EC28}.png",
     "Oposiciones Guitarra/attachments/{74EB0B94-1C8F-41BC-9E82-EC6496B9C30F}.png",
     "Oposiciones Guitarra/attachments/{F00AF04A-3884-4743-88C1-29EC3EDB70D1}.png",
-    "Oposiciones Guitarra/attachments/{1FC9E565-82D8-4A1A-9907-B2622D1C1898}.png",
-    "Oposiciones Guitarra/TEMA 10-15.pdf",
-    "Oposiciones Guitarra/tema 10-12 OCR.pdf",
-    "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Oposiciones Guitarra/attachments/{42A71911-872D-42BB-B355-059C98BE1EC3}.png",
-    "Oposiciones Guitarra/attachments/{DE11CBBC-2226-4D2E-B382-D3980E74EC28}.png",
-    "Oposiciones Guitarra/Programación Didáctica.md",
-    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación..md",
-    "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-    "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
-    "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
-    "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
+    "Oposiciones Guitarra/attachments/{1FC9E565-82D8-4A1A-9907-B2622D1C1898}.png",
+    "Oposiciones Guitarra/attachments/Pasted image 20250619133049.png",
+    "Oposiciones Guitarra/attachments/Pasted image 20250619133043.png",
+    "Oposiciones Guitarra/attachments/Pasted image 20250619132903.png",
+    "Oposiciones Guitarra/attachments/Pasted image 20250619132810.png",
+    "Oposiciones Guitarra/TEMA 25.pdf",
+    "Oposiciones Guitarra/TEMA 31 y 32.pdf",
+    "Oposiciones Guitarra/TEMA 33 y 34.pdf",
+    "Oposiciones Guitarra/temas 13-15 OCR.pdf",
+    "Oposiciones Guitarra/TEMA 29 y 30.pdf",
+    "Oposiciones Guitarra/TEMA 27.pdf",
+    "Oposiciones Guitarra/TEMA 28.pdf",
+    "Oposiciones Guitarra/TEMA 19-25.pdf",
+    "Oposiciones Guitarra/TEMA 22.pdf",
+    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
     "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
-    "Proyecto/MusiChaos - Resumen de Clases.md"
+    "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+    "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
+    "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
+    "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
+    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
+    "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
+    "Oposiciones Guitarra/Programación Didáctica.md",
+    "Oposiciones Guitarra/0. Temas Oposiciones.md",
+    "Math/Documents/Assets/Images/usa-map-blank.png",
+    "Math/Documents/Graphs/Spanning tree.md",
+    "Math/Trees/Tree.md",
+    "Math/Trees/Spanning tree.md",
+    "Math/Trees/Minimum spanning tree.md",
+    "Math/Trees/Rooted tree.md",
+    "Math/Trees/Prim's Algorithm.md",
+    "Math/Trees/Kruskal's Algorithm.md",
+    "Math/Trees/Depth first search.md",
+    "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
+    "Chemistry/Periodic Table.canvas",
+    "Vault/Proyecto/Phases.canvas",
+    "Vault/CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
+    "Vault/Chemistry/Periodic Table.canvas"
   ]
 }
