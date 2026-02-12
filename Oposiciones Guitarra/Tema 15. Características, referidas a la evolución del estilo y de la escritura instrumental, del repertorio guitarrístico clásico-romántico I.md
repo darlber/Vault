@@ -1,6 +1,21 @@
 # La escuela española
 ## Índice
-
+1. [Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I: la escuela española](#Características%20referidas%20a%20la%20evolución%20del%20estilo%20y%20de%20la%20escritura%20instrumental,%20del%20repertorio%20guitarrístico%20clásico-romántico%20I%20la%20escuela%20española)
+	1. [Introducción. Ubicación histórica](#Introducción.%20Ubicación%20histórica)
+	2. [Características de la guitarra clásico-romántica](#Características%20de%20la%20guitarra%20clásico-romántica)
+		1. [Características de la guitarra francesa típica](#Características%20de%20la%20guitarra%20francesa%20típica)
+	3. [Revalorización de la guitarra](#Revalorización%20de%20la%20guitarra)
+	4. [Evolución musical. Estilo y formas](#Evolución%20musical.%20Estilo%20y%20formas)
+	5. [Autores y repertorio](#Autores%20y%20repertorio)
+		1. [Fernando Sor (1778-1839) y Dionisio Aguado (1784-1849)](#Fernando%20Sor%20(1778-1839)%20y%20Dionisio%20Aguado%20(1784-1849))
+			1. [Fernando Sor](#Fernando%20Sor)
+			2. [Diferencias técnicas entre Sor y Aguado](#Diferencias%20técnicas%20entre%20Sor%20y%20Aguado)
+			3. [Obras de Fernando Sor](#Obras%20de%20Fernando%20Sor)
+			4. [Dionisio Aguado](#Dionisio%20Aguado)
+			5. [Métodos y obras pedagógicas](#Métodos%20y%20obras%20pedagógicas)
+			6. [Innovaciones técnicas y organológicas: Nuevo Método de Aguado](#Innovaciones%20técnicas%20y%20organológicas%20Nuevo%20Método%20de%20Aguado)
+			7. [Algunas piezas para guitarra de Aguado](#Algunas%20piezas%20para%20guitarra%20de%20Aguado)
+2. [Bibliografía](#Bibliografía)
 # Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I: la escuela española
 ## Introducción. Ubicación histórica
 Este tema se desarrolla en la primera mitad del siglo XIX, periodo en el que se produce el final del Clasicismo musical y el inicio del Romanticismo. En el caso de la guitarra, el repertorio creado en esta época se denomina clásico-romántico y supone un momento de esplendor del instrumento.
@@ -204,4 +219,45 @@ En cuanto a su obra guitarrística:
 - *La Guitare Fixée sur le Tripodison ou Fixateur* (París, 1836; traducción inglesa: *Hints to Guitar Player*, Londres, c.1845)  
 - *Nuevo método para guitarra* (Madrid, 1843; con reimpresiones y ediciones distintas)  
 - *Apéndice* al método anterior (Madrid, 1850, póstumo)  
+#### Innovaciones técnicas y organológicas: Nuevo Método de Aguado
+Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organológicas que aún se mantienen hoy:
 
+- **Clavijas de tornillo** (Punto 30): Facilitan la afinación mientras se ejecuta la pieza usando solo la mano izquierda.  
+- **Puente y sobrepunto** (Punto 29): La prima y la sexta cuerda deben entrar mucho en el sobrepunto para evitar que el dedo que pisa las saque del mango. Este tipo de puente, inventado por Aguado en Madrid en 1824, es fundamental para la ejecución equilibrada.  
+- **Trastes bien ajustados**: La guitarra debe estar equilibrada y permitir una ejecución uniforme.  
+- **Expresión musical** (Punto 287): El intérprete debe transmitir el sentido de la pieza, haciendo que los sonidos lleguen al corazón del oyente.  
+- **Fraseo** (Punto 291): Las frases deben interpretarse generalmente en forma de arco, usando reguladores de expresión; finales de frase piano y variaciones de intensidad entre frases repetidas.  
+- **Trípode para sostener la guitarra**: Aguado lo inventó para liberar las manos del intérprete. Sor lo consideraba importante, pero no tuvo difusión por la muerte prematura de Sor en 1839.  
+#### Algunas piezas para guitarra de Aguado
+- Op. 1: 12 valses para guitarra  
+- Op. 2, 3: Rondos brillantes  
+- Op. 3: 8 piezas pequeñas  
+- Op. 4: 6 piezas pequeñas  
+- Op. 5: *Quatre Andantes et Quatre Valses*  
+- Op. 6: *Nuevo método de guitarra*  
+- Op. 7: Valses fáciles  
+- Op. 8: Contradanzas y valses fáciles  
+- Op. 9: *Contredanses non difficiles*  
+- Op.10: *Exercises Faciles et Très Utiles*  
+- Op.11: *Les Favorites — Huit Contredanses*  
+- Op.12: 6 minués y 6 valses  
+- Op.13: *Morceaux Agréables non difficiles*  
+- Op.14: *Dix Petites Pièces non difficiles*  
+- Op.15: *Le Menuet Affandangado*  
+- Op.16: *El Fandango Variado*  
+# Bibliografía
+- Aguado, Dionisio. *Nuevo método para guitarra*. Madrid: 1843.  
+- Ara, Mario Dell. *Manuale di storia della chitarra. 1: La chitarra antica, classica e romántica*. 1988.  
+- Briso de Montiano, Luis. *Un fondo desconocido de música para guitarra*. 1995.  
+- Boyd, Malcolm, y José Carreras. *La música en España en el siglo XVIII*. 2000.  
+- Gimeno, Julio. "Escuela de París. La guitarra en París durante el periodo Clásico Romántico." *Revista Sonoro*, Año 2, número 2.  
+- Gimeno, Julio. *Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820*. 2007.  
+- Gómez Amat, Carlos. *Historia de la música española*. 2004.  
+- Jeffery, Brian. "Guitar Review," n. 39 (1974).  
+- Mangado, Josep María. "Sor, Fernando." En *Enciclopedia de Francisco Herrera*. 2004.  
+- Radole, Giuseppe. *Laúd, guitarra y vihuela*. 1982.  
+- Romanillos, José Luis. "Dionisio Aguado. The Man." *Guitar International* 12, n. 9 (1984).  
+- Rosen, Charles. *The Classical Style*. 1971.  
+- Suárez Pajares, Javier. "Sor y Aguado en la tradición guitarrística española." *Cuadernos de música y teatro* (1990).  
+- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. 1976.  
+- Wade, Graham. *Traditions of the Classical Guitar*. 1982.  
