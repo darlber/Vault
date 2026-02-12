@@ -11,17 +11,33 @@
             "id": "1f771c943d4a6c88",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Proyecto/Phases.canvas",
-                "viewState": {
-                  "x": -90,
-                  "y": 1050.5,
-                  "zoom": -1.3780524273746129
-                }
+                "file": "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Phases"
+              "icon": "lucide-file",
+              "title": "Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII"
+            }
+          }
+        ]
+      },
+      {
+        "id": "612fb009606b0786",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a767ca2fc0994cbc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Oposiciones Guitarra/temas 13-15 OCR.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "temas 13-15 OCR"
             }
           }
         ]
@@ -171,16 +187,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "a767ca2fc0994cbc",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
+    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
-    "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
+    "Oposiciones Guitarra/temas 13-15 OCR.pdf",
     "Proyecto/Phases.canvas",
+    "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
     "Proyecto/Game Development Technology Stack.md",
     "Proyecto",
     "Oposiciones Guitarra/attachments/{DE11CBBC-2226-4D2E-B382-D3980E74EC28}.png",
@@ -195,7 +213,6 @@
     "Oposiciones Guitarra/TEMA 25.pdf",
     "Oposiciones Guitarra/TEMA 31 y 32.pdf",
     "Oposiciones Guitarra/TEMA 33 y 34.pdf",
-    "Oposiciones Guitarra/temas 13-15 OCR.pdf",
     "Oposiciones Guitarra/TEMA 29 y 30.pdf",
     "Oposiciones Guitarra/TEMA 27.pdf",
     "Oposiciones Guitarra/TEMA 28.pdf",
@@ -222,7 +239,6 @@
     "Math/Trees/Rooted tree.md",
     "Math/Trees/Prim's Algorithm.md",
     "Math/Trees/Kruskal's Algorithm.md",
-    "Math/Trees/Depth first search.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
     "Vault/Proyecto/Phases.canvas",
