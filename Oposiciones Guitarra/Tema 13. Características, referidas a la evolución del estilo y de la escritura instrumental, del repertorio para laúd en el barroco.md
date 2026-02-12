@@ -23,7 +23,6 @@
 	6. [Fuga en Sol Menor, BWV 1000](#Fuga%20en%20Sol%20Menor,%20BWV%201000)
 	7. [Suite en Mi Mayor, BWV 1006](#Suite%20en%20Mi%20Mayor,%20BWV%201006)
 6. [Bibliografía](#Bibliografía)
-
 # Introducción
 Desde principios del siglo XVII hasta mediados del siglo XVIII, el **laúd renacentista** vivió una etapa de esplendor en Europa, destacando especialmente en **Italia, Francia, Alemania e Inglaterra**. Durante este período se publicaron numerosos tratados, siendo **Petrucci** en Italia el primero en publicar música para laúd.
 

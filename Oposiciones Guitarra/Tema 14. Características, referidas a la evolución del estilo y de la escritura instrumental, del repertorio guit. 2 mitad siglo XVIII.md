@@ -1,8 +1,11 @@
-# Criterios de transcripción para guitarra de seis cuerdas.
+# Criterios de transcripción para guitarra de seis cuerdas
 ## Índice
-
-
-# 1. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XVIII
+1. [Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XVIII](#Características,%20referidas%20a%20la%20evolución%20del%20estilo%20y%20de%20la%20escritura%20instrumental,%20del%20repertorio%20guitarrístico%20de%20la%20segunda%20mitad%20del%20siglo%20XVIII)
+2. [Criterios de transcripción para guitarra de seis cuerdas.](#Criterios%20de%20transcripción%20para%20guitarra%20de%20seis%20cuerdas.)
+	1. [Música y notación](#Música%20y%20notación)
+	2. [Transcripción](#Transcripción)
+3. [Bibliografía](#Bibliografía)
+# Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XVIII
 La segunda mitad del siglo XVIII fue un periodo en el que no se produjeron gran multitud de cambios. Los pocos cambios que hubo afectaron principalmente a los estilos musicales y a la guitarra como instrumento (cambios organológicos).
 
 En cuanto a los cambios de estilo, en esta época encontramos una transición del Barroco al Clasicismo y entran en escena los estilos rococó y clásico. La situación de la guitarra también cambiará, ya que vemos cómo desaparecen esas antiguas series de variaciones y las suites de carácter virtuosístico, y se abre paso una música menos elaborada, más amable y menos trascendente.
@@ -78,10 +81,8 @@ Como puede observarse, la mayoría eran italianos establecidos en París, lo que
 Los editores franceses publicaban periódicamente. Aunque hubo abundancia de documentos y cierto éxito editorial, estas publicaciones eran de calidad discreta. Entre ellas encontramos transcripciones y arreglos de arias de ópera, romanzas y variaciones sobre canciones de moda.
 
 Se considera que el repertorio publicado en esta época era mediocre porque no presenta discurso contrapuntístico ni una búsqueda armónica desarrollada. Predominan composiciones basadas en acordes arpegiados con una línea melódica convencional y limitada.
-# 2. Criterios de transcripción para guitarra de seis cuerdas
-
-## 2.1. Música y notación
-
+# Criterios de transcripción para guitarra de seis cuerdas
+## Música y notación
 Si comenzamos hablando de la notación, tenemos que señalar que la cifrada era propia de la guitarra renacentista y barroca. Progresivamente se fue evolucionando hacia una notación mensural, apareciendo el primer ejemplo para guitarra en *Reglas y advertencias* de Pablo Minguet e Irol (Madrid, 1754).
 
 En esta obra se utiliza la clave de Sol para la representación de los sonidos de la guitarra. Posteriormente a Minguet, tratadistas como Merchi, La Garde y Corrette, activos en Francia, usaron también la clave de Sol para escribir música de guitarra, aunque ninguno ofrece una explicación específica de esta elección.
@@ -123,3 +124,32 @@ Uno de los posibles modelos de notación fue el salterio, que se tocaba punteado
 El *Cuaderno de música para salterio* conservado en la Biblioteca Nacional de Madrid (segunda mitad del siglo XVIII) presenta rasgos de notación “moderna” de guitarra, especialmente en los silencios completivos.
 
 Por tanto, el salterio pudo haber sido el modelo más cercano para la notación del nuevo lenguaje instrumental desarrollado en el siglo XVIII.
+## Transcripción
+A la hora de realizar transcripciones de la música de la época hay que tener en cuenta lo expuesto anteriormente sobre la notación.
+
+La escritura guitarrística experimenta una evolución desde piezas con notación más arcaica y estilo violinístico —en las que las plicas no diferencian voces y, aunque musicalmente existan, no se reflejan en el papel las funciones polifónicas— hacia sistemas más desarrollados. Las sonatas de Antonio Abreu, complejas para guitarra sola, son un ejemplo de notación en proceso de evolución.
+
+En cuanto al repertorio, muestran mayor evolución idiomática las sonatas tercera y cuarta del op. 1 de Ferandiere para guitarra y bajo. Los *Cinco dúos* de Isidro Laporta evidencian un avance en el uso de acordes de hasta seis notas.
+
+Por tanto, al realizar una edición crítica o una versión actual en notación mensural, debe tenerse en cuenta que la representación gráfica de estas obras suele mostrar una sola voz, cuando en realidad existen al menos dos voces reales. La notación es claramente heredera de la del violín.
+
+Aunque algunos musicólogos la han calificado de primitiva, debe entenderse como una notación derivada de la tradición tablaturística y, además, elaborada en muchos casos por violinistas. Estos tendían a escribir conforme a los usos de su instrumento, sin reflejar necesariamente en el papel las distintas voces que sí podían estar presentes en la interpretación guitarrística.
+
+Esta notación resolvió problemas inmediatos tras el paso de la tablatura a la notación mensural. Como señala Suárez Pajares en *La música en España en el siglo XVIII*:
+
+> La mayor “pérdida” en el cambio de un sistema de notación cifrado a uno mensural tiene que ver con aquellos recursos instrumentales derivados de la digitación, y el recurso más característico de esta clase es el de las campanelas, de importancia particular en un instrumento que en esos momentos es fundamentalmente melódico. Pues bien, en todas las notaciones mensurales de guitarra este recurso tiene una forma de notación precisa conseguida con la alternancia en la dirección de las plicas de las notas que forman el arpegio.
+
+Según Suárez Pajares, Juan de Arizpacochaga posee obras de peor calidad que Ferandiere y Abreu, pero mejor notadas. En la forma variación aparece un empleo más idiomático de los recursos de la guitarra, y Moretti es el primero que escribe distinguiendo claramente dos voces.
+
+Además, durante este siglo —especialmente en su primera mitad— siguen apareciendo tablaturas, por lo que deberán aplicarse también los criterios de transcripción correspondientes.
+
+Todo ello debe tenerse en cuenta al abordar la edición y transcripción de la música guitarrística del siglo XVIII.
+# Bibliografía
+#TODO 
+- Alcaraz Iborra, Mario, y Roberto Díaz Soto. *La guitarra: Historia, organología y repertorio*. 2010.
+- Annala, Hannu, y Heiki Matlik. *Handbook of Guitar and Lute Composers*. 2010.
+- Lichtenthal, Pietro. *Dizionario e bibliografia della musica*. 1836.
+- Radole, Giuseppe. *Laúd, guitarra y vihuela*. 1982.
+- Suárez Pajares, Javier. “La música en España en el siglo XVIII.” En *El auge de la guitarra moderna en España*, 2000.
+- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. 1976.
+- Tyler, James. *The Early Guitar*. 1980.
