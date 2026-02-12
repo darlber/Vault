@@ -41,6 +41,9 @@
       },
       "notebook-navigator": {
         "startupType": "disabled"
+      },
+      "obsidian-importer": {
+        "startupType": "disabled"
       }
     }
   }
