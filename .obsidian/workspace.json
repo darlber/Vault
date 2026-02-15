@@ -169,13 +169,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "1f771c943d4a6c88",
   "lastOpenFiles": [
     "Proyecto/Phases.canvas",
+    "Proyecto/Game Development Technology Stack.md",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
     "Oposiciones Guitarra/temas 13-15 OCR.pdf",
@@ -183,7 +183,6 @@
     "Oposiciones Guitarra/0. Temas Oposiciones.md",
     "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
-    "Proyecto/Game Development Technology Stack.md",
     "Proyecto",
     "Oposiciones Guitarra/attachments/{DE11CBBC-2226-4D2E-B382-D3980E74EC28}.png",
     "Oposiciones Guitarra/attachments/{74EB0B94-1C8F-41BC-9E82-EC6496B9C30F}.png",
