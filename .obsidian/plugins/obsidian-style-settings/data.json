@@ -8,6 +8,7 @@
   "baseline-style@@h1-font": "InstrumentSerif",
   "baseline-style@@h1-variant": "normal",
   "baseline-style@@h1-style": "normal",
-  "baseline-style@@color-scheme-dark": "things-dark",
-  "baseline-style@@accented-interface": true
+  "baseline-style@@accented-interface": true,
+  "baseline-style@@density-modifier": 1,
+  "baseline-style@@color-scheme-dark": "rose-pine-dark"
 }
