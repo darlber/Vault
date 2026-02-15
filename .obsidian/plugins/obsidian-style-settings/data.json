@@ -10,5 +10,6 @@
   "baseline-style@@h1-style": "normal",
   "baseline-style@@accented-interface": true,
   "baseline-style@@density-modifier": 1,
-  "baseline-style@@color-scheme-dark": "rose-pine-dark"
+  "baseline-style@@color-scheme-dark": "rose-pine-dark",
+  "baseline-style@@colorful-headings": "colorful-headings-full"
 }
