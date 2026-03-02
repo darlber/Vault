@@ -130,7 +130,6 @@
 - [ ] Storage: Cloudflare R2
 
 ---
-
 ## **RESUMEN DE COMPLETITUD**
 **IMPLEMENTADO (Funcionando):** ~30%
 - Core Backend: Security, JWT, Database, Controllers, Services

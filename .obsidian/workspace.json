@@ -169,11 +169,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "1f771c943d4a6c88",
   "lastOpenFiles": [
+    "README.md",
     "Math/Directed Graphs and Relations/Floyd-Warshall Algorithm.md",
     "Math/Directed Graphs and Relations/Directed graph.md",
     "Math/Directed Graphs and Relations/Antisymmetric property.md",
@@ -220,7 +222,6 @@
     "Oposiciones Guitarra/Programación Didáctica.md",
     "Math/Documents/Assets/Images/usa-map-blank.png",
     "Math/Documents/Graphs/Spanning tree.md",
-    "Math/Trees/Tree.md",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
     "Vault/Proyecto/Phases.canvas",
