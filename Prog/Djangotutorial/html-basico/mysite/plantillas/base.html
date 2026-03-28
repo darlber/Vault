@@ -1,0 +1,17 @@
+﻿<!--plantilla padre sobre la que las demas heredaran -->
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}{% endblock %}</title>
+  </head>
+  <body>
+    {% include "plantilla_incrustada.html" %}
+    <header>Contenido de base.html</header>
+    <h1>Header 1 de base.html</h1>
+    <h3>Header 3 de base.html</h3>
+    {% block content %}{% endblock %}
+    <p>Footer en parrafo de base.html</p>
+  </body>
+</html>

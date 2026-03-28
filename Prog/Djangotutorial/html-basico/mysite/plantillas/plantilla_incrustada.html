@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Plantilla con barra incrustada</title>
+  </head>
+  <body>
+    <ul id="barra-nav">
+      <li>
+        <a href="{% url 'saludo-name' %}">Ir a Saludo</a>
+      </li>
+      <li>Contacto</li>
+      <li>cosas de barra de navegacion</li>
+    </ul>
+  </body>
+  <style>
+    #barra-nav {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    #barra-nav li {
+      display: inline;
+      margin: 0 20px;
+    }
+  </style>
+</html>
