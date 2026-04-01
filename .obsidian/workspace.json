@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "87f27fcbacc1c616",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +185,11 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "87f27fcbacc1c616",
+  "active": "4302300dff38e9ed",
   "lastOpenFiles": [
     "Form.md",
     "README.md",
