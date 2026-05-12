@@ -11,15 +11,12 @@
             "id": "1f771c943d4a6c88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Oposiciones Guitarra/TEMA 29 y 30.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "TEMA 29 y 30"
             }
           }
         ]
@@ -175,10 +172,17 @@
   },
   "active": "1f771c943d4a6c88",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
+    "Proyecto/Game Development Technology Stack.md",
+    "Proyecto/Phases.canvas",
+    "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
+    "Chemistry/List.md",
+    "Music/Sonatina clásica.md",
+    "Music/Modos “griegos”.md",
+    "Music/Jazz.md",
+    "README.md",
     "Music/Guía de Estudio Musical.md",
     "Music/Flamenco Dominantes y palos.md",
-    "Proyecto/Game Development Technology Stack.md",
-    "Music/Sonatina clásica.md",
     "Notion/Sonatina clásica synced block.md",
     "Music/Impro/Impro.md",
     "Music/Impro/Impro synced block.md",
@@ -187,9 +191,7 @@
     "Music/Research.md",
     "Music/Reducción Orquestal y Preludios.md",
     "Music/Musicales en España.md",
-    "Music/Modos “griegos”.md",
     "Music/Cadencia General Básica/Cadencia General Básica.md",
-    "Music/Jazz.md",
     "Music/Tipos de Variaciones.md",
     "Prog/Django CheatSheet/Instalación, config, templates.md",
     "Prog/Django CheatSheet/Form.md",
@@ -197,7 +199,6 @@
     "Prog/Django CheatSheet/Base de datos en Django.md",
     "Music/attachments/2_Tema_A.jpg",
     "Music/attachments/1_Intro.jpg",
-    "Proyecto/Phases.canvas",
     "Music/Cadencia General Básica/attachments/Cadencia_General_Bsica.jpg",
     "Music/Cadencia General Básica/attachments",
     "Music/Cadencia General Básica",
@@ -210,15 +211,10 @@
     "Music/attachments/3_Pte.jpg",
     "Music/Escalas.md",
     "Music/attachments",
-    "Music/Miscelánea.md",
     "Music/Impro",
-    "Music/Guía de Estudio Musical/Guía de Estudio Musical.md",
     "Music/Guía de Estudio Musical/attachments",
-    "Music/Guía de Estudio Musical/🎭 Después de conocer la obra de memoria.md",
-    "Music/Guía de Estudio Musical/🎼 Antes de conocer la obra de memoria.md",
     "Music/Guía de Estudio Musical",
     "Prog/Django CheatSheet",
-    "Music/Buscar buena guitarra.md",
     "Music",
     "Oposiciones Guitarra/temas 13-15 OCR.pdf",
     "Proyecto",
