@@ -16,13 +16,13 @@
         "startupType": "short"
       },
       "obsidian-git": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-icon-folder": {
         "startupType": "instant"
       },
       "obsidian-kanban": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-minimal-settings": {
         "startupType": "disabled"

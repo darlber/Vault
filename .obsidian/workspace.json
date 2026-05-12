@@ -138,13 +138,27 @@
             }
           },
           {
-            "id": "0d6486ce2540a41c",
+            "id": "91f268ff71f6296b",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "footnotes",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "3ecfc04baedbe704",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -165,7 +179,8 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "8f067c788f8932db",
