@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Guía de Estudio Musical.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Guía de Estudio Musical"
+              "title": "README"
             }
           }
         ]
@@ -169,13 +169,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "1f771c943d4a6c88",
   "lastOpenFiles": [
-    "Music/Flamenco Dominantes y palos.md",
     "Music/Guía de Estudio Musical.md",
+    "Music/Flamenco Dominantes y palos.md",
     "Proyecto/Game Development Technology Stack.md",
     "Music/Sonatina clásica.md",
     "Notion/Sonatina clásica synced block.md",
