@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode2",
       "LiMusic",
       "LiCalculator",
       "LiSkull",
-      "☠",
-      "LiAtom"
+      "☠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,7 @@
     "iconName": "LiCalculator",
     "iconColor": "#ff0000"
   },
-  "Proyecto": "☠"
+  "Proyecto": "☠",
+  "Music": "LiMusic",
+  "Prog": "LiCode2"
 }
