@@ -26,15 +26,17 @@
             "id": "4302300dff38e9ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Proyecto/Phases.canvas",
+                "viewState": {
+                  "x": -90,
+                  "y": 1050.5,
+                  "zoom": -1.3780524273746129
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Phases"
             }
           }
         ],
@@ -81,8 +83,7 @@
               "title": "Buscar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,15 +193,15 @@
   },
   "active": "4302300dff38e9ed",
   "lastOpenFiles": [
-    "Form.md",
+    "Proyecto/Game Development Technology Stack.md",
     "README.md",
+    "Form.md",
     "Math/Directed Graphs and Relations/Floyd-Warshall Algorithm.md",
     "Math/Directed Graphs and Relations/Directed graph.md",
     "Math/Directed Graphs and Relations/Antisymmetric property.md",
     "Math/Basic math concepts/Divisibility.md",
     "Math/Basic math concepts/Closure of the integers.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-    "Proyecto/Game Development Technology Stack.md",
     "Proyecto/Phases.canvas",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
