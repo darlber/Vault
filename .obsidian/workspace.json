@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "20ca78dd04ebb2cc",
+        "id": "bc1006d2cf17b6de",
         "type": "tabs",
         "children": [
           {
-            "id": "1f771c943d4a6c88",
+            "id": "d0150190d75a0347",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Oposiciones Guitarra/TEMA 29 y 30.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TEMA 29 y 30"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -170,7 +168,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f771c943d4a6c88",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Proyecto/Game Development Technology Stack.md",
