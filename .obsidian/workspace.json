@@ -170,7 +170,6 @@
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-importer:Open Importer": false
     }
   },
