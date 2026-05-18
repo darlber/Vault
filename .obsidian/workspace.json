@@ -94,8 +94,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ],
@@ -217,7 +217,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "notebook-navigator:Notebook Navigator": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "d0150190d75a0347",
