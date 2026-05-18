@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I. Organización del Estado y Administración electrónicas.md",
+                "file": "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "I. Organización del Estado y Administración electrónicas"
+              "title": "I. Organización del Estado y Administración electrónica"
             },
             "group": "7bf7af64b0310ae8"
           }
@@ -35,13 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I. Organización del Estado y Administración electrónicas.md",
+                "file": "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "I. Organización del Estado y Administración electrónicas"
+              "title": "I. Organización del Estado y Administración electrónica"
             },
             "group": "7bf7af64b0310ae8"
           }
@@ -98,8 +98,7 @@
               "title": "notebook-navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I. Organización del Estado y Administración electrónicas.md",
+                "file": "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of I. Organización del Estado y Administración electrónicas"
+              "title": "Outline of I. Organización del Estado y Administración electrónica"
             }
           },
           {
@@ -232,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
     "Oposiciones TAI/Índice.md",
-    "I. Organización del Estado y Administración electrónicas.md",
+    "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
     "README.md",
     "I..md",
     "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",

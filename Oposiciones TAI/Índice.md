@@ -1,6 +1,6 @@
 [BOE](https://boe.es/boe/dias/2025/12/22/pdfs/BOE-A-2025-26262.pdf)
 
-# [I. Organización del Estado y Administración electrónicas](../I.%20Organización%20del%20Estado%20y%20Administración%20electrónicas.md)
+# [I. Organización del Estado y Administración electrónica](I.%20Organización%20del%20Estado%20y%20Administración%20electrónica.md)
 ## La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona: funciones constitucionales del Rey. 
 ## Las Cortes Generales: atribuciones del Congreso de los Diputados y del Senado. El Tribunal Constitucional: composición y atribuciones. El Defensor del Pueblo. 
 ## El Gobierno: composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales. 
