@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Miscelánea.md",
+                "file": "I. Organización del Estado y Administración electrónica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Miscelánea"
+              "title": "I. Organización del Estado y Administración electrónica"
             }
           }
         ]
@@ -64,8 +64,19 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "0df9cf73f114c086",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -133,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
+                "file": "I. Organización del Estado y Administración electrónica.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 01. Historia General de la Guitarra"
+              "title": "Outline of I. Organización del Estado y Administración electrónica"
             }
           },
           {
@@ -169,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,11 +196,19 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "active": "d0150190d75a0347",
   "lastOpenFiles": [
+    "Oposiciones TAI/Índice.md",
+    "I. Organización del Estado y Administración electrónica.md",
+    "README.md",
+    "I..md",
+    "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
+    "Music/Miscelánea.md",
+    "Oposiciones TAI",
     "Music/Tipos de Variaciones.md",
     "Music/Impro/Impro synced block.md",
     "Music/Escalas.md",
@@ -203,7 +222,6 @@
     "Music/Sonatina clásica.md",
     "Music/Modos “griegos”.md",
     "Music/Jazz.md",
-    "README.md",
     "Music/Guía de Estudio Musical.md",
     "Music/Flamenco Dominantes y palos.md",
     "Notion/Sonatina clásica synced block.md",
@@ -213,11 +231,6 @@
     "Music/Research.md",
     "Music/Reducción Orquestal y Preludios.md",
     "Music/Musicales en España.md",
-    "Music/Cadencia General Básica/Cadencia General Básica.md",
-    "Prog/Django CheatSheet/Instalación, config, templates.md",
-    "Prog/Django CheatSheet/Form.md",
-    "Prog/Django CheatSheet/Django CheatSheet.md",
-    "Prog/Django CheatSheet/Base de datos en Django.md",
     "Music/attachments/2_Tema_A.jpg",
     "Music/attachments/1_Intro.jpg",
     "Music/Cadencia General Básica/attachments/Cadencia_General_Bsica.jpg",
@@ -236,7 +249,6 @@
     "Music/Guía de Estudio Musical",
     "Prog/Django CheatSheet",
     "Music",
-    "Oposiciones Guitarra/temas 13-15 OCR.pdf",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
     "Vault/Proyecto/Phases.canvas",
