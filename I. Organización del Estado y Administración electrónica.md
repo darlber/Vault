@@ -1,42 +1,105 @@
-Art. 1: Valores / Soberanía / Forma política
-• España es un Estado social y democrático de Derecho que tiene como valores
-superiores: libertad, justicia, igualdad y pluralismo político.
-• La soberanía nacional reside en el pueblo español, de quien emanan los poderes del
-Estado.
+# Rango de Ley
+## Constitución
+• Constitución:
+- Es la ley fundamental del Estado y tiene la máxima jerarquía normativa.
+- Reformas:
+	- Total, Derechos Fundamentales o Corona: Requiere la aprobación de 2/3 de ambas Cámaras y referéndum.
+	- Parcial: Requiere 3/5 de ambas Cámaras. Si el Senado la rechaza, el Congreso puede aprobarla por 2/3. Es posible someterla a referéndum.
+## Tratados Internacionales
+• Tratados Internacionales:
+- Incorporados al ordenamiento jurídico según lo establecido en la Constitución.
+## Leyes Orgánicas
+• Leyes Orgánicas:
+- Regulan el desarrollo de derechos fundamentales, libertades públicas,
+- Estatutos de Autonomía y régimen electoral general.
+- Se aprueban por mayoría absoluta del Congreso.
+## Leyes Ordinarias
+• Leyes Ordinarias:
+- Regulan materias no reservadas a leyes orgánicas.
+- Se aprueban por mayoría simple del Congreso, salvo veto absoluto del Senado, en cuyo caso requerirían mayoría absoluta.
+## Decretos Legislativos (Real Decreto Legislativo)
+• Decretos Legislativos (Real Decreto Legislativo):
+- Dictados por el poder ejecutivo mediante delegación de las Cortes Generales, excepto en materias reservadas a leyes orgánicas.
+- Tipos de delegación:
+▪ Ley de Bases: Permite elaborar un texto articulado.
+▪ Ley Ordinaria: Permite elaborar textos refundidos (armonización normativa).
+## Decretos Leyes (Real Decreto Ley)
+• Decretos Leyes (Real Decreto Ley):
+- Normas provisionales con rango de ley dictadas por el poder ejecutivo en casos de extraordinaria y urgente necesidad.
+- Excluyen materias reservadas a leyes orgánicas.
+- Deben ser convalidadas o derogadas por el Congreso en un plazo de 30 días.
+# Rango Reglamentario
+## Decreto
+• Decreto: Norma jurídica con rango de reglamento aprobada por órganos ejecutivos de
+las comunidades autónomas.
+## Real Decreto
+• Real Decreto: Norma jurídica emitida por el Gobierno Central y formalizada por el Rey
+según la Constitución.
+# Iniciativas Legislativas
+
+## Proyecto de Ley
+• Proyecto de Ley: Propuesta presentada por el Gobierno, aprobada previamente en el Consejo de Ministros.
+## Proposición de Ley
+• Proposición de Ley: Propuesta presentada por el Congreso, el Senado, Asambleas Legislativas de las CCAA o mediante iniciativa legislativa popular (excluye materias de
+leyes orgánicas).
+## Anteproyecto de Ley
+• Anteproyecto de Ley: Documento elaborado por uno o varios ministerios para ser elevado al Consejo de Ministros como proyecto de ley.
+## Leyes Marco
+• Leyes Marco: Emanadas de las Cortes Generales, otorgan a las CCAA la facultad de dictar normas legislativas dentro del marco fijado por el Estado.
+# Ordenamientos Jurídicos
+## Jerarquía en el Estado
+• Jerarquía en el Estado:
+1. Decretos.
+2. Órdenes de Comisiones Delegadas del Gobierno.
+3. Órdenes Ministeriales.
+4. Disposiciones de órganos inferiores según su jerarquía.
+## Jerarquía en las CCAA
+• Jerarquía en las CCAA:
+- Similar al Estado, pero adaptada a las consejerías y órganos colegiados autonómicos.
+## Jerarquía en Entidades Locales
+• Jerarquía en Entidades Locales:
+1. Reglamento Orgánico.
+2. Ordenanzas.
+# Fuentes del Derecho
+## La Ley
+• La Ley: Principal fuente del Derecho.
+## La costumbre
+• La costumbre: Aplica en defecto de ley aplicable.
+## Principios generales del Derecho
+• Principios generales del Derecho: Supletorios en ausencia de ley o costumbre.
+# Constitución Española de 1978
+## Título Preliminar
+### Art. 1: Valores / Soberanía / Forma política
+• España es un Estado social y democrático de Derecho que tiene como valores superiores: libertad, justicia, igualdad y pluralismo político.
+• La soberanía nacional reside en el pueblo español, de quien emanan los poderes del Estado.
 • Su forma política es la Monarquía parlamentaria.
-Art. 2: Unidad / Autonomía / Solidaridad
+### Art. 2: Unidad / Autonomía / Solidaridad
 • La Constitución se basa en la indisoluble unidad de la Nación española.
-• Reconoce el derecho a la autonomía de nacionalidades y regiones y garantiza la
-solidaridad entre todas ellas.
-Art. 3: Lenguas
+• Reconoce el derecho a la autonomía de nacionalidades y regiones y garantiza la solidaridad entre todas ellas.
+### Art. 3: Lenguas
 • El castellano es la lengua oficial del Estado.
-• Las demás lenguas españolas serán también oficiales en sus respectivas comunidades
-autónomas según los estatutos.
+• Las demás lenguas españolas serán también oficiales en sus respectivas comunidades autónomas según los estatutos.
 • Se protege la riqueza lingüística como patrimonio cultural.
-Art. 4: Bandera de España
+### Art. 4: Bandera de España
 • Formada por tres franjas horizontales: roja, amarilla (doble de ancha) y roja.
 • Las banderas autonómicas podrán utilizarse junto a la bandera nacional.
-Art. 5: Capital del Estado
+### Art. 5: Capital del Estado
 • La capital de España es la villa de Madrid.
-Art. 6: Partidos políticos
-• Representan el pluralismo político y son instrumentos fundamentales para la
-participación política.
+### Art. 6: Partidos políticos
+• Representan el pluralismo político y son instrumentos fundamentales para la participación política.
 • Su funcionamiento debe ser democrático.
-Art. 7: Sindicatos y asociaciones empresariales
+### Art. 7: Sindicatos y asociaciones empresariales
 • Contribuyen a la defensa de intereses económicos y sociales.
 • Funcionamiento democrático.
-Art. 8: Fuerzas Armadas
-15
+### Art. 8: Fuerzas Armadas
 • Compuestas por Ejército de Tierra, Armada y Ejército del Aire.
-• Su misión es garantizar la soberanía, independencia, integridad territorial y el orden
-constitucional.
-Art. 9: Sujeción a la ley / Garantías judiciales
+• Su misión es garantizar la soberanía, independencia, integridad territorial y el orden constitucional.
+### Art. 9: Sujeción a la ley / Garantías judiciales
 • Todos están sujetos a la Constitución y leyes.
 • Los poderes públicos deben promover igualdad y participación real y efectiva.
-• Garantías: principio de legalidad, jerarquía normativa, publicidad, irretroactividad,
-seguridad jurídica, y responsabilidad pública.
-Título I: De los derechos y deberes fundamentales
-Art. 10: Dignidad y derechos de la persona
+• Garantías: principio de legalidad, jerarquía normativa, publicidad, irretroactividad, seguridad jurídica, y responsabilidad pública.
+## Título I: De los derechos y deberes fundamentales
+### Art. 10: Dignidad y derechos de la persona
 • Fundamento del orden político y paz social: dignidad, libre desarrollo de la
 personalidad y respeto a la ley y derechos ajenos.
 • Interpretación conforme a la Declaración Universal de Derechos Humanos.
