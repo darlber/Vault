@@ -294,51 +294,40 @@ Congreso.
 • Las Cortes pueden delegar al Gobierno la capacidad de dictar normas con rango de ley.
 • Instrumentos: Leyes de bases (para textos articulados) y leyes ordinarias (para refundir
 textos).
-
-22
-Art. 83: Limitaciones a la delegación legislativa
-• No podrá concederse para materias propias de leyes orgánicas, ni para regular
-competencias exclusivas del Congreso o del Senado.
-Art. 84: Modificación de normas delegadas
-• Si se tramita un proyecto de ley en las Cortes que contradiga una norma dictada por
-delegación, esta quedará sin efecto en lo que contradiga la nueva ley.
-Art. 85: Real Decreto Legislativo
+### Art. 83: Limitaciones a la delegación legislativa
+• No podrá concederse para materias propias de leyes orgánicas, ni para regularcompetencias exclusivas del Congreso o del Senado.
+### Art. 84: Modificación de normas delegadas
+• Si se tramita un proyecto de ley en las Cortes que contradiga una norma dictada por delegación, esta quedará sin efecto en lo que contradiga la nueva ley.
+### Art. 85: Real Decreto Legislativo
 • Las normas dictadas por delegación legislativa se adoptan bajo la forma de Decreto
 Legislativo.
-Art. 86: Decretos-leyes
+### Art. 86: Decretos-leyes
 • El Gobierno podrá dictarlos en casos de extraordinaria y urgente necesidad.
 • No podrán afectar a materias de leyes orgánicas.
 • Deben ser sometidos al Congreso para su convalidación o derogación en un plazo
 máximo de 30 días.
-Art. 87: Iniciativa legislativa
-• Corresponde al Gobierno, al Congreso, al Senado, a las Asambleas Legislativas de las
-CCAA y mediante iniciativa popular con al menos 500,000 firmas (excepto en materias
-reservadas a leyes orgánicas).
-Art. 88: Proyecto de ley
-• Aprobados por Consejo de Ministros, y presentados ante el Congreso, acompañado de
-una exposición de motivos.
-Art. 89: Proposiciones de ley
+### Art. 87: Iniciativa legislativa
+• Corresponde al Gobierno, al Congreso, al Senado, a las Asambleas Legislativas de las CCAA y mediante iniciativa popular con al menos 500,000 firmas (excepto en materias reservadas a leyes orgánicas).
+### Art. 88: Proyecto de ley
+• Aprobados por Consejo de Ministros, y presentados ante el Congreso, acompañado de una exposición de motivos.
+### Art. 89: Proposiciones de ley
 • Regulada por los Reglamentos de las Cámaras
-Art. 90: Actuación legislativa del Senado
-• Tras la aprobación de un proyecto de ley en el Congreso, se remite al Senado para
-deliberación en un plazo de 2 meses.
+### Art. 90: Actuación legislativa del Senado
+• Tras la aprobación de un proyecto de ley en el Congreso, se remite al Senado para deliberación en un plazo de 2 meses.
 • El Senado puede:
-o Oponer veto (mayoría absoluta).
-o Introducir enmiendas.
+- Oponer veto (mayoría absoluta).
+- Introducir enmiendas.
 • En caso de veto:
-o El Congreso puede ratificarlo por mayoría absoluta o por mayoría simple tras 2
-meses.
+ - El Congreso puede ratificarlo por mayoría absoluta o por mayoría simple tras 2 meses.
 • Proyectos urgentes: plazo reducido a 20 días naturales.
-Art. 91: Sanción y promulgación de las leyes
-
-23
+### Art. 91: Sanción y promulgación de las leyes
 • El Rey sancionará y promulgará las leyes en un plazo de 15 días desde su aprobación.
-Art. 92: Referéndum
-• Convocado por el Rey, a propuesta del Presidente del Gobierno, previa autorización
-del Congreso, para decisiones políticas de especial trascendencia.
+### Art. 92: Referéndum
+• Convocado por el Rey, a propuesta del Presidente del Gobierno, previa autorización del Congreso, para decisiones políticas de especial trascendencia.
 • Regulación por Ley Orgánica.
-Título IV: Del Gobierno y de la Administración
-Art. 97: Funciones del Gobierno
+
+## Título IV: Del Gobierno y de la Administración
+### Art. 97: Funciones del Gobierno
 • Dirige la política interior y exterior, la defensa del Estado y la Administración civil y
 militar.
 • Ejerce la función ejecutiva y la potestad reglamentaria.
