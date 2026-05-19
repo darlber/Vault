@@ -253,7 +253,7 @@ Gobierno, expedir decretos, y mando supremo de las Fuerzas Armadas, entre otras.
 ##### Art. 65: Casa Real
 • El Rey recibe un presupuesto asignado por el Estado y lo distribuye libremente.
 ## Título III: De las Cortes Generales
-### CAPÍTULO PRIMEOR. e
+### CAPITULO PRIMERO. De las Cámaras
 ##### Art. 66: Funciones de las Cortes Generales
 • Representan al pueblo, ejercen la potestad legislativa, aprueban presupuestos y controlan la acción del Gobierno.
 • Compuestas por el Congreso y el Senado, son inviolables.
@@ -293,6 +293,7 @@ Congreso.
 ##### Art. 79: Adopción de acuerdos
 • Mayoría requerida, con asistencia reglamentaria de los miembros.
 • El voto es personal e indelegable.
+### CAPITULO SEGUNDO. De la elaboración de las leyes.
 ##### Art. 80: Sesiones plenarias
 • Son públicas, salvo acuerdo por mayoría absoluta de la Cámara o por lo estipulado en su Reglamento.
 ##### Art. 81: Leyes orgánicas
@@ -333,7 +334,8 @@ máximo de 30 días.
 ##### Art. 92: Referéndum
 • Convocado por el Rey, a propuesta del Presidente del Gobierno, previa autorización del Congreso, para decisiones políticas de especial trascendencia.
 • Regulación por Ley Orgánica.
-
+### CAPITULO TERCERO. De los Tratados Internacionales
+##### Art. 93: Funciones del Gobierno
 ## Título IV: Del Gobierno y de la Administración
 ##### Art. 97: Funciones del Gobierno
 • Dirige la política interior y exterior, la defensa del Estado y la Administración civil y

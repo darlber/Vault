@@ -214,12 +214,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,7 +234,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e4ddbad058836480",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
     "Oposiciones TAI/Índice.md",
     "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
