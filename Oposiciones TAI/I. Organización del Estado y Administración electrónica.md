@@ -240,29 +240,23 @@ CCAA".
 • Sancionar/promulgar leyes, convocar elecciones, proponer candidato a Presidente del
 Gobierno, expedir decretos, y mando supremo de las Fuerzas Armadas, entre otras.
 ### Art. 63: Relaciones internacionales
-
-20
-• Acredita embajadores, manifiesta consentimiento en tratados internacionales, y
-declara la guerra o la paz con autorización de las Cortes Generales.
-Art. 64: Refrendo de los actos del Rey
-• Actos refrendados por el Presidente del Gobierno o los ministros, quienes son
-responsables de ellos.
-Art. 65: Casa Real
+• Acredita embajadores, manifiesta consentimiento en tratados internacionales, y declara la guerra o la paz con autorización de las Cortes Generales.
+### Art. 64: Refrendo de los actos del Rey
+• Actos refrendados por el Presidente del Gobierno o los ministros, quienes son responsables de ellos.
+### Art. 65: Casa Real
 • El Rey recibe un presupuesto asignado por el Estado y lo distribuye libremente.
-Título III: De las Cortes Generales
-Art. 66: Funciones de las Cortes Generales
-• Representan al pueblo, ejercen la potestad legislativa, aprueban presupuestos y
-controlan la acción del Gobierno.
+## Título III: De las Cortes Generales
+### Art. 66: Funciones de las Cortes Generales
+• Representan al pueblo, ejercen la potestad legislativa, aprueban presupuestos y controlan la acción del Gobierno.
 • Compuestas por el Congreso y el Senado, son inviolables.
-Art. 67: Incompatibilidades y mandato
-• No se puede ser miembro de ambas Cámaras a la vez ni estar ligado por mandato
-imperativo.
+### Art. 67: Incompatibilidades y mandato
+• No se puede ser miembro de ambas Cámaras a la vez ni estar ligado por mandato imperativo.
 • Reuniones no reglamentarias no vinculan a las Cámaras.
-Art. 68: Congreso de los Diputados
+### Art. 68: Congreso de los Diputados
 • Entre 300 y 400 Diputados, elegidos por sufragio universal, directo y secreto.
 • Circunscripción electoral: provincia.
 • Mandato: 4 años.
-Art. 69: Senado
+### Art. 69: Senado
 • Cámara de representación territorial.
 • Composición: 4 senadores por provincia, más representantes de islas y CCAA según
 población.

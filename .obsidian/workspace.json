@@ -89,20 +89,22 @@
             }
           },
           {
-            "id": "0df9cf73f114c086",
+            "id": "ea36be66b8c42f9b",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -212,11 +214,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +231,11 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "e4ddbad058836480",
   "lastOpenFiles": [
     "Oposiciones TAI/Índice.md",
     "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
