@@ -258,49 +258,39 @@ Gobierno, expedir decretos, y mando supremo de las Fuerzas Armadas, entre otras.
 • Mandato: 4 años.
 ### Art. 69: Senado
 • Cámara de representación territorial.
-• Composición: 4 senadores por provincia, más representantes de islas y CCAA según
-población.
-Art. 70: Inelegibilidades e incompatibilidades
+• Composición: 4 senadores por provincia, más representantes de islas y CCAA según población.
+### Art. 70: Inelegibilidades e incompatibilidades
 • Afectan a altos cargos, magistrados, jueces, fiscales, militares en activo, entre otros.
-Art. 71: Protección de parlamentarios
+### Art. 71: Protección de parlamentarios
 • Inviolabilidad por opiniones expresadas en funciones.
 • Inmunidad salvo flagrante delito, juzgados por el Tribunal Supremo.
-Art. 72: Reglamentos de las Cámaras
-• Cada Cámara elabora su propio reglamento (mayoría absoluta) y elige su Presidencia y
-Mesa.
-
-21
-Art. 73: Periodos de sesiones
+### Art. 72: Reglamentos de las Cámaras
+• Cada Cámara elabora su propio reglamento (mayoría absoluta) y elige su Presidencia y Mesa.
+### Art. 73: Periodos de sesiones
 • Dos periodos ordinarios: septiembre-diciembre y febrero-junio.
-• Sesiones extraordinarias: solicitadas por Gobierno, Diputación Permanente o mayoría
-absoluta de miembros.
-Art. 74: Sesiones conjuntas de las Cámaras
+• Sesiones extraordinarias: solicitadas por Gobierno, Diputación Permanente o mayoría absoluta de miembros.
+### Art. 74: Sesiones conjuntas de las Cámaras
 • Para competencias no legislativas del Título II. Presididas por el Presidente del
 Congreso.
-Art. 75: Funcionamiento de las Cámaras
+### Art. 75: Funcionamiento de las Cámaras
 • En Pleno o Comisiones.
-• En comisiones permanentes pueden aprobar proyectos de ley, salvo reformas
-constitucionales, leyes orgánicas y presupuestos.
-Art. 76: Comisiones de investigación
+• En comisiones permanentes pueden aprobar proyectos de ley, salvo reformas constitucionales, leyes orgánicas y presupuestos.
+### Art. 76: Comisiones de investigación
 • Obligatorias para comparecer, pero sus conclusiones no son vinculantes.
-Art. 77: Derecho de petición
+### Art. 77: Derecho de petición
 • Ejercido por escrito.
-Art. 78: Diputación Permanente
-• Representación proporcional de grupos parlamentarios, presidida por el Presidente de
-la Cámara.
+### Art. 78: Diputación Permanente
+• Representación proporcional de grupos parlamentarios, presidida por el Presidente de la Cámara.
 • Asume competencias en casos de disolución de las Cámaras o estados excepcionales.
-Art. 79: Adopción de acuerdos
+### Art. 79: Adopción de acuerdos
 • Mayoría requerida, con asistencia reglamentaria de los miembros.
 • El voto es personal e indelegable.
-Art. 80: Sesiones plenarias
-• Son públicas, salvo acuerdo por mayoría absoluta de la Cámara o por lo estipulado en
-su Reglamento.
-Art. 81: Leyes orgánicas
-• Regulación de los derechos fundamentales y libertades públicas, Estatutos de
-Autonomía, régimen electoral y otras materias según la Constitución.
-• Requieren mayoría absoluta del Congreso en una votación final sobre el conjunto del
-texto.
-Art. 82: Delegación legislativa al Gobierno
+### Art. 80: Sesiones plenarias
+• Son públicas, salvo acuerdo por mayoría absoluta de la Cámara o por lo estipulado en su Reglamento.
+### Art. 81: Leyes orgánicas
+• Regulación de los derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral y otras materias según la Constitución.
+• Requieren mayoría absoluta del Congreso en una votación final sobre el conjunto del texto.
+### Art. 82: Delegación legislativa al Gobierno
 • Las Cortes pueden delegar al Gobierno la capacidad de dictar normas con rango de ley.
 • Instrumentos: Leyes de bases (para textos articulados) y leyes ordinarias (para refundir
 textos).
