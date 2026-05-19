@@ -171,6 +171,7 @@ leyes orgánicas).
 incluido el derecho a huelga.
 ##### Art. 38: Libertad de empresa
 • Garantizado dentro de las exigencias de la economía general y, en su caso, planificación estatal.
+### CAPITULO TERCERO. De los principios rectores de la política social y económica
 ##### Art. 39: Protección a la familia e infancia
 • Protección integral a los hijos, madres y familias.
 • Igualdad ante la filiación, independientemente de su naturaleza.
@@ -204,6 +205,7 @@ extranjero.
 • Garantía de suficiencia económica y servicios sociales específicos para ancianos.
 ##### Art. 51: Consumidores y usuarios
 • Protección de sus derechos a la seguridad, salud e intereses económicos.
+### CAPITULO CUARTO. De las garantías de las libertades y derechos fundamentales
 ##### Art. 52: Organizaciones profesionales
 • Su funcionamiento será democrático y representarán intereses económicos y sociales.
 ##### Art. 53: Garantías de derechos
@@ -214,6 +216,7 @@ extranjero.
 • Es un alto comisionado de las Cortes Generales encargado de defender los derechos fundamentales.
 • Supervisa la actividad administrativa y da cuenta a las Cortes Generales.
 • Regulación mediante ley orgánica.
+### CAPITULO QUINTO. De la suspensión de los derechos y libertades
 ##### Art. 55: Suspensión de derechos y libertades
 • Derechos susceptibles de suspensión durante los estados de excepción o sitio:
 - Libertad personal (17.1, 17.2, 17.3, 17.4), inviolabilidad del domicilio (18.2), secreto de las comunicaciones (18.3), libertad de circulación (19), reunión (21), entre otros.
@@ -250,6 +253,7 @@ Gobierno, expedir decretos, y mando supremo de las Fuerzas Armadas, entre otras.
 ##### Art. 65: Casa Real
 • El Rey recibe un presupuesto asignado por el Estado y lo distribuye libremente.
 ## Título III: De las Cortes Generales
+### CAPÍTULO PRIMEOR. e
 ##### Art. 66: Funciones de las Cortes Generales
 • Representan al pueblo, ejercen la potestad legislativa, aprueban presupuestos y controlan la acción del Gobierno.
 • Compuestas por el Congreso y el Senado, son inviolables.
