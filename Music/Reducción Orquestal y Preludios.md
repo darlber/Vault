@@ -1,7 +1,7 @@
 ---
 
 ---
-![Impro synced block](Impro/Impro%20synced%20block.md)
+![0. Navigation](0.%20Navigation.md)
 
 # Sonatas clásicas
 

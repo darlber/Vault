@@ -1,7 +1,7 @@
 ---
 
 ---
-![Impro synced block](Impro/Impro%20synced%20block.md)
+![0. Navigation](0.%20Navigation.md)
 
 1. Melódica
 2. Melódica de la melódica (quitar notas en los 1os 8 cc y luego añadir en los siguientes 8)

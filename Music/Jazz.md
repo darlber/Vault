@@ -1,7 +1,7 @@
 ---
 
 ---
-![Impro synced block](Impro/Impro%20synced%20block.md)
+![0. Navigation](0.%20Navigation.md)
 
 Melodía Blues 1-2-b3-3-4-#4-5-6-b7
 

@@ -433,10 +433,16 @@
   "folderBackgroundColors": {},
   "folderSortOverrides": {
     "Oposiciones Guitarra": "title-asc",
-    "Oposiciones TAI": "title-asc"
+    "Oposiciones TAI": "title-asc",
+    "Music": "title-asc"
   },
   "folderTreeSortOverrides": {},
-  "folderAppearances": {},
+  "folderAppearances": {
+    "Music": {
+      "titleRows": 1,
+      "previewRows": 1
+    }
+  },
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
