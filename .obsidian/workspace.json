@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+                "file": "Oposiciones TAI/Índice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey"
+              "title": "Índice"
             }
           }
         ]
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
-                "followCursor": true,
+                "file": "Oposiciones TAI/Índice.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey"
+              "title": "Outline of Índice"
             }
           },
           {
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -210,14 +210,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "30c66a756c80d7ae",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
     "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
-    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
+    "Oposiciones TAI/Índice.md",
     "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
     "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
-    "Oposiciones TAI/Índice.md",
     "Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación, derechos y deberes, formas de provisión de puestos, promoción interna y carrera profesional,.md",
     "serradilla_alberto_ejercicioScripts1.3.md",
     "README.md",
