@@ -11,15 +11,10 @@
             "id": "d0150190d75a0347",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "serradilla_alberto_ejercicioScripts1.3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "serradilla_alberto_ejercicioScripts1.3"
+              "title": "New tab"
             },
             "group": "7bf7af64b0310ae8"
           }
@@ -33,15 +28,10 @@
             "id": "e4ddbad058836480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "serradilla_alberto_ejercicioScripts1.3.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "serradilla_alberto_ejercicioScripts1.3"
+              "title": "New tab"
             },
             "group": "7bf7af64b0310ae8"
           }
@@ -231,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0150190d75a0347",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
     "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
     "serradilla_alberto_ejercicioScripts1.3.md",
