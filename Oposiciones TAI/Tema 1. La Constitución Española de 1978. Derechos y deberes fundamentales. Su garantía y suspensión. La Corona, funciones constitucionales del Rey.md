@@ -1,5 +1,3 @@
-
-# Constitución Española de 1978
 ## Título Preliminar
 ##### Art. 1: Valores / Soberanía / Forma política
 • España es un Estado social y democrático de Derecho que tiene como valores superiores: ==libertad, justicia, igualdad y pluralismo político.==
