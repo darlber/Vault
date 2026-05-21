@@ -190,11 +190,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +210,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "30c66a756c80d7ae",
   "lastOpenFiles": [
     "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
     "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
