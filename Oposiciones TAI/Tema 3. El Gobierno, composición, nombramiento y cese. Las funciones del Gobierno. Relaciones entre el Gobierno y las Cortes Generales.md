@@ -37,7 +37,7 @@ mayor.
 ##### Art. 107: Consejo de Estado
 • Es el supremo órgano consultivo del Gobierno.
 • Su regulación se realiza por ley orgánica.
-Título V: De las relaciones entre el Gobierno y las Cortes Generales
+## Título V: De las relaciones entre el Gobierno y las Cortes Generales
 ##### Art. 108: Responsabilidad del Gobierno
 • El Gobierno responde de su gestión política de forma solidaria ante las Cámaras.
 ##### Art. 109: Derecho de información
@@ -66,11 +66,10 @@ Ministros y decretada por el Rey.
 disolución.
 ##### Art. 116: Estados de alarma, excepción y sitio
 • Declarados según ley orgánica:
-o Estado de alarma: Máximo 15 días, prorrogable con autorización del Congreso.
-o Estado de excepción: Máximo 30 días, autorizado por el Congreso.
-o Estado de sitio: Declarado por mayoría absoluta del Congreso, a propuesta del
-Gobierno.
-Título VIII: De la Organización Territorial del Estado
+- Estado de alarma: Máximo 15 días, prorrogable con autorización del Congreso.
+- Estado de excepción: Máximo 30 días, autorizado por el Congreso.
+- Estado de sitio: Declarado por mayoría absoluta del Congreso, a propuesta del Gobierno.
+## Título VIII: De la Organización Territorial del Estado
 ##### Art. 137: Organización territorial
 • El Estado se organiza en municipios, provincias y comunidades autónomas, todos ellos
 con autonomía para gestionar sus intereses.
@@ -141,7 +140,7 @@ transferencias del Fondo de Compensación interterritorial y operaciones de cré
 ##### Art. 158: Fondo de compensación interterritorial
 • Distribuido por las Cortes Generales para corregir desigualdades económicas entre
 CCAA y provincias.
-Título IX: Del Tribunal Constitucional
+## Título IX: Del Tribunal Constitucional
 ##### Art. 159: Composición
 • Formado por 12 miembros:
 - 4 designados por el Congreso (mayoría 3/5).
