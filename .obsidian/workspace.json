@@ -11,29 +11,16 @@
             "id": "d0150190d75a0347",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            },
-            "group": "7bf7af64b0310ae8"
-          }
-        ]
-      },
-      {
-        "id": "daaf0ed02a9662a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4ddbad058836480",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            },
-            "group": "7bf7af64b0310ae8"
+              "title": "Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado."
+            }
           }
         ]
       }
@@ -79,16 +66,17 @@
             }
           },
           {
-            "id": "ea36be66b8c42f9b",
+            "id": "1ab45e2b644b6293",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "serradilla_alberto_ejercicioScripts1.3.md",
+                "file": "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of serradilla_alberto_ejercicioScripts1.3"
+              "title": "Outline of Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado."
             }
           },
           {
@@ -197,12 +185,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -218,14 +206,20 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "d0150190d75a0347",
   "lastOpenFiles": [
-    "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
-    "serradilla_alberto_ejercicioScripts1.3.md",
+    "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
     "Oposiciones TAI/Índice.md",
+    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
+    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
+    "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
+    "Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación, derechos y deberes, formas de provisión de puestos, promoción interna y carrera profesional,.md",
+    "serradilla_alberto_ejercicioScripts1.3.md",
     "README.md",
     "I..md",
     "Oposiciones TAI/I. Organización del Estado y Administración electrónica.md",
@@ -247,11 +241,6 @@
     "Music/Guía de Estudio Musical.md",
     "Music/Flamenco Dominantes y palos.md",
     "Notion/Sonatina clásica synced block.md",
-    "Music/Impro/Impro.md",
-    "Music/Tipos de impro en guitarra.md",
-    "Music/Tipos de ritmos.md",
-    "Music/Research.md",
-    "Music/Reducción Orquestal y Preludios.md",
     "Music/attachments/2_Tema_A.jpg",
     "Music/attachments/1_Intro.jpg",
     "Music/Cadencia General Básica/attachments/Cadencia_General_Bsica.jpg",

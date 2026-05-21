@@ -40,7 +40,7 @@
         "startupType": "instant"
       },
       "notebook-navigator": {
-        "startupType": "disabled"
+        "startupType": "short"
       },
       "obsidian-importer": {
         "startupType": "disabled"
