@@ -17,7 +17,9 @@ $$
 
 Decatonica
 
-Todo menos 5# y b6
+$$
+1-\sharp1-2-\sharp2-3-4-\sharp4-6-\sharp6-7
+$$
 
 ---
 

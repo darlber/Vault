@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Escalas.md",
+                "file": "Music/Sonatina clásica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Escalas"
+              "title": "Sonatina clásica"
             }
           }
         ],
@@ -243,16 +243,17 @@
   },
   "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
-    "Music/Cadencia General Básica.md",
-    "Music/1. Guía de Estudio Musical.md",
+    "Music/Reducción Orquestal y Preludios.md",
     "Music/Modos “griegos”.md",
     "Music/Jazz.md",
+    "Music/Flamenco Dominantes y palos.md",
     "Music/Escalas.md",
+    "Music/Cadencia General Básica.md",
+    "Music/1. Guía de Estudio Musical.md",
     "Music/0. Navigation.md",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Music/Sonatina clásica.md",
     "Music/Miscelánea/Musicales en España.md",
-    "Music/Flamenco Dominantes y palos.md",
     "Music/Miscelánea/Año estudiando.md",
     "Music/Miscelánea/Miscelánea.md",
     "Music/Miscelánea/Buscar buena guitarra.md",
@@ -261,7 +262,6 @@
     "Music/Tipos de ritmos.md",
     "Music/Tipos de impro en guitarra.md",
     "Music/Miscelánea/Research.md",
-    "Music/Reducción Orquestal y Preludios.md",
     "Music/Impro/Impro.md",
     "Proyecto/Game Development Technology Stack.md",
     "Proyecto/Phases.canvas",
