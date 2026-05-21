@@ -9,9 +9,9 @@
 
 Octatonica
 
-1 b3-3 4 #4 5 6 b7
-
-Sobre acordes
+$$
+1-\flat3-3-4-\sharp4-5-6-\flat7 
+$$
 
 ---
 
@@ -25,10 +25,13 @@ Pelog
 
 Do reb mib Sol lab
 
-2m 3m 5J 6m
+$$
+2m-3m-5J-6m
+$$
 
 ---
 
 Kumoi
-
-1 2 3b 5 6
+$$
+1-2-\flat3-5-6
+$$
