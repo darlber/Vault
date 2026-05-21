@@ -51,7 +51,7 @@ Congreso.
 • Instrumentos: Leyes de bases (para textos articulados) y leyes ordinarias (para refundir
 textos).
 ##### Art. 83: Limitaciones a la delegación legislativa
-• No podrá concederse para materias propias de leyes orgánicas, ni para regularcompetencias exclusivas del Congreso o del Senado.
+• No podrá concederse para materias propias de leyes orgánicas, ni para regular competencias exclusivas del Congreso o del Senado.
 ##### Art. 84: Modificación de normas delegadas
 • Si se tramita un proyecto de ley en las Cortes que contradiga una norma dictada por delegación, esta quedará sin efecto en lo que contradiga la nueva ley.
 ##### Art. 85: Real Decreto Legislativo
