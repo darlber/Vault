@@ -1,4 +1,5 @@
-# El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación, derechos y deberes, formas de provisión de puestos, promoción interna y carrera profesional, situaciones administrativas, incompatibilidades y régimen sancionador. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. La Agenda 2030 y los Objetivos de Desarrollo Sostenible
+>El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación, derechos y deberes, formas de provisión de puestos, promoción interna y carrera profesional, situaciones administrativas, incompatibilidades y régimen sancionador. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. La Agenda 2030 y los Objetivos de Desarrollo Sostenible
+
 [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719)
 # RDL 5/2015 - Ley del Estatuto Básico del Empleado Público (TREBEP)
 ## Objeto
@@ -191,6 +192,38 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
 - Puede condicionar la continuidad en el puesto obtenido por concurso.  
 - Debe garantizar audiencia al interesado y resolución motivada.  
 - Requiere sistemas objetivos previamente aprobados para su aplicación.  
+# CAPÍTULO III: Provisión de puestos de trabajo y movilidad
+### Art. 78. Provisión de puestos
+- Concurso y libre designación como sistemas principales.
+- Basado en igualdad, mérito, capacidad y publicidad.
+- Posibles sistemas adicionales por movilidad o reingreso.
+### Art. 79. Concurso
+- Sistema ordinario de provisión.
+- Valoración de méritos por órgano técnico imparcial.
+- Posible limitación temporal para participar en otros concursos.
+- Protección a víctimas del terrorismo en baremos.
+- Reasignación si se suprime el puesto.
+### Art. 80. Libre designación
+- Nombramiento discrecional por idoneidad.
+- Para puestos de confianza o especial responsabilidad.
+- Cese discrecional con recolocación garantizada.
+### Art. 81. Movilidad
+- Movilidad voluntaria y por necesidades del servicio.
+- Traslados motivados respetando derechos y retribuciones.
+- Provisión provisional en casos urgentes.
+### Art. 82. Movilidad por protección especial
+- Traslado para víctimas de violencia de género, sexual o terrorismo.
+- Sin necesidad de vacante.
+- Considerado traslado forzoso.
+- Protección de datos e intimidad.
+### Art. 83. Personal laboral
+- Se rige por convenios colectivos.
+- En defecto, se aplica el sistema del personal funcionario.
+### Art. 84. Movilidad entre Administraciones
+- Cooperación entre AAPP para facilitar movilidad.
+- Convenios de homologación.
+- Situación de servicio en otra Administración.
+- Reingreso o adscripción tras cese con plazos.
 # Título VI: Situaciones administrativas
 ### Art. 85. Situaciones administrativas
 - Los funcionarios de carrera pueden encontrarse en:
