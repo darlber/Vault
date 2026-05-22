@@ -428,7 +428,7 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
     - Origen racial, salud, vida sexual: Requieren consentimiento expreso, salvo norma con rango de ley.  
     - Acceso parcial: Cuando los límites solo afectan a una parte.  
 ### Procedimiento de acceso
-- Solicitud:  
+### Art. 17. Solicitud:  
   - No requiere motivación.  
   - Contenidos obligatorios: Identidad del solicitante, información requerida, dirección de contacto y modalidad de acceso.  
 
