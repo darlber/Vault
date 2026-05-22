@@ -59,6 +59,18 @@ Un atacante podía crear una página web maliciosa y, si el usuario la visitaba,
 - Afectó a múltiples generaciones de Windows simultáneamente.
 - Este tipo de vulnerabilidades en navegadores era especialmente relevante porque permitía comprometer equipos únicamente mediante navegación web.
 - Microsoft recomendó aplicar inmediatamente las actualizaciones acumulativas mensuales.
+### Ejemplo
+```js
+// Patrón de use-after-free (simplificado)
+let obj = document.createElement("div");
+document.body.appendChild(obj);
+
+// liberar referencia
+document.body.removeChild(obj);
+
+// reutilización de memoria. Normalmente UAF error
+obj.innerHTML = "AAAA".repeat(100000);
+```
 ## CVE-2017-14238
 
 ### Alias
