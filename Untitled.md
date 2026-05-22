@@ -12,8 +12,7 @@ Microsoft Browser Memory Corruption Vulnerability.
 CVE-2017-8750.
 
 ### Código CWE
-CWE-119 — Improper Restriction of Operations within the Bounds of a Memory Buffer.
-
+CWE-119 — Restricción de operaciones inapropiada dentro de los límites del búfer de la memoria
 ### Código CVSS explicado
 **CVSS v3.0:** 7.5 (Alta)
 
