@@ -11,9 +11,12 @@
 • Entre 300 y 400 Diputados, elegidos por sufragio universal, directo y secreto.
 • Circunscripción electoral: provincia.
 • Mandato: 4 años.
+• Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.
 ##### Art. 69: Senado
 • Cámara de representación territorial.
 • Composición: 4 senadores por provincia, más representantes de islas y CCAA según población.
+• Ceuta y Melilla, 2 senadores. 
+• Mandato: 4 años.
 ##### Art. 70: Inelegibilidades e incompatibilidades
 • Afectan a altos cargos, magistrados, jueces, fiscales, militares en activo, entre otros.
 ##### Art. 71: Protección de parlamentarios
