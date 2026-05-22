@@ -40,8 +40,6 @@ Incluida en los boletines de seguridad de Microsoft de septiembre de 2017 y en M
 - CVE Details: https://www.cvedetails.com/cve/CVE-2017-8750/
 
 ### Software afectado y versiones
-Afecta principalmente a:
-
 - Microsoft Internet Explorer 11.
 - Microsoft Edge.
 - Windows 7 SP1.
@@ -56,15 +54,11 @@ Afecta principalmente a:
 Se trata de una vulnerabilidad de corrupción de memoria en Internet Explorer y Microsoft Edge. El fallo permitía ejecutar código arbitrario aprovechando cómo los navegadores accedían a determinados objetos en memoria.
 
 Un atacante podía crear una página web maliciosa y, si el usuario la visitaba, ejecutar código con los privilegios de la víctima.
-
 ### Repercusiones mundiales y curiosidades
 - Fue corregida durante el Patch Tuesday de septiembre de 2017.
 - Afectó a múltiples generaciones de Windows simultáneamente.
 - Este tipo de vulnerabilidades en navegadores era especialmente relevante porque permitía comprometer equipos únicamente mediante navegación web.
 - Microsoft recomendó aplicar inmediatamente las actualizaciones acumulativas mensuales.
-
----
-
 ## CVE-2017-14238
 
 ### Alias
