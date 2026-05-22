@@ -61,15 +61,65 @@ Un atacante podía crear una página web maliciosa y, si el usuario la visitaba,
 - Microsoft recomendó aplicar inmediatamente las actualizaciones acumulativas mensuales.
 ### Ejemplo
 ```js
-// Patrón de use-after-free (simplificado)
-let obj = document.createElement("div");
-document.body.appendChild(obj);
+// ==============================
+// 1. “Objeto víctima”
+// ==============================
 
-// liberar referencia
-document.body.removeChild(obj);
+let victim = {
+    tag: "VICTIMA",
+    secret: "original"
+};
 
-// reutilización de memoria. Normalmente UAF error
-obj.innerHTML = "AAAA".repeat(100000);
+console.log("Antes:", victim);
+
+// ==============================
+// 2. “Liberación” conceptual
+// ==============================
+// En JS real NO controlas memoria así,
+// pero simulamos que el objeto deja de usarse.
+
+victim = null;
+
+// ==============================
+// 3. “Heap spray” (relleno del motor)
+// ==============================
+// Idea: crear muchos objetos similares para
+// influir en cómo el motor reutiliza memoria.
+
+let spray = [];
+
+for (let i = 0; i < 10000; i++) {
+    spray.push({
+        tag: "CONTROLADO",
+        id: i,
+        secret: "ATTACKER_DATA_" + i
+    });
+}
+
+// ==============================
+// 4. “Nuevo objeto que ocupa espacio similar”
+// ==============================
+// Simula lo que en exploits sería reutilización
+// del mismo bloque de memoria.
+
+let fakeVictim = spray[5000];
+
+// ==============================
+// 5. “Confusión conceptual”
+// ==============================
+// En un bug real, el motor podría tratar
+// un objeto como si fuera otro tipo.
+
+console.log("Acceso simulado:");
+console.log(fakeVictim.tag);     // CONTROLADO
+console.log(fakeVictim.secret);  // ATTACKER_DATA_5000
+
+// ==============================
+// 6. Explicación clave
+// ==============================
+// En un exploit real el problema NO es esto,
+// sino que el motor cree que sigue existiendo
+// "victim" cuando en realidad hay otro objeto.
 ```
 ## CVE-2017-14238
 
