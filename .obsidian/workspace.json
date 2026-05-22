@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -242,11 +241,13 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "30c66a756c80d7ae",
+  "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
-    "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
-    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
+    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
+    "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
+    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
     "Oposiciones TAI/Índice.md",
     "Music/Sonatina clásica.md",
     "Music/Reducción Orquestal y Preludios.md",
@@ -270,8 +271,6 @@
     "Music/Impro/Impro.md",
     "Proyecto/Game Development Technology Stack.md",
     "Proyecto/Phases.canvas",
-    "Oposiciones Guitarra/0. Temas Oposiciones.md",
-    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI",
     "Oposiciones Guitarra/TEMA 29 y 30.pdf",
     "Music/attachments/2_Tema_A.jpg",

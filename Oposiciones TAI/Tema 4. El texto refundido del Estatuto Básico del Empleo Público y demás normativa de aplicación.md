@@ -44,7 +44,7 @@
 
 - Definición:  
   - Empleados públicos son quienes desempeñan funciones retribuidas en las AAPP al servicio de los intereses generales.  
-  - 
+
 - Clases:  
   - Funcionarios de carrera:  
     - Designados por nombramiento legal.  
@@ -75,8 +75,7 @@
 - Sujetos a evaluación de eficacia, eficiencia y resultados.  
 - No son materia de negociación colectiva.  
 
-## Título III: Derechos y deberes. Código de conducta de los empleados públicos
-### Derecho a la jornada de trabajo, permisos y vacaciones
+# Título III: Derechos y deberes. Código de conducta de los empleados públicos
 ### Art. 14. Derechos individuales.
 a) A la inamovilidad en la condición de funcionario de carrera.
 
@@ -192,60 +191,151 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
 - Puede condicionar la continuidad en el puesto obtenido por concurso.  
 - Debe garantizar audiencia al interesado y resolución motivada.  
 - Requiere sistemas objetivos previamente aprobados para su aplicación.  
-### Jornada de trabajo
-- Puede ser a tiempo completo o parcial.  
-### Teletrabajo
-- Modalidad de prestación de servicios a distancia.  
-- El contenido competencial del puesto debe ser compatible con su desarrollo fuera de las dependencias de la Administración.  
-- Condiciones:  
-  - Ha de ser autorizado expresamente.  
-  - Tiene carácter voluntario y reversible.  
-  - Compatible con la modalidad presencial.  
-  - La Administración proporciona los medios tecnológicos necesarios.  
+# Título VI: Situaciones administrativas
+### Art. 85. Situaciones administrativas
+- Los funcionarios de carrera pueden encontrarse en:
+  - Servicio activo  
+  - Servicios especiales  
+  - Servicio en otras Administraciones Públicas  
+  - Excedencia  
+  - Suspensión de funciones  
 
-## Permisos de los funcionarios públicos
+- Las leyes de función pública pueden crear otras situaciones en casos como:
+  - Reestructuración o exceso de personal  
+  - Imposibilidad temporal de asignar puesto  
+  - Acceso a otros cuerpos o entidades públicas  
+### Art. 86. Servicio activo
+- Situación general de trabajo efectivo en la Administración.  
+- El funcionario:
+  - Mantiene todos sus derechos  
+  - Está sujeto a deberes y responsabilidades  
+  - Se rige por su normativa y la de su Administración  
+### Art. 87. Servicios especiales
+- Situación para cargos o funciones públicas relevantes.  
+#### Supuestos:
+- Altos cargos (Gobierno, UE, CCAA, etc.).  
+- Misiones internacionales o cooperación.  
+- Tribunales constitucionales, Defensor del Pueblo, Tribunal de Cuentas.  
+- Diputados, Senadores y cargos electivos.  
+- Órganos constitucionales o estatutarios.  
+- Personal eventual de confianza.  
+- Organizaciones internacionales.  
+- Reservistas activados.  
+### Efectos:
+- Cobro del puesto ocupado, no del cuerpo de origen.  
+- Se computa a efectos de carrera, trienios y promoción.  
+- Derecho a reingreso garantizado.  
+### Art. 88. Servicio en otras Administraciones Públicas
+- Se produce por:
+  - Transferencias  
+  - Movilidad o provisión de puestos  
+#### Efectos:
+- Se rige por la Administración de destino.  
+- Se mantiene la condición de funcionario de origen.  
+- El tiempo computa como servicio activo.  
+- Derecho a reingreso y reconocimiento de carrera.  
+### Art. 89. Excedencia
+#### Tipos:
+- Voluntaria por interés particular  
+- Por agrupación familiar  
+- Por cuidado de familiares  
+- Por violencia de género o sexual  
+- Por violencia terrorista  
+#### Características generales:
+- No se perciben retribuciones.  
+- No computa salvo excepciones.  
+#### Excedencias relevantes:
+- Cuidado de familiares:
+  - Hasta 3 años  
+  - Reserva de puesto limitada (2 años)  
+  - Computa a efectos de carrera y trienios  
 
-- Fallecimiento, accidente o enfermedad graves, hospitalización o intervención quirúrgica de un familiar:  
-  - Primer grado:  
-    - 3 días en misma localidad.  
-    - 5 días en distinta localidad.  
-  - Segundo grado:  
-    - 2 días en misma localidad.  
-    - 4 días en distinta localidad.  
+- Violencia de género o sexual:
+  - Sin requisito previo  
+  - Reserva de puesto inicial  
+  - Posible prórroga  
+  - Retribuciones iniciales en parte  
 
-- Traslado de domicilio sin cambio de residencia: 1 día.  
+- Terrorismo:
+  - Mismas condiciones que violencia de género  
+### Art. 90. Suspensión de funciones
+- Pérdida temporal de funciones y derechos.  
+#### Tipos:
+- Firme: por sentencia o sanción disciplinaria  
+- Provisional: durante procedimientos  
+#### Efectos:
+- No puede trabajar en ninguna Administración.  
+- Puede implicar pérdida del puesto si supera 6 meses.  
+- Sanción máxima: hasta 6 años.  
+### Art. 91. Reingreso al servicio activo
+- Se regula reglamentariamente.  
+- Depende de la situación administrativa previa.  
+- Puede incluir reserva de puesto en ciertos casos.  
+### Art. 92. Personal laboral
+- Se rige por:
+  - Estatuto de los Trabajadores  
+  - Convenios colectivos  
+- Posible aplicación parcial del régimen del TREBEP si el convenio lo permite  
+# Título VII: Régimen disciplinario
+### Art. 93. Responsabilidad disciplinaria
 
-- Otros permisos específicos:  
-  - Por el ejercicio de funciones sindicales.  
-  - Para concurrencia a exámenes finales o pruebas definitivas de aptitud.  
-  - Exámenes prenatales, técnicas de preparación al parto, o adopción.  
+- Funcionarios y personal laboral están sujetos a régimen disciplinario.  
+- Quien induce o encubre faltas responde igual si hay daño grave.  
+- El régimen laboral se complementa con la legislación laboral.
+### Art. 94. Ejercicio de la potestad disciplinaria
+- La Administración sanciona infracciones sin perjuicio de responsabilidad penal o patrimonial.  
+- Principios:  
+- Legalidad y tipicidad  
+- Irretroactividad favorable  
+- Proporcionalidad  
+- Culpabilidad  
+- Presunción de inocencia  
+- Si hay delito: se remite al Ministerio Fiscal.
+### Art. 95. Faltas disciplinarias
+- Las faltas pueden ser: ==muy graves, graves y leves.==  
+### Muy graves
+- Incumplir Constitución/Estatutos  
+- Discriminación o acoso  
+- Abandono del servicio  
+- Decisiones ilegales graves  
+- Uso indebido de información  
+- Desobediencia grave  
+- Abuso de cargo  
+- Incumplimiento de incompatibilidades  
+- Acoso laboral  
+- Otras tipificadas por ley o convenio
 
-- Lactancia:  
-  - Por hijo menor de 12 meses:  
-    - 1 hora diaria, divisible en dos fracciones.  
-    - Posibilidad de reducción de jornada en una hora con la misma finalidad.  
+- Graves y leves: se concretan por ley o convenio.
+### Art. 96. Sanciones
+- Separación del servicio  
+- Despido disciplinario  
+- Suspensión (hasta 6 años)  
+- Traslado forzoso  
+- Demérito  
+- Apercibimiento  
+- Otras legales  
+- Graduación según daño, intencionalidad y reincidencia
+### Art. 97. Prescripción
+- Faltas:
+  - Muy graves: 3 años  
+  - Graves: 2 años  
+  - Leves: 6 meses  
 
-- Nacimiento de hijos prematuros o hospitalización tras el parto:  
-  - Derecho a ausentarse del trabajo hasta 2 horas diarias con retribuciones íntegras.  
+- Sanciones:
+  - Muy graves: 3 años  
+  - Graves: 2 años  
+  - Leves: 1 año  
 
-- Cuidado de familiares hasta el segundo grado de consanguinidad o afinidad:  
-  - Reducción de jornada con disminución proporcional de la retribución.  
-
-- Cumplimiento de un deber inexcusable de carácter público o personal.  
-
-- Permiso por asuntos particulares: 6 días al año.  
-- Permiso por matrimonio: 15 días.  
-
-## Vacaciones
-- Duración:  
-  - 22 días hábiles al año o la parte proporcional si el tiempo trabajado es inferior al año.  
-
-- Disfrute posterior:  
-  - Si no se pudieran iniciar las vacaciones por causas como permisos de maternidad/paternidad, incapacidad temporal u otras circunstancias justificadas, podrán disfrutarse posteriormente, siempre que no hayan transcurrido más de 18 meses desde el final del año natural correspondiente.  
-
-- Restricción:  
-  - No se pueden sustituir las vacaciones por una compensación económica.  
-
+- Cómputo:
+  - Desde comisión o cese (si continuada)  
+  - Sanciones desde firmeza  
+### Art. 98. Procedimiento disciplinario y medidas provisionales
+- Obligatorio en faltas graves o muy graves.  
+- Leves: procedimiento simplificado.  
+- Principios: eficacia, celeridad y defensa. 
+- Separación entre instrucción y sanción. 
+- Posible suspensión cautelar (máx. 6 meses).  
+- Si no hay sanción: restitución de derechos y salarios.
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
 
 ## Objeto
