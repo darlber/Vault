@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones TAI/Índice.md",
+                "file": "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Índice"
+              "title": "Outline of Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación"
             }
           },
           {
@@ -222,12 +222,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
-    "collapsed": true
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +242,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "30c66a756c80d7ae",
   "lastOpenFiles": [
     "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
     "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",

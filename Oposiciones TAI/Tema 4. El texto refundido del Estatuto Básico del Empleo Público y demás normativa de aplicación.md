@@ -160,9 +160,6 @@
   - Publicación periódica y actualización de información relevante.  
   - Uso de sedes electrónicas o páginas web.  
 
-Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01  
-71  
-
   - Formatos reutilizables, accesibles y gratuitos, respetando el principio de accesibilidad universal y diseño para todos.  
   - Infracción grave: El incumplimiento reiterado de la publicidad activa.  
 
