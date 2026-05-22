@@ -1,4 +1,4 @@
-# Fichas de vulnerabilidades
+
 
 ## CVE-2017-8750
 
