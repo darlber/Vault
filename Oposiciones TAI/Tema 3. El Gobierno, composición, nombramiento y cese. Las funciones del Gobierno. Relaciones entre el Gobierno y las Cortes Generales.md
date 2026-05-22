@@ -180,9 +180,9 @@ Senado.
 • Referéndum si lo solicitan 1/10 de cualquier Cámara.
 ##### Art. 168: Reforma total o sobre ciertos títulos
 • Requiere:
-o Aprobación inicial por 2/3 de Congreso y Senado.
-o Disolución de las Cortes.
-o Nuevas Cortes deben ratificarlo con 2/3 y someterlo a referéndum.
+- Aprobación inicial por 2/3 de Congreso y Senado.
+- Disolución de las Cortes.
+- Nuevas Cortes deben ratificarlo con 2/3 y someterlo a referéndum.
 ##### Art. 169: Prohibición de reforma
 • No puede realizarse en tiempos de guerra o bajo los estados de alarma, excepción o
 sitio
