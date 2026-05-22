@@ -77,9 +77,124 @@
 
 ## Título III: Derechos y deberes. Código de conducta de los empleados públicos
 ### Derecho a la jornada de trabajo, permisos y vacaciones
-## Jornada de trabajo
+### Art. 14. Derechos individuales.
+a) A la inamovilidad en la condición de funcionario de carrera.
+
+b) Al desempeño efectivo de las funciones o tareas propias de su condición profesional y de acuerdo con la progresión alcanzada en su carrera profesional.
+
+c) A la progresión en la carrera profesional y promoción interna según principios constitucionales de igualdad, mérito y capacidad mediante la implantación de sistemas objetivos y transparentes de evaluación.
+
+d) A percibir las retribuciones y las indemnizaciones por razón del servicio.
+
+e) A participar en la consecución de los objetivos atribuidos a la unidad donde preste sus servicios y a ser informado por sus superiores de las tareas a desarrollar.
+
+f) A la defensa jurídica y protección de la Administración Pública en los procedimientos que se sigan ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones o cargos públicos.
+
+g) A la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente en horario laboral.
+
+h) Al respeto de su intimidad, orientación e identidad sexual, expresión de género, características sexuales, propia imagen y dignidad en el trabajo, especialmente frente al acoso sexual y por razón de sexo, de orientación e identidad sexual, expresión de género o características sexuales, moral y laboral.
+
+i) A la no discriminación por razón de nacimiento, origen racial o étnico, género, sexo u orientación e identidad sexual, expresión de género, características sexuales, religión o convicciones, opinión, discapacidad, edad o cualquier otra condición o circunstancia personal o social.
+
+j) A la adopción de medidas que favorezcan la conciliación de la vida personal, familiar y laboral.
+
+j bis) A la intimidad en el uso de dispositivos digitales puestos a su disposición y frente al uso de dispositivos de videovigilancia y geolocalización, así como a la desconexión digital en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales.
+
+k) A la libertad de expresión dentro de los límites del ordenamiento jurídico.
+
+l) A recibir protección eficaz en materia de seguridad y salud en el trabajo.
+
+m) A las vacaciones, descansos, permisos y licencias.
+
+n) A la jubilación según los términos y condiciones establecidas en las normas aplicables.
+
+o) A las prestaciones de la Seguridad Social correspondientes al régimen que les sea de aplicación.
+
+p) A la libre asociación profesional.
+
+q) A los demás derechos reconocidos por el ordenamiento jurídico.
+### Art. 15. Derechos individuales ejercidos colectivamente
+
+Los empleados públicos tienen los siguientes derechos individuales que se ejercen de forma colectiva:
+
+a) A la libertad sindical.
+
+b) A la negociación colectiva y a la participación en la determinación de las condiciones de trabajo.
+
+c) Al ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad.
+
+d) Al planteamiento de conflictos colectivos de trabajo, de acuerdo con la legislación aplicable en cada caso.
+
+e) Al de reunión, en los términos establecidos en el artículo 46 de este Estatuto.
+## Derecho a la carrera profesional y a la promoción interna. Evaluación del desempeño (TREBEP)
+
+### Art. 16. Carrera profesional
+- Derecho de los funcionarios de carrera a la promoción profesional.  
+- La carrera profesional es el conjunto de oportunidades de ascenso y progreso basado en:
+  - Igualdad
+  - Mérito
+  - Capacidad  
+
+#### Modalidades de carrera profesional:
+- Carrera horizontal:  
+  - Progresión de grado/categoría sin cambiar de puesto.  
+
+- Carrera vertical:  
+  - Ascenso mediante provisión de puestos.  
+
+- Promoción interna vertical:  
+  - Ascenso a un cuerpo o escala superior.  
+
+- Promoción interna horizontal:  
+  - Acceso a cuerpos del mismo subgrupo.  
+
+- Posibilidad de combinar carrera horizontal y vertical si la Administración lo permite.  
+### Art. 17. Carrera horizontal
+- Regulada por las leyes de función pública.  
+- Basada en grados, categorías o escalones con retribución asociada.  
+- Ascensos generalmente consecutivos.  
+- Se valora:
+  - Trayectoria profesional  
+  - Calidad del trabajo  
+  - Conocimientos adquiridos  
+  - Evaluación del desempeño  
+  - Méritos y experiencia  
+### Art. 18. Promoción interna
+- Se realiza mediante procesos selectivos con igualdad, mérito y capacidad.  
+- Requisitos:
+  - Titulación exigida  
+  - Mínimo 2 años de servicio activo  
+  - Superar pruebas selectivas  
+
+- Las leyes de función pública regulan el sistema y los cuerpos a los que se puede acceder.  
+- Fomento de la participación en promoción interna por parte de la Administración.  
+### Art. 19. Personal laboral
+- Derecho a la promoción profesional.  
+- Se regula por:
+  - Estatuto de los Trabajadores  
+  - Convenios colectivos  
+### Art. 20. Evaluación del desempeño
+- Sistema obligatorio de evaluación del rendimiento de los empleados públicos.  
+#### Definición:
+- Medición de conducta profesional, rendimiento y resultados.  
+#### Principios:
+- Transparencia  
+- Objetividad  
+- Imparcialidad  
+- No discriminación  
+#### Efectos:
+- Influye en:
+  - Carrera profesional  
+  - Formación  
+  - Provisión de puestos  
+  - Retribuciones complementarias  
+#### Otros efectos:
+- Puede condicionar la continuidad en el puesto obtenido por concurso.  
+- Debe garantizar audiencia al interesado y resolución motivada.  
+- Requiere sistemas objetivos previamente aprobados para su aplicación.  
+### Jornada de trabajo
 - Puede ser a tiempo completo o parcial.  
-## Teletrabajo
+### Teletrabajo
 - Modalidad de prestación de servicios a distancia.  
 - El contenido competencial del puesto debe ser compatible con su desarrollo fuera de las dependencias de la Administración.  
 - Condiciones:  
