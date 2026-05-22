@@ -132,7 +132,7 @@ No se encontró un alias ampliamente utilizado.
 CVE-2017-14238.
 
 ### Código CWE
-CWE-89 — Improper Neutralization of Special Elements used in an SQL Command (SQL Injection).
+CWE-89 — Neutralización incorrecta de elementos especiales usados en un comando SQL (Inyección SQL)
 
 ### Código CVSS explicado
 **CVSS v3.0:** 9.8 (Crítica)
@@ -152,7 +152,7 @@ Desglose:
 - **A:H (Availability: High):** posibilidad de afectar al servicio o la base de datos.
 
 ### Boletín de seguridad
-No consta inclusión en un boletín de fabricante equivalente a Microsoft Patch Tuesday. La corrección principal se publicó mediante commit en GitHub del proyecto Dolibarr.
+No consta inclusión en un boletín de fabricante equivalente a Microsoft Patch Tuesday. La corrección principal se publicó mediante *commit* en GitHub del proyecto Dolibarr.
 
 ### Hipervínculos
 - NVD: https://nvd.nist.gov/vuln/detail/CVE-2017-14238
