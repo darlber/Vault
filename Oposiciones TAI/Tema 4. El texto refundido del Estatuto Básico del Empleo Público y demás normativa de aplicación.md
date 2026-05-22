@@ -337,16 +337,12 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
 - Posible suspensión cautelar (máx. 6 meses).  
 - Si no hay sanción: restitución de derechos y salarios.
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
-
-## Objeto
+### Objeto
 - Ampliar y reforzar la transparencia de la actividad pública.  
 - Regular y garantizar el derecho de acceso a la información pública.  
-- Establecer las obligaciones de buen gobierno y las consecuencias de su incumplimiento.  
-
-# Título I: Transparencia de la Actividad Pública
-
-## Ámbito subjetivo
-
+- Establecer las obligaciones de buen gobierno y las consecuencias de su incumplimiento. 
+## Título I: Transparencia de la Actividad Pública
+### Ámbito subjetivo
 - Aplicación total:  
   - Administraciones públicas: AGE, administraciones autonómicas, locales, entidades gestoras de la Seguridad Social, mutuas, organismos autónomos, agencias estatales, universidades, y entidades de derecho público.  
   - Organismos constitucionales: Casa de SM el Rey, Congreso, Senado, TC, CGPJ, Banco de España, Consejo de Estado, Defensor del Pueblo, Tribunal de Cuentas, Consejo Económico y Social.  
@@ -357,9 +353,7 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
   - Partidos políticos, sindicatos, organizaciones empresariales y entidades privadas que:  
     - Perciban ayudas públicas superiores a 100.000€.  
     - Perciban ayudas que representen al menos el 40% de sus ingresos anuales, con un mínimo de 5.000€.  
-
-## Publicidad activa
-
+### Publicidad activa
 - Definición: Publicar información antes de ser solicitada, garantizando transparencia.  
 - Obligaciones:  
   - Publicación periódica y actualización de información relevante.  
@@ -383,9 +377,7 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
   - Portal de Transparencia: Facilita el acceso a información pública, incluyendo datos solicitados con frecuencia. Depende del Ministerio de la Presidencia.  
 
 - Principios técnicos ("AIR"): Accesibilidad, Interoperabilidad y Reutilización.  
-
-## Derecho de acceso a la información pública
-
+### Derecho de acceso a la información pública
 - Definición: Derecho de toda persona a acceder a documentos en poder de los sujetos obligados, elaborados o adquiridos en el ejercicio de sus funciones.  
 
 - Límites al acceso:  
@@ -400,14 +392,9 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
   - Datos especialmente protegidos:  
     - Ideología, religión, afiliación sindical: Requieren consentimiento expreso y escrito, salvo datos manifiestamente públicos.  
 
-Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01  
-72  
-
     - Origen racial, salud, vida sexual: Requieren consentimiento expreso, salvo norma con rango de ley.  
     - Acceso parcial: Cuando los límites solo afectan a una parte.  
-
-## Procedimiento de acceso
-
+### Procedimiento de acceso
 - Solicitud:  
   - No requiere motivación.  
   - Contenidos obligatorios: Identidad del solicitante, información requerida, dirección de contacto y modalidad de acceso.  
@@ -427,9 +414,7 @@ Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01
 - Formalización:  
   - Electrónica preferentemente, gratuita.  
   - Si no es posible en el momento, debe formalizarse en 10 días.  
-
-## Régimen de impugnaciones
-
+### Régimen de impugnaciones
 - Recurso ante el Consejo de Transparencia y Buen Gobierno:  
   - Sustituye a los recursos administrativos.  
   - Plazos:  
@@ -439,19 +424,11 @@ Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01
   - Resoluciones: Se comunicarán al Defensor del Pueblo.  
 
 - Recurso contencioso-administrativo: Procede tras agotar la vía administrativa.  
-
-Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01  
-73  
-
-# Título II: Buen Gobierno
-
-## Ámbito subjetivo
-
+## Título II: Buen Gobierno
+### Ámbito subjetivo
 - Se aplica a los miembros del Gobierno, Secretarios de Estado, altos cargos de la AGE, entidades del sector público estatal (de derecho público y privado) y otras entidades análogas en las CCAA o EELL.  
 - Se consideran “Altos Cargos” a aquellos con mayor responsabilidad administrativa o política en estas instituciones.  
-
-## Principios de buen gobierno
-
+### Principios de buen gobierno
 - Principios generales ("DICTES"):  
   - Dedicación al servicio público.  
   - Imparcialidad en la toma de decisiones.  
@@ -466,8 +443,7 @@ Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01
   - Confidencialidad en asuntos sensibles o reservados.  
   - Plena dedicación al cargo y abstención en caso de conflicto de intereses.  
   - Prohibición de aceptar regalos o favores que puedan comprometer la imparcialidad.  
-
-## Infracciones y sanciones en materia de buen gobierno
+### Infracciones y sanciones en materia de buen gobierno
 
 - Infracciones y sanciones en materia de conflicto de intereses: Según normativa de la AGE y propia de cada administración.  
 
@@ -499,9 +475,7 @@ Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01
 
   - Leves:  
     - Incorrección, descuido o negligencia en las funciones.  
-
-## Sanciones aplicables
-
+### Sanciones aplicables
 - Leves:  
   - Amonestación.  
 
@@ -513,9 +487,7 @@ Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01
 - Muy graves:  
   - Destitución del cargo.  
   - Inhabilitación 5-10 años.  
-
-## Procedimiento sancionador
-
+### Procedimiento sancionador
 - Inicio: De oficio o denuncia.  
 
 - Órganos competentes:  
@@ -530,28 +502,19 @@ Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01
   - Muy graves: 5 años.  
   - Graves: 3 años.  
   - Leves: 1 año.  
-
-Salvador Carrión Ponz / A1-06 / Dic2022 / v0.01  
-75  
-
-# Título III: Consejo de Transparencia y Buen Gobierno
-
-## Definición
+## Título III: Consejo de Transparencia y Buen Gobierno
+### Definición
 - Organismo público con personalidad jurídica propia, autonomía e independencia.  
 - Adscrito al Ministerio de Hacienda y Administraciones Públicas.  
-
-## Fines
+### Fines
 - Promover la transparencia.  
 - Velar por la publicidad activa.  
 - Garantizar el derecho de acceso.  
 - Controlar el buen gobierno.  
-
-## Composición
-
-### Presidente
+### Composición
+#### Presidente
 - Mandato: 5 años no renovable.  
 - Nombramiento: Congreso (mayoría absoluta).  
-
 Funciones:  
 - Interpretación de la Ley.  
 - Control de publicidad activa.  
@@ -559,17 +522,32 @@ Funciones:
 - Consultas.  
 - Propuesta de sanciones.  
 - Presupuesto.  
-
-### Comisión de Transparencia y Buen Gobierno
-
+#### Comisión de Transparencia y Buen Gobierno
 - Composición:  
   - Presidente del Consejo.  
   - 1 Diputado y 1 Senador.  
   - Representantes: Tribunal de Cuentas, Defensor del Pueblo, AEPD, Secretaría de Estado, AIReF.  
-
 - Funciones:  
   - Recomendaciones.  
   - Evaluación anual.  
   - Formación.  
   - Directrices.  
   - Coordinación institucional.  
+# Agenda 2030. Objetivos:
+1. Fin de la pobreza  
+2. Hambre cero  
+3. Salud y bienestar  
+4. Educación de calidad  
+5. Igualdad de género  
+6. Agua limpia y saneamiento  
+7. Energía asequible y no contaminante  
+8. Trabajo decente y crecimiento económico  
+9. Industria, innovación e infraestructuras  
+10. Reducción de las desigualdades  
+11. Ciudades y comunidades sostenibles  
+12. Producción y consumo responsables  
+13. Acción por el clima  
+14. Vida submarina  
+15. Vida de ecosistemas terrestres  
+16. Paz, justicia e instituciones sólidas  
+17. Alianzas para lograr los objetivos  
