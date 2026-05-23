@@ -3,8 +3,8 @@
 [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719)
 # RDL 5/2015 - Ley del Estatuto Básico del Empleado Público (TREBEP)
 ## Objeto
-- Establecer las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación.  
-- Determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas (AAPP).  
+- Establecer las ==bases== del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación.  
+- Determinar las ==normas aplicables== al personal laboral al servicio de las Administraciones Públicas (AAPP).  
 ## Fundamentos del Estatuto
 - Servicio a los ciudadanos y a los intereses generales.  
 - Igualdad, mérito y capacidad en el acceso y en la promoción profesional.  
