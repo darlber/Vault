@@ -16,10 +16,10 @@
         "startupType": "short"
       },
       "obsidian-git": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-icon-folder": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-kanban": {
         "startupType": "short"
@@ -34,13 +34,13 @@
         "startupType": "instant"
       },
       "obsidian-style-settings": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "homepage": {
         "startupType": "instant"
       },
       "notebook-navigator": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "obsidian-importer": {
         "startupType": "disabled"

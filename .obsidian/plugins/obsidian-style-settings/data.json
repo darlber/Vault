@@ -11,5 +11,6 @@
   "baseline-style@@accented-interface": true,
   "baseline-style@@density-modifier": 1,
   "baseline-style@@color-scheme-dark": "rose-pine-dark",
-  "baseline-style@@colorful-headings": "colorful-headings-full"
+  "baseline-style@@colorful-headings": "colorful-headings-full",
+  "minimal-style@@base@@light": "#FFFFFF"
 }
