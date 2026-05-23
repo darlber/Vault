@@ -21,7 +21,7 @@
 ## Ámbito de aplicación
 - Incluye:  
   - Personal funcionario y personal laboral de la Administración General del Estado (AGE), Administraciones Públicas de las Comunidades Autónomas (AAPP CCAA), entidades locales, organismos públicos y universidades públicas.  
-  - 
+  
 - Personal docente y personal estatutario de los Servicios de Salud:  
   - Se rigen por legislación específica dictada por el Estado y por las CCAA.  
 
@@ -42,7 +42,6 @@
   - Se rige por la legislación laboral, aplicándose los permisos establecidos por AAPP y TREBEP.  
 ## Personal al servicio de las Administraciones Públicas
 ### Concepto y clases de empleados públicos
-
 - Definición:  
   - Empleados públicos son quienes desempeñan funciones retribuidas en las AAPP al servicio de los intereses generales.  
 
@@ -75,9 +74,8 @@
 - Funciones: Dirección profesional en AAPP.  
 - Sujetos a evaluación de eficacia, eficiencia y resultados.  
 - No son materia de negociación colectiva.  
-
 # Título III: Derechos y deberes. Código de conducta de los empleados públicos
-### Art. 14. Derechos individuales.
+### Art. 14. Derechos individuales
 a) A la inamovilidad en la condición de funcionario de carrera.
 
 b) Al desempeño efectivo de las funciones o tareas propias de su condición profesional y de acuerdo con la progresión alcanzada en su carrera profesional.
@@ -114,7 +112,6 @@ p) A la libre asociación profesional.
 
 q) A los demás derechos reconocidos por el ordenamiento jurídico.
 ### Art. 15. Derechos individuales ejercidos colectivamente
-
 Los empleados públicos tienen los siguientes derechos individuales que se ejercen de forma colectiva:
 
 a) A la libertad sindical.
@@ -127,14 +124,12 @@ d) Al planteamiento de conflictos colectivos de trabajo, de acuerdo con la legis
 
 e) Al de reunión, en los términos establecidos en el artículo 46 de este Estatuto.
 ## Derecho a la carrera profesional y a la promoción interna. Evaluación del desempeño (TREBEP)
-
 ### Art. 16. Carrera profesional
 - Derecho de los funcionarios de carrera a la promoción profesional.  
 - La carrera profesional es el conjunto de oportunidades de ascenso y progreso basado en:
   - Igualdad
   - Mérito
   - Capacidad  
-
 #### Modalidades de carrera profesional:
 - Carrera horizontal:  
   - Progresión de grado/categoría sin cambiar de puesto.  
@@ -311,7 +306,6 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
 - Posible aplicación parcial del régimen del TREBEP si el convenio lo permite  
 # Título VII: Régimen disciplinario
 ### Art. 93. Responsabilidad disciplinaria
-
 - Funcionarios y personal laboral están sujetos a régimen disciplinario.  
 - Quien induce o encubre faltas responde igual si hay daño grave.  
 - El régimen laboral se complementa con la legislación laboral.
@@ -428,7 +422,7 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
     - Origen racial, salud, vida sexual: Requieren consentimiento expreso, salvo norma con rango de ley.  
     - Acceso parcial: Cuando los límites solo afectan a una parte.  
 ### Procedimiento de acceso
-### Art. 17. Solicitud:  
+### Art. 17. Solicitud 
   - No requiere motivación.  
   - Contenidos obligatorios: Identidad del solicitante, información requerida, dirección de contacto y modalidad de acceso.  
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
+                "file": "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación"
+              "title": "Tema 5. Políticas de igualdad y contra la violencia de género"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
+                "file": "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación"
+              "title": "Outline of Tema 5. Políticas de igualdad y contra la violencia de género"
             }
           },
           {
@@ -155,31 +155,17 @@
             }
           },
           {
-            "id": "3ecfc04baedbe704",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "54860b64a846bba8",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,17 +185,18 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
+    "Oposiciones TAI/Índice.md",
+    "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
+    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
+    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
     "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
     "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
     "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
-    "Oposiciones TAI/Índice.md",
     "Fichas de vulnerabilidades.md",
     "README.md",
     "Oposiciones Guitarra/0. Temas Oposiciones.md",
-    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
-    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "Music/Sonatina clásica.md",
     "Music/Reducción Orquestal y Preludios.md",
     "Music/Modos “griegos”.md",
@@ -227,7 +214,6 @@
     "Music/Miscelánea",
     "Music/Tipos de Variaciones.md",
     "Music/Tipos de ritmos.md",
-    "Music/Tipos de impro en guitarra.md",
     "Proyecto/Phases.canvas",
     "Oposiciones TAI",
     "Oposiciones Guitarra/TEMA 29 y 30.pdf",
