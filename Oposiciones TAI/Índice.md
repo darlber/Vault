@@ -12,7 +12,6 @@
 ## Tema 7. La protección de datos personales y su régimen jurídico: principios, derechos y obligaciones. Derechos digitales. 
 ## Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo. La gestión electrónica de los procedimientos administrativos: registros, notificaciones y uso de medios electrónicos. Esquema Nacional de Seguridad y de Interoperabilidad. Normas técnicas de Interoperabilidad. 
 https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12699
-
 ## Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas: sedes electrónicas, canales y puntos de acceso, identificación y autenticación. Infraestructuras y servicios comunes en materia de administración electrónica. 
 
 # II. Tecnología básica 
