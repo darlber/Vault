@@ -1,5 +1,4 @@
 >Políticas de igualdad y contra la violencia de género. Políticas de igualdad de trato y no discriminación de las personas LGTBI. Discapacidad y dependencia: régimen jurídico
-
 # Políticas de igualdad y contra la violencia de género
 ## 1. Marco constitucional
 La Constitución Española reconoce el principio de igualdad y obliga a los poderes públicos a promoverla de forma efectiva.

@@ -1,5 +1,4 @@
 [BOE](https://boe.es/boe/dias/2025/12/22/pdfs/BOE-A-2025-26262.pdf)
-
 # I. Organización del Estado y Administración electrónica 
 
 [Tema 0. Rango de ley y Jerarquía leyes](Tema%200.%20Rango%20de%20ley%20y%20Jerarquía%20leyes.md)
