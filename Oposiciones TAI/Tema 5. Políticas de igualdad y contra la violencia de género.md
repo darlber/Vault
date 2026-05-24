@@ -89,6 +89,7 @@ La ley protege también a menores afectados directa o indirectamente por la viol
 # 4. Organismos relacionados
 ## Delegación del Gobierno contra la Violencia de Género
 Órgano encargado de impulsar políticas públicas en esta materia.
+## El Instituto de las Mujeres
 ## Observatorio Estatal de Violencia sobre la Mujer
 Realiza análisis, estudios y seguimiento de las medidas adoptadas.
 ## Comisión Interministerial de Igualdad
