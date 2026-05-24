@@ -371,3 +371,329 @@ Entidad que emite y gestiona certificados digitales.
 
 ## Idea clave de examen
 El certificado electrónico vincula una identidad con una clave pública y es emitido por una autoridad de certificación bajo el marco del Reglamento eIDAS y la Ley 6/2020.
+
+# 6. DNI electrónico (DNIe)
+
+## Normativa aplicable
+- Real Decreto 1553/2005, por el que se regula la expedición del DNI y sus certificados de firma electrónica  
+https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17647
+- Reglamento (UE) nº 910/2014 (eIDAS)  
+https://eur-lex.europa.eu/eli/reg/2014/910/oj
+
+---
+
+## Concepto
+El DNI electrónico (DNIe) es el documento nacional de identidad que incorpora un chip con capacidades criptográficas que permiten acreditar electrónicamente la identidad del ciudadano y realizar firma electrónica.
+
+---
+
+## Funciones del DNIe
+- Acreditación electrónica de la identidad del ciudadano.
+- Autenticación ante servicios electrónicos.
+- Firma electrónica de documentos.
+- Acceso a servicios de la Administración electrónica.
+
+---
+
+## Certificados del DNIe
+El DNIe incorpora certificados electrónicos asociados al titular:
+
+- Certificado de autenticación.
+- Certificado de firma electrónica.
+- Certificado del componente o chip.
+
+---
+
+## Elementos técnicos
+- Chip criptográfico integrado en el documento.
+- Claves criptográficas:
+  - Clave pública.
+  - Clave privada (almacenada en el chip).
+- Uso de infraestructura de clave pública (PKI).
+
+---
+
+## Características de seguridad
+- Protección mediante PIN.
+- No exportación de la clave privada.
+- Autenticación fuerte del titular.
+- Uso de certificados emitidos por autoridad certificadora oficial.
+
+---
+
+## Uso en la Administración electrónica
+- Identificación en sedes electrónicas.
+- Firma de documentos administrativos.
+- Acceso a trámites online con la Administración General del Estado.
+
+---
+
+## Idea clave de examen
+El DNIe es un documento oficial que integra certificados electrónicos y permite la identificación y firma electrónica del ciudadano con plena validez jurídica en el marco de eIDAS y la normativa española.
+
+# 7. Servicios de confianza
+
+## Regulación principal
+- Reglamento (UE) nº 910/2014 (eIDAS)  
+https://eur-lex.europa.eu/eli/reg/2014/910/oj
+- Ley 6/2020, reguladora de determinados aspectos de los servicios electrónicos de confianza  
+https://www.boe.es/buscar/act.php?id=BOE-A-2020-8515
+
+---
+
+## Concepto
+Los servicios de confianza son servicios electrónicos que permiten crear, verificar y validar firmas electrónicas, sellos electrónicos o certificados relacionados, así como la creación, verificación y validación de sellos de tiempo electrónicos.
+
+---
+
+## Tipos de servicios de confianza
+
+### Firma electrónica
+Servicio que permite firmar electrónicamente documentos con validez jurídica.
+
+### Sello electrónico
+- Asociado a una persona jurídica.
+- Garantiza el origen y la integridad de documentos emitidos por una entidad.
+
+### Sellos de tiempo electrónicos
+- Permiten acreditar que unos datos existían en un momento concreto.
+- Emitidos por un prestador cualificado de servicios de confianza.
+
+### Servicios de entrega electrónica certificada
+- Garantizan la transmisión segura de datos entre partes.
+- Aseguran envío, recepción y contenido del mensaje.
+
+---
+
+## Prestadores de servicios de confianza
+Son entidades que prestan servicios electrónicos de confianza bajo supervisión y regulación del Reglamento eIDAS.
+
+Pueden ser:
+- Cualificados (con mayor nivel de garantías jurídicas).
+- No cualificados.
+
+---
+
+## Funciones generales
+- Garantizar la autenticidad de documentos electrónicos.
+- Asegurar la integridad de la información.
+- Proporcionar no repudio en transacciones electrónicas.
+- Facilitar relaciones electrónicas seguras.
+
+---
+
+## Idea clave de examen
+Los servicios de confianza regulados por eIDAS constituyen el marco jurídico que permite dotar de validez y seguridad jurídica a la firma electrónica, sellos electrónicos y sistemas de certificación en el entorno digital.
+# 8. Infraestructura de Clave Pública (PKI)
+
+## Regulación y estándar
+- Reglamento (UE) nº 910/2014 (eIDAS)  
+https://eur-lex.europa.eu/eli/reg/2014/910/oj
+- Estándar X.509 (UIT-T)
+
+---
+
+## Concepto
+La Infraestructura de Clave Pública (PKI) es el conjunto de componentes, normas y procedimientos que permiten la creación, gestión, distribución, uso, almacenamiento y revocación de certificados digitales y claves criptográficas.
+
+---
+
+## Elementos de la PKI
+
+### Autoridad de Certificación (CA)
+- Emite certificados digitales.
+- Firma los certificados con su clave privada.
+- Garantiza la identidad del titular.
+
+### Autoridad de Registro (RA)
+- Verifica la identidad del solicitante.
+- Actúa como intermediario entre usuario y CA.
+
+### Autoridad de Validación
+- Comprueba el estado de los certificados.
+
+### Repositorios de certificados
+- Almacenan certificados y estados de validez.
+
+---
+
+## Mecanismos de validación
+
+### CRL (Certificate Revocation List)
+- Lista de certificados revocados.
+- Publicada periódicamente.
+
+### OCSP (Online Certificate Status Protocol)
+- Verificación en tiempo real del estado de un certificado.
+
+---
+
+## Funciones de la PKI
+- Autenticación de usuarios.
+- Garantía de integridad de datos.
+- Confidencialidad de comunicaciones.
+- No repudio de transacciones.
+
+---
+
+## Jerarquía de confianza
+- CA raíz (Root CA).
+- CA intermedias.
+- Certificados de usuario final.
+
+---
+
+## Idea clave de examen
+La PKI es la infraestructura que permite la gestión segura de certificados digitales mediante una jerarquía de autoridades de confianza, garantizando autenticidad, integridad y no repudio en las comunicaciones electrónicas.
+
+# 9. Autenticación y control de acceso (nociones básicas)
+
+## Conceptos básicos
+
+### Identificación
+Proceso mediante el cual un usuario se da a conocer en un sistema (ej. usuario, DNI).
+
+### Autenticación
+Proceso de verificación de la identidad del usuario (ej. contraseña, certificado digital).
+
+### Autorización (control de acceso)
+Proceso por el cual se determina qué recursos o acciones puede realizar un usuario autenticado.
+
+---
+
+## Modelo AAA
+
+### Authentication (Autenticación)
+Verificación de la identidad del usuario.
+
+### Authorization (Autorización)
+Determinación de permisos y acceso a recursos.
+
+### Accounting (Auditoría)
+Registro de actividades realizadas por el usuario.
+
+---
+
+## Factores de autenticación
+
+### Algo que se sabe
+- Contraseñas
+- PIN
+
+### Algo que se tiene
+- Tarjetas inteligentes
+- Tokens
+- Certificados digitales
+
+### Algo que se es
+- Biometría (huella, iris, reconocimiento facial)
+
+---
+
+## Tipos de autenticación
+
+### Factor único
+Uso de un solo método de autenticación.
+
+### Doble factor (2FA)
+Combinación de dos factores distintos.
+
+### Multifactor (MFA)
+Uso de tres o más factores de autenticación.
+
+---
+
+## Sistemas de autenticación (visión general)
+
+- Kerberos (autenticación basada en tickets).
+- RADIUS (autenticación centralizada en redes).
+- LDAP (gestión de identidad en directorios).
+- OAuth / OpenID Connect (delegación de autenticación).
+
+---
+
+## Idea clave de examen
+La autenticación es el proceso de verificación de identidad del usuario dentro de un sistema, que junto con la autorización y la auditoría forma el modelo AAA de seguridad.
+
+# 10. Agenda Digital para España
+
+## Concepto
+La Agenda Digital para España es una estrategia de política pública orientada a impulsar la transformación digital del país, el desarrollo de la economía digital y la modernización de los servicios públicos.
+
+---
+
+## Estrategia vigente
+- España Digital 2026
+
+## Enlace oficial
+https://espanadigital.gob.es/
+
+---
+
+## Objetivos principales
+
+### Conectividad digital
+- Impulso de redes de alta capacidad.
+- Extensión de la banda ancha.
+
+### Economía del dato
+- Uso y explotación de datos.
+- Impulso de la inteligencia artificial.
+
+### Digitalización de la Administración Pública
+- Tramitación electrónica completa.
+- Servicios públicos digitales accesibles.
+
+### Competencias digitales
+- Formación en habilidades digitales.
+- Reducción de la brecha digital.
+
+### Ciberseguridad
+- Protección de sistemas y servicios digitales.
+- Refuerzo de infraestructuras críticas.
+
+---
+
+## Relación con identidad y firma electrónica
+- Impulso del uso del DNI electrónico.
+- Fomento de sistemas de identificación digital seguros.
+- Generalización de la firma electrónica en trámites administrativos.
+- Interoperabilidad entre administraciones.
+
+---
+
+## Marco normativo relacionado (contexto)
+- Reglamento (UE) nº 910/2014 (eIDAS)
+- Ley 39/2015 del procedimiento administrativo común
+- Ley 40/2015 del régimen jurídico del sector público
+
+---
+
+## Idea clave de examen
+La Agenda Digital para España es una estrategia estatal que impulsa la transformación digital, incluyendo el uso generalizado de la identidad digital, la firma electrónica y la digitalización de los servicios públicos.
+
+# 11. Diferencia entre identificación, autenticación y firma electrónica
+
+## Identificación
+Proceso por el que un usuario declara su identidad en un sistema.
+
+## Autenticación
+Proceso de verificación de esa identidad.
+
+## Firma electrónica
+Conjunto de datos electrónicos asociados a otros datos electrónicos que sirven como medio de identificación del firmante y garantizan la integridad del documento.
+
+---
+
+# 12. Principios de seguridad en identidad digital
+
+- Confidencialidad: acceso solo a usuarios autorizados.
+- Integridad: los datos no pueden ser alterados sin detección.
+- Autenticación: verificación de identidad.
+- No repudio: imposibilidad de negar una acción realizada.
+
+---
+
+# 13. Idea global del tema
+
+La identidad y firma electrónica en la sociedad de la información se basa en el Reglamento eIDAS y la normativa española, permitiendo la identificación segura de los ciudadanos y la validez jurídica de los documentos electrónicos mediante certificados digitales, PKI y el DNI electrónico.
