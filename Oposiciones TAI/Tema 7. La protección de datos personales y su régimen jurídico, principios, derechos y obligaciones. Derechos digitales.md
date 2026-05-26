@@ -119,14 +119,7 @@
 - Coopera con la AEPD.  
 - Actúa con independencia.  
 - Obligatorio en determinados supuestos.
-## Derechos ARSULIPO
-- ==A==cceso
-- ==R==ectificación
-- ==S==upresión
-- ==L==imitación
-- ==I==mpugnación
-- ==P==ortabilidad
-- ==O==posición
+
 ## RGPD — Principios básicos
 ##### Art. 5 RGPD: Principios
 - ==Licitud, lealtad y transparencia==
