@@ -249,7 +249,7 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
 - Personal eventual de confianza.  
 - Organizaciones internacionales.  
 - Reservistas activados.  
-### Efectos:
+#### Efectos:
 - Cobro del puesto ocupado, no del cuerpo de origen.  
 - Se computa a efectos de carrera, trienios y promoción.  
 - Derecho a reingreso garantizado.  
@@ -471,7 +471,6 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
   - Plena dedicación al cargo y abstención en caso de conflicto de intereses.  
   - Prohibición de aceptar regalos o favores que puedan comprometer la imparcialidad.  
 ### Infracciones y sanciones en materia de buen gobierno
-
 - Infracciones y sanciones en materia de conflicto de intereses: Según normativa de la AGE y propia de cada administración.  
 
 - Infracciones en materia de gestión económico-presupuestaria:  
