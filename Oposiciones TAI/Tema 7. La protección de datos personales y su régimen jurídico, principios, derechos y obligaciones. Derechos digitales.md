@@ -88,6 +88,35 @@
 - Permite trasladar datos a otro responsable.
 ##### Art. 18: Derecho de oposición
 - El interesado puede oponerse al tratamiento.
+## TÍTULO V. Responsable y encargado del tratamiento  
+##### Art. 28: Obligaciones generales  
+- Responsables y encargados deben aplicar:  
+- medidas técnicas,  
+- medidas organizativas.  
+- Deben garantizar y demostrar cumplimiento normativo.  
+##### Art. 29: Corresponsabilidad  
+- Existe cuando varios responsables:  
+- determinan conjuntamente fines y medios del tratamiento.  
+##### Art. 31: Registro de actividades  
+- Debe contener:  
+- finalidades,  
+- categorías de datos,  
+- destinatarios,  
+- transferencias,  
+- medidas de seguridad.  
+##### Art. 32: Bloqueo de datos  
+- Los datos bloqueados:  
+- sólo estarán disponibles para jueces, tribunales y administraciones públicas.  
+- Finalidad:  
+- exigencia de posibles responsabilidades.  
+##### Art. 33: Encargado del tratamiento  
+- Trata datos por cuenta del responsable.  
+- No decide finalidad ni medios.  
+##### Arts. 34-37: Delegado de Protección de Datos  
+- Supervisa cumplimiento normativo.  
+- Coopera con la AEPD.  
+- Actúa con independencia.  
+- Obligatorio en determinados supuestos.
 ## Derechos ARSULIPO
 - ==A==cceso
 - ==R==ectificación
@@ -140,34 +169,62 @@ Funciones:
 - resolución de reclamaciones,
 - emisión de directrices.
 ## Régimen sancionador
-##### Arts. 72-74
-### Infracciones muy graves
-- Prescriben a los ==3 años==.
-### Infracciones graves
-- Prescriben a los ==2 años==.
-### Infracciones leves
-- Prescriben al ==año==.
-## TÍTULO X. Derechos digitales
-##### Art. 80: Neutralidad de Internet
-- Derecho a un Internet neutral.
-##### Art. 81: Acceso universal a Internet
-- Acceso universal, asequible y no discriminatorio.
-##### Art. 82: Seguridad digital
-- Derecho a la seguridad en comunicaciones y servicios digitales.
-##### Art. 87: Intimidad en el ámbito laboral
-- Protección frente al uso de dispositivos digitales en el trabajo.
-##### Art. 88: Desconexión digital
-- Derecho a no atender comunicaciones fuera del horario laboral.
-##### Art. 93: Derecho al olvido en buscadores
-- Posibilidad de eliminar resultados de búsqueda.
-##### Art. 94: Derecho al olvido en redes sociales
-- Supresión de datos en redes y servicios equivalentes.
-##### Art. 95: Portabilidad en redes sociales
-- Traslado de contenidos y datos entre plataformas.
-## Datos clave para test
-- Consentimiento menores España → ==14 años==
-- Notificación brechas seguridad → ==72 horas==
-- Derechos → ==ARSULIPO==
-- Norma europea → ==RGPD 2016/679==
-- Autoridad de control española → ==AEPD==
-- Derecho laboral digital clave → ==desconexión digital==
+##### Art. 70: Sujetos responsables  
+Pueden ser responsables:  
+- responsables del tratamiento,  
+- encargados,  
+- representantes,  
+- entidades de certificación.  
+##### Art. 71: Infracciones  
+- Las infracciones se clasifican en:  
+- muy graves,  
+- graves,  
+- leves.  
+##### Arts. 72-74: Tipos de infracciones  
+
+### Muy graves  
+- Prescriben a los ==3 años==.  
+### Graves  
+- Prescriben a los ==2 años==.  
+### Leves  
+- Prescriben al ==año==.  
+##### Art. 76: Sanciones y medidas correctivas  
+- Multas administrativas.  
+- Apercibimientos.  
+- Medidas correctoras.
+## TÍTULO X. Garantía de los derechos digitales  
+##### Art. 79: Derechos en la era digital  
+- Los derechos y libertades constitucionales se aplican plenamente en Internet.  
+##### Art. 80: Neutralidad de Internet  
+- Derecho a un Internet neutral.  
+##### Art. 81: Acceso universal a Internet  
+- Acceso universal, asequible y no discriminatorio.  
+##### Art. 82: Seguridad digital  
+- Derecho a la seguridad en el entorno digital.  
+##### Art. 83: Educación digital  
+- Derecho a la educación digital y uso seguro de medios digitales.  
+##### Art. 84: Protección de menores en Internet  
+- Padres y tutores deben procurar un uso equilibrado de dispositivos digitales.  
+##### Art. 85: Rectificación en Internet  
+- Derecho a rectificar informaciones inexactas en medios digitales.  
+##### Art. 87: Intimidad y dispositivos digitales  
+- Protección de intimidad en el ámbito laboral.  
+##### Art. 88: Desconexión digital  
+- Derecho a no atender comunicaciones fuera del tiempo de trabajo.  
+##### Art. 89. Videovigilancia laboral  
+- Uso de cámaras respetando:  
+- proporcionalidad,  
+- intimidad,  
+- información previa.  
+##### Art. 90: Geolocalización laboral  
+- Derecho a intimidad frente a sistemas de geolocalización.  
+##### Art. 92: Protección de menores  
+- Protección específica de menores en Internet.  
+##### Art. 93: Derecho al olvido en buscadores  
+- Eliminación de resultados asociados al nombre del interesado.  
+##### Art. 94: Derecho al olvido en redes sociales  
+- Supresión de datos en redes sociales.  
+##### Art. 95: Portabilidad en redes sociales  
+- Traslado de contenidos y datos entre plataformas.  
+##### Art. 96: Testamento digital  
+- Personas vinculadas pueden acceder o gestionar contenidos digitales del fallecido.
