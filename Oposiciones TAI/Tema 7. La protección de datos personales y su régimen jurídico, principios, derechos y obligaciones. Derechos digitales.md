@@ -184,11 +184,11 @@ Pueden ser responsables:
 - graves,  
 - leves.  
 ##### Arts. 72-74: Tipos de infracciones  
-### Muy graves  
+###### Muy graves  
 - Prescriben a los ==3 años==.  
-### Graves  
+###### Graves  
 - Prescriben a los ==2 años==.  
-### Leves  
+###### Leves  
 - Prescriben al ==año==.  
 ##### Art. 76: Sanciones y medidas correctivas  
 - Multas administrativas.  
@@ -209,6 +209,7 @@ Pueden ser responsables:
 - Padres y tutores deben procurar un uso equilibrado de dispositivos digitales.  
 ##### Art. 85: Rectificación en Internet  
 - Derecho a rectificar informaciones inexactas en medios digitales.  
+##### Artículo 86. Derecho a la actualización de informaciones en medios de comunicación digitales
 ##### Art. 87: Intimidad y dispositivos digitales  
 - Protección de intimidad en el ámbito laboral.  
 ##### Art. 88: Desconexión digital  
