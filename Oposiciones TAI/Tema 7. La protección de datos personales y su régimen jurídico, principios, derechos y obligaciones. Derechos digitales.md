@@ -90,6 +90,14 @@
 - Permite trasladar datos a otro responsable.
 ##### Art. 18: Derecho de oposición
 - El interesado puede oponerse al tratamiento.
+>Derechos ARSULIPO
+>- ==A==cceso
+>- ==R==ectificación
+>- ==S==upresión
+>- ==L==imitación
+>- ==I==mpugnación
+>- ==P==ortabilidad
+>- ==O==posición
 ## TÍTULO V. Responsable y encargado del tratamiento  
 ##### Art. 28: Obligaciones generales  
 - Responsables y encargados deben aplicar:  
@@ -176,7 +184,6 @@ Pueden ser responsables:
 - graves,  
 - leves.  
 ##### Arts. 72-74: Tipos de infracciones  
-
 ### Muy graves  
 - Prescriben a los ==3 años==.  
 ### Graves  
