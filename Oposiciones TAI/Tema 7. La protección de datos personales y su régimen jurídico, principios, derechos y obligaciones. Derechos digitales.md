@@ -59,12 +59,14 @@
   - con habilitación legal,
   - bajo control de autoridad pública.
 ## TÍTULO III. Derechos de las personas
+### CAPÍTULO I. Transparencia e información
 ##### Art. 11: Transparencia e información
 - El afectado debe conocer:
   - responsable,
   - finalidad,
   - derechos,
   - destinatarios.
+### CAPÍTULO II. Ejercicio de derechos
 ##### Art. 12: Ejercicio de derechos
 - Derechos gratuitos.
 - Posible mediante representante.
@@ -99,11 +101,11 @@
 - determinan conjuntamente fines y medios del tratamiento.  
 ##### Art. 31: Registro de actividades  
 - Debe contener:  
-- finalidades,  
-- categorías de datos,  
-- destinatarios,  
-- transferencias,  
-- medidas de seguridad.  
+	- finalidades,  
+	- categorías de datos,  
+	- destinatarios,  
+	- transferencias,  
+	- medidas de seguridad.  
 ##### Art. 32: Bloqueo de datos  
 - Los datos bloqueados:  
 - sólo estarán disponibles para jueces, tribunales y administraciones públicas.  
