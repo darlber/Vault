@@ -180,3 +180,10 @@ Un atacante remoto podía manipular la base de datos, acceder a información sen
 + $sql = "SELECT * FROM menu WHERE rowid = ?";
 + $params = array(GETPOST('menuId', 'int'));
 ```
+
+```sql
+Select * from usuarios where usuario ='   taltal' or 1=1 --  ' and password_hash= 'taltaltal';
+```
+
+https://www.db-fiddle.com/
+https://juice-shop.github.io/
