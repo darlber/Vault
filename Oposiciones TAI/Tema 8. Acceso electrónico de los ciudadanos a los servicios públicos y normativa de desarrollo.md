@@ -61,3 +61,39 @@
 - Si no se puede notificar:
   - se publica en BOE o boletines oficiales.
   - surte efectos legales igualmente.
+## TÍTULO V. Revisión de actos en vía administrativa  
+
+##### Art. 28: Documentos aportados por los interesados  
+- No se exige aportar documentos ya en poder de la Administración.  
+- Se promueve la interoperabilidad entre Administraciones.  
+## TÍTULO VI. Principios de la potestad normativa  
+##### Art. 129: Principios de buena regulación  
+- Necesidad, eficacia, proporcionalidad, seguridad jurídica y transparencia.  
+- Evita cargas administrativas innecesarias.  
+## Esquema Nacional de Seguridad (ENS)  
+### Real Decreto 311/2022  
+- Establece principios básicos de seguridad de los sistemas de información.  
+- Objetivos:  
+- confidencialidad, integridad, disponibilidad y trazabilidad.  
+- Exige:  
+- análisis de riesgos.  
+- medidas técnicas, organizativas y físicas.  
+- Aplicable a todas las AAPP y proveedores.  
+## Esquema Nacional de Interoperabilidad (ENI)  
+### Real Decreto 4/2010  
+- Regula la interoperabilidad entre sistemas de las AAPP.  
+- Objetivo:  
+- intercambio y reutilización de información.  
+- Elementos:  
+- documento electrónico.  
+- expediente electrónico.  
+- firma electrónica.  
+- estándares comunes.  
+## Normas Técnicas de Interoperabilidad (NTI)  
+- Desarrollo técnico del ENI.  
+- Definen estándares obligatorios sobre:  
+- digitalización de documentos.  
+- expediente electrónico.  
+- política de firma.  
+- copias auténticas.  
+- interoperabilidad entre registros.
