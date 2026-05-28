@@ -593,4 +593,6 @@
   7. Hoja de ruta para la implementación de medidas de seguridad.
   8. Elaboración del marco normativo e implementación.
   9. Aprobación del sistema de gestión de seguridad.
-	
+![](attachments/img4.jpg)
+![646](attachments/img5.jpg)
+![](attachments/img6.jpg)
