@@ -489,3 +489,108 @@
 - Motivación de la impugnación.
 - Órgano al que se dirige.
 - Si hay varios interesados, se debe dar audiencia para alegaciones (plazo de 10-15 días).
+## Esquema Nacional de Seguridad (ENS)
+### Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad
+
+##### Objeto
+- El objeto de este Real Decreto es regular el Esquema Nacional de Seguridad, el cual establece los principios básicos y requisitos mínimos necesarios para una protección adecuada de la información, a fin de asegurar el acceso, confidencialidad, integridad, trazabilidad, autenticidad, disponibilidad y conservación de los datos, información y servicios.
+
+##### Ámbito de aplicación
+- El ENS aplica a todo el sector público y a las entidades del sector privado cuando presten servicios a las entidades del sector público.
+- Para los sistemas de información clasificada, se podrán adoptar medidas complementarias.
+
+##### Principios básicos
+1. Seguridad como proceso integral: Involucra elementos técnicos, humanos, materiales y organizativos.
+2. Gestión de la seguridad basada en los riesgos: La seguridad debe gestionarse mediante un sistema actualizado que evalúe riesgos.
+3. Prevención, detección, respuesta y conservación: Se requiere un enfoque preventivo y reactivo.
+4. Existencia de líneas de defensa: Deben implementarse medidas organizativas, físicas y lógicas.
+5. Vigilancia continua: Monitoreo constante de la seguridad.
+6. Reevaluación periódica: Revisión y actualización constantes.
+7. Diferenciación de responsabilidades:
+   - Responsable de Información: Determina los requisitos de la información tratada.
+   - Responsable del Servicio: Define los requisitos de los servicios prestados.
+   - Responsable de Seguridad: Establece los requisitos de seguridad de la información y los servicios.
+   - Responsable del Sistema: Implementa y supervisa la seguridad del sistema, pudiendo delegar en administradores u operadores.
+
+##### Requisitos mínimos de la política de seguridad
+- Permiten una protección adecuada de la información y los servicios, incluyendo:
+  - Organización e implantación del proceso de seguridad.
+  - Análisis y gestión de riesgos específicos de cada organización.
+  - Gestión de personal: Formación, información y supervisión.
+  - Profesionalidad: Personal cualificado y dedicado.
+  - Autorización y control de accesos: Control y limitación de accesos.
+  - Protección de instalaciones: Control de acceso y áreas diferenciadas.
+  - Adquisición de productos y servicios de seguridad acorde a la categoría y nivel de seguridad.
+  - Mínimo privilegio y seguridad por defecto.
+  - Integridad y actualización del sistema con autorización formal previa.
+  - Protección de la información almacenada y en tránsito.
+  - Prevención ante interconexiones de redes públicas.
+  - Registro de actividad y detección de código dañino.
+  - Gestión de incidentes de seguridad y continuidad de la actividad.
+  - Mejora continua del proceso de seguridad.
+
+##### Perfiles de cumplimiento específicos
+- El Centro Criptológico Nacional (CCN) valida y publica perfiles de cumplimiento específicos aplicables a entidades o sectores de actividad concretos.
+
+##### Esquemas de acreditación y validación
+- Garantizan que las implementaciones y configuraciones de soluciones de seguridad cumplan con el ENS y las guías de seguridad CCN-STIC.
+
+##### Auditoría de la seguridad
+- Es obligatoria una auditoría ordinaria cada dos años o cuando se realicen modificaciones sustanciales en el sistema.
+- Los niveles de auditoría dependen de la categoría del sistema:
+  - Básica: Autoevaluación y análisis del responsable de seguridad.
+  - Media/Alta: Auditoría completa con informe de cumplimiento.
+
+##### Estado de seguridad de los sistemas
+- El Comité Sectorial de Administración Electrónica debe conocer el estado de la seguridad en los sistemas de información.
+- El CCN facilita la recogida y consolidación de información de seguridad.
+
+##### Centro Criptológico Nacional (CCN)
+- El CCN, a través del CCN-CERT, gestiona la respuesta ante incidentes de seguridad.
+- Sus funciones incluyen:
+  - Respuesta a incidentes, formación, concienciación y sensibilización.
+  - Divulgación de buenas prácticas, guías CCN-STIC y avisos de ciberseguridad.
+  - Validación de perfiles de cumplimiento específicos y esquemas de acreditación.
+
+##### CCN-CERT
+- Es el coordinador estatal de la respuesta técnica ante incidentes de seguridad en el sector público.
+- Actúa en coordinación con INCIBE-CERT para el sector privado, brindando soporte y supervisando la reconexión de sistemas tras incidentes.
+
+##### Normas de conformidad
+- El ENS rige la seguridad en sedes y registros electrónicos, así como el acceso de los ciudadanos a servicios públicos.
+- Cada organismo debe establecer su propio mecanismo de control.
+
+##### Actualización
+- El ENS requiere una actualización constante para adaptarse a los cambios tecnológicos.
+
+##### Plazos de adecuación
+- Las entidades tienen un plazo de 24 meses para adaptarse a los nuevos requisitos del ENS.
+
+##### Categorización de los sistemas de información
+- Los sistemas se clasifican en función del impacto de un incidente en las dimensiones de seguridad (Disponibilidad, Autenticidad, Integridad, Confidencialidad, Trazabilidad) y pueden tener una categoría de seguridad Básica, Media o Alta.
+
+### Anexo I: Categorías de los sistemas
+- Determina la categoría del sistema en función del nivel de seguridad en cada dimensión.
+- Los niveles de seguridad son:
+  - Bajo: Perjuicio limitado.
+  - Medio: Perjuicio grave.
+  - Alto: Perjuicio muy grave.
+
+### Anexo II: Medidas de seguridad
+- Las medidas de seguridad se estructuran en el Marco Organizativo, el Marco Operacional y las Medidas de Protección:
+  - Marco Organizativo: Define normativa, política y procedimientos de seguridad.
+  - Marco Operacional: Protege la operación del sistema, incluye control de acceso, gestión de recursos externos, servicios en nube y continuidad del servicio.
+  - Medidas de Protección: Protección de instalaciones, gestión del personal, seguridad de equipos y comunicaciones, protección de soportes de información y aplicaciones.
+
+##### Proceso de Adecuación al ENS
+- Para la certificación o conformidad con el ENS, se debe elaborar un Plan de Adecuación que incluya:
+  1. Identificación del alcance del sistema.
+  2. Categorización del sistema.
+  3. Declaración de Aplicabilidad.
+  4. Análisis de riesgos.
+  5. Validación de la Declaración de Aplicabilidad definitiva.
+  6. Política de seguridad.
+  7. Hoja de ruta para la implementación de medidas de seguridad.
+  8. Elaboración del marco normativo e implementación.
+  9. Aprobación del sistema de gestión de seguridad.
+	
