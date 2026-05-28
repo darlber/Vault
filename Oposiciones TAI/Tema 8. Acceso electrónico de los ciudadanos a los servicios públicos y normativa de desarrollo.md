@@ -97,3 +97,64 @@
 - política de firma.  
 - copias auténticas.  
 - interoperabilidad entre registros.
+## Ley 40/2015 – Régimen Jurídico del Sector Público
+## TÍTULO PRELIMINAR. Disposiciones generales, principios de actuación y funcionamiento del sector público
+##### Art. 1: Objeto
+- Regula el régimen jurídico del sector público.
+- Establece los principios de organización y funcionamiento de las Administraciones Públicas.
+- Regula las relaciones interadministrativas.
+##### Art. 2: Ámbito de aplicación
+- Se aplica al sector público:
+  - Administración General del Estado.
+  - Administraciones de las Comunidades Autónomas.
+  - Entidades que integran la Administración Local.
+  - Sector público institucional.
+##### Art. 3: Principios generales
+- Servicio efectivo a los ciudadanos.
+- Simplicidad, claridad y proximidad a los ciudadanos.
+- Coordinación, cooperación y eficiencia.
+- Transparencia y responsabilidad.
+- Uso de medios electrónicos en la actuación administrativa.
+##### Art. 4: Principio de cooperación
+- Las Administraciones deben cooperar entre sí.
+- Facilitar la interoperabilidad y el intercambio de información.
+## CAPÍTULO II. Funcionamiento electrónico del sector público
+##### Art. 38: Sede electrónica
+- Punto de acceso electrónico de la Administración.
+- Garantiza:
+  - autenticidad.
+  - integridad.
+  - disponibilidad de la información.
+- Permite relación electrónica con la ciudadanía.
+##### Art. 39: Portal de internet
+- Punto de acceso a información pública y servicios.
+- Puede integrarse con la sede electrónica.
+##### Art. 40: Notificaciones electrónicas
+- Regulación de prácticas electrónicas en el ámbito organizativo.
+- Coordinación con la Ley 39/2015.
+##### Art. 41: Archivo electrónico de documentos
+- Obligación de cada Administración de mantener archivo electrónico.
+- Garantiza conservación, acceso y seguridad de documentos.
+## CAPÍTULO III. Relaciones interadministrativas
+##### Art. 140: Principios de relaciones interadministrativas
+- Lealtad institucional.
+- Cooperación y colaboración.
+- Interoperabilidad de sistemas.
+##### Art. 141: Deber de colaboración
+- Intercambio de información entre Administraciones.
+- Uso de medios electrónicos para la transmisión de datos.
+##### Art. 142: Técnicas de cooperación
+- Conferencias sectoriales.
+- Convenios.
+- Planes y programas conjuntos.
+##### Art. 144: Interoperabilidad
+- Las AAPP deben garantizar la interoperabilidad de sus sistemas.
+- Base del intercambio electrónico de información.
+## Relación con administración electrónica (Tema 8)
+- Soporta el funcionamiento electrónico de las AAPP.
+- Complementa a la Ley 39/2015:
+  - organización interna.
+  - relaciones entre administraciones.
+  - sede electrónica.
+  - archivo electrónico.
+  - interoperabilidad.
