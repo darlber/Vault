@@ -11,8 +11,7 @@
 ## [Tema 7. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales](Tema%207.%20La%20protección%20de%20datos%20personales%20y%20su%20régimen%20jurídico,%20principios,%20derechos%20y%20obligaciones.%20Derechos%20digitales.md)
 ## [Tema 8. Revisar. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo](Tema%208.%20Revisar.%20Acceso%20electrónico%20de%20los%20ciudadanos%20a%20los%20servicios%20públicos%20y%20normativa%20de%20desarrollo.md)
 
-https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12699
-## Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas: sedes electrónicas, canales y puntos de acceso, identificación y autenticación. Infraestructuras y servicios comunes en materia de administración electrónica. 
+## [Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas](Tema%209.%20Instrumentos%20para%20el%20acceso%20electrónico%20a%20las%20Administraciones%20públicas.md)
 
 # II. Tecnología básica 
 ## Informática básica. Representación y comunicación de la información: elementos constitutivos de un sistema de información. Características y funciones. Arquitectura de ordenadores. Componentes internos de los equipos microinformáticos. 
