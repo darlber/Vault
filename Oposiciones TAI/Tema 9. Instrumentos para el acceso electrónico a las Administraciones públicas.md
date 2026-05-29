@@ -46,44 +46,6 @@
 - Esquema Nacional de Interoperabilidad: Establece los criterios para asegurar la compatibilidad entre sistemas.
 - Esquema Nacional de Seguridad: Define las medidas para proteger la información y los servicios electrónicos.
 
-## Decreto 220/2014, de 12 de diciembre, del Consell, por el que se aprueba el Reglamento de Administración Electrónica de la Comunitat Valenciana
-
-##### Objetivos Específicos
-- Implementación de servicios electrónicos: Facilitar el acceso a los servicios públicos mediante medios electrónicos.
-- Participación ciudadana: Fomentar la implicación de los ciudadanos en los asuntos públicos a través de plataformas digitales.
-- Transparencia y buen gobierno: Mejorar la transparencia de la administración y la rendición de cuentas.
-
-##### Ámbito de Aplicación
-- Se aplica a:
-  - Administración de la Generalitat: Incluye todas las consellerías y organismos dependientes.
-  - Sector público instrumental: Empresas, fundaciones y otros entes públicos de la Comunitat Valenciana.
-
-##### Principios Rectores
-- Simplificación administrativa: Reducir trámites y facilitar la gestión electrónica.
-- Accesibilidad universal: Garantizar que todos los ciudadanos puedan acceder a los servicios electrónicos.
-- Calidad en la prestación de servicios: Asegurar la eficacia y eficiencia en la atención al ciudadano.
-
-##### Servicios Electrónicos
-- Sede electrónica: Punto de acceso general a los servicios y trámites electrónicos de la Generalitat.
-- Carpeta ciudadana: Espacio personalizado donde los ciudadanos pueden consultar sus expedientes y comunicaciones.
-- Tablón electrónico: Publicación oficial de actos y comunicaciones de la administración.
-
-##### Identificación y Autenticación
-- Medios admitidos: Certificados electrónicos reconocidos, sistemas de clave concertada y otros medios seguros.
-- Registro de funcionarios habilitados: Permite a funcionarios actuar en representación de ciudadanos que no disponen de medios electrónicos.
-
-##### Gestión Documental y Archivo Electrónico
-- Documento electrónico: Establece los requisitos para la creación y conservación de documentos en formato digital.
-- Archivo electrónico único: Centraliza la gestión documental para garantizar la integridad y disponibilidad a largo plazo.
-
-##### Interoperabilidad
-- Plataformas comunes: Uso de plataformas y servicios compartidos para mejorar la coordinación entre administraciones.
-- Normas técnicas: Adopción de estándares que faciliten la compatibilidad y el intercambio de información.
-
-##### Protección de Datos y Seguridad
-- Confidencialidad: Garantizar la protección de los datos personales tratados por la administración.
-- Seguridad de la información: Implementar medidas técnicas y organizativas para prevenir riesgos.
-
 ## Identificación y firma electrónica. Marco europeo y nacional. Certificados digitales. Claves privadas, públicas y concertadas. Formatos de firma electrónica. Servicios de directorio. Mecanismos de identificación y firma biométricos
 
 ### Servicios de autenticación
