@@ -47,7 +47,7 @@ https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-5032
 - Esquema Nacional de Seguridad: Define las medidas para proteger la información y los servicios electrónicos.
 
 ## Identificación y firma electrónica. Marco europeo y nacional. Certificados digitales. Claves privadas, públicas y concertadas. Formatos de firma electrónica. Servicios de directorio. Mecanismos de identificación y firma biométricos
-
+https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80608 eIDAS
 ### Servicios de autenticación
 - Los servicios de autenticación son fundamentales para garantizar la seguridad en sistemas informáticos y redes. Permiten verificar la identidad de usuarios y controlar el acceso a recursos y datos sensibles.
 - Definiciones (RD 1720/2007):
