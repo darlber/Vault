@@ -1,6 +1,8 @@
 > Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo. La gestión electrónica de los procedimientos administrativos: registros, notificaciones y uso de medios electrónicos. Esquema Nacional de Seguridad y de Interoperabilidad. Normas técnicas de Interoperabilidad. 
 
 ## Ley 39/2015 - Procedimiento Administrativo Común de las Administraciones Públicas
+https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565
+https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
 ## Título Preliminar
 ##### Objeto
 - Regular los requisitos de validez y eficacia de los actos administrativos.
@@ -491,6 +493,7 @@
 - Si hay varios interesados, se debe dar audiencia para alegaciones (plazo de 10-15 días).
 ## Esquema Nacional de Seguridad (ENS)
 ### Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad
+https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191
 
 ##### Objeto
 - El objeto de este Real Decreto es regular el Esquema Nacional de Seguridad, el cual establece los principios básicos y requisitos mínimos necesarios para una protección adecuada de la información, a fin de asegurar el acceso, confidencialidad, integridad, trazabilidad, autenticidad, disponibilidad y conservación de los datos, información y servicios.
@@ -598,7 +601,7 @@
 ![](attachments/img6.jpg)
 ## Esquema Nacional de Interoperabilidad (ENI)
 ### Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica
-
+https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331
 ##### Definición
 - El Real Decreto 4/2010 establece el Esquema Nacional de Interoperabilidad (ENI) en el ámbito de la Administración Electrónica.
 - Su objetivo es comprender y definir el conjunto de criterios y recomendaciones que las Administraciones Públicas deben tener en cuenta para la toma de decisiones tecnológicas que garanticen la interoperabilidad.
