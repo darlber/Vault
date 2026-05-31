@@ -1,5 +1,47 @@
 >Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas: sedes electrónicas, canales y puntos de acceso, identificación y autenticación. Infraestructuras y servicios comunes en materia de administración electrónica
+## Normativa principal  
 
+### Estado  
+  
+- Ley 39/2015.  
+- Ley 40/2015.  
+- Real Decreto 203/2021.  
+  
+### Interoperabilidad  
+  
+- Real Decreto 4/2010 (ENI).  
+- Normas Técnicas de Interoperabilidad.  
+  
+### Identificación y firma  
+  
+- Reglamento (UE) 910/2014 (eIDAS).  
+- Ley 6/2020, reguladora de determinados aspectos de los servicios electrónicos de confianza.  
+  
+## Instrumentos principales  
+  
+- Sede electrónica.  
+- Portal de internet.  
+- Punto de Acceso General Electrónico (PAGe).  
+- Carpeta Ciudadana.  
+- Registro electrónico general.  
+- Registro electrónico de apoderamientos.  
+- Registro de funcionarios habilitados.  
+- Sistemas de identificación electrónica.  
+- Sistemas de firma electrónica.  
+- Red SARA.  
+- Plataformas de intermediación de datos.  
+- Sistema de Interconexión de Registros (SIR).  
+- Directorio Común (DIR3).  
+- Cl@ve.  
+- Certificados electrónicos.  
+- DNI electrónico.  
+  
+## Especial atención a  
+  
+- Relaciones entre ciudadanos y Administraciones.  
+- Interoperabilidad entre organismos.  
+- Intercambio de datos y documentos.  
+- Identificación y autenticación electrónica.
 ## Real Decreto 203/2021, de 30 de marzo, Reglamento de actuación y funcionamiento del sector público por medios electrónicos
 https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-5032
 ##### Objetivo

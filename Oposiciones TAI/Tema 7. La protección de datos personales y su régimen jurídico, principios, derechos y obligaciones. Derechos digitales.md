@@ -1,4 +1,24 @@
-## Ley Orgánica 3/2018 (LOPDGDD) + RGPD
+## Normativa principal  
+  
+### Unión Europea  
+- Reglamento (UE) 2016/679 (RGPD).  
+  
+### Estado  
+- Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD).  
+  
+### Organismos  
+- Agencia Española de Protección de Datos (AEPD).  
+  
+## Especial atención a  
+  
+- Principios del tratamiento.  
+- Bases jurídicas del tratamiento.  
+- Derechos de los interesados.  
+- Delegado de Protección de Datos (DPD).  
+- Responsabilidad proactiva.  
+- Medidas de seguridad.  
+- Régimen sancionador.  
+- Derechos digitales (Título X LOPDGDD).
 ## TÍTULO I. Disposiciones generales
 ##### Art. 1: Objeto de la ley
 - Garantiza el derecho fundamental a la protección de datos personales.

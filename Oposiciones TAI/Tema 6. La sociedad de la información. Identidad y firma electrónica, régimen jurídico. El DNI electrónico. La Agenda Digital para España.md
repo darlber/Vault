@@ -1,3 +1,24 @@
+## Normativa principal
+
+### Unión Europea
+- Reglamento (UE) 910/2014 (eIDAS)
+  - Identificación electrónica.
+  - Servicios de confianza.
+  - Firma electrónica.
+  - Sello electrónico.
+  - Sellado de tiempo.
+
+### Estado
+- Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+- Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+- Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+- Real Decreto 1553/2005, de 23 de diciembre, por el que se regula la expedición del DNI y sus certificados de firma electrónica.
+- Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza.
+
+### Estrategias y planes
+- España Digital 2026.
+- Agenda España Digital.
+
 ## Tecnología y desarrollo en la Sociedad Digital
 
 ##### Sociedad Digital

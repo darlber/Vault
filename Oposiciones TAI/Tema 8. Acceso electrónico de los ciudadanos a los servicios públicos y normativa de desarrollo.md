@@ -1,8 +1,43 @@
 > Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo. La gestión electrónica de los procedimientos administrativos: registros, notificaciones y uso de medios electrónicos. Esquema Nacional de Seguridad y de Interoperabilidad. Normas técnicas de Interoperabilidad. 
-
-## Ley 39/2015 - Procedimiento Administrativo Común de las Administraciones Públicas
-https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565
-https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
+## Normativa principal  
+  
+### Estado  
+  
+- Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.  
+- Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.  
+- Real Decreto 203/2021, de 30 de marzo, Reglamento de actuación y funcionamiento del sector público por medios electrónicos.  
+  
+### Seguridad  
+  
+- Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad (ENS).  
+  
+### Interoperabilidad  
+  
+- Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad (ENI).  
+  
+### Normas Técnicas de Interoperabilidad (NTI)  
+  
+- Documento electrónico.  
+- Expediente electrónico.  
+- Política de firma y sello electrónico.  
+- Procedimientos de copiado auténtico.  
+- Digitalización de documentos.  
+- Política de gestión documental.  
+- Reutilización de recursos de información.  
+- Protocolos de intermediación de datos.  
+- Catálogo de estándares.  
+- Requisitos de conexión a la Red SARA.  
+  
+## Especial atención a  
+  
+- Registro electrónico.  
+- Archivo electrónico.  
+- Expediente electrónico.  
+- Documento electrónico.  
+- Notificaciones electrónicas.  
+- Comparecencia electrónica.  
+- Actuación administrativa automatizada.  
+- Identificación y firma.
 ## Título Preliminar
 ##### Objeto
 - Regular los requisitos de validez y eficacia de los actos administrativos.
