@@ -36,6 +36,7 @@ Incluida en los boletines de seguridad de Microsoft de septiembre de 2017 y en M
 - Microsoft MSRC: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8750
 - CVE Details: https://www.cvedetails.com/cve/CVE-2017-8750/
 
+
 ### Software afectado y versiones
 - Microsoft Internet Explorer 11.
 - Microsoft Edge.
@@ -52,10 +53,10 @@ Se trata de una vulnerabilidad de corrupción de memoria en Internet Explorer y 
 
 Un atacante podía crear una página web maliciosa y, si el usuario la visitaba, ejecutar código con los privilegios de la víctima.
 ### Repercusiones mundiales y curiosidades
-- Fue corregida durante el Patch Tuesday de septiembre de 2017.
-- Afectó a múltiples generaciones de Windows simultáneamente.
 - Este tipo de vulnerabilidades en navegadores era especialmente relevante porque permitía comprometer equipos únicamente mediante navegación web.
 - Microsoft recomendó aplicar inmediatamente las actualizaciones acumulativas mensuales.
+- [Adobe, Microsoft Exchange, y otros despliegan un parche urgente por UAF. Abril, 2026](https://securityaffairs.com/190775/security/u-s-cisa-adds-adobe-fortinet-microsoft-windows-microsoft-exchange-server-and-microsoft-windows-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+- [Curl. Abril, 2026](https://acumencyber.com/cyber-threat-intelligence-digest-april-2026-week-16)
 ### Ejemplo
 ```js
 // ==============================
