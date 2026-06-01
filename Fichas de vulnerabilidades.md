@@ -164,7 +164,7 @@ Un atacante remoto podía manipular la base de datos, acceder a información sen
 - Afectó a instalaciones de Dolibarr ERP/CRM, software muy utilizado por pequeñas y medianas empresas.
 - Recibió una puntuación CVSS crítica de 9.8 debido a que podía explotarse remotamente y sin autenticación.
 - Es un ejemplo clásico de SQL Injection derivada de validación insuficiente de parámetros.
-- La corrección pública quedó registrada directamente en GitHub, algo habitual en proyectos *open source.*
+
 ### Ejemplo
 ```diff
 - $result=$menu->fetch($_POST['menuId']);
