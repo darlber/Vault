@@ -1,22 +1,16 @@
 ## CVE-2017-8750
-
 ### Alias
 Microsoft Browser Memory Corruption Vulnerability.
-
 ### Fecha de publicación
 13 de septiembre de 2017.
-
 ### Código CVE
 CVE-2017-8750.
-
 ### Código CWE
 CWE-119 — Restricción de operaciones inapropiada dentro de los límites del búfer de la memoria
 ### Código CVSS explicado
 **CVSS v3.0:** 7.5 (Alta)
-
 Vector:
 `CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H`
-
 Desglose:
 
 - **AV:N (Attack Vector: Network):** el ataque puede lanzarse remotamente a través de red.
@@ -27,16 +21,12 @@ Desglose:
 - **C:H (Confidentiality: High):** puede comprometer información sensible.
 - **I:H (Integrity: High):** permite modificar datos o ejecutar código.
 - **A:H (Availability: High):** puede afectar seriamente a la disponibilidad del sistema.
-
 ### Boletín de seguridad
 Incluida en los boletines de seguridad de Microsoft de septiembre de 2017 y en MSRC (Microsoft Security Response Center).
-
 ### Hipervínculos
 - NVD: https://nvd.nist.gov/vuln/detail/CVE-2017-8750
 - Microsoft MSRC: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8750
 - CVE Details: https://www.cvedetails.com/cve/CVE-2017-8750/
-
-
 ### Software afectado y versiones
 - Microsoft Internet Explorer 11.
 - Microsoft Edge.
@@ -47,7 +37,6 @@ Incluida en los boletines de seguridad de Microsoft de septiembre de 2017 y en M
 - Windows Server 2012 R2.
 - Windows 10 versiones 1507, 1511, 1607 y 1703.
 - Windows Server 2016.
-
 ### Descripción de la vulnerabilidad
 Se trata de una vulnerabilidad de corrupción de memoria en Internet Explorer y Microsoft Edge. El fallo permitía ejecutar código arbitrario aprovechando cómo los navegadores accedían a determinados objetos en memoria.
 
@@ -59,14 +48,16 @@ Un atacante podía crear una página web maliciosa y, si el usuario la visitaba,
 - [Curl. Abril, 2026](https://acumencyber.com/cyber-threat-intelligence-digest-april-2026-week-16)
 ### Ejemplo
 ```python
+import os
 class AccionLegitima:
     def ejecutar(self):
         print("Mostrando perfil de usuario")
 
-
+# Muestra los archivos del directorio
 class AccionControlada:
     def ejecutar(self):
-        print("Mostrando contenido controlado")
+        for nombre in os.listdir("."):
+            print(nombre)
 
 
 # El programa espera usar este objeto
@@ -91,25 +82,18 @@ referencia_antigua.ejecutar()
 ```
 [Ejemplo](https://learn.snyk.io/lesson/use-after-free/?ecosystem=cpp)
 ## CVE-2017-14238
-
 ### Alias
 No se encontró un alias ampliamente utilizado.
-
 ### Fecha de publicación
 11 de septiembre de 2017.
-
 ### Código CVE
 CVE-2017-14238.
-
 ### Código CWE
 CWE-89 — Neutralización incorrecta de elementos especiales usados en un comando SQL (Inyección SQL)
-
 ### Código CVSS explicado
 **CVSS v3.0:** 9.8 (Crítica)
-
 Vector:
 `CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H`
-
 Desglose:
 
 - **AV:N (Attack Vector: Network):** explotable remotamente.
@@ -120,28 +104,22 @@ Desglose:
 - **C:H (Confidentiality: High):** exposición completa de datos.
 - **I:H (Integrity: High):** modificación de información y consultas.
 - **A:H (Availability: High):** posibilidad de afectar al servicio o la base de datos.
-
 ### Boletín de seguridad
 No consta inclusión en un boletín de fabricante equivalente a Microsoft Patch Tuesday. La corrección principal se publicó mediante *commit* en GitHub del proyecto Dolibarr.
-
 ### Hipervínculos
 - NVD: https://nvd.nist.gov/vuln/detail/CVE-2017-14238
 - Ubuntu Security: https://ubuntu.com/security/CVE-2017-14238
 - Commit de corrección: https://github.com/Dolibarr/dolibarr/commit/d26b2a694de30f95e46ea54ea72cc54f0d38e548
-
 ### Software afectado y versiones
 - Dolibarr ERP/CRM 6.0.0.
-
 ### Descripción de la vulnerabilidad
 Vulnerabilidad de inyección SQL en `admin/menus/edit.php` de Dolibarr ERP/CRM. El parámetro `menuId` no validaba correctamente la entrada del usuario, permitiendo ejecutar consultas SQL arbitrarias.
 
 Un atacante remoto podía manipular la base de datos, acceder a información sensible o alterar registros del sistema.
-
 ### Repercusiones mundiales y curiosidades
 - Afectó a instalaciones de Dolibarr ERP/CRM, software muy utilizado por pequeñas y medianas empresas.
 - Recibió una puntuación CVSS crítica de 9.8 debido a que podía explotarse remotamente y sin autenticación.
 - Es un ejemplo clásico de SQL Injection derivada de validación insuficiente de parámetros.
-
 ### Ejemplo
 ```diff
 - $result=$menu->fetch($_POST['menuId']);
@@ -155,6 +133,5 @@ Un atacante remoto podía manipular la base de datos, acceder a información sen
 ```sql
 Select * from usuarios where usuario ='   taltal' or 1=1 --  ' and password_hash= 'taltaltal';
 ```
-
 https://www.db-fiddle.com/
 [https://juice-shop.github.io/](https://preview.owasp-juice.shop/#/search)
