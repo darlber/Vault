@@ -59,7 +59,6 @@ class AccionControlada:
         for nombre in os.listdir("."):
             print(nombre)
 
-
 # El programa espera usar este objeto
 objeto = AccionLegitima()
 
@@ -72,7 +71,6 @@ objeto = None
 # Otro objeto ocupa su lugar (simulación)
 objeto_nuevo = AccionControlada()
 
-# Simulación del fallo:
 # la referencia antigua acaba usando
 # el objeto nuevo por error
 referencia_antigua = objeto_nuevo
