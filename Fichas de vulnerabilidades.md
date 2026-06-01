@@ -58,59 +58,36 @@ Un atacante podía crear una página web maliciosa y, si el usuario la visitaba,
 - [Adobe, Microsoft Exchange, y otros despliegan un parche urgente por UAF. Abril, 2026](https://securityaffairs.com/190775/security/u-s-cisa-adds-adobe-fortinet-microsoft-windows-microsoft-exchange-server-and-microsoft-windows-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
 - [Curl. Abril, 2026](https://acumencyber.com/cyber-threat-intelligence-digest-april-2026-week-16)
 ### Ejemplo
-```js
-// ==============================
-// 1. “Objeto víctima”
-// ==============================
+```python
+class AccionLegitima:
+    def ejecutar(self):
+        print("Mostrando perfil de usuario")
 
-let victim = {
-    tag: "VICTIMA",
-    secret: "original"
-};
 
-console.log("Antes:", victim);
+class AccionControlada:
+    def ejecutar(self):
+        print("Mostrando contenido controlado")
 
-// ==============================
-// 2. “Liberación” conceptual
-// ==============================
-// En JS real NO controlas memoria así,
-// pero simulamos que el objeto deja de usarse.
 
-victim = null;
+# El programa espera usar este objeto
+objeto = AccionLegitima()
 
-// ==============================
-// 3. “Heap spray” (relleno del motor)
-// ==============================
-// Idea: crear muchos objetos similares para
-// influir en cómo el motor reutiliza memoria.
+# Referencia que el programa conserva
+referencia_antigua = objeto
 
-let spray = [];
+# Conceptualmente el objeto desaparece
+objeto = None
 
-for (let i = 0; i < 10000; i++) {
-    spray.push({
-        tag: "CONTROLADO",
-        id: i,
-        secret: "ATTACKER_DATA_" + i
-    });
-}
+# Otro objeto ocupa su lugar (simulación)
+objeto_nuevo = AccionControlada()
 
-// ==============================
-// 4. “Nuevo objeto que ocupa espacio similar”
-// ==============================
-// Simula lo que en exploits sería reutilización
-// del mismo bloque de memoria.
+# Simulación del fallo:
+# la referencia antigua acaba usando
+# el objeto nuevo por error
+referencia_antigua = objeto_nuevo
 
-let fakeVictim = spray[5000];
-
-// ==============================
-// 5. “Confusión conceptual”
-// ==============================
-// En un bug real, el motor podría tratar
-// un objeto como si fuera otro tipo.
-
-console.log("Acceso simulado:");
-console.log(fakeVictim.tag);     // CONTROLADO
-console.log(fakeVictim.secret);  // ATTACKER_DATA_5000
+# El programa cree que llama a la acción legítima
+referencia_antigua.ejecutar()
 ```
 [Ejemplo](https://learn.snyk.io/lesson/use-after-free/?ecosystem=cpp)
 ## CVE-2017-14238
