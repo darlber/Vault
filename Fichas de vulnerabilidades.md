@@ -78,6 +78,29 @@ referencia_antigua = objeto_nuevo
 # El programa cree que llama a la acción legítima
 referencia_antigua.ejecutar()
 ```
+
+```c
+typedef struct {
+    int valor;
+} Objeto;
+
+int main() {
+    // 1. Reservamos memoria (heap / memoria dinámica)
+    Objeto* p = (Objeto*)malloc(sizeof(Objeto));
+
+    p->valor = 42;
+    printf("Antes: %d\n", p->valor);
+
+    // 2. Liberamos memoria
+    free(p);
+    // invalidar puntero
+	p = NULL;
+    // 3. UAF: seguimos usando el puntero
+    printf("Después: %d\n", p->valor);
+
+    return 0;
+}
+```
 [Ejemplo](https://learn.snyk.io/lesson/use-after-free/?ecosystem=cpp)
 ## CVE-2017-14238
 ### Alias
@@ -118,6 +141,7 @@ Un atacante remoto podía manipular la base de datos, acceder a información sen
 - Afectó a instalaciones de Dolibarr ERP/CRM, software muy utilizado por pequeñas y medianas empresas.
 - Recibió una puntuación CVSS crítica de 9.8 debido a que podía explotarse remotamente y sin autenticación.
 - Es un ejemplo clásico de SQL Injection derivada de validación insuficiente de parámetros.
+
 ### Ejemplo
 ```diff
 - $result=$menu->fetch($_POST['menuId']);
