@@ -175,8 +175,7 @@ Un atacante remoto podía manipular la base de datos, acceder a información sen
 ```diff
 - $result=$menu->fetch($_POST['menuId']);
 + $result=$menu->fetch(GETPOST('menuId', 'int'));
-```
-```diff
+
 - $sql = "SELECT * FROM menu WHERE rowid = ".$_POST['menuId'];
 + $sql = "SELECT * FROM menu WHERE rowid = ?";
 + $params = array(GETPOST('menuId', 'int'));
@@ -187,4 +186,4 @@ Select * from usuarios where usuario ='   taltal' or 1=1 --  ' and password_hash
 ```
 
 https://www.db-fiddle.com/
-https://juice-shop.github.io/
+[https://juice-shop.github.io/](https://preview.owasp-juice.shop/#/search)
