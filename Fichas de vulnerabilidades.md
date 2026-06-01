@@ -111,14 +111,8 @@ let fakeVictim = spray[5000];
 console.log("Acceso simulado:");
 console.log(fakeVictim.tag);     // CONTROLADO
 console.log(fakeVictim.secret);  // ATTACKER_DATA_5000
-
-// ==============================
-// 6. Explicación clave
-// ==============================
-// En un exploit real el problema NO es esto,
-// sino que el motor cree que sigue existiendo
-// "victim" cuando en realidad hay otro objeto.
 ```
+[Ejemplo](https://learn.snyk.io/lesson/use-after-free/?ecosystem=cpp)
 ## CVE-2017-14238
 
 ### Alias
