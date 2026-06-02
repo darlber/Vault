@@ -470,3 +470,23 @@ Sucesor de la BIOS. Escrito en C y con arquitectura moderna. Mejora el arranque,
 - Arquitectura: BIOS funciona en 16 bits; UEFI en 32/64 bits.
 - Conectividad: UEFI puede actualizarse vía red.
 - Compatibilidad: UEFI permite extensiones y mayor flexibilidad.
+- UEFI permite esquemas de particionado GPT, lo que habilita hasta 128 particiones por disco y capacidades teóricas muy altas (del orden de ZB). BIOS usa MBR, con un máximo de 4 particiones primarias por disco y un límite de 2,2 TB.
+## 6. MEDIDAS DE CAPACIDAD DE MEMORIA
+
+| Unidad | Descripción |
+|--------|-------------|
+| Bit | Dígito binario (0 o 1) que representa un estado lógico en un circuito. |
+| Nibble | Grupo de 4 bits. |
+| Byte | Grupo de 8 bits. Unidad mínima de almacenamiento de datos. |
+| Palabra | Conjunto de bits procesados como unidad. Su tamaño depende de la arquitectura (8, 16, 32, 64 bits o más). |
+
+| Unidad | Equivalencia |
+|--------|--------------|
+| Kilobyte (KB) | 1 KB = 1024 Bytes |
+| Megabyte (MB) | 1 MB = 1024 KB |
+| Gigabyte (GB) | 1 GB = 1024 MB |
+| Terabyte (TB) | 1 TB = 1024 GB |
+| Petabyte (PB) | 1 PB = 1024 TB |
+| Exabyte (EB) | 1 EB = 1024 PB |
+| Zettabyte (ZB) | 1 ZB = 1024 EB |
+| Yottabyte (YB) | 1 YB = 1024 ZB |
