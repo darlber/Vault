@@ -14,7 +14,7 @@
 ## [Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas](Tema%209.%20Instrumentos%20para%20el%20acceso%20electrónico%20a%20las%20Administraciones%20públicas.md)
 
 # II. Tecnología básica 
-## Informática básica. Representación y comunicación de la información: elementos constitutivos de un sistema de información. Características y funciones. Arquitectura de ordenadores. Componentes internos de los equipos microinformáticos. 
+## [Tema 10. Informática básica](Tema%2010.%20Informática%20básica.md)
 ## Periféricos: conectividad y administración. Elementos de impresión. Elementos de almacenamiento. Elementos de visualización y digitalización. 
 ## Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros. 
 ## Sistemas operativos. Características y elementos constitutivos. Sistemas Windows. Sistemas Unix y Linux. Sistemas operativos para dispositivos móviles. 
