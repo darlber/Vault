@@ -490,3 +490,87 @@ Sucesor de la BIOS. Escrito en C y con arquitectura moderna. Mejora el arranque,
 | Exabyte (EB) | 1 EB = 1024 PB |
 | Zettabyte (ZB) | 1 ZB = 1024 EB |
 | Yottabyte (YB) | 1 YB = 1024 ZB |
+## 7. SISTEMAS DE NUMERACIÓN
+
+Un sistema de numeración es un conjunto de símbolos y reglas que permiten representar números. En informática se usan principalmente: decimal, binario, octal y hexadecimal.
+
+### Sistemas de numeración
+
+| Sistema | Descripción |
+|---------|-------------|
+| Decimal | Base 10. Usa los dígitos 0-9. Es el sistema habitual en matemáticas y vida cotidiana. |
+| Binario | Base 2. Usa 0 y 1. Es el sistema interno de los ordenadores. |
+| Octal | Base 8. Usa los dígitos 0-7. |
+| Hexadecimal | Base 16. Usa 0-9 y A-F. Muy usado en informática para representar binario de forma compacta. |
+
+## 8. JUEGOS DE CARACTERES ASCII
+
+El código ASCII (American Standard Code for Information Interchange) es un estándar de codificación de caracteres basado en el alfabeto latino. Se creó en 1963 y se amplió en versiones posteriores.
+
+ASCII usa 7 bits para representar caracteres (128 combinaciones). Incluye caracteres de control y caracteres imprimibles.
+
+### Características de ASCII
+- 7 bits de representación
+- 33 caracteres de control
+- 95 caracteres imprimibles
+- Base de muchos sistemas de codificación actuales
+
+### ASCII extendido
+
+| Codificación | Descripción |
+|--------------|-------------|
+| CP437 | Usado en IBM PC y MS-DOS en inglés |
+| CP850 | Usado en MS-DOS para Europa occidental |
+| ISO-8859-1 (Latin-1) | Usado en Unix y base de Windows |
+| Windows-1252 | Extensión de Latin-1 en Windows |
+
+## UNICODE
+
+Unicode es un estándar universal de codificación de caracteres que permite representar textos de múltiples idiomas y símbolos técnicos.
+
+### Características de Unicode
+- Asigna un código único a cada carácter (code point)
+- Permite mezclar idiomas en un mismo texto
+- Incluye alfabetos, ideogramas y símbolos
+
+### UTF-8
+UTF-8 es una codificación de Unicode de longitud variable (8 bits o más). Es el formato más usado en web y sistemas modernos.
+
+## 8. JUEGOS DE CARACTERES ASCII
+
+### UTF-8 (características principales)
+- Es capaz de representar cualquier carácter Unicode.
+- Usa símbolos de longitud variable (de 1 a 4 bytes por carácter).
+- Es compatible con ASCII (7 bits), sin modificaciones.
+- Permite sincronización: se puede detectar el inicio de cada carácter sin leer desde el inicio.
+- No hay solapamiento entre secuencias de bytes, evitando ambigüedad en la decodificación.
+
+### Distribución de UTF-8
+
+| Nº de bytes | Caracteres representados |
+|-------------|--------------------------|
+| 1 byte | ASCII (128 caracteres) |
+| 2 bytes | 1920 caracteres (alfabetos latinos extendidos, griego, cirílico, árabe, etc.) |
+| 3 bytes | Plano multilingüe básico (incluye CJK: chino, japonés y coreano) |
+| 4 bytes | Planos suplementarios (símbolos matemáticos, alfabetos antiguos, ideogramas raros) |
+
+### UTF-8 (ventajas)
+- Compatible con Unicode completo.
+- Compatible con ASCII.
+- Identificación sencilla del formato UTF-8.
+- Ahorro de espacio en textos latinos frente a UTF-16.
+- Buena sincronización de caracteres.
+
+### UTF-8 (desventajas)
+- Longitud variable: acceso aleatorio a caracteres es más lento.
+- Textos CJK ocupan más espacio que en UTF-16.
+- Menor rendimiento en ciertas operaciones (ordenación, procesamiento masivo).
+
+## EBCDIC
+
+EBCDIC (Extended Binary Coded Decimal Interchange Code) es un código de 8 bits usado principalmente en mainframes de IBM.
+
+### Características de EBCDIC
+- 8 bits por carácter (256 combinaciones posibles).
+- Incluye caracteres alfanuméricos, de control y signos de puntuación.
+- Existen múltiples versiones (code pages) incompatibles entre sí.
