@@ -1,5 +1,5 @@
-# Informática básica. Representación y comunicación de la información: elementos constitutivos de un sistema de información. Características y funciones. Arquitectura de ordenadores. Componentes internos de los equipos microinformáticos.
-## 1. Concepto de dato e información
+>Informática básica. Representación y comunicación de la información: elementos constitutivos de un sistema de información. Características y funciones. Arquitectura de ordenadores. Componentes internos de los equipos microinformáticos.
+# 1. Concepto de dato e información
 ### Dato
 Representación simbólica (numérica, alfabética, etc.) de un atributo o variable cuantitativa o cualitativa. Describe hechos empíricos, sucesos y entidades.
 Los datos son la mínima unidad semántica y se corresponden con elementos primarios de información que, por sí solos, son irrelevantes (pueden no contener información relevante).
@@ -31,7 +31,7 @@ Desglosado de otra forma, el conjunto de características que debe cumplir la in
 - Completa.
 - Adecuada.
 **Información = Datos + Contexto (añadir valor) + Utilidad (disminuir la incertidumbre)**
-## 2. Sistema de información
+# 2. Sistema de información
 Un sistema de información es un conjunto de elementos (aplicaciones, maquinaria, usuarios, procedimientos, etc.) diseñado para el tratamiento de información, de manera que esta quede disponible de forma eficiente para su uso posterior.
 
 En informática, los sistemas de información ayudan a administrar, recolectar, recuperar, procesar, almacenar y distribuir información relevante para los procesos fundamentales y las particularidades de cada organización.
@@ -120,7 +120,7 @@ Desde el punto de vista de la función que realizan, pueden clasificarse de la s
 ## 2.6 Otras herramientas usadas en sistemas de información
 - **Cuadro de Mando Integral**: el Cuadro de Mando Integral (CMI), también conocido como Balanced Scorecard (BSC) o dashboard, es una herramienta de control empresarial que permite establecer y monitorizar los objetivos de una empresa y de sus diferentes áreas o unidades. También se puede considerar como una aplicación que ayuda a una compañía a expresar los objetivos e iniciativas necesarias para cumplir con su estrategia, mostrando de forma continuada cuándo la empresa y los empleados alcanzan los resultados definidos en su plan estratégico.
 - **Datawarehouse**: un Datawarehouse es una base de datos corporativa que se caracteriza por integrar y depurar información de una o más fuentes distintas, para luego procesarla permitiendo su análisis desde múltiples perspectivas y con grandes velocidades de respuesta.
-## 3. Arquitectura de ordenadores
+# 3. Arquitectura de ordenadores
 La arquitectura de ordenadores se define como el conjunto de reglas, normas y procedimientos que especifican las interrelaciones entre los componentes lógicos y físicos que forman parte de un sistema informático, así como las características que deben cumplir cada uno de estos componentes.
 A día de hoy se distinguen dos tipos de arquitecturas de ordenador:
 - Arquitectura VON-NEUMANN
@@ -162,7 +162,7 @@ Variación de la arquitectura Harvard que permite que los contenidos de la memor
 - La memoria de instrucciones y datos ocupan diferentes espacios de direcciones.
 - La memoria de instrucciones y datos accede a la CPU por buses distintos.
 - La memoria de instrucciones y datos pueden ser accedidas de diferente manera.
-## 4. Generaciones de ordenadores
+# 4. Generaciones de ordenadores
 Desde mediados del siglo XX hasta finales de la década de los ochenta, los avances tecnológicos se suceden sin cesar.
 A lo largo de este periodo se diferencian ciertas etapas denominadas generaciones de ordenadores, definidas principalmente por:
 - La tecnología vigente en un momento dado.
@@ -342,14 +342,14 @@ La dirección efectiva coincide con la dirección indicada en la instrucción.
 Si hace referencia a un registro de la máquina, el dato estará almacenado en este registro y se habla de direccionamiento directo a registro. Si hace referencia a una posición de memoria, el dato estará almacenado en esa dirección de memoria (dirección efectiva) y se habla de direccionamiento directo a memoria.
 Estos modos son simples y no requieren cálculos para obtener la dirección efectiva.
 El tamaño del operando en direccionamiento directo a registro depende del número de registros de la máquina; en direccionamiento directo a memoria depende del tamaño de la memoria.
-### Direccionamiento indirecto
+#### Direccionamiento indirecto
 El campo de operando contiene una dirección de memoria en la que se encuentra la dirección efectiva del operando.
 Si hace referencia a un registro, la dirección efectiva estará en ese registro (indirecto a registro).
 Si hace referencia a memoria, la dirección efectiva estará almacenada en una posición de memoria (indirecto a memoria).
 La principal desventaja es que requiere más accesos a memoria:
 - Indirecto a registro: un acceso adicional a memoria.
 - Indirecto a memoria: dos accesos a memoria, por lo que rara vez se implementa.
-### Direccionamiento relativo
+#### Direccionamiento relativo
 - Relativo a registro base: la dirección efectiva (EA) se calcula como la suma del registro base más un desplazamiento (offset). Permite acceso a posiciones cercanas de memoria y código reentrante. Usado en llamadas a funciones y pila.
 - Relativo a registro índice: similar al anterior, pero el desplazamiento lo aporta el registro índice. La EA es la suma del registro índice y una dirección de memoria.
 ## 5.4 Memoria: concepto, funcionamiento y tipos
