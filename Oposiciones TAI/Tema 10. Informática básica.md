@@ -387,3 +387,58 @@ Función principal: almacenar instrucciones y datos de programas en ejecución (
 | DDR2 | 667 - 800        | 2 GB           | 240   |
 | DDR3 | 1066 - 2400      | 16 GB          | 240   |
 | DDR4 | 2133 - 4000      | 64 GB          | 288   |
+## Otros tipos de memoria RAM
+• **RIMM (Rambus Inline Memory Module)**  
+Parecidos a los DIMM, pero algo mayores y cubiertos de disipador de calor. Aparecieron con 168 contactos, actualmente usan 232. Son más rápidos que los anteriores, pero de precio elevado. Se usan en memorias RDRAM.
+
+• **FB-DIMM (Fully Buffered DIMM)**  
+Usados en servidores. La transmisión entre módulo y controlador de memoria se realiza en serie, reduciendo líneas de conexión. Esto mejora velocidad y capacidad. Elevado coste. Mayor calor por aumento de velocidad y latencia. Módulos de 240 pines como DDR2, pero con muesca en posición distinta.
+
+• **GDDR (Graphics DDR)**  
+Memorias para gráficas. Chips integrados en tarjetas gráficas o placas con gráfica integrada. Muy rápidas, controladas por la GPU. No usan módulos tradicionales de RAM.
+
+• **SO-DIMM y Micro-DIMM**  
+Versiones compactas de DIMM para portátiles. El Micro-DIMM es más pequeño. Los SO-DIMM para DDR y DDR2 difieren por la posición de la muesca.
+### Módulos buffered y unbuffered
+• **Buffered o Registered**  
+Incluyen registros intermedios entre CPU y memoria. Mejoran estabilidad a costa de rendimiento. Usados en servidores. Mayor fiabilidad y menor velocidad. Suelen incluir detección y corrección de errores (ECC).
+
+• **Unbuffered o Unregistered**  
+Conexión directa con el controlador de memoria (Northbridge). Más rápidos, pero menos seguros que los registrados.
+### RAM ECC y no ECC
+• **No ECC**  
+Sin corrección de errores. Usada en ordenadores personales, portátiles y tablets.
+
+• **ECC (Error Checking and Correction)**  
+Detecta y corrige errores mediante paridad. Corrige errores de 1 bit, no multibit. Usada en servidores. Requiere soporte de placa base y CPU.
+### RAM volátil y no volátil
+• **Volátil (SRAM / DRAM)**  
+SRAM ≡ Static RAM  
+DRAM ≡ Dynamic RAM (basada en condensadores)
+
+• **No volátil (NVRAM)**  
+Mantiene datos con alimentación de respaldo. No se pierde el contenido si se corta la energía.
+## Parámetros de la memoria
+• **Velocidad (MHz)**  
+Indica millones de operaciones (lectura/escritura) por segundo.
+
+• **Ancho de banda (MB/s o GB/s)**  
+Cantidad máxima de datos transferidos por segundo.
+
+• **Dual Channel**  
+Uso de dos canales simultáneos. Duplica ancho de banda. Requiere módulos idénticos en frecuencia, capacidad y latencia.
+
+• **Tiempo de acceso (ns)**  
+Tiempo que tarda la CPU en acceder a la memoria.
+
+• **Latencia**  
+Retardo al acceder a los componentes de RAM.
+
+• **Latencia CAS (CL)**  
+Ciclos desde la petición de lectura hasta la entrega de datos. Menor valor = mayor velocidad.
+## RAM-CMOS
+Memoria que almacena la configuración del sistema (orden de arranque, discos, seguridad, overclock, etc.). Se modifica mediante utilidades del BIOS durante el arranque.
+
+Es una RAM pequeña (64–256 bytes) vinculada al reloj de tiempo real. Se alimenta con la pila de la placa base. El BIOS la usa en el arranque para configurar el sistema.
+
+Si los datos son incorrectos, puede impedir el arranque y requerir restaurar valores de fábrica retirando la pila.
