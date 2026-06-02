@@ -232,14 +232,14 @@ Sus características son:
 - Integración de datos, imágenes y sonido (multimedia).
 - Gran expansión de la microinformática en todos los sectores.
 
-| CISC | RISC |
-|------|------|
-| **Significado**: Computadora con conjunto de instrucciones complejo | **Significado**: Computadora con conjunto de instrucciones reducido |
-| **Aplicación**: Utilizada en entornos de red | **Aplicación**: Aplicada en ordenadores domésticos |
-| **Características**: Instrucciones de tamaño fijo. Solo las instrucciones de carga y almacenamiento acceden a la memoria de datos | **Características**: Instrucciones muy amplias |
-| **Objetivos**: Permite operaciones complejas entre operandos situados en memoria o en registros internos | **Objetivos**: Posibilitar la segmentación y el paralelismo en la ejecución de instrucciones y reducir los accesos a memoria |
+| CISC                                                                                                                                                                                   | RISC                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Significado**: Computadora con conjunto de instrucciones complejo                                                                                                                    | **Significado**: Computadora con conjunto de instrucciones reducido                                                                                                        |
+| **Aplicación**: Utilizada en entornos de red                                                                                                                                           | **Aplicación**: Aplicada en ordenadores domésticos                                                                                                                         |
+| **Características**: Instrucciones de tamaño fijo. Solo las instrucciones de carga y almacenamiento acceden a la memoria de datos                                                      | **Características**: Instrucciones muy amplias                                                                                                                             |
+| **Objetivos**: Permite operaciones complejas entre operandos situados en memoria o en registros internos                                                                               | **Objetivos**: Posibilitar la segmentación y el paralelismo en la ejecución de instrucciones y reducir los accesos a memoria                                               |
 | **Ventajas**: La CPU trabaja más rápido al utilizar menos ciclos de reloj. Reduce tiempo de ejecución de las operaciones. Cada instrucción puede ser ejecutada en un solo ciclo de CPU | **Ventajas**: Reduce la dificultad de crear compiladores. Permite reducir el coste total del sistema. Mejora la compactación del código. Facilita la depuración de errores |
-| **Microprocesadores**: Intel 8086, 8088, 80286, 80386, 80486. Motorola 68000, 68010, 68020, 68030, 6840 | **Microprocesadores**: MIPS Technologies, IBM PowerPC, Motorola, SPARC y UltraSPARC |
+| **Microprocesadores**: Intel 8086, 8088, 80286, 80386, 80486. Motorola 68000, 68010, 68020, 68030, 6840                                                                                | **Microprocesadores**: MIPS Technologies, IBM PowerPC, Motorola, SPARC y UltraSPARC                                                                                        |
 ## Medidas de potencia de un microprocesador
 - **FLOPS**: número de operaciones de coma flotante por segundo.
 - **MIPS**: millones de operaciones por segundo.
@@ -255,6 +255,56 @@ Fue patentada por Sun Microsystems en 1994.
 Intel lo denomina HyperThreading y AMD SMT.
 Ambas tecnologías son prácticamente idénticas: permiten que un núcleo ejecute dos hilos de proceso.
 Un procesador de dos núcleos con esta tecnología puede ejecutar cuatro hilos simultáneos, y uno quad-core hasta ocho hilos.
+# 5. Componentes internos de los equipos microinformáticos  
+La estructura hardware de un ordenador digital quedó definida básicamente en la década de los 50, casi a comienzos de la historia de la informática.  
+Desde entonces pocas cosas han cambiado en el diseño en sus módulos esenciales, aunque sí se han desarrollado mejoras tecnológicas.  
+El hardware de un ordenador se estructura en tres subsistemas:  
+- Unidad central de proceso (UCP o CPU).  
+- Memoria central.  
+- Unidades de entrada/salida o periféricos.  
+## 5.1 Buses  
+Conjunto de circuitos encargados de la conexión y comunicación entre los diversos componentes de un ordenador.  
+Esta comunicación se realiza mediante líneas eléctricas distribuidas por el sistema, permitiendo la transmisión de datos en paralelo.  
+Tipos de buses:  
+- **Bus de control**: transmite señales generadas en la unidad de control que son interpretadas como órdenes por el resto del sistema.  
+- **Bus de direcciones**: transporta las direcciones de memoria sobre las que se va a actuar en operaciones de lectura y escritura.  
+- **Bus de datos**: traslada datos hacia y desde la memoria principalmente, aunque también se conecta a otros dispositivos (puertos, controladores de periféricos, etc.).  
+## 5.2 Conceptos sobre procesadores  
+También denominado CPU (Central Processing Unit).  
+Es el subsistema más importante del ordenador, actúa como su cerebro, coordinando y supervisando el funcionamiento del resto del sistema y procesando las instrucciones de los programas.  
+Secuencia de operación de la CPU:  
+1. Extraer de la memoria una instrucción del programa en ejecución.  
+2. Analizar la instrucción.  
+3. Ejecutar las operaciones necesarias.  
+Este ciclo es invariable para todos los programas.  
+Actualmente la CPU está formada por circuitos electrónicos integrados en un chip denominado microprocesador, situado sobre la placa base.  
+Suele incluir un sistema de refrigeración debido a la generación de calor.  
+Equivalencias:  
+- UCP = CPU = microprocesador = procesador.  
+## Tecnologías de procesadores  
+Existen dos tipos principales:  
+### CISC (Complex Instruction Set Computer)  
+Los microprocesadores CISC tienen un conjunto de instrucciones amplio que permite operaciones complejas entre operandos en memoria o registros.  
+En la actualidad suelen traducir instrucciones complejas en microinstrucciones tipo RISC.  
+Ejemplos: Intel, AMD, Motorola (x86).  
+Ventajas:  
+- Reduce la dificultad de crear compiladores.  
+- Reduce el coste total del sistema.  
+- Reduce los costes de creación de software.  
+- Mejora la compactación de código.  
+- Facilita la depuración de errores.  
+### RISC (Reduced Instruction Set Computer)  
+Arquitectura basada en un conjunto reducido de instrucciones simples.  
+Características:  
+- Instrucciones de tamaño fijo y pocos formatos.  
+- Solo carga y almacenamiento acceden a memoria.  
+- Favorece el paralelismo y la segmentación.  
+- Reduce accesos a memoria.  
+Ventajas:  
+- Mayor velocidad de ejecución (menos ciclos por instrucción).  
+- Conserva operandos y resultados en memoria.  
+- Cada instrucción puede ejecutarse en un ciclo.  
+Ejemplos: MIPS, SPARC, POWER PC, ARM.
 ## 5.3 Unidad central de proceso
 La CPU está formada por:
 - Registros de acceso rápido.
@@ -471,7 +521,7 @@ Sucesor de la BIOS. Escrito en C y con arquitectura moderna. Mejora el arranque,
 - Conectividad: UEFI puede actualizarse vía red.
 - Compatibilidad: UEFI permite extensiones y mayor flexibilidad.
 - UEFI permite esquemas de particionado GPT, lo que habilita hasta 128 particiones por disco y capacidades teóricas muy altas (del orden de ZB). BIOS usa MBR, con un máximo de 4 particiones primarias por disco y un límite de 2,2 TB.
-## 6. MEDIDAS DE CAPACIDAD DE MEMORIA
+# 6. MEDIDAS DE CAPACIDAD DE MEMORIA
 
 | Unidad | Descripción |
 |--------|-------------|
@@ -490,7 +540,7 @@ Sucesor de la BIOS. Escrito en C y con arquitectura moderna. Mejora el arranque,
 | Exabyte (EB) | 1 EB = 1024 PB |
 | Zettabyte (ZB) | 1 ZB = 1024 EB |
 | Yottabyte (YB) | 1 YB = 1024 ZB |
-## 7. SISTEMAS DE NUMERACIÓN
+# 7. SISTEMAS DE NUMERACIÓN
 
 Un sistema de numeración es un conjunto de símbolos y reglas que permiten representar números. En informática se usan principalmente: decimal, binario, octal y hexadecimal.
 
@@ -503,19 +553,17 @@ Un sistema de numeración es un conjunto de símbolos y reglas que permiten repr
 | Octal | Base 8. Usa los dígitos 0-7. |
 | Hexadecimal | Base 16. Usa 0-9 y A-F. Muy usado en informática para representar binario de forma compacta. |
 
-## 8. JUEGOS DE CARACTERES ASCII
+# 8. JUEGOS DE CARACTERES
+El código ASCII (American Standard Code for Information Interchange) es un estándar de codificación de caracteres basado en el alfabeto latino. Se creó en 1963 y posteriormente se amplió en versiones extendidas.
 
-El código ASCII (American Standard Code for Information Interchange) es un estándar de codificación de caracteres basado en el alfabeto latino. Se creó en 1963 y se amplió en versiones posteriores.
-
-ASCII usa 7 bits para representar caracteres (128 combinaciones). Incluye caracteres de control y caracteres imprimibles.
-
-### Características de ASCII
+ASCII utiliza 7 bits para representar caracteres (128 combinaciones posibles) e incluye caracteres de control y caracteres imprimibles.
+## 8.1 ASCII
+#### Características de ASCII
 - 7 bits de representación
 - 33 caracteres de control
 - 95 caracteres imprimibles
 - Base de muchos sistemas de codificación actuales
-
-### ASCII extendido
+#### ASCII extendido
 
 | Codificación | Descripción |
 |--------------|-------------|
@@ -524,52 +572,40 @@ ASCII usa 7 bits para representar caracteres (128 combinaciones). Incluye caract
 | ISO-8859-1 (Latin-1) | Usado en Unix y base de Windows |
 | Windows-1252 | Extensión de Latin-1 en Windows |
 
-## UNICODE
-
-Unicode es un estándar universal de codificación de caracteres que permite representar textos de múltiples idiomas y símbolos técnicos.
-
-### Características de Unicode
+## 8.2 UNICODE
+Unicode es un estándar universal de codificación de caracteres diseñado para representar textos de múltiples idiomas y símbolos técnicos.
+#### Características de Unicode
 - Asigna un código único a cada carácter (code point)
 - Permite mezclar idiomas en un mismo texto
 - Incluye alfabetos, ideogramas y símbolos
+## 8.3 UTF-8
+UTF-8 es una codificación de Unicode de longitud variable (de 1 a 4 bytes por carácter). Es una de las codificaciones más usadas en sistemas modernos y en la web.
+#### Características principales de UTF-8
+- Representa cualquier carácter Unicode
+- Usa longitud variable (1 a 4 bytes)
+- Compatible con ASCII (sin modificaciones)
+- Permite sincronización de caracteres
+- Evita ambigüedad en la decodificación
+#### Distribución de UTF-8
 
-### UTF-8
-UTF-8 es una codificación de Unicode de longitud variable (8 bits o más). Es el formato más usado en web y sistemas modernos.
+| Nº de bytes | Caracteres representados                                                           |
+| ----------- | ---------------------------------------------------------------------------------- |
+| 1 byte      | ASCII (128 caracteres)                                                             |
+| 2 bytes     | Caracteres extendidos (alfabetos latinos, griego, cirílico, árabe, etc.)           |
+| 3 bytes     | Plano multilingüe básico (incluye CJK: chino, japonés y coreano)                   |
+| 4 bytes     | Planos suplementarios (símbolos matemáticos, alfabetos antiguos, ideogramas raros) |
 
-## 8. JUEGOS DE CARACTERES ASCII
-
-### UTF-8 (características principales)
-- Es capaz de representar cualquier carácter Unicode.
-- Usa símbolos de longitud variable (de 1 a 4 bytes por carácter).
-- Es compatible con ASCII (7 bits), sin modificaciones.
-- Permite sincronización: se puede detectar el inicio de cada carácter sin leer desde el inicio.
-- No hay solapamiento entre secuencias de bytes, evitando ambigüedad en la decodificación.
-
-### Distribución de UTF-8
-
-| Nº de bytes | Caracteres representados |
-|-------------|--------------------------|
-| 1 byte | ASCII (128 caracteres) |
-| 2 bytes | 1920 caracteres (alfabetos latinos extendidos, griego, cirílico, árabe, etc.) |
-| 3 bytes | Plano multilingüe básico (incluye CJK: chino, japonés y coreano) |
-| 4 bytes | Planos suplementarios (símbolos matemáticos, alfabetos antiguos, ideogramas raros) |
-
-### UTF-8 (ventajas)
-- Compatible con Unicode completo.
-- Compatible con ASCII.
-- Identificación sencilla del formato UTF-8.
-- Ahorro de espacio en textos latinos frente a UTF-16.
-- Buena sincronización de caracteres.
-
-### UTF-8 (desventajas)
-- Longitud variable: acceso aleatorio a caracteres es más lento.
-- Textos CJK ocupan más espacio que en UTF-16.
-- Menor rendimiento en ciertas operaciones (ordenación, procesamiento masivo).
-
+#### Ventajas de UTF-8
+- Compatible con Unicode completo
+- Compatible con ASCII
+- Ahorro de espacio en textos latinos
+- Buena sincronización de caracteres
+#### Desventajas de UTF-8
+- Acceso aleatorio más lento por longitud variable
+- Textos CJK pueden ocupar más espacio que en UTF-16
+- Menor rendimiento en ciertas operaciones de procesamiento masivo
 ## EBCDIC
-
 EBCDIC (Extended Binary Coded Decimal Interchange Code) es un código de 8 bits usado principalmente en mainframes de IBM.
-
 ### Características de EBCDIC
 - 8 bits por carácter (256 combinaciones posibles).
 - Incluye caracteres alfanuméricos, de control y signos de puntuación.
