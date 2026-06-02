@@ -442,3 +442,31 @@ Memoria que almacena la configuración del sistema (orden de arranque, discos, s
 Es una RAM pequeña (64–256 bytes) vinculada al reloj de tiempo real. Se alimenta con la pila de la placa base. El BIOS la usa en el arranque para configurar el sistema.
 
 Si los datos son incorrectos, puede impedir el arranque y requerir restaurar valores de fábrica retirando la pila.
+## 5.4.2 MEMORIA ROM
+La memoria ROM es un medio de almacenamiento de programas o datos que permiten el buen funcionamiento de los ordenadores o dispositivos electrónicos mediante la lectura de la información sin que pueda ser destruida o reprogramada. ROM significa Read Only Memory (memoria de solo lectura). Es una memoria no volátil, por lo que la información no se pierde al apagar el dispositivo. Suele estar en la placa base y contiene el firmware básico del sistema, como la BIOS.
+
+### Tipos de memoria ROM
+#### ROM de solo lectura
+Primeras memorias ROM. Solo permiten lectura. La información queda grabada de fábrica y no puede modificarse ni borrarse. Hoy en día están obsoletas por su falta de flexibilidad y alto coste de fabricación y mantenimiento.
+#### PROM (Programmable ROM)
+Memoria programable una sola vez. Cada bit se define mediante fusibles que se “queman” para fijar el estado. Una vez programada no puede modificarse. Se utiliza para almacenar datos permanentes en pequeñas cantidades.
+#### EPROM (Erasable Programmable ROM)
+Memoria programable y borrable mediante luz ultravioleta. Permite reprogramación tras el borrado. Requiere dispositivos especiales para la programación.
+#### EEPROM (Electrically Erasable Programmable ROM)
+Memoria que puede borrarse y reprogramarse eléctricamente. Permite modificación sin extracción física. Es más flexible que EPROM, aunque más lenta en escritura.
+
+## 5.4.3 BIOS Y UEFI
+Ambos son firmware almacenado en la placa base que se encarga del arranque y configuración inicial del sistema.
+
+### BIOS (Basic Input Output System)
+Sistema clásico de firmware. Inicializa el hardware del equipo, realiza comprobaciones básicas y lanza el sistema operativo. También gestiona energía y temperatura.
+### UEFI (Unified Extensible Firmware Interface)
+Sucesor de la BIOS. Escrito en C y con arquitectura moderna. Mejora el arranque, la seguridad y la gestión del hardware.
+
+#### Diferencias principales entre BIOS y UEFI
+- Interfaz: BIOS es texto tipo MS-DOS; UEFI es gráfica y permite ratón.
+- Velocidad: UEFI es más rápida en el arranque.
+- Seguridad: UEFI incorpora Secure Boot.
+- Arquitectura: BIOS funciona en 16 bits; UEFI en 32/64 bits.
+- Conectividad: UEFI puede actualizarse vía red.
+- Compatibilidad: UEFI permite extensiones y mayor flexibilidad.
