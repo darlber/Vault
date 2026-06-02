@@ -143,3 +143,247 @@ En la mayoría de computadoras modernas, la velocidad de comunicación entre la 
 La CPU se ve forzada a esperar continuamente a que lleguen los datos necesarios desde o hacia la memoria.
 
 Dado que la velocidad de procesamiento y la capacidad de memoria han aumentado mucho más rápido que el rendimiento de transferencia entre ellas, el cuello de botella se ha convertido en un problema creciente cuya gravedad aumenta con cada nueva generación de CPU.
+## 3.2 Arquitectura Harvard
+Contiene los mismos elementos que la arquitectura Von Neumann y funcionan de la misma manera, pero tiene una diferencia fundamental:
+La memoria principal se divide en memoria de instrucciones y memoria de datos.
+
+¿Qué ventajas aporta esta diferencia?
+En la arquitectura anterior se indicaba que no se podían realizar de manera simultánea una operación sobre datos y una operación sobre instrucciones, dado que solo había un bus compartido para ambas operaciones.
+
+En esta arquitectura, cada uno de los dos tipos de memoria usa un bus exclusivo, por lo que se pueden simultanear las operaciones, lo que supone un aumento del rendimiento del equipo informático y elimina el cuello de botella de Von Neumann.
+
+Bajo arquitectura Von Neumann pura, la CPU puede estar leyendo una instrucción o leyendo/escribiendo datos desde/hacia la memoria, pero ambos procesos no pueden ocurrir al mismo tiempo, ya que comparten el mismo sistema de buses.
+
+En una computadora que utiliza la arquitectura Harvard, la CPU puede tanto leer una instrucción como acceder a la memoria de datos al mismo tiempo, incluso sin memoria caché.
+![](attachments/{6B126EB5-4EBC-414F-AE35-071A18ECDE28}.png)
+En la actualidad, la mayoría de los procesadores implementan una arquitectura Harvard modificada, para poder soportar tareas como la carga de programas desde una unidad de disco como datos para su posterior ejecución.
+### Hardware modificado
+Variación de la arquitectura Harvard que permite que los contenidos de la memoria de instrucciones sean accedidos como si fuesen datos.
+- La memoria de instrucciones y datos ocupan diferentes espacios de direcciones.
+- La memoria de instrucciones y datos accede a la CPU por buses distintos.
+- La memoria de instrucciones y datos pueden ser accedidas de diferente manera.
+## 4. Generaciones de ordenadores
+Desde mediados del siglo XX hasta finales de la década de los ochenta, los avances tecnológicos se suceden sin cesar.
+A lo largo de este periodo se diferencian ciertas etapas denominadas generaciones de ordenadores, definidas principalmente por:
+- La tecnología vigente en un momento dado.
+- Las técnicas de programación utilizadas.
+- El impacto de la informática en la sociedad.
+Por otra parte, debido al ritmo de desarrollo de los últimos años, esta forma de clasificación ha perdido parte de su efectividad, ya que hoy es difícil separar claramente una etapa de otra.
+## Primera generación (1940-1952)
+El comienzo de la historia actual de la informática lo constituyen los ordenadores construidos a base de válvulas de vacío como elemento principal de control.
+El uso principal de estos primeros ordenadores fueron aplicaciones científicas y militares, y se programaban directamente en lenguaje máquina.
+La primera generación incluye ordenadores con las siguientes características:
+- Utilizan relés electromecánicos, válvulas y tubos de vacío como elementos principales de control.
+- Las memorias estaban constituidas por tarjetas y cintas perforadas, y posteriormente por líneas de demora de mercurio, tecnologías ya totalmente desfasadas.
+- La velocidad de proceso se mide en milisegundos.
+- Se construyeron para tareas muy concretas.
+- Se programaban directamente en lenguaje máquina, mediante interruptores manuales.
+El ejemplo más significativo es el computador ENIAC.
+## Segunda generación (1952-1964)
+A principios de los años cincuenta, un nuevo dispositivo denominado transistor supuso la segunda revolución tecnológica en el campo de la computación.
+El transistor sustituyó a la válvula de vacío, reduciendo el tamaño de los circuitos, su consumo y su coste, además de aumentar la fiabilidad de los ordenadores.
+Estas ventajas, junto con la introducción de las memorias de núcleos de ferrita y los soportes de información magnéticos, dieron paso a la segunda generación.
+Los ordenadores dejaron de ser máquinas extremadamente costosas y se extendieron rápidamente por empresas y universidades, ampliando sus aplicaciones a los campos administrativos y de gestión.
+Para ello fue necesario desarrollar nuevos métodos de programación más asequibles y adaptados al ser humano, apareciendo lenguajes evolucionados como Ensamblador, Fortran, Cobol y Algol.
+La aplicación del transistor en la construcción de ordenadores supuso el comienzo de la segunda generación, caracterizada por:
+- Sustitución de la válvula de vacío por el transistor, reduciendo tamaño, consumo y coste, y aumentando la fiabilidad.
+- Introducción de memorias de núcleos de ferrita y soportes de información magnéticos.
+- Sustitución del cableado por circuitos impresos, aumentando la velocidad al reducir la distancia de las señales eléctricas.
+- Aparición de los primeros periféricos que simplifican el diseño de los sistemas hardware.
+- Expansión de los ordenadores en empresas y universidades, ampliando sus aplicaciones administrativas y de gestión.
+- Desarrollo de lenguajes de programación evolucionados como Ensamblador, Fortran, Cobol y Algol.
+El ejemplo más significativo es el ordenador TRADIC, el primer ordenador construido con transistores.
+## Tercera generación (1964-1970)
+Hemos visto cómo la aplicación del transistor en la construcción de ordenadores fue el paso decisivo en la segunda generación.
+El transistor comenzó a utilizarse como elemento discreto en los diseños.
+A mediados de la década de los sesenta se comenzaron a construir circuitos que integraban varios transistores en un solo dispositivo, dando lugar a la industria de los circuitos integrados.
+El software evolucionó con el desarrollo de los sistemas operativos, incluyendo multiprogramación, tiempo real y modo interactivo.
+Se comenzaron a utilizar memorias de semiconductores y discos magnéticos.
+Esta generación se caracteriza por:
+- Aplicación de SSI (Small Scale Integration), integrando alrededor de diez transistores en una única pastilla.
+- Evolución hacia MSI (Medium Scale Integration), con hasta 1.000 transistores en un chip, apareciendo los primeros circuitos integrados comerciales.
+- Reducción del tamaño y precio de los ordenadores, surgiendo las primeras minicomputadoras.
+- Avances en hardware con memorias de semiconductores y discos magnéticos como almacenamiento permanente.
+- Desarrollo de sistemas operativos con tiempo real, modo interactivo y multiprogramación.
+- Aparición del lenguaje BASIC.
+El ejemplo más significativo son los minicomputadores PDP-11 (DEC) y el superordenador CDC-7600.
+## Cuarta generación (1970-1981)
+En 1971 aparece el microprocesador, que integra toda la CPU en un solo circuito integrado.
+Se utilizó el disquete (Floppy Disk) como almacenamiento externo.
+Aparecen numerosos lenguajes de programación y las redes de transmisión de datos (teleinformática).
+Esta generación se caracteriza por:
+- Tecnologías LSI (Large Scale Integration) y VLSI (Very Large Scale Integration), con más de 10.000 puertas lógicas por chip.
+- Aparición del primer microprocesador en 1971, que integra la CPU en un único chip.
+- Tiempos de conmutación de puertas lógicas reducidos hasta 10 nanosegundos.
+- Aparición de los primeros ordenadores personales, como el IBM PC.
+- Uso de disquetes como almacenamiento externo y gran variedad de lenguajes de programación.
+- Desarrollo de ordenadores clónicos compatibles con IBM, impulsando la microinformática.
+- Expansión de redes de ordenadores y teleinformática.
+## Quinta generación (1981-1991)
+En 1981 se anuncia el nacimiento de una nueva generación impulsada por grandes productores tecnológicos (principalmente Estados Unidos y Japón).
+Sus características son:
+- Uso masivo de componentes VLSI.
+- Tiempos de conmutación de puertas lógicas hasta 1 nanosegundo.
+- Desarrollo de inteligencia artificial y sistemas expertos.
+- Lenguajes de programación cercanos al lenguaje natural.
+- Sistemas operativos orientados al usuario.
+- Interfaces gráficas y dispositivos como el ratón.
+- Interconexión global de ordenadores mediante redes (Internet).
+- Integración de datos, imágenes y sonido (multimedia).
+- Gran expansión de la microinformática en todos los sectores.
+
+| CISC | RISC |
+|------|------|
+| **Significado**: Computadora con conjunto de instrucciones complejo | **Significado**: Computadora con conjunto de instrucciones reducido |
+| **Aplicación**: Utilizada en entornos de red | **Aplicación**: Aplicada en ordenadores domésticos |
+| **Características**: Instrucciones de tamaño fijo. Solo las instrucciones de carga y almacenamiento acceden a la memoria de datos | **Características**: Instrucciones muy amplias |
+| **Objetivos**: Permite operaciones complejas entre operandos situados en memoria o en registros internos | **Objetivos**: Posibilitar la segmentación y el paralelismo en la ejecución de instrucciones y reducir los accesos a memoria |
+| **Ventajas**: La CPU trabaja más rápido al utilizar menos ciclos de reloj. Reduce tiempo de ejecución de las operaciones. Cada instrucción puede ser ejecutada en un solo ciclo de CPU | **Ventajas**: Reduce la dificultad de crear compiladores. Permite reducir el coste total del sistema. Mejora la compactación del código. Facilita la depuración de errores |
+| **Microprocesadores**: Intel 8086, 8088, 80286, 80386, 80486. Motorola 68000, 68010, 68020, 68030, 6840 | **Microprocesadores**: MIPS Technologies, IBM PowerPC, Motorola, SPARC y UltraSPARC |
+## Medidas de potencia de un microprocesador
+- **FLOPS**: número de operaciones de coma flotante por segundo.
+- **MIPS**: millones de operaciones por segundo.
+Esta medida solo permite comparar CPUs con el mismo conjunto de instrucciones.
+## Multiprocesamiento
+Se habla de multiprocesamiento o multiproceso cuando en un equipo informático existe más de una CPU utilizada para ejecutar uno o más procesos.
+No debe confundirse con multitarea.
+Normalmente una CPU está formada por un solo circuito integrado.
+En ocasiones un circuito puede contener más de una CPU (procesador multinúcleo).
+## Multithreading
+Tecnología que permite duplicar las unidades lógicas de cada núcleo, permitiendo que un núcleo realice dos tareas simultáneas.
+Fue patentada por Sun Microsystems en 1994.
+Intel lo denomina HyperThreading y AMD SMT.
+Ambas tecnologías son prácticamente idénticas: permiten que un núcleo ejecute dos hilos de proceso.
+Un procesador de dos núcleos con esta tecnología puede ejecutar cuatro hilos simultáneos, y uno quad-core hasta ocho hilos.
+## 5.3 Unidad central de proceso
+La CPU está formada por:
+- Registros de acceso rápido.
+- Unidad de control (UC).
+- Unidad aritmético-lógica (UAL o ALU).
+## 5.3.1 Registros de la CPU
+Un registro es una pequeña zona de memoria de acceso muy rápido que almacena datos, instrucciones o direcciones.
+Tipos de registros:
+- **Registros de datos**: almacenan valores numéricos o caracteres.
+  - Acumulador: guarda resultados intermedios de operaciones aritméticas o lógicas.
+  - Registro de pila: mantiene la posición de la pila de llamadas.
+  - Registro índice: direcciona datos hacia o desde la memoria RAM.
+- **MBR (Memory Buffer Register)**: registro conectado al bus de datos que almacena temporalmente datos leídos o escritos desde memoria o E/S.
+- **MAR (Memory Address Register)**: contiene la dirección de memoria a la que se accede; está conectado al bus de direcciones.
+  - El tamaño del MAR determina el número de direcciones posibles (2ⁿ).
+- **Registros de propósito general (GPRs)**: almacenan datos o direcciones sin función específica fija.
+- **Registros de propósito específico (SPRs)**: almacenan información del estado del sistema (por ejemplo, PSW o Instruction Pointer).
+  - **Registros de estado**: sirven para guardar valores reales cuya función es determinar cuándo una instrucción debe ejecutarse o no. También se conocen como CCR (Condition Code Register). Dentro de este tipo de registros se encuentra:
+  - **Registro de banderas o FLAGS**: presente en procesadores Intel con arquitectura x86. Es un registro de 16 bits, con dos versiones posteriores:
+    - EFLAGS (32 bits)
+    - RFLAGS (64 bits)
+- **Registros de coma flotante**: la coma flotante es una representación en forma de fórmula de números reales de distintos tamaños, utilizada para operaciones aritméticas. Se emplea en sistemas que requieren gran velocidad de procesamiento. Estos registros almacenan dichas representaciones en muchas arquitecturas.
+- **Registros constantes**: su función es almacenar valores de solo lectura como cero, uno o π.
+## 5.3.2 Unidad de control
+La unidad de control es la parte más importante del microprocesador.
+Controla el funcionamiento de todo el conjunto excepto las operaciones aritméticas (gestionadas por la UAL).
+Su estructura incluye:
+![](attachments/{1D7B50D5-A41A-44E6-BBE5-DAC4FA41F4A6}.png)
+- **Reloj**: la ejecución de una instrucción u operación en un ordenador se divide en ciclos básicos. El reloj proporciona una sucesión de impulsos con frecuencia constante que marca los instantes en los que deben comenzar dichos ciclos. La frecuencia es muy elevada (por ejemplo, 2000 MHz o 2 GHz), lo que equivale a 2000 millones de pulsos por segundo. No implica que se ejecuten tantas instrucciones por segundo, ya que una instrucción puede requerir varios ciclos.
+- **Contador de programa (CP)**: también llamado registro de control de secuencia (RCS). Contiene en todo momento la dirección de memoria de la siguiente instrucción a ejecutar. Al encender el ordenador toma un valor por defecto donde se encuentra la primera instrucción.
+- **Registro de instrucción (RI)**: contiene la instrucción que se está ejecutando en un momento dado. Las instrucciones tienen código de operación (acción) y operandos (datos o direcciones).
+- **Decodificador**: extrae el código de operación del RI, lo analiza y lo comunica al controlador.
+- **Controlador o secuenciador**: interpreta el código de operación y genera microórdenes que actúan sobre el sistema en sincronía con el reloj.
+## 5.3.3 Unidad aritmético-lógica
+Se denomina UAL o ALU (Arithmetic Logic Unit).
+Realiza operaciones aritméticas (sumas, restas, multiplicaciones, divisiones) y lógicas (comparaciones, desplazamientos, etc.).
+![](attachments/{F1A0616F-7359-4C82-B60E-2BF19C20FD47}%201.png)
+Se comunica con el sistema mediante el bus de datos.
+Componentes:
+- **Circuito operacional (COP)**: realiza las operaciones digitales. Recibe datos de los registros de entrada y la orden desde el bus de control.
+- **Registros de entrada (REN)**: almacenan los operandos y resultados intermedios.
+- **Acumulador**: los resultados finales se almacenan aquí. Es un registro especial conectado a los registros de entrada. También tiene conexión directa al bus de datos, lo que permite el envío de resultados a memoria o a la unidad de control.
+- **Registro de estado**: almacena información sobre condiciones de la última operación realizada (por ejemplo, si el resultado de una comparación es positivo, negativo, mayor o menor).
+## Operaciones lógicas
+La ALU puede realizar:
+- Operaciones aritméticas con números enteros (suma, resta y, en algunos casos, multiplicación y división).
+- Operaciones lógicas a nivel de bits (AND, OR, NOT, XOR, NOR, XNOR, NAND).
+- Operaciones de desplazamiento de bits (desplazan o rotan una palabra un número determinado de posiciones a la izquierda o derecha, con o sin extensión de signo).
+Los desplazamientos pueden interpretarse como multiplicaciones o divisiones por 2.
+![](attachments/{7775B4F6-BAFB-4CBD-99DF-845175C7A528}.png)
+## 5.3.4 Ciclo de ejecución de instrucciones
+Las instrucciones que componen el programa pueden clasificarse según el número de elementos que necesitan (operandos).
+Según el número de operandos:
+- Instrucciones sin operandos: no actúan sobre ningún elemento concreto. Ejemplo: FIN.
+- Instrucciones de un operando: actúan sobre un solo dato. Ejemplo: SALTO 12345.
+- Instrucciones de dos operandos: requieren dos elementos; uno suele almacenar el resultado. Ejemplo: SUMA A,B.
+- Instrucciones de tres operandos: dos datos y un destino. Ejemplo: SUMA A,B,C.
+Ciclo de instrucción: conjunto de acciones que realiza el ordenador para ejecutar una instrucción.
+Fases:
+- Fase de búsqueda (FETCH): la instrucción se transfiere desde memoria a la unidad de control.
+  1. La UC envía una microorden que pasa el contenido del contador de programa (CP) al registro de dirección de memoria (RDM).
+  2. El selector de memoria accede a la dirección y envía la instrucción al registro de intercambio de memoria (RIM).
+  3. La instrucción pasa del RIM al registro de instrucción (RI).
+- Fase de ejecución: se realizan las acciones de la instrucción.
+  1. El decodificador interpreta el RI y activa los circuitos necesarios.
+  2. El CP se incrementa o se modifica en caso de salto.
+## 5.3.5 Modos de direccionamiento
+Los modos de direccionamiento son las formas de transformar el campo de operando en la dirección efectiva.
+La dirección efectiva es la que se carga en el MAR.
+Se clasifican en propios e impropios:
+- Propios: el operando está en memoria.
+- Impropios: el operando está en registros u otros elementos.
+### Direccionamiento implícito
+El operando está definido en la instrucción.
+Se usa en:
+- Registros específicos.
+- Operandos en la pila.
+Ejemplo: instrucciones PUSH y POP.
+### Direccionamiento inmediato (o literal)
+El operando está dentro de la propia instrucción, sin acceso a memoria.
+Se usa para inicializar valores constantes.
+### Direccionamiento directo o absoluto
+El campo de la instrucción contiene la dirección de memoria del operando.
+La dirección efectiva coincide con la dirección indicada en la instrucción.
+Si hace referencia a un registro de la máquina, el dato estará almacenado en este registro y se habla de direccionamiento directo a registro. Si hace referencia a una posición de memoria, el dato estará almacenado en esa dirección de memoria (dirección efectiva) y se habla de direccionamiento directo a memoria.
+Estos modos son simples y no requieren cálculos para obtener la dirección efectiva.
+El tamaño del operando en direccionamiento directo a registro depende del número de registros de la máquina; en direccionamiento directo a memoria depende del tamaño de la memoria.
+## Direccionamiento indirecto
+El campo de operando contiene una dirección de memoria en la que se encuentra la dirección efectiva del operando.
+Si hace referencia a un registro, la dirección efectiva estará en ese registro (indirecto a registro).
+Si hace referencia a memoria, la dirección efectiva estará almacenada en una posición de memoria (indirecto a memoria).
+La principal desventaja es que requiere más accesos a memoria:
+- Indirecto a registro: un acceso adicional a memoria.
+- Indirecto a memoria: dos accesos a memoria, por lo que rara vez se implementa.
+## Direccionamiento relativo
+- Relativo a registro base: la dirección efectiva (EA) se calcula como la suma del registro base más un desplazamiento (offset). Permite acceso a posiciones cercanas de memoria y código reentrante. Usado en llamadas a funciones y pila.
+- Relativo a registro índice: similar al anterior, pero el desplazamiento lo aporta el registro índice. La EA es la suma del registro índice y una dirección de memoria.
+## 5.4 Memoria: concepto, funcionamiento y tipos
+### Clasificación de memoria
+- Por tipo:
+  - Memoria interna (RAM, ROM, registros).
+  - Memoria externa (disco duro, CD-ROM, USB).
+- Por lectura/escritura:
+  - Volátil: pierde contenido sin alimentación (RAM).
+  - No volátil: mantiene contenido (ROM).
+- Por velocidad/capacidad:
+  - A mayor velocidad, menor capacidad, y viceversa.
+![](attachments/{9E77E9D6-0368-442F-9C3B-5BCBA178CBC6}.png)
+## 5.4.1 Memoria RAM
+Memoria volátil que pierde su contenido al apagarse el sistema.
+Permite lectura y escritura en cualquier posición.
+Es utilizada principalmente por la CPU para almacenar instrucciones y datos en ejecución.
+Función principal: almacenar instrucciones y datos de programas en ejecución (sistema operativo, procesos, E/S, disco, etc.).
+### Evolución
+- Núcleos de ferrita (años 40-50).
+- DIP (años 60-70).
+- SIPP (años 80).
+![](attachments/{481F4662-FD5E-4637-97D0-55A2F32BF782}.png)
+- SIMM (años 80).
+![](attachments/{EA0AF256-3735-40BB-97EB-E58D75AE8A37}.png)
+- **DIMM (Dual Inline Memory Module)**: años 90. Módulos de memoria en línea doble (chips en ambas caras del módulo). Es similar al SIMM, pero más grande y con 168 contactos. Tiene una muesca en ambos lados y otras dos en la fila de contactos. Se monta de forma distinta a los SIMM. Existen módulos de 32, 64, 128, 256, 512 MB y de 1, 2 o más GB. Funcionan a 64 bits (8 bytes).
+- **DIMM DDR**: sustituye a los DIMM estándar. Tienen 184 contactos en lugar de 168. Incluyen una muesca en la fila de contactos. Aunque parecen similares, no son compatibles físicamente con DIMM anteriores.
+- **DIMM DDR2**: 240 pines. La muesca está en una posición diferente respecto a DDR. Las ranuras de conexión también son distintas.
+- **DIMM DDR3**: también 240 pines, pero física y electrónicamente incompatibles con DDR2 debido a la posición distinta de la muesca.
+![](attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png)
+
+| Tipo | Frecuencia (MHz) | Capacidad máx. | Pines |
+| ---- | ---------------- | -------------- | ----- |
+| DDR  | 266 - 400        | 1 GB           | 184   |
+| DDR2 | 667 - 800        | 2 GB           | 240   |
+| DDR3 | 1066 - 2400      | 16 GB          | 240   |
+| DDR4 | 2133 - 4000      | 64 GB          | 288   |
