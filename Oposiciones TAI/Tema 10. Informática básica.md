@@ -260,7 +260,7 @@ La CPU está formada por:
 - Registros de acceso rápido.
 - Unidad de control (UC).
 - Unidad aritmético-lógica (UAL o ALU).
-## 5.3.1 Registros de la CPU
+### 5.3.1 Registros de la CPU
 Un registro es una pequeña zona de memoria de acceso muy rápido que almacena datos, instrucciones o direcciones.
 Tipos de registros:
 - **Registros de datos**: almacenan valores numéricos o caracteres.
@@ -278,7 +278,7 @@ Tipos de registros:
     - RFLAGS (64 bits)
 - **Registros de coma flotante**: la coma flotante es una representación en forma de fórmula de números reales de distintos tamaños, utilizada para operaciones aritméticas. Se emplea en sistemas que requieren gran velocidad de procesamiento. Estos registros almacenan dichas representaciones en muchas arquitecturas.
 - **Registros constantes**: su función es almacenar valores de solo lectura como cero, uno o π.
-## 5.3.2 Unidad de control
+### 5.3.2 Unidad de control
 La unidad de control es la parte más importante del microprocesador.
 Controla el funcionamiento de todo el conjunto excepto las operaciones aritméticas (gestionadas por la UAL).
 Su estructura incluye:
@@ -288,7 +288,7 @@ Su estructura incluye:
 - **Registro de instrucción (RI)**: contiene la instrucción que se está ejecutando en un momento dado. Las instrucciones tienen código de operación (acción) y operandos (datos o direcciones).
 - **Decodificador**: extrae el código de operación del RI, lo analiza y lo comunica al controlador.
 - **Controlador o secuenciador**: interpreta el código de operación y genera microórdenes que actúan sobre el sistema en sincronía con el reloj.
-## 5.3.3 Unidad aritmético-lógica
+### 5.3.3 Unidad aritmético-lógica
 Se denomina UAL o ALU (Arithmetic Logic Unit).
 Realiza operaciones aritméticas (sumas, restas, multiplicaciones, divisiones) y lógicas (comparaciones, desplazamientos, etc.).
 ![](attachments/{F1A0616F-7359-4C82-B60E-2BF19C20FD47}%201.png)
@@ -305,7 +305,7 @@ La ALU puede realizar:
 - Operaciones de desplazamiento de bits (desplazan o rotan una palabra un número determinado de posiciones a la izquierda o derecha, con o sin extensión de signo).
 Los desplazamientos pueden interpretarse como multiplicaciones o divisiones por 2.
 ![](attachments/{7775B4F6-BAFB-4CBD-99DF-845175C7A528}.png)
-## 5.3.4 Ciclo de ejecución de instrucciones
+### 5.3.4 Ciclo de ejecución de instrucciones
 Las instrucciones que componen el programa pueden clasificarse según el número de elementos que necesitan (operandos).
 Según el número de operandos:
 - Instrucciones sin operandos: no actúan sobre ningún elemento concreto. Ejemplo: FIN.
@@ -321,35 +321,35 @@ Fases:
 - Fase de ejecución: se realizan las acciones de la instrucción.
   1. El decodificador interpreta el RI y activa los circuitos necesarios.
   2. El CP se incrementa o se modifica en caso de salto.
-## 5.3.5 Modos de direccionamiento
+### 5.3.5 Modos de direccionamiento
 Los modos de direccionamiento son las formas de transformar el campo de operando en la dirección efectiva.
 La dirección efectiva es la que se carga en el MAR.
 Se clasifican en propios e impropios:
 - Propios: el operando está en memoria.
 - Impropios: el operando está en registros u otros elementos.
-### Direccionamiento implícito
+#### Direccionamiento implícito
 El operando está definido en la instrucción.
 Se usa en:
 - Registros específicos.
 - Operandos en la pila.
 Ejemplo: instrucciones PUSH y POP.
-### Direccionamiento inmediato (o literal)
+#### Direccionamiento inmediato (o literal)
 El operando está dentro de la propia instrucción, sin acceso a memoria.
 Se usa para inicializar valores constantes.
-### Direccionamiento directo o absoluto
+#### Direccionamiento directo o absoluto
 El campo de la instrucción contiene la dirección de memoria del operando.
 La dirección efectiva coincide con la dirección indicada en la instrucción.
 Si hace referencia a un registro de la máquina, el dato estará almacenado en este registro y se habla de direccionamiento directo a registro. Si hace referencia a una posición de memoria, el dato estará almacenado en esa dirección de memoria (dirección efectiva) y se habla de direccionamiento directo a memoria.
 Estos modos son simples y no requieren cálculos para obtener la dirección efectiva.
 El tamaño del operando en direccionamiento directo a registro depende del número de registros de la máquina; en direccionamiento directo a memoria depende del tamaño de la memoria.
-## Direccionamiento indirecto
+### Direccionamiento indirecto
 El campo de operando contiene una dirección de memoria en la que se encuentra la dirección efectiva del operando.
 Si hace referencia a un registro, la dirección efectiva estará en ese registro (indirecto a registro).
 Si hace referencia a memoria, la dirección efectiva estará almacenada en una posición de memoria (indirecto a memoria).
 La principal desventaja es que requiere más accesos a memoria:
 - Indirecto a registro: un acceso adicional a memoria.
 - Indirecto a memoria: dos accesos a memoria, por lo que rara vez se implementa.
-## Direccionamiento relativo
+### Direccionamiento relativo
 - Relativo a registro base: la dirección efectiva (EA) se calcula como la suma del registro base más un desplazamiento (offset). Permite acceso a posiciones cercanas de memoria y código reentrante. Usado en llamadas a funciones y pila.
 - Relativo a registro índice: similar al anterior, pero el desplazamiento lo aporta el registro índice. La EA es la suma del registro índice y una dirección de memoria.
 ## 5.4 Memoria: concepto, funcionamiento y tipos
