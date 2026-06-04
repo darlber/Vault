@@ -550,49 +550,8 @@ Niveles de caché:
 - **Caché L2**: puede estar integrada en el procesador o en un chip separado. Mayor capacidad que L1 (256 KB - 1 MB por núcleo), pero algo más lenta.
 - **Caché L3**: compartida entre varios núcleos del procesador. Mayor capacidad (varios MB) y más lenta que L2, pero significativamente más rápida que la RAM.
 La jerarquía de velocidad ascendente es: Almacenamiento secundario < RAM < Caché L3 < Caché L2 < Caché L1 < Registros de la CPU.
-## 5.5 Periféricos
-Dispositivos externos conectados al ordenador que permiten la comunicación entre el sistema informático y el exterior. Sin ellos, el ordenador no podría interactuar con el usuario ni con otros sistemas.
-### 5.5.1 Periféricos de entrada
-Permiten introducir datos e instrucciones en el ordenador:
-- **Teclado**: introduce texto y comandos. Puede ser mecánico o de membrana.
-- **Ratón** (mouse): dispositivo apuntador que controla el cursor en la interfaz gráfica. Puede ser óptico o láser.
-- **Escáner**: digitaliza documentos físicos convirtiéndolos en imágenes digitales.
-- **Micrófono**: captura sonido ambiental para su procesamiento digital.
-- **Cámara web** (webcam): captura video e imágenes en tiempo real.
-- **Lápiz óptico**: dispositivo apuntador que permite dibujar o seleccionar elementos directamente sobre la pantalla táctil.
-- **Lector de códigos de barras**: lee códigos de barras ópticos mediante un haz láser.
-- **Tableta digitalizadora**: superficie sensible a la presión que permite dibujar con un lápiz especial.
-- **Escáner de huella dactilar**: lector biométrico para identificación.
-### 5.5.2 Periféricos de salida
-Muestran o transmiten información procesada al usuario:
-- **Monitor** (pantalla): dispositivo de visualización principal. Tecnologías: CRT, LCD, LED, OLED. La resolución se mide en píxeles.
-- **Impresora**: produce copias físicas en papel. Tipos principales: inyección de tinta, láser (tóner), matricial (impacto). La velocidad se mide en ppm (páginas por minuto).
-- **Plotter**: impresora de gran formato para planos técnicos, mapas y diseños CAD (Computer Aided Design). Utiliza plumillas o tecnología de inyección de tinta de gran ancho. Es un periférico de salida especializado.
-- **Altavoces** (speakers): reproducen señales de audio digital convertidas a analógicas mediante un DAC.
-- **Auriculares**: altavoces personales para uso individual. Pueden ser alámbricos o inalámbricos (Bluetooth).
-- **Proyector** (cañón): proyecta imágenes en una pantalla o superficie exterior.
-### 5.5.3 Periféricos mixtos (entrada/salida)
-Realizan simultáneamente funciones de entrada y salida:
-- **Pantalla táctil** (touch screen): integra entrada táctil y salida visual. Detecta la posición del toque mediante tecnología capacitiva o resistiva.
-- **Impresora multifunción**: combina impresión, escaneado, fotocopiado y fax en un único dispositivo.
-- **Tarjeta de red** (NIC): permite la comunicación del ordenador con otros equipos a través de una red. Puede ser Ethernet (cableada) o Wi-Fi (inalámbrica).
-### 5.5.4 Periféricos de almacenamiento
-Almacenan datos de forma permanente o extraíble. También se denominan memorias secundarias o auxiliares:
-- **Disco duro** (HDD): almacenamiento magnético de gran capacidad (hasta varios TB). La información se graba en platos giratorios mediante cabezales de lectura/escritura.
-- **Unidad de estado sólido** (SSD): almacenamiento basado en memorias flash NAND. Más rápido, silencioso y resistente que el HDD, pero con mayor coste por GB.
-- **Unidades ópticas**: CD-ROM (700 MB), DVD (4,7 GB), Blu-ray (25-50 GB). La lectura se realiza mediante un láser.
-- **Memoria USB** (pendrive): almacenamiento flash portátil, conectado mediante puerto USB.
-- **Tarjeta de memoria**: formato compacto usado en cámaras, móviles y tablets (SD, microSD, CompactFlash).
-### 5.5.5 OCR (Reconocimiento Óptico de Caracteres)
-Tecnología que permite convertir imágenes de texto impreso o manuscrito en datos digitales editables. El proceso consta de dos fases: el escáner captura la imagen, y el software OCR analiza las formas de los caracteres, identificándolos y convirtiéndolos en texto codificado (ASCII/Unicode). Sus siglas corresponden a Optical Character Recognition. Se utiliza en digitalización de documentos, escaneado de formularios y reconocimiento de matrículas.
-### 5.5.6 Puertos y conectores
-Interfaces físicas para la conexión de periféricos al ordenador:
-- **USB** (Universal Serial Bus): estándar más extendido. Versiones: USB 2.0 (480 Mbps), USB 3.0 (5 Gbps), USB 3.1/3.2 (10-20 Gbps), USB4 (40 Gbps). Tipos de conector: USB-A, USB-B, USB-C (reversible).
-- **HDMI** (High-Definition Multimedia Interface): transmite audio y video digital de alta definición.
-- **DisplayPort**: interfaz de video digital, alternativa a HDMI, común en monitores de PC.
-- **RJ-45**: conector para redes Ethernet (cable de par trenzado). 8 contactos (8P8C).
-- **Jack de audio** (TRS): conector analógico de 3,5 mm para auriculares y micrófono.
-- **Bluetooth**: tecnología inalámbrica de corto alcance (2,4 GHz) para periféricos (ratón, teclado, auriculares, altavoces).
+## 5.5 Periféricos (véase Tema 11)
+Los periféricos son dispositivos externos conectados al ordenador que permiten la comunicación entre el sistema informático y el exterior. Se tratan en detalle en el Tema 11 «Periféricos: conectividad y administración. Elementos de impresión. Elementos de almacenamiento. Elementos de visualización y digitalización».
 ## 5.6 Chipset
 Conjunto de circuitos integrados en la placa base que gestionan el tráfico de datos entre el procesador, la memoria, los periféricos y otros componentes. En diseños tradicionales se estructura en dos bloques funcionales:
 - **Northbridge** (puente norte): gestiona los componentes de alta velocidad: comunicación entre CPU y RAM, controlador gráfico (AGP/PCI Express), y enlace con el Southbridge. Tiene conexión directa con la CPU.
