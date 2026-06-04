@@ -159,3 +159,74 @@ Tel: +34 91 539 29 01
 - **SPF restrictivo** con `-all` — correcto.
 - **Sin IPv6** en el sitio web principal.
 - El dominio `.eu` implica cumplimiento con GDPR (datos WHOIS redactados).
+
+---
+
+## 9. Análisis de vulnerabilidades y recomendaciones de seguridad
+
+### 9.1 Vulnerabilidades identificadas
+
+| # | Hallazgo | Riesgo | Descripción |
+|---|---|---|---|
+| V1 | **Sin DKIM** | Alto | No existe registro `selector._domainkey`. Cualquier atacante puede enviar correos falsificados desde `@rcsmm.eu` sin que los servidores receptores puedan validar la autenticidad firmada. |
+| V2 | **DMARC en `p=quarantine`** | Medio | La política de cuarentena (no rechazo) permite que correos suplantados legítimos lleguen a la bandeja de spam del destinatario o, dependiendo del receptor, incluso a la bandeja principal. Un atacante con ingeniería social puede explotar esto. |
+| V3 | **FTP expuesto públicamente** | Medio-Alto | `ftp.rcsmm.eu` resuelve a `213.172.39.24`. Si el servicio FTP es accesible sin restricciones por IP, representa un vector de intrusión o fuga de datos. |
+| V4 | **Intranet accesible desde internet** | Medio | `intranet.rcsmm.eu` es accesible sin VPN aparente. Una intranet corporativa expuesta incrementa la superficie de ataque frente a autenticación, sesiones y vulnerabilidades web. |
+| V5 | **Sin registro CAA** | Bajo | Cualquier CA puede emitir certificados SSL para `rcsmm.eu`. Un CAA restringiría la emisión a una o varias CA autorizadas, mitigando la emisión fraudulenta. |
+| V6 | **Drupal 9 sin versión visible** | Medio | No se pudo determinar la versión exacta de Drupal 9. Drupal 9 llegó a su EOL (End of Life) en noviembre de 2023. Si el sitio no ha migrado a Drupal 10+ o aplicado parches de seguridad extendidos, podría estar expuesto a CVEs conocidos. |
+| V7 | **Moodle expuesto con versión no determinada** | Medio | `moodle.rcsmm.eu` es una plataforma Moodle. Moodle tiene un historial de CVEs críticos (RCE, XSS, SQLi). Sin conocer la versión exacta, no se puede descartar riesgo. |
+| V8 | **Cadenas TXT de verificación sin propósito claro** | Bajo | Cuatro registros TXT con cadenas aleatorias (`ls86y0hdz3l881ws89g4592m4qc52s6w`, etc.). Podrían ser verificaciones de servicios externos olvidadas (CDN, SaaS). Riesgo de subdomain takeover si alguno apunta a un servicio dado de baja. |
+| V9 | **Sin IPv6 en web principal** | Bajo | `rcsmm.eu` no tiene registro AAAA. Aunque no es una vulnerabilidad, es una carencia de redundancia y accesibilidad. |
+| V10 | **Cabecera Server expuesta** | Bajo | Apache revela su presencia en las cabeceras HTTP. Permite fingerprinting para ataques dirigidos a versiones específicas. |
+
+### 9.2 Recomendaciones de seguridad
+
+#### Prioridad crítica
+
+1. **Implementar DKIM** — Crear un par de claves y publicar el registro TXT `selector._domainkey.rcsmm.eu`. Firmar todo el correo saliente. Esto cierra el vector de spoofing más grave.
+
+2. **Subir DMARC a `p=reject`** — Una vez validado que DKIM y SPF funcionan correctamente (sin falsos positivos), cambiar la política de cuarentena a rechazo. Añadir informes de agregados (`rua`) para monitorizar.
+
+#### Prioridad alta
+
+3. **Restringir acceso a FTP e Intranet** — Configurar lista blanca de IPs (solo rangos de la Comunidad de Madrid o VPN corporativa) para `ftp.rcsmm.eu` e `intranet.rcsmm.eu`. Idealmente, eliminar resolución DNS pública de estos servicios o migrarlos a una VPN.
+
+4. **Migrar Drupal a versión soportada** — Drupal 9 llegó a su fin de vida útil. Migrar a Drupal 10 o 11, o contratar soporte de seguridad extendido. Auditoría de módulos y temas.
+
+5. **Auditar plataforma Moodle** — Determinar versión exacta, aplicar parches de seguridad, deshabilitar plugins no utilizados, y restringir acceso administrativo por IP.
+
+#### Prioridad media
+
+6. **Publicar registro CAA** — Ejemplo: `0 issue "letsencrypt.org"`, `0 issue "comodoca.com"`. Esto restringe qué CA pueden emitir certificados para el dominio.
+
+7. **Eliminar/rotar cadenas TXT obsoletas** — Revisar el propósito de cada registro TXT. Las cadenas sin función conocida deben eliminarse para reducir ruido y riesgo de subdomain takeover.
+
+8. **Ocultar versión del servidor** — Configurar `ServerTokens Prod` y `ServerSignature Off` en Apache para dificultar el fingerprinting.
+
+#### Prioridad baja
+
+9. **Habilitar IPv6** — Añadir registro AAAA para `rcsmm.eu` y `www.rcsmm.eu` para redundancia y accesibilidad futura.
+
+10. **Implementar monitorización de seguridad** — Vigilar certificados SSL (Caducidad, CT logs), cambios DNS inesperados, y anomalías en correos salientes.
+
+### 9.3 Pruebas recomendadas (pentest pasivo/activo)
+
+| Tipo | Descripción |
+|---|---|
+| **Autenticación email** | Verificar con `checktls.com` o `mxtoolbox.com` la correcta implementación de SPF, DKIM y DMARC. |
+| **Análisis de CVEs** | Escanear versiones de Drupal y Moodle con `droopescan` o `wpscan` (con mode Drupal). |
+| **Subdomain takeover** | Verificar que ningún subdominio apunte a servicios externos dados de baja (S3, GitHub Pages, etc.). |
+| **Open ports** | Escaneo SYN de `62.97.84.197` y `213.172.39.24` para identificar puertos abiertos no documentados. |
+| **Pentest web** | Pruebas de XSS, SQLi, CSRF, y autenticación en `intranet.rcsmm.eu` y `webmail.rcsmm.eu` (con autorización). |
+
+### 9.4 Resumen de riesgos
+
+```
+Criticidad          Hallazgos
+───────────────────────────────────────
+Crítico           │ V1 (Sin DKIM)
+Alto              │ V2 (DMARC quarantine), V3 (FTP expuesto), V4 (Intranet expuesta),
+                  │ V6 (Drupal EOL), V7 (Moodle sin auditar)
+Medio             │ V5 (Sin CAA), V8 (TXT huérfanos)
+Bajo              │ V9 (Sin IPv6), V10 (Server header)
+```

@@ -11,15 +11,10 @@
             "id": "a35c21abf5b5d6a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT_rcsmm.eu.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "OSINT_rcsmm.eu"
+              "title": "New tab"
             }
           }
         ]
@@ -133,13 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT_rcsmm.eu.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of OSINT_rcsmm.eu"
+              "title": "Outline"
             }
           },
           {
@@ -179,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,10 +192,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
-    "OSINT.md",
     "OSINT_rcsmm.eu.md",
+    "OSINT.md",
     "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
     "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI/Tema 10. Informática básica.md",
