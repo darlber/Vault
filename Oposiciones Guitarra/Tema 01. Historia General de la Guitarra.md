@@ -48,6 +48,24 @@ Sus características eran:
 - En la actualidad, la guitarra ha experimentado múltiples mejoras organológicas (afinación, clavijas, puente, varetaje, sonido).
 - Antonio de Torres fue fundamental en esta transformación: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.
 	- Según José Luis Romanillos, Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
+
+### Siglo XX y XXI: la guitarra de concierto moderna
+
+El modelo de Torres se convirtió en el estándar para la guitarra de concierto del siglo XX. Constructores como **Hermann Hauser I** (Alemania), **Ignacio Fleta** (Cataluña) y **José Ramírez III** (Madrid) adoptaron y perfeccionaron el sistema de varetaje en abanico, cada uno con variaciones personales que influyeron en el sonido de los grandes intérpretes del siglo.
+
+- **Hermann Hauser I** (1882–1952) fue el principal difusor del modelo Torres en Centroeuropa. Sus guitarras, de construcción ligera y gran respuesta dinámica, fueron las preferidas por Andrés Segovia durante décadas.
+- **José Ramírez III** (1922–1995) introdujo innovaciones como el uso de cedro en lugar de abeto para la tapa armónica, logrando un sonido más redondo y potente que caracterizó a la llamada "escuela madrileña". Su modelo "1a" fue utilizado por Segovia, Romero y Bream.
+- **Ignacio Fleta** (1897–1977) desarrolló un sistema de varetaje asimétrico que proporcionaba gran proyección sonora, muy valorado por guitarristas como John Williams.
+- **Robert Bouchet** (1898–1986) y **Daniel Friederich** (n. 1932) desarrollaron la escuela francesa de construcción, caracterizada por un sonido equilibrado y refinado.
+
+En las últimas décadas del siglo XX y principios del XXI, han surgido nuevas tendencias constructivas:
+
+- **Guitarras de doble tapa** (doble fondo o *double top*): desarrolladas por luthiers como **Matthias Dammann** (Alemania), que incorporan una capa intermedia de Nomex entre dos finas capas de madera, logrando mayor volumen y proyección con menor peso. Ha sido utilizada por intérpretes como David Russell.
+- **Guitarras de malla o lattice bracing**: introducidas por **Greg Smallman** (Australia), sustituyen el varetaje en abanico por una estructura de barras cruzadas que permite una tapa más fina y un sonido mucho más potente. Ha sido utilizada por John Williams y otros guitarristas contemporáneos.
+- **Guitarras de fibra de carbono**: constructores como **Gary Southwell** y **Kenny Hill** han experimentado con materiales compuestos para lograr mayor estabilidad y resistencia a los cambios de humedad y temperatura.
+
+A finales del siglo XX, la guitarra ha ampliado su presencia en géneros como el jazz, el flamenco, la música popular y las músicas del mundo, consolidándose como un instrumento global.
+
 # Diferentes escuelas de construcción
 - La guitarra española más antigua conocida data de ==1581== y fue construida por **Belchior Dias**.
 - Antes del siglo XVIII es difícil identificar diferencias claras entre las escuelas de construcción. A partir de ese siglo, se pueden distinguir rasgos propios entre escuelas españolas y extranjeras.
@@ -135,18 +153,36 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 - Ángel Benito: guitarras estilo francés.
 - Paulino Bernabé, Paco Santiago Marín, entre otros.
 
-## **Otros constructores importantes fuera de España:**
-- Gilbert (Estados Unidos).
-- Vogt (Alemania).
+## **Escuela alemana:**
+La tradición constructiva alemana se remonta al siglo XIX con **Johann Georg Stauffer** (1778–1853), cuyas guitarras presentaban un mecanismo de afinación característico y una forma de clavijero que influyó en el diseño posterior de la guitarra. Su discípulo **Christian Friedrich Martin** emigró a Estados Unidos y fundó la marca C. F. Martin & Company, pionera en la construcción de guitarras acústicas. En el siglo XX, **Hermann Hauser I** (1882–1952) elevó la construcción guitarrística alemana al máximo nivel, basándose en el modelo de Torres y creando instrumentos de extraordinaria calidad, utilizados por Andrés Segovia. La tradición fue continuada por su hijo **Hermann Hauser II** y su nieto **Hermann Hauser III**. También destacan **Edgar Mönch**, **Richard Jacob "Weissgerber"** y **Gerhard Oldiges**.
+
+## **Otras escuelas internacionales:**
+- **Escuela austriaca / vienesa**: Destaca **Johann Georg Stauffer** y sus colaboradores. Caracterizada por guitarras con clavijero tipo "Schwanenhals" (cuello de cisne) y formas estilizadas.
+- **Escuela francesa del siglo XX**: **Robert Bouchet** (1898–1986) y **Daniel Friederich** (n. 1932), ambos también pintores, desarrollaron un modelo de guitarra de concierto de gran refinamiento y equilibrio tímbrico.
+- **Escuela británica**: **David Rubio** (1934–2000) fue uno de los luthiers más influyentes del Reino Unido, constructor de guitarras para Julian Bream. Le siguieron **Paul Fischer** y **Gary Southwell**.
+- **Escuela australiana**: **Greg Smallman** (n. 1947) revolucionó la construcción guitarrística con su sistema de *lattice bracing*, creando guitarras de gran potencia sonora utilizadas por John Williams.
+- **Escuela norteamericana**: Además de **C. F. Martin**, constructores como **Gilbert**, **John Gilbert**, **Thomas Humphrey** (creador del *Millennium model*) y **Kenny Hill** destacan en la construcción artesanal de guitarras de concierto.
+
+## **Evolución reciente de la construcción (siglos XX–XXI):**
+La guitarra clásica ha experimentado en las últimas décadas una diversificación notable en materiales y técnicas constructivas:
+- **Doble tapa** (*double top*): dos láminas de madera con un núcleo de Nomex, desarrollada por **Matthias Dammann**.
+- **Lattice bracing**: sistema de varetaje reticular de **Greg Smallman**.
+- **Materiales compuestos**: fibras de carbono y kevlar, utilizados por **Gary Southwell** y **Ryoji Matsuoka** para guitarras de exterior y conciertos en condiciones extremas.
+- **Guitarra flamenca**: variante constructiva con tapa de ciprés o palosanto, varetaje más ligero y acción de cuerdas más baja, desarrollada por constructores como **Santos Hernández** y **Manuel Reyes**.
 
 # Bibliografía
-#TODO 
-- Gimeno García, Julio. “Escuela de París. La guitarra en París durante el periodo Clásico-Romántico.” _Revista 8 Sonoro_, Año 2, no. 2 (año): páginas.
-- Matlik, Heiki. _Handbook of Guitar and Lute Composers_. Lugar de publicación: Editorial, 2010.
-- Ramos Altamira, Ignacio. _Historia de la guitarra y los guitarristas españoles_. Lugar de publicación: Editorial, 2005.
-- Romanillos, José Luis. _Catálogo de la Exposición Guitarras Antiguas Españolas_. Lugar de publicación: Editorial, 1990.
-- Romanillos, José Luis. _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_. Lugar de publicación: Editorial, 1989.
-- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. Lugar de publicación: Editorial, 1976.
-- Tyler, James. _The Early Guitar_. Lugar de publicación: Editorial, 1980.
-- Viglietti, Cedar. _Origen e historia de la guitarra_. Lugar de publicación: Editorial, 1976.
-- Wade, Graham. _Traditions of the Classical Guitar_. Lugar de publicación: Editorial, 1980.
+
+#REVISAR_OPENCODE
+
+- Gimeno García, Julio. «Escuela de París. La guitarra en París durante el periodo Clásico-Romántico.» *Revista 8 Sonoro*, Año 2, n.º 2.
+- Heck, Thomas F. 2013. Mauro Giuliani: A Life for the Guitar. Soundboard Scholar.
+- Matlik, Heiki. 2010. *Handbook of Guitar and Lute Composers*. Pacific: Mel Bay Publications.
+- Ramos Altamira, Ignacio. 2005. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario.
+- Romanillos, José Luis. 1990. *Catálogo de la Exposición Guitarras Antiguas Españolas*. Madrid: Sociedad Estatal para la Acción Cultural Exterior.
+- Romanillos, José Luis. 1989. *El guitarrero español y su contribución en el desarrollo de la guitarra de concierto*. Madrid: Editorial Alpuerto.
+- Romanillos, José Luis, y Marian Harris Winspear. 2004. *Antonio de Torres: Guitar Maker: His Life and Work*. Westport, CT: The Bold Strummer.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. London: Batsford.
+- Tyler, James. 1980. *The Early Guitar: A History and Handbook*. London: Oxford University Press.
+- Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Albatros.
+- Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder Publications.
+- Wade, Graham. 2001. *A Concise History of the Classic Guitar*. Pacific: Mel Bay Publications.
