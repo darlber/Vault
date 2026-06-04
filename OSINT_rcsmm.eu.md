@@ -133,15 +133,17 @@ Tel: +34 91 539 29 01
 
 ## 6. Plataformas y tecnologías
 
-| Componente | Tecnología |
-|---|---|
-| CMS | **Drupal 9** |
-| Servidor web | **Apache** |
-| E-learning | **Moodle** (en `moodle.rcsmm.eu`) |
-| Gestión académica | WebUntis (enlace en web, no subdominio propio) |
-| Gestión documental | CODEX (enlace en web, no subdominio propio) |
-| Intranet | Servicio interno (`intranet.rcsmm.eu`) |
-| Seguridad | HSTS habilitado, DMARC en cuarentena, SPF -all |
+| Componente | Tecnología | Estado |
+|---|---|---|
+| CMS (web principal) | **Drupal 9** | EOL desde nov 2023 |
+| Servidor web | **Apache** | Sin versión expuesta |
+| Backend PHP | **PHP 5.6.38** — `5.6.38-0+deb8u1` | **EOL desde dic 2018** |
+| Sistema operativo | **Debian 8 (Jessie)** | **EOL desde jun 2020** |
+| E-learning | **Moodle ~2.7.x** (YUI 3.13.0, theme `overlay`) | **EOL desde nov 2015** |
+| Gestión académica | WebUntis (enlace, no subdominio propio) | — |
+| Gestión documental | CODEX (enlace, no subdominio propio) | — |
+| Intranet | Servicio interno (`intranet.rcsmm.eu`) | Sin VPN aparente |
+| Seguridad | HSTS habilitado, DMARC en cuarentena, SPF -all | Mejorable |
 
 ## 7. Historial y referencias externas
 
@@ -174,26 +176,34 @@ Tel: +34 91 539 29 01
 | V4 | **Intranet accesible desde internet** | Medio | `intranet.rcsmm.eu` es accesible sin VPN aparente. Una intranet corporativa expuesta incrementa la superficie de ataque frente a autenticación, sesiones y vulnerabilidades web. |
 | V5 | **Sin registro CAA** | Bajo | Cualquier CA puede emitir certificados SSL para `rcsmm.eu`. Un CAA restringiría la emisión a una o varias CA autorizadas, mitigando la emisión fraudulenta. |
 | V6 | **Drupal 9 sin versión visible** | Medio | No se pudo determinar la versión exacta de Drupal 9. Drupal 9 llegó a su EOL (End of Life) en noviembre de 2023. Si el sitio no ha migrado a Drupal 10+ o aplicado parches de seguridad extendidos, podría estar expuesto a CVEs conocidos. |
-| V7 | **Moodle expuesto con versión no determinada** | Medio | `moodle.rcsmm.eu` es una plataforma Moodle. Moodle tiene un historial de CVEs críticos (RCE, XSS, SQLi). Sin conocer la versión exacta, no se puede descartar riesgo. |
+| V7 | **Moodle ~2.7.x (EOL 2015) — ~11 años sin parches** | **Crítico** | `moodle.rcsmm.eu` ejecuta **Moodle 2.7.x** (detectado por YUI 3.13.0, theme `overlay`, y jsrev de 2014). Su EOL fue noviembre 2015. Acumula **+150 CVEs conocidos** no parcheados, incluyendo RCE (CVE-2017-2641, CVSS 9.8), SQLi, XSS y CSRF masivos. |
 | V8 | **Cadenas TXT de verificación sin propósito claro** | Bajo | Cuatro registros TXT con cadenas aleatorias (`ls86y0hdz3l881ws89g4592m4qc52s6w`, etc.). Podrían ser verificaciones de servicios externos olvidadas (CDN, SaaS). Riesgo de subdomain takeover si alguno apunta a un servicio dado de baja. |
 | V9 | **Sin IPv6 en web principal** | Bajo | `rcsmm.eu` no tiene registro AAAA. Aunque no es una vulnerabilidad, es una carencia de redundancia y accesibilidad. |
 | V10 | **Cabecera Server expuesta** | Bajo | Apache revela su presencia en las cabeceras HTTP. Permite fingerprinting para ataques dirigidos a versiones específicas. |
+| V11 | **PHP 5.6.38 (EOL 2018) — 7+ años sin parches** | **Crítico** | Cabecera `X-Powered-By: PHP/5.6.38-0+deb8u1` revela PHP 5.6.38 sobre Debian 8 (Jessie). PHP 5.6 EOL: dic 2018. Vulnerable a RCE por deserialización (CVE-2016-7124, CVSS 9.8; CVE-2016-5771, CVSS 9.8; CVE-2016-5768, CVSS 9.8), inyección de comandos vía `imap_open` (CVE-2018-19518), y cientos de CVEs más. Sin parches de seguridad desde 2018. |
+| V12 | **Debian 8 (Jessie) EOL 2020 — 6+ años sin parches** | **Crítico** | El sistema operativo del servidor Moodle es Debian 8 (Jessie), EOL desde junio 2020. Sin actualizaciones de seguridad del kernel, OpenSSL, libc, Apache, etc. Cualquier CVE publicado post-2020 en estos componentes es explotable. |
 
 ### 9.2 Recomendaciones de seguridad
 
-#### Prioridad crítica
+#### Prioridad crítica — Actuación inmediata (riesgo de compromiso total)
 
-1. **Implementar DKIM** — Crear un par de claves y publicar el registro TXT `selector._domainkey.rcsmm.eu`. Firmar todo el correo saliente. Esto cierra el vector de spoofing más grave.
+1. **Aislar y migrar Moodle urgentemente** — El servidor `moodle.rcsmm.eu` ejecuta **PHP 5.6.38 sobre Debian 8**, ambos EOL desde hace años. Esto lo expone a RCE remoto sin autenticación mediante vectores como deserialización, `imap_open`, o vulnerabilidades del kernel. Acción inmediata:
+   - Poner el servicio en mantenimiento o detenerlo.
+   - Migrar a un servidor con PHP 8.x y Debian 12/Ubuntu 22.04+.
+   - Actualizar Moodle a la versión 4.x estable más reciente.
+   - Auditoría forense del sistema para detectar posibles compromisos previos.
 
-2. **Subir DMARC a `p=reject`** — Una vez validado que DKIM y SPF funcionan correctamente (sin falsos positivos), cambiar la política de cuarentena a rechazo. Añadir informes de agregados (`rua`) para monitorizar.
+2. **Implementar DKIM** — Crear un par de claves y publicar el registro TXT `selector._domainkey.rcsmm.eu`. Firmar todo el correo saliente. Esto cierra el vector de spoofing más grave.
+
+3. **Subir DMARC a `p=reject`** — Una vez validado que DKIM y SPF funcionan correctamente (sin falsos positivos), cambiar la política de cuarentena a rechazo.
 
 #### Prioridad alta
 
-3. **Restringir acceso a FTP e Intranet** — Configurar lista blanca de IPs (solo rangos de la Comunidad de Madrid o VPN corporativa) para `ftp.rcsmm.eu` e `intranet.rcsmm.eu`. Idealmente, eliminar resolución DNS pública de estos servicios o migrarlos a una VPN.
+4. **Restringir acceso a FTP e Intranet** — Configurar lista blanca de IPs (solo rangos de la Comunidad de Madrid o VPN corporativa) para `ftp.rcsmm.eu` e `intranet.rcsmm.eu`. Idealmente, eliminar resolución DNS pública de estos servicios o migrarlos a una VPN.
 
-4. **Migrar Drupal a versión soportada** — Drupal 9 llegó a su fin de vida útil. Migrar a Drupal 10 o 11, o contratar soporte de seguridad extendido. Auditoría de módulos y temas.
+5. **Migrar Drupal a versión soportada** — Drupal 9 llegó a su fin de vida útil. Migrar a Drupal 10 o 11, o contratar soporte de seguridad extendido. Auditoría de módulos y temas.
 
-5. **Auditar plataforma Moodle** — Determinar versión exacta, aplicar parches de seguridad, deshabilitar plugins no utilizados, y restringir acceso administrativo por IP.
+6. **Auditar plataforma Moodle** — Tras la migración urgente, asegurar configuración: deshabilitar plugins no utilizados, restringir acceso administrativo por IP, activar autenticación multifactor.
 
 #### Prioridad media
 
@@ -219,14 +229,32 @@ Tel: +34 91 539 29 01
 | **Open ports** | Escaneo SYN de `62.97.84.197` y `213.172.39.24` para identificar puertos abiertos no documentados. |
 | **Pentest web** | Pruebas de XSS, SQLi, CSRF, y autenticación en `intranet.rcsmm.eu` y `webmail.rcsmm.eu` (con autorización). |
 
-### 9.4 Resumen de riesgos
+### 9.4 CVEs críticos específicos del stack Moodle
+
+| CVE | Componente | CVSS | Descripción |
+|---|---|---|---|
+| **CVE-2017-2641** | Moodle 2.x/3.x | **9.8** | SQL injection vía preferencias de usuario. RCE potencial. |
+| **CVE-2016-7124** | PHP 5.6.x < 5.6.25 | **9.8** | Use-after-free en `unserialize()`. RCE remoto sin autenticar. |
+| **CVE-2016-5771** | PHP 5.6.x < 5.6.23 | **9.8** | Use-after-free en SPL `unserialize()`. RCE remoto. |
+| **CVE-2016-5768** | PHP 5.6.x < 5.6.23 | **9.8** | Doble liberación en mbstring. RCE remoto. |
+| **CVE-2016-5773** | PHP 5.6.x < 5.6.23 | **9.8** | Use-after-free en zip `unserialize()`. RCE remoto. |
+| **CVE-2018-19518** | PHP 5.6.x < 5.6.39 | **9.8** | Inyección de comandos vía `imap_open()`. RCE remoto. |
+| **CVE-2016-4538** | PHP 5.6.x < 5.6.21 | **9.8** | Modificación de estructuras en `bcpowmod()`. RCE potencial. |
+| **CVE-2015-6836** | PHP 5.6.x < 5.6.13 | **9.8** | Type confusion en `SoapClient`. RCE vía serialización. |
+| CVE-2015-5266 | Moodle 2.7.x < 2.7.10 | 8.8 | SQL injection en meta enrolment. Escalada a manager. |
+| CVE-2016-2192 | Moodle 2.7.x < 2.7.12 | 8.1 | Escalada de privilegios por validación incorrecta de capabilities. |
+
+> **Nota**: La lista anterior cubre solo los CVSS 9.8 (críticos) del stack. Existen **cientos de CVEs adicionales** no parcheados por la falta total de actualizaciones desde 2015 (Moodle), 2018 (PHP) y 2020 (Debian).
+
+### 9.5 Resumen de riesgos
 
 ```
 Criticidad          Hallazgos
 ───────────────────────────────────────
-Crítico           │ V1 (Sin DKIM)
+Crítico           │ V7 (Moodle 2.7 EOL +150 CVEs), V11 (PHP 5.6 EOL), V12 (Debian 8 EOL)
+                  │ V1 (Sin DKIM)
 Alto              │ V2 (DMARC quarantine), V3 (FTP expuesto), V4 (Intranet expuesta),
-                  │ V6 (Drupal EOL), V7 (Moodle sin auditar)
+                  │ V6 (Drupal EOL)
 Medio             │ V5 (Sin CAA), V8 (TXT huérfanos)
 Bajo              │ V9 (Sin IPv6), V10 (Server header)
 ```
