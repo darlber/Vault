@@ -15,6 +15,7 @@
 - Descripción general del objetivo: Real Conservatorio Superior de Música de Madrid (RCSMM) — principal centro público de educación musical superior de España, fundado en 1830 por la reina María Cristina
 - Actividad principal: Formación profesional de músicos (intérpretes, directores, compositores, musicólogos, pedagogos). Imparte Grado, Máster y Doctorado en el marco del EEES
 - Presencia online: Web principal (rcsmm.eu), Campus Virtual Moodle (moodle.rcsmm.eu), Intranet corporativa (intranet.rcsmm.eu), Webmail (webmail.rcsmm.eu)
+- Plataformas externas: CODEX (codex.pro — gestión académica y notas), WebUntis (rcsmm.webuntis.com — horarios públicos con nombres de profesores)
 
 ### 2.2 Apariciones destacadas en los medios
 - Noticias relevantes: Institución centenaria (1830), referente en enseñanza musical en España. Múltiples conciertos y masterclasses públicas publicadas en su web
@@ -24,11 +25,15 @@
 ### 2.3 Contacto y redes sociales
 - Página web oficial: https://rcsmm.eu
 - Redes sociales:
-  - Twitter/X: No detectado
-  - Instagram: No detectado
+  - Twitter/X: https://x.com/RCSMM_oficial — Perfil oficial verificado (@RCSMM_oficial)
+  - Instagram: https://www.instagram.com/conservatorio_superior_madrid — Perfil oficial
   - LinkedIn: No detectado
   - Facebook: No detectado
-- Otros canales: Webmail (webmail.rcsmm.eu), Campus Virtual Moodle (moodle.rcsmm.eu)
+- Otros canales: Webmail (webmail.rcsmm.eu), Campus Virtual Moodle (moodle.rcsmm.eu), Gestor de Citas (rcsmm_citas.scncloud.com), Registro de Trabajos de Alumnos (rta.rcsmm.eu)
+- Plataformas externas:
+  - **CODEX** (https://www.codex.pro/) — Gestión académica y calificaciones de alumnos. Plataforma externa de la empresa valenciana Codex (C/ Palleter 11, 46008 Valencia). Sistema SaaS con login.
+  - **WebUntis** (https://rcsmm.webuntis.com/) — Horario público. Sin autenticación lista horarios completos con nombres de profesores, asignaturas, aulas y grupos.
+- Teléfono: +34 91 539 29 01 | Fax: +34 91 527 52 22
 
 ---
 
@@ -44,6 +49,7 @@
 - Información financiera pública: Centro público sostenido por fondos públicos. Menciona cofinanciación de la Unión Europea y del SEPIE para programas Erasmus+
 - Informes anuales: No localizados en fuentes abiertas
 - Subvenciones / ayudas (si aplica): Participa en programas Erasmus+ (Erasmus Charter for Higher Education). Fondo Social Europeo mencionado en web
+- Afiliaciones: Miembro de AEC (Association Européenne des Conservatoires)
 
 ---
 
@@ -52,7 +58,9 @@
 ### 4.1 Direcciones IP
 - IP principal del dominio: `62.97.84.197` (web pública rcsmm.eu)
 - IPs asociadas: `213.172.39.24` (servicios internos: mail, moodle, intranet, ftp, webmail)
+- IP dominio secundario: `81.169.145.158` (rcsmm.es — email profesorado, Strato AG, Alemania)
 - Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026)
+- Dominio secundario `rcsmm.es`: Nameservers `docks10.rzone.de` / `shades03.rzone.de` (Strato)
 
 ### 4.2 Servidor
 
@@ -62,7 +70,8 @@
 
 #### 4.2.2 Servidor
 - Hosting: Servytec Networks S.L. (AS196713) para servicios (213.172.39.24) / COLT Technology Services (AS8220) para web pública (62.97.84.197)
-- Ubicación aproximada: Madrid, España
+- Hosting secundario: Strato AG (81.169.145.158) para rcsmm.es (email profesorado)
+- Ubicación aproximada: Madrid, España / Frankfurt, Alemania (rcsmm.es)
 
 #### 4.2.3 Vulnerabilidades
 - Solo fuentes públicas (CVE, informes, etc.):
@@ -86,6 +95,8 @@
 - Librerías: Apache httpd
 - Analíticas: No detectadas
 - CDN: No detectada
+- Servicios externos: scncloud.com (gestor de citas), EducaMadrid, WebUntis (rcsmm.webuntis.com — horarios públicos sin autenticación), CODEX (codex.pro — gestión académica y notas de alumnos)
+- Plataformas propias: rta.rcsmm.eu (Registro de Trabajos de Alumnos)
 
 ---
 
@@ -107,10 +118,12 @@
   - Esteban Algora — Coordinador Erasmus (erasmus@rcsmm.eu)
   - María Gonzalez-Moral — Asistente coordinación Erasmus
   - César Ausejo — Jefe de estudios Erasmus (jefestudio4@rcsmm.eu)
+  - Isabel Menéndez — Jefa de Secretaría
+  - Patricia Arbolí — Secretaria
   - Profesorado del Departamento de Cuerda listado públicamente en web (25+ profesores con nombre completo y especialidad)
 
 #### 5.2.2 Redes sociales
-- Perfiles corporativos relevantes: No detectados
+- Perfiles corporativos relevantes: @RCSMM_oficial (X/Twitter), @conservatorio_superior_madrid (Instagram)
 - Perfiles profesionales asociados: No se realizó búsqueda específica de perfiles individuales
 
 #### 5.2.3 Otros registros
@@ -127,13 +140,19 @@
 #### 6.1.1 Emails corporativos
 - Correos publicados en web oficial:
   - `infosecre@rcsmm.eu` — Secretaría académica / contacto general
+  - `info@rcsmm.eu` — Contacto general (según AEC)
   - `erasmus@rcsmm.eu` — Coordinación Erasmus
   - `dmarc-analysis@rcsmm.eu` — Informes agregados DMARC (RUA)
   - `dmarc-forensics@rcsmm.eu` — Informes forenses DMARC (RUF)
-- Formatos detectados: `nombre@rcsmm.eu`
+- Formatos detectados: `nombre@rcsmm.eu` (administrativo) / `nombre.apellido@rcsmm.es` (profesorado, sobre Office 365 / Exchange Online)
 
-#### 6.1.2 Emails ajenos a la empresa
-- Solo si son públicos y relevantes: No aplica
+### 6.1.2 Dominio secundario identificado
+- `rcsmm.es` — Dominio separado para email del profesorado
+- Patrón de correo: `nombre.apellido@rcsmm.es` (ej: Javier Somoza → `javier.somozadepablo@rcsmm.es`)
+- Infraestructura: Hosting en Strato AG (Alemania), correo en Microsoft 365 / Exchange Online (Outlook)
+- SPF: `v=spf1 include:spf.protection.outlook.com -all`
+- Verificación Microsoft: `MS=ms87766292`
+- **Implicación OSINT**: Conociendo la lista de profesores (25+ nombres del Departamento de Cuerda), se puede inferir el correo de cualquier docente del centro.
 
 ### 6.2 Metadatos
 - Documentos analizados: No se descargaron documentos para análisis de metadatos
@@ -153,6 +172,9 @@
   - FTP e Intranet accesibles desde internet sin restricción aparente
   - Moodle expone `jsrev` y `themerev` que permiten fingerprinting de versión
   - Listados públicos de profesorado con nombre completo y especialidad
+  - WebUntis público expone horarios completos de todos los profesores, aulas y grupos sin autenticación
+  - Patrón de correo `nombre.apellido@rcsmm.es` permite enumerar emails de cualquier docente del centro fácilmente
+  - Dos dominios separados (rcsmm.eu / rcsmm.es) con infraestructura diferente y sin coordinación de seguridad visible
 
 - Buenas prácticas detectadas:
   - HSTS activo con `max-age=63072000` (2 años)
