@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones TAI/Tema 10. Informática básica.md",
+                "file": "Oposiciones TAI/Tema 11. Periféricos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 10. Informática básica"
+              "title": "Tema 11. Periféricos"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones TAI/Tema 10. Informática básica.md",
+                "file": "Oposiciones TAI/Tema 11. Periféricos.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 10. Informática básica"
+              "title": "Outline of Tema 11. Periféricos"
             }
           },
           {
@@ -200,13 +200,19 @@
   },
   "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
-    "Oposiciones TAI/Tema 11. Periféricos.md",
-    "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
-    "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
+    "Oposiciones TAI/Índice.md",
+    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
+    "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+    "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
+    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
+    "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
     "Oposiciones TAI/Tema 6. La sociedad de la información. Identidad y firma electrónica, régimen jurídico. El DNI electrónico. La Agenda Digital para España.md",
     "Oposiciones TAI/Tema 7. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
-    "OSINT.md",
+    "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
+    "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
     "Oposiciones TAI/Tema 10. Informática básica.md",
+    "Oposiciones TAI/Tema 11. Periféricos.md",
+    "OSINT.md",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
     "osint_ct.md",
@@ -217,7 +223,6 @@
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Threat Intelligence TTPs.md",
     "CyberTesting/Linux Privilege Scalation.md",
-    "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
     "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
@@ -229,14 +234,9 @@
     "Oposiciones TAI/attachments/{F1A0616F-7359-4C82-B60E-2BF19C20FD47}.png",
     "Oposiciones TAI/attachments/{1D7B50D5-A41A-44E6-BBE5-DAC4FA41F4A6}.png",
     "Oposiciones TAI/attachments/{6B126EB5-4EBC-414F-AE35-071A18ECDE28}.png",
-    "Oposiciones TAI/Índice.md",
     "Fichas de vulnerabilidades.md",
     "Oposiciones TAI/Tema 6. Revisar con Tema6.md",
-    "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
-    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
-    "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
     "Oposiciones TAI/attachments",
-    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
     "README.md",
     "Music/Miscelánea",
     "Proyecto/Phases.canvas",
