@@ -133,13 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones TAI/Flashcards - Tema 1.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Flashcards - Tema 1"
+              "title": "Outline"
             }
           },
           {
@@ -177,9 +176,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "74e6a2710cd0eafa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -195,13 +204,15 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "74e6a2710cd0eafa",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Programación Didáctica.md",
+    "Oposiciones TAI/Flashcards - Tema 2.md",
     "Oposiciones TAI/Flashcards - Tema 1.md",
+    "Oposiciones Guitarra/Programación Didáctica.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Oposiciones Guitarra/0. Temas Oposiciones.md",
@@ -226,7 +237,6 @@
     "CyberTesting/Read_Teaming_TTPs/Web Application TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Linux TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Mac_OS TTPs.md",
-    "CyberTesting/Read_Teaming_TTPs/Threat Intelligence TTPs.md",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
     "Oposiciones TAI/attachments/{EA0AF256-3735-40BB-97EB-E58D75AE8A37}.png",
