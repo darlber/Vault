@@ -20,6 +20,13 @@ Aunque clasificar los datos puede llegar a ser un concepto subjetivo, existen al
 - **Datos numéricos**
 - **Datos alfabéticos**
 - **Datos alfanuméricos** (aúnan letras y números)
+### 1.3 Tipos de datos
+Los tipos de datos se clasifican según la naturaleza de la información que almacenan:
+- **Numéricos enteros** (integer): números sin parte decimal (ej. 42, -7, 0).
+- **Numéricos reales o coma flotante** (float/double): números con parte decimal (ej. 6,21; -3,14). Se representan según el estándar IEEE 754.
+- **Booleanos** (bool): valores lógicos Verdadero/Falso. Se usan en condiciones y operaciones lógicas (AND, OR, NOT).
+- **Carácter** (char): símbolo único (letra, dígito, signo). Se codifica mediante ASCII o Unicode.
+- **Cadena** (string): secuencia de caracteres que forman texto.
 ### Información
 Se puede entender como información a un conjunto de datos significativos (contienen información relevante, propósito y contexto), que contienen símbolos reconocibles y están completos, expresando una idea sin ambigüedad.
 La información debe cumplir lo siguiente:
@@ -162,6 +169,21 @@ Variación de la arquitectura Harvard que permite que los contenidos de la memor
 - La memoria de instrucciones y datos ocupan diferentes espacios de direcciones.
 - La memoria de instrucciones y datos accede a la CPU por buses distintos.
 - La memoria de instrucciones y datos pueden ser accedidas de diferente manera.
+## 3.3 Taxonomía de Flynn
+Clasificación de arquitecturas de computadores propuesta por Michael J. Flynn en 1966, basada en el número de flujos de instrucciones y de datos simultáneos:
+- **SISD** (Single Instruction, Single Data): un único flujo de instrucciones y un único flujo de datos. Arquitectura secuencial clásica (ordenadores Von Neumann tradicionales, PCs mononúcleo).
+- **SIMD** (Single Instruction, Multiple Data): una misma instrucción se aplica simultáneamente a múltiples datos. Ejemplos: procesadores vectoriales, GPUs, extensiones MMX/SSE/AVX.
+- **MISD** (Multiple Instruction, Single Data): múltiples instrucciones operan sobre el mismo dato. Poco común; usado en sistemas tolerantes a fallos con redundancia.
+- **MIMD** (Multiple Instruction, Multiple Data): múltiples instrucciones ejecutándose simultáneamente sobre múltiples datos. Es la categoría de los multiprocesadores, clusters y procesadores multinúcleo actuales.
+## 3.4 Segmentación de instrucciones (pipelining)
+Técnica de diseño de procesadores que divide la ejecución de cada instrucción en fases independientes, permitiendo que varias instrucciones se solapen en el tiempo.
+Fases clásicas del pipeline de 5 etapas:
+1. **IF** (Instruction Fetch): búsqueda de la instrucción en memoria.
+2. **ID** (Instruction Decode): decodificación y lectura de registros.
+3. **EX** (Execute): ejecución de la operación o cálculo de dirección.
+4. **MEM** (Memory Access): acceso a memoria de datos.
+5. **WB** (Write Back): escritura del resultado en el registro destino.
+Ventaja: aumenta el rendimiento (throughput) al mantener ocupadas todas las etapas del procesador. Desventaja: pueden aparecer riesgos (hazards) estructurales, de datos y de control que requieren técnicas de gestión (burbujas, forwarding, predicción de saltos).
 # 4. Generaciones de ordenadores
 Desde mediados del siglo XX hasta finales de la década de los ochenta, los avances tecnológicos se suceden sin cesar.
 A lo largo de este periodo se diferencian ciertas etapas denominadas generaciones de ordenadores, definidas principalmente por:
@@ -521,6 +543,63 @@ Sucesor de la BIOS. Escrito en C y con arquitectura moderna. Mejora el arranque,
 - Conectividad: UEFI puede actualizarse vía red.
 - Compatibilidad: UEFI permite extensiones y mayor flexibilidad.
 - UEFI permite esquemas de particionado GPT, lo que habilita hasta 128 particiones por disco y capacidades teóricas muy altas (del orden de ZB). BIOS usa MBR, con un máximo de 4 particiones primarias por disco y un límite de 2,2 TB.
+## 5.4.4 Memoria Caché
+La memoria caché es una memoria de alta velocidad y pequeña capacidad que almacena copias de datos e instrucciones de uso frecuente, situada entre la CPU y la memoria RAM. Su objetivo es reducir el tiempo medio de acceso a memoria aprovechando el principio de localidad (temporal y espacial).
+Niveles de caché:
+- **Caché L1**: integrada en el núcleo del procesador. Es la más rápida y de menor capacidad (16-128 KB por núcleo). Suele dividirse en L1d (datos) y L1i (instrucciones).
+- **Caché L2**: puede estar integrada en el procesador o en un chip separado. Mayor capacidad que L1 (256 KB - 1 MB por núcleo), pero algo más lenta.
+- **Caché L3**: compartida entre varios núcleos del procesador. Mayor capacidad (varios MB) y más lenta que L2, pero significativamente más rápida que la RAM.
+La jerarquía de velocidad ascendente es: Almacenamiento secundario < RAM < Caché L3 < Caché L2 < Caché L1 < Registros de la CPU.
+## 5.5 Periféricos
+Dispositivos externos conectados al ordenador que permiten la comunicación entre el sistema informático y el exterior. Sin ellos, el ordenador no podría interactuar con el usuario ni con otros sistemas.
+### 5.5.1 Periféricos de entrada
+Permiten introducir datos e instrucciones en el ordenador:
+- **Teclado**: introduce texto y comandos. Puede ser mecánico o de membrana.
+- **Ratón** (mouse): dispositivo apuntador que controla el cursor en la interfaz gráfica. Puede ser óptico o láser.
+- **Escáner**: digitaliza documentos físicos convirtiéndolos en imágenes digitales.
+- **Micrófono**: captura sonido ambiental para su procesamiento digital.
+- **Cámara web** (webcam): captura video e imágenes en tiempo real.
+- **Lápiz óptico**: dispositivo apuntador que permite dibujar o seleccionar elementos directamente sobre la pantalla táctil.
+- **Lector de códigos de barras**: lee códigos de barras ópticos mediante un haz láser.
+- **Tableta digitalizadora**: superficie sensible a la presión que permite dibujar con un lápiz especial.
+- **Escáner de huella dactilar**: lector biométrico para identificación.
+### 5.5.2 Periféricos de salida
+Muestran o transmiten información procesada al usuario:
+- **Monitor** (pantalla): dispositivo de visualización principal. Tecnologías: CRT, LCD, LED, OLED. La resolución se mide en píxeles.
+- **Impresora**: produce copias físicas en papel. Tipos principales: inyección de tinta, láser (tóner), matricial (impacto). La velocidad se mide en ppm (páginas por minuto).
+- **Plotter**: impresora de gran formato para planos técnicos, mapas y diseños CAD (Computer Aided Design). Utiliza plumillas o tecnología de inyección de tinta de gran ancho. Es un periférico de salida especializado.
+- **Altavoces** (speakers): reproducen señales de audio digital convertidas a analógicas mediante un DAC.
+- **Auriculares**: altavoces personales para uso individual. Pueden ser alámbricos o inalámbricos (Bluetooth).
+- **Proyector** (cañón): proyecta imágenes en una pantalla o superficie exterior.
+### 5.5.3 Periféricos mixtos (entrada/salida)
+Realizan simultáneamente funciones de entrada y salida:
+- **Pantalla táctil** (touch screen): integra entrada táctil y salida visual. Detecta la posición del toque mediante tecnología capacitiva o resistiva.
+- **Impresora multifunción**: combina impresión, escaneado, fotocopiado y fax en un único dispositivo.
+- **Tarjeta de red** (NIC): permite la comunicación del ordenador con otros equipos a través de una red. Puede ser Ethernet (cableada) o Wi-Fi (inalámbrica).
+### 5.5.4 Periféricos de almacenamiento
+Almacenan datos de forma permanente o extraíble. También se denominan memorias secundarias o auxiliares:
+- **Disco duro** (HDD): almacenamiento magnético de gran capacidad (hasta varios TB). La información se graba en platos giratorios mediante cabezales de lectura/escritura.
+- **Unidad de estado sólido** (SSD): almacenamiento basado en memorias flash NAND. Más rápido, silencioso y resistente que el HDD, pero con mayor coste por GB.
+- **Unidades ópticas**: CD-ROM (700 MB), DVD (4,7 GB), Blu-ray (25-50 GB). La lectura se realiza mediante un láser.
+- **Memoria USB** (pendrive): almacenamiento flash portátil, conectado mediante puerto USB.
+- **Tarjeta de memoria**: formato compacto usado en cámaras, móviles y tablets (SD, microSD, CompactFlash).
+### 5.5.5 OCR (Reconocimiento Óptico de Caracteres)
+Tecnología que permite convertir imágenes de texto impreso o manuscrito en datos digitales editables. El proceso consta de dos fases: el escáner captura la imagen, y el software OCR analiza las formas de los caracteres, identificándolos y convirtiéndolos en texto codificado (ASCII/Unicode). Sus siglas corresponden a Optical Character Recognition. Se utiliza en digitalización de documentos, escaneado de formularios y reconocimiento de matrículas.
+### 5.5.6 Puertos y conectores
+Interfaces físicas para la conexión de periféricos al ordenador:
+- **USB** (Universal Serial Bus): estándar más extendido. Versiones: USB 2.0 (480 Mbps), USB 3.0 (5 Gbps), USB 3.1/3.2 (10-20 Gbps), USB4 (40 Gbps). Tipos de conector: USB-A, USB-B, USB-C (reversible).
+- **HDMI** (High-Definition Multimedia Interface): transmite audio y video digital de alta definición.
+- **DisplayPort**: interfaz de video digital, alternativa a HDMI, común en monitores de PC.
+- **RJ-45**: conector para redes Ethernet (cable de par trenzado). 8 contactos (8P8C).
+- **Jack de audio** (TRS): conector analógico de 3,5 mm para auriculares y micrófono.
+- **Bluetooth**: tecnología inalámbrica de corto alcance (2,4 GHz) para periféricos (ratón, teclado, auriculares, altavoces).
+## 5.6 Chipset
+Conjunto de circuitos integrados en la placa base que gestionan el tráfico de datos entre el procesador, la memoria, los periféricos y otros componentes. En diseños tradicionales se estructura en dos bloques funcionales:
+- **Northbridge** (puente norte): gestiona los componentes de alta velocidad: comunicación entre CPU y RAM, controlador gráfico (AGP/PCI Express), y enlace con el Southbridge. Tiene conexión directa con la CPU.
+- **Southbridge** (puente sur): gestiona los periféricos de menor velocidad: controladores IDE/SATA (discos), puertos USB, audio integrado (códec), Ethernet, BIOS/CMOS, reloj en tiempo real (RTC), buses de expansión (PCI, ISA) y Super I/O (puerto serie, paralelo, PS/2).
+En procesadores modernos (Intel Core, AMD Ryzen), el controlador de memoria y las líneas PCI Express están integrados en la propia CPU, por lo que el Northbridge tradicional ha desaparecido o se ha integrado en el procesador, quedando un único chip similar al Southbridge (Platform Controller Hub en Intel, Fusion Controller Hub en AMD).
+## 5.7 Plug and Play (PnP)
+Tecnología que permite al sistema operativo detectar y configurar automáticamente los dispositivos hardware conectados al ordenador, sin intervención manual del usuario. El sistema asigna automáticamente los recursos necesarios (IRQ, direcciones de E/S, canales DMA) y carga el controlador (driver) adecuado. Solo es necesario conectar físicamente el dispositivo para que funcione. Introducido por Microsoft a partir de Windows 95, actualmente es un estándar en todos los sistemas operativos modernos (compatible con USB, PCI Express, SATA, etc.).
 # 6. MEDIDAS DE CAPACIDAD DE MEMORIA
 
 | Unidad | Descripción |
@@ -610,3 +689,97 @@ EBCDIC (Extended Binary Coded Decimal Interchange Code) es un código de 8 bits 
 - 8 bits por carácter (256 combinaciones posibles).
 - Incluye caracteres alfanuméricos, de control y signos de puntuación.
 - Existen múltiples versiones (code pages) incompatibles entre sí.
+
+# 9. SISTEMAS OPERATIVOS
+El sistema operativo (SO) es el conjunto de programas que gestionan los recursos del hardware y proporcionan servicios a las aplicaciones de software. Es el software base sobre el que se ejecutan el resto de programas.
+## 9.1 Funciones del sistema operativo
+- **Gestión de procesos**: creación, suspensión, reanudación y eliminación de procesos. Planificación (scheduling) del uso de la CPU.
+- **Gestión de memoria**: asignación y liberación de memoria para los procesos. Gestión de memoria virtual (pagínación, segmentación).
+- **Gestión de archivos**: creación, lectura, escritura, borrado y control de acceso a archivos y directorios. Implementación del sistema de archivos (file system).
+- **Gestión de entrada/salida**: control de dispositivos periféricos mediante controladores (drivers) y gestión de interrupciones.
+- **Gestión de seguridad y protección**: control de acceso de usuarios, autenticación (contraseñas, biométricos), permisos de archivos.
+- **Interfaz de usuario**: proporciona un medio de comunicación entre el usuario y el ordenador (línea de comandos o interfaz gráfica GUI).
+## 9.2 Clasificación de los sistemas operativos
+- **Por número de usuarios**: monotarea (un solo usuario) o multitarea (varios usuarios simultáneos).
+- **Por número de tareas**: monotarea (una tarea a la vez) o multitarea (varias tareas concurrentes).
+- **Por número de procesadores**: uniprocesador o multiprocesador (simétrico SMP o asimétrico AMP).
+- **Por tipo de interfaz**: línea de comandos (CLI) o interfaz gráfica (GUI).
+- **Por tiempo de respuesta**: tiempo real (determinista) o tiempo compartido (round-robin).
+## 9.3 Ejemplos de sistemas operativos
+- **Windows**: SO de Microsoft para PC (Windows 10, Windows 11), servidores (Windows Server) y dispositivos móviles (Windows Mobile, ya discontinuado).
+- **Linux**: SO de código abierto basado en Unix. Distribuciones: Ubuntu, Debian, Fedora, CentOS, Red Hat Enterprise Linux. Usado extensamente en servidores y supercomputación.
+- **macOS**: SO de Apple para ordenadores Macintosh. Basado en Unix (kernel XNU). Versiones: macOS Sonoma, Sequoia. Interfaz gráfica Aqua.
+- **Android**: SO móvil de Google basado en kernel Linux. Utilizado por la mayoría de fabricantes de smartphones y tablets.
+- **iOS**: SO móvil de Apple para iPhone, iPad y iPod Touch. Basado en Darwin (Unix).
+## 9.4 Sistemas de archivos
+Estructura lógica que organiza y almacena los archivos en un dispositivo de almacenamiento:
+- **FAT32** (File Allocation Table): sistema de archivos de Microsoft (Windows 95 OSR2). Soporta particiones de hasta 2 TB y archivos de hasta 4 GB. Compatible con múltiples SO. Usado en memorias USB y tarjetas SD.
+- **NTFS** (New Technology File System): sistema de archivos moderno de Microsoft (Windows NT 3.1 en adelante). Soporta archivos mayores de 4 GB, permisos de seguridad, cifrado (EFS), compresión, cuotas de disco y journaling. Es el sistema nativo de Windows actual.
+- **ext2/ext3/ext4** (Extended File System): sistemas de archivos nativos de Linux. ext4 es el más usado actualmente (soporta volúmenes de hasta 1 EB, archivos de hasta 16 TB y journaling).
+- **HFS+ / APFS**: sistemas de archivos de Apple. APFS (Apple File System) es el actual, optimizado para SSD, con cifrado nativo y clonación eficiente.
+- **exFAT**: sistema de archivos de Microsoft optimizado para memorias flash y tarjetas SD de gran capacidad (supera el límite de 4 GB de FAT32).
+
+# 10. SEGURIDAD INFORMÁTICA
+Conjunto de medidas técnicas, organizativas y legales orientadas a proteger la confidencialidad, integridad y disponibilidad de los sistemas de información frente a amenazas y ataques.
+## 10.1 Amenazas y ataques
+### Malware (software malicioso)
+Programa diseñado para infiltrarse o dañar un sistema informático sin el consentimiento del usuario:
+- **Virus**: programa que se replica insertando copias de sí mismo en otros programas o archivos. Requiere intervención del usuario (ejecutar un archivo infectado) para propagarse.
+- **Gusano** (worm): programa que se replica a sí mismo para propagarse a través de redes, sin necesidad de infectar otros archivos. Consume ancho de banda y recursos del sistema.
+- **Troyano** (trojan horse): programa aparentemente legítimo que oculta código malicioso. No se replica por sí mismo. Puede crear puertas traseras (backdoors).
+- **Spyware**: programa que recopila información del usuario sin su conocimiento (contraseñas, hábitos de navegación, datos bancarios) y la envía a un tercero.
+- **Adware**: programa que muestra publicidad no deseada. A menudo se instala junto con software gratuito.
+- **Ransomware**: programa que cifra los archivos del usuario y exige un rescate (ransom) económico para liberarlos.
+- **Rootkit**: conjunto de herramientas que permite acceder de forma oculta a un sistema, ocultando la presencia de otros programas maliciosos.
+### Otras amenazas
+- **Phishing**: técnica de ingeniería social que suplanta la identidad de una entidad de confianza (banco, administración, empresa) para engañar a la víctima y obtener información confidencial (contraseñas, datos bancarios). Se realiza mediante correo electrónico, mensajes SMS (smishing) o llamadas telefónicas (vishing).
+- **Ingeniería social**: conjunto de técnicas que persiguen el engaño a una víctima ganándose su confianza para manipularla y que realice acciones que no debería, como revelar información confidencial o hacer clic en un enlace malicioso.
+- **CAPTCHA** (Completely Automated Public Turing test to tell Computers and Humans Apart): prueba automatizada diseñada para distinguir entre un usuario humano y un programa automático (bot). Consiste en presentar una tarea fácil para humanos pero difícil para máquinas (reconocimiento de texto distorsionado, selección de imágenes, etc.).
+## 10.2 Mecanismos de defensa
+- **Firewall** (cortafuegos): dispositivo o programa que controla el tráfico de red entrante y saliente, permitiendo o denegando la comunicación según reglas de seguridad predefinidas. Puede ser hardware (dispositivo dedicado) o software (programa instalado en el sistema).
+- **Antivirus**: programa que detecta, bloquea y elimina malware mediante análisis de firmas, heurística y comportamiento.
+- **Cifrado**: transformación de datos mediante algoritmos criptográficos para que solo puedan ser leídos por quien posea la clave adecuada.
+## 10.3 Conceptos fundamentales de seguridad
+- **Amenaza**: causa potencial de un incidente que puede causar daños a un sistema de información o a una organización.
+- **Vulnerabilidad**: debilidad o fallo en un sistema que puede ser explotado por una amenaza.
+- **Riesgo**: probabilidad de que una amenaza se materialice explotando una vulnerabilidad, combinada con el impacto potencial.
+- **Impacto**: consecuencia o daño resultante de la materialización de una amenaza.
+
+# 11. LENGUAJES DE PROGRAMACIÓN
+Lenguaje formal diseñado para comunicar instrucciones a un ordenador. Permite a un programador especificar de manera precisa las operaciones que debe realizar el sistema.
+## 11.1 Clasificación por nivel de abstracción
+- **Lenguaje máquina**: instrucciones binarias directamente ejecutables por la CPU. Dependiente de la arquitectura del procesador.
+- **Lenguaje ensamblador** (assembly): representa las instrucciones máquina mediante nemotécnicos (MOV, ADD, JMP). Requiere un proceso de ensamblado para convertirse en código máquina.
+- **Lenguajes de alto nivel**: utilizan sintaxis cercana al lenguaje humano. Ejemplos: Python, Java, C++, JavaScript, C#, Visual Basic.
+## 11.2 Clasificación por ejecución
+- **Compilados**: el código fuente se traduce a código máquina mediante un compilador, generando un archivo ejecutable independiente. Ejemplos: C, C++, Go, Rust.
+- **Interpretados**: el código fuente se ejecuta línea por línea mediante un intérprete, sin generar un ejecutable previo. Ejemplos: Python, JavaScript, PHP, Ruby.
+- **Compilados a bytecode**: el código fuente se compila a un código intermedio (bytecode) que se ejecuta en una máquina virtual. Ejemplos: Java (JVM), C# (.NET CLR).
+## 11.3 Ejemplos destacados
+- **JavaScript**: lenguaje interpretado que los navegadores web ejecutan de forma nativa para dotar de dinamismo e interactividad a las páginas web. También se usa en servidores (Node.js).
+- **Python**: lenguaje interpretado de alto nivel, multiparadigma, con sintaxis legible. Muy usado en ciencia de datos, inteligencia artificial, desarrollo web y automatización.
+- **Java**: lenguaje compilado a bytecode que se ejecuta en la Máquina Virtual de Java (JVM). Orientado a objetos, multiplataforma. Usado en aplicaciones empresariales y Android.
+- **C++**: lenguaje compilado de propósito general, extensión de C con orientación a objetos. Usado en sistemas, videojuegos y aplicaciones de alto rendimiento.
+- **C#**: lenguaje de Microsoft para la plataforma .NET. Orientado a objetos, compilado a bytecode (CLR). Usado en aplicaciones Windows y web (ASP.NET).
+- **Fortran**: primer lenguaje de alto nivel (1957). Especializado en cálculos científicos y numéricos.
+- **Cobol**: lenguaje orientado a aplicaciones empresariales y de gestión (1959). Aún usado en sistemas legacy de la Administración y banca.
+
+# 12. REDES E INTERNET
+Una red de ordenadores es un conjunto de equipos interconectados que comparten recursos e información. Internet es la red global que interconecta redes de todo el mundo mediante el protocolo TCP/IP.
+## 12.1 Conceptos básicos
+- **Servidor**: computadora que proporciona servicios (archivos, correo, web, bases de datos) a otras computadoras llamadas clientes. Puede ser dedicado o compartir recursos.
+- **Cliente**: computadora que solicita y consume servicios proporcionados por un servidor.
+- **Hosting** (alojamiento web): servicio que ofrece espacio en un servidor para almacenar y servir los archivos de un sitio web, proporcionando conectividad permanente a Internet. Las empresas que lo ofrecen se denominan ISP (Internet Service Provider) o proveedores de hosting.
+- **Firewall**: sección 10.2.
+- **Conmutador** (switch): dispositivo de red que conecta equipos dentro de una misma red local (LAN), encaminando tramas según direcciones MAC.
+- **Enrutador** (router): dispositivo que interconecta redes diferentes, encaminando paquetes IP entre ellas.
+## 12.2 Topologías de red
+- **Bus**: todos los nodos conectados a un único cable compartido.
+- **Estrella**: todos los nodos conectados a un concentrador (hub/switch) central.
+- **Anillo**: cada nodo conectado a dos vecinos formando un círculo.
+- **Malla**: cada nodo conectado a varios o todos los demás nodos.
+## 12.3 Clasificación por alcance
+- **PAN** (Personal Area Network): red personal de corto alcance (Bluetooth, USB).
+- **LAN** (Local Area Network): red de área local, limitada a un edificio o planta (Ethernet, Wi-Fi).
+- **MAN** (Metropolitan Area Network): red de área metropolitana, cubre una ciudad.
+- **WAN** (Wide Area Network): red de área extensa, cubre grandes distancias geográficas (Internet).
