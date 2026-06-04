@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT_rcsmm.eu.md",
+                "file": "osint_ct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "OSINT_rcsmm.eu"
+              "title": "osint_ct"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT_rcsmm.eu.md",
+                "file": "osint_ct.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of OSINT_rcsmm.eu"
+              "title": "Outline of osint_ct"
             }
           },
           {
@@ -200,9 +200,9 @@
   },
   "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
+    "OSINT_rcsmm.eu.md",
     "osint_ct.md",
     "OSINT.md",
-    "OSINT_rcsmm.eu.md",
     "CyberTesting/Read_Teaming_TTPs/Windows TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Web Application TTPs.md",
     "CyberTesting/Read_Teaming_TTPs/Linux TTPs.md",
