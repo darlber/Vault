@@ -2088,11 +2088,218 @@ cotidiana del aula.
 
 ### Rúbrica #TODO
 
-Evaluación de la propia práctica docente
+#REVISAR_OPENCODE
+
+Se propone la siguiente rúbrica como herramienta de evaluación,[14] que será completada y ajustada en función de la práctica docente y las necesidades del grupo:
+
+<table>
+<caption><p>Tabla 13. Rúbrica de evaluación de la asignatura de Guitarra.</p></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Indicador</strong></th>
+<th><strong>Excelente (4)</strong></th>
+<th><strong>Bueno (3)</strong></th>
+<th><strong>Mejorable (2)</strong></th>
+<th><strong>Insuficiente (1)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Control postural y técnico</strong></td>
+<td>Postura equilibrada y relajada. Movimientos eficientes sin tensiones apreciables.</td>
+<td>Postura adecuada con tensiones ocasionales y breves.</td>
+<td>Tensiones frecuentes que afectan a la calidad de la ejecución.</td>
+<td>Postura deficiente con tensiones generalizadas que comprometen la interpretación.</td>
+</tr>
+<tr>
+<td><strong>Calidad sonora y proyección</strong></td>
+<td>Sonido claro, proyectado y con control dinámico y tímbrico en toda la tesitura.</td>
+<td>Sonido estable con control dinámico básico y tímbrico aceptable.</td>
+<td>Sonido irregular con dificultades de proyección y control tímbrico.</td>
+<td>Sonido pobre, sin control dinámico ni variedad tímbrica.</td>
+</tr>
+<tr>
+<td><strong>Precisión rítmica y continuidad</strong></td>
+<td>Ritmo estable y expresivo. Discurso musical fluido y coherente.</td>
+<td>Ritmo estable con leves fluctuaciones que no alteran el discurso.</td>
+<td>Inestabilidad rítmica que interrumpe la continuidad del discurso.</td>
+<td>Ritmo errático sin continuidad ni coherencia temporal.</td>
+</tr>
+<tr>
+<td><strong>Comprensión estilística</strong></td>
+<td>Interpretación informada históricamente con criterio estético personal.</td>
+<td>Interpretación estilísticamente adecuada con convenciones básicas respetadas.</td>
+<td>Aproximación estilística superficial con convenciones parcialmente aplicadas.</td>
+<td>Ausencia de criterio estilístico reconocible.</td>
+</tr>
+<tr>
+<td><strong>Memoria y seguridad</strong></td>
+<td>Interpretación de memoria fluida, segura y expresivamente controlada.</td>
+<td>Interpretación de memoria con dudas ocasionales que no afectan al resultado global.</td>
+<td>Interpretación de memoria insegura con interrupciones frecuentes.</td>
+<td>Dependencia total de la partitura o interrupciones constantes.</td>
+</tr>
+<tr>
+<td><strong>Autonomía y estudio</strong></td>
+<td>Planifica su estudio, identifica problemas y propone soluciones de forma autónoma.</td>
+<td>Requiere orientación puntual pero aplica las estrategias trabajadas.</td>
+<td>Dependencia del profesor para identificar y resolver problemas técnicos.</td>
+<td>Ausencia de estrategias de estudio y nula autonomía.</td>
+</tr>
+<tr>
+<td><strong>Lectura a vista e improvisación</strong></td>
+<td>Lee con fluidez e improvisa con creatividad y coherencia musical.</td>
+<td>Lee correctamente e improvisa con ideas musicales básicas.</td>
+<td>Lectura a vista insegura e improvisación sin coherencia armónica o rítmica.</td>
+<td>Dificultad grave para leer a vista o improvisar.</td>
+</tr>
+<tr>
+<td><strong>Actitud y participación</strong></td>
+<td>Actitud proactiva, participa activamente en audiciones y muestra interés constante.</td>
+<td>Actitud positiva con participación regular.</td>
+<td>Actitud pasiva con participación mínima.</td>
+<td>Actitud negativa o falta de participación.</td>
+</tr>
+</tbody>
+</table>
+
+### Evaluación de la propia práctica docente
+
+#REVISAR_OPENCODE
+
+La evaluación de la práctica docente constituye un elemento esencial del proceso de mejora continua.[15] El profesor realizará una autoevaluación trimestral basada en los siguientes indicadores:
+
+- **Planificación y organización**: Adecuación de la temporalización, calidad de los materiales preparados y coherencia entre objetivos y actividades.
+- **Comunicación pedagógica**: Claridad en las explicaciones, capacidad de adaptación al alumno y fomento del diálogo reflexivo.
+- **Clima del aula**: Gestión del tiempo, motivación del alumno y ambiente de trabajo.
+- **Atención a la diversidad**: Efectividad de las medidas adoptadas y grado de ajuste a las necesidades individuales.
+- **Evaluación**: Pertinencia de los instrumentos de evaluación empleados y coherencia con los criterios establecidos.
+- **Actualización profesional**: Formación continua, incorporación de nuevas metodologías y reflexión crítica sobre la propia práctica.
+
+Al final de cada trimestre, el profesor cumplimentará un breve cuestionario de autoevaluación y contrastará sus impresiones con las del alumno mediante una conversación estructurada. Los resultados orientarán los ajustes metodológicos para el periodo siguiente.
 
 # USO DE LAS NUEVAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
 
+#REVISAR_OPENCODE
+
+La integración de las Tecnologías de la Información y la Comunicación (TIC) en el aula de instrumento ofrece herramientas valiosas para complementar, reforzar y enriquecer el proceso de enseñanza-aprendizaje. Desde una perspectiva constructivista, las TIC actúan como mediadoras que facilitan la autonomía del alumno, la autorregulación del aprendizaje[13] y el acceso a recursos diversificados, sin sustituir la interacción pedagógica ni la práctica instrumental.
+
+## Herramientas para la práctica y el estudio instrumental
+
+### Grabación y autoescucha
+- **Software de grabación** (Audacity, GarageBand): El alumno grabará sus interpretaciones semanalmente para realizar una autoevaluación crítica, identificando aspectos técnicos y musicales a mejorar, en línea con el enfoque metacognitivo de la programación.
+- **Análisis espectral** (Sonic Visualiser): Visualización del ataque, el vibrato y la duración de las notas, permitiendo un análisis objetivo de la calidad sonora y el control tímbrico.
+
+### Edición y notación musical
+- **MuseScore** (código abierto): Elaboración de ejercicios, transcripciones y versiones anotadas con digitaciones, articulaciones y dinámicas.
+- **Guitar Pro**: Estudio de pasajes complejos mediante reproducción MIDI, facilitando la comprensión rítmica y la audición interna.
+
+### Metrónomo y afinación
+- **Soundcorset** / **TE Tuner** (aplicaciones móviles): Afinadores cromáticos y metrónomos con funciones de entrenamiento rítmico y análisis de tempo.
+
+### Recursos audiovisuales
+- **Bibliotecas de partituras digitales**: IMSLP, *Guitarra.artepulsado*, Biblioteca Nacional de España.
+- **Plataformas de video** (YouTube): Audición comparada de versiones de grandes intérpretes (Bream, Williams, Fernández, Söllscher, etc.) para desarrollar el criterio estético (Unidades 7-10).
+- **Masterclasses y tutoriales** en línea como material complementario para profundizar en aspectos técnicos o estilísticos.
+
+## Herramientas para la organización y autogestión del estudio
+
+- **Diario digital de aprendizaje** (Notion, Google Docs): El alumno registrará sus objetivos semanales, las dificultades encontradas y las estrategias empleadas, fomentando la metacognición.
+- **Calendario compartido** (Google Calendar): Planificación de sesiones de estudio, audiciones y plazos.
+- **Listas de reproducción colaborativas** (Spotify): Selección compartida de obras y versiones de referencia para cada unidad didáctica.
+
+## Desarrollo de la competencia digital
+
+El uso de estas herramientas contribuirá a la competencia digital (CD) del alumnado, capacitándolo para buscar y seleccionar recursos musicales en línea con criterio, gestionar su aprendizaje mediante entornos digitales, y comunicarse en entornos virtuales con fines musicales. El profesor guiará al alumno en el uso responsable y crítico de estas herramientas.
+
 # ATENCIÓN A LA DIVERSIDAD
+
+#REVISAR_OPENCODE
+
+La atención a la diversidad constituye un principio pedagógico fundamental que debe impregnar toda la práctica docente. Desde un enfoque constructivista, la diversidad no se concibe como un obstáculo, sino como una oportunidad para enriquecer el proceso de enseñanza-aprendizaje, ajustando la intervención educativa a las características, ritmos y necesidades de cada alumno.[10] En las enseñanzas profesionales de música, y particularmente en la asignatura instrumental, esta atención cobra especial relevancia al tratarse de una enseñanza predominantemente individualizada que permite una adaptación permanente.
+
+## Medidas ordinarias de atención a la diversidad
+
+El propio formato de la clase individual de instrumento facilita la aplicación natural de medidas ordinarias de atención a la diversidad, integradas en la metodología constructivista:
+
+- **Adaptación del repertorio**: Selección de obras y estudios que se ajusten al nivel técnico y musical de cada alumno, así como a sus intereses personales, manteniendo el equilibrio entre exigencia y accesibilidad (Zona de Desarrollo Próximo, Vygotsky 1980).
+- **Flexibilización de la temporalización**: Ajuste del ritmo de avance en las unidades didácticas en función de las necesidades detectadas, con especial atención a las sesiones de repaso previstas en los Bloques I y III.
+- **Diversificación de estrategias metodológicas**: Empleo de enfoques auditivo, visual, kinestésico y analítico para un mismo contenido, permitiendo que cada alumno acceda desde su modalidad de aprendizaje preferente.[11]
+- **Materiales complementarios**: Elaboración o selección de recursos adicionales (ejercicios técnicos, grabaciones, partituras anotadas, vídeos) para reforzar o ampliar los contenidos.
+
+## Medidas específicas según necesidades
+
+### Dificultades psicomotrices o de coordinación
+- Énfasis en la conciencia corporal y propiocepción (Unidad 1) con ejercicios de disociación y relajación segmentaria.
+- Adaptación de digitaciones y posturas con atención a la ergonomía.
+- Uso de soportes accesorios (banqueta, reposapiés, soporte de guitarra) que faciliten una posición óptima.
+- Fragmentación de pasajes complejos en unidades motrices pequeñas, priorizando la calidad del movimiento sobre la velocidad.
+
+### Dificultades en la lectura musical
+- Refuerzo de la memoria auditiva como apoyo a la lectura (Unidad 3).
+- Uso de sistemas de codificación cromática en la partitura para destacar patrones y estructuras.
+- Trabajo específico y graduado de lectura a vista (Unidad 12).
+- Grabaciones de referencia para facilitar el aprendizaje por imitación consciente.
+
+### Ansiedad escénica
+- Plan de exposición gradual a situaciones interpretativas: aula, compañeros, audiciones informales, audiciones formales.
+- Práctica continuada de técnicas de respiración y relajación (Unidad 5).
+- Estrategias de reestructuración cognitiva: identificación de pensamientos automáticos y sustitución por autoverbalizaciones positivas.
+- Establecimiento de rutinas pre-actuación personalizadas.
+
+### Altas capacidades o rendimiento sobresaliente
+- Ampliación y profundización del repertorio con obras de mayor exigencia.
+- Investigación estilística autónoma y análisis comparativo de versiones.
+- Introducción de elementos avanzados de improvisación y composición.
+- Participación en actividades complementarias (conciertos, masterclasses, concursos).
+
+## Medidas para la inclusión y la equidad
+
+- **Igualdad de género**: Selección de un repertorio que incluya obras de compositoras y visibilice el papel de la mujer en la historia de la guitarra.[12]
+- **Diversidad cultural**: Inclusión de repertorio de diversas tradiciones musicales (latinoamericana, flamenca, jazz) que refleje la pluralidad cultural del alumnado.
+- **Equidad socioeconómica**: Facilitación de materiales digitales gratuitos y orientación sobre recursos accesibles (bibliotecas, partituras de dominio público).
+
+## Seguimiento de las medidas
+
+El profesor realizará un seguimiento continuo del impacto de las medidas adoptadas, ajustándolas en función de la respuesta del alumno. Al final de cada trimestre, se valorará la efectividad de las adaptaciones implementadas y se planificarán los ajustes necesarios.
+
+# NOTAS
+
+[1] Sean H. K. Kang, «Spaced Repetition Promotes Efficient and Effective Learning: Policy Implications for Instruction», *Policy Insights from the Behavioral and Brain Sciences* 3, n.º 1 (marzo de 2016): 12-19, https://doi.org/10.1177/2372732215624708.
+
+[2] José-Antonio Torrado, Amalia Casas, y Juan-Ignacio Pozo, «Las culturas de la educación musical: aprendiendo a interpretar un instrumento», *Estudios de Psicología* 26, n.º 2 (enero de 2005): 259-69, https://doi.org/10.1174/0210939054024858.
+
+[3] Pete Boghossian, «How Socratic Pedagogy Works», *Informal Logic* 23, n.º 2 (1 de enero de 2003), https://doi.org/10.22329/il.v23i2.2170.
+
+[4] Frank Abrahams, «The Application of Critical Pedagogy to Music Teaching and Learning: A Literature Review», *Update: Applications of Research in Music Education* 23, n.º 2 (marzo de 2005): 12-22, https://doi.org/10.1177/87551233050230020103.
+
+[5] Alberto J. Rodriguez, «Strategies for Counterresistance: Toward Sociotransformative Constructivism and Learning to Teach Science for Diversity and for Understanding», *Journal of Research in Science Teaching* 35, n.º 6 (agosto de 1998): 589-622, https://doi.org/10.1002/(SICI)1098-2736(199808)35:6<589::AID-TEA2>3.0.CO;2-I.
+
+[6] José-Antonio Torrado y Juan-Ignacio Pozo, «Metas y estrategias para una práctica constructiva en la enseñanza instrumental», *Cultura y Educación* 20, n.º 1 (enero de 2008): 35-48, https://doi.org/10.1174/113564008783781468.
+
+[7] L. S. Vygotsky, *Mind in Society: Development of Higher Psychological Processes*, ed. Michael Cole et al. (Harvard University Press, 1980), https://doi.org/10.2307/j.ctvjf9vz4.
+
+[8] Juan-Ignacio Pozo, Alfredo Bautista, y Jose-Antonio Torrado, «El aprendizaje y la enseñanza de la interpretación musical: cambiando las concepciones y las prácticas», *Cultura y Educación* 20, n.º 1 (enero de 2008): 5-15, https://doi.org/10.1174/113564008783781495.
+
+[9] Elizabeth Langford, *Mind and Muscle and Music: A Companion to Mind and Muscle, an Owner's Handbook* (Leuven: Alexandertechniek Centrum, 2008).
+
+[10] Carol Ann Tomlinson, *The Differentiated Classroom: Responding to the Needs of All Learners*, 2.ª ed. (Alexandria, VA: ASCD, 2014).
+
+[11] Susan Hallam, *Music Psychology in Education* (London: Institute of Education, University of London, 2006).
+
+[12] Paulo Freire, *Pedagogía del oprimido*, 2.ª ed. (México: Siglo XXI, 2005).
+
+[13] Peter C. Brown, Henry L. Roediger III, y Mark A. McDaniel, *Make It Stick: The Science of Successful Learning* (Cambridge, MA: Harvard University Press, 2014).
+
+[14] Aaron Williamon, *Musical Excellence: Strategies and Techniques to Enhance Performance* (Oxford: Oxford University Press, 2004).
+
+[15] Randall Everett Allsup, *Remixing the Classroom: Toward an Open Philosophy of Music Education* (Bloomington: Indiana University Press, 2016).
 
 # BIBLIOGRAFÍA
 
@@ -2139,53 +2346,205 @@ Processes*. Editado por Michael Cole, Vera Jolm-Steiner, Sylvia
 Scribner, y Ellen Souberman. Harvard University Press, 1980.
 https://doi.org/10.2307/j.ctvjf9vz4.
 
+#REVISAR_OPENCODE
+
+Allsup, Randall Everett. 2016. *Remixing the Classroom: Toward an Open
+Philosophy of Music Education*. Bloomington: Indiana University Press.
+
+Azzara, Christopher D., y Richard F. Grunow. 2006. *Developing
+Musicianship through Improvisation*. Chicago: GIA Publications.
+
+Bautista, Alfredo, María del Puy Pérez Echeverría, y Juan Ignacio Pozo. 2012. «La construcción del conocimiento musical: concepciones de
+profesores y alumnos». *Infancia y Aprendizaje* 35 (1): 93-107.
+https://doi.org/10.1174/021037012798977449.
+
+Brown, Peter C., Henry L. Roediger III, y Mark A. McDaniel. 2014.
+*Make It Stick: The Science of Successful Learning*. Cambridge, MA:
+Harvard University Press.
+
+Caplan, David. 2009. *The Guitarist's Anatomy: An Indispensable Guide for
+the Modern Guitarist*. San Francisco: Backbeat Books.
+
+Freire, Paulo. 2005. *Pedagogía del oprimido*. 2.ª ed. México: Siglo
+XXI.
+
+Hallam, Susan. 2006. *Music Psychology in Education*. London: Institute
+of Education, University of London.
+
+Jørgensen, Harald, y Andreas C. Lehmann, eds. 1997. *Does Practice Make
+Perfect? Current Theory and Research on Instrumental Music Practice*.
+Oslo: Norsk Musikforlag.
+
+López de la Llave, Andrés, y María Carmen Pérez Llantada. 2006.
+*Psicología para intérpretes artísticos*. Madrid: Thomson.
+
+Pozo, Juan Ignacio, María del Puy Pérez Echeverría, José Antonio
+Torrado, y Alfredo Bautista, eds. 2006. *Nuevas formas de pensar la
+enseñanza y el aprendizaje de la música: las concepciones de profesores
+y alumnos*. Barcelona: Graó.
+
+Shor, Ira. 1992. *Empowering Education: Critical Teaching for Social
+Change*. Chicago: University of Chicago Press.
+
+Tomlinson, Carol Ann. 2014. *The Differentiated Classroom: Responding to
+the Needs of All Learners*. 2.ª ed. Alexandria, VA: ASCD.
+
+Williamon, Aaron. 2004. *Musical Excellence: Strategies and Techniques to
+Enhance Performance*. Oxford: Oxford University Press.
+
+Wilson, Glenn D. 1997. «Performance Anxiety». En *The Social Psychology
+of Music*, editado por David J. Hargreaves y Adrian C. North, 229-48.
+Oxford: Oxford University Press.
+
 # ANEXO I 
-#TODO
+
+#REVISAR_OPENCODE
+
+Calendario escolar orientativo para el curso 2025/2026 en la Comunidad de Madrid (Enseñanzas Profesionales de Música), distribuido en treinta y seis semanas lectivas:
+
+<table>
+<caption><p>Tabla A1. Calendario académico curso 2025/2026.</p></caption>
+<thead>
+<tr>
+<th><strong>Trimestre</strong></th>
+<th><strong>Periodo</strong></th>
+<th><strong>Sesiones</strong></th>
+<th><strong>Fechas</strong></th>
+<th><strong>Eventos destacados</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4"><strong>1.º</strong></td>
+<td>Semana 1-6 (Sesiones I-VI)</td>
+<td>6</td>
+<td>15 sept – 24 oct 2025</td>
+<td>Inicio de curso. Evaluación inicial diagnóstica.</td>
+</tr>
+<tr>
+<td>Semana 7-12 (Sesiones VII-XII)</td>
+<td>6</td>
+<td>27 oct – 5 dic 2025</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Semana 13</td>
+<td>—</td>
+<td>8 dic – 12 dic 2025</td>
+<td>Puente de la Constitución (no lectivo).</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Audición del 1.er trimestre</strong></td>
+<td>Dic 2025</td>
+<td>Vacaciones de Navidad: 22 dic – 7 ene 2026.</td>
+</tr>
+<tr>
+<td rowspan="3"><strong>2.º</strong></td>
+<td>Semana 14-19 (Sesiones I-VI)</td>
+<td>6</td>
+<td>12 ene – 20 feb 2026</td>
+<td>Reinicio del patrón de repetición espaciada.</td>
+</tr>
+<tr>
+<td>Semana 20-25 (Sesiones VII-XII)</td>
+<td>6</td>
+<td>23 feb – 27 mar 2026</td>
+<td>—</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Audición del 2.º trimestre</strong></td>
+<td>Mar 2026</td>
+<td>Vacaciones de Semana Santa: 30 mar – 6 abr 2026.</td>
+</tr>
+<tr>
+<td rowspan="3"><strong>3.º</strong></td>
+<td>Semana 26-31 (Sesiones I-VI)</td>
+<td>6</td>
+<td>13 abr – 22 may 2026</td>
+<td>Inicio Bloque III. Repaso y refuerzo.</td>
+</tr>
+<tr>
+<td>Semana 32-36 (Sesiones VII-XII)</td>
+<td>6</td>
+<td>25 may – 19 jun 2026</td>
+<td>—</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Audición del 3.er trimestre</strong></td>
+<td>Jun 2026</td>
+<td>Evaluación final ordinaria. Fin de curso.</td>
+</tr>
+</tbody>
+</table>
 
 <img src="media/image3.jpeg" style="width:6.47222in;height:9.14865in" />
 
 # ANEXO II 
-#TODO
 
-[1] Sean H. K. Kang, «Spaced Repetition Promotes Efficient and Effective
-Learning: Policy Implications for Instruction», *Policy Insights from
-the Behavioral and Brain Sciences* 3, n.<sup>o</sup> 1 (marzo de 2016):
-12-19, https://doi.org/10.1177/2372732215624708.
+#REVISAR_OPENCODE
 
-[2] José-Antonio Torrado, Amalia Casas, y Juan-Ignacio Pozo, «Las
-culturas de la educación musical: aprendiendo a interpretar un
-instrumento», *Estudios de Psicología* 26, n.<sup>o</sup> 2 (enero de
-2005): 259-69, https://doi.org/10.1174/0210939054024858.
+Relación orientativa de obras y estudios para 5.º curso de Enseñanzas Profesionales de Música, especialidad Guitarra:
 
-[3] Pete Boghossian, «How Socratic Pedagogy Works», *Informal Logic* 23,
-n.<sup>o</sup> 2 (1 de enero de 2003),
-https://doi.org/10.22329/il.v23i2.2170.
+<table>
+<caption><p>Tabla A2. Propuesta de repertorio para 5.º curso.</p></caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Estilo / Periodo</strong></th>
+<th><strong>Obra</strong></th>
+<th><strong>Estudio asociado</strong></th>
+<th><strong>Unidad Didáctica</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Renacimiento</strong></td>
+<td>L. de Milán: Pavana VI</td>
+<td>E. Pujol: Estudio 15</td>
+<td>Unidad 7</td>
+</tr>
+<tr>
+<td><strong>Barroco</strong></td>
+<td>J. S. Bach: Preludio BWV 999</td>
+<td>Villa-Lobos: Estudio 1</td>
+<td>Unidad 7</td>
+</tr>
+<tr>
+<td><strong>Clasicismo</strong></td>
+<td>F. Sor: Sonata Op. 25</td>
+<td>F. Sor: Estudio Op. 35 n.º 22</td>
+<td>Unidad 8</td>
+</tr>
+<tr>
+<td><strong>Romanticismo</strong></td>
+<td>J. K. Mertz: Bardenklänge (selec.)</td>
+<td>M. Giuliani: Estudio Op. 100</td>
+<td>Unidad 8</td>
+</tr>
+<tr>
+<td><strong>S. XX español</strong></td>
+<td>F. Moreno Torroba: Sonatina</td>
+<td>L. Brouwer: Estudio VI</td>
+<td>Unidad 9</td>
+</tr>
+<tr>
+<td><strong>S. XX internacional</strong></td>
+<td>R. Dyens: Valseana</td>
+<td>L. Brouwer: Estudio VIII</td>
+<td>Unidad 10</td>
+</tr>
+<tr>
+<td><strong>Contemporáneo</strong></td>
+<td>L. Brouwer: Sonata</td>
+<td>V. Asencio: Estudio</td>
+<td>Unidad 10</td>
+</tr>
+</tbody>
+</table>
 
-[4] Frank Abrahams, «The Application of Critical Pedagogy to Music
-Teaching and Learning: A Literature Review», *Update: Applications of
-Research in Music Education* 23, n.<sup>o</sup> 2 (marzo de 2005):
-12-22, https://doi.org/10.1177/87551233050230020103.
-
-[5] Alberto J. Rodriguez, «Strategies for Counterresistance: Toward
-Sociotransformative Constructivism and Learning to Teach Science for
-Diversity and for Understanding», *Journal of Research in Science
-Teaching* 35, n.<sup>o</sup> 6 (agosto de 1998): 589-622,
-https://doi.org/10.1002/(SICI)1098-2736(199808)35:6&lt;589::AID-TEA2&gt;3.0.CO;2-I.
-
-[6] José-Antonio Torrado y Juan-Ignacio Pozo, «Metas y estrategias para
-una práctica constructiva en la enseñanza instrumental», *Cultura y
-Educación* 20, n.<sup>o</sup> 1 (enero de 2008): 35-48,
-https://doi.org/10.1174/113564008783781468.
-
-[7] L. S. Vygotsky, *Mind in Society: Development of Higher
-Psychological Processes*, ed. Michael Cole et al. (Harvard University
-Press, 1980), https://doi.org/10.2307/j.ctvjf9vz4.
-
-[8] Juan-Ignacio Pozo, Alfredo Bautista, y Jose-Antonio Torrado, «El
-aprendizaje y la enseñanza de la interpretación musical: cambiando las
-concepciones y las prácticas», *Cultura y Educación* 20, n.<sup>o</sup>
-1 (enero de 2008): 5-15, https://doi.org/10.1174/113564008783781495.
-
-[9] Elizabeth Langford, *Mind and Muscle and Music: A Companion to Mind
-and Muscle, an Owner’s Handbook* (Leuven: Alexandertechniek Centrum,
-2008).
+El repertorio final se concretará en función del nivel individual de cada alumno, sus necesidades formativas y los criterios pedagógicos del departamento. Esta lista constituye una propuesta base que podrá ser ampliada o modificada durante el curso, de acuerdo con el principio de atención a la diversidad y el enfoque constructivista.
