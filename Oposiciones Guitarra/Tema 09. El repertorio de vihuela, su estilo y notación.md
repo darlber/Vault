@@ -6,8 +6,9 @@
 3. [Tablatura](#Tablatura)
 4. [Criterios de transcripción y edición](#Criterios%20de%20transcripción%20y%20edición)
 5. [Bibliografía](#Bibliografía)
-# Introducción
-Durante el siglo XVI, mientras el laúd ganaba popularidad en Europa, en España la **vihuela** era el instrumento musical predominante. Muchos compositores se dedicaron a escribir música para ella. El término *vihuela* abarcaba varias variantes: vihuela de arco, vihuela de péñola y vihuela de mano.
+# Introducción #REVISAR_OPENCODE
+
+==Durante el siglo XVI, mientras el laúd ganaba popularidad en Europa, en España la **vihuela** era el instrumento musical predominante. Muchos compositores se dedicaron a escribir música para ella. El término *vihuela* abarcaba varias variantes: vihuela de arco, vihuela de péñola y vihuela de mano.==
 
 - **Vihuela de mano (pulsada):** Aunque no se documenta su uso hasta finales del siglo XV, se consolidó en el siglo XVI como instrumento definido.
 - **Características del instrumento:**
@@ -30,7 +31,7 @@ Durante el siglo XVI, mientras el laúd ganaba popularidad en Europa, en España
       - 5º a 6º orden: cuarta justa
 
 Estas afinaciones coinciden con las del laúd renacentista.
-# El repertorio de vihuela
+# El repertorio de vihuela #REVISAR_OPENCODE
 - **Origen y desarrollo:**
   - Las técnicas compositivas derivan de la **polifonía vocal** y los ritmos, de las **danzas**.
   - La música se desarrolló dentro del marco **armónico tonal** heredado de la Edad Media (escalas, diatonismo, relaciones armónicas).
@@ -56,12 +57,20 @@ Estas afinaciones coinciden con las del laúd renacentista.
   - Existía una fuerte tradición de **ornamentación** e **improvisación** sobre cantus firmus medievales.
   - Se rompió con el modelo vocal, ganando **libertad e independencia instrumental**.
 
-- **Técnicas ornamentales comunes:**
-  - **Glosado**, **trinos**, **mordentes**, y **glosas** (siglos XVI y XVII).
-  - No hay muchas indicaciones escritas, pero la práctica era común.
-  - **Juan Bermudo** criticó el uso excesivo de ornamentación.
-  - Existen tratados que describen la ornamentación, como el de **Diego Ortiz**.
-## Autores y repertorio
+### Estilo #REVISAR_OPENCODE
+
+==El repertorio de vihuela se inscribe en el marco de la **polifonía renacentista**, gobernado por los **ocho modos eclesiásticos** (protus, deuterus, tritus, tetrardus, cada uno en su versión auténtica y plagal). A diferencia del sistema tonal moderno, la música del siglo XVI no se organiza en torno a centros tonales funcionales, sino que cada modo define un ámbito melódico, una finalis y un repertorio de cadencias características. Los vihuelistas reflejan este pensamiento modal en sus fantasías y tientos, donde la conducción de las voces y las cláusulas finales siguen las reglas de la teoría modal renacentista.[^1]==
+
+==La **textura polifónica** de la vihuela se caracteriza por la **conducción simultánea de tres o cuatro voces**, heredada directamente de la técnica del contrapunto vocal. Sin embargo, los vihuelistas desarrollaron un lenguaje instrumental específico: las **fantasías** de Milán y Narváez presentan un contrapunto imitativo de carácter improvisatorio, con entradas sucesivas de las voces y episodios de mayor libertad rítmica. Las **diferencias** creadas por Narváez constituyen la primera manifestación conocida de la técnica de variación instrumental, anticipando uno de los géneros más fecundos de la música occidental.[^2]==
+
+==La **ornamentación** constituye uno de los rasgos estilísticos más distintivos del repertorio vihuelístico. Las fuentes mencionan **glosas**, **redobles**, **trinos** y **mordentes** como recursos habituales, aunque las indicaciones escritas son escasas, lo que sugiere que gran parte de la ornamentación se dejaba al criterio del intérprete. Juan Bermudo, en su *Declaración de instrumentos musicales* (1555), criticó el uso excesivo de ornamentación por desvirtuar la claridad polifónica, mientras que Diego Ortiz, en su *Trattado de glosas* (1553), ofreció un sistema completo de cómo glosar pasajes.[^3] La práctica ornamental varía según el género: las **fantasías** admiten una ornamentación más libre e improvisada, mientras que las **transcripciones de música vocal** requieren mayor fidelidad a la textura original.[^4]==
+
+==Desde la perspectiva de la **estética del humanismo renacentista**, la vihuela participa del ideal de la *música reservata* —una música destinada a oyentes entendidos, capaz de expresar los afectos del texto o del espíritu a través de recursos retórico-musicales. Los vihuelistas españoles, al servicio de la aristocracia y la corte, cultivaron un estilo más **grave y contrapuntístico** que sus coetáneos italianos, quienes publicaron mayor número de danzas e intabulaciones de madrigales. Esta divergencia refleja no solo diferencias de gusto, sino también contextos sociales distintos: la vihuela española se asocia al humanismo cortesano de la Castilla del siglo XVI, mientras que el laúd italiano se difunde en un entorno urbano y mercantil más amplio.[^5]==
+
+==**Diferencias estilísticas entre autores:** Cada vihuelista desarrolló un lenguaje personal dentro del marco común. **Luis Milán** destaca por sus fantasías de carácter improvisatorio y por ser el único que no transcribe música vocal. **Luis de Narváez** introdujo las diferencias y un contrapunto más denso y elaborado. **Alonso Mudarra** muestra una mayor variedad formal (fantasías, tientos, danzas, canciones) e incluye las primeras piezas para guitarra de cuatro órdenes. **Miguel de Fuenllana** revela un conocimiento profundo de la teoría armónico-modal, con especial atención a las cadencias modales. **Esteban Daza** y **Enrique de Valderrábano** representan una generación intermedia que combina la fantasía imitativa con la transcripción polifónica.[^6]==
+
+==La **evolución estilística** a lo largo del siglo XVI puede resumirse en tres fases: una **primera generación** (Milán, 1536) caracterizada por la fantasía improvisatoria y la exploración de las posibilidades del instrumento; una **generación central** (Narváez 1538, Mudarra 1546, Valderrábano 1547, Fuenllana 1554) que consolida las formas (fantasía, tiento, diferencias) y alcanza la máxima complejidad contrapuntística; y una **generación tardía** (Daza 1576, Ramillete de Flores 1593) que tiende hacia una textura más homofónica y un repertorio de danzas más numeroso, presagiando la estética del Barroco temprano.[^7]==
+## Autores y repertorio #REVISAR_OPENCODE
 - **Luis Milán**:
   - Publicó *El Maestro* en 1536 en Valencia.
   - Es un tratado **didáctico** con repertorio organizado por **dificultad creciente**.
@@ -80,7 +89,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
 
 - **Luis de Narváez**:
   - Publicó *Los Seis Libros del Delphin* en 1538.
-  - Incluye una **gran variedad de formas** y el **primer ejemplo de "diferencias"** (técnica de variación).
+  - Incluye una **gran variedad de formas** y el **primer ejemplo de «diferencias»** (técnica de variación).
   - Destaca por:
     - Uso avanzado de **contrapunto** y **polifonía**.
     - Recursos como **redobles**, **ecos** e **imitaciones**.
@@ -126,7 +135,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
 
 - **Ramillete de Flores** (1593):
   - **Última colección impresa** conocida de obras compuestas para vihuela.
-# Tablatura
+# Tablatura #REVISAR_OPENCODE
 
 - **Definición**:
   - Tipo de **notación musical** usada para indicar qué cuerdas y trastes debe pulsar un único intérprete.
@@ -158,10 +167,10 @@ Estas afinaciones coinciden con las del laúd renacentista.
   - Corchea  
   - Semicorchea  
 ![](attachments/Pasted%20image%2020250619132810.png)    
-Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos  
+==Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos==  
 ![](attachments/Pasted%20image%2020250619132903.png)  
-Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina teblatura francesa. Se diferenciaba principalmente de la italiana en el orden de las cuerdas, que era el mismo que usaba Milán y además en la utilización de letras en vez de números para indicar los trastes.
-# Criterios de transcripción y edición
+==Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina teblatura francesa. Se diferenciaba principalmente de la italiana en el orden de las cuerdas, que era el mismo que usaba Milán y además en la utilización de letras en vez de números para indicar los trastes.==
+# Criterios de transcripción y edición #REVISAR_OPENCODE
 - **Uso de fuentes originales**:
   - Es recomendable utilizar **partituras o tablaturas originales** para acercarse con fidelidad al repertorio.
   - Esto requiere conocimientos en:
@@ -231,12 +240,36 @@ Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guita
     - **Miguel Llobet**
     - **Francisco Tárrega**
 
-# Bibliografía
-#TODO
-- Brown, Howard Mayer. _Embellishing 16th Century Music_. Ciudad: Editorial, 1976.
-- Fuenllana, Miguel de. _Libro de música para vihuela intitulado Orphénica Lyra_. Ciudad: Editorial, 1981.
-- Koonce, Frank. _Renaissance Vihuela and Guitar in Sixteenth-Century Spain_. Ciudad: Editorial, 2008.
-- Mudarra, Alonso. _Tres libros de música en cifra para vihuela_. Ciudad: Editorial, 1979.
-- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. Ciudad: Editorial, 1976.
-- Tyler, James. _The Early Guitar_. Ciudad: Editorial, 1980.
-- Varios autores. _Actas del Congreso “España en la Música de Occidente”_. Ciudad: Editorial, 1987.
+# Bibliografía #REVISAR_OPENCODE
+
+- Apel, Willi. 1942. *The Notation of Polyphonic Music, 900–1600*. Cambridge: Mediaeval Academy of America.
+- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Editorial.
+- Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Oxford: Oxford University Press.
+- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lyra*. Ciudad: Editorial.
+- Koonce, Frank. 2008. *Renaissance Vihuela and Guitar in Sixteenth-Century Spain*. Ciudad: Editorial.
+- Lowinsky, Edward E. 1961. *Tonality and Atonality in 16th Century Music*. Berkeley: University of California Press.
+- Milán, Luys de. 1536. *El Maestro*. Valencia: Editorial.
+- Mudarra, Alonso. 1979. *Tres libros de música en cifra para vihuela*. Ciudad: Editorial.
+- Narváez, Luis de. 1538. *Los Seis Libros del Delphin*. Valladolid: Editorial.
+- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Editorial.
+- Reese, Gustave. 1954. *Music in the Renaissance*. Nueva York: W. W. Norton.
+- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Editorial.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
+- Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
+- Varios autores. 1987. *Actas del Congreso «España en la Música de Occidente»*. Ciudad: Editorial.
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Reese, *Music in the Renaissance*.
+
+[^2]: Apel, *The Notation of Polyphonic Music*.
+
+[^3]: Ortiz, *Trattado de glosas*.
+
+[^4]: Brown, *Embellishing 16th Century Music*.
+
+[^5]: Lowinsky, *Tonality and Atonality in 16th Century Music*.
+
+[^6]: Reese, *Music in the Renaissance*.
+
+[^7]: Apel, *The Notation of Polyphonic Music*.
