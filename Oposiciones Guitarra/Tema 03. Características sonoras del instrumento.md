@@ -167,7 +167,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - La quinta justa divide la cuerda en tres partes.
 - La cuarta justa divide la cuerda en cuatro partes.
 
-### Otros armónicos "puros" no ubicados en trastes exactos:
+### Otros armónicos «puros» no ubicados en trastes exactos:
 - 650 mm / 5  (Tercera Mayor) Traste 4, casi 5
 - 650 mm / 6  (Tercera menor) Traste 4, casi 3
 - 650 mm / 7  (Séptima menor o tercera menor baja) Traste 3 mitad.
@@ -222,7 +222,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - Duncan, Charles. 1980. *The Art of Classical Guitar Playing*. Princeton: Summy-Birchard Music.
 - Fletcher, Neville H., y Thomas D. Rossing. 1998. *The Physics of Musical Instruments*. 2nd ed. New York: Springer.
 - Pujol, Emilio. 1956. *Escuela razonada de la guitarra*. Vols. 1-4. Buenos Aires: Ricordi Americana.
-- Richardson, Bernard E. 1994. "The Acoustical Development of the Guitar." *Journal of the Catgut Acoustical Society* 2 (5): 1-10.
+- Richardson, Bernard E. 1994. «The Acoustical Development of the Guitar.» *Journal of the Catgut Acoustical Society* 2 (5): 1-10.
 - Romanillos, José Luis, y Marian Harris Winspear. 2004. *Antonio de Torres: Guitar Maker: His Life and Work*. Westport, CT: The Bold Strummer.
 - Sáenz, Juan José. 2000. *Diccionario Técnico de la Guitarra*. Barcelona: Editorial Instrumentos.
 - Taylor, John. 1992. *The Science of Sound*. 3rd ed. San Francisco: Addison Wesley.

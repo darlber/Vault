@@ -48,10 +48,10 @@ El proceso de enseñanza-aprendizaje en estudios musicales debe estar alineado c
 La legislación educativa española lo recoge en los objetivos generales:
 
 - **Enseñanzas elementales**:  
-  *“Tocar en público con la necesaria seguridad en sí mismos, para comprender la función comunicativa de la interpretación musical.”*
+  *«Tocar en público con la necesaria seguridad en sí mismos, para comprender la función comunicativa de la interpretación musical.»*
 
 - **Enseñanzas profesionales**:  
-  *“Actuar en público con autocontrol, dominio de la memoria y capacidad auditiva.”*
+  *«Actuar en público con autocontrol, dominio de la memoria y capacidad auditiva.»*
 
 ### La importancia del autocontrol
 
@@ -84,7 +84,7 @@ Lograr un **autocontrol** que permita superar estas reacciones y mostrar la máx
 
 Por ello, en las Enseñanzas Profesionales se destaca la importancia de:
 
-> *“Valorar el dominio del cuerpo y de la mente para utilizar con seguridad la técnica y concentrarse en la audición e interpretación.”*
+> *«Valorar el dominio del cuerpo y de la mente para utilizar con seguridad la técnica y concentrarse en la audición e interpretación.»*
 
 ### Técnicas de concienciación corporal
 
@@ -233,7 +233,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 - Es fundamental la **integración cuerpo-mente**:  
   - Muchos músicos ejecutan la música solo con manos y dedos sin una imagen mental y auditiva clara del sonido deseado.  
   - La efectividad técnica depende de la conexión entre mente y músculos, según Ivan Galamian:  
-    > “La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.”  
+    > «La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.»  
 - La Técnica Alexander estimula que la actividad y el movimiento se dirijan desde el cerebro, usando el cuerpo como un todo integrado.
 
 #REVISAR_OPENCODE
@@ -321,7 +321,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 **Orígenes y desarrollo:**  
 - Emil Coué, farmacéutico francés, fue pionero a principios del siglo XX en el uso de la autosugestión para superar el estrés y mejorar la salud.  
 - Para Coué, el miedo al fracaso genera el fracaso, mientras que la creencia en el éxito lo inspira.  
-- Propuso repetir mentalmente afirmaciones positivas como “cada día estoy mejorando más”.  
+- Propuso repetir mentalmente afirmaciones positivas como «cada día estoy mejorando más».  
 - Métodos contemporáneos amplían esta idea con la visualización positiva, donde se forma una imagen clara del objetivo a alcanzar.[^22]  
 
 **Práctica recomendada:**  

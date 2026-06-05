@@ -23,6 +23,7 @@ Según linealidad::Lineales (pilas, colas, listas) / No lineales (árboles, graf
 ## Estructuras Lineales
 
 Array - característica principal::Elementos homogéneos en posiciones contiguas de memoria
+<!--SR:!2026-06-08,3,250-->
 
 Array - acceso por índice::O(1)
 
@@ -43,12 +44,14 @@ Lista enlazada - inserción/borrado conociendo nodo::O(1)
 Pila - política de acceso::LIFO (Last In, First Out)
 
 Pila - operaciones::Push (apilar), Pop (desapilar), Top (cima)
+<!--SR:!2026-06-09,4,270-->
 
 Pila - usos::Recursividad (call stack), evaluación expresiones, deshacer
 
 Cola - política de acceso::FIFO (First In, First Out)
 
 Cola - operaciones::Enqueue (encolar), Dequeue (desencolar)
+<!--SR:!2026-06-09,4,270-->
 
 Cola - usos::Planificación procesos, spooling impresión, búferes
 
@@ -57,12 +60,14 @@ Cola - usos::Planificación procesos, spooling impresión, búferes
 Árbol binario::Cada nodo tiene máximo 2 hijos
 
 Recorrido Preorden::Raíz → izquierdo → derecho
+<!--SR:!2026-06-08,3,250-->
 
 Recorrido Inorden::Izquierdo → raíz → derecho
 
 Recorrido Postorden::Izquierdo → derecho → raíz
 
 ABB - propiedad::Hijo izquierdo < raíz < hijo derecho
+<!--SR:!2026-06-08,3,250-->
 
 ABB - complejidad búsqueda promedio::O(log n)
 
@@ -95,6 +100,7 @@ While es una instrucción::Iterativa (bucle)
 O(1)::Constante (acceso array por índice)
 
 O(log n)::Logarítmica (búsqueda binaria)
+<!--SR:!2026-06-08,3,250-->
 
 O(n)::Lineal (búsqueda secuencial)
 
@@ -113,6 +119,7 @@ Recursividad - estructura interna que usa::Pila (call stack)
 ## Búsqueda
 
 Búsqueda secuencial - condición::Ninguna; complejidad O(n)
+<!--SR:!2026-06-08,3,250-->
 
 Búsqueda binaria - condición::Array ordenado; complejidad O(log n)
 
@@ -129,6 +136,7 @@ Burbuja (Bubble Sort) - estrategia::Compara adyacentes e intercambia si están d
 Burbuja - complejidad::O(n²) en todos los casos
 
 QuickSort - estrategia::Divide y vencerás con pivote
+<!--SR:!2026-06-08,3,250-->
 
 QuickSort - complejidad promedio::O(n log n)
 
@@ -165,6 +173,7 @@ ISAM - complejidad búsqueda::O(log n) en índice + acceso directo
 ISAM - ventaja::Combina acceso directo y secuencial
 
 ISAM - inconveniente::Índice ocupa espacio extra
+<!--SR:!2026-06-06,1,230-->
 
 Fichero directo (hash)::Función hash calcula dirección física desde la clave
 
