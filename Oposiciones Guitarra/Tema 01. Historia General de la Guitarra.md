@@ -204,27 +204,23 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 
 #REVISAR_OPENCODE
 
+- Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.
+- Evans, Tom, y Mary Anne Evans. 1977. *Guitars: From the Renaissance to Rock*. New York: Facts on File.
 - Gimeno García, Julio. «Escuela de París. La guitarra en París durante el periodo Clásico-Romántico.» *Revista 8 Sonoro*, Año 2, n.º 2.
+- Grunfeld, Frederic V. 1969. *The Art and Times of the Guitar*. New York: Macmillan.
 - Heck, Thomas F. 2013. Mauro Giuliani: A Life for the Guitar. Soundboard Scholar.
 - Matlik, Heiki. 2010. *Handbook of Guitar and Lute Composers*. Pacific: Mel Bay Publications.
+- Pinnell, Richard T. 1980. *Francesco Corbetta and the Baroque Guitar*. Ann Arbor: UMI Research Press.
 - Ramos Altamira, Ignacio. 2005. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario.
-- Romanillos, José Luis. 1990. *Catálogo de la Exposición Guitarras Antiguas Españolas*. Madrid: Sociedad Estatal para la Acción Cultural Exterior.
-- Romanillos, José Luis. 1989. *El guitarrero español y su contribución en el desarrollo de la guitarra de concierto*. Madrid: Editorial Alpuerto.
 - Romanillos, José Luis, y Marian Harris Winspear. 2004. *Antonio de Torres: Guitar Maker: His Life and Work*. Westport, CT: The Bold Strummer.
+- Romanillos, José Luis. 1989. *El guitarrero español y su contribución en el desarrollo de la guitarra de concierto*. Madrid: Editorial Alpuerto.
+- Romanillos, José Luis. 1990. *Catálogo de la Exposición Guitarras Antiguas Españolas*. Madrid: Sociedad Estatal para la Acción Cultural Exterior.
 - Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. London: Batsford.
+- Tyler, James, y Paul Sparks. 2002. *The Guitar and Its Music: From the Renaissance to the Classical Era*. Oxford: Oxford University Press.
 - Tyler, James. 1980. *The Early Guitar: A History and Handbook*. London: Oxford University Press.
 - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Albatros.
 - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder Publications.
 - Wade, Graham. 2001. *A Concise History of the Classic Guitar*. Pacific: Mel Bay Publications.
-
-#REVISAR_OPENCODE
-
-- Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.
-- Evans, Tom, y Mary Anne Evans. 1977. *Guitars: From the Renaissance to Rock*. New York: Facts on File.
-- Grunfeld, Frederic V. 1969. *The Art and Times of the Guitar*. New York: Macmillan.
-- Pinnell, Richard T. 1980. *Francesco Corbetta and the Baroque Guitar*. Ann Arbor: UMI Research Press.
-- Tyler, James, y Paul Sparks. 2002. *The Guitar and Its Music: From the Renaissance to the Classical Era*. Oxford: Oxford University Press.
-
 # NOTAS
 
 #REVISAR_OPENCODE
