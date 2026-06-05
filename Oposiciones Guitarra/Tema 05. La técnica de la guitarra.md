@@ -109,6 +109,24 @@ La pulsación con los dedos **índice, medio y anular** sigue un proceso de **cu
 #REVISAR_OPENCODE
 
 ==El desarrollo de la técnica contemporánea se apoya en métodos sistemáticos como el de Scott Tennant, que integra ejercicios de coordinación, velocidad y resistencia en secuencias progresivas, combinando principios de relajación activa con el control consciente del movimiento.[^13] La práctica reflexiva, orientada a la calidad del estudio más que a la cantidad de repeticiones, constituye el eje de la pedagogía de Richard Provost, quien propone un modelo de aprendizaje basado en la resolución consciente de problemas técnicos.[^14]==
+### Principales fuentes pedagógicas de la técnica guitarrística
+
+#REVISAR_OPENCODE
+
+==El corpus pedagógico de la técnica de la guitarra clásica se articula en varias tradiciones que han convergido en la práctica contemporánea. La **escuela americana**, iniciada por **Aaron Shearer** con su *Classic Guitar Technique* (1963), introdujo un enfoque sistemático de los fundamentos técnicos, combinando instrucción textual, fotografías y ejercicios graduados.[^15] Continuadores de esta línea son **Stanley Yates**, cuya *Classical Guitar Technique from Foundation to Virtuosity* (2016) constituye uno de los tratados más exhaustivos publicados hasta la fecha, integrando biomecánica, pedagogía progresiva y repertorio.[^16]==
+
+#REVISAR_OPENCODE
+
+==La **tradición británica** está representada por **John Duarte**, cuyo *Bases of Classical Guitar Technique* (1974) aborda la producción del sonido desde una perspectiva acústica y física.[^17] **Hector Quine** analizó en detalle la mecánica de la mano derecha, el ángulo de ataque y la posición del brazo, estableciendo principios que siguen vigentes.[^18]==
+
+#REVISAR_OPENCODE
+
+==En el ámbito germanohablante, **Hubert Käppel** desarrolló la **teoría del movimiento integrativo** en *The Bible of Classical Guitar Technique* (2016), donde analiza la cadena cinética completa —desde el hombro hasta la yema del dedo— y propone un modelo de tensión muscular previa y contra-movimiento que optimiza la velocidad y la precisión, conectando con principios de la fisiología deportiva.[^19]==
+
+#REVISAR_OPENCODE
+
+==La pedagogía hispanoamericana ha aportado figuras como **Eduardo Fernández**, cuyo *Technique, Mechanism, Learning* (2002) integra la tradición de la escuela de Tárrega con los avances de la biomecánica moderna.[^20] **Anthony Glise** sistematizó las dos grandes concepciones de la mano derecha —escuela de mano abierta y escuela de mano cerrada— en *Classical Guitar Pedagogy*, proporcionando un marco teórico para las diferencias metodológicas entre corrientes pedagógicas.[^21] **Lee Ryan**, en *Natural Classical Guitar* (1991), postuló que la eficiencia mecánica surge de la alineación anatómica correcta y no de la fuerza muscular.[^22] **Ricardo Iznaola** sistematizó en *On Practicing* (2000) una metodología de estudio basada en la práctica consciente y la autorregulación.[^23] **Ignacio Rodes** ha trazado en *La guitarra, origen y evolución de su técnica y procedimientos (1500-1900)* la evolución histórica de los recursos técnicos del instrumento, desde la vihuela hasta el siglo XX.[^24]==
+
 # Bibliografía 
 
 #REVISAR_OPENCODE
@@ -119,13 +137,23 @@ La pulsación con los dedos **índice, medio y anular** sigue un proceso de **cu
 - Carlevaro, Abel. s.f. *Cuaderno n° 23: Técnica de la mano izquierda*. Montevideo: Editorial Música.
 - Carlevaro, Abel. s.f. *Cuaderno n° 24: Técnica de la mano izquierda*. Montevideo: Editorial Música.
 - Carlevaro, Abel. s.f. *Escuela de la guitarra, exposición de la teoría instrumental*. Montevideo: Editorial Música.
+- Duarte, John W. 1974. *Bases of Classical Guitar Technique*. London: Universal Edition.
 - Duncan, Charles. 1980. *The Art of Classical Guitar Playing*. Princeton: Summy-Birchard Music.
 - Farías, Joaquín. 2010. *Guía práctica de ergonomía musical: Técnica de la guitarra clásica. Biomecánica y prevención de lesiones*. Buenos Aires: Editorial Música y Salud.
+- Fernández, Eduardo. 2002. *Technique, Mechanism, Learning*. Pacific: Mel Bay.
+- Glise, Anthony. 1997. *Classical Guitar Pedagogy*. Pacific: Mel Bay.
+- Iznaola, Ricardo. 2000. *On Practicing: A Manual for Students of Guitar Performance*. Pacific: Mel Bay.
+- Käppel, Hubert. 2016. *The Bible of Classical Guitar Technique*. AMA Verlag.
 - Provost, Richard. 1992. *The Art and Technique of Practice*. San Francisco: Guitar Solo Publications.
 - Pujol, Emilio. 1934–1971. *Escuela Razonada de la Guitarra*. Vols. 1–4. Barcelona: Editorial Clásica.
+- Quine, Hector. 1990. *Guitar Technique: Intermediate to Advanced*. Oxford: Oxford University Press.
+- Rodes, Ignacio. 2022. *La guitarra, origen y evolución de su técnica y procedimientos (1500-1900)*. Valencia: Tirant lo Blanch.
+- Ryan, Lee. 1991. *Natural Classical Guitar*. Pacific: Mel Bay.
 - Sáenz, Juan José. 2000. *Diccionario técnico de la guitarra*. Barcelona: Editorial Instrumentos.
+- Shearer, Aaron. 1963. *Classic Guitar Technique*. Pacific: Mel Bay.
 - Taylor, John. 1978. *Tone Production on the Classical Guitar*. London: Musical New Services.
 - Tennant, Scott. 1995. *Pumping Nylon: The Classical Guitarist's Technique Handbook*. Van Nuys: Alfred Publishing.
+- Yates, Stanley. 2016. *Classical Guitar Technique from Foundation to Virtuosity*. Pacific: Mel Bay.
 # NOTAS
 
 #REVISAR_OPENCODE
@@ -157,3 +185,23 @@ La pulsación con los dedos **índice, medio y anular** sigue un proceso de **cu
 [^13]: Tennant, *Pumping Nylon*.
 
 [^14]: Provost, *The Art and Technique of Practice*.
+
+[^15]: Shearer, *Classic Guitar Technique*.
+
+[^16]: Yates, *Classical Guitar Technique from Foundation to Virtuosity*.
+
+[^17]: Duarte, *Bases of Classical Guitar Technique*.
+
+[^18]: Quine, *Guitar Technique: Intermediate to Advanced*.
+
+[^19]: Käppel, *The Bible of Classical Guitar Technique*.
+
+[^20]: Fernández, *Technique, Mechanism, Learning*.
+
+[^21]: Glise, *Classical Guitar Pedagogy*.
+
+[^22]: Ryan, *Natural Classical Guitar*.
+
+[^23]: Iznaola, *On Practicing*.
+
+[^24]: Rodes, *La guitarra, origen y evolución de su técnica y procedimientos (1500-1900)*.
