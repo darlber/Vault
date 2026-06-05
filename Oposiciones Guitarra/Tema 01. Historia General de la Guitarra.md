@@ -46,9 +46,7 @@ Sus características eran:
 - Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de «guitarra española», coexistiendo[^7] guitarras de cinco y seis órdenes hasta el siglo XVIII.
 - En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.[^8]
 
-#REVISAR_OPENCODE
-
-### ==La guitarra barroca (siglos XVII–XVIII)==
+### ==La guitarra barroca (siglos XVII–XVIII)== #REVISAR_OPENCODE
 
 Durante el siglo XVII, la guitarra experimentó una transformación profunda que la consolidó como uno de los instrumentos más populares de Europa. ==La guitarra barroca de cinco órdenes== (conocida como *guitarra española*) se difundió por Italia, Francia, Inglaterra y Alemania, impulsada por la facilidad del rasgueado para acompañar danzas y canciones.[^9]
 
@@ -171,9 +169,7 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 - Ángel Benito: guitarras estilo francés.
 - Paulino Bernabé, Paco Santiago Marín, entre otros.
 
-#REVISAR_OPENCODE
-
-### ==Breve semblanza de los constructores más destacados==
+### ==Breve semblanza de los constructores más destacados== #REVISAR_OPENCODE
 
 Entre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya.
 
@@ -200,9 +196,7 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 - **Materiales compuestos**: fibras de carbono y kevlar, utilizados por **Gary Southwell** y **Ryoji Matsuoka** para guitarras de exterior y conciertos en condiciones extremas.
 - **Guitarra flamenca**: variante constructiva con tapa de ciprés o palosanto, varetaje más ligero y acción de cuerdas más baja, desarrollada por constructores como **Santos Hernández** y **Manuel Reyes**.
 
-# Bibliografía
-
-#REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.
 - Evans, Tom, y Mary Anne Evans. 1977. *Guitars: From the Renaissance to Rock*. New York: Facts on File.
@@ -221,9 +215,7 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Albatros.
 - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder Publications.
 - Wade, Graham. 2001. *A Concise History of the Classic Guitar*. Pacific: Mel Bay Publications.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1-2.
 

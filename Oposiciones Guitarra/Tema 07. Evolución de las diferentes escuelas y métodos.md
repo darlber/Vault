@@ -167,9 +167,7 @@ Para **solventar este problema**, su obra se estructura en:
 En ellas incluye **consejos prácticos** y **ejercicios técnicos** orientados a la enseñanza progresiva del instrumento. Prieto equipara la función de la mano derecha con la del arco en el violín o los mecanismos de percusión en el clave y fortepiano, subrayando su importancia expresiva.
 
 Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica de **Dionisio Aguado**[^14], quien también abordó con profundidad la técnica de ambas manos, y cuyo método tuvo gran influencia en la consolidación de la escuela guitarrística clásica del siglo XIX.
-#REVISAR_OPENCODE
-
-### Comparación de concepciones estéticas, teóricas y técnicas entre escuelas
+### Comparación de concepciones estéticas, teóricas y técnicas entre escuelas #REVISAR_OPENCODE
 
 ==**Concepciones estéticas:** La escuela renacentista de vihuela (Milán[^1], Mudarra[^2], Fuenllana[^3]) concibe la música desde una perspectiva polifónica y contrapuntística, donde el instrumento sirve para expresar texturas complejas heredadas de la música vocal. En contraste, la escuela barroca de guitarra (Amat[^9], Ribayaz[^9], Sanz[^10]) prioriza el acompañamiento, el rasgueado y la ornamentación, reflejando el ideal expresivo del Barroco. La escuela clásica de finales del XVIII (Moretti[^11], Ferandiere[^12], Abreu-Prieto[^13]) introduce un enfoque racionalista y didáctico donde la claridad técnica y la sistematización del aprendizaje responden a los ideales ilustrados de orden y progreso.==
 
@@ -177,22 +175,14 @@ Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica d
 
 ==**Concepciones técnicas:** La pulsación varía sustancialmente entre escuelas. La vihuela renacentista emplea el redoble con dos dedos y el dedillo, con preferencia por la yema (Fuenllana critica explícitamente el uso de la uña). La escuela barroca desarrolla el rasgueado y el apoyo del meñique en la tapa. La escuela clásica, con Moretti y Aguado[^14], sienta las bases de la técnica moderna: mano derecha sin apoyo del meñique, sistematización de arpegios y escalas, y posición independiente de ambas manos.====
 
-#REVISAR_OPENCODE
-
-### Otras cuerdas pulsadas
+### Otras cuerdas pulsadas #REVISAR_OPENCODE
 
 ==Además de la vihuela, el laúd y la guitarra, otros instrumentos de cuerda pulsada desarrollaron sus propias tradiciones pedagógicas. El **arpa**, con una rica historia en España desde la Edad Media, contó con tratadistas como Luis Venegas de Henestrosa[^4], cuyo *Libro de cifra nueva* abarcaba tecla, arpa y vihuela, reflejando la interconexión entre estas familias instrumentales. En Italia y Francia, el **laúd** renacentista y barroco generó una extensa literatura didáctica con figuras como Adrián Le Roy[^6] en Francia, Thomas Robinson y John Dowland[^7] en Inglaterra, y Hans Gerle y Wolff Heckel Newsidler[^8] en Alemania. El **mandolín** y la **bandurria** también desarrollaron técnicas de pulsación específicas, aunque su literatura pedagógica es menos abundante que la de los instrumentos anteriormente citados.==
 
-#REVISAR_OPENCODE
+==El estudio de la música del Renacimiento ha sido sistematizado por Gustave Reese y Samuel Rubio, mientras que Hans Federico Neuman ha analizado en particular la producción musical española de este periodo, proporcionando un marco teórico esencial para comprender el contexto en que surgieron los tratados de vihuela y guitarra renacentista.[^15][^16][^17] Asimismo, la investigación sobre el Barroco musical europeo ha sido desarrollada por Lorenzo Bianconi, George Buelow y John W. Hill, cuyas obras constituyen referencias fundamentales para el estudio de la evolución técnica e instrumental del siglo XVII.[^18][^19][^20]== #REVISAR_OPENCODE
 
-==El estudio de la música del Renacimiento ha sido sistematizado por Gustave Reese y Samuel Rubio, mientras que Hans Federico Neuman ha analizado en particular la producción musical española de este periodo, proporcionando un marco teórico esencial para comprender el contexto en que surgieron los tratados de vihuela y guitarra renacentista.[^15][^16][^17] Asimismo, la investigación sobre el Barroco musical europeo ha sido desarrollada por Lorenzo Bianconi, George Buelow y John W. Hill, cuyas obras constituyen referencias fundamentales para el estudio de la evolución técnica e instrumental del siglo XVII.[^18][^19][^20]==
-
-#REVISAR_OPENCODE
-
-==En el ámbito específico de la guitarra, la historia, organología y repertorio han sido estudiados por Alcaraz Iborra, mientras que Giuseppe Radole ha abordado las relaciones entre laúd, guitarra y vihuela.[^21][^22] La guitarra barroca ha sido objeto de estudio por Monica Hall, y las tradiciones de la danza y las diferencias instrumentales en la España de los siglos XVII y XVIII han sido investigadas por Maurice Esses.[^23][^24] Por último, Graham Wade ha trazado la evolución de las tradiciones de la guitarra clásica, complementando el estudio de Harvey Turnbull sobre el instrumento desde el Renacimiento hasta nuestros días.[^25][^26]==
-# Bibliografía
-
-#REVISAR_OPENCODE
+==En el ámbito específico de la guitarra, la historia, organología y repertorio han sido estudiados por Alcaraz Iborra, mientras que Giuseppe Radole ha abordado las relaciones entre laúd, guitarra y vihuela.[^21][^22] La guitarra barroca ha sido objeto de estudio por Monica Hall, y las tradiciones de la danza y las diferencias instrumentales en la España de los siglos XVII y XVIII han sido investigadas por Maurice Esses.[^23][^24] Por último, Graham Wade ha trazado la evolución de las tradiciones de la guitarra clásica, complementando el estudio de Harvey Turnbull sobre el instrumento desde el Renacimiento hasta nuestros días.[^25][^26]== #REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Bianconi, Lorenzo. 1986. *Historia de la música, 5. El siglo XVII*. Ciudad: Editorial.
 - Buelow, George. 2004. *A History of Baroque Music*. Ciudad: Editorial.
@@ -212,9 +202,7 @@ Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica d
 - Venegas de Henestrosa, Luis. 1557. *Libro de cifra nueva para tecla, arpa y vihuela*. Ciudad: Editorial.
 - Wade, Graham. 1953. *Traditions of the Classical Guitar*. Ciudad: Editorial.
 
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Milán, *El Maestro*.
 

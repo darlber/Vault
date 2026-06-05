@@ -17,9 +17,7 @@ La técnica moderna de la guitarra surge a partir de **varios hitos históricos 
     - La **presencia en grandes escenarios internacionales**.
     - Un **aumento en la popularidad** del instrumento.
 En conclusión, el **siglo XX** es considerado el más relevante en la historia de la guitarra, tanto por su desarrollo técnico como por su proyección artística y social.[^1]
-#REVISAR_OPENCODE
-
-### Principios fundamentales de la técnica guitarrística moderna
+### Principios fundamentales de la técnica guitarrística moderna #REVISAR_OPENCODE
 
 ==La técnica moderna de la guitarra clásica se sustenta sobre un conjunto de principios interrelacionados que han sido formulados y refinados por los grandes pedagogos del siglo XX:
 
@@ -42,17 +40,13 @@ Para comprender el desarrollo de la técnica moderna de la guitarra, es necesari
 - Esta evolución organológica, junto con los nuevos enfoques musicales, impulsa también el auge de la **didáctica guitarrística**, reflejada en diversos métodos. Uno de los primeros fue:
     - _Explicación para tocar la guitarra de punteado por música o cifra_ (Veracruz, 1776).
 
-#REVISAR_OPENCODE
-
-==La tradición de la cuerda pulsada en España se remonta a los tratados para vihuela del siglo XVI, como los *Tres libros de música en cifras* de Alonso Mudarra (Sevilla, 1546) y el *Libro de música para vihuela intitulado Orphénica Lira* de Miguel de Fuenllana (1554), cuyas ediciones modernas constituyen fuentes esenciales para el estudio de la técnica antigua de la guitarra.[^9][^10]==
+==La tradición de la cuerda pulsada en España se remonta a los tratados para vihuela del siglo XVI, como los *Tres libros de música en cifras* de Alonso Mudarra (Sevilla, 1546) y el *Libro de música para vihuela intitulado Orphénica Lira* de Miguel de Fuenllana (1554), cuyas ediciones modernas constituyen fuentes esenciales para el estudio de la técnica antigua de la guitarra.[^9][^10]== #REVISAR_OPENCODE
     - También se da un **cambio en la notación musical**:
 - Se da también un **cambio en la notación musical**:
     - De la **tablatura** al **sistema mensural** (primer ejemplo: _Reglas y advertencias_, Pablo Minguet, Madrid, 1754).
     - Esto favorece el paso de una función de acompañamiento (rasgueo) a una más **polifónica**, con líneas melódicas más definidas.
 
-#REVISAR_OPENCODE
-
-==Paralelamente, la práctica de la ornamentación en la música del Renacimiento —cuyo estudio fue sistematizado por Howard Mayer Brown— influyó en el desarrollo de los recursos expresivos de la guitarra y el laúd, adaptándose a las posibilidades técnicas de cada instrumento.[^11]==
+==Paralelamente, la práctica de la ornamentación en la música del Renacimiento —cuyo estudio fue sistematizado por Howard Mayer Brown— influyó en el desarrollo de los recursos expresivos de la guitarra y el laúd, adaptándose a las posibilidades técnicas de cada instrumento.[^11]== #REVISAR_OPENCODE
 - **Fernando Sor** y **Dionisio Aguado** son figuras fundamentales en esta evolución:
     - **Sor**: guitarrista, compositor y pedagogo de gran sensibilidad musical, con una producción amplia que incluye ballet, ópera y música vocal.
     - **Aguado**: se destaca por su labor **pedagógica y técnica**, complementando el legado de Sor.
@@ -222,9 +216,7 @@ La evolución de la técnica guitarrística y la revalorización del instrumento
 2. **Ampliación del repertorio:** A través de transcripciones de música antigua, recuperación de obras clásicas, y composición de piezas para guitarra por parte de compositores no guitarristas y guitarristas.  
 3. **Auge de métodos y enseñanza:** Surge la necesidad de transmitir conocimientos y la inclusión de la guitarra en conservatorios.
 
-#REVISAR_OPENCODE
-
-==La investigación musicológica en torno a la guitarra ha sacado a la luz fondos documentales que permiten reconstruir su historia pedagógica, como el catalogado por Luis Briso de Montiano.[^8] Del mismo modo, los congresos y encuentros académicos han contribuido a la difusión de estos hallazgos, como las actas del congreso «España en la Música de Occidente».[^12]==  
+==La investigación musicológica en torno a la guitarra ha sacado a la luz fondos documentales que permiten reconstruir su historia pedagógica, como el catalogado por Luis Briso de Montiano.[^8] Del mismo modo, los congresos y encuentros académicos han contribuido a la difusión de estos hallazgos, como las actas del congreso «España en la Música de Occidente».[^12]==   #REVISAR_OPENCODE
 4. **Desarrollo técnico-pedagógico:** Sistematicidad en métodos y estudios técnicos, con contribuciones de Tárrega, Pujol, Fortea, Carlevaro, entre otros.  
 5. **Publicación de obras:** Nuevas concepciones estéticas y musicales a principios del siglo XX motivaron cambios en técnicas de ataque y pulsación.  
 ### Controversia técnica  
@@ -245,9 +237,7 @@ Desde Sor y Aguado, persiste el debate sobre el uso de la **uña** o la **yema**
 5. **Regino Sainz de la Maza:** Ataque perpendicular con el centro del dedo (uña).  
 Estas distintas formas de ataque influyen en la posición de la mano derecha, la colocación del instrumento y la acción de los dedos para lograr precisión, sonoridad y técnica adecuadas.
 
-#REVISAR_OPENCODE
-
-### Aportaciones técnicas de los grandes pedagogos
+### Aportaciones técnicas de los grandes pedagogos #REVISAR_OPENCODE
 
 ==Cada figura clave contribuyó con innovaciones específicas al desarrollo de la técnica moderna:
 
@@ -258,9 +248,7 @@ Estas distintas formas de ataque influyen en la posición de la mano derecha, la
 - **Aaron Shearer**: Introdujo un enfoque anatómico-científico en la pedagogía de la guitarra, analizando la mecánica de los movimientos desde la biomecánica y la eficiencia.[^14]
 - **Julio Salvador Sagreras**: Desarrolló una progresión técnica gradual en sus seis volúmenes de *Lecciones de guitarra*, referencia pedagógica para la formación sistemática del guitarrista.==
 
-# Bibliografía
-
-#REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Briso de Montiano, Luis. 1995. *Un fondo desconocido de música para guitarra*. Madrid: Editorial Clásica.
 - Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Cambridge: Cambridge University Press.
@@ -276,9 +264,7 @@ Estas distintas formas de ataque influyen en la posición de la mano derecha, la
 - Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. London: Faber and Faber.
 - Tyler, James. 1980. *The Early Guitar*. London: Oxford University Press.
 - Varios autores. 1987. *Actas del Congreso «España en la Música de Occidente»*, vol. 1. Madrid: Editorial Congresos.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*.
 
