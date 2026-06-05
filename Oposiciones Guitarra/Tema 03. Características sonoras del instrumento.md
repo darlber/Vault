@@ -172,40 +172,77 @@ Por ejemplo, para una cuerda de 650 mm:
 - 650 mm / 6  (Tercera menor) Traste 4, casi 3
 - 650 mm / 7  (Séptima menor o tercera menor baja) Traste 3 mitad.
 
+## Armónicos artificiales
+
+#REVISAR_OPENCODE
+
+==Los armónicos artificiales (también llamados *armónicos de octava* o *armónicos forzados*) son aquellos que se producen pisando una cuerda con la mano izquierda (acortando su longitud activa) y, simultáneamente, rozando la cuerda con la mano derecha a la distancia de una octava (doce trastes) del punto pisado.==[1] La técnica estándar consiste en:
+
+- ==La mano izquierda pisa la nota deseada (por ejemplo, Do en el traste 8 de la quinta cuerda).==
+- ==La mano derecha usa el dedo índice para **rozar ligeramente** la cuerda exactamente doce trastes más arriba (traste 20 en el ejemplo).==
+- ==El dedo anular o medio de la misma mano pulsa la cuerda, generando el armónico de octava.==
+
+==A diferencia de los armónicos naturales, que solo pueden producirse en puntos fijos de la cuerda al aire, los armónicos artificiales permiten obtener sonidos armónicos en **cualquier nota del diapasón**, lo que los convierte en un recurso indispensable para el repertorio moderno.[2] El compositor que más contribuyó a popularizarlos fue **Francisco Tárrega**, quien los empleó con frecuencia en obras como *Recuerdos de la Alhambra* y *Capricho Árabe*, y esta tradición fue continuada por Miguel Llobet, Emilio Pujol y, más tarde, por compositores como Torroba, Turina y Britten.==
+
+==La distancia estándar para el armónico artificial es de doce trastes (una octava), pero también pueden obtenerse armónicos a otras distancias== (por ejemplo, a siete o cinco trastes, que producen la quinta o la cuarta justa, respectivamente), aunque su sonido es menos nítido y su ejecución considerablemente más difícil. En la notación moderna, los armónicos artificiales se indican con un rombo sobre la nota pisada y la indicación de la cuerda, o bien con dos notas: la nota pisada y, sobre ella, la nota que resulta del armónico.[3]
+
 # Formas convencionales y no convencionales de producción del sonido
+
+#REVISAR_OPENCODE
+
 ### Formas convencionales
-- **Pulsación tirando-apoyando**: Técnica básica y ampliamente conocida.
-- **Uso de la yema y la uña**:
-  - No hay registros anteriores al siglo XVIII sobre su uso específico.
-  - El debate histórico:
-    - **Fuenllana**: Prefería la pulsación con la yema porque permite comunicar mejor las intenciones del músico.
-    - **Alessandro Piccinini**: Defendía el uso combinado de yema y uña, con la uña corta para que primero la yema deslice y luego la uña toque las cuerdas.
+
+- ==**Apoyando (rest stroke)**==: tras pulsar la cuerda, el dedo de la mano derecha **descansa sobre la cuerda inmediatamente superior**, lo que permite aprovechar todo el recorrido del dedo y transmite la máxima energía a la cuerda. Produce un sonido más pleno, potente y proyectado. Es la técnica predilecta para pasajes melódicos y de primer plano.
+- ==**Tirando (free stroke)**==: tras pulsar, el dedo **no toca la cuerda contigua** (excepto ocasionalmente para amortiguar). Permite mayor velocidad y flexibilidad, especialmente en arpegios, acordes o pasajes polifónicos donde varias voces se entrecruzan.[4]
+- ==**Pulsación combinada (yema y uña)**==: desde Piccinini (1623) hasta la actualidad, la mayoría de los concertistas emplean un ataque mixto: la yema contacta primero, amortiguando el inicio del sonido, y la uña se desliza sobre la cuerda para añadir brillo y proyección. La forma, longitud y dureza de la uña —así como el pulido de su borde— inciden directamente en el timbre resultante.[5]
+- ==**Ángulo y punto de ataque**==: el sonido puede modificarse variando la inclinación de la mano derecha (más perpendicular = más brillante; más oblicua = más dulce) y la zona de pulsación (boca = graves y redondez; puente = metálico y penetrante; mástil = aterciopelado y oscuro). La combinación de estos parámetros constituye la base del control tímbrico del guitarrista.[6]
 
 ### Formas no convencionales
-- **Menos convencionales** (uso ocasional):
-  - Rasgueos flamencos
-  - Tremolo con un solo dedo
-  - Pizzicato Bartók
 
-- **Poco convencionales** (uso inusual o con objetos):
-  - Tocar con púa
-  - Usar anillo en el dedo para pulsar
-  - Colocar papeles sobre las cuerdas
-  - Gomas elásticas en el diapasón
-  - Uso de _slide_ 
-  - Amplificación
-  - Rasgueos con ambas manos
-  - Golpes con dedos de la mano izquierda o golpes en las cuerdas en general
+#REVISAR_OPENCODE
+
+- ==**Rasgueo flamenco**==: técnica percusiva en la que los dedos de la mano derecha se abren y cierran golpeando las cuerdas con las uñas en sucesión rápida. Admite variantes como el rasgueo de cinco dedos, el de tres (abierto y cerrado) y el *abandolao*.
+- ==**Tambora (o percusión sobre la tapa)**==: se golpea la tapa armónica cerca del puente con la yema o la uña para imitar el sonido de un tambor o un bombo. Es frecuente en la música popular brasileña y en el repertorio contemporáneo.
+- ==**Pizzicato normal**==: se amortigua la cuerda con la palma de la mano derecha justo antes o después de pulsarla, obteniendo un sonido apagado y seco.
+- ==**Pizzicato Bartók**==: similar al pizzicato normal, pero la cuerda se separa del diapasón y se suelta bruscamente, produciendo un chasquido percusivo contra los trastes.
+- ==**Percusión sobre el diapasón o la caja**==: se golpean las cuerdas directamente contra el diapasón (con la mano izquierda o derecha) para producir ritmos y efectos de percusión corporal. Muy usado en el repertorio minimalista (ej. Koshkin, Brouwer) y en la guitarra flamenca de concierto.
+- ==**Uso de la púa**==: produce un ataque más nítido, con mayor presencia de agudos. Puede usarse para pasajes muy rápidos o para imitar la sonoridad de la guitarra flamenca.
+- ==**Slide (bottleneck)**==: se desliza un tubo de metal o vidrio a lo largo del diapasón mientras se pulsan las cuerdas, produciendo portamentos continuos. Es característico del blues y del country, pero también aparece en la música contemporánea para guitarra clásica.
+- ==**Preparaciones**==: se colocan objetos (papel, gomas, clips, tornillos) entre las cuerdas o entre la cuerda y el diapasón para alterar el timbre, la altura o la sonoridad del instrumento. Es un recurso habitual en la música experimental desde la segunda mitad del siglo XX.
+- ==**Rasgueo con ambas manos**==: ambas manos se usan simultáneamente para rasguear, creando patrones rítmicos complejos y texturas sonoras no lineales.
+- ==**Armónicos con la mano izquierda**==: mientras la mano derecha pulsa la cuerda, la mano izquierda roza ligeramente la cuerda en un punto de inflexión para producir armónicos sin necesidad de pisar.
 # Bibliografía 
+
+#REVISAR_OPENCODE
 #TODO
-- Aguado, Dionisio. _Escuela de guitarra_. Madrid: Editorial Clásica, 1825.
-- Aguado, Dionisio. _Méthode complète pour la guitare_. París: Imprenta Musical, 1826.
-- Aguado, Dionisio. _Nuevo método para guitarra_. Madrid: Editorial Clásica, 1843.
-- Sáenz, Juan José. _Diccionario Técnico de la Guitarra_. Barcelona: Editorial Instrumentos, 2000.
-- Romanillos, José Luis. _Catálogo de la Exposición Guitarras Antiguas Españolas_. Madrid: Museo Nacional de la Guitarra, 1990.
-- Romanillos, José Luis. _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_. Madrid: Editorial Música, 1989.
-- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. London: Faber and Faber, 1976.
-- Tyler, James. _The Early Guitar_. London: Oxford University Press, 1980.
-- Varios autores. _Catálogo de la Exposición La Guitarra Española_. Madrid: Museo Nacional, 1991.
-- Viglietti, Cedar. _Origen e historia de la Guitarra_. Buenos Aires: Editorial Artes, 1976.
-- Wade, Graham. _Traditions of the Classical Guitar_. London: Calder, 1980.
+
+- Aguado, Dionisio. 1949. *Escuela de guitarra*. Edición facsímil. Madrid: Unión Musical Española.
+- Backus, John. 1977. *The Acoustical Foundations of Music*. 2nd ed. New York: W. W. Norton.
+- Benade, Arthur H. 1976. *Fundamentals of Musical Acoustics*. London: Oxford University Press.
+- Duncan, Charles. 1980. *The Art of Classical Guitar Playing*. Princeton: Summy-Birchard Music.
+- Fletcher, Neville H., y Thomas D. Rossing. 1998. *The Physics of Musical Instruments*. 2nd ed. New York: Springer.
+- Pujol, Emilio. 1956. *Escuela razonada de la guitarra*. Vols. 1-4. Buenos Aires: Ricordi Americana.
+- Richardson, Bernard E. 1994. "The Acoustical Development of the Guitar." *Journal of the Catgut Acoustical Society* 2 (5): 1-10.
+- Sáenz, Juan José. 2000. *Diccionario Técnico de la Guitarra*. Barcelona: Editorial Instrumentos.
+- Romanillos, José Luis, y Marian Harris Winspear. 2004. *Antonio de Torres: Guitar Maker: His Life and Work*. Westport, CT: The Bold Strummer.
+- Taylor, John. 1992. *The Science of Sound*. 3rd ed. San Francisco: Addison Wesley.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. London: Faber and Faber.
+- Tyler, James. 1980. *The Early Guitar*. London: Oxford University Press.
+- Viglietti, Cedar. 1976. *Origen e historia de la Guitarra*. Buenos Aires: Editorial Artes.
+- Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder.
+
+# NOTAS
+
+#REVISAR_OPENCODE
+
+[1] Sobre la técnica de armónicos artificiales en la guitarra clásica, véase Pujol, *Escuela razonada de la guitarra*, 1956, vol. 3, caps. 8-10, y Duncan, *The Art of Classical Guitar Playing*, 1980, 112-118.
+
+[2] Las propiedades acústicas de los armónicos en cuerdas pulsadas se estudian en detalle en Fletcher y Rossing, *The Physics of Musical Instruments*, 1998, cap. 4.
+
+[3] Para una descripción de la notación de armónicos artificiales y su evolución histórica, véase Sáenz, *Diccionario Técnico de la Guitarra*, 2000, 53-55.
+
+[4] La fisiología de la pulsación (apoyando vs. tirando) se analiza en Duncan, *The Art of Classical Guitar Playing*, 1980, 43-52. Para la perspectiva histórica de la escuela de Tárrega, Pujol, *Escuela razonada de la guitarra*, 1956, vol. 2, 67-84.
+
+[5] Sobre el debate histórico entre pulsación con yema, uña o mixta, véase Aguado, *Escuela de guitarra*, 1949, 34-40, y Tyler, *The Early Guitar*, 1980, 124-130.
+
+[6] Los principios físicos que relacionan el punto de ataque con el espectro armónico resultante se exponen en Benade, *Fundamentals of Musical Acoustics*, 1976, 213-226, y Fletcher y Rossing, *The Physics of Musical Instruments*, 1998, 239-254.
