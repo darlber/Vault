@@ -45,13 +45,31 @@ Sus características eran:
 - Este sistema fue adoptado por otros constructores como Pagés (1777), y se difundió desde Cádiz y Málaga hacia Madrid a principios del siglo XIX.
 - Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de “guitarra española”, coexistiendo guitarras de cinco y seis órdenes hasta el siglo XVIII.
 - En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.
-- En la actualidad, la guitarra ha experimentado múltiples mejoras organológicas (afinación, clavijas, puente, varetaje, sonido).
-- Antonio de Torres fue fundamental en esta transformación: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.
+
+#REVISAR_OPENCODE
+
+### ==La guitarra barroca (siglos XVII–XVIII)==
+
+Durante el siglo XVII, la guitarra experimentó una transformación profunda que la consolidó como uno de los instrumentos más populares de Europa. ==La guitarra barroca de cinco órdenes== (conocida como *guitarra española*) se difundió por Italia, Francia, Inglaterra y Alemania, impulsada por la facilidad del rasgueado para acompañar danzas y canciones.[1]
+
+Dos tradiciones interpretativas convivieron durante este período:
+- El ==*rasgueado*== (en italiano *battute*), de carácter rítmico y popular, utilizado para el acompañamiento de danzas como la chacona, la zarabanda o el pasacalle.
+- El ==*punteado*== (*punteado* o *campanelas*), de textura polifónica, que requería un dominio técnico más avanzado y que enlazaba con la tradición de la vihuela renacentista.
+
+Los primeros métodos de guitarra barroca aparecieron en España con **Joan Carles Amat** (==*Guitarra española de cinco órdenes*, 1596==, aunque la edición más antigua conservada es de 1626) y en Italia con **Girolamo Montesardo** (==*Nuova inventione d'intavolatura*, 1606==).[2] En Francia, **Robert de Visée** (c. 1655–1733), guitarrista de la corte de Luis XIV, elevó el instrumento a la categoría de música de cámara con suites de danzas de gran refinamiento estilístico.
+
+Otros autores fundamentales del período barroco fueron: ==**Francesco Corbetta**== (c. 1615–1681), guitarrista de las cortes de Francia e Inglaterra, cuya obra *La Guitarre Royalle* (1671) marcó un hito en el repertorio del instrumento; ==**Gaspar Sanz**== (1640–1710), autor del ==*Instrucción de música sobre la guitarra española*== (1674), tratado pedagógico de referencia en España; y ==**Giovanni Battista Granata**==, **Angelo Michele Bartolotti**, **Ludovico Roncalli** y **Santiago de Murcia**, entre otros, que contribuyeron a la expansión y diversificación del repertorio guitarrístico barroco.
+
+### El siglo XIX: hacia la guitarra de concierto
+
+Antonio de Torres fue fundamental en la transformación del instrumento: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.[3]
 	- Según José Luis Romanillos, Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
 
-### Siglo XX y XXI: la guitarra de concierto moderna
+### ==La consolidación en el siglo XX: Andrés Segovia y la guitarra de concierto==
 
-El modelo de Torres se convirtió en el estándar para la guitarra de concierto del siglo XX. Constructores como **Hermann Hauser I** (Alemania), **Ignacio Fleta** (Cataluña) y **José Ramírez III** (Madrid) adoptaron y perfeccionaron el sistema de varetaje en abanico, cada uno con variaciones personales que influyeron en el sonido de los grandes intérpretes del siglo.
+La figura central de este período es ==**Andrés Segovia**== (1893–1987), cuyo magisterio elevó la guitarra desde el ámbito del salón y el folclore hasta las salas de concierto internacionales. Segovia no solo fue un intérprete excepcional, sino que impulsó activamente la creación de un nuevo repertorio —encargando obras a compositores como Federico Moreno Torroba, Joaquín Turina, Manuel de Falla, Heitor Villa-Lobos, Mario Castelnuovo-Tedesco y Joaquín Rodrigo— y legitimó el instrumento en los círculos académicos.[4]
+
+El modelo de Torres, difundido por los luthiers del siglo XX, se convirtió en el estándar para la guitarra de concierto. Constructores como **Hermann Hauser I** (Alemania), **Ignacio Fleta** (Cataluña) y **José Ramírez III** (Madrid) adoptaron y perfeccionaron el sistema de varetaje en abanico, cada uno con variaciones personales que influyeron en el sonido de los grandes intérpretes del siglo.
 
 - **Hermann Hauser I** (1882–1952) fue el principal difusor del modelo Torres en Centroeuropa. Sus guitarras, de construcción ligera y gran respuesta dinámica, fueron las preferidas por Andrés Segovia durante décadas.
 - **José Ramírez III** (1922–1995) introdujo innovaciones como el uso de cedro en lugar de abeto para la tapa armónica, logrando un sonido más redondo y potente que caracterizó a la llamada "escuela madrileña". Su modelo "1a" fue utilizado por Segovia, Romero y Bream.
@@ -153,6 +171,18 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 - Ángel Benito: guitarras estilo francés.
 - Paulino Bernabé, Paco Santiago Marín, entre otros.
 
+#REVISAR_OPENCODE
+
+### ==Breve semblanza de los constructores más destacados==
+
+Entre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya.
+
+En la escuela castellana, ==**Manuel Ramírez**== (1864–1920) fundó el taller que luego continuaría su descendiente **José Ramírez**, formando a constructores como **Santos Hernández** y **Domingo Esteso**, cuya tradición se mantiene activa en el siglo XXI. ==**José Ramírez III**== (1922–1995) introdujo la tapa de cedro y desarrolló el modelo de guitarra de concierto "1a", utilizado por Andrés Segovia.
+
+En Cataluña, ==**Ignacio Fleta**== (1897–1977) desarrolló un sistema de varetaje asimétrico que proporcionaba una proyección sonora excepcional, siendo el constructor de referencia para guitarristas como John Williams. ==**Francisco Simplicio**== (1874–1942) combinó la tradición catalana con la ornamentación francesa.
+
+En el ámbito internacional, el alemán ==**Hermann Hauser I**== (1882–1952) fabricó las guitarras que Segovia utilizó durante la mayor parte de su carrera, mientras que el australiano ==**Greg Smallman**== (n. 1947) revolucionó la construcción con su sistema de *lattice bracing*.
+
 ## **Escuela alemana:**
 La tradición constructiva alemana se remonta al siglo XIX con **Johann Georg Stauffer** (1778–1853), cuyas guitarras presentaban un mecanismo de afinación característico y una forma de clavijero que influyó en el diseño posterior de la guitarra. Su discípulo **Christian Friedrich Martin** emigró a Estados Unidos y fundó la marca C. F. Martin & Company, pionera en la construcción de guitarras acústicas. En el siglo XX, **Hermann Hauser I** (1882–1952) elevó la construcción guitarrística alemana al máximo nivel, basándose en el modelo de Torres y creando instrumentos de extraordinaria calidad, utilizados por Andrés Segovia. La tradición fue continuada por su hijo **Hermann Hauser II** y su nieto **Hermann Hauser III**. También destacan **Edgar Mönch**, **Richard Jacob "Weissgerber"** y **Gerhard Oldiges**.
 
@@ -186,3 +216,23 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Albatros.
 - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder Publications.
 - Wade, Graham. 2001. *A Concise History of the Classic Guitar*. Pacific: Mel Bay Publications.
+
+#REVISAR_OPENCODE
+
+- Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.
+- Evans, Tom, y Mary Anne Evans. 1977. *Guitars: From the Renaissance to Rock*. New York: Facts on File.
+- Grunfeld, Frederic V. 1969. *The Art and Times of the Guitar*. New York: Macmillan.
+- Pinnell, Richard T. 1980. *Francesco Corbetta and the Baroque Guitar*. Ann Arbor: UMI Research Press.
+- Tyler, James, y Paul Sparks. 2002. *The Guitar and Its Music: From the Renaissance to the Classical Era*. Oxford: Oxford University Press.
+
+# NOTAS
+
+#REVISAR_OPENCODE
+
+[1] La expresión *guitarra española* para designar a la guitarra barroca de cinco órdenes se generalizó en toda Europa durante el siglo XVII. Véase Tyler y Sparks, *The Guitar and Its Music*, 2002, caps. 3-5.
+
+[2] Sobre los métodos de guitarra barroca, la edición más antigua conservada del método de Amat es de 1626, aunque existen referencias a una posible edición de 1596. Para un estudio detallado, véase Pinnell, *Francesco Corbetta and the Baroque Guitar*, 1980, cap. 1.
+
+[3] La figura de Antonio de Torres ha sido estudiada en profundidad por Romanillos y Winspear, *Antonio de Torres: Guitar Maker*, 2004.
+
+[4] El papel de Andrés Segovia en la legitimación de la guitarra como instrumento de concierto es analizado en Coelho, *The Cambridge Companion to the Guitar*, 2003, cap. 7.

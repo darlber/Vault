@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
+                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 04. Técnicas de concienciación corporal"
+              "title": "Tema 01. Historia General de la Guitarra"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
+                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 04. Técnicas de concienciación corporal"
+              "title": "Outline of Tema 01. Historia General de la Guitarra"
             }
           },
           {
@@ -148,7 +148,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md"
+                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -211,9 +211,11 @@
   },
   "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
+    "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
+    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
     "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
-    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
     "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
     "Oposiciones TAI/Índice.md",
     "Oposiciones TAI/Flashcards - Tema 12.md",
@@ -224,8 +226,6 @@
     "Oposiciones TAI/Flashcards - Tema 2.md",
     "Oposiciones TAI/Flashcards - Tema 1.md",
     "Oposiciones Guitarra/Programación Didáctica.md",
-    "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
-    "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Oposiciones Guitarra/0. Temas Oposiciones.md",
     "Oposiciones TAI/Tema 11. Periféricos.md",
     "Oposiciones TAI/Tema 10. Informática básica.md",
