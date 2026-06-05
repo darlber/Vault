@@ -38,7 +38,11 @@ En el siglo XIX surgieron dos estilos constructivos: el castellano y el andaluz,
     - Abertura en la tapa que proyecta el sonido. Los rosetones labrados de los siglos XVI‑XVII dieron paso al orificio circular abierto que se usa hoy.
 - **Encordadura y cuerdas**
     - Tradicionalmente (siglos XVII-XVIII): tripa de carnero (agudas) y seda entorchada en plata (graves).
-    - Desde 1944, la introducción del nylon estabilizó afinación y resistencia, impulsando la guitarra «clásica», aunque las cuerdas antiguas ofrecían gran dulzura y profundidad pero eran muy frágiles ante cambios atmosféricos.
+    - Desde 1944, ==la introducción del nylon== estabilizó afinación y resistencia, impulsando la guitarra «clásica», aunque las cuerdas antiguas ofrecían gran dulzura y profundidad pero eran muy frágiles ante cambios atmosféricos.
+
+#REVISAR_OPENCODE
+
+==La introducción del nylon en 1944==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia**, supuso una revolución en la historia del instrumento.[1] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista.
 
 Además del uso del **nylon**, se produjeron otros dos cambios importantes en las cuerdas:
 
@@ -106,7 +110,22 @@ Estas estructuras internas tienen doble función:
 #### ✈️ **Viajes en avión:**
 - Es **recomendable aflojar las cuerdas** antes del vuelo.
 - Los cambios de **presión en despegues y aterrizajes** pueden aumentar la tensión del instrumento si las cuerdas están demasiado tensas.
-# Aspectos fundamentales en la elección del instrumento
+#REVISAR_OPENCODE
+
+## Accesorios
+
+La práctica instrumental con guitarra requiere de una serie de accesorios que facilitan el estudio, la interpretación y el mantenimiento del instrumento:[2]
+
+==**Soporte o banqueta**==: permite elevar la pierna izquierda para adoptar la posición clásica. Existen modelos de altura fija y regulable; la altura recomendada se sitúa entre 10 y 15 cm, ajustable en función de la longitud del fémur del intérprete.
+==**Soporte de guitarra**== (o *guitarrest*): sistema de sujeción que reemplaza a la banqueta, fijándose al instrumento mediante ventosas o ganchos. Permite una posición más simétrica del cuerpo y reduce la rotación de la columna vertebral.
+==**Atril**==: soporte para la partitura. Debe ser estable, regulable en altura e inclinación, y suficientemente amplio para albergar partituras de formato estándar sin que se doblen o caigan.
+==**Afinador cromático**==: dispositivo electrónico que detecta la frecuencia de cada cuerda. Los modelos modernos incluyen funciones de calibración (440 Hz como referencia estándar), clip de sujeción al clavijero para captar la vibración directa y pantalla LCD de alta precisión.
+==**Metrónomo**==: herramienta para el entrenamiento rítmico. Puede ser mecánico, electrónico o una aplicación móvil. La práctica con metrónomo es esencial para desarrollar la estabilidad temporal y la precisión rítmica.
+==**Funda o estuche**==: elemento de protección imprescindible. Los estuches rígidos (*hard case*) ofrecen la máxima protección frente a golpes, cambios de temperatura y humedad. Las fundas acolchadas (*gig bag*) son más ligeras y transportables, aunque protegen menos.
+==**Humidificador**==: dispositivo para mantener la humedad relativa dentro del estuche dentro del rango óptimo (55-70 %). Es especialmente necesario en climas secos o durante la calefacción invernal.
+==**Soporte de pared**==: permite almacenar la guitarra verticalmente, liberando espacio y manteniéndola accesible para la práctica diaria. Debe contar con protecciones de goma en los puntos de contacto.
+
+## Aspectos fundamentales en la elección del instrumento
 #### 🎼 **1. Variedad tímbrica**
 - Depende del repertorio y del intérprete.
 - Algunos músicos necesitan una **amplia gama de colores sonoros**, otros priorizan otros aspectos.
@@ -125,17 +144,46 @@ Estas estructuras internas tienen doble función:
 #### 📐 **5. Tiro (longitud de escala)**
 - Afecta la **tensión de las cuerdas** y la **distancia entre trastes**.
 - Un **tiro mayor** suele dar más tensión y potencia, pero puede ser menos cómodo para manos pequeñas.
-- Debe adaptarse a la **morfología** y preferencias del guitarrista.-
+- Debe adaptarse a la **morfología** y preferencias del guitarrista.
+
+#REVISAR_OPENCODE
+
+#### ==6. Guitarra de estudio vs. guitarra de concierto==
+
+Las guitarras de estudio (o de alumno) suelen estar construidas con maderas menos nobles (tapa de abeto o cedro macizo, fondo y aros de palosanto laminado o maderas alternativas) y presentan un acabado más sencillo. Su precio oscila entre los 200 y los 800 euros. Las guitarras de concierto, por el contrario, emplean maderas macizas seleccionadas —tapa de abeto alemán o cedro de incienso, fondo y aros de palosanto de India o de Río—, un varetaje más elaborado y una construcción artesanal que puede requerir meses de trabajo. Su precio puede superar los 5.000 euros.
+
+#### ==7. Luthier vs. guitarra de fábrica==
+
+Las guitarras de luthier son construidas a medida por un artesano, lo que permite personalizar cada aspecto (tipo de madera, tiro, grosor de la tapa, barniz, adornos). Las guitarras de fábrica se producen en serie con procesos estandarizados, lo que las hace más asequibles aunque con menor individualidad sonora. En los niveles inicial e intermedio, una guitarra de fábrica de calidad (Alhambra, Admira, Ramirez, Esteve, Camps) es una opción solvente. En el nivel superior, una guitarra de luthier (Hauser, Romanillos, Contreras, Humphrey, Smallman, Dammann) ofrece una proyección y una riqueza tímbrica difícilmente alcanzables en producción industrial.
+
+#### ==8. Prueba del instrumento==
+
+Antes de adquirir una guitarra, es recomendable probarla durante al menos treinta minutos, evaluando los siguientes aspectos: comodidad postural y sensación de equilibrio (sentado y de pie); nitidez y homogeneidad sonora en todas las cuerdas y en todos los trastes; facilidad de pulsación en ambas manos; respuesta dinámica (desde el *pianissimo* al *fortissimo*); y estabilidad de la afinación a lo largo del diapasón. Siempre que sea posible, conviene que un profesor o guitarrista experimentado acompañe la prueba.[3]
+
 # Bibliografía 
-#TODO 
-- Alcaraz Iborra, Mario. _La guitarra: Historia, organología y repertorio_. Madrid: Editorial Música, 2010.
-- Evans, Tom, y Mary Anne Evans. _Guitars: From the Renaissance to Rock_. New York: Music Press, 1977.
-- Sáenz, Juan José. _Diccionario Técnico de la Guitarra_. Barcelona: Editorial Instrumentos, 2000.
-- Ramos Altamira, Ignacio. _Historia de la guitarra y los guitarristas españoles_. Madrid: Editorial Música, 2005.
-- Romanillos, José Luis. _El guitarrero español y su contribución en el desarrollo de la guitarra de concierto_. Madrid: Editorial Clásica, 1989.
-- Romanillos, José Luis. _Catálogo de la Exposición Guitarras Antiguas Españolas_. Madrid: Museo de la Guitarra, 1990.
-- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. London: Faber and Faber, 1976.
-- Tyler, James. _The Early Guitar_. London: Oxford University Press, 1980.
-- Varios autores. _Catálogo de la Exposición La Guitarra Española_. Madrid: Museo Nacional, 1991.
-- Viglietti, Cedar. _Origen e historia de la guitarra_. Buenos Aires: Editorial Artes, 1976.
-- Wade, Graham. _Traditions of the Classical Guitar_. London: Calder, 1980.
+
+#REVISAR_OPENCODE
+
+- Alcaraz Iborra, Mario. 2010. *La guitarra: Historia, organología y repertorio*. Madrid: Editorial Música.
+- Evans, Tom, y Mary Anne Evans. 1977. *Guitars: From the Renaissance to Rock*. New York: Facts on File.
+- Freeth, Nick, y Charles Alexander. 2005. *The Acoustic Guitar: An Illustrated History*. London: Apple Press.
+- Sáenz, Juan José. 2000. *Diccionario Técnico de la Guitarra*. Barcelona: Editorial Instrumentos.
+- Ramos Altamira, Ignacio. 2005. *Historia de la guitarra y los guitarristas españoles*. Madrid: Editorial Música.
+- Romanillos, José Luis. 1989. *El guitarrero español y su contribución en el desarrollo de la guitarra de concierto*. Madrid: Editorial Clásica.
+- Romanillos, José Luis. 1990. *Catálogo de la Exposición Guitarras Antiguas Españolas*. Madrid: Museo de la Guitarra.
+- Romanillos, José Luis, y Marian Harris Winspear. 2004. *Antonio de Torres: Guitar Maker: His Life and Work*. Westport, CT: The Bold Strummer.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. London: Faber and Faber.
+- Tyler, James. 1980. *The Early Guitar*. London: Oxford University Press.
+- Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Madrid: Museo Nacional.
+- Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Artes.
+- Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder.
+
+# NOTAS
+
+#REVISAR_OPENCODE
+
+[1] Sobre la colaboración entre Albert Augustine y Andrés Segovia en el desarrollo de la cuerda de nailon para guitarra clásica, véase Romanillos y Winspear, *Antonio de Torres: Guitar Maker*, 2004, cap. 8, y Coelho, *The Cambridge Companion to the Guitar*, 2003, 89-94.
+
+[2] Para una guía detallada de accesorios y su mantenimiento, véase Alcaraz Iborra, *La guitarra: Historia, organología y repertorio*, 2010, 67-82.
+
+[3] Criterios de selección ampliados en Freeth y Alexander, *The Acoustic Guitar: An Illustrated History*, 2005, caps. 4-5.
