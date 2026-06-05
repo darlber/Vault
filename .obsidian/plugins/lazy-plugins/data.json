@@ -44,6 +44,9 @@
       },
       "obsidian-importer": {
         "startupType": "disabled"
+      },
+      "obsidian-spaced-repetition": {
+        "startupType": "instant"
       }
     }
   }
