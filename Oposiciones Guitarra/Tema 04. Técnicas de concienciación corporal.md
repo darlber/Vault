@@ -25,6 +25,8 @@ En profesiones que requieren un uso preciso del cuerpo —como músicos, bailari
 
 En resumen, la **conciencia corporal** implica no solo conocer las partes del cuerpo, sino también tener una visión global de su estado y su relación con el entorno, permitiendo una gestión activa de tensiones, posturas y movimientos, tanto física como psicológicamente.
 
+Un concepto estrechamente vinculado es la ==**propiocepción**==, definida como la capacidad del sistema nervioso de percibir la posición, el movimiento y el equilibrio del cuerpo en el espacio sin necesidad de la vista.[1] Esta percepción inconsciente, mediada por los husos neuromusculares y los órganos tendinosos de Golgi, resulta esencial para el desarrollo de una técnica instrumental eficiente, ya que permite al guitarrista ajustar la presión de los dedos, el ángulo de ataque y la postura general sin depender exclusivamente del control visual. El entrenamiento propioceptivo constituye, por tanto, una herramienta fundamental dentro de las técnicas de concienciación corporal aplicadas a la guitarra.
+
 ## La importancia de las técnicas de concienciación corporal en los estudios musicales
 Interpretar un instrumento musical —como bailar o competir en deportes de élite— requiere una combinación compleja de movimientos musculares que involucran tanto la **psicomotricidad gruesa** como la **fina** de forma altamente especializada, muy distinta a las funciones cotidianas para las que está diseñado el cuerpo humano.
 
@@ -96,6 +98,38 @@ Existen varias técnicas que ayudan a gestionar estos problemas, todas relaciona
 - Control y superación del miedo escénico.
 
 Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendimiento posible a través de una adecuada preparación y terapia corporal y mental.
+
+#REVISAR_OPENCODE
+
+## Aspectos anatómicos y fisiomecánicos en relación con la técnica de la guitarra
+
+El conocimiento de la anatomía funcional del miembro superior resulta indispensable para el guitarrista, ya que permite comprender los movimientos implicados en la ejecución instrumental y prevenir lesiones derivadas de una práctica incorrecta.[2]
+
+### ==La mano y el antebrazo==
+
+La mano del guitarrista se compone de veintisiete huesos: ocho carpianos (formando el carpo), cinco metacarpianos (palma) y catorce falanges (dedos). El movimiento de los dedos depende de los músculos intrínsecos de la mano (interóseos y lumbricales) y de los músculos extrínsecos del antebrazo (flexores y extensores). En la mano izquierda, la independencia y la fuerza de los dedos están mediadas principalmente por los músculos flexores profundo y superficial de los dedos, mientras que la mano derecha requiere un control preciso de los músculos extensores para el ataque sobre las cuerdas.
+
+==El arco metacarpiano== —la curvatura transversal de la palma— es esencial para la posición de la mano izquierda en el mástil. Un arco excesivamente hundido o tenso limita el alcance de los dedos y favorece la aparición de contracturas. El mantenimiento de un arco dinámico, que se adapte a la posición de los dedos sobre el diapasón, es uno de los objetivos del entrenamiento técnico consciente.
+
+### ==El hombro y el codo==
+
+La articulación del hombro (glenohumeral) es la más móvil del cuerpo humano, pero también la más inestable. En el guitarrista, el peso del brazo debe transmitirse a través de la escápula y la clavícula sin tensión excesiva en el trapecio superior. Una elevación mantenida del hombro —hábito frecuente en situaciones de ansiedad— genera contracturas que se irradian al antebrazo y limitan la velocidad y la precisión digital.
+
+El codo actúa como palanca que sitúa la mano en el plano adecuado sobre el mástil (mano izquierda) o sobre las cuerdas (mano derecha). La ==pronación y supinación== del antebrazo, controladas por los músculos pronador redondo y supinador corto, determinan el ángulo de ataque de los dedos de la mano derecha y, por tanto, la calidad tímbrica del sonido.
+
+### ==Tendones y riesgo de lesiones==
+
+Los tendones flexores de los dedos discurren por el túnel carpiano, un espacio estrecho delimitado por los huesos del carpo y el ligamento transverso. La práctica intensiva sin una conciencia corporal adecuada puede provocar inflamación del tejido sinovial —==síndrome del túnel carpiano==— o de las vainas tendinosas —==tenosinovitis==—. La detección precoz de estas dolencias mediante la propiocepción y la modificación de los hábitos de estudio constituye la mejor estrategia preventiva.[3]
+
+### ==Conexión fisiomecánica con la técnica guitarrística==
+
+Cada movimiento técnico en la guitarra implica una cadena cinética que se origina en el tronco, se transmite a través del hombro y el brazo, y se concreta en la mano y los dedos. Por ejemplo:
+
+- El **apoyando** (mano derecha) requiere una ligera rotación externa del hombro y una extensión controlada de la articulación metacarpofalángica, seguida de una relajación inmediata.
+- El **ligado** (mano izquierda) exige una contracción rápida y precisa del flexor profundo, seguida de una desactivación completa para evitar tensiones residuales.
+- El **trémolo** combina ciclos repetitivos de contracción-relajación en los flexores de índice, medio y anular, con un patrón de reclutamiento muscular que debe automatizarse sin perder la conciencia sensorial.
+
+Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y evitar movimientos parásitos que generan fatiga y lesiones.
 
 ## Breve análisis de cada una de las técnicas de concienciación corporal
 
@@ -201,6 +235,10 @@ Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendim
   - La efectividad técnica depende de la conexión entre mente y músculos, según Ivan Galamian:  
     > “La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.”  
 - La Técnica Alexander estimula que la actividad y el movimiento se dirijan desde el cerebro, usando el cuerpo como un todo integrado.
+
+#REVISAR_OPENCODE
+
+==Aplicación a la guitarra==: En la práctica guitarrística, la Técnica Alexander se concreta en la observación consciente de la postura al sentarse y al tomar el instrumento. El guitarrista aprende a ==inhibir== el impulso de encoger los hombros o tensar el cuello al abordar un pasaje difícil, y en su lugar ==dirige== la atención a la libertad del cuello y la expansión de la espalda. Elizabeth Langford ha desarrollado aplicaciones específicas de la Técnica Alexander para instrumentistas, incluyendo ejercicios de conciencia postural con y sin el instrumento, que permiten al guitarrista identificar patrones de tensión y reemplazarlos por movimientos más eficientes.[6]
 #### Método Moshe Feldenkrais
 
 - En 1942, Moshe Feldenkrais, físico en Londres, sufrió lesiones graves de rodilla con pronóstico poco alentador.  
@@ -218,11 +256,47 @@ Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendim
 - El cerebro detecta y elimina el esfuerzo muscular innecesario, formando patrones coordinados de movimiento.  
 - El proceso ocurre casi sin esfuerzo consciente.
 
+#REVISAR_OPENCODE
+
+==Aplicación a la guitarra==: El método Feldenkrais resulta especialmente útil para el guitarrista en la recuperación de lesiones por sobreuso y en la optimización del gesto técnico. Los ejercicios de ==Conciencia a través del Movimiento== (CAM) pueden adaptarse a movimientos específicos de la guitarra: por ejemplo, realizar el movimiento de arpegio con la mano derecha a cámara lenta, prestando atención a las sensaciones articulares y musculares, permite detectar y eliminar co-contracciones innecesarias. Del mismo modo, los patrones de desplazamiento longitudinal de la mano izquierda por el mástil pueden descomponerse en secuencias de aprendizaje sensorial motor que facilitan la automatización consciente y previenen la fatiga.[7]
+
 #### Claves para el éxito en los ejercicios:
 1. **Realice movimientos con facilidad:** usar el mínimo esfuerzo, sin tensar ni estirar.  
 2. **Haga movimientos lentos:** para notar sensaciones y detectar tensiones innecesarias.  
 3. **Relájese:** intente expulsar la tensión al moverse.  
 4. **Descanse entre movimientos:** para que el cerebro asimile la nueva información sensorial y motriz.  
+
+#REVISAR_OPENCODE
+
+### Colocación del cuerpo y del instrumento
+
+La correcta colocación del cuerpo y del instrumento constituye la base física sobre la que se asienta toda la técnica guitarrística. Una posición inadecuada no solo limita el rendimiento técnico y expresivo, sino que incrementa el riesgo de lesiones por sobrecarga muscular.[4]
+
+#### ==Posición general del cuerpo==
+
+El guitarrista debe sentarse en el tercio anterior de una silla plana y firme, con los pies apoyados en el suelo formando un ángulo de aproximadamente 90 grados en rodillas y caderas. La ==banqueta== o reposapiés se sitúa bajo el pie izquierdo (en la posición clásica), elevando la pierna izquierda unos 10–15 cm para situar la guitarra en una posición estable y ergonómica. La altura del asiento debe permitir que los muslos queden paralelos al suelo o ligeramente inclinados hacia abajo.
+
+==La columna vertebral== debe mantener su curvatura fisiológica natural, evitando tanto la hiperextensión lumbar (arquear demasiado la espalda) como la flexión excesiva (encorvarse). El peso del tronco debe descansar sobre los isquiones, no sobre el coxis.
+
+#### ==Colocación de la guitarra==
+
+La guitarra se apoya sobre la pierna izquierda elevada (por la banqueta), con el aro inferior izquierdo en contacto con la cara interna del muslo. El mástil se dirige hacia la izquierda con una inclinación aproximada de 30–45 grados respecto al plano horizontal, suficiente para que la mano izquierda pueda desplazarse longitudinalmente sin que el codo se separe excesivamente del cuerpo.
+
+El ==punto de contacto== del instrumento con el cuerpo se distribuye en cuatro zonas: el muslo izquierdo (soporte principal), el antebrazo derecho (apoyo sobre el aro superior), el pecho (contacto lateral de la tapa armónica) y, en algunas posiciones, el brazo derecho sobre la zona del codo. La ==correa== (si se emplea de pie) debe ajustarse para que la guitarra mantenga la misma altura y orientación que en posición sentada.
+
+#### ==Posición de la mano izquierda==
+
+La mano izquierda se sitúa en el mástil con el pulgar en la parte posterior, aproximadamente a la altura del dedo índice. El arco metacarpiano debe mantenerse dinámico, permitiendo que los dedos caigan perpendicularmente sobre las cuerdas. La muñeca debe estar recta o ligeramente flexionada hacia fuera, nunca hacia dentro, para evitar la compresión del túnel carpiano.
+
+El ==codo izquierdo== se separa ligeramente del cuerpo en función de la zona del mástil en la que se trabaje: más cerca del cuerpo en la primera posición y más separado al desplazarse hacia posiciones agudas.
+
+#### ==Posición de la mano derecha==
+
+La mano derecha se sitúa sobre las cuerdas en la zona comprendida entre la boca y el puente. El antebrazo descansa sobre el aro superior de la guitarra, con el codo formando un ángulo de aproximadamente 90 grados. La muñeca debe estar recta o ligeramente arqueada hacia fuera, permitiendo que los dedos caigan sobre las cuerdas con un movimiento basado en las articulaciones metacarpofalángicas.
+
+Los ==dedos (índice, medio y anular)== deben curvarse de forma natural, con la yema orientada hacia la cuerda en un ángulo de aproximadamente 45 grados respecto a la tapa armónica. El pulgar se sitúa sobre la cuerda grave correspondiente, con un movimiento independiente del resto de los dedos.
+
+El ==punto de anclaje== (zona donde el antebrazo contacta con la guitarra) debe ser estable pero no rígido, permitiendo el desplazamiento de la mano derecha hacia el puente (sonido metálico) o hacia el mástil (sonido dulce) sin perder el control del ataque.[5]
 
 ### Concentración mental
 
@@ -327,7 +401,6 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Nunca tocar con dolor; si aparece, parar y hacer estiramientos suaves.
 - Acudir a un especialista si el dolor persiste.
 
-# Conclusiones
 ## 3. Conclusiones
 
 - Las técnicas de concienciación y control corporal, junto con todo lo relativo a la salud del instrumentista, deben ser un tratamiento específico dentro de las aulas de instrumento, al mismo nivel que la técnica y el repertorio.
@@ -356,15 +429,45 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 
 - En resumen, salud y mejora técnica son aspectos íntimamente relacionados que deben abordarse conjuntamente en el aula de instrumento.
 # Bibliografía 
-#TODO
-- Bochsma, Hans. “La respiración.” _Brass Bulletin_, no. 66 (II/1989): 40–43.
-- Bourgue, Daniel. “La respiración.” Revista _Trompa_ (Asociación Española de Trompistas), no. 21 (marzo 1990): 14–19.
-- Bourgue, Daniel. “La respiración.” Revista _Trompa_ (Asociación Española de Trompistas), no. 22 (diciembre 1990): 17–20.
-- Cramer, William F. “L’acte de souffler.” _Brass Bulletin_, no. 34 (1981): 29–36.
-- Harrison. _Tratado de medicina interna_. Tomo 1.
-- Houssay, B. A., et al. _Fisiología humana_. Buenos Aires: Ed. El Ateneo. Colección Ciba de Ilustraciones Médicas.
-- Katschmartschyk, Wladimir. “Historia y desarrollo de la espiración permanente.” _Brass Bulletin_, no. 67 (III/1989): 42–45.
-- Netter, F. H. _Sistema respiratorio_. Tomo VII-A. Barcelona: Ed. Masson, S.A. Salvat.
-- Ricquier, Michel. _Traité méthodique de pédagogie instrumentale_. París: Ed. Billandot, 1978.
-- Thompson, Kevin H. “La respiración circular.” _Brass Bulletin_, no. 69 (I/1990): 84–87.
-- Wiener, Jean Christophe. “James-stamp, maestro de la escucha” – 1ª Parte (Apartado de la respiración). _Brass Bulletin_, no. 100 (IV/1997): 59–67.
+
+#REVISAR_OPENCODE
+
+- Alexander, F. Matthias. 1932. *The Use of the Self*. London: Integral.
+- Barlow, Wilfred. 1973. *The Alexander Principle*. London: Gollancz.
+- Bochsma, Hans. «La respiración.» *Brass Bulletin*, n.º 66 (II/1989): 40–43.
+- Bourgue, Daniel. «La respiración.» *Revista Trompa* (Asociación Española de Trompistas), n.º 21 (marzo 1990): 14–19.
+- Bourgue, Daniel. «La respiración.» *Revista Trompa* (Asociación Española de Trompistas), n.º 22 (diciembre 1990): 17–20.
+- Caplan, David. 2009. *The Guitarist's Anatomy: An Indispensable Guide for the Modern Guitarist*. San Francisco: Backbeat Books.
+- Cramer, William F. «L'acte de souffler.» *Brass Bulletin*, n.º 34 (1981): 29–36.
+- Feldenkrais, Moshe. 1972. *Awareness Through Movement*. New York: Harper & Row.
+- Green, Barry, y W. Timothy Gallwey. 1986. *The Inner Game of Music*. New York: Anchor Press.
+- Harrison. *Tratado de medicina interna*. Tomo 1.
+- Houssay, B. A., et al. *Fisiología humana*. Buenos Aires: Ed. El Ateneo.
+- Jacobson, Edmund. 1938. *Progressive Relaxation*. Chicago: University of Chicago Press.
+- Katschmartschyk, Wladimir. «Historia y desarrollo de la espiración permanente.» *Brass Bulletin*, n.º 67 (III/1989): 42–45.
+- Langford, Elizabeth. 2008. *Mind and Muscle and Music: A Companion to Mind and Muscle, an Owner's Handbook*. Leuven: Alexandertechniek Centrum.
+- López de la Llave, Andrés, y María Carmen Pérez Llantada. 2006. *Psicología para intérpretes artísticos*. Madrid: Thomson.
+- Netter, F. H. *Sistema respiratorio*. Tomo VII-A. Barcelona: Masson, Salvat.
+- Ricquier, Michel. 1978. *Traité méthodique de pédagogie instrumentale*. París: Billandot.
+- Thompson, Kevin H. «La respiración circular.» *Brass Bulletin*, n.º 69 (I/1990): 84–87.
+- Wiener, Jean Christophe. «James-stamp, maestro de la escucha» (1.ª parte, apartado de la respiración). *Brass Bulletin*, n.º 100 (IV/1997): 59–67.
+- Williamon, Aaron. 2004. *Musical Excellence: Strategies and Techniques to Enhance Performance*. Oxford: Oxford University Press.
+- Wilson, Glenn D. 1997. «Performance Anxiety.» En *The Social Psychology of Music*, editado por David J. Hargreaves y Adrian C. North, 229-48. Oxford: Oxford University Press.
+
+# NOTAS
+
+#REVISAR_OPENCODE
+
+[1] La propiocepción fue definida por el neurofisiólogo Charles Sherrington a principios del siglo XX como la percepción de la posición y el movimiento del cuerpo en el espacio. Véase también Caplan, *The Guitarist's Anatomy*, 2009, 34-38.
+
+[2] Para un estudio detallado de la anatomía del miembro superior aplicada a la guitarra, véase Caplan, *The Guitarist's Anatomy*, 2009, caps. 2-4.
+
+[3] La relación entre la técnica instrumental y las lesiones por sobreuso ha sido estudiada en profundidad por Williamon, *Musical Excellence*, 2004, caps. 8-9.
+
+[4] Langford, *Mind and Muscle and Music*, 2008, ofrece una guía práctica de la Técnica Alexander aplicada a la posición del instrumentista, con ejercicios específicos para guitarristas.
+
+[5] La influencia del punto de anclaje en el control tímbrico y dinámico se aborda en López de la Llave y Pérez Llantada, *Psicología para intérpretes artísticos*, 2006, 89-94.
+
+[6] Langford, *Mind and Muscle and Music*, 2008, 45-62.
+
+[7] Feldenkrais, *Awareness Through Movement*, 1972, ejercicios 1-4, adaptados al contexto instrumental por el autor.
