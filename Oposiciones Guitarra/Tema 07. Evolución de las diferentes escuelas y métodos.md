@@ -173,7 +173,7 @@ Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica d
 
 ==**Concepciones teóricas:** La notación experimenta una evolución radical: de la tablatura renacentista (Milán, Mudarra, Fuenllana) al sistema mensural que adoptan Ferandiere y Moretti, pasando por la síntesis de ambos sistemas en los tratados barrocos. Pedagógicamente, Milán introduce la organización progresiva de piezas por dificultad, enfoque que Moretti sistematiza con su tabla de arpegios para cuatro dedos y que Abreu-Prieto perfecciona con su estructura de láminas, reglas y excepciones.==
 
-==**Concepciones técnicas:** La pulsación varía sustancialmente entre escuelas. La vihuela renacentista emplea el redoble con dos dedos y el dedillo, con preferencia por la yema (Fuenllana critica explícitamente el uso de la uña). La escuela barroca desarrolla el rasgueado y el apoyo del meñique en la tapa. La escuela clásica, con Moretti y Aguado[^14], sienta las bases de la técnica moderna: mano derecha sin apoyo del meñique, sistematización de arpegios y escalas, y posición independiente de ambas manos.====
+==**Concepciones técnicas:** La pulsación varía sustancialmente entre escuelas. La vihuela renacentista emplea el redoble con dos dedos y el dedillo, con preferencia por la yema (Fuenllana critica explícitamente el uso de la uña). La escuela barroca desarrolla el rasgueado y el apoyo del meñique en la tapa. La escuela clásica, con Moretti y Aguado[^14], sienta las bases de la técnica moderna: mano derecha sin apoyo del meñique, sistematización de arpegios y escalas, y posición independiente de ambas manos.==
 
 ### Otras cuerdas pulsadas #REVISAR_OPENCODE
 

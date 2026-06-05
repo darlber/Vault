@@ -19,17 +19,17 @@ La técnica moderna de la guitarra surge a partir de **varios hitos históricos 
 En conclusión, el **siglo XX** es considerado el más relevante en la historia de la guitarra, tanto por su desarrollo técnico como por su proyección artística y social.[^1]
 ### Principios fundamentales de la técnica guitarrística moderna #REVISAR_OPENCODE
 
-==La técnica moderna de la guitarra clásica se sustenta sobre un conjunto de principios interrelacionados que han sido formulados y refinados por los grandes pedagogos del siglo XX:
+==La técnica moderna de la guitarra clásica se sustenta sobre un conjunto de principios interrelacionados que han sido formulados y refinados por los grandes pedagogos del siglo XX:==
 
-**Postura y colocación del instrumento:** La posición equilibrada del cuerpo y la sujeción estable de la guitarra constituyen la base sobre la que se asienta toda la técnica. La escuela de Tárrega, sistematizada por Pujol, estableció la colocación del instrumento sobre la pierna izquierda, con el mástil elevado y el brazo derecho apoyado sobre el aro superior.[^6]
+==**Postura y colocación del instrumento:** La posición equilibrada del cuerpo y la sujeción estable de la guitarra constituyen la base sobre la que se asienta toda la técnica. La escuela de Tárrega, sistematizada por Pujol, estableció la colocación del instrumento sobre la pierna izquierda, con el mástil elevado y el brazo derecho apoyado sobre el aro superior.[^6]==
 
-**Producción del sonido y pulsación:** El sonido se genera mediante la combinación de ataque apoyado (*apoyando*) y libre (*tirando*). El debate entre pulsación con yema o con uña —presente desde Sor y Aguado— define las tres grandes tendencias sonoras que se sintetizan en la tabla de pulsaciones de este tema.
+==**Producción del sonido y pulsación:** El sonido se genera mediante la combinación de ataque apoyado (*apoyando*) y libre (*tirando*). El debate entre pulsación con yema o con uña —presente desde Sor y Aguado— define las tres grandes tendencias sonoras que se sintetizan en la tabla de pulsaciones de este tema.==
 
-**Relajación y economía de movimiento:** Carlevaro racionalizó el análisis de los movimientos, distinguiendo entre fijaciones musculares innecesarias y acciones eficientes, sentando las bases de una técnica libre de tensiones.[^13]
+==**Relajación y economía de movimiento:** Carlevaro racionalizó el análisis de los movimientos, distinguiendo entre fijaciones musculares innecesarias y acciones eficientes, sentando las bases de una técnica libre de tensiones.[^13]==
 
-**Independencia y coordinación digital:** Tanto en la mano derecha (alternancia i-m, arpegios) como en la izquierda (preparación de dedos, distancia mínima), la independencia de los dedos es un objetivo pedagógico central, abordado por Shearer en su enfoque sistemático.[^14]
+==**Independencia y coordinación digital:** Tanto en la mano derecha (alternancia i-m, arpegios) como en la izquierda (preparación de dedos, distancia mínima), la independencia de los dedos es un objetivo pedagógico central, abordado por Shearer en su enfoque sistemático.[^14]==
 
-**Control tímbrico y dinámico:** La escuela moderna distingue múltiples puntos de pulsación (*sul tasto*, *sul ponte*, *ordinario*) y variaciones en el ángulo de ataque, recursos sistematizados por los métodos del siglo XX.==
+==**Control tímbrico y dinámico:** La escuela moderna distingue múltiples puntos de pulsación (*sul tasto*, *sul ponte*, *ordinario*) y variaciones en el ángulo de ataque, recursos sistematizados por los métodos del siglo XX.==
 ## Antecedentes: Sor, Aguado, Tárrega y las guitarras de Torres
 Para comprender el desarrollo de la técnica moderna de la guitarra, es necesario conocer **algunos antecedentes clave**:
 - **Transición del siglo XVIII al XIX**: se produce el paso de **órdenes dobles a cuerdas simples**, por razones como:[^3]
@@ -239,14 +239,19 @@ Estas distintas formas de ataque influyen en la posición de la mano derecha, la
 
 ### Aportaciones técnicas de los grandes pedagogos #REVISAR_OPENCODE
 
-==Cada figura clave contribuyó con innovaciones específicas al desarrollo de la técnica moderna:
+==Cada figura clave contribuyó con innovaciones específicas al desarrollo de la técnica moderna:==
 
-- **Francisco Tárrega**: Estableció la posición perpendicular de la mano derecha, el ataque apoyado con la última falange, la sonoridad de yema como ideal y la prohibición de repetir dedo en sucesión. Su escuela sentó las bases de la técnica moderna.[^6]
-- **Emilio Pujol**: Sistematizó los principios de Tárrega en la *Escuela Razonada de la Guitarra*, codificando por primera vez la técnica de la escuela tárrega en un método completo.
-- **Andrés Segovia**: Desarrolló un ataque oblicuo hacia el puente (yema-uña), promoviendo una sonoridad más rica en armónicos y una proyección adaptada a salas de concierto. Estandarizó además la forma y cuidado de la uña.
-- **Abel Carlevaro**: Revolucionó la técnica de la mano derecha con su teoría de los cuatro tipos básicos de ataque y el análisis detallado de la relajación muscular, eliminando fijaciones innecesarias.[^13]
-- **Aaron Shearer**: Introdujo un enfoque anatómico-científico en la pedagogía de la guitarra, analizando la mecánica de los movimientos desde la biomecánica y la eficiencia.[^14]
-- **Julio Salvador Sagreras**: Desarrolló una progresión técnica gradual en sus seis volúmenes de *Lecciones de guitarra*, referencia pedagógica para la formación sistemática del guitarrista.==
+==- **Francisco Tárrega**: Estableció la posición perpendicular de la mano derecha, el ataque apoyado con la última falange, la sonoridad de yema como ideal y la prohibición de repetir dedo en sucesión. Su escuela sentó las bases de la técnica moderna.[^6]==
+
+==- **Emilio Pujol**: Sistematizó los principios de Tárrega en la *Escuela Razonada de la Guitarra*, codificando por primera vez la técnica de la escuela tárrega en un método completo.==
+
+==- **Andrés Segovia**: Desarrolló un ataque oblicuo hacia el puente (yema-uña), promoviendo una sonoridad más rica en armónicos y una proyección adaptada a salas de concierto. Estandarizó además la forma y cuidado de la uña.==
+
+==- **Abel Carlevaro**: Revolucionó la técnica de la mano derecha con su teoría de los cuatro tipos básicos de ataque y el análisis detallado de la relajación muscular, eliminando fijaciones innecesarias.[^13]==
+
+==- **Aaron Shearer**: Introdujo un enfoque anatómico-científico en la pedagogía de la guitarra, analizando la mecánica de los movimientos desde la biomecánica y la eficiencia.[^14]==
+
+==- **Julio Salvador Sagreras**: Desarrolló una progresión técnica gradual en sus seis volúmenes de *Lecciones de guitarra*, referencia pedagógica para la formación sistemática del guitarrista.==
 
 # Bibliografía #REVISAR_OPENCODE
 
