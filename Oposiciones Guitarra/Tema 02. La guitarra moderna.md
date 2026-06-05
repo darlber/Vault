@@ -7,7 +7,7 @@
 3. [Aspectos fundamentales en la elección del instrumento](#Aspectos%20fundamentales%20en%20la%20elección%20del%20instrumento)
 4. [Bibliografía](#Bibliografía)
 # Descripción de sus elementos característicos. Introducción
-Gracias a Antonio de Torres, considerado el padre de la guitarra moderna, se establecieron importantes avances en la construcción del instrumento.[1] Entre ellos destacan:
+Gracias a Antonio de Torres, considerado el padre de la guitarra moderna, se establecieron importantes avances en la construcción del instrumento.[^1] Entre ellos destacan:
 - Fijación del tiro en 650 mm.
 - Localización precisa del puente.
 - Análisis del grosor y las cualidades de la madera.
@@ -17,34 +17,34 @@ Gracias a Antonio de Torres, considerado el padre de la guitarra moderna, se est
 - Modificaciones en la barra armónica para mejorar la vibración de la tapa.
 - Establecimiento de una plantilla fija.
 
-En el siglo XIX surgieron dos estilos constructivos[2]: el castellano y el andaluz, diferenciándose por la forma de la plantilla y la decoración. A partir de Torres, se comienzan a seguir sus modelos como estándar.
-## Elementos característicos de la guitarra moderna[3]
+En el siglo XIX surgieron dos estilos constructivos[^2]: el castellano y el andaluz, diferenciándose por la forma de la plantilla y la decoración. A partir de Torres, se comienzan a seguir sus modelos como estándar.
+## Elementos característicos de la guitarra moderna[^3]
 - **Plantilla (silueta frontal)**
     - Rasgo más identificable de la guitarra, fijado a partir de Torres, aunque cada guitarrero introduce variaciones de forma y tamaño que permiten distinguir épocas y escuelas.
-    - El sonido depende también de otros factores[4]: especie, grosor y secado de la madera; árbol escogido; estructura interna y externa; montaje, barniz, tiro y tensión de las cuerdas.
-- **Caja de resonancia**[5]
+    - El sonido depende también de otros factores[^4]: especie, grosor y secado de la madera; árbol escogido; estructura interna y externa; montaje, barniz, tiro y tensión de las cuerdas.
+- **Caja de resonancia**[^5]
     - Consta de tapa armónica, fondo y aros laterales.
     - En el Barroco se decoraba en exceso (incluso pintándola), lo que perjudicaba la acústica.
-- **Tapa armónica**[6]
+- **Tapa armónica**[^6]
     - Elemento clave para la sonoridad. Se exige madera sin nudos (parte baja del tronco) cortada paralela al eje y emparejada en forma simétrica para potenciar la resonancia.
     - Suelen emplearse abeto o cedro.
-- **Fondo**[7]
+- **Fondo**[^7]
     - Función acústica similar a la tapa, pero con maderas más densas: palosanto, nogal americano, sapeli o sicomoro.
 - **Aros laterales**
     - Unen tapa y fondo siguiendo el contorno curvo de la plantilla. Se humedecen y moldean para fijar la curvatura sin romperse.
 - **Quilla**
-    - Pieza estructural que asegura una unión sólida y duradera entre mástil y caja; aporta resistencia más que sonido.[8]
-- **Boca**[9]
+    - Pieza estructural que asegura una unión sólida y duradera entre mástil y caja; aporta resistencia más que sonido.[^8]
+- **Boca**[^9]
     - Abertura en la tapa que proyecta el sonido. Los rosetones labrados de los siglos XVI‑XVII dieron paso al orificio circular abierto que se usa hoy.
-- **Encordadura y cuerdas**[10]
+- **Encordadura y cuerdas**[^10]
     - Tradicionalmente (siglos XVII-XVIII): tripa de carnero (agudas) y seda entorchada en plata (graves).
     - Desde 1944, ==la introducción del nylon== estabilizó afinación y resistencia, impulsando la guitarra «clásica», aunque las cuerdas antiguas ofrecían gran dulzura y profundidad pero eran muy frágiles ante cambios atmosféricos.
 
 #REVISAR_OPENCODE
 
-==La introducción del nylon en 1944==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia**, supuso una revolución en la historia del instrumento.[11] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista.
+==La introducción del nylon en 1944==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia**, supuso una revolución en la historia del instrumento.[^11] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista.
 
-Además del uso del **nylon**, se produjeron otros dos cambios[12] importantes en las cuerdas:
+Además del uso del **nylon**, se produjeron otros dos cambios[^12] importantes en las cuerdas:
 
 - **Entorchados**:  
     Introducidos en el siglo XVIII para lograr mayor sonoridad y permitir tiros más cortos sin cambiar la tesitura. A mediados del siglo XX, el filamento de plata fue sustituido por cobre, manteniendo la seda interior.
@@ -114,7 +114,7 @@ Estas estructuras internas tienen doble función:
 
 ## Accesorios
 
-La práctica instrumental con guitarra requiere de una serie de accesorios que facilitan el estudio, la interpretación y el mantenimiento del instrumento:[13]
+La práctica instrumental con guitarra requiere de una serie de accesorios que facilitan el estudio, la interpretación y el mantenimiento del instrumento:[^13]
 
 ==**Soporte o banqueta**==: permite elevar la pierna izquierda para adoptar la posición clásica. Existen modelos de altura fija y regulable; la altura recomendada se sitúa entre 10 y 15 cm, ajustable en función de la longitud del fémur del intérprete.
 ==**Soporte de guitarra**== (o *guitarrest*): sistema de sujeción que reemplaza a la banqueta, fijándose al instrumento mediante ventosas o ganchos. Permite una posición más simétrica del cuerpo y reduce la rotación de la columna vertebral.
@@ -158,7 +158,7 @@ Las guitarras de luthier son construidas a medida por un artesano, lo que permit
 
 #### ==8. Prueba del instrumento==
 
-Antes de adquirir una guitarra, es recomendable probarla durante al menos treinta minutos, evaluando los siguientes aspectos: comodidad postural y sensación de equilibrio (sentado y de pie); nitidez y homogeneidad sonora en todas las cuerdas y en todos los trastes; facilidad de pulsación en ambas manos; respuesta dinámica (desde el *pianissimo* al *fortissimo*); y estabilidad de la afinación a lo largo del diapasón. Siempre que sea posible, conviene que un profesor o guitarrista experimentado acompañe la prueba.[14]
+Antes de adquirir una guitarra, es recomendable probarla durante al menos treinta minutos, evaluando los siguientes aspectos: comodidad postural y sensación de equilibrio (sentado y de pie); nitidez y homogeneidad sonora en todas las cuerdas y en todos los trastes; facilidad de pulsación en ambas manos; respuesta dinámica (desde el *pianissimo* al *fortissimo*); y estabilidad de la afinación a lo largo del diapasón. Siempre que sea posible, conviene que un profesor o guitarrista experimentado acompañe la prueba.[^14]
 
 # Bibliografía 
 
@@ -182,30 +182,30 @@ Antes de adquirir una guitarra, es recomendable probarla durante al menos treint
 
 #REVISAR_OPENCODE
 
-[1] Romanillos y Winspear, *Antonio de Torres: Guitar Maker*, cap. 8.
+[^1]: Romanillos y Winspear, *Antonio de Torres: Guitar Maker*, cap. 8.
 
-[2] Ramos Altamira, *Historia de la guitarra y los guitarristas españoles*, caps. 3-5.
+[^2]: Ramos Altamira, *Historia de la guitarra y los guitarristas españoles*, caps. 3-5.
 
-[3] Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 6-7.
+[^3]: Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 6-7.
 
-[4] Wade, *Traditions of the Classical Guitar*, caps. 3-4.
+[^4]: Wade, *Traditions of the Classical Guitar*, caps. 3-4.
 
-[5] Evans, *Guitars: From the Renaissance to Rock*, caps. 4-6.
+[^5]: Evans, *Guitars: From the Renaissance to Rock*, caps. 4-6.
 
-[6] Tyler, *The Early Guitar*, cap. 4.
+[^6]: Tyler, *The Early Guitar*, cap. 4.
 
-[7] Viglietti, *Origen e historia de la guitarra*, caps. 5-7.
+[^7]: Viglietti, *Origen e historia de la guitarra*, caps. 5-7.
 
-[8] Sáenz, *Diccionario Técnico de la Guitarra*, 23-48.
+[^8]: Sáenz, *Diccionario Técnico de la Guitarra*, 23-48.
 
-[9] Romanillos, *Catálogo de la Exposición Guitarras Antiguas Españolas*, 1990.
+[^9]: Romanillos, *Catálogo de la Exposición Guitarras Antiguas Españolas*, 1990.
 
-[10] Romanillos, *El guitarrero español*, 1989.
+[^10]: Romanillos, *El guitarrero español*, 1989.
 
-[11] Coelho, *The Cambridge Companion to the Guitar*, 89-94.
+[^11]: Coelho, *The Cambridge Companion to the Guitar*, 89-94.
 
-[12] Varios autores, *Catálogo de la Exposición La Guitarra Española*, 1991.
+[^12]: Varios autores, *Catálogo de la Exposición La Guitarra Española*, 1991.
 
-[13] Alcaraz Iborra, *La guitarra: Historia, organología y repertorio*, 67-82.
+[^13]: Alcaraz Iborra, *La guitarra: Historia, organología y repertorio*, 67-82.
 
-[14] Freeth y Alexander, *The Acoustic Guitar: An Illustrated History*, caps. 4-5.
+[^14]: Freeth y Alexander, *The Acoustic Guitar: An Illustrated History*, caps. 4-5.

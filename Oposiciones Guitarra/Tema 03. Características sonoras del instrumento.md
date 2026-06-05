@@ -13,7 +13,7 @@
 5. [Formas convencionales y no convencionales de producción del sonido](#Formas%20convencionales%20y%20no%20convencionales%20de%20producción%20del%20sonido)
 6. [Bibliografía](#Bibliografía)
 # Características sonoras del instrumento. Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada
-La rama de la física que estudia los fenómenos relacionados con el sonido es la **acústica**. Define el sonido como la **sensación producida por ondas** que llegan a nuestros oídos, transmitidas a través del aire, el agua o los sólidos. La velocidad del sonido varía según el medio: aproximadamente **340 m/s en el aire** y entre **1.000 y 3.600 m/s en la madera**.[1][2][3]
+La rama de la física que estudia los fenómenos relacionados con el sonido es la **acústica**. Define el sonido como la **sensación producida por ondas** que llegan a nuestros oídos, transmitidas a través del aire, el agua o los sólidos. La velocidad del sonido varía según el medio: aproximadamente **340 m/s en el aire** y entre **1.000 y 3.600 m/s en la madera**.[^1][^2][^3]
 
 Un **elemento sonoro** es cualquier objeto capaz de vibrar de forma adecuada. **Si la vibración es uniforme**, se percibe como **sonido**; si es irregular, se considera **ruido**.
 
@@ -176,15 +176,15 @@ Por ejemplo, para una cuerda de 650 mm:
 
 #REVISAR_OPENCODE
 
-==Los armónicos artificiales (también llamados *armónicos de octava* o *armónicos forzados*) son aquellos que se producen pisando una cuerda con la mano izquierda (acortando su longitud activa) y, simultáneamente, rozando la cuerda con la mano derecha a la distancia de una octava (doce trastes) del punto pisado.==[4][5] La técnica estándar consiste en:
+==Los armónicos artificiales (también llamados *armónicos de octava* o *armónicos forzados*) son aquellos que se producen pisando una cuerda con la mano izquierda (acortando su longitud activa) y, simultáneamente, rozando la cuerda con la mano derecha a la distancia de una octava (doce trastes) del punto pisado.==[^4][^5] La técnica estándar consiste en:
 
 - ==La mano izquierda pisa la nota deseada (por ejemplo, Do en el traste 8 de la quinta cuerda).==
 - ==La mano derecha usa el dedo índice para **rozar ligeramente** la cuerda exactamente doce trastes más arriba (traste 20 en el ejemplo).==
 - ==El dedo anular o medio de la misma mano pulsa la cuerda, generando el armónico de octava.==
 
-==A diferencia de los armónicos naturales, que solo pueden producirse en puntos fijos de la cuerda al aire, los armónicos artificiales permiten obtener sonidos armónicos en **cualquier nota del diapasón**, lo que los convierte en un recurso indispensable para el repertorio moderno.[6] El compositor que más contribuyó a popularizarlos fue **Francisco Tárrega**, quien los empleó con frecuencia en obras como *Recuerdos de la Alhambra* y *Capricho Árabe*, y esta tradición fue continuada por Miguel Llobet, Emilio Pujol y, más tarde, por compositores como Torroba, Turina y Britten.==
+==A diferencia de los armónicos naturales, que solo pueden producirse en puntos fijos de la cuerda al aire, los armónicos artificiales permiten obtener sonidos armónicos en **cualquier nota del diapasón**, lo que los convierte en un recurso indispensable para el repertorio moderno.[^6] El compositor que más contribuyó a popularizarlos fue **Francisco Tárrega**, quien los empleó con frecuencia en obras como *Recuerdos de la Alhambra* y *Capricho Árabe*, y esta tradición fue continuada por Miguel Llobet, Emilio Pujol y, más tarde, por compositores como Torroba, Turina y Britten.==
 
-==La distancia estándar para el armónico artificial es de doce trastes (una octava), pero también pueden obtenerse armónicos a otras distancias== (por ejemplo, a siete o cinco trastes, que producen la quinta o la cuarta justa, respectivamente), aunque su sonido es menos nítido y su ejecución considerablemente más difícil. En la notación moderna, los armónicos artificiales se indican con un rombo sobre la nota pisada y la indicación de la cuerda, o bien con dos notas: la nota pisada y, sobre ella, la nota que resulta del armónico.[7]
+==La distancia estándar para el armónico artificial es de doce trastes (una octava), pero también pueden obtenerse armónicos a otras distancias== (por ejemplo, a siete o cinco trastes, que producen la quinta o la cuarta justa, respectivamente), aunque su sonido es menos nítido y su ejecución considerablemente más difícil. En la notación moderna, los armónicos artificiales se indican con un rombo sobre la nota pisada y la indicación de la cuerda, o bien con dos notas: la nota pisada y, sobre ella, la nota que resulta del armónico.[^7]
 
 # Formas convencionales y no convencionales de producción del sonido
 
@@ -193,9 +193,9 @@ Por ejemplo, para una cuerda de 650 mm:
 ### Formas convencionales
 
 - ==**Apoyando (rest stroke)**==: tras pulsar la cuerda, el dedo de la mano derecha **descansa sobre la cuerda inmediatamente superior**, lo que permite aprovechar todo el recorrido del dedo y transmite la máxima energía a la cuerda. Produce un sonido más pleno, potente y proyectado. Es la técnica predilecta para pasajes melódicos y de primer plano.
-- ==**Tirando (free stroke)**==: tras pulsar, el dedo **no toca la cuerda contigua** (excepto ocasionalmente para amortiguar). Permite mayor velocidad y flexibilidad, especialmente en arpegios, acordes o pasajes polifónicos donde varias voces se entrecruzan.[8][9]
-- ==**Pulsación combinada (yema y uña)**==: desde Piccinini (1623) hasta la actualidad, la mayoría de los concertistas emplean un ataque mixto: la yema contacta primero, amortiguando el inicio del sonido, y la uña se desliza sobre la cuerda para añadir brillo y proyección. La forma, longitud y dureza de la uña —así como el pulido de su borde— inciden directamente en el timbre resultante.[10][11]
-- ==**Ángulo y punto de ataque**==: el sonido puede modificarse variando la inclinación de la mano derecha (más perpendicular = más brillante; más oblicua = más dulce) y la zona de pulsación (boca = graves y redondez; puente = metálico y penetrante; mástil = aterciopelado y oscuro). La combinación de estos parámetros constituye la base del control tímbrico del guitarrista.[12][13]
+- ==**Tirando (free stroke)**==: tras pulsar, el dedo **no toca la cuerda contigua** (excepto ocasionalmente para amortiguar). Permite mayor velocidad y flexibilidad, especialmente en arpegios, acordes o pasajes polifónicos donde varias voces se entrecruzan.[^8][^9]
+- ==**Pulsación combinada (yema y uña)**==: desde Piccinini (1623) hasta la actualidad, la mayoría de los concertistas emplean un ataque mixto: la yema contacta primero, amortiguando el inicio del sonido, y la uña se desliza sobre la cuerda para añadir brillo y proyección. La forma, longitud y dureza de la uña —así como el pulido de su borde— inciden directamente en el timbre resultante.[^10][^11]
+- ==**Ángulo y punto de ataque**==: el sonido puede modificarse variando la inclinación de la mano derecha (más perpendicular = más brillante; más oblicua = más dulce) y la zona de pulsación (boca = graves y redondez; puente = metálico y penetrante; mástil = aterciopelado y oscuro). La combinación de estos parámetros constituye la base del control tímbrico del guitarrista.[^12][^13]
 
 ### Formas no convencionales
 
@@ -234,28 +234,28 @@ Por ejemplo, para una cuerda de 650 mm:
 
 #REVISAR_OPENCODE
 
-[1] Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1 y 6.
+[^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1 y 6.
 
-[2] Viglietti, *Origen e historia de la guitarra*, caps. 2-4.
+[^2]: Viglietti, *Origen e historia de la guitarra*, caps. 2-4.
 
-[3] Wade, *Traditions of the Classical Guitar*, cap. 2.
+[^3]: Wade, *Traditions of the Classical Guitar*, cap. 2.
 
-[4] Pujol, *Escuela razonada de la guitarra*, vol. 3, caps. 8-10.
+[^4]: Pujol, *Escuela razonada de la guitarra*, vol. 3, caps. 8-10.
 
-[5] Duncan, *The Art of Classical Guitar Playing*, 112-118.
+[^5]: Duncan, *The Art of Classical Guitar Playing*, 112-118.
 
-[6] Fletcher y Rossing, *The Physics of Musical Instruments*, cap. 4.
+[^6]: Fletcher y Rossing, *The Physics of Musical Instruments*, cap. 4.
 
-[7] Sáenz, *Diccionario Técnico de la Guitarra*, 53-55.
+[^7]: Sáenz, *Diccionario Técnico de la Guitarra*, 53-55.
 
-[8] Duncan, *The Art of Classical Guitar Playing*, 43-52.
+[^8]: Duncan, *The Art of Classical Guitar Playing*, 43-52.
 
-[9] Pujol, *Escuela razonada de la guitarra*, vol. 2, 67-84.
+[^9]: Pujol, *Escuela razonada de la guitarra*, vol. 2, 67-84.
 
-[10] Aguado, *Escuela de guitarra*, 34-40.
+[^10]: Aguado, *Escuela de guitarra*, 34-40.
 
-[11] Tyler, *The Early Guitar*, 124-130.
+[^11]: Tyler, *The Early Guitar*, 124-130.
 
-[12] Benade, *Fundamentals of Musical Acoustics*, 213-226.
+[^12]: Benade, *Fundamentals of Musical Acoustics*, 213-226.
 
-[13] Fletcher y Rossing, *The Physics of Musical Instruments*, 239-254.
+[^13]: Fletcher y Rossing, *The Physics of Musical Instruments*, 239-254.
