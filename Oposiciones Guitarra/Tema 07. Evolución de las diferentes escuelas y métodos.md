@@ -169,7 +169,7 @@ En ellas incluye **consejos prácticos** y **ejercicios técnicos** orientados a
 Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica de **Dionisio Aguado**[^14], quien también abordó con profundidad la técnica de ambas manos, y cuyo método tuvo gran influencia en la consolidación de la escuela guitarrística clásica del siglo XIX.
 #REVISAR_OPENCODE
 
-==### Comparación de concepciones estéticas, teóricas y técnicas entre escuelas
+==**Comparación de concepciones estéticas, teóricas y técnicas entre escuelas**
 
 **Concepciones estéticas:** La escuela renacentista de vihuela (Milán[^1], Mudarra[^2], Fuenllana[^3]) concibe la música desde una perspectiva polifónica y contrapuntística, donde el instrumento sirve para expresar texturas complejas heredadas de la música vocal. En contraste, la escuela barroca de guitarra (Amat[^9], Ribayaz[^9], Sanz[^10]) prioriza el acompañamiento, el rasgueado y la ornamentación, reflejando el ideal expresivo del Barroco. La escuela clásica de finales del XVIII (Moretti[^11], Ferandiere[^12], Abreu-Prieto[^13]) introduce un enfoque racionalista y didáctico donde la claridad técnica y la sistematización del aprendizaje responden a los ideales ilustrados de orden y progreso.
 
@@ -179,7 +179,7 @@ Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica d
 
 #REVISAR_OPENCODE
 
-==### Otras cuerdas pulsadas
+==**Otras cuerdas pulsadas**
 
 Además de la vihuela, el laúd y la guitarra, otros instrumentos de cuerda pulsada desarrollaron sus propias tradiciones pedagógicas. El **arpa**, con una rica historia en España desde la Edad Media, contó con tratadistas como Luis Venegas de Henestrosa[^4], cuyo *Libro de cifra nueva* abarcaba tecla, arpa y vihuela, reflejando la interconexión entre estas familias instrumentales. En Italia y Francia, el **laúd** renacentista y barroco generó una extensa literatura didáctica con figuras como Adrián Le Roy[^6] en Francia, Thomas Robinson y John Dowland[^7] en Inglaterra, y Hans Gerle y Wolff Heckel Newsidler[^8] en Alemania. El **mandolín** y la **bandurria** también desarrollaron técnicas de pulsación específicas, aunque su literatura pedagógica es menos abundante que la de los instrumentos anteriormente citados.==
 
