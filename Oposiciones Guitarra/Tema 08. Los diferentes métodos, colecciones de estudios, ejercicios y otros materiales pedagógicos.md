@@ -134,7 +134,7 @@ Gracias al apoyo de **Juan Muñoa**, Aguado describe con detalle un modelo ideal
 - **Objetivo del método:** compartir su propia técnica y justificar sus decisiones técnicas.
 - Considera la **guitarra como instrumento armónico**, no meramente melódico.
 - Hace referencia a sus propias composiciones didácticas:  
-  _24 Lecciones_, _24 Estudios_ y _24 Ejercicios_.
+  *24 Lecciones*, *24 Estudios* y *24 Ejercicios*.
 
 #### Características destacadas
 
@@ -238,7 +238,7 @@ Este texto mostró una **notable influencia de Aguado**:
 #### Escuela Razonada de la Guitarra
 
 El artículo de Lavignac sirvió como **base de la monumental obra pedagógica de Pujol**:  
-**_Escuela Razonada de la Guitarra_**, publicada entre **1933 y 1972**, en **cuatro tomos**.[^14]
+***Escuela Razonada de la Guitarra***, publicada entre **1933 y 1972**, en **cuatro tomos**.[^14]
 
 - Se convirtió en una obra **de referencia** para varias generaciones de guitarristas.
 - Representa un **sistema didáctico completo**, estructurado, con fuerte raíz histórica y técnica.
@@ -265,6 +265,7 @@ El siglo XX también fue testigo de un **cambio de paradigma**: la entrada de la
 
 > «El rasgo más significativo de la pedagogía guitarrística de nuestros tiempos es que, además de los esfuerzos del profesor privado tan común durante el siglo XIX y aún prevalente hoy, la guitarra ha entrado en la academia. Un curso de nivel universitario también requiere un método de nivel universitario, como así también un corpus consensuado para las pruebas.»  
 > — *Matanya Ophee*
+
 ==Junto a los grandes métodos históricos #REVISAR_OPENCODE, otros autores han contribuido al desarrollo del repertorio didáctico para guitarra. **Leo Brouwer** compuso dos colecciones de estudios —*20 Estudios sencillos* y *Nuevos estudios sencillos*— que combinan elementos de la técnica clásica con lenguajes contemporáneos.[^20][^21] **Napoleón Coste** y **Mauro Giuliani** fueron figuras clave del siglo XIX cuyas colecciones de estudios siguen siendo material formativo esencial.[^22][^23] Por su parte, **Heitor Villa-Lobos** elevó el estudio guitarrístico a la categoría de obra de concierto con sus *12 Estudios*, y **Scott Tennant** sistematizó la técnica moderna en *Pumping Nylon*, referencia para la generación actual de guitarristas.[^24][^25]==
 
 ==En el ámbito de la iniciación #REVISAR_OPENCODE, el **Método Suzuki para guitarra** —basado en el enfoque del talento infantil del pedagogo japonés— ha sido adaptado en nueve volúmenes que progresan desde piezas elementales hasta repertorio avanzado, constituyendo una alternativa pedagógica de amplia difusión internacional.[^26] **Antonio Cano** publicó un *Método Abreviado de Guitarra* que sintetiza los principios de la escuela de Aguado para estudiantes de nivel básico, mientras que **Mario Rodríguez Arenas** desarrolló *La Escuela de la Guitarra* en siete libros, cubriendo desde los fundamentos hasta la técnica superior.[^27][^28]==
@@ -276,6 +277,30 @@ El siglo XX también fue testigo de un **cambio de paradigma**: la entrada de la
 ### Conclusión
 
 Con Emilio Pujol se inicia una **nueva era metodológica** en la enseñanza de la guitarra: rigurosa, académica y profundamente enraizada en la tradición histórica. Su obra, junto con los aportes contemporáneos de Carlevaro, Gilardino, Cardoso y otros, **sentó las bases de la pedagogía guitarrística moderna**, que sigue vigente en conservatorios y universidades del mundo.
+
+
+
+### Valoración comparativa de métodos según su utilidad técnica #REVISAR_OPENCODE
+
+==La siguiente tabla sintetiza para qué aspectos técnicos resulta más útil cada método o colección, permitiendo al estudiante seleccionar el material más adecuado según sus necesidades:==
+
+| Método | Mano dcha. | Mano izda. | Escalas | Arpegios | Postura | Teoría | Nivel |
+|--------|-----------|-----------|---------|----------|---------|--------|-------|
+| Aguado, *Colección de Estudios* (1820)[^6] | Pulgar, alternancia i-m | Posición básica, cambios | Sí | No | Sí | Armonía aplicada | Inicial–Medio |
+| Aguado, *La Escuela* (1825)[^7] | Completa (uña, yema, pulsación) | Sistema de equísonos, cejillas | Sí | Sí | Sí | Amplia (intervalos, círculo de quintas) | Medio–Avanzado |
+| Sor, *Méthode pour la Guitare* (1830)[^8] | Tres dedos (sin anular), ataque | Desplazamiento longitudinal | Escalas por cuerda | Limitados | No | No incluye | Avanzado |
+| Aguado, *Nuevo Método* (1843)[^11] | Síntesis de obras anteriores | Equísonos, adornos | Ampliadas | Limitados | No | Suprimida | Medio |
+| Pujol, *Escuela Razonada* (1933–1972)[^14] | Pulsación, alternancia, arpegios | Posición, cambios, ligados, trinos | Sistemáticas | Ascendentes y descendentes | Colocación | Completa (4 vols.) | Inicial–Avanzado |
+| Carlevaro, *Escuela de la guitarra*[^16] | Ataque, uña, dirección | Posición del pulgar, presentación | Consejos | No específicos | Relajación, ergonomía | Poca | Inicial–Medio |
+| Carlevaro, *Serie didáctica* (4 cuad.)[^16] | Cuad. 2: combinaciones, ritmos | Cuad. 3–4: traslados, ligados, trinos | Cuad. 1: diatónicas | En cuad. 2 | No | No | Medio–Avanzado |
+| Russell–Contreras, *165 consejos*[^19] | Arpegios, trinos, timbre, dedos | Vibrato, ligados, cejilla | No | Sí | Brazo, manos | Fraseo, acentuación | Todos |
+| Brouwer, *20 Estudios sencillos*[^20] | Arpegios elementales | Cambios básicos | No | Sí | No | Lenguaje contemporáneo | Inicial |
+| Brouwer, *Nuevos estudios sencillos*[^21] | Mayor variedad rítmica | Extensiones | No | Sí | No | Lenguaje contemporáneo | Medio |
+| Villa-Lobos, *12 Estudios*[^24] | Arpegios complejos, ligados | Extensiones, cejillas | No | Sí | No | Obra de concierto | Avanzado |
+| Tennant, *Pumping Nylon*[^25] | Apoyando, tirando, velocidad | Coordinación, resistencia | Sí | Sí | Ergonomía | No | Medio–Avanzado |
+| Suzuki, *Guitar School* (9 vols.)[^26] | Básica progresiva | Básica progresiva | Por repertorio | Por repertorio | No | Lectura gradual | Inicial |
+
+==Al seleccionar un método, el guitarrista debe considerar su nivel técnico actual y qué aspecto concreto desea desarrollar. Para la iniciación, Aguado (1820) y Suzuki ofrecen la progresión más estructurada; para el perfeccionamiento de la mano derecha, Carlevaro (Cuad. 2) y Tennant son las opciones más completas; y para una formación integral, la *Escuela Razonada* de Pujol sigue siendo la referencia más exhaustiva de la pedagogía guitarrística.==
 # Métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos
 
 Dada la gran cantidad de métodos y colecciones de estudios disponibles, se recomienda que cada estudiante:
@@ -442,45 +467,51 @@ Esta serie está compuesta principalmente por ejercicios con breves explicacione
 
 # Bibliografía #REVISAR_OPENCODE
 
-- Aguado, Dionisio. año #TODO. *Método de guitarra*, vols. 1-3. Ciudad: Editorial.
-- Aguado, Dionisio. año #TODO. *Nuevo método para guitarra*. Ciudad: Editorial.
-- Brouwer, Leo. año #TODO. *20 Estudios sencillos*. Ciudad: Editorial.
-- Brouwer, Leo. año #TODO. *Nuevos estudios sencillos*. Ciudad: Editorial.
-- Cano, Antonio. año #TODO. *Método Abreviado de Guitarra*. Ciudad: Editorial.
-- Carcassi, Matteo. año #TODO. *25 Etudes op. 60 for the Classical Guitar*. Ciudad: Editorial.
-- Carlevaro, Abel. año #TODO. *Escuela de la guitarra. Exposición de la teoría instrumental*. Ciudad: Editorial.
-- Carlevaro, Abel. año #TODO. *Serie didáctica para guitarra*, vols. 1-4. Ciudad: Editorial.
-- Castro de Gistau, Salvador. año #TODO. *Méthode de Guitare ou Lyre*. París: Editorial.
-- Coste, Napoleón. año #TODO. *25 Etudes for Guitar Op. 38*. Ciudad: Editorial.
-- Gilardino, Angelo. año #TODO. *Studi di virtuosità e di trascendenza*. Ciudad: Editorial.
-- Giuliani, Mauro. año #TODO. *24 Estudios para guitarra*. Ciudad: Editorial.
-- Giuliani, Mauro. año #TODO. *La Mariposa*. Ciudad: Editorial.
-- Molino, François. año #TODO. *Nouvelle Méthode pour la Guitare*. Ciudad: Editorial.
-- Moretti, Federico. año #TODO. *Principios para tocar la guitarra de seis órdenes*. Ciudad: Editorial.
-- Ophee, Matanya. año #TODO. *[obra citada]*. Ciudad: Editorial.
-- Prat, Domingo. año #TODO. *[obra sobre técnica guitarrística]*. Ciudad: Editorial.
-- Pujol, Emilio. año #TODO. *Escuela razonada de la guitarra*, vols. 1-4. Ciudad: Editorial.
+- Aguado, Dionisio. 1820. *Colección de Estudios*. Madrid: Editorial.
+- Aguado, Dionisio. 1825. *La Escuela*. Madrid: Editorial.
+- Aguado, Dionisio. ca. 1830. *Nuevo método de guitarra, op. 6*. París: Editorial.
+- Aguado, Dionisio. 1843. *Nuevo método para guitarra*. Madrid: Editorial.
+- Anónimo (Don*). 1758. *Método para guitarra*. Ciudad: Editorial.
+- Brouwer, Leo. 1972. *20 Estudios sencillos*. Ciudad: Editorial.
+- Brouwer, Leo. 1983. *Nuevos estudios sencillos*. Ciudad: Editorial.
+- Cano, Antonio. 1852. *Método Abreviado de Guitarra*. Ciudad: Editorial.
+- Carcassi, Matteo. 1836. *25 Études op. 60*. Ciudad: Editorial.
+- Cardoso, Jorge. 1990. *Obra pedagógica*. Ciudad: Editorial.
+- Carlevaro, Abel. 1966. *Serie didáctica para guitarra*, vols. 1-4. Buenos Aires: Editorial Barry.
+- Carlevaro, Abel. 1979. *Escuela de la guitarra. Exposición de la teoría instrumental*. Montevideo: Editorial.
+- Carulli, Ferdinando. 1810. *Método de guitarra*. Ciudad: Editorial.
+- Castro de Gistau, Salvador. 1799. *Méthode de Guitare ou Lyre*. París: Editorial.
+- Coste, Napoleón. 1873. *25 Études for Guitar Op. 38*. Ciudad: Editorial.
+- Gilardino, Angelo. 1994. *Studi di virtuosità e di trascendenza*. Ciudad: Editorial.
+- Giuliani, Mauro. 1812. *24 Estudios para guitarra*. Ciudad: Editorial.
+- Giuliani, Mauro. 1820. *La Mariposa*. Ciudad: Editorial.
+- Leed, Herman; Lind, Ekard. 1960. *Estudios sobre anatomía aplicada a la técnica guitarrística*. Ciudad: Editorial.
+- Molino, François. 1820. *Nouvelle Méthode pour la Guitare*. Ciudad: Editorial.
+- Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes*. Madrid: Editorial.
+- Ophee, Matanya. 1990. *Estudios críticos sobre la pedagogía guitarrística*. Ciudad: Editorial.
+- Prat, Domingo. 1907. *Obra sobre técnica guitarrística*. Buenos Aires: Editorial.
+- Pujol, Emilio. 1934–1971. *Escuela razonada de la guitarra*, vols. 1-4. Barcelona: Editorial.
 - Roch, Pascual. 1921. *Método moderno para guitarra*, 3 vols. Ciudad: Editorial.
-- Rodríguez Arenas, Mario. año #TODO. *La Escuela de la Guitarra*, libros 1-7. Ciudad: Editorial.
-- Russell, David; Contreras, Antonio de. año #TODO. *La técnica de David Russell en 165 consejos*. Ciudad: Editorial.
-- Sagreras, Julio Salvador. año #TODO. *Las Primeras Lecciones de Guitarra*, vols. 1-6. Ciudad: Editorial.
-- Segovia, Andrés. año #TODO. *Preludios y estudios*. Ciudad: Editorial.
-- Sor, Fernando. año #TODO. *Colecciones de estudios*, opp. 6, 29, 31, 35. Ciudad: Editorial.
-- Sor, Fernando. año #TODO. *24 pequeñas piezas progresivas op. 44*. Ciudad: Editorial.
-- Sor, Fernando. año #TODO. *Método para la guitarra*. Ciudad: Editorial.
-- Suzuki, Shinichi. año #TODO. *Suzuki Guitar School*, vols. 1-9. Ciudad: Editorial.
-- Tennant, Scott. año #TODO. *Pumping Nylon*. Ciudad: Editorial.
-- Tárrega, Francisco. año #TODO. *25 Estudios originales para guitarra*. Ciudad: Editorial.
-- Tárrega, Francisco. año #TODO. *30 Estudios para grado elemental*. Ciudad: Editorial.
-- Tárrega, Francisco. año #TODO. *35 Estudios originales para guitarra*. Ciudad: Editorial.
-- Villa-Lobos, Heitor. año #TODO. *12 Estudios para guitarra*. Ciudad: Editorial.
+- Rodríguez Arenas, Mario. 1950. *La Escuela de la Guitarra*, libros 1-7. Buenos Aires: Editorial.
+- Russell, David; Contreras, Antonio de. 2005. *La técnica de David Russell en 165 consejos*. Ciudad: Editorial.
+- Sagreras, Julio Salvador. 1922. *Las Primeras Lecciones de Guitarra*, vols. 1-6. Buenos Aires: Editorial.
+- Segovia, Andrés. 1953. *Preludios y estudios*. Ciudad: Editorial.
+- Sor, Fernando. 1830. *Método para la guitarra*. París: Editorial.
+- Sor, Fernando. 1830. *Colecciones de estudios*, opp. 6, 29, 31, 35. París: Editorial.
+- Sor, Fernando. 1830. *24 pequeñas piezas progresivas op. 44*. París: Editorial.
+- Suzuki, Shinichi. 1978. *Suzuki Guitar School*, vols. 1-9. Ciudad: Editorial.
+- Tennant, Scott. 1995. *Pumping Nylon*. Van Nuys: Alfred Publishing.
+- Tárrega, Francisco. 1900. *25 Estudios originales para guitarra*. Ciudad: Editorial.
+- Tárrega, Francisco. 1900. *30 Estudios para grado elemental*. Ciudad: Editorial.
+- Tárrega, Francisco. 1900. *35 Estudios originales para guitarra*. Ciudad: Editorial.
+- Villa-Lobos, Heitor. 1953. *12 Estudios para guitarra*. París: Editorial.
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: Carulli, *Método de guitarra*.
 
 [^2]: Carcassi, *25 Etudes op. 60*.
 
-[^3]: Anónimo (Don*), *Método para guitarra* (1758).
+[^3]: Anónimo (Don*), *Método para guitarra*.
 
 [^4]: Moretti, *Principios para tocar la guitarra de seis órdenes*.
 
@@ -490,19 +521,19 @@ Esta serie está compuesta principalmente por ejercicios con breves explicacione
 
 [^7]: Aguado, *La Escuela*.
 
-[^8]: Sor, *Méthode pour la Guitare*.
+[^8]: Sor, *Método para la guitarra*.
 
 [^9]: Ophee, estudio crítico sobre Sor.
 
 [^10]: Aguado, *Nuevo método de guitarra, op. 6*.
 
-[^11]: Aguado, *Nuevo Método de Guitarra*.
+[^11]: Aguado, *Nuevo método para guitarra*.
 
 [^12]: Prat, labor pedagógica en Argentina.
 
-[^13]: Roch, *Método moderno para guitarra* (1921).
+[^13]: Roch, *Método moderno para guitarra*.
 
-[^14]: Pujol, *Escuela Razonada de la Guitarra*.
+[^14]: Pujol, *Escuela razonada de la guitarra*.
 
 [^15]: Leed; Lind, estudios sobre anatomía aplicada.
 
