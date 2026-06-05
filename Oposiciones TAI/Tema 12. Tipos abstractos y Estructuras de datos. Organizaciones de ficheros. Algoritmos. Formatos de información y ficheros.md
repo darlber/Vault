@@ -6,6 +6,8 @@
 - **Tipo de Dato (TD)**: Conjunto de valores que puede tomar una variable (ej: entero, booleano).
 - **Tipo Abstracto de Dato (TAD)**: Abstracción que especifica *qué* operaciones se pueden realizar sobre un conjunto de datos, ocultando *cómo* se implementan (encapsulamiento). Ej: TAD Pila (Push, Pop, Top) sin importar si se implementa con array o lista.
 - **Estructura de Datos (ED)**: Implementación concreta de un TAD. Es la forma de organizar datos en memoria para manipularlos eficientemente.
+- **Características del TAD**: encapsulamiento (oculta implementación), define operaciones (interfaz), independencia de la representación.
+- **Qué NO es un TAD**: no es un tipo de dato simple predefinido del lenguaje; no es lo mismo que su implementación; no depende del lenguaje de programación.
 
 ### Clasificación de estructuras de datos
 
@@ -77,6 +79,7 @@
 - Generalización del ABB con múltiples hijos por nodo.
 - Usado en índices de **SGBD** (discos).
 - Minimiza accesos a disco.
+- **Árbol 2-3-4**: variante del árbol B donde cada nodo puede tener 2, 3 o 4 hijos. Es un árbol B de orden 4.
 
 ### Grafos
 - Conjunto de **vértices** (nodos) y **aristas** (conexiones).
@@ -89,6 +92,11 @@
 
 ### Concepto
 Secuencia **finita, ordenada y no ambigua** de pasos para resolver un problema.
+
+### Instrucciones de control
+- **Condicionales**: if, switch - ejecutan código según una condición.
+- **Iterativas (bucles)**: for, while, do-while - repiten código mientras se cumple una condición.
+- **while** es una instrucción iterativa (bucle) que evalúa la condición antes de ejecutar el bloque.
 
 ### Notación asintótica (Big-O)
 - **O(1)**: constante (acceso a array por índice).
@@ -113,6 +121,9 @@ Secuencia **finita, ordenada y no ambigua** de pasos para resolver un problema.
 | **Por interpolación** | Array ordenado, distribución uniforme | O(log log n) |
 | **A*** (informada) | Heurística | Variable |
 
+**Búsqueda ciega (no informada)**: Secuencial y binaria. No usan información del dominio, solo comparan valores.
+**Búsqueda informada**: A*, búsqueda en haz, algoritmos genéticos. Usan heurísticas para guiar la búsqueda.
+
 ### Algoritmos de Ordenación
 
 | Algoritmo | Estrategia | Complejidad promedio | Peor caso | Extra |
@@ -136,6 +147,10 @@ Secuencia **finita, ordenada y no ambigua** de pasos para resolver un problema.
 - Los ficheros almacenan datos en **memoria secundaria** (discos, SSD).
 - La organización de ficheros determina cómo se localizan y acceden los registros.
 
+### Métodos de Acceso
+- **Acceso secuencial**: lectura desde el principio hasta el final, registro por registro.
+- **Acceso directo (aleatorio)**: se accede a cualquier posición mediante la operación **seek()**, que desplaza el puntero a una posición específica sin leer registros anteriores.
+
 ### Tipos de Organización
 
 #### Secuencial
@@ -148,6 +163,7 @@ Secuencia **finita, ordenada y no ambigua** de pasos para resolver un problema.
 #### Secuencial Indexada (ISAM)
 - Los registros se almacenan secuencialmente, pero se añade un **índice** separado (clave + puntero).
 - Permite acceso directo rápido mediante el índice y también acceso secuencial.
+- **Búsqueda**: O(log n) en el índice (búsqueda binaria) + acceso directo al dato.
 - **Ventajas**: combina acceso directo y secuencial.
 - **Inconvenientes**: el índice ocupa espacio extra; inserciones pueden requerir reorganización.
 
@@ -173,6 +189,7 @@ Secuencia **finita, ordenada y no ambigua** de pasos para resolver un problema.
 ### JSON (JavaScript Object Notation)
 - Formato ligero basado en pares **clave-valor**.
 - Sintaxis: objetos en **{}**, arrays en **[]**, separación por comas.
+- **Las claves y strings deben ir entre comillas dobles**, no simples. `{"nombre": "Juan"}` es válido; `{'nombre': 'Juan'}` NO.
 - **Estándar** en APIs RESTful.
 - Menos verboso que XML, más fácil de parsear en JavaScript.
 - No tiene atributos (a diferencia de XML), todo son pares clave-valor.
@@ -182,34 +199,3 @@ Secuencia **finita, ordenada y no ambigua** de pasos para resolver un problema.
 - Muy usado para exportar/importar datos tabulares (hojas de cálculo, BBDD).
 - No soporta estructuras anidadas ni metadatos.
 
-## Preguntas tipo test resueltas (aparecidas en TAI C1)
-
-**1. ¿Cuál de las siguientes estructuras de datos se rige por el principio LIFO?**
-a) Cola   b) Lista circular   c) **Pila**   d) Árbol binario
-
-**2. ¿Cuál es la complejidad del algoritmo de búsqueda binaria?**
-a) O(1)   b) **O(log n)**   c) O(n)   d) O(n²)
-
-**3. ¿Cuál es la complejidad del algoritmo de ordenación QuickSort en el peor caso?**
-a) O(log n)   b) **O(n²)**   c) O(n log n)   d) O(1)
-
-**4. ¿Qué característica es cierta sobre el algoritmo de la burbuja?**
-a) Es de divide y vencerás   b) Usa un pivote   c) **Compara elementos adyacentes e intercambia**   d) Tiene O(n log n)
-
-**5. ¿Cuál de las siguientes afirmaciones sobre XML es CORRECTA?**
-a) Es insensible a mayúsculas   b) **Debe tener un único elemento raíz**   c) Las etiquetas no necesitan cerrarse   d) Está diseñado para presentación visual
-
-**6. ¿Qué organización de ficheros calcula la dirección física mediante una función matemática?**
-a) Secuencial   b) Secuencial indexada   c) **Directa (Hash)**   d) Relacional
-
-**7. ¿Qué estructura de datos es más adecuada para implementar una cola de impresión?**
-a) Pila   b) **Cola**   c) Árbol   d) Array
-
-**8. ¿Qué algoritmo de ordenación garantiza complejidad O(n log n) incluso en el peor caso?**
-a) Burbuja   b) QuickSort   c) **MergeSort**   d) Inserción
-
-**9. ¿Cuál de los siguientes NO es un algoritmo de búsqueda informada?**
-a) Búsqueda A*   b) **Búsqueda binaria**   c) Búsqueda en haz   d) Algoritmo genético
-
-**10. ¿Qué estructura permite acceso directo a cualquier elemento en O(1)?**
-a) Lista enlazada   b) **Array**   c) Árbol   d) Pila

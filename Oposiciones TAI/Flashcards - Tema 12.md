@@ -2,124 +2,196 @@
 
 # Flashcards - Tema 12: Tipos abstractos, ED, Algoritmos, Ficheros, Formatos
 
-## Tipos Abstractos y Estructuras de Datos
+## Tipos Abstractos de Datos (TAD)
 
-Diferencia entre TAD y Estructura de Datos::TAD especifica qué operaciones se pueden realizar (oculta el cómo); Estructura de Datos es la implementación concreta del TAD
+Diferencia entre TD, TAD y ED::TD = conjunto de valores; TAD = qué operaciones (oculta el cómo); ED = implementación concreta del TAD
 
-Clasificación según contigüidad en memoria::Contiguas (arrays, registros) / Enlazadas (listas, árboles)
+Características del TAD::Encapsulamiento, define interfaz de operaciones, independencia de la representación
 
-Clasificación según variabilidad de tamaño::Estáticas (tamaño fijo en compilación) / Dinámicas (crecen en ejecución)
+Qué NO es un TAD::No es tipo simple predefinido; no es su implementación; no depende del lenguaje
 
-Clasificación según homogeneidad::Homogéneas (array: mismo tipo) / Heterogéneas (registro: tipos distintos)
+## Clasificación de Estructuras de Datos
+
+Según contigüidad::Contiguas (arrays, registros) / Enlazadas (listas, árboles)
+
+Según variabilidad de tamaño::Estáticas (tamaño fijo en compilación) / Dinámicas (crecen en ejecución)
+
+Según homogeneidad::Homogéneas (array) / Heterogéneas (registro)
+
+Según linealidad::Lineales (pilas, colas, listas) / No lineales (árboles, grafos)
 
 ## Estructuras Lineales
 
-Array (vector/matriz)::Elementos homogéneos en posiciones contiguas de memoria
+Array - característica principal::Elementos homogéneos en posiciones contiguas de memoria
 
-Acceso a un elemento de array por índice::O(1) (directo)
+Array - acceso por índice::O(1)
 
-Inserción/borrado en medio de un array::O(n) (hay que desplazar elementos)
+Array - inserción/borrado en medio::O(n)
 
 Registro (struct/record)::Agrupación heterogénea, contigua y estática
 
-Lista enlazada simple::Cada nodo (dato + puntero) apunta al siguiente; el último apunta a null
+Lista enlazada simple::Cada nodo apunta al siguiente; el último apunta a null
 
 Lista enlazada doble::Cada nodo apunta al siguiente y al anterior
 
 Lista circular::El último nodo apunta al primero
 
-Acceso en lista enlazada::O(n) (secuencial)
+Lista enlazada - acceso::O(n) (secuencial)
 
-Inserción/borrado en lista enlazada (conociendo el nodo)::O(1)
+Lista enlazada - inserción/borrado conociendo nodo::O(1)
 
-Pila (Stack) - política de acceso::LIFO (Last In, First Out)
+Pila - política de acceso::LIFO (Last In, First Out)
 
-Operaciones de la pila::Push (apilar), Pop (desapilar), Top (cima)
+Pila - operaciones::Push (apilar), Pop (desapilar), Top (cima)
 
-Usos de la pila::Recursividad (call stack), evaluación de expresiones, deshacer acciones
+Pila - usos::Recursividad (call stack), evaluación expresiones, deshacer
 
-Cola (Queue) - política de acceso::FIFO (First In, First Out)
+Cola - política de acceso::FIFO (First In, First Out)
 
-Operaciones de la cola::Enqueue (encolar), Dequeue (desencolar)
+Cola - operaciones::Enqueue (encolar), Dequeue (desencolar)
 
-Usos de la cola::Planificación de procesos, spooling de impresión, búferes
+Cola - usos::Planificación procesos, spooling impresión, búferes
 
 ## Estructuras No Lineales
 
-Árbol binario::Cada nodo tiene máximo 2 hijos (izquierdo y derecho)
+Árbol binario::Cada nodo tiene máximo 2 hijos
 
-Recorrido Preorden::Raíz → subárbol izquierdo → subárbol derecho
+Recorrido Preorden::Raíz → izquierdo → derecho
 
-Recorrido Inorden::Subárbol izquierdo → raíz → subárbol derecho
+Recorrido Inorden::Izquierdo → raíz → derecho
 
-Recorrido Postorden::Subárbol izquierdo → subárbol derecho → raíz
+Recorrido Postorden::Izquierdo → derecho → raíz
 
-Árbol Binario de Búsqueda (ABB)::Hijo izquierdo < raíz < hijo derecho
+ABB - propiedad::Hijo izquierdo < raíz < hijo derecho
 
-Complejidad de búsqueda en ABB balanceado::O(log n)
+ABB - complejidad búsqueda promedio::O(log n)
 
-Árbol AVL::ABB autobalanceado; diferencia de altura entre subárboles ≤ 1
+ABB - complejidad peor caso::O(n) (degenerado)
 
-Árbol B::Varios hijos por nodo; usado en índices de SGBD. Minimiza accesos a disco
+Árbol AVL::ABB autobalanceado; diferencia altura ≤ 1; garantiza O(log n)
 
-Grafo::Conjunto de vértices (nodos) y aristas (conexiones). Pueden ser dirigidos o no, ponderados o no
+Árbol B::Múltiples hijos por nodo; usado en índices SGBD
 
-Matriz de adyacencia::Representación de grafo como tabla O(V²) de conexiones
+Árbol 2-3-4::Variante de árbol B (orden 4); nodos con 2, 3 o 4 hijos
 
-Lista de adyacencia::Representación de grafo como lista de vecinos O(V+E)
+Grafo::Vértices + aristas; dirigido/no dirigido; ponderado/no ponderado
 
-## Algoritmos y Complejidad
+Grafo - matriz de adyacencia::O(V²) espacio
 
-Notación Big-O::O(1) constante, O(log n) logarítmica, O(n) lineal, O(n log n) quasilineal, O(n²) cuadrática
+Grafo - lista de adyacencia::O(V+E) espacio
 
-Búsqueda secuencial::O(n) - no requiere ordenación previa
+## Algoritmos
 
-Búsqueda binaria::O(log n) - requiere array ordenado
+Algoritmo - definición::Secuencia finita, ordenada y no ambigua de pasos
 
-Burbuja (Bubble Sort) - estrategia::Compara elementos adyacentes y los intercambia si están desordenados
+Instrucciones condicionales::if, switch - ejecutan según condición
+
+Instrucciones iterativas (bucles)::for, while, do-while - repiten mientras condición se cumple
+
+While es una instrucción::Iterativa (bucle)
+
+## Notación Big-O
+
+O(1)::Constante (acceso array por índice)
+
+O(log n)::Logarítmica (búsqueda binaria)
+
+O(n)::Lineal (búsqueda secuencial)
+
+O(n log n)::Quasilineal (QuickSort promedio, MergeSort)
+
+O(n²)::Cuadrática (Burbuja, Selección, Inserción)
+
+## Recursividad
+
+Recursividad::Algoritmo que se llama a sí mismo con caso más pequeño
+
+Recursividad - requisitos::Caso base (terminación) y caso recursivo
+
+Recursividad - estructura interna que usa::Pila (call stack)
+
+## Búsqueda
+
+Búsqueda secuencial - condición::Ninguna; complejidad O(n)
+
+Búsqueda binaria - condición::Array ordenado; complejidad O(log n)
+
+Búsqueda por interpolación::Array ordenado, distribución uniforme; O(log log n)
+
+Búsqueda ciega (no informada)::Secuencial y binaria - solo comparan valores
+
+Búsqueda informada::A*, búsqueda en haz, algoritmos genéticos - usan heurísticas
+
+## Ordenación
+
+Burbuja (Bubble Sort) - estrategia::Compara adyacentes e intercambia si están desordenados
 
 Burbuja - complejidad::O(n²) en todos los casos
 
-QuickSort - estrategia::Divide y vencerás usando un pivote
+QuickSort - estrategia::Divide y vencerás con pivote
 
 QuickSort - complejidad promedio::O(n log n)
 
-QuickSort - complejidad peor caso::O(n²) (cuando lista ya ordenada y mal pivote)
+QuickSort - complejidad peor caso::O(n²) (lista ordenada y mal pivote)
 
 MergeSort - estrategia::Divide y vencerás por mezcla de mitades
 
 MergeSort - complejidad::O(n log n) en todos los casos
 
-MergeSort - desventaja::Requiere O(n) espacio adicional de memoria
+MergeSort - desventaja::Requiere O(n) espacio extra
 
-Recursividad::Algoritmo que se llama a sí mismo con un caso más pequeño; necesita caso base
+HeapSort::Montículo binario; O(n log n); in situ
 
-La recursividad usa internamente::La pila (call stack)
+## Grafos (algoritmos)
+
+BFS::Anchura - camino más corto en grafos no ponderados
+
+DFS::Profundidad - detecta ciclos, recorridos
+
+Dijkstra::Camino más corto en grafos ponderados (sin pesos negativos)
+
+Kruskal/Prim::Árbol de expansión mínima
 
 ## Organización de Ficheros
 
-Organización secuencial::Registros uno detrás de otro; para leer el N hay que leer los N-1 anteriores
+Fichero secuencial - característica::Registros uno detrás de otro; leer N requiere leer N-1 anteriores
 
-Organización secuencial indexada (ISAM)::Registros secuenciales + archivo de índice (clave + puntero) para acceso directo
+Fichero secuencial - uso::Procesamiento batch, logs, nóminas
 
-Organización directa (hash)::Función hash calcula dirección física a partir de la clave
+Fichero secuencial indexado (ISAM)::Registros secuenciales + índice (clave+puntero)
 
-Complejidad de acceso en organización hash::O(1) teórico
+ISAM - complejidad búsqueda::O(log n) en índice + acceso directo
 
-Problema de la organización hash::Colisiones (dos claves → misma dirección)
+ISAM - ventaja::Combina acceso directo y secuencial
 
-Resolución de colisiones hash::Exploración lineal (siguiente libre) o encadenamiento (lista en cada posición)
+ISAM - inconveniente::Índice ocupa espacio extra
+
+Fichero directo (hash)::Función hash calcula dirección física desde la clave
+
+Hash - complejidad acceso::O(1) teórico
+
+Hash - colisiones::Dos claves producen misma dirección
+
+Resolución de colisiones hash::Exploración lineal o encadenamiento
+
+## Métodos de Acceso
+
+Acceso secuencial::Lectura principio a fin, registro por registro
+
+Acceso directo (aleatorio)::seek() desplaza puntero a cualquier posición
 
 ## Formatos de Información
 
-XML bien formado - requisitos::Único elemento raíz, etiquetas cerradas, case-sensitive
+XML - bien formado exige::Único elemento raíz, etiquetas cerradas, case-sensitive
 
-XML vs HTML::XML transporta datos (sin presentación), HTML muestra datos
+XML - válido::Cumple esquema (DTD o XSD)
 
-XML válido::Cumple un esquema (DTD o XSD)
+XML vs HTML::XML transporta datos; HTML presenta datos
 
-JSON::Formato ligero con pares clave-valor en {} y arrays en []
+JSON - sintaxis correcta::Claves y strings con comillas dobles: {"clave": "valor"}
 
-JSON vs XML::JSON menos verboso, estándar en APIs REST
+JSON - qué NO es válido::Comillas simples: {'clave': 'valor'} NO es válido
 
-CSV::Cada línea es un registro, campos separados por comas; no soporta anidamiento
+JSON - estándar en::APIs RESTful
+
+CSV::Cada línea = registro; campos separados por comas; sin anidamiento
