@@ -11,15 +11,30 @@
             "id": "a35c21abf5b5d6a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Oposiciones Guitarra/TEMA 18-19.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tema 16"
+              "icon": "lucide-file-text",
+              "title": "TEMA 18-19"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e67023aaac5376dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad807f3ef95fa721",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Oposiciones Guitarra/TEMA 16-18.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TEMA 16-18"
             }
           }
         ]
@@ -148,7 +163,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 16.md"
+                "file": "Oposiciones Guitarra/TEMA 18-19.pdf"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -211,6 +226,9 @@
   },
   "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 17.md",
+    "Oposiciones Guitarra/Tema 16.md",
+    "Oposiciones Guitarra/TEMA 16-18.pdf",
     "OSINT.md",
     "OSINT_rcsmm.eu.md",
     "osint_ct.md",
@@ -221,7 +239,6 @@
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
-    "Oposiciones Guitarra/TEMA 16-18.pdf",
     "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
     "Oposiciones TAI/Índice.md",
     "Oposiciones TAI/Flashcards - Tema 12.md",
@@ -236,8 +253,6 @@
     "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
     "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
     "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
-    "Oposiciones TAI/Tema 6. La sociedad de la información. Identidad y firma electrónica, régimen jurídico. El DNI electrónico. La Agenda Digital para España.md",
-    "Oposiciones TAI/Tema 7. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
     "Oposiciones TAI/attachments/{EA0AF256-3735-40BB-97EB-E58D75AE8A37}.png",
