@@ -7,7 +7,7 @@
 3. [Aspectos fundamentales en la elección del instrumento](#Aspectos%20fundamentales%20en%20la%20elección%20del%20instrumento)
 4. [Bibliografía](#Bibliografía)
 # Descripción de sus elementos característicos. Introducción
-Gracias a Antonio de Torres, considerado el padre de la guitarra moderna, se establecieron importantes avances en la construcción del instrumento. Entre ellos destacan:
+Gracias a Antonio de Torres, considerado el padre de la guitarra moderna, se establecieron importantes avances en la construcción del instrumento.[4] Entre ellos destacan:
 - Fijación del tiro en 650 mm.
 - Localización precisa del puente.
 - Análisis del grosor y las cualidades de la madera.
@@ -33,7 +33,7 @@ En el siglo XIX surgieron dos estilos constructivos: el castellano y el andaluz,
 - **Aros laterales**
     - Unen tapa y fondo siguiendo el contorno curvo de la plantilla. Se humedecen y moldean para fijar la curvatura sin romperse.
 - **Quilla**
-    - Pieza estructural que asegura una unión sólida y duradera entre mástil y caja; aporta resistencia más que sonido.
+    - Pieza estructural que asegura una unión sólida y duradera entre mástil y caja; aporta resistencia más que sonido.[5]
 - **Boca**
     - Abertura en la tapa que proyecta el sonido. Los rosetones labrados de los siglos XVI‑XVII dieron paso al orificio circular abierto que se usa hoy.
 - **Encordadura y cuerdas**
@@ -187,3 +187,7 @@ Antes de adquirir una guitarra, es recomendable probarla durante al menos treint
 [2] Para una guía detallada de accesorios y su mantenimiento, véase Alcaraz Iborra, *La guitarra: Historia, organología y repertorio*, 2010, 67-82.
 
 [3] Criterios de selección ampliados en Freeth y Alexander, *The Acoustic Guitar: An Illustrated History*, 2005, caps. 4-5.
+
+[4] Para una visión de conjunto del desarrollo de la guitarra moderna, véanse Evans, *Guitars: From the Renaissance to Rock*, 1977, caps. 4-6; Ramos Altamira, *Historia de la guitarra y los guitarristas españoles*, 2005, caps. 3-5; Turnbull, *The Guitar from the Renaissance to the Present Day*, 1976, caps. 6-7; Tyler, *The Early Guitar*, 1980, cap. 4; Viglietti, *Origen e historia de la guitarra*, 1976, caps. 5-7; y Wade, *Traditions of the Classical Guitar*, 1980, caps. 3-4. Sobre la construcción guitarrística española, véase Romanillos, *El guitarrero español y su contribución en el desarrollo de la guitarra de concierto*, 1989, y *Catálogo de la Exposición Guitarras Antiguas Españolas*, 1990. Para el catálogo de la exposición general, Varios autores, *Catálogo de la Exposición La Guitarra Española*, 1991.
+
+[5] Para la definición técnica de los términos empleados en la descripción de la guitarra moderna, véase Sáenz, *Diccionario Técnico de la Guitarra*, 2000, 23-48.

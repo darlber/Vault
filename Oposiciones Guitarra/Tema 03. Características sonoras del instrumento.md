@@ -13,7 +13,7 @@
 5. [Formas convencionales y no convencionales de producción del sonido](#Formas%20convencionales%20y%20no%20convencionales%20de%20producción%20del%20sonido)
 6. [Bibliografía](#Bibliografía)
 # Características sonoras del instrumento. Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada
-La rama de la física que estudia los fenómenos relacionados con el sonido es la **acústica**. Define el sonido como la **sensación producida por ondas** que llegan a nuestros oídos, transmitidas a través del aire, el agua o los sólidos. La velocidad del sonido varía según el medio: aproximadamente **340 m/s en el aire** y entre **1.000 y 3.600 m/s en la madera**.
+La rama de la física que estudia los fenómenos relacionados con el sonido es la **acústica**. Define el sonido como la **sensación producida por ondas** que llegan a nuestros oídos, transmitidas a través del aire, el agua o los sólidos. La velocidad del sonido varía según el medio: aproximadamente **340 m/s en el aire** y entre **1.000 y 3.600 m/s en la madera**.[7]
 
 Un **elemento sonoro** es cualquier objeto capaz de vibrar de forma adecuada. **Si la vibración es uniforme**, se percibe como **sonido**; si es irregular, se considera **ruido**.
 
@@ -246,3 +246,5 @@ Por ejemplo, para una cuerda de 650 mm:
 [5] Sobre el debate histórico entre pulsación con yema, uña o mixta, véase Aguado, *Escuela de guitarra*, 1949, 34-40, y Tyler, *The Early Guitar*, 1980, 124-130.
 
 [6] Los principios físicos que relacionan el punto de ataque con el espectro armónico resultante se exponen en Benade, *Fundamentals of Musical Acoustics*, 1976, 213-226, y Fletcher y Rossing, *The Physics of Musical Instruments*, 1998, 239-254.
+
+[7] Para una contextualización histórica de la evolución acústica y técnica de la guitarra, véanse Turnbull, *The Guitar from the Renaissance to the Present Day*, 1976, caps. 1 y 6; Viglietti, *Origen e historia de la guitarra*, 1976, caps. 2-4; y Wade, *Traditions of the Classical Guitar*, 1980, cap. 2.

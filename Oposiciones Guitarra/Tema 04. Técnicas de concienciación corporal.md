@@ -135,7 +135,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 
 ### La respiración
 - **Definición:**  
-  La respiración es el proceso por el cual captamos oxígeno y eliminamos dióxido de carbono, esencial para el metabolismo celular.
+  La respiración es el proceso por el cual captamos oxígeno y eliminamos dióxido de carbono, esencial para el metabolismo celular.[8]
 
 - **Relación con el estado emocional:**  
   El ritmo respiratorio está ligado a nuestro estado anímico. El estrés y la tensión causan respiración rápida y superficial, aumentando la ansiedad. Respirar profundamente y de forma lenta ayuda a calmar y equilibrar el cuerpo y la mente.
@@ -175,7 +175,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
   - Reduce pulso, presión sanguínea, sudoración, frecuencia respiratoria y tensión muscular.  
   - Ayuda a mitigar trastornos derivados de la ansiedad.  
 
-- Técnica destacada: **Relajación progresiva de Jacobson** (1938)  
+- Técnica destacada: **Relajación progresiva de Jacobson** (1938)[11]  
   - Basada en la idea de que la ansiedad genera tensión muscular.  
   - Al eliminar la tensión muscular, disminuye la ansiedad.  
   - Consiste en tensar y relajar sistemáticamente distintos grupos musculares.  
@@ -205,7 +205,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 ### Hábitos posturales  
 #### Técnica Alexander
 
-- Matthias Alexander, actor australiano, desarrolló esta técnica tras sufrir problemas de voz y respiración.  
+- Matthias Alexander, actor australiano, desarrolló esta técnica tras sufrir problemas de voz y respiración.[10]  
 - Observó que ciertos movimientos inapropiados de la cabeza afectaban su voz.  
 - Su método se basa en la reeducación del movimiento para que el cuerpo y la mente funcionen de forma más eficiente y fluida.  
 - Mejora las habilidades de comunicación al aumentar la capacidad de respuesta física y mental.  
@@ -264,7 +264,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 1. **Realice movimientos con facilidad:** usar el mínimo esfuerzo, sin tensar ni estirar.  
 2. **Haga movimientos lentos:** para notar sensaciones y detectar tensiones innecesarias.  
 3. **Relájese:** intente expulsar la tensión al moverse.  
-4. **Descanse entre movimientos:** para que el cerebro asimile la nueva información sensorial y motriz.  
+4. **Descanse entre movimientos:** para que el cerebro asimile la nueva información sensorial y motriz.[9]  
 
 #REVISAR_OPENCODE
 
@@ -322,7 +322,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Emil Coué, farmacéutico francés, fue pionero a principios del siglo XX en el uso de la autosugestión para superar el estrés y mejorar la salud.  
 - Para Coué, el miedo al fracaso genera el fracaso, mientras que la creencia en el éxito lo inspira.  
 - Propuso repetir mentalmente afirmaciones positivas como “cada día estoy mejorando más”.  
-- Métodos contemporáneos amplían esta idea con la visualización positiva, donde se forma una imagen clara del objetivo a alcanzar.  
+- Métodos contemporáneos amplían esta idea con la visualización positiva, donde se forma una imagen clara del objetivo a alcanzar.[12]  
 
 **Práctica recomendada:**  
 - Realizar ejercicios de visualización 2-3 veces al día, durante 10-12 minutos cada vez, para máxima efectividad.  
@@ -331,7 +331,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 ### La superación del miedo escénico
 
 - **Definición:**  
-  El miedo escénico-musical es la ansiedad que siente el músico ante una actuación frente a un público, afectando a la ejecución.
+  El miedo escénico-musical es la ansiedad que siente el músico ante una actuación frente a un público, afectando a la ejecución.[13]
 
 - **Impacto:**  
   Puede deteriorar la calidad de la interpretación y, en casos graves, llevar a evitar completamente actuar (fobia escénica).
@@ -471,3 +471,15 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 [6] Langford, *Mind and Muscle and Music*, 2008, 45-62.
 
 [7] Feldenkrais, *Awareness Through Movement*, 1972, ejercicios 1-4, adaptados al contexto instrumental por el autor.
+
+[8] Sobre la fisiología de la respiración aplicada a la práctica instrumental, véanse Bochsma, «La respiración», *Brass Bulletin* n.º 66 (1989): 40-43; Bourgue, «La respiración», *Revista Trompa* n.º 21 (1990): 14-19 y n.º 22 (1990): 17-20; Cramer, «L'acte de souffler», *Brass Bulletin* n.º 34 (1981): 29-36; Katschmartschyk, «Historia y desarrollo de la espiración permanente», *Brass Bulletin* n.º 67 (1989): 42-45; Thompson, «La respiración circular», *Brass Bulletin* n.º 69 (1990): 84-87; y Wiener, «James-stamp, maestro de la escucha», *Brass Bulletin* n.º 100 (1997): 59-67. Para las bases anatómicas, Harrison, *Tratado de medicina interna*, tomo 1; Houssay et al., *Fisiología humana*; y Netter, *Sistema respiratorio*, tomo VII-A.
+
+[9] Sobre la pedagogía instrumental y la concienciación corporal, véase Ricquier, *Traité méthodique de pédagogie instrumentale*, 1978, caps. 3-5.
+
+[10] Alexander expone los fundamentos de su método en *The Use of the Self*, 1932. Para una visión sintética de la Técnica Alexander, véase Barlow, *The Alexander Principle*, 1973.
+
+[11] Jacobson, *Progressive Relaxation*, 1938, caps. 1-4, donde se describe el método original de relajación progresiva.
+
+[12] La aplicación de técnicas de visualización y juego interior a la práctica musical se desarrolla en Green y Gallwey, *The Inner Game of Music*, 1986, caps. 3-5.
+
+[13] Sobre la ansiedad escénica y su tratamiento, véase Wilson, «Performance Anxiety», en Hargreaves y North (eds.), *The Social Psychology of Music*, 1997, 229-48.

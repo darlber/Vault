@@ -9,7 +9,7 @@
 # Historia general de la guitarra: orígenes y antecedentes  
 ## Introducción
 
-Determinar el origen exacto de la guitarra es una tarea compleja debido a la diversidad de instrumentos de cuerda medievales de los que podría derivar, ya que presentan distintos nombres, formas, procedencias y formas de ejecución.
+Determinar el origen exacto de la guitarra es una tarea compleja debido a la diversidad de instrumentos de cuerda medievales de los que podría derivar, ya que presentan distintos nombres, formas, procedencias y formas de ejecución.[5]
 
 ## Antecedentes
 
@@ -40,7 +40,7 @@ Sus características eran:
 - Aspecto similar al de la vihuela
 
 # Evolución histórica desde sus orígenes hasta nuestros días
-- La guitarra tiene una evolución estrechamente ligada a la vihuela, instrumento predominante en la música culta del Renacimiento con un amplio repertorio.
+- La guitarra tiene una evolución estrechamente ligada a la vihuela, instrumento predominante en la música culta del Renacimiento con un amplio repertorio.[6]
 - El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.
 - Este sistema fue adoptado por otros constructores como Pagés (1777), y se difundió desde Cádiz y Málaga hacia Madrid a principios del siglo XIX.
 - Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de “guitarra española”, coexistiendo guitarras de cinco y seis órdenes hasta el siglo XVIII.
@@ -62,12 +62,12 @@ Otros autores fundamentales del período barroco fueron: ==**Francesco Corbetta*
 
 ### El siglo XIX: hacia la guitarra de concierto
 
-Antonio de Torres fue fundamental en la transformación del instrumento: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.[3]
+Antonio de Torres fue fundamental en la transformación del instrumento: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.[3][7]
 	- Según José Luis Romanillos, Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
 
 ### ==La consolidación en el siglo XX: Andrés Segovia y la guitarra de concierto==
 
-La figura central de este período es ==**Andrés Segovia**== (1893–1987), cuyo magisterio elevó la guitarra desde el ámbito del salón y el folclore hasta las salas de concierto internacionales. Segovia no solo fue un intérprete excepcional, sino que impulsó activamente la creación de un nuevo repertorio —encargando obras a compositores como Federico Moreno Torroba, Joaquín Turina, Manuel de Falla, Heitor Villa-Lobos, Mario Castelnuovo-Tedesco y Joaquín Rodrigo— y legitimó el instrumento en los círculos académicos.[4]
+La figura central de este período es ==**Andrés Segovia**== (1893–1987), cuyo magisterio elevó la guitarra desde el ámbito del salón y el folclore hasta las salas de concierto internacionales. Segovia no solo fue un intérprete excepcional, sino que impulsó activamente la creación de un nuevo repertorio —encargando obras a compositores como Federico Moreno Torroba, Joaquín Turina, Manuel de Falla, Heitor Villa-Lobos, Mario Castelnuovo-Tedesco y Joaquín Rodrigo— y legitimó el instrumento en los círculos académicos.[4][8]
 
 El modelo de Torres, difundido por los luthiers del siglo XX, se convirtió en el estándar para la guitarra de concierto. Constructores como **Hermann Hauser I** (Alemania), **Ignacio Fleta** (Cataluña) y **José Ramírez III** (Madrid) adoptaron y perfeccionaron el sistema de varetaje en abanico, cada uno con variaciones personales que influyeron en el sonido de los grandes intérpretes del siglo.
 
@@ -138,7 +138,7 @@ A finales del siglo XX, la guitarra ha ampliado su presencia en géneros como el
 
 ### Escuela francesa:
 En el Barroco francés destacó **Voboam**, conocido por sus guitarras con gran ornamentación en el mástil.
-En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitarras para Sor y Carulli, quien introdujo varias innovaciones técnicas:
+En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitarras para Sor y Carulli, quien introdujo varias innovaciones técnicas:[9]
 
 - Clavijas bloqueables tras la afinación.
 - Sistema de engranajes en la cabeza de la guitarra.
@@ -236,3 +236,13 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 [3] La figura de Antonio de Torres ha sido estudiada en profundidad por Romanillos y Winspear, *Antonio de Torres: Guitar Maker*, 2004.
 
 [4] El papel de Andrés Segovia en la legitimación de la guitarra como instrumento de concierto es analizado en Coelho, *The Cambridge Companion to the Guitar*, 2003, cap. 7.
+
+[5] Para una visión general de los orígenes de la guitarra y su evolución temprana, véanse Turnbull, *The Guitar from the Renaissance to the Present Day*, 1976, caps. 1-2; Viglietti, *Origen e historia de la guitarra*, 1976, caps. 1-3; y Matlik, *Handbook of Guitar and Lute Composers*, 2010, 1-15.
+
+[6] Sobre la evolución de la guitarra en los siglos XVI-XVIII, véanse Tyler, *The Early Guitar: A History and Handbook*, 1980, caps. 1-2, y Wade, *A Concise History of the Classic Guitar*, 2001, cap. 1. Para la figura de Mauro Giuliani y el contexto del Clasicismo guitarrístico, véase Heck, *Mauro Giuliani: A Life for the Guitar*, 2013.
+
+[7] Romanillos ha dedicado dos obras fundamentales al estudio de la construcción guitarrística española: *El guitarrero español y su contribución en el desarrollo de la guitarra de concierto*, 1989, y *Catálogo de la Exposición Guitarras Antiguas Españolas*, 1990.
+
+[8] El contexto español de la guitarra en el siglo XX puede consultarse en Ramos Altamira, *Historia de la guitarra y los guitarristas españoles*, 2005, caps. 6-8, y Wade, *Traditions of the Classical Guitar*, 1980, cap. 5.
+
+[9] La escuela de París y la figura de René Lacôte son analizadas en Gimeno García, «Escuela de París. La guitarra en París durante el periodo Clásico-Romántico», *Revista 8 Sonoro*, Año 2, n.º 2.
