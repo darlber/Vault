@@ -1,4 +1,4 @@
-﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
+﻿﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
 ## Índice:
 1. [Historia general de la guitarra: orígenes y antecedentes](#Historia%20general%20de%20la%20guitarra%20orígenes%20y%20antecedentes)
 	1. [Introducción](#Introducción)  
@@ -13,9 +13,9 @@ Determinar el origen exacto de la guitarra es una tarea compleja debido a la div
 
 ## Antecedentes
 
-- Existen teorías que vinculan el origen de la guitarra con civilizaciones antiguas como la babilónica, asiria y egipcia (1500 a.C.), basadas en iconografía y estatuillas.
+- Existen teorías que vinculan el origen de la guitarra con civilizaciones antiguas como la babilónica, asiria y egipcia (1500 a.C.)[2], basadas en iconografía y estatuillas.
 - Algunos musicólogos e historiadores defienden un origen arábigo-asiático.
-- **Curt Sachs** destaca la influencia de varios instrumentos de distintos orígenes. Sostiene que la guitarra nace de la unión entre laúdes árabes, fídulas y vihuelas europeas.
+- **Curt Sachs**[3] destaca la influencia de varios instrumentos de distintos orígenes. Sostiene que la guitarra nace de la unión entre laúdes árabes, fídulas y vihuelas europeas.
 - **Radole** propone un origen greco-latino.
 - **J. Tyler** señala la confusión sobre el origen del instrumento, ya que no aparece claramente hasta el Renacimiento.
 - Muchos estudiosos creen que el término «guitarra» proviene del instrumento griego _khitara_. 
@@ -27,11 +27,11 @@ Determinar el origen exacto de la guitarra es una tarea compleja debido a la div
 
 El musicólogo **Juan José Rey** rechaza que la guitarra derive de la cítola y propone como verdadero antecedente la ==vihuela de péñola==. Durante la Edad Media, el término «guitarra» se aplicó a varios instrumentos, lo que generó confusión, especialmente con nombres como «guitarra morisca» y «guitarra latina», mencionados en obras como el _Libro del Buen Amor_ y las _Cantigas de Santa María_.
 
-El término «guitarra» aparece por primera vez en castellano en el _Libro de Alexandre_ (siglo XIII), mientras que en Francia se documenta como _guiterne_. En el siglo XV, J. Tinctoris menciona la guitarra como un invento catalán. En esta época, proliferan las referencias a la guitarra y su uso en la corte española, con músicos destacados como «Rodriguet de la guitarra», lo que indica un «florecimiento guitarrístico», según **Ramón Menéndez Pidal.**
+El término «guitarra» aparece por primera vez en castellano en el _Libro de Alexandre_ (siglo XIII), mientras que en Francia se documenta como _guiterne_. En el siglo XV, J. Tinctoris menciona la guitarra como un invento catalán. En esta época, proliferan las referencias a la guitarra y su uso en la corte española, con músicos destacados como «Rodriguet de la guitarra», lo que indica un «florecimiento guitarrístico», según **Ramón Menéndez Pidal.**[4]
 
 Según **José Rey**, en la Edad Media la guitarra era un instrumento pequeño, de fondo plano, con 3 o 4 cuerdas, escordaturas laterales y tocado con plectro, usado para acompañar canciones y danzas improvisadas. Ya en el siglo XVI, se observa una reducción en la variedad de instrumentos de cuerda pulsada, posiblemente por la evolución y consolidación de la guitarra como instrumento predominante.
 
-La reducción en la variedad de instrumentos de cuerda pulsada en el siglo XVI se debió al desuso de algunos y a la aceptación generalizada de otros. El laúd continuó su desarrollo en Europa, alcanzando gran perfección. En España, la vihuela y la guitarra de cuatro órdenes vivieron un periodo de esplendor considerado el «Siglo de Oro» de la música española, aunque fue breve. Durante este siglo, la guitarra se consolidó en forma y técnica. 
+La reducción en la variedad de instrumentos de cuerda pulsada en el siglo XVI se debió al desuso de algunos y a la aceptación generalizada de otros. El laúd continuó su desarrollo en Europa, alcanzando gran perfección. En España, la vihuela y la guitarra de cuatro órdenes vivieron un periodo de esplendor considerado el «Siglo de Oro» de la música[5] española, aunque fue breve. Durante este siglo, la guitarra se consolidó en forma y técnica. 
 Sus características eran: 
 - Cuerpo pequeño 
 - Cuatro o cinco órdenes 
@@ -40,36 +40,36 @@ Sus características eran:
 - Aspecto similar al de la vihuela
 
 # Evolución histórica desde sus orígenes hasta nuestros días
-- La guitarra tiene una evolución estrechamente ligada a la vihuela, instrumento predominante en la música culta del Renacimiento con un amplio repertorio.[2]
+- La guitarra tiene una evolución estrechamente ligada a la vihuela, instrumento predominante en la música culta del Renacimiento con un amplio repertorio.[6]
 - El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.
 - Este sistema fue adoptado por otros constructores como Pagés (1777), y se difundió desde Cádiz y Málaga hacia Madrid a principios del siglo XIX.
-- Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de «guitarra española», coexistiendo guitarras de cinco y seis órdenes hasta el siglo XVIII.
-- En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.
+- Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de «guitarra española», coexistiendo[7] guitarras de cinco y seis órdenes hasta el siglo XVIII.
+- En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.[8]
 
 #REVISAR_OPENCODE
 
 ### ==La guitarra barroca (siglos XVII–XVIII)==
 
-Durante el siglo XVII, la guitarra experimentó una transformación profunda que la consolidó como uno de los instrumentos más populares de Europa. ==La guitarra barroca de cinco órdenes== (conocida como *guitarra española*) se difundió por Italia, Francia, Inglaterra y Alemania, impulsada por la facilidad del rasgueado para acompañar danzas y canciones.[3]
+Durante el siglo XVII, la guitarra experimentó una transformación profunda que la consolidó como uno de los instrumentos más populares de Europa. ==La guitarra barroca de cinco órdenes== (conocida como *guitarra española*) se difundió por Italia, Francia, Inglaterra y Alemania, impulsada por la facilidad del rasgueado para acompañar danzas y canciones.[9]
 
 Dos tradiciones interpretativas convivieron durante este período:
 - El ==*rasgueado*== (en italiano *battute*), de carácter rítmico y popular, utilizado para el acompañamiento de danzas como la chacona, la zarabanda o el pasacalle.
 - El ==*punteado*== (*punteado* o *campanelas*), de textura polifónica, que requería un dominio técnico más avanzado y que enlazaba con la tradición de la vihuela renacentista.
 
-Los primeros métodos de guitarra barroca aparecieron en España con **Joan Carles Amat** (==*Guitarra española de cinco órdenes*, 1596==, aunque la edición más antigua conservada es de 1626) y en Italia con **Girolamo Montesardo** (==*Nuova inventione d'intavolatura*, 1606==).[4] En Francia, **Robert de Visée** (c. 1655–1733), guitarrista de la corte de Luis XIV, elevó el instrumento a la categoría de música de cámara con suites de danzas de gran refinamiento estilístico.
+Los primeros métodos de guitarra barroca aparecieron en España con **Joan Carles Amat** (==*Guitarra española de cinco órdenes*, 1596==, aunque la edición más antigua conservada es de 1626) y en Italia con **Girolamo Montesardo** (==*Nuova inventione d'intavolatura*, 1606==).[10] En Francia, **Robert de Visée** (c. 1655–1733), guitarrista de la corte de Luis XIV, elevó el instrumento a la categoría de música de cámara con suites de danzas de gran refinamiento estilístico.
 
 Otros autores fundamentales del período barroco fueron: ==**Francesco Corbetta**== (c. 1615–1681), guitarrista de las cortes de Francia e Inglaterra, cuya obra *La Guitarre Royalle* (1671) marcó un hito en el repertorio del instrumento; ==**Gaspar Sanz**== (1640–1710), autor del ==*Instrucción de música sobre la guitarra española*== (1674), tratado pedagógico de referencia en España; y ==**Giovanni Battista Granata**==, **Angelo Michele Bartolotti**, **Ludovico Roncalli** y **Santiago de Murcia**, entre otros, que contribuyeron a la expansión y diversificación del repertorio guitarrístico barroco.
 
 ### El siglo XIX: hacia la guitarra de concierto
 
-Antonio de Torres fue fundamental en la transformación del instrumento: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.[5][6]
-	- Según José Luis Romanillos, Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
+Antonio de Torres fue fundamental en la transformación del instrumento: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.[11][12]
+	- Según José Luis Romanillos,[13] Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
 
 ### ==La consolidación en el siglo XX: Andrés Segovia y la guitarra de concierto==
 
-La figura central de este período es ==**Andrés Segovia**== (1893–1987), cuyo magisterio elevó la guitarra desde el ámbito del salón y el folclore hasta las salas de concierto internacionales. Segovia no solo fue un intérprete excepcional, sino que impulsó activamente la creación de un nuevo repertorio —encargando obras a compositores como Federico Moreno Torroba, Joaquín Turina, Manuel de Falla, Heitor Villa-Lobos, Mario Castelnuovo-Tedesco y Joaquín Rodrigo— y legitimó el instrumento en los círculos académicos.[7][8]
+La figura central de este período es ==**Andrés Segovia**== (1893–1987), cuyo magisterio elevó la guitarra desde el ámbito del salón y el folclore hasta las salas de concierto internacionales. Segovia no solo fue un intérprete excepcional, sino que impulsó activamente la creación de un nuevo repertorio —encargando obras a compositores como Federico Moreno Torroba, Joaquín Turina, Manuel de Falla, Heitor Villa-Lobos, Mario Castelnuovo-Tedesco y Joaquín Rodrigo— y legitimó el instrumento en los círculos académicos.[14][15]
 
-El modelo de Torres, difundido por los luthiers del siglo XX, se convirtió en el estándar para la guitarra de concierto. Constructores como **Hermann Hauser I** (Alemania), **Ignacio Fleta** (Cataluña) y **José Ramírez III** (Madrid) adoptaron y perfeccionaron el sistema de varetaje en abanico, cada uno con variaciones personales que influyeron en el sonido de los grandes intérpretes del siglo.
+El modelo de Torres, difundido por los luthiers del siglo XX, se convirtió en el estándar para la guitarra de concierto.[16] Constructores como **Hermann Hauser I** (Alemania), **Ignacio Fleta** (Cataluña) y **José Ramírez III** (Madrid) adoptaron y perfeccionaron el sistema de varetaje en abanico, cada uno con variaciones personales que influyeron en el sonido de los grandes intérpretes del siglo.
 
 - **Hermann Hauser I** (1882–1952) fue el principal difusor del modelo Torres en Centroeuropa. Sus guitarras, de construcción ligera y gran respuesta dinámica, fueron las preferidas por Andrés Segovia durante décadas.
 - **José Ramírez III** (1922–1995) introdujo innovaciones como el uso de cedro en lugar de abeto para la tapa armónica, logrando un sonido más redondo y potente que caracterizó a la llamada «escuela madrileña». Su modelo «1a» fue utilizado por Segovia, Romero y Bream.
@@ -138,7 +138,7 @@ A finales del siglo XX, la guitarra ha ampliado su presencia en géneros como el
 
 ### Escuela francesa:
 En el Barroco francés destacó **Voboam**, conocido por sus guitarras con gran ornamentación en el mástil.
-En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitarras para Sor y Carulli, quien introdujo varias innovaciones técnicas:[9]
+En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitarras para Sor y Carulli, quien introdujo varias innovaciones técnicas:[17]
 
 - Clavijas bloqueables tras la afinación.
 - Sistema de engranajes en la cabeza de la guitarra.
@@ -229,20 +229,36 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 
 #REVISAR_OPENCODE
 
-[1] Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1-2; Viglietti, *Origen e historia de la guitarra*, caps. 1-3; Matlik, *Handbook of Guitar and Lute Composers*, 1-15; Evans, *Guitars: From the Renaissance to Rock*, caps. 1-2; Grunfeld, *The Art and Times of the Guitar*, caps. 1-2.
+[1] Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1-2.
 
-[2] Tyler, *The Early Guitar: A History and Handbook*, caps. 1-2; Wade, *A Concise History of the Classic Guitar*, cap. 1; Heck, *Mauro Giuliani: A Life for the Guitar*.
+[2] Viglietti, *Origen e historia de la guitarra*, caps. 1-3.
 
-[3] Tyler y Sparks, *The Guitar and Its Music*, caps. 3-5.
+[3] Evans, *Guitars: From the Renaissance to Rock*, caps. 1-2.
 
-[4] Pinnell, *Francesco Corbetta and the Baroque Guitar*, cap. 1.
+[4] Grunfeld, *The Art and Times of the Guitar*, caps. 1-2.
 
-[5] Romanillos y Winspear, *Antonio de Torres: Guitar Maker*.
+[5] Matlik, *Handbook of Guitar and Lute Composers*, 1-15.
 
-[6] Romanillos, *El guitarrero español*, 1989; Romanillos, *Catálogo de la Exposición Guitarras Antiguas Españolas*, 1990.
+[6] Tyler, *The Early Guitar: A History and Handbook*, caps. 1-2.
 
-[7] Coelho, *The Cambridge Companion to the Guitar*, cap. 7.
+[7] Wade, *A Concise History of the Classic Guitar*, cap. 1.
 
-[8] Ramos Altamira, *Historia de la guitarra y los guitarristas españoles*, caps. 6-8; Wade, *Traditions of the Classical Guitar*, cap. 5.
+[8] Heck, *Mauro Giuliani: A Life for the Guitar*.
 
-[9] Gimeno García, «Escuela de París. La guitarra en París durante el periodo Clásico-Romántico», *Revista 8 Sonoro*, Año 2, n.º 2.
+[9] Tyler y Sparks, *The Guitar and Its Music*, caps. 3-5.
+
+[10] Pinnell, *Francesco Corbetta and the Baroque Guitar*, cap. 1.
+
+[11] Romanillos y Winspear, *Antonio de Torres: Guitar Maker*.
+
+[12] Romanillos, *El guitarrero español*, 1989.
+
+[13] Romanillos, *Catálogo de la Exposición Guitarras Antiguas Españolas*, 1990.
+
+[14] Coelho, *The Cambridge Companion to the Guitar*, cap. 7.
+
+[15] Ramos Altamira, *Historia de la guitarra y los guitarristas españoles*, caps. 6-8.
+
+[16] Wade, *Traditions of the Classical Guitar*, cap. 5.
+
+[17] Gimeno García, «Escuela de París. La guitarra en París durante el periodo Clásico-Romántico», *Revista 8 Sonoro*, Año 2, n.º 2.
