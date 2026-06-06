@@ -352,7 +352,6 @@ La obra está ordenada en tres tomos y recoge:  ==
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
 - Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Ciudad: Editorial.# NOTAS
 
-# NOTAS #REVISAR_OPENCODE
 [^1]: Pajares Alonso, R. L. *Historia de la música en 6 bloques*. Madrid: Editorial, 2014.  
 [^2]: Iborra, Alcaraz. *La guitarra: Historia, organología y repertorio*. Valencia: Editorial, 2010.  
 [^3]: Radole, Giuseppe. *Laúd, guitarra y vihuela*. Milán: Editorial, 1982.  
