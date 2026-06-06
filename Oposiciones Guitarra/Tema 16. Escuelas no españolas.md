@@ -1,6 +1,4 @@
-# Tema 16. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico II
-
-Escuelas no españolas.
+# Escuelas no españolas
 
 ## Índice
 
@@ -14,7 +12,7 @@ Escuelas no españolas.
    6. [Escuela de Hungría](#escuela-de-hungría)
 3. [Bibliografía](#bibliografía)
 
-## Introducción
+# Introducción
 
 En esta época hay que destacar a la escuela italiana o los guitarristas italianos, ya que realizaron gran cantidad de aportaciones. En ese momento había un escaso interés por la música instrumental y además escaseaban también los editores interesados en la guitarra. Sin embargo, hubo grandes guitarristas, compositores y virtuosos provenientes de Italia que elevaron el instrumento a cotas importantes. Algunos de ellos fueron: Molino, Carulli, Giuliani, Legnani y Carcassi. Todos los anteriormente nombrados fueron acogidos fuera de Italia, por los motivos expuestos anteriormente.
 
@@ -51,6 +49,8 @@ Durante su juventud en Nápoles fue formado y esta formación fue su base para p
 Francesco Molino nació en Ivrea, Florencia en 1768 y murió en 1847 en París. No dominaba únicamente un instrumento, ya que comenzó con el oboe durante su formación militar (a la vez que aprendía a tocar la viola gracias a miembros de su familia). Durante los años 1786-1789 fue violista en la orquesta del Teatro Real de Turín y en 1814 comenzó como violinista de la Capilla Real de Torino, hasta 1818. Bebe de la tradición violinística piamontesa y es autor de dos conciertos para violín y dos virtuosas sonatas para violín solo Op. 68. Era amigo de los más famosos violinistas de la época: Kreutzer y Sivori.
 
 Aunque no sabemos ni cómo ni dónde aprendió a tocar la guitarra, en cierto momento era conocido en París por ser un virtuoso del instrumento. Francesco intentaba transferir a la guitarra el lenguaje original del violín, más personal. Sus producciones se inician con los modelos típicos del setecientos: tres sonatas Op. 6, pero más tarde crearía composiciones más evolucionadas como el *Concierto para guitarra y orquesta Op. 56*, y otras de dimensiones de sonata, con gran compromiso técnico y musical, como la *Sonata para guitarra Op. 51*.
+
+==Molino destaca por aplicar a la guitarra un lenguaje violinístico de gran virtuosismo, con pasajes de escalas rápidas, arpegios amplios y un uso expresivo del legato. Su escritura, heredera del violín, se distingue de la de sus contemporáneos italianos por un mayor énfasis en la línea melódica y en los contrastes dinámicos. Se le considera un puente entre la tradición violinística italiana y el lenguaje guitarrístico romántico[^3].==
 
 #### Matteo Carcassi
 
@@ -111,9 +111,13 @@ Otros guitarristas franceses dignos de mención fueron: Guillermo Gatayes (1774-
 
 ### Escuela de Polonia
 
+El repertorio polaco para guitarra en el siglo XIX se caracteriza por la influencia directa de Giuliani y la incorporación de elementos folclóricos nacionales, especialmente la polonesa y las canciones populares ucranianas y polacas.
+
 #### Jan Nepomucen Bobrowicz
 
 Nació en Kraków y falleció a la edad de 76 años (1881). Era alumno de Giuliani y consiguió alcanzar una importante reputación, debido a que era un virtuoso de la guitarra. Además de intérprete era editor y compositor, tarea que realizó en Leipzig (Alemania), donde primero trabajó para la empresa Breitkopf & Härtel como editor y publicador de música, para más tarde abandonarla y crear su propio negocio de publicación.
+
+==El estilo de Bobrowicz se inscribe dentro del virtuosismo posgiulianista, caracterizado por un dominio de la técnica de arpegios, escalas y acordes, pero con un marcado acento nacional polaco. Su obra se centra casi exclusivamente en la forma de variaciones, género que domina con soltura técnica. La influencia de la música folclórica polaca y ucraniana se manifiesta en la elección de temas y en el uso de ritmos de polonesa y mazurca. Su escritura, heredera de Giuliani, mantiene la claridad textural a dos voces con acompañamiento arpegiado[^9].==
 
 En cuanto a sus composiciones, podemos destacar las siguientes:
 - *Grandes variations sur un duo de l'opéra «Don Juan» Op. 6*
@@ -128,6 +132,8 @@ En cuanto a sus composiciones, podemos destacar las siguientes:
 #### Félix Horetzky
 
 Nacido en Horyszów Ruski en 1800 y falleció a los 71 años en Edimburgo; era guitarrista, compositor y profesor. Sabemos que antes de 1831 viajó a Viena para estudiar con Mauro Giuliani. Junto con Stanislaus Scezpanowski (1814-1852) y Bobrowicz fue uno de los grandes virtuosos que salieron de Polonia en el siglo XIX. De estos, Stanislaus Scezpanowski fue alumno suyo y posteriormente estudió con Sor en París, lo que le preparó para empezar con su carrera como concertista, recorriendo las capitales de Europa, como Madrid, San Petersburgo y Londres, entre otras. De él se dice que fue muy importante su labor como profesor en Edimburgo, lugar al cual llegó tras una gira en Gran Bretaña en 1820. Allí se estableció y se convirtió en el más importante de todos los profesores de guitarra de Escocia.
+
+==Horetzky, fiel a la tradición giulianista, cultiva un estilo brillante y virtuosístico, con especial énfasis en la variación como forma predilecta. Su escritura es clara y funcional, orientada a la enseñanza. Su labor como profesor en Edimburgo determinó que gran parte de su producción esté pensada para el estudiante avanzado, combinando el virtuosismo de salón con la accesibilidad pedagógica.==
 
 ### Escuelas de Austria y Alemania
 
@@ -175,11 +181,17 @@ Pero hubo más compositores que escribieron piezas para guitarra, entre los cual
 
 ### Escuela de Rusia
 
+La escuela rusa de guitarra se distingue del resto de Europa por su instrumento característico: la guitarra de siete cuerdas con afinación abierta en Re mayor. Este desarrollo singular originó un repertorio independiente, con técnicas y recursos propios que no tienen paralelo en la tradición de seis cuerdas.
+
 Al hablar de Rusia, de forma obligada tenemos que hacerlo de Andrei Sychra, un guitarrista (el más famoso de Rusia en el pasado), compositor y maestro de guitarra que nació en 1773 en Vilnius y que es considerado allí un patriarca de las siete cuerdas. Era hijo de un músico y además sabemos que antes de ser un gran guitarrista fue un virtuoso del Torban, y que antes del Torban tocaba el arpa.
 
 Sychra y sus alumnos (varias generaciones) de la academia que tenía en San Petersburgo difundieron el uso de la guitarra de siete cuerdas, lo que trajo consigo que en Rusia preferentemente se desarrollara este tipo de guitarra. Sus alumnos más brillantes fueron Mijail Wisotsky y Simon Aksenon.
 
 Se trasladó a Moscú aproximadamente a principios de 1801, donde rápidamente consiguió que se le reconociera como un intérprete y muchos seguidores. En 1812 se trasladó a San Petersburgo, donde viviría hasta el final de su vida (1851). En cuanto a su obra, escribió tanto obras originales como transcripciones de varios compositores, en su mayoría rusos.
+
+==El estilo de Sychra se caracteriza por el aprovechamiento de la afinación abierta en Re (d, a, d', g', b, d'', g''), que permite texturas acordales muy densas y el uso de bordones al aire como pedal armónico. Su escritura combina el acompañamiento acordal con melodías situadas preferentemente en las cuerdas agudas, aprovechando la sonoridad brillante de la afinación abierta[^6].==
+
+==Las transcripciones de música folclórica rusa constituyen una parte fundamental de su legado. Sychra adapta canciones populares rusas, ucranianas y gitanas a las posibilidades de la guitarra de siete cuerdas, creando un repertorio que refleja el nacionalismo musical ruso anterior a Glinka. Sus alumnos, especialmente Wisotsky y Aksenon, continuaron y ampliaron esta tradición, desarrollando un estilo virtuosístico que combinaba el folclore con el lenguaje instrumental giulianista adaptado a las siete cuerdas[^6].==
 
 ### Escuela de Hungría
 
@@ -194,6 +206,12 @@ Realizó giras en Moravia, Polonia y Rusia, además de recitales en Berlín, Lei
 Justo antes de su muerte, presenta su *Op. 65* a un concurso que organizaba Nikolai Makaroff en Bruselas y gana el primer premio, quedando Napoleón Coste en segundo lugar.
 
 Escribió mucha música para guitarra sola y música de cámara, además de un método, llamado *Metodo teorico e pratico*, en el cual manifiesta conocer las enseñanzas de Carulli y de Sor. Nikolai Makaroff lo consideraba un grandísimo guitarrista, e incluso su protegido. Podemos observar cómo su música es densa, con muchas notas en los acordes. Desarrolló otro modelo de escritura que venía del piano-forte.
+
+==Mertz representa la culminación del Romanticismo guitarrístico centroeuropeo. Su obra *Bardenklänge* (Ecos de bardo), compuesta entre 1847 y 1856, es un ciclo de piezas de carácter que constituye la obra más significativa del repertorio para guitarra sola entre Giuliani y la renovación de Tárrega. En estas piezas, Mertz explora un cromatismo armónico avanzado, texturas pianísticas densas y una libertad formal que anticipa el lenguaje de la guitarra moderna[^7].==
+
+==Su *Concierto para guitarra y orquesta* demuestra una concepción sinfónica del instrumento, con una orquestación que busca integrar la guitarra en la masa orquestal romántica, superando el modelo clásico de los conciertos de Giuliani. Mertz utiliza la guitarra de diez cuerdas en algunas obras, lo que le permite explorar registros graves y texturas acordales imposibles en el instrumento de seis cuerdas.==
+
+==En el concurso organizado por Makaroff en Bruselas (1856), su *Op. 65* obtuvo el primer premio frente a Coste, lo que demuestra el alto nivel técnico y musical de su escritura. Su estilo tardorromántico, caracterizado por la densidad textural, el cromatismo y la influencia del piano, marca el límite del desarrollo del repertorio guitarrístico anterior a la escuela moderna.==
 
 ## Síntesis estilística de las escuelas no españolas #REVISAR_OPENCODE
 
@@ -229,7 +247,7 @@ Escribió mucha música para guitarra sola y música de cámara, además de un m
 
 ==Mertz desarrolla un modelo de escritura pianística para la guitarra: acordes densos de hasta seis notas, texturas llenas, cambios de registro abruptos y una explotación del registro grave que requiere una guitarra de mayor tesitura. Su *Op. 65* y sus *Bardenklänge* ejemplifican este estilo tardorromántico que lleva la escritura guitarrística a sus límites técnicos y notacionales. La influencia del piano-forte es evidente en su tratamiento armónico y en la amplitud de su registro.==
 
-## Bibliografía
+# Bibliografía
 
 - Denis, Francoise-Emmanuelle: *Comentario de Mertz; Manjón, Regondi, Coste, Broca* (1986)
 - Jeffery, Brian: *Guitar Review*, n.º 39 (1974)
@@ -260,3 +278,5 @@ Escribió mucha música para guitarra sola y música de cámara, además de un m
 [^7]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. 2005.
 
 [^8]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+
+[^9]: Koczorowski, S. P. *Bobrowicz, Jan Nepomucen*.

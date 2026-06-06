@@ -1,4 +1,4 @@
-# Tema 19. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico desde la segunda mitad del siglo XX hasta nuestros días. Nuevos recursos compositivos, formales, interpretativos y de notación.
+# Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico desde la segunda mitad del siglo XX hasta nuestros días. Nuevos recursos compositivos, formales, interpretativos y de notación.
 
 ## Índice
 

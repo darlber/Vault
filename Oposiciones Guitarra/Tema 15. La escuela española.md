@@ -1,4 +1,4 @@
-# Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I: la escuela española
+# Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I: La escuela española
 ## Índice
 
 1. [Introducción. Ubicación histórica](#Introducción.%20Ubicación%20histórica)
@@ -36,13 +36,13 @@ En España, la evolución fue de cinco órdenes dobles a seis dobles, para culmi
 La guitarra en este periodo queda consolidada con seis cuerdas simples, fruto de la evolución organológica iniciada en la segunda mitad del siglo XVIII, época en la que convivieron la guitarra de seis órdenes dobles y la de cinco órdenes casi hasta final de siglo e incluso, como señala Charles Doisy, hasta comienzos del XIX[^6].
 A principios del siglo XIX comienza una evolución técnica y organológica ligada al desarrollo del lenguaje musical y la notación. Como señala Aguado en su *Escuela de guitarra* (1825)[^7]:
 
-> “De poco tiempo a esta parte, el género de música y el modo de escribirla han variado, y poco a poco se ha llegado a plasmar en el papel lo mismo que se ejecuta (esto es, los sonidos expresados con su justo valor). Don Federico Moretti fue el primero que empezó a escribir la música de guitarra de manera que se distinguiesen dos partes, una de canto y otra de acompañamiento. Vino después don Fernando Sor, y en sus composiciones nos descubrió el secreto de hacer que la guitarra fuese al mismo tiempo instrumento armónico y melodioso”.
+> «De poco tiempo a esta parte, el género de música y el modo de escribirla han variado, y poco a poco se ha llegado a plasmar en el papel lo mismo que se ejecuta (esto es, los sonidos expresados con su justo valor). Don Federico Moretti fue el primero que empezó a escribir la música de guitarra de manera que se distinguiesen dos partes, una de canto y otra de acompañamiento. Vino después don Fernando Sor, y en sus composiciones nos descubrió el secreto de hacer que la guitarra fuese al mismo tiempo instrumento armónico y melodioso».
 
 En este periodo surge un amplio repertorio de música de cámara: dúos de guitarras, guitarra y violín, guitarra y clavicémbalo, entre otros. Esto permite al guitarrista asumir un papel más activo, apreciando la guitarra por su naturaleza armónica y su dulce sonoridad, convirtiéndola en un acompañante ideal del canto.
 
 El nuevo concepto estilístico, el progreso técnico y la evolución organológica impulsan un auge de la didáctica y la creación de métodos para guitarra.
 
-La guitarra mantiene una doble vertiente: popular y de concierto. El instrumento sufre cambios estructurales que favorecen, hacia mediados del siglo XIX, la aparición de la “guitarra clásica o de concierto”, mientras que otras variantes populares dan lugar a la guitarra flamenca.
+La guitarra mantiene una doble vertiente: popular y de concierto. El instrumento sufre cambios estructurales que favorecen, hacia mediados del siglo XIX, la aparición de la «guitarra clásica o de concierto», mientras que otras variantes populares dan lugar a la guitarra flamenca.
 
 En este periodo se consolidan innovaciones organológicas, muchas de ellas atribuidas a Aguado, algunas aún vigentes en la guitarra moderna[^8]. Entre estos cambios destacan:
 
@@ -172,7 +172,7 @@ También escribió obras didácticas que contribuyeron a la evolución técnica 
 - Colecciones de estudios op. 6, 29, 31, 35...  
 - 24 pequeñas piezas progresivas op. 44  
 
-Nació el 13 de febrero de 1778 en Barcelona. Su verdadero apellido es “Sor”, aunque un error en su partida de nacimiento lo registra como “Sors”. Durante su infancia estudió música, canto, guitarra y violín con Joseph Prats. Tras la muerte de su padre en 1790, ingresó en la escolanía de música del Monasterio de Montserrat, donde recibió formación con Amselm Viola y el organista Narcís Casanovas[^22].  
+Nació el 13 de febrero de 1778 en Barcelona. Su verdadero apellido es «Sor», aunque un error en su partida de nacimiento lo registra como «Sors». Durante su infancia estudió música, canto, guitarra y violín con Joseph Prats. Tras la muerte de su padre en 1790, ingresó en la escolanía de música del Monasterio de Montserrat, donde recibió formación con Amselm Viola y el organista Narcís Casanovas[^22].  
 
 En 1795 abandonó el monasterio y se presentó voluntario para el ejército español, siendo teniente de la Tercera Compañía del Tercio de Tropas Auxiliares del Corregimiento de Villafranca, cuya misión era frenar el avance francés en Cataluña. Tras la disolución del Tercio en septiembre de 1795, volvió a la vida civil. Durante esta época conoció la obra de Moretti para guitarra, ampliando su visión sobre las posibilidades polifónicas del instrumento[^22].
 
@@ -249,7 +249,7 @@ Entre sus métodos y tratados destaca *Méthode pour la Guitare* (París, 1830),
 #### Dionisio Aguado
 Dionisio Aguado destacó principalmente por su labor pedagógica, aunque también compuso en menor medida que Sor. Su trabajo pedagógico fue fundamental para la formación de generaciones posteriores y sentó las bases de la técnica guitarrística. Según Julio Jimeno (*Revista Roseta*), es considerado por algunos como el pedagogo más importante de la historia de la guitarra[^25].
 
-Su primer maestro fue el Padre Basilio, y perfeccionó sus conocimientos con Moretti. Aguado vivió varios años en Madrid junto a su madre y en 1820 publicó la *Colección de estudios*. Tras la muerte de su madre en 1826 se trasladó a París, hospedándose en el Hotel Favart, donde residía también Fernando Sor, lo que dio lugar a una estrecha amistad entre ambos guitarristas. Herman Mendel señala que “se convirtió en el preferido de los salones y salas de concierto”, llamando la atención de figuras como Rossini y Paganini.  
+Su primer maestro fue el Padre Basilio, y perfeccionó sus conocimientos con Moretti. Aguado vivió varios años en Madrid junto a su madre y en 1820 publicó la *Colección de estudios*. Tras la muerte de su madre en 1826 se trasladó a París, hospedándose en el Hotel Favart, donde residía también Fernando Sor, lo que dio lugar a una estrecha amistad entre ambos guitarristas. Herman Mendel señala que «se convirtió en el preferido de los salones y salas de concierto», llamando la atención de figuras como Rossini y Paganini.  
 
 Aguado actuó en muchos conciertos parisinos junto a Sor, a pesar de sus diferencias técnicas: Sor tocaba con la yema (Escuela Europea) y Aguado con la uña (Escuela Española). Ambos se admiraban mutuamente, interpretando juntos piezas como *El dúo de los dos amigos*.  
 
