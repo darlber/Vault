@@ -11,12 +11,15 @@
             "id": "a35c21abf5b5d6a2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/TEMA 19-25.pdf"
+                "file": "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "TEMA 19-25"
+              "icon": "lucide-file",
+              "title": "Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII"
             }
           }
         ]
@@ -130,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/TEMA 19-25.pdf",
+                "file": "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of TEMA 19-25"
+              "title": "Outline of Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII"
             }
           },
           {
@@ -208,12 +211,13 @@
   },
   "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
+    "Oposiciones Guitarra/Tema 22.md",
     "Oposiciones Guitarra/TEMA 22.pdf",
+    "Oposiciones Guitarra/TEMA 19-25.pdf",
     "Oposiciones Guitarra/TEMA 20-21.pdf",
     "Oposiciones Guitarra/0. Temas Oposiciones.md",
-    "Oposiciones Guitarra/TEMA 19-25.pdf",
     "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
-    "Oposiciones Guitarra/Tema 22.md",
     "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
     "Oposiciones Guitarra/Tema 21.md",
     "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
@@ -230,7 +234,6 @@
     "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
-    "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Oposiciones TAI/Tema 09. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
     "Oposiciones TAI/Tema 08. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
     "Oposiciones TAI/Tema 07. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
