@@ -11,15 +11,14 @@
             "id": "cb72182473f8e88d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 14. Criterios de transcripción para guitarra de seis cuerdas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+                "bFile": "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Tema 14. Criterios de transcripción para guitarra de seis cuerdas"
+              "icon": "diff",
+              "title": "Diff: Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey  (Working Tree)"
             }
           }
         ]
@@ -133,13 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 14. Criterios de transcripción para guitarra de seis cuerdas.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 14. Criterios de transcripción para guitarra de seis cuerdas"
+              "title": "Outline"
             }
           },
           {
@@ -209,12 +207,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "cb72182473f8e88d",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 15. La escuela española.md",
+    "Oposiciones TAI/Tema 09. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
+    "Oposiciones TAI/Tema 01. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+    "Oposiciones TAI/Tema 13. Sistemas operativos..md",
+    "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+    "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
     "Oposiciones Guitarra/Tema 16. Escuelas no españolas.md",
-    "Oposiciones Guitarra/Tema 16.md",
+    "Oposiciones Guitarra/Tema 20.md",
+    "Oposiciones Guitarra/Tema 19. Contemporánea.md",
+    "Oposiciones Guitarra/Tema 18. Siglo XX.md",
+    "Oposiciones Guitarra/Tema 15. La escuela española.md",
     "Oposiciones Guitarra/Tema 14. Criterios de transcripción para guitarra de seis cuerdas.md",
+    "Oposiciones Guitarra/Tema 16.md",
     "Oposiciones Guitarra/Tema 13. Bach.md",
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
@@ -229,14 +235,6 @@
     "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
     "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
-    "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
-    "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
-    "Oposiciones Guitarra/0. Temas Oposiciones.md",
-    "Oposiciones Guitarra/Programación Didáctica.md",
-    "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
-    "Oposiciones Guitarra/Tema 18. Siglo XX.md",
-    "Oposiciones Guitarra/Tema 13. Bahc.md",
-    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "Oposiciones Guitarra/TEMA 22.pdf",
     "Oposiciones Guitarra/TEMA 27.pdf",
     "Oposiciones Guitarra/TEMA 25.pdf",
