@@ -148,21 +148,19 @@ La práctica instrumental con guitarra requiere de una serie de accesorios que f
 
 #REVISAR_OPENCODE
 
-#### ==6. Guitarra de estudio vs. guitarra de concierto==
+#### ==6. Guitarra de estudio vs. guitarra de concierto== #REVISAR_OPENCODE
 
 Las guitarras de estudio (o de alumno) suelen estar construidas con maderas menos nobles (tapa de abeto o cedro macizo, fondo y aros de palosanto laminado o maderas alternativas) y presentan un acabado más sencillo. Su precio oscila entre los 200 y los 800 euros. Las guitarras de concierto, por el contrario, emplean maderas macizas seleccionadas —tapa de abeto alemán o cedro de incienso, fondo y aros de palosanto de India o de Río—, un varetaje más elaborado y una construcción artesanal que puede requerir meses de trabajo. Su precio puede superar los 5.000 euros.
 
-#### ==7. Luthier vs. guitarra de fábrica==
+#### ==7. Luthier vs. guitarra de fábrica== #REVISAR_OPENCODE
 
 Las guitarras de luthier son construidas a medida por un artesano, lo que permite personalizar cada aspecto (tipo de madera, tiro, grosor de la tapa, barniz, adornos). Las guitarras de fábrica se producen en serie con procesos estandarizados, lo que las hace más asequibles aunque con menor individualidad sonora. En los niveles inicial e intermedio, una guitarra de fábrica de calidad (Alhambra, Admira, Ramirez, Esteve, Camps) es una opción solvente. En el nivel superior, una guitarra de luthier (Hauser, Romanillos, Contreras, Humphrey, Smallman, Dammann) ofrece una proyección y una riqueza tímbrica difícilmente alcanzables en producción industrial.
 
-#### ==8. Prueba del instrumento==
+#### ==8. Prueba del instrumento== #REVISAR_OPENCODE
 
 Antes de adquirir una guitarra, es recomendable probarla durante al menos treinta minutos, evaluando los siguientes aspectos: comodidad postural y sensación de equilibrio (sentado y de pie); nitidez y homogeneidad sonora en todas las cuerdas y en todos los trastes; facilidad de pulsación en ambas manos; respuesta dinámica (desde el *pianissimo* al *fortissimo*); y estabilidad de la afinación a lo largo del diapasón. Siempre que sea posible, conviene que un profesor o guitarrista experimentado acompañe la prueba.[^14]
 
-# Bibliografía 
-
-#REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Alcaraz Iborra, Mario. 2010. *La guitarra: Historia, organología y repertorio*. Madrid: Editorial Música.
 - Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.
@@ -178,9 +176,7 @@ Antes de adquirir una guitarra, es recomendable probarla durante al menos treint
 - Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Madrid: Museo Nacional.
 - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Artes.
 - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Romanillos y Winspear, *Antonio de Torres: Guitar Maker*, cap. 8.
 

@@ -1,4 +1,4 @@
-﻿﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
+﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
 ## Índice:
 1. [Historia general de la guitarra: orígenes y antecedentes](#Historia%20general%20de%20la%20guitarra%20orígenes%20y%20antecedentes)
 	1. [Introducción](#Introducción)  
@@ -46,9 +46,9 @@ Sus características eran:
 - Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de «guitarra española», coexistiendo[^7] guitarras de cinco y seis órdenes hasta el siglo XVIII.
 - En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.[^8]
 
-#REVISAR_OPENCODE
 
-### ==La guitarra barroca (siglos XVII–XVIII)==
+
+### ==La guitarra barroca (siglos XVII–XVIII)== #REVISAR_OPENCODE
 
 Durante el siglo XVII, la guitarra experimentó una transformación profunda que la consolidó como uno de los instrumentos más populares de Europa. ==La guitarra barroca de cinco órdenes== (conocida como *guitarra española*) se difundió por Italia, Francia, Inglaterra y Alemania, impulsada por la facilidad del rasgueado para acompañar danzas y canciones.[^9]
 
@@ -65,7 +65,7 @@ Otros autores fundamentales del período barroco fueron: ==**Francesco Corbetta*
 Antonio de Torres fue fundamental en la transformación del instrumento: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.[^11][^12]
 	- Según José Luis Romanillos,[^13] Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
 
-### ==La consolidación en el siglo XX: Andrés Segovia y la guitarra de concierto==
+### ==La consolidación en el siglo XX: Andrés Segovia y la guitarra de concierto== #REVISAR_OPENCODE
 
 La figura central de este período es ==**Andrés Segovia**== (1893–1987), cuyo magisterio elevó la guitarra desde el ámbito del salón y el folclore hasta las salas de concierto internacionales. Segovia no solo fue un intérprete excepcional, sino que impulsó activamente la creación de un nuevo repertorio —encargando obras a compositores como Federico Moreno Torroba, Joaquín Turina, Manuel de Falla, Heitor Villa-Lobos, Mario Castelnuovo-Tedesco y Joaquín Rodrigo— y legitimó el instrumento en los círculos académicos.[^14][^15]
 
@@ -171,9 +171,7 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 - Ángel Benito: guitarras estilo francés.
 - Paulino Bernabé, Paco Santiago Marín, entre otros.
 
-#REVISAR_OPENCODE
-
-### ==Breve semblanza de los constructores más destacados==
+### ==Breve semblanza de los constructores más destacados== #REVISAR_OPENCODE
 
 Entre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya.
 
@@ -200,9 +198,7 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 - **Materiales compuestos**: fibras de carbono y kevlar, utilizados por **Gary Southwell** y **Ryoji Matsuoka** para guitarras de exterior y conciertos en condiciones extremas.
 - **Guitarra flamenca**: variante constructiva con tapa de ciprés o palosanto, varetaje más ligero y acción de cuerdas más baja, desarrollada por constructores como **Santos Hernández** y **Manuel Reyes**.
 
-# Bibliografía
-
-#REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.
 - Evans, Tom, y Mary Anne Evans. 1977. *Guitars: From the Renaissance to Rock*. New York: Facts on File.
@@ -221,9 +217,7 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Albatros.
 - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder Publications.
 - Wade, Graham. 2001. *A Concise History of the Classic Guitar*. Pacific: Mel Bay Publications.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1-2.
 
