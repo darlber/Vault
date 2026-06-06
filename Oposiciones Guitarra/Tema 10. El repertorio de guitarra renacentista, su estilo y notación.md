@@ -131,13 +131,13 @@
 
 ### Estilo #REVISAR_OPENCODE
 
-==El estilo de la guitarra renacentista se distingue del de la vihuela por su **textura predominantemente homofónica** y su carácter más **ligero y accesible**, orientado a un público amateur. Frente a la densidad contrapuntística de las fantasías de Milán o Narváez, la guitarra de cuatro órdenes cultivó un repertorio de **danzas** (pavanas, gallardas, romanescas) y **canciones con acompañamiento**, donde la melodía se sitúa en la voz superior y las cuerdas graves proporcionan el soporte armónico. Esta textura, más vertical que horizontal, anticipa ya el lenguaje armónico de la guitarra barroca.==
+==El estilo de la guitarra renacentista se distingue del de la vihuela por su **textura predominantemente homofónica[^16]** y su carácter más **ligero y accesible**, orientado a un público amateur. Frente a la densidad contrapuntística de las fantasías de Milán o Narváez, la guitarra de cuatro órdenes cultivó un repertorio de **danzas** (pavanas, gallardas, romanescas) y **canciones con acompañamiento**, donde la melodía se sitúa en la voz superior y las cuerdas graves proporcionan el soporte armónico. Esta textura, más vertical que horizontal, anticipa ya el lenguaje armónico de la guitarra barroca.==
 
 ==Las **formas musicales** más cultivadas fueron la **fantasía** —de carácter más libre que la vihuelística, con menor rigor imitativo—, las **danzas** (pavana, gallarda, romanesca, villancico) y las **intabulaciones** de música vocal polifónica. La fantasía española (Mudarra, Fuenllana) conserva cierto aliento contrapuntístico, mientras que la francesa (Le Roy, Morlaye) es más breve y homofónica, pensada para el disfrute del aficionado. Las diferencias —técnica de variación sobre un tema—, aunque propias de la vihuela, también se cultivaron en la guitarra, como muestra la romanesca *Guárdame las vacas* de Mudarra.==
 
-==La **ornamentación** en la guitarra renacentista sigue las mismas prácticas que la vihuela, aunque de forma más moderada. Las fuentes mencionan **glosas**, **redobles** y **trinos**, especialmente en cadencias y pasajes de reposo. Al igual que en la vihuela, las indicaciones escritas son escasas y la ornamentación se dejaba en gran medida al criterio del intérprete. Juan Bermudo[^8], en su *Declaración de instrumentos musicales* (1555), documenta las prácticas ornamentales del momento, mientras que los tratados de Diego Ortiz (1553) y Tomás de Santa María (1565) ofrecen modelos de cómo glosar pasajes, aplicables también a la guitarra.==
+==La **ornamentación** en la guitarra renacentista sigue las mismas prácticas que la vihuela, aunque de forma más moderada. Las fuentes mencionan **glosas**, **redobles** y **trinos**, especialmente en cadencias y pasajes de reposo. Al igual que en la vihuela, las indicaciones escritas son escasas y la ornamentación se dejaba en gran medida al criterio del intérprete. Juan Bermudo[^8], en su *Declaración de instrumentos musicales* (1555), documenta las prácticas ornamentales del momento, mientras que los tratados de Diego Ortiz (1553)[^18] y Tomás de Santa María (1565)[^29] ofrecen modelos de cómo glosar pasajes, aplicables también a la guitarra.[^19]==
 
-==**Diferencias entre escuelas nacionales:** La escuela **francesa** (Le Roy, Morlaye, Gorlier, Brayssing) es la más prolífica y su estilo es el más ligero, con predominio de danzas y canciones sobre fantasías contrapuntísticas. Su público era mayoritariamente amateur. La escuela **española** (Mudarra, Fuenllana) es más seria y contrapuntística, heredera directa de la tradición vihuelística, con un menor número de obras pero de mayor densidad polifónica. La escuela **italiana** (Barberis) ocupa una posición intermedia, con fantasías que combinan elementos imitativos con secciones danzables. Esta diversidad nacional refleja contextos sociales diferentes: la guitarra francesa se difunde en círculos burgueses urbanos, mientras que la española permanece ligada a la corte y al humanismo aristocrático.==
+==**Diferencias entre escuelas nacionales:[^20]** La escuela **francesa** (Le Roy, Morlaye, Gorlier, Brayssing) es la más prolífica y su estilo es el más ligero, con predominio de danzas y canciones sobre fantasías contrapuntísticas. Su público era mayoritariamente amateur. La escuela **española** (Mudarra, Fuenllana) es más seria y contrapuntística, heredera directa de la tradición vihuelística, con un menor número de obras pero de mayor densidad polifónica. La escuela **italiana** (Barberis) ocupa una posición intermedia, con fantasías que combinan elementos imitativos con secciones danzables. Esta diversidad nacional refleja contextos sociales diferentes: la guitarra francesa se difunde en círculos burgueses urbanos, mientras que la española permanece ligada a la corte y al humanismo aristocrático.==
 
 ==La **evolución estilística** hacia finales del siglo XVI viene marcada por la transición de la guitarra de **cuatro a cinco órdenes** y la aparición del **estilo rasgueado** (J. C. Amat, 1596). Este cambio no solo amplía las posibilidades armónicas del instrumento, sino que transforma su estética: los acordes se conciben ahora como entidades verticales y la técnica de rasgueado introduce un nuevo ideal sonoro, más percusivo y rítmico, que preludia la guitarra barroca. La combinación de **punteado y rasgueado** —sistematizada por Foscarini en el siglo XVII— se convertirá en el rasgo definitorio del estilo guitarristico del Barroco.==
 
@@ -234,19 +234,7 @@
 - Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
 - Vargas y Guzmán, Juan Antonio. 1773. *Explicación de la guitarra*. Cádiz: Editorial.
-# NOTAS #REVISAR_OPENCODE
 
-[^1]: Reese, *Music in the Renaissance*.
-
-[^2]: Apel, *The Notation of Polyphonic Music*.
-
-[^3]: Brown, *Embellishing 16th Century Music*.
-
-[^4]: Ortiz, *Trattado de glosas*.
-
-[^5]: Lowinsky, *Tonality and Atonality in 16th Century Music*.
-
-[^6]: Apel, *The Notation of Polyphonic Music*.
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: Mudarra, *Tres libros de música en cifra para vihuela*.
