@@ -310,20 +310,20 @@ Todo ello debe tenerse en cuenta al abordar la edici�n y transcripci�n de la
 
 # Bibliograf�a #REVISAR_OPENCODE
 
+- Aguado, Dionisio. 1825. *Escuela de guitarra*. Madrid.
 - Alcaraz Iborra, Mario, and Roberto D�az Soto. 2010. *La guitarra: Historia, organolog�a y repertorio*. Alicante: Editorial Club Universitario.
 - Annala, Hannu, and Heiki Matlik. 2010. *Handbook of Guitar and Lute Composers*. Pacific: Mel Bay Publications.
-- Lichtenthal, Pietro. 1836. *Dizionario e bibliografia della musica*. Milano: Antonio Fontana.
-- Radole, Giuseppe. 1982. *La�d, guitarra y vihuela*. Barcelona: Don Bosco.
-- Su�rez Pajares, Javier. 2000. «El auge de la guitarra moderna en Espa�a». En *La m�sica en Espa�a en el siglo XVIII*, editado por Malcolm Boyd y Juan Jos� Carreras, 261-278. Madrid: Cambridge University Press.
-- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: B. T. Batsford.
-- Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
 - Corrette, Michel. 1763. *Les Dons d'Apollon: M�thode pour apprendre facilement � jouer de la guitarre*. Paris.
+- Ferandiere, Fernando. 1799. *Arte de tocar la guitarra de seis �rdenes*. Madrid.
+- Lichtenthal, Pietro. 1836. *Dizionario e bibliografia della musica*. Milano: Antonio Fontana.
 - Minguet e Irol, Pablo. 1754. *Reglas y advertencias generales para ense�ar a los principiantes a ta�er la guitarra*. Madrid.
 - Moretti, Federico. 1799. *Principios para tocar la guitarra de seis �rdenes*. Madrid.
-- Ferandiere, Fernando. 1799. *Arte de tocar la guitarra de seis �rdenes*. Madrid.
-- Vargas y Guzm�n, Juan Antonio de. c. 1773-1776. *Manuscritos te�rico-pr�cticos para guitarra de seis y siete �rdenes*. Manuscrito.
-- Aguado, Dionisio. 1825. *Escuela de guitarra*. Madrid.
 - Phillis, Jean-Baptiste. 1802. *Nouvelle m�thode pour la guitare*. Paris.
+- Radole, Giuseppe. 1982. *La�d, guitarra y vihuela*. Barcelona: Don Bosco.
+- Su�rez Pajares, Javier. 2000. �El auge de la guitarra moderna en Espa�a�. En *La m�sica en Espa�a en el siglo XVIII*, editado por Malcolm Boyd y Juan Jos� Carreras, 261-278. Madrid: Cambridge University Press.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: B. T. Batsford.
+- Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
+- Vargas y Guzm�n, Juan Antonio de. c. 1773-1776. *Manuscritos te�rico-pr�cticos para guitarra de seis y siete �rdenes*. Manuscrito.
 
 # NOTAS #REVISAR_OPENCODE
 
