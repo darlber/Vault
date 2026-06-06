@@ -18,17 +18,17 @@
 2. [Bibliografía](#Bibliografía)
 # Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I: la escuela española
 ## Introducción. Ubicación histórica
-Este tema se desarrolla en la primera mitad del siglo XIX, periodo en el que se produce el final del Clasicismo musical y el inicio del Romanticismo. En el caso de la guitarra, el repertorio creado en esta época se denomina clásico-romántico y supone un momento de esplendor del instrumento[^TMP11].
+Este tema se desarrolla en la primera mitad del siglo XIX, periodo en el que se produce el final del Clasicismo musical y el inicio del Romanticismo. En el caso de la guitarra, el repertorio creado en esta época se denomina clásico-romántico y supone un momento de esplendor del instrumento[^1].
 
-En 1799 Federico Moretti publicó *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*, tratado dedicado a la reina María Luisa, en el que emplea un lenguaje peculiar para describir la grafía musical. El método sistematiza las posibilidades armónicas de la guitarra, los arpegios ejecutables, la posición del instrumento y de las manos, las escalas y la afinación, entre otros aspectos[^TMP12].
+En 1799 Federico Moretti publicó *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*, tratado dedicado a la reina María Luisa, en el que emplea un lenguaje peculiar para describir la grafía musical. El método sistematiza las posibilidades armónicas de la guitarra, los arpegios ejecutables, la posición del instrumento y de las manos, las escalas y la afinación, entre otros aspectos[^2].
 
 En 1821 publicó *Gramática razonada; música en forma de diálogo para los principiantes* y en 1824 su *Sistema uniclave*, con el que intentó simplificar la lectura musical.
 
-El tratado guitarrístico de Moretti trata de aplicar los principios del Padre Basilio (maestro de Dionisio Aguado) y resulta crucial en la consolidación del esplendor guitarrístico que culmina con Sor y Aguado[^TMP13].
+El tratado guitarrístico de Moretti trata de aplicar los principios del Padre Basilio (maestro de Dionisio Aguado) y resulta crucial en la consolidación del esplendor guitarrístico que culmina con Sor y Aguado[^3].
 
-En 1799 también se publican *Arte de tocar la guitarra española por música* de Fernando Ferandiere[^TMP14] y *Escuela para tocar con perfección la guitarra de cinco y seis órdenes* de Víctor Prieto.
+En 1799 también se publican *Arte de tocar la guitarra española por música* de Fernando Ferandiere[^4] y *Escuela para tocar con perfección la guitarra de cinco y seis órdenes* de Víctor Prieto.
 
-En 1816 se reeditó el tratado para guitarra de Fernando Ferandiere. No obstante, según Emilio Pujol en su *Enciclopedia de la música* (París, 1923), el tratado de Moretti es el más importante[^TMP15].
+En 1816 se reeditó el tratado para guitarra de Fernando Ferandiere. No obstante, según Emilio Pujol en su *Enciclopedia de la música* (París, 1923), el tratado de Moretti es el más importante[^5].
 
 En 1800 todavía había en España guitarras de seis órdenes dobles, situación que se mantuvo aproximadamente hasta 1830. Sin embargo, en Francia e Italia eran habituales las guitarras de cinco órdenes. Moretti describe en *Principios para la guitarra de seis órdenes* cómo los órdenes sencillos de las guitarras francesas e italianas permitían una afinación más rápida y una mayor estabilidad.
 
@@ -79,7 +79,7 @@ Algunos cambios fueron impulsados por los guitarristas, como el puente y el refu
 - Aros y fondo de arce o palisandro; fondo de contrachapado sobre pino (más económico pero con menor sonoridad).  
 - Tapa sin decoración, solo ribete e incrustaciones de anillos concéntricos alrededor de la boca.  
 ## Revalorización de la guitarra
-La guitarra atraviesa en la segunda mitad del siglo XVIII un periodo de decadencia tras su apogeo barroco. El interés disminuye a mediados del siglo XVIII debido a la adición de un orden más y al paso a cuerdas sencillas[^TMP11].  
+La guitarra atraviesa en la segunda mitad del siglo XVIII un periodo de decadencia tras su apogeo barroco. El interés disminuye a mediados del siglo XVIII debido a la adición de un orden más y al paso a cuerdas sencillas[^1].  
 
 Cuando el instrumento se consolida y predomina el nuevo estilo musical llamado clasicismo, vuelve a surgir interés por su carácter íntimo y expresivo, otorgándole una sonoridad acorde con la época.  
 
@@ -87,7 +87,7 @@ Los compositores guitarristas del periodo contribuyen a que la guitarra alcance 
 
 Además, se produce un gran desarrollo de música de cámara, en la que la guitarra tiene un papel destacado, llegando incluso a intervenir en óperas de Rossini, Donizetti y Weber[^11].  
 
-La revalorización del instrumento también depende del progreso técnico, impulsado por el auge de métodos didácticos elaborados por guitarristas[^TMP11].
+La revalorización del instrumento también depende del progreso técnico, impulsado por el auge de métodos didácticos elaborados por guitarristas[^1].
 ## Evolución musical. Estilo y formas
 
 La estética del clasicismo rompe con la concepción barroca de texturas polifónicas contrapuntísticas y armonías complejas, dando paso a la sencillez y naturalidad musical.  
@@ -325,35 +325,15 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 
 # NOTAS
 
-[^12]: Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
+[^1]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
 
-[^13]: Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
+[^2]: Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid, 1799.
 
-[^14]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830. Reed. en *The Guitar Review*, n.º 39, 1974.
+[^3]: Gimeno, Julio. «Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820.» *Roseta*, n.º 0. Madrid: Sociedad Española de la Guitarra, 2007, pp. 44-62.
 
-[^15]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+[^4]: Ferandiere, Fernando. *Arte de tocar la guitarra española por música*. Madrid, 1799.
 
-[^16]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
-
-[^17]: Suárez Pajares, Javier. «Sor y Aguado en la tradición guitarrística española». *Cuadernos de música y teatro*, 1990.
-
-[^18]: Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid, 1799.
-
-[^19]: Mangado, Josep María. «Sor, Fernando». En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.
-
-[^20]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830.
-
-[^21]: Aguado, Dionisio. *Nuevo método para guitarra*. Madrid, 1843.
-
-[^TMP11]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
-
-[^TMP12]: Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid, 1799.
-
-[^TMP13]: Gimeno, Julio. «Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820.» *Roseta*, n.º 0. Madrid: Sociedad Española de la Guitarra, 2007, pp. 44-62.
-
-[^TMP14]: Ferandiere, Fernando. *Arte de tocar la guitarra española por música*. Madrid, 1799.
-
-[^TMP15]: Pujol, Emilio. *Enciclopedia de la música*. París, 1923.
+[^5]: Pujol, Emilio. *Enciclopedia de la música*. París, 1923.
 
 [^6]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
 
@@ -366,6 +346,26 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 [^10]: Romanillos, José Luis. «Dionisio Aguado. The Man.» *Guitar International* 12, n.º 9 (1984).
 
 [^11]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+
+[^12]: Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
+
+[^13]: Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
+
+[^14]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830. Reed. en *The Guitar Review*, n.º 39, 1974.
+
+[^15]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+
+[^16]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+
+[^17]: Suárez Pajares, Javier. «Sor y Aguado en la tradición guitarrística española.» *Cuadernos de música y teatro*, 1990.
+
+[^18]: Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid, 1799.
+
+[^19]: Mangado, Josep María. «Sor, Fernando.» En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.
+
+[^20]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830.
+
+[^21]: Aguado, Dionisio. *Nuevo método para guitarra*. Madrid, 1843.
 
 [^22]: Mangado, Josep María. «Sor, Fernando.» En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.
 
