@@ -15,7 +15,7 @@
   - Forma de **pera** (como el laúd)
   - Forma de **ocho** (como la vihuela o la guitarra)
 
-- No se conserva ninguna guitarra medieval, y la información es escasa y a veces contradictoria.
+- No se conserva ninguna guitarra medieval, y la información es escasa y a veces contradictoria. Pajares Alonso[^27] sitúa la guitarra en el contexto más amplio de la historia de la música, mientras que Radole[^28] ofrece una visión general del laúd, la guitarra y la vihuela como instrumentos de la misma familia.
 
 - El **inicio documentado** de la guitarra renacentista es en **1546**, con la publicación en Sevilla de:
   - *Tres libros de música en cifra para vihuela* de **Alonso Mudarra[^1]**
@@ -27,6 +27,8 @@
 - A finales del siglo XVI, la guitarra evoluciona a **5 órdenes**, lo que da origen a la **guitarra barroca española**, con **Juan Carlos Amat[^2]** (1596).
 
 - **Ambos tipos (renacentista y barroca) coexistieron** durante un tiempo.
+
+- La historia de la guitarra en este período ha sido documentada por Boyd y Carreras[^24] e Iborra[^25], quienes analizan la evolución social y organológica del instrumento.
 
 - Cambios principales:
   - **Número de órdenes**: de 4 a 5
@@ -133,7 +135,7 @@
 
 ==El estilo de la guitarra renacentista se distingue del de la vihuela por su **textura predominantemente homofónica[^16]** y su carácter más **ligero y accesible**, orientado a un público amateur. Frente a la densidad contrapuntística de las fantasías de Milán o Narváez, la guitarra de cuatro órdenes cultivó un repertorio de **danzas** (pavanas, gallardas, romanescas) y **canciones con acompañamiento**, donde la melodía se sitúa en la voz superior y las cuerdas graves proporcionan el soporte armónico. Esta textura, más vertical que horizontal, anticipa ya el lenguaje armónico de la guitarra barroca.==
 
-==Las **formas musicales** más cultivadas fueron la **fantasía** —de carácter más libre que la vihuelística, con menor rigor imitativo—, las **danzas** (pavana, gallarda, romanesca, villancico) y las **intabulaciones** de música vocal polifónica. La fantasía española (Mudarra, Fuenllana) conserva cierto aliento contrapuntístico, mientras que la francesa (Le Roy, Morlaye) es más breve y homofónica, pensada para el disfrute del aficionado. Las diferencias —técnica de variación sobre un tema—, aunque propias de la vihuela, también se cultivaron en la guitarra, como muestra la romanesca *Guárdame las vacas* de Mudarra.==
+==Las **formas musicales** más cultivadas fueron la **fantasía** —de carácter más libre que la vihuelística, con menor rigor imitativo—, las **danzas** (pavana, gallarda, romanesca, villancico) y las **intabulaciones** de música vocal polifónica. La fantasía española (Mudarra, Fuenllana) conserva cierto aliento contrapuntístico, mientras que la francesa (Le Roy, Morlaye) es más breve y homofónica, pensada para el disfrute del aficionado. Las diferencias —técnica de variación sobre un tema—, aunque propias de la vihuela, también se cultivaron en la guitarra, como muestra la romanesca *Guárdame las vacas* de Mudarra. La notación de este repertorio ha sido estudiada por Apel[^17] en su obra sobre la notación musical polifónica.==
 
 ==La **ornamentación** en la guitarra renacentista sigue las mismas prácticas que la vihuela, aunque de forma más moderada. Las fuentes mencionan **glosas**, **redobles** y **trinos**, especialmente en cadencias y pasajes de reposo. Al igual que en la vihuela, las indicaciones escritas son escasas y la ornamentación se dejaba en gran medida al criterio del intérprete. Juan Bermudo[^8], en su *Declaración de instrumentos musicales* (1555), documenta las prácticas ornamentales del momento, mientras que los tratados de Diego Ortiz (1553)[^18] y Tomás de Santa María (1565)[^29] ofrecen modelos de cómo glosar pasajes, aplicables también a la guitarra.[^19]==
 
@@ -184,7 +186,7 @@
 ![](attachments/{74EB0B94-1C8F-41BC-9E82-EC6496B9C30F}.png)
 ## Lectura
 
-==Sobre la lectura debemos decir que lo recomendable es que el intérprete no utilice ningún tipo de transcripción, ya que hoy en día tenemos los facsímiles y además no es complicado leer una tablatura antigua. Esto ya lo defienden J. Tyler[^22] y G. Arriaga[^21], ya que hay una gran cantidad de métodos y libros a nuestro alcance. Esto en parte es debido al fácil acceso que nos permite internet.==
+==Sobre la lectura debemos decir que lo recomendable es que el intérprete no utilice ningún tipo de transcripción, ya que hoy en día tenemos los facsímiles y además no es complicado leer una tablatura antigua. Esto ya lo defienden J. Tyler[^22] y G. Arriaga[^21], y el propio Turnbull[^23] aboga por el uso de fuentes originales frente a las transcripciones modernas. Además, hay una gran cantidad de métodos y libros a nuestro alcance. Esto en parte es debido al fácil acceso que nos permite internet.==
 # Tablaturas, criterios de transcripción y edición 
 
 - Realizar una transcripción es una tarea delicada con varios retos.
