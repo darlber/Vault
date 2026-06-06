@@ -173,22 +173,22 @@ También escribió obras didácticas que contribuyeron a la evolución técnica 
 - Colecciones de estudios op. 6, 29, 31, 35...  
 - 24 pequeñas piezas progresivas op. 44  
 
-Nació el 13 de febrero de 1778 en Barcelona. Su verdadero apellido es “Sor”, aunque un error en su partida de nacimiento lo registra como “Sors”. Durante su infancia estudió música, canto, guitarra y violín con Joseph Prats. Tras la muerte de su padre en 1790, ingresó en la escolanía de música del Monasterio de Montserrat, donde recibió formación con Amselm Viola y el organista Narcís Casanovas.  
+Nació el 13 de febrero de 1778 en Barcelona. Su verdadero apellido es “Sor”, aunque un error en su partida de nacimiento lo registra como “Sors”. Durante su infancia estudió música, canto, guitarra y violín con Joseph Prats. Tras la muerte de su padre en 1790, ingresó en la escolanía de música del Monasterio de Montserrat, donde recibió formación con Amselm Viola y el organista Narcís Casanovas[^22].  
 
-En 1795 abandonó el monasterio y se presentó voluntario para el ejército español, siendo teniente de la Tercera Compañía del Tercio de Tropas Auxiliares del Corregimiento de Villafranca, cuya misión era frenar el avance francés en Cataluña. Tras la disolución del Tercio en septiembre de 1795, volvió a la vida civil. Durante esta época conoció la obra de Moretti para guitarra, ampliando su visión sobre las posibilidades polifónicas del instrumento.
+En 1795 abandonó el monasterio y se presentó voluntario para el ejército español, siendo teniente de la Tercera Compañía del Tercio de Tropas Auxiliares del Corregimiento de Villafranca, cuya misión era frenar el avance francés en Cataluña. Tras la disolución del Tercio en septiembre de 1795, volvió a la vida civil. Durante esta época conoció la obra de Moretti para guitarra, ampliando su visión sobre las posibilidades polifónicas del instrumento[^22].
 
 Sor fue un músico cosmopolita, residiendo en ciudades como Barcelona, Madrid, París, Londres y Moscú, donde adquirió amplia experiencia musical.  
 #### Diferencias técnicas entre Sor y Aguado
 - Sor tocaba sin uña, práctica habitual en Europa.  
 - Aguado tocaba con uña, como era común en España.  
 
-Este debate sobre la pulsación (yema o uña) se recoge en el *Método* de Sor y responde al concepto estético del Romanticismo, buscando mayor sonoridad y virtuosismo, así como un tratamiento técnico más avanzado.
+Este debate sobre la pulsación (yema o uña) se recoge en el *Método* de Sor y responde al concepto estético del Romanticismo, buscando mayor sonoridad y virtuosismo, así como un tratamiento técnico más avanzado[^23].
 
 En 1797 se representó en Barcelona su primera ópera, *Telémaco*, con gran éxito, lo que lo convirtió en una figura popular. Entre 1797 y 1800 actuó en Barcelona como guitarrista y compositor para diversas formaciones instrumentales y vocales.
 
 Hacia 1799 Fernando Sor fue protegido por la Duquesa de Alba y, tras su fallecimiento en 1802, el Duque de Medinaceli le ofreció un empleo en Barcelona, ocupándose de asuntos administrativos.
 
-Entre septiembre y noviembre de 1802, los reyes de España visitaron Barcelona acompañados de Manuel Godoy, lo que motivó la actuación de numerosos músicos de la ciudad. Se presume que fue entonces cuando Sor dedicó su *Grande Sonate pour la Guitare seule* op. 22 a Godoy, gran aficionado al instrumento.
+Entre septiembre y noviembre de 1802, los reyes de España visitaron Barcelona acompañados de Manuel Godoy, lo que motivó la actuación de numerosos músicos de la ciudad. Se presume que fue entonces cuando Sor dedicó su *Grande Sonate pour la Guitare seule* op. 22 a Godoy, gran aficionado al instrumento[^24].
 
 En 1802, Sor fue nombrado jefe de la administración real en Málaga. La entrada de los franceses en 1808 le obligó a trasladarse a Madrid. Durante su estancia en Málaga debió jurar fidelidad a José I para evitar la pena de muerte, siendo designado comisario de policía en la frontera. Posteriormente se trasladó a Valencia.
 
@@ -248,7 +248,7 @@ Entre sus métodos y tratados destaca *Méthode pour la Guitare* (París, 1830),
 ##### Arpa-Lira
 - 3 piezas, 6 pequeñas piezas progresivas y *Marcha fúnebre*  
 #### Dionisio Aguado
-Dionisio Aguado destacó principalmente por su labor pedagógica, aunque también compuso en menor medida que Sor. Su trabajo pedagógico fue fundamental para la formación de generaciones posteriores y sentó las bases de la técnica guitarrística. Según Julio Jimeno (*Revista Roseta*), es considerado por algunos como el pedagogo más importante de la historia de la guitarra.
+Dionisio Aguado destacó principalmente por su labor pedagógica, aunque también compuso en menor medida que Sor. Su trabajo pedagógico fue fundamental para la formación de generaciones posteriores y sentó las bases de la técnica guitarrística. Según Julio Jimeno (*Revista Roseta*), es considerado por algunos como el pedagogo más importante de la historia de la guitarra[^25].
 
 Su primer maestro fue el Padre Basilio, y perfeccionó sus conocimientos con Moretti. Aguado vivió varios años en Madrid junto a su madre y en 1820 publicó la *Colección de estudios*. Tras la muerte de su madre en 1826 se trasladó a París, hospedándose en el Hotel Favart, donde residía también Fernando Sor, lo que dio lugar a una estrecha amistad entre ambos guitarristas. Herman Mendel señala que “se convirtió en el preferido de los salones y salas de concierto”, llamando la atención de figuras como Rossini y Paganini.  
 
