@@ -41,10 +41,10 @@ Frecuencias de las cuerdas al aire en la guitarra:
 - Cuerda 4: Re4 = 147 Hz
 - Cuerda 5: La3 = 110 Hz
 - Cuerda 6: Mi3 = 82 Hz
-
+#frase_sin_source (corrección: la octava indicada originalmente (Mi5, Si4, etc.) estaba desplazada un grado; la correcta en notación científica es E4–B3–G3–D3–A2–E2 #frase_revisar_opencode #comprobado)
 2. La intensidad permite distinguir sonidos fuertes y débiles, relacionada con la amplitud de vibración de las cuerdas. Se mide en decibelios (dB), y en la guitarra varía entre 65 y 85 dB, aunque técnicas modernas están ampliando estos límites.
 
-La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.
+La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. #frase_sin_source (corrección: +3 dB duplica la intensidad física (potencia acústica), pero la percepción subjetiva de volumen requiere ~+10 dB para duplicarse; el texto original confunde ambos conceptos #frase_revisar_opencode #comprobado) Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.
 
 3. Duración: es el tiempo que transcurre desde el inicio hasta el final de un sonido. En la guitarra, se valora que el instrumento mantenga el sonido por un tiempo prolongado, característica llamada «sustain».
 
@@ -167,7 +167,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - La quinta justa divide la cuerda en tres partes.
 - La cuarta justa divide la cuerda en cuatro partes.
 
-### Otros armónicos "puros" no ubicados en trastes exactos:
+### Otros armónicos «puros» no ubicados en trastes exactos:
 - 650 mm / 5  (Tercera Mayor) Traste 4, casi 5
 - 650 mm / 6  (Tercera menor) Traste 4, casi 3
 - 650 mm / 7  (Séptima menor o tercera menor baja) Traste 3 mitad.
@@ -206,6 +206,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - ==**Rasgueo con ambas manos**==: ambas manos se usan simultáneamente para rasguear, creando patrones rítmicos complejos y texturas sonoras no lineales.
 - ==**Armónicos con la mano izquierda**==: mientras la mano derecha pulsa la cuerda, la mano izquierda roza ligeramente la cuerda en un punto de inflexión para producir armónicos sin necesidad de pisar.
 # Bibliografía #REVISAR_OPENCODE
+#TODO
 
 - Aguado, Dionisio. 1949. *Escuela de guitarra*. Edición facsímil. Madrid: Unión Musical Española.
 - Backus, John. 1977. *The Acoustical Foundations of Music*. 2nd ed. New York: W. W. Norton.

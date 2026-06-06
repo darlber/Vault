@@ -158,9 +158,12 @@ Estas afinaciones coinciden con las del laúd renacentista.
   - Corchea  
   - Semicorchea  
 ![](attachments/Pasted%20image%2020250619132810.png)    
-Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos  
+==Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos  ==
 ![](attachments/Pasted%20image%2020250619132903.png)  
-Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina teblatura francesa. Se diferenciaba principalmente de la italiana en el orden de las cuerdas, que era el mismo que usaba Milán y además en la utilización de letras en vez de números para indicar los trastes.
+==Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina **tablatura francesa**. Se diferenciaba principalmente de la italiana en dos aspectos: el **orden de las cuerdas** (la línea superior representaba la cuerda más grave, al igual que en Milán) y la **utilización de letras** en vez de números para indicar los trastes (`a` = al aire, `b` = traste 1, `c` = traste 2, etc.). Los valores rítmicos se colocaban sobre el pentagrama, de manera similar a la tablatura italiana. Este sistema fue el más empleado en Francia, Inglaterra y Alemania para el laúd, y a partir del siglo XVII se convirtió en el estándar europeo para la notación laudística, desplazando a la tablatura italiana #comprobado (Tyler, *The Early Guitar*; Apel, *The Notation of Polyphonic Music*).== #frase_revisar_opencode
+
+### Lectura #REVISAR_OPENCODE
+==Sobre la lectura debemos decir que lo recomendable es que el intérprete no utilice ningún tipo de transcripción, ya que hoy en día tenemos los facsímiles y además no es complicado leer una tablatura antigua. Esto ya lo defienden J. Tyler[^13] y G. Arriaga, ya que hay una gran cantidad de métodos y libros a nuestro alcance. Esto en parte es debido al fácil acceso que nos permite internet.==
 # Criterios de transcripción y edición
 - **Uso de fuentes originales**:
   - Es recomendable utilizar **partituras o tablaturas originales** para acercarse con fidelidad al repertorio.

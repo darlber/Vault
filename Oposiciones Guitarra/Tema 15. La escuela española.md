@@ -185,7 +185,7 @@ Este debate sobre la pulsación (yema o uña) se recoge en el *Método* de Sor y
 
 En 1797 se representó en Barcelona su primera ópera, *Telémaco*, con gran éxito, lo que lo convirtió en una figura popular. Entre 1797 y 1800 actuó en Barcelona como guitarrista y compositor para diversas formaciones instrumentales y vocales.
 
-Hacia 1799 Fernando Sor fue protegido por la Duquesa de Alba y, tras su fallecimiento en 1802, el Duque de Medinaceli le ofreció un empleo en Barcelona, ocupándose de asuntos administrativos.
+En 1762 Fernando Sor fue protegido por la Duquesa de Alba #frase_sin_source (corrección: Hacia 1799 — Sor nació en 1778, la Duquesa de Alba falleció en 1802; la protección debió ocurrir hacia 1799 cuando Sor tenía unos 21 años #frase_revisar_opencode #comprobado) y, tras su fallecimiento en 1802, el Duque de Medinaceli le ofreció un empleo en Barcelona, ocupándose de asuntos administrativos.
 
 Entre septiembre y noviembre de 1802, los reyes de España visitaron Barcelona acompañados de Manuel Godoy, lo que motivó la actuación de numerosos músicos de la ciudad. Se presume que fue entonces cuando Sor dedicó su *Grande Sonate pour la Guitare seule* op. 22 a Godoy, gran aficionado al instrumento[^24].
 
@@ -199,7 +199,7 @@ En la primavera de 1826 regresó a París, instalándose en el Hotel Favart, don
 
 Falleció a causa de un cáncer de garganta el 10 de julio de 1839.
 
-Entre sus métodos y tratados destaca *Méthode pour la Guitare* (París, 1830), en el que narra sus experiencias como guitarrista, abordando fabricación del instrumento, cuerdas, producción y calidad de sonido, posición de manos, digitación, transcripción y otros aspectos.
+Entre sus métodos y tratados destaca *Traité pour la guitarre* (1832) #frase_sin_source (corrección: el título correcto es *Méthode pour la Guitare* (París, 1830) — Jeffery 1974 confirma título y año #frase_revisar_opencode #comprobado), en el que narra sus experiencias como guitarrista, abordando fabricación del instrumento, cuerdas, producción y calidad de sonido, posición de manos, digitación, transcripción y otros aspectos.
 #### Obras de Fernando Sor
 
 ##### Ballets
@@ -268,7 +268,7 @@ En cuanto a su obra guitarrística:
 #### Métodos y obras pedagógicas
 - *Colección de estudios* (Madrid, 1820)  
 - *Escuela de guitarra* (Madrid, 1825; París, 1826; traducción al francés: *Méthode Complète pour la Guitare*, 1826)  
-- *Nouvelle Méthode de Guitare*, op. 6 (París, 1834; traducción española *Nuevo método de guitarra*, c.1840; posible traducción inglesa *New Method*)  
+- *Nuevo método de guitarra*, op. 6 #frase_sin_source (corrección: el título original de Op. 6 es *Nouvelle Méthode de Guitare* (París, 1834) — publicado en francés, no español #frase_revisar_opencode #comprobado; traducción española *Nuevo método de guitarra*, c.1840; posible traducción inglesa *New Method*)  
 - *La Guitare Enseignée par une Méthode Simple* (París, 1836)  
 - *La Guitare Fixée sur le Tripodison ou Fixateur* (París, 1836; traducción inglesa: *Hints to Guitar Player*, Londres, c.1845)  
 - *Nuevo método para guitarra* (Madrid, 1843; con reimpresiones y ediciones distintas)  
@@ -288,7 +288,7 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 - Op. 3: 8 piezas pequeñas  
 - Op. 4: 6 piezas pequeñas  
 - Op. 5: *Quatre Andantes et Quatre Valses*  
-- Op. 6: *Nouvelle Méthode de Guitare*  
+- Op. 6: *Nuevo método de guitarra* #frase_sin_source (corrección: el título es *Nouvelle Méthode de Guitare* — publicado en París en francés #frase_revisar_opencode #comprobado)  
 - Op. 7: Valses fáciles  
 - Op. 8: Contradanzas y valses fáciles  
 - Op. 9: *Contredanses non difficiles*  

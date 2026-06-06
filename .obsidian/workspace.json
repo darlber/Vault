@@ -11,15 +11,14 @@
             "id": "cb72182473f8e88d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "Oposiciones Guitarra/Tema 15. La escuela española.md",
+                "bFile": "Oposiciones Guitarra/Tema 15. La escuela española.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Tema 03. Características sonoras del instrumento"
+              "icon": "diff",
+              "title": "Diff: Tema 15. La escuela española  (Working Tree)"
             }
           }
         ]
@@ -133,13 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 03. Características sonoras del instrumento"
+              "title": "Outline"
             }
           },
           {
@@ -209,34 +207,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "cb72182473f8e88d",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
+    "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
+    "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
+    "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+    "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
+    "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 13. Bach.md",
+    "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
+    "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
+    "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
+    "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
+    "Oposiciones Guitarra/Tema 16.md",
     "Oposiciones Guitarra/Tema 16. Escuelas no españolas.md",
-    "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
-    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 15. La escuela española.md",
     "Oposiciones Guitarra/0. Temas Oposiciones.md",
     "Oposiciones Guitarra/Programación Didáctica.md",
-    "Oposiciones Guitarra/Tema 13. Bach.md",
     "Oposiciones Guitarra/Tema 14. Criterios de transcripción para guitarra de seis cuerdas.md",
     "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
     "Oposiciones Guitarra/Tema 18. Siglo XX.md",
-    "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
-    "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
     "Oposiciones Guitarra/Tema 13. Bahc.md",
-    "Oposiciones Guitarra/Tema 16.md",
     "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
-    "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
-    "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
-    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
-    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
-    "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
-    "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
-    "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
-    "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
     "Oposiciones Guitarra/TEMA 22.pdf",
     "Oposiciones Guitarra/TEMA 27.pdf",
     "Oposiciones Guitarra/TEMA 25.pdf",
