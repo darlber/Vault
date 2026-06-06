@@ -11,14 +11,15 @@
             "id": "cb72182473f8e88d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Oposiciones Guitarra/Tema 15. La escuela española.md",
-                "bFile": "Oposiciones Guitarra/Tema 15. La escuela española.md",
-                "aRef": ""
+                "file": "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: Tema 15. La escuela española  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Tema 05. La técnica de la guitarra"
             }
           }
         ]
@@ -132,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tema 05. La técnica de la guitarra"
             }
           },
           {
@@ -187,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,7 +209,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cb72182473f8e88d",
+  "active": "30c66a756c80d7ae",
   "lastOpenFiles": [
     "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
     "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
