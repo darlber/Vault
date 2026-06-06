@@ -1,4 +1,4 @@
-# Tablaturas, criterios de transcripción. La obra para laúd de J. S. Bach
+# Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco. Tablaturas, criterios de transcripción. La obra para laúd de J. S. Bach
 ## Índice
 1. [Introducción](#Introducción)
 	1. [Evolución del laúd renacentista](#Evolución%20del%20laúd%20renacentista)
