@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+                "file": "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 10. El repertorio de guitarra renacentista, su estilo y notación"
+              "title": "Tema 09. El repertorio de vihuela, su estilo y notación"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+                "file": "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 10. El repertorio de guitarra renacentista, su estilo y notación"
+              "title": "Outline of Tema 09. El repertorio de vihuela, su estilo y notación"
             }
           },
           {
@@ -148,7 +148,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md"
+                "file": "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +209,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "30c66a756c80d7ae",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
-    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
     "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",

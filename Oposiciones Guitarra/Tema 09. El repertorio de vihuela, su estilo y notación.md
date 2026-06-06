@@ -59,15 +59,15 @@ Estas afinaciones coinciden con las del laúd renacentista.
 
 ### Estilo #REVISAR_OPENCODE
 
-==El repertorio de vihuela se inscribe en el marco de la **polifonía renacentista**, gobernado por los **ocho modos eclesiásticos[^8]** (protus, deuterus, tritus, tetrardus, cada uno en su versión auténtica y plagal). A diferencia del sistema tonal moderno, la música del siglo XVI no se organiza en torno a centros tonales funcionales, sino que cada modo define un ámbito melódico, una finalis y un repertorio de cadencias características. Los vihuelistas reflejan este pensamiento modal en sus fantasías y tientos, donde la conducción de las voces y las cláusulas finales siguen las reglas de la teoría modal renacentista.==
+==El repertorio de vihuela se inscribe en el marco de la **polifonía renacentista**, gobernado por los **ocho modos eclesiásticos[^4]** (protus, deuterus, tritus, tetrardus, cada uno en su versión auténtica y plagal). A diferencia del sistema tonal moderno, la música del siglo XVI no se organiza en torno a centros tonales funcionales, sino que cada modo define un ámbito melódico, una finalis y un repertorio de cadencias características. Los vihuelistas reflejan este pensamiento modal en sus fantasías y tientos, donde la conducción de las voces y las cláusulas finales siguen las reglas de la teoría modal renacentista.==
 
-==La **textura polifónica** de la vihuela se caracteriza por la **conducción simultánea de tres o cuatro voces**, heredada directamente de la técnica del contrapunto vocal.[^9] Sin embargo, los vihuelistas desarrollaron un lenguaje instrumental específico: las **fantasías** de Milán y Narváez presentan un contrapunto imitativo de carácter improvisatorio, con entradas sucesivas de las voces y episodios de mayor libertad rítmica. Las **diferencias** creadas por Narváez constituyen la primera manifestación conocida de la técnica de variación instrumental, anticipando uno de los géneros más fecundos de la música occidental.==
+==La **textura polifónica** de la vihuela se caracteriza por la **conducción simultánea de tres o cuatro voces**, heredada directamente de la técnica del contrapunto vocal.[^5] Sin embargo, los vihuelistas desarrollaron un lenguaje instrumental específico: las **fantasías** de Milán y Narváez presentan un contrapunto imitativo de carácter improvisatorio, con entradas sucesivas de las voces y episodios de mayor libertad rítmica. Las **diferencias** creadas por Narváez constituyen la primera manifestación conocida de la técnica de variación instrumental, anticipando uno de los géneros más fecundos de la música occidental.==
 
-==La **ornamentación** constituye uno de los rasgos estilísticos más distintivos del repertorio vihuelístico. Las fuentes mencionan **glosas**, **redobles**, **trinos** y **mordentes** como recursos habituales, aunque las indicaciones escritas son escasas, lo que sugiere que gran parte de la ornamentación se dejaba al criterio del intérprete. Juan Bermudo[^1], en su *Declaración de instrumentos musicales* (1555), criticó el uso excesivo de ornamentación por desvirtuar la claridad polifónica[^10], mientras que Diego Ortiz, en su *Trattado de glosas* (1553), ofreció un sistema completo de cómo glosar pasajes. La práctica ornamental varía según el género[^11]: las **fantasías** admiten una ornamentación más libre e improvisada, mientras que las **transcripciones de música vocal** requieren mayor fidelidad a la textura original.==
+==La **ornamentación** constituye uno de los rasgos estilísticos más distintivos del repertorio vihuelístico. Las fuentes mencionan **glosas**, **redobles**, **trinos** y **mordentes** como recursos habituales, aunque las indicaciones escritas son escasas, lo que sugiere que gran parte de la ornamentación se dejaba al criterio del intérprete. Juan Bermudo[^1], en su *Declaración de instrumentos musicales* (1555), criticó el uso excesivo de ornamentación por desvirtuar la claridad polifónica[^6], mientras que Diego Ortiz, en su *Trattado de glosas* (1553), ofreció un sistema completo de cómo glosar pasajes. La práctica ornamental varía según el género[^7]: las **fantasías** admiten una ornamentación más libre e improvisada, mientras que las **transcripciones de música vocal** requieren mayor fidelidad a la textura original.==
 
-==Desde la perspectiva de la **estética del humanismo renacentista**, la vihuela participa del ideal de la *música reservata* —una música destinada a oyentes entendidos, capaz de expresar los afectos del texto o del espíritu a través de recursos retórico-musicales. Los vihuelistas españoles, al servicio de la aristocracia y la corte, cultivaron un estilo más **grave y contrapuntístico** que sus coetáneos italianos, quienes publicaron mayor número de danzas e intabulaciones de madrigales. Esta divergencia refleja no solo diferencias de gusto, sino también contextos sociales distintos: la vihuela española se asocia al humanismo cortesano de la Castilla del siglo XVI, mientras que el laúd italiano se difunde en un entorno urbano y mercantil más amplio.==
+==Desde la perspectiva de la **estética del humanismo renacentista**[^8], la vihuela participa del ideal de la *música reservata* —una música destinada a oyentes entendidos, capaz de expresar los afectos del texto o del espíritu a través de recursos retórico-musicales. Los vihuelistas españoles, al servicio de la aristocracia y la corte, cultivaron un estilo más **grave y contrapuntístico** que sus coetáneos italianos, quienes publicaron mayor número de danzas e intabulaciones de madrigales. Esta divergencia refleja no solo diferencias de gusto, sino también contextos sociales distintos: la vihuela española se asocia al humanismo cortesano de la Castilla del siglo XVI, mientras que el laúd italiano se difunde en un entorno urbano y mercantil más amplio.==
 
-==**Diferencias estilísticas entre autores:** Cada vihuelista desarrolló un lenguaje personal dentro del marco común. **Luis Milán** destaca por sus fantasías de carácter improvisatorio y por ser el único que no transcribe música vocal. **Luis de Narváez[^4]** introdujo las diferencias y un contrapunto más denso y elaborado. **Alonso Mudarra[^5]** muestra una mayor variedad formal (fantasías, tientos, danzas, canciones) e incluye las primeras piezas para guitarra de cuatro órdenes. **Miguel de Fuenllana[^6]** revela un conocimiento profundo de la teoría armónico-modal, con especial atención a las cadencias modales. **Esteban Daza** y **Enrique de Valderrábano** representan una generación intermedia que combina la fantasía imitativa con la transcripción polifónica.==
+==**Diferencias estilísticas entre autores:** Cada vihuelista desarrolló un lenguaje personal dentro del marco común. **Luis Milán** destaca por sus fantasías de carácter improvisatorio y por ser el único que no transcribe música vocal. **Luis de Narváez[^9]** introdujo las diferencias y un contrapunto más denso y elaborado. **Alonso Mudarra[^10]** muestra una mayor variedad formal (fantasías, tientos, danzas, canciones) e incluye las primeras piezas para guitarra de cuatro órdenes. **Miguel de Fuenllana[^11]** revela un conocimiento profundo de la teoría armónico-modal, con especial atención a las cadencias modales. **Esteban Daza** y **Enrique de Valderrábano** representan una generación intermedia que combina la fantasía imitativa con la transcripción polifónica.==
 
 ==La **evolución estilística** a lo largo del siglo XVI puede resumirse en tres fases: una **primera generación** (Milán, 1536) caracterizada por la fantasía improvisatoria y la exploración de las posibilidades del instrumento; una **generación central** (Narváez 1538, Mudarra 1546, Valderrábano 1547, Fuenllana 1554) que consolida las formas (fantasía, tiento, diferencias) y alcanza la máxima complejidad contrapuntística; y una **generación tardía** (Daza 1576, Ramillete de Flores 1593) que tiende hacia una textura más homofónica y un repertorio de danzas más numeroso, presagiando la estética del Barroco temprano.==
 ## Autores y repertorio
@@ -87,7 +87,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
     - **Villancicos**
     - **Canciones**
 
-- **Luis de Narváez[^4]**:
+- **Luis de Narváez[^9]**:
   - Publicó *Los Seis Libros del Delphin* en 1538.
   - Incluye una **gran variedad de formas** y el **primer ejemplo de «diferencias»** (técnica de variación).
   - Destaca por:
@@ -98,7 +98,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
     - **Tonos**, **claves**, **cifras**, **romances** y **villancicos**.
   - Contiene las **primeras intabulaciones de polifonía** de la escuela **franco-flamenca**.
 
-- **Alonso Mudarra[^5]** – *Tres libros de música en cifra para vihuela* (1546):
+- **Alonso Mudarra[^10]** – *Tres libros de música en cifra para vihuela* (1546):
   - Incluye algunas de las **primeras piezas conocidas para guitarra de cuatro órdenes**.
   - Composiciones: **fantasías**, **tientos por tono**, **danzas** (romanescas, pavanas, gallardas), **villancicos**, **motetes** y **canciones**.
   - Aunque no didáctico, el libro contiene explicaciones técnicas y artísticas (tempo, signos, redobles, etc.).
@@ -109,7 +109,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
   - Obra dividida en **siete libros**.
   - Contiene: **diferencias**, **romances**, **transcripciones polifónicas vocales** y **fantasías** con gran calidad expresiva en estilo **contrapuntístico**.
 
-- **Miguel de Fuenllana[^6]** – *Orphenica Lyra* (1554):
+- **Miguel de Fuenllana[^11]** – *Orphenica Lyra* (1554):
   - Conjunto de **seis libros** con alrededor de **100 obras**.
   - Incluye:
     - **Transcripciones de música polifónica religiosa**.
@@ -117,7 +117,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
     - **Ocho fantasías** para vihuela de cinco órdenes.
   - Su obra refleja conocimiento profundo de la **teoría armónico-modal** del siglo XVI, especialmente en el tratamiento de **cadencias modales**.
 
-- **Tomás de Santa María[^7]** – *Arte de tañer fantasía* (1565):
+- **Tomás de Santa María[^12]** – *Arte de tañer fantasía* (1565):
   - Tratado teórico sobre la improvisación y composición de fantasías.
 
 - **Esteban Daza** – *El Parnaso* (1557):
@@ -170,9 +170,13 @@ Estas afinaciones coinciden con las del laúd renacentista.
 ==Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos==  
 ![](attachments/Pasted%20image%2020250619132903.png)  
 ==Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina teblatura francesa. Se diferenciaba principalmente de la italiana en el orden de las cuerdas, que era el mismo que usaba Milán y además en la utilización de letras en vez de números para indicar los trastes.==
+
+### Lectura #REVISAR_OPENCODE
+
+==Sobre la lectura debemos decir que lo recomendable es que el intérprete no utilice ningún tipo de transcripción, ya que hoy en día tenemos los facsímiles y además no es complicado leer una tablatura antigua. Esto ya lo defienden J. Tyler[^13] y G. Arriaga, ya que hay una gran cantidad de métodos y libros a nuestro alcance. Esto en parte es debido al fácil acceso que nos permite internet.==
 # Criterios de transcripción y edición
 - **Uso de fuentes originales**:
-  - Es recomendable utilizar **partituras o tablaturas originales** para acercarse con fidelidad al repertorio.
+   - Es recomendable utilizar **partituras o tablaturas originales**[^14] para acercarse con fidelidad al repertorio.
   - Esto requiere conocimientos en:
     - **Lectura de tablaturas antiguas**
     - **Teoría musical renacentista**
@@ -265,23 +269,23 @@ Estas afinaciones coinciden con las del laúd renacentista.
 
 [^3]: Koonce, *Renaissance Vihuela and Guitar in Sixteenth-Century Spain*.
 
-[^4]: Narváez, *Los Seis Libros del Delphin*.
+[^5]: Narváez, *Los Seis Libros del Delphin*.
 
-[^5]: Mudarra, *Tres libros de música en cifra para vihuela*.
+[^6]: Mudarra, *Tres libros de música en cifra para vihuela*.
 
-[^6]: Fuenllana, *Orphénica Lyra*.
+[^7]: Fuenllana, *Orphénica Lyra*.
 
-[^7]: Santa María, *Arte de tañer fantasía*.
+[^8]: Santa María, *Arte de tañer fantasía*.
 
-[^8]: Reese, *Music in the Renaissance*.
+[^TEMP[^5]:] Reese, *Music in the Renaissance*.
 
-[^9]: Apel, *The Notation of Polyphonic Music*.
+[^TEMP[^6]:] Apel, *The Notation of Polyphonic Music*.
 
-[^10]: Ortiz, *Trattado de glosas*.
+[^TEMP[^7]:] Ortiz, *Trattado de glosas*.
 
-[^11]: Brown, *Embellishing 16th Century Music*.
+[^TEMP[^8]:] Brown, *Embellishing 16th Century Music*.
 
-[^12]: Lowinsky, *Tonality and Atonality in 16th Century Music*.
+[^4]: Lowinsky, *Tonality and Atonality in 16th Century Music*.
 
 [^13]: Tyler, *The Early Guitar*.
 
