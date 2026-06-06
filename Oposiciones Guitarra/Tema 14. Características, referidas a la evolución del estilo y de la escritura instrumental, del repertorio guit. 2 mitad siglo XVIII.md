@@ -144,7 +144,7 @@ Según Suárez Pajares, Juan de Arizpacochaga posee obras de peor calidad que Fe
 Además, durante este siglo —especialmente en su primera mitad— siguen apareciendo tablaturas, por lo que deberán aplicarse también los criterios de transcripción correspondientes.
 
 Todo ello debe tenerse en cuenta al abordar la edición y transcripción de la música guitarrística del siglo XVIII.
-# Bibliografía
+	# Bibliografía
 
 - Alcaraz Iborra, Mario; Díaz Soto, Roberto. 2010. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario.
 - Annala, Hannu; Matlik, Heiki. 2010. *Handbook of Guitar and Lute Composers*. Pacific: Mel Bay Publications.
