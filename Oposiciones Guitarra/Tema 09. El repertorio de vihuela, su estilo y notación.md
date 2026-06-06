@@ -247,20 +247,20 @@ Estas afinaciones coinciden con las del laúd renacentista.
 # Bibliografía #REVISAR_OPENCODE
 
 - Apel, Willi. 1942. *The Notation of Polyphonic Music, 900–1600*. Cambridge: Mediaeval Academy of America.
-- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Editorial.
+- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Juan de León.
 - Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Oxford: Oxford University Press.
-- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lyra*. Ciudad: Editorial.
-- Koonce, Frank. 2008. *Renaissance Vihuela and Guitar in Sixteenth-Century Spain*. Ciudad: Editorial.
+- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lira*. Madrid: Ediciones Musicales.
+- Koonce, Frank. 2008. *The Renaissance Vihuela and Guitar in Sixteenth-Century Spain*. Pacific: Mel Bay Publications.
 - Lowinsky, Edward E. 1961. *Tonality and Atonality in 16th Century Music*. Berkeley: University of California Press.
-- Milán, Luys de. 1536. *El Maestro*. Valencia: Editorial.
-- Mudarra, Alonso. 1979. *Tres libros de música en cifra para vihuela*. Ciudad: Editorial.
-- Narváez, Luis de. 1538. *Los Seis Libros del Delphin*. Valladolid: Editorial.
-- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Editorial.
+- Milán, Luys de. 1536. *El Maestro*. Valencia: Francisco Díaz Romano.
+- Mudarra, Alonso. 1979. *Tres libros de música en cifra para vihuela*. Madrid: Ediciones Musicales.
+- Narváez, Luis de. 1538. *Los Seis Libros del Delphin*. Valladolid: Diego Hernández de Córdoba.
+- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Valerio Dorico.
 - Reese, Gustave. 1954. *Music in the Renaissance*. Nueva York: W. W. Norton.
-- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Editorial.
-- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
+- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Francisco Fernández de Córdoba.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: B. T. Batsford.
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
-- Varios autores. 1987. *Actas del Congreso «España en la Música de Occidente»*. Ciudad: Editorial.
+- Varios autores. 1987. *Actas del Congreso «España en la Música de Occidente»*, vol. 1. Madrid: Ministerio de Cultura.
 
 # NOTAS #REVISAR_OPENCODE
 

@@ -145,11 +145,11 @@ Además, durante este siglo —especialmente en su primera mitad— siguen apare
 
 Todo ello debe tenerse en cuenta al abordar la edición y transcripción de la música guitarrística del siglo XVIII.
 # Bibliografía
-#TODO 
-- Alcaraz Iborra, Mario, y Roberto Díaz Soto. *La guitarra: Historia, organología y repertorio*. 2010.
-- Annala, Hannu, y Heiki Matlik. *Handbook of Guitar and Lute Composers*. 2010.
-- Lichtenthal, Pietro. *Dizionario e bibliografia della musica*. 1836.
-- Radole, Giuseppe. *Laúd, guitarra y vihuela*. 1982.
-- Suárez Pajares, Javier. “La música en España en el siglo XVIII.” En *El auge de la guitarra moderna en España*, 2000.
-- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. 1976.
-- Tyler, James. *The Early Guitar*. 1980.
+
+- Alcaraz Iborra, Mario; Díaz Soto, Roberto. 2010. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario.
+- Annala, Hannu; Matlik, Heiki. 2010. *Handbook of Guitar and Lute Composers*. Pacific: Mel Bay Publications.
+- Lichtenthal, Pietro. 1836. *Dizionario e bibliografia della musica*. Milano: Antonio Fontana.
+- Radole, Giuseppe. 1982. *Laúd, guitarra y vihuela*. Barcelona: Don Bosco.
+- Suárez Pajares, Javier. 2000. «El auge de la guitarra moderna en España». En *La música en España en el siglo XVIII*, editado por Malcolm Boyd y Juan José Carreras, 261-278. Madrid: Cambridge University Press.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: B. T. Batsford.
+- Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.

@@ -246,18 +246,18 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 - Op.15: *Le Menuet Affandangado*  
 - Op.16: *El Fandango Variado*  
 # Bibliografía
-- Aguado, Dionisio. *Nuevo método para guitarra*. Madrid: 1843.  
-- Ara, Mario Dell. *Manuale di storia della chitarra. 1: La chitarra antica, classica e romántica*. 1988.  
-- Briso de Montiano, Luis. *Un fondo desconocido de música para guitarra*. 1995.  
-- Boyd, Malcolm, y José Carreras. *La música en España en el siglo XVIII*. 2000.  
-- Gimeno, Julio. "Escuela de París. La guitarra en París durante el periodo Clásico Romántico." *Revista Sonoro*, Año 2, número 2.  
-- Gimeno, Julio. *Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820*. 2007.  
-- Gómez Amat, Carlos. *Historia de la música española*. 2004.  
+- Aguado, Dionisio. *Nuevo método para guitarra*. Madrid, 1843.  
+- Ara, Mario Dell. *Manuale di storia della chitarra. 1: La chitarra antica, classica e romántica*. Ancona: Bèrben, 1988.  
+- Briso de Montiano, Luis. *Un fondo desconocido de música para guitarra*. Madrid: Ópera Tres (Ediciones Musicales), 1995.  
+- Boyd, Malcolm, y Juan José Carreras (eds.). *La música en España en el siglo XVIII*. Madrid: Cambridge University Press, 2000.  
+- Gimeno, Julio. "Escuela de París. La guitarra en París durante el periodo Clásico Romántico." *Revista Sonoro*, Año 2, n.º 2.  
+- Gimeno, Julio. "Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820." *Roseta*, n.º 0. Madrid: Sociedad Española de la Guitarra, 2007, pp. 44-62.  
+- Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.  
 - Jeffery, Brian. "Guitar Review," n. 39 (1974).  
-- Mangado, Josep María. "Sor, Fernando." En *Enciclopedia de Francisco Herrera*. 2004.  
-- Radole, Giuseppe. *Laúd, guitarra y vihuela*. 1982.  
+- Mangado, Josep María. "Sor, Fernando." En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.  
+- Radole, Giuseppe. *Laúd, guitarra y vihuela. Historia y literatura*. Barcelona: EDB (Editorial Don Bosco), 1982.  
 - Romanillos, José Luis. "Dionisio Aguado. The Man." *Guitar International* 12, n. 9 (1984).  
-- Rosen, Charles. *The Classical Style*. 1971.  
+- Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.  
 - Suárez Pajares, Javier. "Sor y Aguado en la tradición guitarrística española." *Cuadernos de música y teatro* (1990).  
-- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. 1976.  
-- Wade, Graham. *Traditions of the Classical Guitar*. 1982.  
+- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.  
+- Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.  

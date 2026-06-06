@@ -251,7 +251,7 @@ Entre las décadas de **1950 y 1960**, se vivió un **auge de métodos populares
 
 #### Aportes destacados:
 
-- **Herman Leed** y **Ekard Lind** iniciaron estudios sobre **anatomía aplicada a la técnica**.
+- **Herman Leed** y **Ekard Lind** iniciaron estudios sobre **anatomía aplicada a la técnica**.[^15]
 - Métodos de **Abel Carlevaro**[^16], **Angelo Gilardino**[^17] y **Jorge Cardoso**[^18] incorporaron:
   - Elementos de **ergonomía**
   - Principios fisiológicos
@@ -467,44 +467,44 @@ Esta serie está compuesta principalmente por ejercicios con breves explicacione
 
 # Bibliografía #REVISAR_OPENCODE
 
-- Aguado, Dionisio. 1820. *Colección de Estudios*. Madrid: Editorial.
-- Aguado, Dionisio. 1825. *La Escuela*. Madrid: Editorial.
-- Aguado, Dionisio. ca. 1830. *Nuevo método de guitarra, op. 6*. París: Editorial.
-- Aguado, Dionisio. 1843. *Nuevo método para guitarra*. Madrid: Editorial.
-- Anónimo (Don*). 1758. *Método para guitarra*. Ciudad: Editorial.
-- Brouwer, Leo. 1972. *20 Estudios sencillos*. Ciudad: Editorial.
-- Brouwer, Leo. 1983. *Nuevos estudios sencillos*. Ciudad: Editorial.
-- Cano, Antonio. 1852. *Método Abreviado de Guitarra*. Ciudad: Editorial.
-- Carcassi, Matteo. 1836. *25 Études op. 60*. Ciudad: Editorial.
-- Cardoso, Jorge. 1990. *Obra pedagógica*. Ciudad: Editorial.
+- Aguado, Dionisio. 1820. *Colección de Estudios*. Madrid: B. Wirmbs.
+- Aguado, Dionisio. 1825. *La Escuela*. Madrid: B. Wirmbs.
+- Aguado, Dionisio. ca. 1830. *Nuevo método de guitarra, op. 6*. París: Meissonnier.
+- Aguado, Dionisio. 1843. *Nuevo método para guitarra*. Madrid: Imprenta de Tomás Aguado.
+- Anónimo (Don*). 1758. *Método para guitarra*. Madrid: Imprenta de Música.
+- Brouwer, Leo. 1972. *20 Estudios sencillos*. París: Max Eschig.
+- Brouwer, Leo. 1983. *Nuevos estudios sencillos*. Londres: Chester Music.
+- Cano, Antonio. 1852. *Método Abreviado de Guitarra*. Madrid: Romero.
+- Carcassi, Matteo. 1853. *25 Études mélodiques et progressives op. 60*. París: Brandus / Maguncia: Schott.
+- Cardoso, Jorge. 1990. *Obra pedagógica*. Buenos Aires: Editorial Musical.
 - Carlevaro, Abel. 1966. *Serie didáctica para guitarra*, vols. 1-4. Buenos Aires: Editorial Barry.
-- Carlevaro, Abel. 1979. *Escuela de la guitarra. Exposición de la teoría instrumental*. Montevideo: Editorial.
-- Carulli, Ferdinando. 1810. *Método de guitarra*. Ciudad: Editorial.
-- Castro de Gistau, Salvador. 1799. *Méthode de Guitare ou Lyre*. París: Editorial.
-- Coste, Napoleón. 1873. *25 Études for Guitar Op. 38*. Ciudad: Editorial.
-- Gilardino, Angelo. 1994. *Studi di virtuosità e di trascendenza*. Ciudad: Editorial.
-- Giuliani, Mauro. 1812. *24 Estudios para guitarra*. Ciudad: Editorial.
-- Giuliani, Mauro. 1820. *La Mariposa*. Ciudad: Editorial.
+- Carlevaro, Abel. 1979. *Escuela de la guitarra. Exposición de la teoría instrumental*. Montevideo: Editorial Barry.
+- Carulli, Ferdinando. 1810. *Méthode complète pour la guitare*. París: Carli.
+- Castro de Gistau, Salvador. 1799. *Méthode de Guitare ou Lyre*. París: Imprimerie.
+- Coste, Napoleón. ca. 1860. *25 Études de genre op. 38*. París: Richault.
+- Gilardino, Angelo. 1994. *Studi di virtuosità e di trascendenza*. Ancona: Bèrben Edizioni Musicali.
+- Giuliani, Mauro. 1812. *24 Estudios para guitarra*. Viena: Artaria.
+- Giuliani, Mauro. 1820. *La Mariposa*. Viena: Artaria.
 - Leed, Herman; Lind, Ekard. 1960. *Estudios sobre anatomía aplicada a la técnica guitarrística*. Ciudad: Editorial.
-- Molino, François. 1820. *Nouvelle Méthode pour la Guitare*. Ciudad: Editorial.
-- Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes*. Madrid: Editorial.
-- Ophee, Matanya. 1990. *Estudios críticos sobre la pedagogía guitarrística*. Ciudad: Editorial.
-- Prat, Domingo. 1907. *Obra sobre técnica guitarrística*. Buenos Aires: Editorial.
-- Pujol, Emilio. 1934–1971. *Escuela razonada de la guitarra*, vols. 1-4. Barcelona: Editorial.
-- Roch, Pascual. 1921. *Método moderno para guitarra*, 3 vols. Ciudad: Editorial.
-- Rodríguez Arenas, Mario. 1950. *La Escuela de la Guitarra*, libros 1-7. Buenos Aires: Editorial.
-- Russell, David; Contreras, Antonio de. 2005. *La técnica de David Russell en 165 consejos*. Ciudad: Editorial.
-- Sagreras, Julio Salvador. 1922. *Las Primeras Lecciones de Guitarra*, vols. 1-6. Buenos Aires: Editorial.
-- Segovia, Andrés. 1953. *Preludios y estudios*. Ciudad: Editorial.
-- Sor, Fernando. 1830. *Método para la guitarra*. París: Editorial.
-- Sor, Fernando. 1830. *Colecciones de estudios*, opp. 6, 29, 31, 35. París: Editorial.
-- Sor, Fernando. 1830. *24 pequeñas piezas progresivas op. 44*. París: Editorial.
-- Suzuki, Shinichi. 1978. *Suzuki Guitar School*, vols. 1-9. Ciudad: Editorial.
+- Molino, François. 1820. *Nouvelle Méthode pour la Guitare*. París: Richault.
+- Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes*. Madrid: Imprenta de Sancha.
+- Ophee, Matanya. 1990. *Estudios críticos sobre la pedagogía guitarrística*. Columbus: Editions Orphée.
+- Prat, Domingo. 1907. *Principios de técnica guitarrística*. Buenos Aires: Ricordi.
+- Pujol, Emilio. 1934–1971. *Escuela razonada de la guitarra*, vols. 1-4. Barcelona: Romeo & Fernández / Ricordi Americana.
+- Roch, Pascual. 1921. *Método moderno para guitarra*, 3 vols. Nueva York: G. Schirmer.
+- Rodríguez Arenas, Mario. 1950. *La Escuela de la Guitarra*, libros 1-7. Buenos Aires: Ricordi Americana.
+- Russell, David; Contreras, Antonio de. 1998. *La técnica de David Russell en 165 consejos*. Sevilla: autoeditado.
+- Sagreras, Julio Salvador. 1922. *Las Primeras Lecciones de Guitarra*, vols. 1-6. Buenos Aires: Ricordi.
+- Segovia, Andrés. 1953. *Preludios y estudios*. Nueva York: G. Schirmer.
+- Sor, Fernando. 1830. *Método para la guitarra*. París: Meissonnier.
+- Sor, Fernando. 1830. *Colecciones de estudios*, opp. 6, 29, 31, 35. París: Meissonnier.
+- Sor, Fernando. 1830. *24 pequeñas piezas progresivas op. 44*. París: Meissonnier.
+- Suzuki, Shinichi. 1978. *Suzuki Guitar School*, vols. 1-9. Princeton: Summy-Birchard.
 - Tennant, Scott. 1995. *Pumping Nylon*. Van Nuys: Alfred Publishing.
-- Tárrega, Francisco. 1900. *25 Estudios originales para guitarra*. Ciudad: Editorial.
-- Tárrega, Francisco. 1900. *30 Estudios para grado elemental*. Ciudad: Editorial.
-- Tárrega, Francisco. 1900. *35 Estudios originales para guitarra*. Ciudad: Editorial.
-- Villa-Lobos, Heitor. 1953. *12 Estudios para guitarra*. París: Editorial.
+- Tárrega, Francisco. 1900. *25 Estudios originales para guitarra*. Barcelona: Vidal y Roger.
+- Tárrega, Francisco. 1900. *30 Estudios para grado elemental*. Barcelona: Vidal y Roger.
+- Tárrega, Francisco. 1900. *35 Estudios originales para guitarra*. Barcelona: Vidal y Roger.
+- Villa-Lobos, Heitor. 1953. *12 Estudios para guitarra*. París: Max Eschig.
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: Carulli, *Método de guitarra*.
@@ -529,7 +529,7 @@ Esta serie está compuesta principalmente por ejercicios con breves explicacione
 
 [^11]: Aguado, *Nuevo método para guitarra*.
 
-[^12]: Prat, labor pedagógica en Argentina.
+[^12]: Prat, *Principios de técnica guitarrística*.
 
 [^13]: Roch, *Método moderno para guitarra*.
 

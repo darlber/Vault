@@ -1,4 +1,4 @@
-# El repertorio de laúd renacentista, su estilo y notación
+# Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
 ## Índice:
 1. [Introducción](#Introducción)
    1. [Características del laúd renacentista](#Características%20del%20laúd%20renacentista)
@@ -73,20 +73,7 @@
 - Música para acompañamiento de la voz
 
 ==La procedencia de estas obras solía ser **Italia, Francia, Alemania, Inglaterra o Países Bajos**.==
-### Estilo #REVISAR_OPENCODE
 
-==El **estilo** del repertorio laudístico renacentista se caracteriza por su estrecha relación con la **música vocal polifónica**. La práctica de la **intabulación** —transcripción de obras vocales (motetes, chansons, frottolas) a la tablatura del laúd— fue el punto de partida de toda la literatura instrumental del siglo XVI. Al transferir las voces al instrumento, los laudistas desarrollaron una **textura polifónica propia**, donde la conducción de las voces se adaptaba a las posibilidades técnicas del laúd, especialmente al característico intervalo de **tercera mayor** entre el tercer y cuarto orden.==
-
-==Gustave Reese[^3] sitúa la práctica de la intabulación como el origen de la música instrumental renacentista, señalando que los laudistas no se limitaron a copiar pasivamente las obras vocales, sino que las adaptaron creativamente a las posibilidades del instrumento.==
-
-==Un aspecto fundamental del estilo laudístico es la **ornamentación**. Los tratados de la época, como el de Diego Ortiz[^4] (1553) o el de Tomás de Santa María[^5] (1565), documentan las prácticas de glosado y disminución que los intérpretes aplicaban a las obras. Brown[^6] ha estudiado en profundidad estas prácticas ornamentales en el contexto de la música del siglo XVI, demostrando su importancia para la interpretación historicista.==
-
-==La **armonía** del repertorio laudístico refleja la transición de la **modalidad renacentista** a los albores de la **tonalidad barroca**. Lowinsky[^7] señala que la diversidad estilística del repertorio laudístico refleja precisamente esta transición, con obras que oscilan entre el riguroso contrapunto imitativo y texturas más acordales.==
-
-==Ian Harwood[^8] ha estudiado la evolución del instrumento a lo largo del siglo XVI, mientras que Diana Poulton[^9] ha analizado en profundidad la técnica laudística renacentista, aportando claves esenciales para la interpretación.==
-## Lectura #REVISAR_OPENCODE
-
-==La **lectura** de las tablaturas renacentistas requiere un conocimiento específico de los sistemas de notación empleados en cada escuela nacional. J. Tyler[^10] ofrece una guía práctica para la lectura de tablaturas antiguas, mientras que G. Arriaga[^11] aborda los criterios de transcripción y edición de la música renacentista para guitarra moderna. Turnbull[^12] también ofrece claves interpretativas para la música renacentista aplicadas a la guitarra.==
 # Escuelas nacionales. Autores
 ## Escuela de Italia
 ==La primera publicación de obras para laúd se realizó en **Italia** y el autor fue el editor **Ottaviano Petrucci (1466-1539)**, quien publicó seis colecciones entre 1507 y 1511. Este país fue el más prolífico en la publicación de obras para laúd durante el siglo XVI.==
@@ -219,8 +206,23 @@
 
 - **Jean Mattelart**
 - **Emmanuel Adriaenssen**, considerado el **mayor laudista flamenco**
-# Notación
-==Como estudió Willi Apel[^13], existieron diferentes sistemas de notación para el laúd renacentista, siendo los más importantes la **italiana, la francesa y la alemana**.==
+
+# Estilo y notación
+
+### Estilo #REVISAR_OPENCODE
+
+==El **estilo** del repertorio laudístico renacentista se caracteriza por su estrecha relación con la **música vocal polifónica**. La práctica de la **intabulación** —transcripción de obras vocales (motetes, chansons, frottolas) a la tablatura del laúd— fue el punto de partida de toda la literatura instrumental del siglo XVI. Al transferir las voces al instrumento, los laudistas desarrollaron una **textura polifónica propia**, donde la conducción de las voces se adaptaba a las posibilidades técnicas del laúd, especialmente al característico intervalo de **tercera mayor** entre el tercer y cuarto orden.==
+
+==Gustave Reese[^3] sitúa la práctica de la intabulación como el origen de la música instrumental renacentista, señalando que los laudistas no se limitaron a copiar pasivamente las obras vocales, sino que las adaptaron creativamente a las posibilidades del instrumento.==
+
+==Un aspecto fundamental del estilo laudístico es la **ornamentación**. Los tratados de la época, como el de Diego Ortiz[^4] (1553) o el de Tomás de Santa María[^5] (1565), documentan las prácticas de glosado y disminución que los intérpretes aplicaban a las obras. Brown[^6] ha estudiado en profundidad estas prácticas ornamentales en el contexto de la música del siglo XVI, demostrando su importancia para la interpretación historicista.==
+
+==La **armonía** del repertorio laudístico refleja la transición de la **modalidad renacentista** a los albores de la **tonalidad barroca**. Lowinsky[^7] señala que la diversidad estilística del repertorio laudístico refleja precisamente esta transición, con obras que oscilan entre el riguroso contrapunto imitativo y texturas más acordales.==
+
+==Ian Harwood[^8] ha estudiado la evolución del instrumento a lo largo del siglo XVI, mientras que Diana Poulton[^9] ha analizado en profundidad la técnica laudística renacentista, aportando claves esenciales para la interpretación.==
+
+### Notación: tablaturas
+==Como estudió Willi Apel[^10], existieron diferentes sistemas de notación para el laúd renacentista, siendo los más importantes la **italiana, la francesa y la alemana**.==
 
 - La explicación de las tablaturas **italiana y francesa** se encuentra en el **Tema 10**.
 - La **tablatura alemana** fue la menos utilizada de las tres, principalmente porque:
@@ -260,6 +262,11 @@
 
 - Se **agrupaban mediante trazos horizontales**
 - Los **compases** se definían mediante **barras divisorias**
+
+# Lectura #REVISAR_OPENCODE
+
+==La **lectura** de las tablaturas renacentistas requiere un conocimiento específico de los sistemas de notación empleados en cada escuela nacional. J. Tyler[^11] ofrece una guía práctica para la lectura de tablaturas antiguas, mientras que G. Arriaga[^12] aborda los criterios de transcripción y edición de la música renacentista para guitarra moderna. Turnbull[^13] también ofrece claves interpretativas para la música renacentista aplicadas a la guitarra.==
+
 # Criterios de transcripción y edición
 ==Si analizamos detenidamente, vemos que tanto la **técnica de la mano derecha del laúd del siglo XVI**, como el **estilo compositivo, formas y ornamentación**, son muy parecidos a los de la **vihuela**.  
 Es decir, el planteamiento técnico y estilístico **varía muy poco**.  
@@ -298,19 +305,19 @@ Peter Martin[^14] ofrece pautas específicas para la interpretación de música 
 # Bibliografía #REVISAR_OPENCODE
 
 - Apel, Willi. 1942. *The Notation of Polyphonic Music, 900–1600*. Cambridge: Mediaeval Academy of America.
-- Arriaga, Gerardo. 1992. *La guitarra renacentista: transcripción y edición*. Ciudad: Editorial.
-- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Editorial.
+- Arriaga, Gerardo. 1991. «La guitarra renacentista». En *La Guitarra Española / The Spanish Guitar*, 63-67. Madrid: Ópera Tres.
+- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Juan de León.
 - Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Oxford: Oxford University Press.
-- Harwood, Ian. 1975. *A Brief History of the Lute*. Ciudad: Editorial.
+- Harwood, Ian; Prynne, Michael. 1975. *A Brief History of the Lute*. Richmond: Lute Society.
 - Lowinsky, Edward E. 1961. *Tonality and Atonality in 16th Century Music*. Berkeley: University of California Press.
-- Macleod-Coupe, Philip. 1978. *Lute Construction*. Ciudad: Editorial.
-- Martin, Peter. 2006. *Interpretación de música para laúd en guitarra. Parte I*. Ciudad: Editorial.
-- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Editorial.
-- Poulton, Diana. 1981. *Lute Playing Technique*. Ciudad: Editorial.
+- Macleod-Coupe, Philip. 1978. *Lute Construction*. s.l.: edición del autor.
+- Martin, Peter. 2006. «Interpretación de música para laúd en guitarra. Parte I». *Classical Guitar Magazine*.
+- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Valerio Dorico.
+- Poulton, Diana. 1981. *Lute Playing Technique*. London: The Lute Society (Lute Society Booklet, 5).
 - Reese, Gustave. 1954. *Music in the Renaissance*. Nueva York: W. W. Norton.
-- Roche, Jerome; Roche, Elizabeth. 1981. *A Dictionary of Early Music*. Ciudad: Editorial.
-- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Editorial.
-- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
+- Roche, Jerome; Roche, Elizabeth. 1981. *A Dictionary of Early Music: From the Troubadours to Monteverdi*. Oxford: Oxford University Press.
+- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Francisco Fernández de Córdoba.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: B. T. Batsford.
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
 
 # NOTAS #REVISAR_OPENCODE
@@ -333,13 +340,13 @@ Peter Martin[^14] ofrece pautas específicas para la interpretación de música 
 
 [^9]: Poulton, *Lute Playing Technique*.
 
-[^10]: Tyler, *The Early Guitar*.
+[^10]: Apel, *The Notation of Polyphonic Music*.
 
-[^11]: Arriaga, *La guitarra renacentista: transcripción y edición*.
+[^11]: Tyler, *The Early Guitar*.
 
-[^12]: Turnbull, *The Guitar from the Renaissance to the Present Day*.
+[^12]: Arriaga, *La guitarra renacentista: transcripción y edición*.
 
-[^13]: Apel, *The Notation of Polyphonic Music*.
+[^13]: Turnbull, *The Guitar from the Renaissance to the Present Day*.
 
 [^14]: Martin, *Interpretación de música para laúd en guitarra. Parte I*.
 

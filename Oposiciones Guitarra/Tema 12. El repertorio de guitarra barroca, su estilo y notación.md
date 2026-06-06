@@ -1,8 +1,8 @@
-# El repertorio de guitarra barroca, su estilo y notación
+# Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
 ## Índice
 1. [Introducción](#Introducción)
 2. [Afinación](#Afinación)
-3. [El repertorio de guitarra barroca: su estilo y notación](#El%20repertorio%20de%20guitarra%20barroca%20su%20estilo%20y%20notación)
+3. [Repertorio y estilo](#Repertorio%20y%20estilo)
    1. [Formas compositivas](#Formas%20compositivas)
    2. [Estilo](#Estilo)
 4. [Escuelas nacionales](#Escuelas%20nacionales)
@@ -49,7 +49,8 @@
 - Estilo mixto.  
 - Punteado.  
 - Rasgueado, que poco a poco fue perdiendo importancia.
-# Afinación
+
+## Afinación
 ==Aunque la mayoría de guitarristas lo tenían claro y preferían una **prima sencilla** y las demás dobles, afinadas con **la-re-sol-si-mi**, muchos italianos (s. XVII) no lo tenían tan claro. Prácticamente sólo conservamos algunos testimonios que dan vagos esbozos en cuanto a la afinación por **cuartas justas** y una **tercera mayor** entre los órdenes tercero y segundo.  ==
 
 ==Sin embargo, hubo autores que fueron más precisos, como **Giloramo Montesardo**, que describió de forma exacta el número de cuerdas y las octavas en su *Nuova inventione* (1606).  ==
@@ -61,7 +62,8 @@
 
 ==Por lo tanto, se emplearon una gran diversidad de afinaciones, pero generalizando podemos deducir que las **tres más empleadas** fueron:==
 ![](attachments/{42A71911-872D-42BB-B355-059C98BE1EC3}.png)
-# El repertorio de guitarra barroca: su estilo y notación
+
+# Repertorio y estilo
 ==La guitarra barroca en sus comienzos fue considerada un instrumento **humilde y popular**. El estilo habitual de tocar esta guitarra era al **estilo rasgueado o rasgado**, y se utilizaba mayoritariamente para **acompañar la voz**, ejecutando acordes sencillos.  ==
 
 ==Sin embargo, poco a poco se fue introduciendo la guitarra **punteada**, que consistía en tocar pequeñas melodías de canciones y danzas. La evolución del anterior estilo hizo que en la guitarra barroca se estableciese un nuevo sistema de enseñanza que se denominaría **«estilo punteado»**.  ==
@@ -253,6 +255,7 @@ La obra está ordenada en tres tomos y recoge:  ==
 - **Robert de Visée** (Francia)  
 
 ==Todos ellos fueron muy prolíficos y mantuvieron a la guitarra barroca en un lugar destacado dentro de la música europea.==
+
 # Notación: tablaturas
 
 ==Durante el período barroco, la **tablatura** fue el método de escritura por excelencia para la guitarra. Apel[^11] estudió la notación de este período y distingue dos sistemas principales: la **tablatura italiana** y la **tablatura francesa**.==
@@ -261,7 +264,7 @@ La obra está ordenada en tres tomos y recoge:  ==
 
 ==La tablatura italiana representa las cuerdas mediante **líneas horizontales**, donde la **línea inferior** es la primera cuerda. Los trastes se indican con **números** (0 al aire, 1 primer traste, etc.) y los ritmos con figuras sobre el pentagrama superior. En el estilo rasgueado, los acordes se representan mediante letras del **alfabeto** (A, B, C...) que corresponden a posiciones predefinidas de la mano izquierda.==
 
-#### Características principales:
+#### Características principales
 
 - Los instrumentos tenían entre **diez y doce trastes**, indicados con números (hasta 10) y números romanos (a partir de 11).
 - El número de **líneas** dependía de los órdenes (cinco para la guitarra barroca).
@@ -279,7 +282,7 @@ La obra está ordenada en tres tomos y recoge:  ==
 
 ==Al final del Barroco se impuso la **escritura de estilo mixto**, híbrido entre la tablatura italiana de punteado más el alfabeto italiano de rasgueado, y la tablatura francesa de punteado más el alfabeto italiano. De esta forma surgieron tres nuevas escrituras: italiana mixta con acordes alfabeto, francesa mixta sin alfabeto y escritura pentagramática.==
 
-## Lectura
+# Lectura
 
 ==Turnbull[^12] ofrece una visión general del repertorio guitarrístico desde el Renacimiento hasta la actualidad. Tyler[^13] se centra en los primeros métodos y fuentes de la guitarra barroca. Arriaga[^14] completa el panorama con un estudio sobre la literatura del instrumento.==
 

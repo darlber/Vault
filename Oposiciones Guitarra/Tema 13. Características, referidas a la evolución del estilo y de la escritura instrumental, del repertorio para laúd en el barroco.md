@@ -337,16 +337,16 @@ Se tratarán las obras **seguras** de Bach para laúd, conocidas por sus manuscr
 - **1727**: *Oda Funeral para la Reina Cristine Eberhardine*, BWV 198  
 - **1729**: Primera versión de la *Pasión según San Mateo*  
 # Bibliografía
-#TODO
-- Boyd, Malcolm. _Bach_. 2006.
-- Cherici, Paolo. _Opere Complete per liuto di J.S. Bach_. 1980.
-- Chiesa, Ruggero. _Intavolatura di liuto di Sylvius Leopold Weiss_. 1967.
-- Harwood, Ian. _A Brief History of the Lute_. 1975.
-- Kehr, Günter. _La obra para violín solo de J.S. Bach_. 1979.
-- Macleod-Coupe, Philip. _Lute Construction_. 1978.
-- Martinez Miura, Enrique. _Bach: Obra Completa Comentada_. 1998.
-- Poulton, Diana. _Lute Playing Technique_. 1981.
-- Roche, Jerome, and Elizabeth Roche. _A Dictionary of Early Music_. 1981.
-- Rojo, José Luis. _La música de laúd en la guitarra: una aproximación práctica_. 2004.
-- Tureck, Rosalyn. _Introducción a la interpretación de J.S. Bach_. 1980.
-- Wolff, Christoph. _Johann Sebastian Bach: El Músico Sabio_. 2008.
+
+- Boyd, Malcolm. 2006. *Bach*. 3.ª ed. Oxford: Oxford University Press.
+- Cherici, Paolo, ed. 1980. *Opere Complete per liuto di J.S. Bach*. Milano: Suvini Zerboni.
+- Chiesa, Ruggero, ed. 1969. *Intavolatura di liuto di Sylvius Leopold Weiss*. Milano: Suvini Zerboni.
+- Harwood, Ian; Prynne, Michael. 1975. *A Brief History of the Lute*. Richmond: Lute Society.
+- Kehr, Günter. 1979. *La obra para violín solo de J.S. Bach*. Mainz: s.e.
+- Macleod-Coupe, Philip. 1978. *Lute Construction*. s.l.: edición del autor.
+- Martínez Miura, Enrique. 1997. *Bach: Obra Completa Comentada*. Barcelona: Ediciones Península.
+- Poulton, Diana. 1981. *Lute Playing Technique*. London: The Lute Society.
+- Roche, Jerome; Roche, Elizabeth. 1981. *A Dictionary of Early Music: From the Troubadours to Monteverdi*. Oxford: Oxford University Press.
+- Rojo, José Luis. 2004. «La música de laúd en la guitarra: una aproximación práctica». *Guitarra Artepulsado*. http://guitarra.artepulsado.com/guitarra/laud1.htm.
+- Tureck, Rosalyn. 1980. *Introducción a la interpretación de J.S. Bach*. Madrid: Alpuerto.
+- Wolff, Christoph. 2008. *Johann Sebastian Bach: El Músico Sabio*. Barcelona: Ma Non Troppo.
