@@ -1,4 +1,4 @@
-﻿﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
+﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
 ## Índice:
 1. [Historia general de la guitarra: orígenes y antecedentes](#Historia%20general%20de%20la%20guitarra%20orígenes%20y%20antecedentes)
 	1. [Introducción](#Introducción)  
@@ -41,7 +41,7 @@ Sus características eran:
 
 # Evolución histórica desde sus orígenes hasta nuestros días
 - La guitarra tiene una evolución estrechamente ligada a la vihuela, instrumento predominante en la música culta del Renacimiento con un amplio repertorio.[^6]
-- El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.
+- El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. #frase_sin_source (corrección: no es una vihuela —instrumento renacentista ya en desuso para 1759— sino una guitarra de seis órdenes de transición; las fuentes la clasifican como el primer instrumento conocido con varetaje en abanico #frase_revisar_opencode #comprobado) Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.
 - Este sistema fue adoptado por otros constructores como Pagés (1777), y se difundió desde Cádiz y Málaga hacia Madrid a principios del siglo XIX.
 - Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de «guitarra española», coexistiendo[^7] guitarras de cinco y seis órdenes hasta el siglo XVIII.
 - En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.[^8]
