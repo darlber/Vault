@@ -68,7 +68,7 @@ Gracias a su debut y éxito en Milán, posteriormente tuvo una gran actividad co
 
 Giuliani es otro guitarrista que no podía faltar. Al igual que Legnani, nació y murió en Italia (Bisceglie 1781 – Nápoles 1829) y fue el primero de los virtuosos italianos que tuvo como destino Viena (poco sabemos de su vida anterior a este hecho). Allí la música instrumental floreció gracias a Mozart, Haydn y Beethoven (tal fue la fama de Giuliani, que en 1808 Beethoven asistió a uno de sus conciertos)[^7].
 
-En Viena pudo dejar el mecenazgo y ser independiente, creando su propio público (un público que le acogió como un artista que se dedica únicamente a la guitarra). Gracias a Giuliani, cuyas composiciones eran de mayor calidad que las de sus contemporáneos italianos, en Viena se amaba la guitarra y era considerada semejante a cualquier otro instrumento. Se le atribuye el mérito de haber contribuido decisivamente a la normalización de la notación guitarrística, incorporando con precisión los valores rítmicos reales y superando las convenciones heredadas del siglo XVIII en las que la duración de las notas quedaba a menudo implícita[^8].
+En Viena pudo dejar el mecenazgo y ser independiente, creando su propio público (un público que le acogió como un artista que se dedica únicamente a la guitarra). Gracias a Giuliani, cuyas composiciones eran de mayor calidad que las de sus contemporáneos italianos, en Viena se amaba la guitarra y era considerada semejante a cualquier otro instrumento. Se le atribuye el mérito de haber perfeccionado la escritura, ya que antes de él era anotada de forma primitiva parecida a la tablatura, y con él se le añaden los valores reales de la duración de los sonidos #frase_sin_source (corrección: Giuliani contribuyó decisivamente a la normalización de la notación, incorporando valores rítmicos precisos y superando convenciones del s. XVIII; la notación previa no era «primitiva parecida a la tablatura» (Moretti 1799, Sor ya usaban notación mensural) #frase_revisar_opencode #comprobado)[^8].
 
 En sus obras vemos cómo la línea del canto y del bajo son siempre evidentes. Por otra parte, la armonía central (sobre todo cuando va en arpegios) es expresada unida al canto o al bajo. Emplea melodías amplias que hacen correr la mano izquierda por varias regiones del mástil repentinamente; la armonía de base se disuelve reduciéndose a un solo bajo.
 
@@ -80,7 +80,7 @@ En cuanto a sus círculos de conocidos y relaciones profesionales, debemos menci
 
 #### Nicolo Paganini
 
-Nicolo Paganini es el compositor más famoso que, siendo ante todo un virtuoso del violín, cultivó también la guitarra con un dominio nada desdeñable; de hecho, sus contemporáneos lo describen como un «formidable virtuoso de la guitarra» (Gruenfield)[^9] y su producción para el instrumento alcanza las 200 obras. Era contemporáneo de Sor, ya que nació en Génova en 1782 y falleció en 1840 en Niza. Realizó una gran producción de piezas que involucraban a la guitarra, fuera para guitarra sola o música de cámara (dúos, tríos y cuartetos), y esta producción consta de 200 obras.
+Nicolo Paganini es el compositor más famoso no-guitarrista (aunque sabía tocarla, no era un virtuoso) #frase_sin_source (corrección: Paganini cultivó también la guitarra con dominio nada desdeñable; sus contemporáneos lo describen como «formidable virtuoso de la guitarra» (Gruenfield) #frase_revisar_opencode #comprobado) Era contemporáneo de Sor, ya que nació en Génova en 1782 y falleció en 1840 en Niza. Realizó una gran producción de piezas que involucraban a la guitarra, fuera para guitarra sola o música de cámara (dúos, tríos y cuartetos), y esta producción consta de 200 obras.
 
 #### Giulio Regondi
 
@@ -141,7 +141,7 @@ En Austria podemos ver cómo coincidió la caída del laúd con el ascenso de la
 
 #### Franz Schubert
 
-Schubert nació y murió en Viena (1797-1828), el centro musical de los siglos XVIII y XIX, y fue un gran compositor de lieder. Mantuvo una relación con la guitarra documentada en el *Terzetto* D. 80 para tres voces masculinas y guitarra (1813) y en la adaptación del trío de Matiegka al que Schubert añadió una parte de violonchelo (1814)[^14]. La leyenda de que *Die Winterreise* fue compuesto con guitarra carece de evidencia documental sólida; las ediciones con acompañamiento de guitarra de sus lieder fueron iniciativas editoriales, no del compositor.
+Schubert nació y murió en Viena (1797-1828), el centro musical de los siglos XVIII y XIX, y fue un gran compositor de lieder (composiciones cortas para voz y piano). Pero sabemos que además mantuvo una relación estrecha con la guitarra, porque el ciclo de lieder *Die Winterreise* fue compuesto sirviéndose de este instrumento #frase_sin_source (corrección: la relación de Schubert con la guitarra está documentada en el *Terzetto* D. 80 (1813) y en la adaptación del trío de Matiegka (1814); no hay evidencia de que compusiera *Winterreise* con guitarra #frase_revisar_opencode #comprobado)
 
 #### Anton Diabelli
 
@@ -237,7 +237,7 @@ Escribió mucha música para guitarra sola y música de cámara, además de un m
 
 ==Carulli, en su *Méthode complète pour la guitare* (1810), utiliza una notación clara pero esquemática: las indicaciones de digitación son escasas y las dinámicas se limitan a los signos básicos (*p*, *f*). Su escritura se basa en bloques armónicos arpegiados, sin la separación de voces que caracteriza a la escuela española de Moretti y Sor.==
 
-==Giuliani marca un punto de inflexión en la evolución de la notación. Su tratamiento rítmico preciso, con puntillos, ligaduras de prolongación y silencios completivos, permite una lectura rítmica inequívoca y supera las convenciones del siglo XVIII en las que la duración de las notas quedaba a menudo implícita[^19].==
+==Se le atribuye el mérito de haber perfeccionado la escritura guitarrística al incorporar los valores reales de duración de los sonidos, superando la notación primitiva heredada de la tablatura que aún perduraba a principios del siglo XIX #frase_sin_source (corrección: Giuliani marcó un punto de inflexión con su tratamiento rítmico preciso —puntillos, ligaduras, silencios completivos— que permite lectura inequívoca; la notación anterior no era «primitiva parecida a la tablatura» (Moretti 1799, Sor ya usaban notación mensural) #frase_revisar_opencode #comprobado)[^19].==
 
 ==La escritura de Giuliani muestra siempre una clara diferenciación entre la línea del canto y el bajo, con la armonía central expresada mediante arpegios que se unen al canto o al bajo. Esta textura a tres planos (melodía, armonía arpegiada, bajo) constituye el modelo de escritura guitarrística del Romanticismo y será adoptada por la mayoría de los compositores del siglo XIX.==
 

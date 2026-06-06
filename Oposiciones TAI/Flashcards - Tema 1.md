@@ -11,7 +11,6 @@ Dónde reside la soberanía nacional::En el pueblo español
 <!--SR:!2026-06-07,3,250-->
 
 Forma política del Estado español::Monarquía parlamentaria
-<!--SR:!2026-06-09,4,270-->
 
 En qué se basa la Constitución según Art. 2::En la indisoluble unidad de la Nación española
 <!--SR:!2026-06-07,3,250-->
@@ -85,13 +84,11 @@ Principio del Art. 25::Principio de legalidad penal; penas orientadas a reinserc
 <!--SR:!2026-06-07,3,250-->
 
 Prohibición del Art. 26::Tribunales de Honor en administración civil y organizaciones profesionales
-<!--SR:!2026-06-06,1,230-->
 
 Características de la educación básica (Art. 27)::Obligatoria y gratuita
 <!--SR:!2026-06-07,3,250-->
 
 Colectivos con limitación al derecho de huelga::FFAA y cuerpos disciplinados (Art. 28)
-<!--SR:!2026-06-08,3,250-->
 
 Cómo se ejerce el derecho de petición (Art. 29)::Por escrito, individual o colectivamente
 <!--SR:!2026-06-07,3,250-->
@@ -129,16 +126,13 @@ Derecho del Art. 47::Vivienda digna; se evitará la especulación del suelo
 <!--SR:!2026-06-07,3,250-->
 
 Políticas para personas con discapacidad (Art. 49)::Integración y accesibilidad
-<!--SR:!2026-06-09,4,270-->
 
 Garantías para la tercera edad (Art. 50)::Suficiencia económica y servicios sociales específicos
-<!--SR:!2026-06-09,4,270-->
 
 Derechos de consumidores y usuarios (Art. 51)::Seguridad, salud e intereses económicos
 <!--SR:!2026-06-07,3,250-->
 
 Art. 30.4 CE: Deberes en casos de grave riesgo::Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública
-<!--SR:!2026-06-09,4,270-->
 
 ## Capítulo IV: Garantías de derechos fundamentales
 
@@ -165,7 +159,6 @@ Orden de sucesión al trono::Primogenitura y representación, con preferencia de
 <!--SR:!2026-06-07,3,250-->
 
 Quién regula las vacantes o conflictos sucesorios::Las Cortes Generales mediante ley orgánica
-<!--SR:!2026-06-06,1,230-->
 
 Qué no puede hacer la Reina consorte::Asumir funciones constitucionales, salvo regencia (Art. 58)
 <!--SR:!2026-06-07,3,250-->
