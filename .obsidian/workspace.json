@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -202,12 +202,10 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cb72182473f8e88d",
+  "active": "0e30d813145d5b6a",
   "lastOpenFiles": [
     "osint_ct.md",
     "Oposiciones TAI/Tema 13. Sistemas operativos.md",
