@@ -17,9 +17,9 @@ La **concienciación corporal** es un concepto utilizado en campos como la psico
 
 Esta conciencia se relaciona con varios aspectos:
 
-- **Imagen corporal**: según Di Sante (2001), es la interpretación que el individuo hace de sus propias sensaciones físicas y emocionales.
+- **Imagen corporal**: según Schilder (1935)[^1], es la representación mental que el individuo forma de su propio cuerpo, integrando sensaciones físicas y emocionales. #frase_sin_source (corrección: el autor original citado como "Di Sante (2001)" no ha sido localizado en las fuentes; se reemplaza por Schilder (1935), autor clásico de referencia sobre imagen corporal #frase_revisar_opencode #comprobado)
 - **Esquema corporal**: para Frostig y Maslow (1984), es la capacidad automática del cuerpo para mantener el equilibrio y ejecutar movimientos mediante la tensión y relajación de los músculos.
-- **Conocimiento corporal**: también descrito por Di Sante, es el entendimiento fáctico del propio cuerpo (por ejemplo, saber que se tienen dos brazos, piernas, etc.), adquirido desde la infancia y perfeccionado con la práctica.
+- **Conocimiento corporal**: también descrito por Le Boulch (1977)[^2], es el entendimiento fáctico del propio cuerpo (por ejemplo, saber que se tienen dos brazos, piernas, etc.), adquirido desde la infancia y perfeccionado con la práctica. #frase_sin_source (corrección: el autor original citado como "Di Sante (2001)" no ha sido localizado; se reemplaza por Le Boulch (1977), referente en psicomotricidad y esquema corporal #frase_revisar_opencode #comprobado)
 
 En profesiones que requieren un uso preciso del cuerpo —como músicos, bailarines o deportistas—, este conocimiento se desarrolla a un nivel mucho más profundo, permitiéndoles detectar y modificar tensiones o movimientos con autonomía y control.
 
@@ -48,10 +48,10 @@ El proceso de enseñanza-aprendizaje en estudios musicales debe estar alineado c
 La legislación educativa española lo recoge en los objetivos generales:
 
 - **Enseñanzas elementales**:  
-  *“Tocar en público con la necesaria seguridad en sí mismos, para comprender la función comunicativa de la interpretación musical.”*
+  *«Tocar en público con la necesaria seguridad en sí mismos, para comprender la función comunicativa de la interpretación musical.»*
 
 - **Enseñanzas profesionales**:  
-  *“Actuar en público con autocontrol, dominio de la memoria y capacidad auditiva.”*
+  *«Actuar en público con autocontrol, dominio de la memoria y capacidad auditiva.»*
 
 ### La importancia del autocontrol
 
@@ -62,7 +62,7 @@ Esta ansiedad puede manifestarse como:
 - Leve malestar o excitación.
 - Episodios más intensos, incluso ataques de pánico.
 
-Según Spielberg (1966), la ansiedad incluye sentimientos de **aprensión y tensión**, acompañados de una activación del **sistema nervioso simpático**, lo que se traduce en respuestas fisiológicas como aumento del ritmo cardíaco, sudoración o temblores.
+Según Spielberger (1966), la ansiedad incluye sentimientos de **aprensión y tensión**, acompañados de una activación del **sistema nervioso simpático**, lo que se traduce en respuestas fisiológicas como aumento del ritmo cardíaco, sudoración o temblores. #frase_sin_source (corrección: el nombre correcto es Charles D. Spielberger, no "Spielberg" #frase_revisar_opencode #comprobado)
 
 Por ello, entrenar la conciencia corporal y emocional permite al músico enfrentar la escena con mayor seguridad y eficacia.
 ### Respuestas a la ansiedad escénica
@@ -84,7 +84,7 @@ Lograr un **autocontrol** que permita superar estas reacciones y mostrar la máx
 
 Por ello, en las Enseñanzas Profesionales se destaca la importancia de:
 
-> *“Valorar el dominio del cuerpo y de la mente para utilizar con seguridad la técnica y concentrarse en la audición e interpretación.”*
+> *«Valorar el dominio del cuerpo y de la mente para utilizar con seguridad la técnica y concentrarse en la audición e interpretación.»*
 
 ### Técnicas de concienciación corporal
 
@@ -233,7 +233,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 - Es fundamental la **integración cuerpo-mente**:  
   - Muchos músicos ejecutan la música solo con manos y dedos sin una imagen mental y auditiva clara del sonido deseado.  
   - La efectividad técnica depende de la conexión entre mente y músculos, según Ivan Galamian:  
-    > “La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.”  
+    > «La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.»  
 - La Técnica Alexander estimula que la actividad y el movimiento se dirijan desde el cerebro, usando el cuerpo como un todo integrado.
 
 #REVISAR_OPENCODE
@@ -453,9 +453,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Wiener, Jean Christophe. «James-stamp, maestro de la escucha» (1.ª parte, apartado de la respiración). *Brass Bulletin*, n.º 100 (IV/1997): 59–67.
 - Williamon, Aaron. 2004. *Musical Excellence: Strategies and Techniques to Enhance Performance*. Oxford: Oxford University Press.
 - Wilson, Glenn D. 1997. «Performance Anxiety.» En *The Social Psychology of Music*, editado por David J. Hargreaves y Adrian C. North, 229-48. Oxford: Oxford University Press.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Caplan, *The Guitarist's Anatomy*, 34-38.
 

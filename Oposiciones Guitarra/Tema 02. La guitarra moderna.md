@@ -42,7 +42,7 @@ En el siglo XIX surgieron dos estilos constructivos[^2]: el castellano y el anda
 
 #REVISAR_OPENCODE
 
-==La introducción del nylon en 1944==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia**, supuso una revolución en la historia del instrumento.[^11] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista.
+==La introducción del nylon==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia** (quienes comenzaron a trabajar juntos en 1946, produciendo las primeras cuerdas comerciales en 1947-1948), supuso una revolución en la historia del instrumento. #frase_sin_source (corrección: la primera prueba en escenario del nylon fue en enero de 1944 por Olga Coelho, no por Augustine-Segovia; ambos no se conocieron hasta 1946 y las primeras cuerdas Augustine se fabricaron en 1947-1948 #frase_revisar_opencode #comprobado)[^11] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista. #REVISAR_OPENCODE
 
 Además del uso del **nylon**, se produjeron otros dos cambios[^12] importantes en las cuerdas:
 
@@ -82,7 +82,7 @@ Estas estructuras internas tienen doble función:
 - La guitarra es muy sensible a los **cambios bruscos de temperatura y humedad**.
 - Debe mantenerse en condiciones similares a las de su construcción.
 ##### ✅ **Humedad:**
-- Ideal: entre **55 % y 70 %**.
+- Ideal: entre **55 % y 70 %**. #frase_sin_source (corrección: el rango estándar recomendado por luthiers y fabricantes es 45-55 %; el 70 % está en zona de riesgo para la madera #frase_revisar_opencode #comprobado)
 - Para controlarla:
     - En la guitarra o estuche: usar un **humidificador** (por ejemplo, una esponja).
     - En la habitación: usar un **higrómetro**.
@@ -160,9 +160,7 @@ Las guitarras de luthier son construidas a medida por un artesano, lo que permit
 
 Antes de adquirir una guitarra, es recomendable probarla durante al menos treinta minutos, evaluando los siguientes aspectos: comodidad postural y sensación de equilibrio (sentado y de pie); nitidez y homogeneidad sonora en todas las cuerdas y en todos los trastes; facilidad de pulsación en ambas manos; respuesta dinámica (desde el *pianissimo* al *fortissimo*); y estabilidad de la afinación a lo largo del diapasón. Siempre que sea posible, conviene que un profesor o guitarrista experimentado acompañe la prueba.[^14]
 
-# Bibliografía 
-
-#REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Alcaraz Iborra, Mario. 2010. *La guitarra: Historia, organología y repertorio*. Madrid: Editorial Música.
 - Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.
@@ -178,9 +176,7 @@ Antes de adquirir una guitarra, es recomendable probarla durante al menos treint
 - Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Madrid: Museo Nacional.
 - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Artes.
 - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Romanillos y Winspear, *Antonio de Torres: Guitar Maker*, cap. 8.
 

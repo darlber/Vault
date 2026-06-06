@@ -1,4 +1,4 @@
-﻿﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
+# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
 ## Índice:
 1. [Historia general de la guitarra: orígenes y antecedentes](#Historia%20general%20de%20la%20guitarra%20orígenes%20y%20antecedentes)
 	1. [Introducción](#Introducción)  
@@ -41,14 +41,12 @@ Sus características eran:
 
 # Evolución histórica desde sus orígenes hasta nuestros días
 - La guitarra tiene una evolución estrechamente ligada a la vihuela, instrumento predominante en la música culta del Renacimiento con un amplio repertorio.[^6]
-- El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.
+- El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. #frase_sin_source (corrección: no es una vihuela —instrumento renacentista ya en desuso para 1759— sino una guitarra de seis órdenes de transición; las fuentes la clasifican como el primer instrumento conocido con varetaje en abanico #frase_revisar_opencode #comprobado) Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.
 - Este sistema fue adoptado por otros constructores como Pagés (1777), y se difundió desde Cádiz y Málaga hacia Madrid a principios del siglo XIX.
 - Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de «guitarra española», coexistiendo[^7] guitarras de cinco y seis órdenes hasta el siglo XVIII.
 - En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.[^8]
 
-#REVISAR_OPENCODE
-
-### ==La guitarra barroca (siglos XVII–XVIII)==
+### ==La guitarra barroca (siglos XVII–XVIII)== #REVISAR_OPENCODE
 
 Durante el siglo XVII, la guitarra experimentó una transformación profunda que la consolidó como uno de los instrumentos más populares de Europa. ==La guitarra barroca de cinco órdenes== (conocida como *guitarra española*) se difundió por Italia, Francia, Inglaterra y Alemania, impulsada por la facilidad del rasgueado para acompañar danzas y canciones.[^9]
 
@@ -171,11 +169,9 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 - Ángel Benito: guitarras estilo francés.
 - Paulino Bernabé, Paco Santiago Marín, entre otros.
 
-#REVISAR_OPENCODE
+### ==Breve semblanza de los constructores más destacados== #REVISAR_OPENCODE
 
-### ==Breve semblanza de los constructores más destacados==
-
-Entre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya.
+Entre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya. #frase_sin_source (corrección: no es una "vihuela-guitarra" —término híbrido no documentado en las fuentes— sino una guitarra de seis órdenes, clasificada por Tyler & Sparks y el Met Museum como el primer instrumento conocido con varetaje en abanico #frase_revisar_opencode #comprobado)
 
 En la escuela castellana, ==**Manuel Ramírez**== (1864–1920) fundó el taller que luego continuaría su descendiente **José Ramírez**, formando a constructores como **Santos Hernández** y **Domingo Esteso**, cuya tradición se mantiene activa en el siglo XXI. ==**José Ramírez III**== (1922–1995) introdujo la tapa de cedro y desarrolló el modelo de guitarra de concierto «1a», utilizado por Andrés Segovia.
 
@@ -200,9 +196,7 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 - **Materiales compuestos**: fibras de carbono y kevlar, utilizados por **Gary Southwell** y **Ryoji Matsuoka** para guitarras de exterior y conciertos en condiciones extremas.
 - **Guitarra flamenca**: variante constructiva con tapa de ciprés o palosanto, varetaje más ligero y acción de cuerdas más baja, desarrollada por constructores como **Santos Hernández** y **Manuel Reyes**.
 
-# Bibliografía
-
-#REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.
 - Evans, Tom, y Mary Anne Evans. 1977. *Guitars: From the Renaissance to Rock*. New York: Facts on File.
@@ -221,9 +215,7 @@ La guitarra clásica ha experimentado en las últimas décadas una diversificaci
 - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Albatros.
 - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder Publications.
 - Wade, Graham. 2001. *A Concise History of the Classic Guitar*. Pacific: Mel Bay Publications.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1-2.
 
