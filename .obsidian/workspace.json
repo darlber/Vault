@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
+                "file": "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 09. El repertorio de vihuela, su estilo y notación"
+              "title": "Outline of Tema 10. El repertorio de guitarra renacentista, su estilo y notación"
             }
           },
           {
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,7 +209,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "30c66a756c80d7ae",
   "lastOpenFiles": [
     "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",

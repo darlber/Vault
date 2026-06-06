@@ -8,9 +8,9 @@
 	1. [Lectura](#Lectura)
 3. [Tablaturas, criterios de transcripción y edición](#Tablaturas,%20criterios%20de%20transcripción%20y%20edición)
 4. [Bibliografía](#Bibliografía)
-# Repertorio de guitarra renacentista #REVISAR_OPENCODE
+# Repertorio de guitarra renacentista
 
-## Introducción. Ubicación histórica #REVISAR_OPENCODE
+## Introducción. Ubicación histórica
 - La guitarra aparece en la Edad Media como parte de una **familia de instrumentos con mástil**, de dos tipos:
   - Forma de **pera** (como el laúd)
   - Forma de **ocho** (como la vihuela o la guitarra)
@@ -65,7 +65,7 @@
     - Su obra ofrece un enfoque **práctico del instrumento** y enseña **rudimentos musicales**.
     - Defiende que la guitarra puede interpretar también **música de cámara seria**, no solo fandangos y boleras.
 
-## Afinación #REVISAR_OPENCODE
+## Afinación
 - Según el tratado *Libro de la declaración de instrumentos* (1555) de **Juan Bermudo**:
   - La guitarra renacentista tenía **cuatro órdenes** y era **más pequeña** que la vihuela.
   - Existían **dos afinaciones principales**:
@@ -73,12 +73,12 @@
     - **Temple nuevo**: había una **cuarta justa** entre la tercera y cuarta cuerda.
   - La mayoría de las obras estaban compuestas para **temple nuevo**.
     - El propio Bermudo señala que el temple viejo solo se usaba para **romances antiguos**, no para la música de su época.
-## Repertorio #REVISAR_OPENCODE
+## Repertorio
 - Durante el **siglo XVI**, la guitarra (llamada *guiterre* o *guiterne*) tuvo **mayor difusión en Francia** que en España o Italia.
   - En **Italia**, predominaban guitarras de fondo curvo (*chitarra da sette corde* o *chitarrino*).
   - En **Francia**, el uso de la guitarra plana era común desde mediados del siglo XVI, tanto como instrumento solista como de acompañamiento vocal.
 
-#### España #REVISAR_OPENCODE
+#### España
 - **Únicamente dos publicaciones** dedicadas a la guitarra renacentista de **cuatro órdenes**:
   1. **1546** – *Tres libros de música en cifra para vihuela* (Alonso Mudarra):
      - Incluye una fantasía al **temple viejo**, tres al **temple nuevo**, una **pavana** y una **romanesca** (*Guárdame las vacas*).
@@ -87,11 +87,11 @@
      - Contiene **seis fantasías**, un **romance**, un **villancico** y una **intabulación** polifónica.
      - Hace referencia a una vihuela de **cinco órdenes**, que podría ser una **guitarra renacentista ampliada**.
 
-#### Italia #REVISAR_OPENCODE
+#### Italia
 - Único testimonio de **Melchior de Barberis**, laudista que incluyó:
   - *Fantasías per suonar sopra la guitarra de sette corde*, piezas para guitarra de siete cuerdas.
 
-#### Francia #REVISAR_OPENCODE
+#### Francia
 - País más prolífico en cuanto a repertorio para guitarra renacentista.
   - A partir de **1550**: muchas **fantasías y danzas**, con la guitarra como instrumento principal o acompañante vocal.
   - Autores destacados:
@@ -108,7 +108,7 @@
   - Pero era principalmente **repertorio de “segunda mano”**, procedente de **Francia**.
   - Destacan los editores **Pierre Phalese** y **Jean Bellere**, quienes publicaron antologías con repertorio francés adaptado a la **tablatura latina**.
 
-#### Colecciones conservadas #REVISAR_OPENCODE (total: 13 colecciones, 351 piezas)
+#### Colecciones conservadas (total: 13 colecciones, 351 piezas)
 
 1. Alonso Mudarra – *Tres libros de música en cifra para vihuela* (Sevilla, 1546)
 2. Melchiore de Barberiis – *Opera intitolata Confina* (Venecia, 1549)
@@ -125,7 +125,7 @@
 13. Pierre Phalese y Jean Bellere – *Selectissima elegantissimaque...* (Lovaina y Amberes, 1570)
 - *A Book of New Lessons for the Cittern and Ginem* (Inglaterra, 1652) fue la última publicación dedicada expresamente a la guitarra de cuatro órdenes.
 - Contiene melodías y ejemplos de música popular.
-# Estilo y notación #REVISAR_OPENCODE
+# Estilo y notación
 
 ==Para comprender la música antigua es fundamental conocer tres elementos: la notación, la lectura y la transcripción.==
 
@@ -141,9 +141,9 @@
 
 ==La **evolución estilística** hacia finales del siglo XVI viene marcada por la transición de la guitarra de **cuatro a cinco órdenes** y la aparición del **estilo rasgueado** (J. C. Amat, 1596). Este cambio no solo amplía las posibilidades armónicas del instrumento, sino que transforma su estética: los acordes se conciben ahora como entidades verticales y la técnica de rasgueado introduce un nuevo ideal sonoro, más percusivo y rítmico, que preludia la guitarra barroca. La combinación de **punteado y rasgueado** —sistematizada por Foscarini en el siglo XVII— se convertirá en el rasgo definitorio del estilo guitarristico del Barroco.[^6]==
 
-### Notación: tablaturas #REVISAR_OPENCODE
+### Notación: tablaturas
 
-#### Tablaturas utilizadas: #REVISAR_OPENCODE
+#### Tablaturas utilizadas:
 - **Tablatura italiana** (usada en guitarra de cuatro órdenes):
   - Se compone de **cuatro líneas horizontales**, cada una representa una cuerda de la guitarra.
   - La **línea superior** representa la **cuarta cuerda** y la **línea inferior** la **primera cuerda**.
@@ -166,12 +166,12 @@
 - Si una nota no tenía figura rítmica, se entendía que duraba igual que la anterior.
 - Las figuras usadas y su equivalencia en notación actual son: 
 ![](attachments/{F00AF04A-3884-4743-88C1-29EC3EDB70D1}.png)
-### Indicaciones de tempo #REVISAR_OPENCODE
+### Indicaciones de tempo
 
 - A veces aparecían símbolos o palabras que indicaban la velocidad aproximada.
 - Ejemplos según el autor:
 ![](attachments/{1FC9E565-82D8-4A1A-9907-B2622D1C1898}.png)
-### Tablatura francesa para guitarra de cuatro órdenes #REVISAR_OPENCODE
+### Tablatura francesa para guitarra de cuatro órdenes
 
 - Se usaban también **cuatro líneas** para las cuerdas.
 - Para indicar el traste, en lugar de números, se usaban **letras**:
@@ -182,10 +182,10 @@
 - El primer espacio inferior correspondía a la cuarta cuerda; el cuarto espacio superior a la primera cuerda.
 - Las figuras rítmicas también sólo se indicaban al cambiar, recordándose al inicio de cada compás.
 ![](attachments/{74EB0B94-1C8F-41BC-9E82-EC6496B9C30F}.png)
-## Lectura #REVISAR_OPENCODE
+## Lectura
 
 ==Sobre la lectura debemos decir que lo recomendable es que el intérprete no utilice ningún tipo de transcripción, ya que hoy en día tenemos los facsímiles y además no es complicado leer una tablatura antigua. Esto ya lo defienden J. Tyler y G. Arriaga, ya que hay una gran cantidad de métodos y libros a nuestro alcance. Esto en parte es debido al fácil acceso que nos permite internet.==
-# Tablaturas, criterios de transcripción y edición #REVISAR_OPENCODE 
+# Tablaturas, criterios de transcripción y edición 
 
 - Realizar una transcripción es una tarea delicada con varios retos.
 - Una dificultad importante es la elección de la afinación, ya que no hay una altura musical fija.
