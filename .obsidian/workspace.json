@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a35c21abf5b5d6a2",
+            "id": "00eb30877ae496e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,18 +209,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "00eb30877ae496e0",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 24.md",
-    "Oposiciones Guitarra/0. Temas Oposiciones.md",
-    "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
-    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
+    "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
+    "Oposiciones Guitarra/TEMA 19-25.pdf",
+    "Oposiciones Guitarra/TEMA 25.pdf",
+    "Oposiciones Guitarra/0. Temas Oposiciones.md",
+    "Oposiciones Guitarra/Tema 24.md",
+    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 23.md",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Oposiciones Guitarra/Tema 22.md",
     "Oposiciones Guitarra/TEMA 22.pdf",
-    "Oposiciones Guitarra/TEMA 19-25.pdf",
     "Oposiciones Guitarra/TEMA 20-21.pdf",
     "Oposiciones Guitarra/Tema 21.md",
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
@@ -239,7 +240,6 @@
     "Oposiciones TAI/Tema 09. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
     "Oposiciones TAI/Tema 08. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
     "Oposiciones TAI/Tema 07. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
-    "Oposiciones TAI/Tema 06. La sociedad de la información. Identidad y firma electrónica, régimen jurídico. El DNI electrónico. La Agenda Digital para España.md",
     "Oposiciones Guitarra/TEMA 18-19.pdf",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
@@ -257,7 +257,6 @@
     "Proyecto/Phases.canvas",
     "Oposiciones TAI",
     "Oposiciones Guitarra/TEMA 29 y 30.pdf",
-    "Music/Cadencia General Básica/attachments",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
     "Vault/Proyecto/Phases.canvas",

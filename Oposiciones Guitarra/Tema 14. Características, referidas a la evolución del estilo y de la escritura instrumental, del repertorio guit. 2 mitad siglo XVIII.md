@@ -1,4 +1,4 @@
-# Criterios de transcripción para guitarra de seis cuerdas
+# Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XVIII. Criterios de transcripción para guitarra de seis cuerdas
 
 ## Índice
 
@@ -54,7 +54,7 @@ A finales del siglo XVIII y principios del XIX aparecieron algunos inventos como
 
 En España vemos cómo se le añade un orden más o menos en la mitad del siglo XVIII y posteriormente (finales del XVIII-principios del XIX) estos órdenes pasan a ser simples.
 
-Sin embargo, vemos que en Francia hubo muchos autores que dedicaron documentación (tanto obras como métodos) a la guitarra de cinco órdenes con bordones, como Michel Corrette (1762), Antoine Albanese (1770), Joseph Carpentier (1771), Antoine Bailleux (1773), Giacomo Merchi (1777), Pietro Baillon (1781), Francesco Alberti (1786), Louis Joseph Guichard (1795), Guillaume Pierre Antoine Gatayes (1800), Lemoine (1800) y Luigi Rodolfo Benito Boccherini[^9].
+Sin embargo, vemos que en Francia hubo muchos autores que dedicaron documentación (tanto obras como métodos) a la guitarra de cinco órdenes con bordones, como Michel Corrette (1762), Antoine Albanese (1770), Joseph Carpentier (1771), Antoine Bailleux (1773), Giacomo Merchi (1777), Pietro Baillon (1781), Francesco Alberti (1786), Louis Joseph Guichard (1795), Guillaume Pierre Antoine Gatayes (1800), Lemoine (1800) y Luigi Boccherini[^9].
 
 Como puede observarse, la mayoría eran italianos establecidos en París, lo que refleja una importante migración hacia Francia en esa época. En Italia se denominaba *chitarra francese* a la guitarra de cinco órdenes con bordones existente a finales del siglo XVII.
 
@@ -148,6 +148,7 @@ Las sonatas de Antonio Abreu, complejas para guitarra sola, son un ejemplo de no
 
 Por tanto, al realizar una edición crítica o una versión actual en notación mensural, debe tenerse en cuenta que:
 
+#REVISAR_OPENCODE
 ==1. **Separación de voces**: La representación gráfica de estas obras suele mostrar una sola voz, cuando en realidad existen al menos dos voces reales. El transcriptor debe identificar la línea melódica superior y la línea del bajo, asignando plicas hacia arriba (voz superior) y hacia abajo (voz inferior). Moretti es el primero que escribe distinguiendo claramente dos voces, por lo que sus obras sirven como modelo de referencia.==
 
 ==2. **Herencia violinística**: La notación es claramente heredera de la del violín. Aunque algunos musicólogos la han calificado de «primitiva», debe entenderse como una notación derivada de la tradición tablaturística y elaborada en muchos casos por violinistas, que tendían a escribir conforme a los usos de su instrumento sin reflejar necesariamente las distintas voces que sí podían estar presentes en la interpretación guitarrística[^12].==
@@ -166,7 +167,7 @@ En la forma variación aparece un empleo más idiomático de los recursos de la 
 
 Todo ello debe tenerse en cuenta al abordar la edición y transcripción de la música guitarrística del siglo XVIII.
 
-# Bibliografía #REVISAR_OPENCODE
+# Bibliografía
 
 - Aguado, Dionisio. 1825. *Escuela de guitarra*. Madrid.
 - Alcaraz Iborra, Mario; Díaz Soto, Roberto. 2010. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario.
@@ -174,6 +175,7 @@ Todo ello debe tenerse en cuenta al abordar la edición y transcripción de la m
 - Corrette, Michel. 1763. *Les Dons d'Apollon: Méthode pour apprendre facilement à jouer de la guitarre*. Paris.
 - Ferandiere, Fernando. 1799. *Arte de tocar la guitarra de seis órdenes*. Madrid.
 - Lichtenthal, Pietro. 1836. *Dizionario e bibliografia della musica*. Milano: Antonio Fontana.
+- Merchi, Giacomo. 1777. *Traité des agrémens de la musique exécutés sur la guitarre*. Paris: l'auteur.
 - Minguet e Irol, Pablo. 1754. *Reglas y advertencias generales para enseñar a los principiantes a tañer la guitarra*. Madrid.
 - Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes*. Madrid.
 - Phillis, Jean-Baptiste. 1802. *Nouvelle méthode pour la guitare*. Paris.
