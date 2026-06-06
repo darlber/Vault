@@ -33,6 +33,7 @@ Transición de Bloqueado a Listo::Ocurre el evento esperado
 Transición de Ejecución a Listo::Interrupción (quantum agotado, proceso de mayor prioridad)
 
 FCFS (First Come First Served)::Cola FIFO, el primero en llegar se ejecuta primero; no apropiativo
+<!--SR:!2026-06-10,4,270-->
 
 SJF (Shortest Job First)::Ejecuta el proceso con menor ráfaga de CPU siguiente; no apropiativo
 

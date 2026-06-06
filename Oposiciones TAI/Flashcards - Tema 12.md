@@ -31,6 +31,7 @@ Array - acceso por índice::O(1)
 Array - inserción/borrado en medio::O(n)
 
 Registro (struct/record)::Agrupación heterogénea, contigua y estática
+<!--SR:!2026-06-09,3,250-->
 
 Lista enlazada simple::Cada nodo apunta al siguiente; el último apunta a null
 <!--SR:!2026-06-10,4,270-->
@@ -121,6 +122,7 @@ Recursividad - estructura interna que usa::Pila (call stack)
 ## Búsqueda
 
 Búsqueda secuencial - condición::Ninguna; complejidad O(n)
+<!--SR:!2026-06-10,4,270-->
 
 Búsqueda binaria - condición::Array ordenado; complejidad O(log n)
 
