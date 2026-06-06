@@ -36,7 +36,7 @@
 - Trastes de metal en sustitución de los de tripa.
 - Pérdida progresiva de importancia de la ornamentación.
 - Mayor perfeccionamiento general del instrumento.
-- El sistema de notación también cambió hasta tal punto que la tablatura era considerada una rareza y la música que se escribía para guitarra era más frecuente verla en notación pautada.==
+- El sistema de notación también cambió hasta tal punto que la tablatura era considerada una rareza y la música que se escribía para guitarra era más frecuente verla en notación pautada.
 
 ==Aunque lo que comentamos a continuación había comenzado años antes (1760), es reseñable que en 1763 podemos ver que el autor Michel Corrette incluye en su método *Les Dons d'Apollon: Méthode pour apprendre facilement à jouer de la guitarre* la tablatura junto a la notación pautada, describiendo el uso de la clave de sol ligado al sonido real una octava baja, de la forma en que lo conocemos hoy[^5].==
 
