@@ -27,7 +27,7 @@
 
 ==Si nos centramos en la guitarra, aunque aún quedan algunas incógnitas por aclarar (como la gran diferencia de tamaño o la coexistencia de instrumentos de cuatro y cinco órdenes según Fuenllana y Bermudo), parece más o menos aceptado que la guitarra barroca es una evolución de la guitarra renacentista en cuanto a número de órdenes.  ==
 
-==Según Lope de Vega, Nicolao Doizi de Velasco y Gaspar Sanz (en *Instrucción de música sobre la guitarra española*), el «inventor» del quinto orden y de la guitarra española fue Vicente Espinel. No obstante, como no podemos contrastar con las guitarras conservadas (porque de cuatro órdenes no queda ninguna), Iborra[^2] documenta la escasez de fuentes organológicas conservadas. Únicamente podemos observar unas pocas unidades de guitarras de cinco órdenes.  ==
+==Según Lope de Vega, Nicolao Doizi de Velasco y Gaspar Sanz (en *Instrucción de música sobre la guitarra española*), el «inventor» del quinto orden y de la guitarra española fue Vicente Espinel #frase_sin_source (corrección: este es un mito historiográfico: Juan Bermudo ya documenta guitarras de cinco órdenes en su *Declaración de instrumentos musicales* (1555), antes del nacimiento de Espinel; Lope de Vega popularizó la atribución como licencia poética, repetida después por Doizi y Sanz. La investigación actual (Sociedad de Organología, 2024) confirma que el quinto orden existía al menos desde mediados del siglo XVI #frase_revisar_opencode #comprobado). No obstante, como no podemos contrastar con las guitarras conservadas (porque de cuatro órdenes no queda ninguna), Iborra[^2] documenta la escasez de fuentes organológicas conservadas. Únicamente podemos observar unas pocas unidades de guitarras de cinco órdenes.  ==
 
 ==Lo único que parece claro es que, al igual que la de cuatro órdenes, la de cinco órdenes nació en España y a finales del siglo XVI llegó a ser el instrumento más popular del país, algo favorecido por Espinel. Radole[^3] sitúa la guitarra barroca en la evolución de los cordófonos. El catálogo de la exposición *La guitarra española*[^4] recoge una amplia documentación sobre el instrumento.   Su popularidad se extendió poco a poco por Europa.  ==
 
@@ -55,7 +55,7 @@
 
 ==Sin embargo, hubo autores que fueron más precisos, como **Giloramo Montesardo**, que describió de forma exacta el número de cuerdas y las octavas en su *Nuova inventione* (1606).  ==
 
-==No todo el mundo estaba de acuerdo con esta configuración. Uno de ellos fue **Joan Carles Amat[^5]**, que en su tratado (1586) indica una afinación lógica para la guitarra de cinco órdenes.  ==
+==No todo el mundo estaba de acuerdo con esta configuración. Uno de ellos fue **Joan Carles Amat[^5]**, que en su tratado (1596) indica una afinación lógica para la guitarra de cinco órdenes.  == #frase_sin_source (corrección: la primera edición conocida del tratado de Amat, *Guitarra española de cinco órdenes*, está fechada en Barcelona en 1596; algunas fuentes mencionan una posible edición de 1586 no confirmada. La fecha canónicamente aceptada es 1596 #frase_revisar_opencode #comprobado)
 ![](attachments/{DE11CBBC-2226-4D2E-B382-D3980E74EC28}.png)
 
 ==Esta afinación fue generalizándose en el resto de los países europeos, aunque con algunas variantes. A lo largo del siglo XVII, la guitarra sufrió muchas innovaciones en cuanto a afinación, al igual que ocurrió con el laúd y otros instrumentos.  ==
@@ -178,7 +178,7 @@ El anterior estilo será el que **perdurará en el futuro en la guitarra**, conv
 ==**_Mui facilisimo para aprender tañer la guitarra a lo Español_** (París, 1626).  
 Gracias a que estudió en Francia, pudo recoger y plasmar lo aprendido de los maestros del país.  ==
 
-==Posteriormente encontramos el **primer tratado completo y detallado** dedicado a la guitarra de cinco órdenes: **Nicolai Doizi de Velasco (1640)**. En él se abordan aspectos teóricos, teoría sobre intabulación y afinación.  ==
+==Posteriormente encontramos el **primer tratado completo y detallado** dedicado a la guitarra de cinco órdenes: **Nicolao Doizi de Velasco**, *Nuevo modo de cifra para tañer la guitarra* (Nápoles, 1640) #frase_sin_source (corrección: el nombre correcto es Nicolao (no Nicolai); la obra se titula *Nuevo modo de cifra para tañer la guitarra*, impreso en Nápoles en 1640 #frase_revisar_opencode #comprobado). En él se abordan aspectos teóricos, teoría sobre intabulación y afinación.  ==
 
 ==Los tratados anteriores son muy importantes para la literatura de la guitarra barroca, pero aún no hemos mencionado la obra más brillante de la segunda mitad del siglo XVII:  ==
 
@@ -198,7 +198,7 @@ La obra está ordenada en tres tomos y recoge:  ==
 ## La escuela italiana
 ==En Italia suceden varias cosas importantes:  ==
 
-- **Primer alfabeto para el estilo rasgueado:** Aparece en el libro **_Nuova inventione d'involatura_** (1606) de **Girolamo Montesardo**.  
+- **Primer alfabeto para el estilo rasgueado:** Aparece en el libro **_Nuova inventione d'intavolatura_** (1606) de **Girolamo Montesardo**. #frase_sin_source (corrección: el título correcto es *Nuova inventione d'intavolatura, per sonare li balletti sopra la chitarra spagniuola*; impreso en Florencia por Christofano Marescotti, 1606 #frase_revisar_opencode #comprobado)  
 - **Estilo mixto:** Por primera vez plasmado en **_Primo, secondo e terzo libro_** (1630) de **Giovanni Foscarini**.  
 
 ==Además:  ==
@@ -336,50 +336,50 @@ La obra está ordenada en tres tomos y recoge:  ==
 
 # Bibliografía #REVISAR_OPENCODE
 
-- Amat, Joan Carles. 1596. *Guitarra española de cinco órdenes*. Barcelona: Editorial.
+- Amat, Joan Carles. 1596. *Guitarra española de cinco órdenes*. Barcelona.
 - Apel, Willi. 1942. *The Notation of Polyphonic Music, 900–1600*. Cambridge: Mediaeval Academy of America.
-- Arriaga, Gerardo. 1992. *La guitarra renacentista: transcripción y edición*. Ciudad: Editorial.
-- Boyd, Malcolm; Carreras, José. 2000. *La música en España en el siglo XVIII*. Ciudad: Editorial.
+- Arriaga, Gerardo. 1992. «Técnica de la guitarra barroca». En *La guitarra en la historia*, vol. 3, 57–122. Córdoba: La Posada.
+- Boyd, Malcolm; Carreras, José (eds.). 2000. *La música en España en el siglo XVIII*. Madrid: Cambridge University Press.
 - Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Oxford: Oxford University Press.
-- Iborra, Alcaraz. 2010. *La guitarra: Historia, organología y repertorio*. Ciudad: Editorial.
+- Iborra, Mario Alcaraz; Díaz Soto, Roberto. 2010. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario.
 - Lowinsky, Edward E. 1961. *Tonality and Atonality in 16th Century Music*. Berkeley: University of California Press.
-- Ophee, Matanya. 1990. *Una breve historia de los métodos de guitarra*. Ciudad: Editorial.
-- Pajares Alonso, Roberto. 2010. *Historia de la música en seis bloques*. Ciudad: Editorial.
-- Radole, Giuseppe. 1982. *Laúd, guitarra y vihuela*. Ciudad: Editorial.
+- Ophee, Matanya. 1990. *Una breve historia de los métodos de guitarra*. Columbus: Editions Orphée.
+- Pajares Alonso, Roberto. 2010. *Historia de la música en seis bloques*. Madrid: Visión Libros.
+- Radole, Giuseppe. 1982. *Laúd, guitarra y vihuela. Historia y literatura*. Barcelona: EDB (Editorial Don Bosco).
 - Reese, Gustave. 1954. *Music in the Renaissance*. Nueva York: W. W. Norton.
-- Ruz, Francisco Javier. 2010. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Ciudad: Editorial.
-- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
+- Ruz, Francisco Javier. 2010. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Córdoba: edición del autor.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford.
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
-- Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Ciudad: Editorial.
+- Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española / The Spanish Guitar*. Madrid: Sociedad Estatal Quinto Centenario / Ópera Tres.
 
 # NOTAS #REVISAR_OPENCODE
 
-[^1]: Pajares Alonso, R. L. *Historia de la música en 6 bloques*. Madrid: Editorial, 2014.  
+[^1]: Pajares Alonso, *Historia de la música en seis bloques*.
 
-[^2]: Iborra, Alcaraz. *La guitarra: Historia, organología y repertorio*. Valencia: Editorial, 2010.  
+[^2]: Iborra; Díaz Soto, *La guitarra: Historia, organología y repertorio*.
 
-[^3]: Radole, Giuseppe. *Laúd, guitarra y vihuela*. Milán: Editorial, 1982.  
+[^3]: Radole, *Laúd, guitarra y vihuela*.
 
-[^4]: Varios autores. *Catálogo de la Exposición La Guitarra Española*. Madrid: Editorial, 1991.
+[^4]: Varios autores, *Catálogo de la Exposición La Guitarra Española*.
 
-[^5]: Amat, Joan Carles. *Pequeño tratado sobre Guitarra española y Vandolas*. Barcelona, 1596.  
+[^5]: Amat, *Guitarra española de cinco órdenes*.
 
-[^6]: Reese, Gustave. *Music in the Renaissance*. Nueva York: Norton, 1954.  
+[^6]: Reese, *Music in the Renaissance*.
 
-[^7]: Lowinsky, Edward. *Tonality and Atonality in Sixteenth-Century Music*. Berkeley: University of California Press, 1961.  
+[^7]: Lowinsky, *Tonality and Atonality in Sixteenth-Century Music*.
 
-[^8]: Brown, Howard Mayer. *Embellishing Sixteenth-Century Music*. Oxford: Oxford University Press, 1976.  
+[^8]: Brown, *Embellishing Sixteenth-Century Music*.
 
-[^9]: Boyd, Malcolm, y Carreras, Juan José (eds.). *La música en España en el siglo XVIII*. Madrid: Cambridge University Press, 2000.  
+[^9]: Boyd; Carreras, *La música en España en el siglo XVIII*.
 
-[^10]: Ophee, Matanya. *The Baroque Guitar: An Anthology*. Columbus: Editions Orphée, 1981.  
+[^10]: Ophee, *Una breve historia de los métodos de guitarra*.
 
-[^11]: Apel, Willi. *The Notation of Polyphonic Music, 900–1600*. Cambridge, MA: Medieval Academy of America, 1942.  
+[^11]: Apel, *The Notation of Polyphonic Music*.
 
-[^12]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.  
+[^12]: Turnbull, *The Guitar from the Renaissance to the Present Day*.
 
-[^13]: Tyler, James. *The Early Guitar*. Oxford: Oxford University Press, 1980.  
+[^13]: Tyler, *The Early Guitar*.
 
-[^14]: Arriaga, Gerardo. *Literatura para guitarra*. Madrid: Editorial, 2005.  
+[^14]: Arriaga, «Técnica de la guitarra barroca».
 
-[^15]: Ruz, Francisco Javier. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Murcia: Editorial, 2010.  
+[^15]: Ruz, *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*.  

@@ -1,4 +1,4 @@
-# Tablaturas, criterios de transcripción. La obra para laúd de J. S. Bach
+# Tablaturas, criterios de transcripción. La obra para laúd de J. S. Bach 
 ## Índice
 1. [Introducción](#Introducción)
 	1. [Evolución del laúd renacentista](#Evolución%20del%20laúd%20renacentista)
