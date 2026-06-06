@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -204,15 +204,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "74e6a2710cd0eafa",
   "lastOpenFiles": [
-    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "OSINT.md",
+    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
     "osint_ct.md",
     "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
