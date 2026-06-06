@@ -88,7 +88,8 @@ Los compositores guitarristas del periodo contribuyen a que la guitarra alcance 
 Además, se produce un gran desarrollo de música de cámara, en la que la guitarra tiene un papel destacado, llegando incluso a intervenir en óperas de Rossini, Donizetti y Weber.  
 
 La revalorización del instrumento también depende del progreso técnico, impulsado por el auge de métodos didácticos elaborados por guitarristas.
-##  Evolución musical. Estilo y formas
+## Evolución musical. Estilo y formas #REVISAR_OPENCODE
+
 La estética del clasicismo rompe con la concepción barroca de texturas polifónicas contrapuntísticas y armonías complejas, dando paso a la sencillez y naturalidad musical.  
 
 - Predomina la frase regular.  
@@ -99,6 +100,60 @@ La estética del clasicismo rompe con la concepción barroca de texturas polifó
 La música de esta época se desarrolla a través de la forma sonata de dos temas, de estructura tripartita. La guitarra adopta la estética propia del siglo XIX y se adapta a las transformaciones musicales del periodo.
 
 Las formas musicales para guitarra coinciden con las de otros instrumentos como el piano: sonatas, temas con variaciones, rondós, valses, conciertos para guitarra y orquesta, fantasías, minuetos, y abundante música de cámara.
+
+### Contexto estilístico: del Clasicismo al Romanticismo #REVISAR_OPENCODE
+
+==El repertorio guitarrístico clásico-romántico se sitúa en la transición entre el Clasicismo tardío (c. 1780-1800) y el primer Romanticismo (c. 1800-1830). La guitarra participa de ambas estéticas: del Clasicismo hereda la claridad formal, la textura homofónica y la estructura periódica; del Romanticismo temprano adopta la expresividad melódica, el contraste dinámico y la búsqueda de un carácter más subjetivo[^1].==
+
+==En la escuela española, esta dualidad se manifiesta en las obras de Sor y Aguado. Sor, formado en la tradición clásica, desarrolla un lenguaje contrapuntístico moderado que mira al pasado clásico (influencia de Haydn y Mozart), mientras que Aguado, más orientado a la didáctica y al lucimiento del intérprete, anticipa rasgos del virtuosismo romántico que culminará en Giuliani y Mertz[^2].==
+
+### Formas y géneros cultivados por la escuela española #REVISAR_OPENCODE
+
+==La sonata es la forma central del repertorio de Sor. Su *Grande Sonate* op. 22 ejemplifica la estructura tripartita clásica (exposición, desarrollo, reexposición) adaptada a las limitaciones de la guitarra: la modulación al tono de la dominante se sustituye con frecuencia por un contraste temático más que tonal, y el desarrollo se apoya en secuencias armónicas sobre el bordón de tónica o dominante[^3].==
+
+==El tema con variaciones es otro género fundamental. Sor lo cultiva en las *Variaciones sobre las Folías de España* op. 15a, donde cada variación explota un recurso técnico diferente (arpegios, escalas, campanelas, acordes) manteniendo la estructura armónica del tema. Aguado compone *El Fandango Variado* op. 16, que combina la forma de variaciones con el carácter rítmico del fandango español[^4].==
+
+==La fantasía, de origen improvisatorio, permite una mayor libertad formal. La *Fantasía Elegíaca* op. 59 de Sor es un ejemplo de programa extramusical y de la influencia del Sturm und Drang en el repertorio guitarrístico: compuesta a la muerte de Madame Beslay, la obra describe un viaje desde la desesperación hasta la aceptación mediante contrastes extremos de dinámica y tempo.==
+
+==El vals es la forma de salón por excelencia en la escuela española. Aguado compone numerosos valses (Op. 1, 7, 12) de carácter ligero y funcional, destinados al consumo doméstico. El rondó, la contradanza y el minué completan el cuadro formal del repertorio guitarrístico del periodo[^5].==
+
+### Textura y lenguaje armónico #REVISAR_OPENCODE
+
+==La textura predominante es la melodía acompañada, con la línea melódica en el registro agudo (primera y segunda cuerdas) y el acompañamiento armónico en las cuerdas graves mediante arpegios y acordes. Esta textura deriva del bajo Alberti pianístico y se adapta a la guitarra mediante fórmulas arpegiadas de tres, cuatro y seis notas que llenan el espacio sonoro sin exigir un control polifónico riguroso.==
+
+==Sor introduce un tratamiento más contrapuntístico que el habitual. En sus obras, las voces intermedias adquieren independencia melódica, creando una polifonía a dos o tres voces reales propia de un estilo de escritura más elaborada[^6]. Aguado, en cambio, prefiere una textura más homofónica y pianística, con arpegios regulares y acompañamientos esquemáticos que facilitan la ejecución al aficionado[^2].==
+
+==Armónicamente, el lenguaje se mueve dentro de la tonalidad bimodal mayor-menor, con modulaciones a tonos vecinos (dominante, relativo menor, subdominante). Sor emplea con frecuencia la séptima disminuida y las dominantes secundarias para crear tensión expresiva, mientras que Aguado se mantiene en un lenguaje más diatónico y funcional, acorde con su enfoque pedagógico.==
+
+## La escritura instrumental en la escuela española #REVISAR_OPENCODE
+
+==La evolución de la escritura guitarrística en la escuela española está marcada por el tránsito definitivo de la tablatura a la notación mensural y por la progresiva complejidad de la notación para reflejar las posibilidades polifónicas del instrumento. Moretti, Sor y Aguado constituyen los tres hitos fundamentales de este proceso[^7].==
+
+### La herencia de Moretti: la notación a dos voces #REVISAR_OPENCODE
+
+==Federico Moretti, con sus *Principios para tocar la guitarra de seis órdenes* (1799), sienta las bases de la escritura moderna: distingue claramente dos voces mediante la dirección de las plicas (hacia arriba para la voz superior, hacia abajo para el bajo) y establece la clave de Sol como referencia para la notación guitarrística. Este sistema de dos voces será adoptado y refinado por Sor, quien lo menciona explícitamente en su *Méthode*[^7].==
+
+==Sin embargo, la notación de Moretti es aún esquemática: los acordes se escriben como bloques armónicos sin indicaciones de digitación, articulación o dinámica. La escritura funciona como un cifrado armónico sobre el que el intérprete debe aplicar sus propios recursos expresivos. Sor supera este esquematismo al incorporar a la notación indicaciones precisas de digitación (mano izquierda y derecha), ligados, dinámicas (*p*, *f*, *cresc.*, *dim.*) y articulación (*staccato*, acentos)[^8].==
+
+### La escritura de Sor: polifonía y expresividad #REVISAR_OPENCODE
+
+==Sor desarrolla la escritura a tres voces reales, un salto cualitativo respecto a la notación anterior. Las voces se distinguen no solo por la dirección de las plicas sino también por el uso de silencios completivos, calderones y cambios de registro que permiten la claridad polifónica. Su *Méthode* (1830) explica detalladamente estos recursos y su aplicación[^9].==
+
+==En sus obras más avanzadas (op. 22, op. 29, op. 31), Sor emplea una concepción orquestal de la escritura guitarrística: la guitarra imita los contrastes de la orquesta clásica mediante cambios de registro, dinámicas extremas y alternancia de texturas. La indicación *solo* y *tutti* aparece en varias de sus obras para señalar estos contrastes tímbricos.==
+
+==La notación de Sor incluye también ligados de expresión que indican frases musicales completas, no solo articulaciones técnicas. Este enfoque musical de la notación, en el que cada indicación sirve a la expresión musical antes que a la mera ejecución técnica, influye en toda la tradición guitarrística posterior.==
+
+==En sus estudios (op. 6, 29, 31, 35), Sor combina el valor pedagógico con la calidad artística. Cada estudio se centra en un recurso técnico específico dentro de un marco musical coherente, anticipando el concepto de estudio de concierto que desarrollará el Romanticismo[^3].==
+
+### La escritura pedagógica de Aguado #REVISAR_OPENCODE
+
+==Aguado aborda la notación desde una perspectiva pedagógica. Su *Escuela de guitarra* (1825) y el posterior *Nuevo método para guitarra* (1843) sistematizan la técnica guitarrística mediante una notación detallada y progresiva[^10].==
+
+==Aguado es el primero en incluir sistemáticamente la digitación de la mano derecha (*p*, *i*, *m*, *a*) en sus métodos, así como indicaciones precisas sobre la posición de las manos y el cuerpo. Su notación de los arpegios incluye la distribución exacta de los dedos de la mano derecha para cada fórmula, un recurso didáctico inédito hasta entonces.==
+
+==Frente a la escritura musical de Sor, Aguado adopta un enfoque más funcional y didáctico. Sus composiciones, aunque menos ambiciosas musicalmente, están notadas con una claridad ejemplar que las convierte en herramientas pedagógicas de primer orden. El *Nuevo método* incluye además innovaciones organológicas notadas: el uso del trípode (tripodison) se indica en las partituras, y las indicaciones sobre la pulsación (con o sin uña) se explicitan en los ejercicios[^10].==
+
+==La escuela española de escritura guitarrística, representada por Moretti, Sor y Aguado, establece los fundamentos notacionales que permitirán el desarrollo del repertorio romántico posterior (Giuliani, Diabelli, Mertz, Coste) y sienta las bases de la notación moderna de la guitarra.==
 ## Autores y repertorio
 Este tema se centra en las escuelas españolas. Entre las figuras imprescindibles para la evolución de la guitarra destacan Fernando Sor y Dionisio Aguado.
 ### Fernando Sor (1778-1839) y Dionisio Aguado (1784-1849)
@@ -261,3 +316,25 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 - Suárez Pajares, Javier. "Sor y Aguado en la tradición guitarrística española." *Cuadernos de música y teatro* (1990).  
 - Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.  
 - Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.  
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
+
+[^2]: Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
+
+[^3]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830. Reed. en *The Guitar Review*, n.º 39, 1974.
+
+[^4]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+
+[^5]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+
+[^6]: Suárez Pajares, Javier. «Sor y Aguado en la tradición guitarrística española». *Cuadernos de música y teatro*, 1990.
+
+[^7]: Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid, 1799.
+
+[^8]: Mangado, Josep María. «Sor, Fernando». En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.
+
+[^9]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830.
+
+[^10]: Aguado, Dionisio. *Nuevo método para guitarra*. Madrid, 1843.
