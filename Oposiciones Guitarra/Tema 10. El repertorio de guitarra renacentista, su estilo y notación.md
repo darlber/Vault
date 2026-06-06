@@ -188,7 +188,7 @@
 ## Lectura
 ==Sobre la lectura debemos decir que lo recomendable es que el intérprete no utilice ningún tipo de transcripción, ya que hoy en día tenemos los facsímiles y además no es complicado leer una tablatura antigua. Esto ya lo defienden J. Tyler[^27], G. Arriaga[^28] y Turnbull[^29], ya que hay una gran cantidad de métodos y libros a nuestro alcance. Esto en parte es debido al fácil acceso que nos permite internet.==
 
-# Tablaturas, criterios de transcripción y edición 
+# Tablaturas, criterios de transcripción y edición #frase_revisar_opencode
 
 - Realizar una transcripción es una tarea delicada con varios retos.
 - Una dificultad importante es la elección de la afinación, ya que no hay una altura musical fija.
@@ -203,6 +203,13 @@
   - La tablatura original o facsímil para instrumentistas antiguos.
   - Una versión en una sola clave y afinación para guitarristas modernos.
   - Una versión en una o dos claves con afinaciones teóricas para análisis detallado.
+
+- Otros criterios específicos para la guitarra renacentista de cuatro órdenes:
+  - **Correspondencia cuerdas**: la tablatura italiana de cuatro líneas se transcribe a las cuatro cuartas cuerdas de la guitarra moderna (Re⁴–Sol⁴–Si⁴–Mi⁵), manteniendo la relación interválica original #comprobado (Arriaga, «La guitarra renacentista»)
+  - **Temple nuevo vs. viejo**: el editor debe identificar si la pieza usa temple nuevo (tercera–cuarta: cuarta justa) o temple viejo (tercera–cuarta: quinta justa) y ajustar la transcripción en consecuencia. La mayoría de las obras conservadas emplean temple nuevo #comprobado (Bermudo, *Declaración de instrumentos musicales*)
+  - **Rasgueado vs. punteado**: aunque el repertorio renacentista es mayoritariamente punteado, al transcribir pasajes que sugieran acordes verticales debe indicarse la técnica original mediante signos de rasgueado o notación específica #frase_sin_source
+  - **Reducción de valores**: se aplica la misma reducción que en la vihuela (2:1). Dada la textura más homofónica de la guitarra renacentista frente a la vihuela, el editor debe prestar especial atención a la claridad de la conducción de las voces #frase_revisar_opencode
+  - **Prefacio crítico**: debe incluir fuente utilizada, criterio de afinación elegido, solución adoptada para el temple y cualquier desviación respecto a la tablatura original #frase_revisar_opencode
 
 # Bibliografía #REVISAR_OPENCODE
 

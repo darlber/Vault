@@ -27,7 +27,7 @@
 
 ==El laúd fue perfeccionado y se consolidó ya en el Renacimiento, cuando se establecieron las escuelas de construcción. Los más famosos estuvieron en Bolonia, Padua y Roma.==
 ## Características del laúd renacentista
-==Philip Macleod-Coupe[^1] ha realizado uno de los estudios más completos sobre la construcción del laúd renacentista. El laúd es muy parecido a la vihuela y a la guitarra, ya que está fabricado en madera, con caja, mástil, clavijero, seis órdenes (seis cuerdas dobles) de tripa y trastes anudados al mástil. Sin embargo, existen ciertas diferencias:==
+==Philip Macleod-Coupe[^1] ha realizado uno de los estudios más completos sobre la construcción del laúd renacentista. El laúd es muy parecido a la vihuela y a la guitarra, ya que está fabricado en madera, con caja, mástil, clavijero, seis órdenes (el prima sencillo y los demás dobles) de tripa y trastes anudados al mástil. Sin embargo, existen ciertas diferencias:== #comprobado
 
 - En el laúd, la **caja es periforme**, el **fondo es ovalado** (costillas) y existe un **ángulo muy pronunciado** entre el clavijero y el mástil.
 - La configuración de **seis órdenes** era la más común, pero también existieron laúdes de **cinco y siete órdenes**.
@@ -288,6 +288,13 @@ Peter Martin[^14] ofrece pautas específicas para la interpretación de música 
 - Los **valores de duración** de las notas se reducen, por lo que se debe tener cuidado con la **acentuación rítmica**
 - Prestar atención a la **conducción de las voces**, más que a la transcripción literal
 - Respetar **al máximo la ornamentación y las técnicas estilísticas**
+
+- Otros criterios específicos para el laúd renacentista:
+  - **Tablatura alemana**: al transcribir desde tablatura alemana, debe reconstruirse primero la afinación del laúd original (generalmente cinco órdenes en las fuentes más antiguas, seis en las tardías) y después verificar la correspondencia letra-traste mediante la tabla alfabética del tratado correspondiente #frase_sin_source
+  - **Órdenes adicionales**: los laúdes de siete o más órdenes requieren decidir si se omiten los bordones graves (poco usados en el original) o si se reajusta la afinación de la guitarra moderna. La práctica más extendida es transcribir solo los seis órdenes superiores y anotar los bordones graves como notas opcionales en el pentagrama inferior #frase_revisar_opencode
+  - **Ornamentación**: glosas, redobles y trinos deben transcribirse con la grafía ornamental renacentista (notas pequeñas, grupos irregulares) en lugar de reducirse a figuras rítmicas convencionales, para preservar la intención expresiva original #comprobado (Brown, *Embellishing 16th Century Music*)
+  - **Musica ficta**: las alteraciones cromáticas no escritas deben añadirse entre paréntesis (o sobre el pentagrama en notación moderna) y justificarse en el prefacio crítico, especialmente en cadencias y pasajes donde la armonía modal lo requiere #frase_revisar_opencode
+  - **Correspondencia de la tercera mayor**: la afinación característica del laúd (tercera mayor entre el cuarto y tercer orden) se traslada a la guitarra moderna bajando la tercera cuerda a Fa#, lo que debe indicarse al inicio de la transcripción #frase_revisar_opencode
 ## Recomendaciones para la edición
 - Publicar **dos partituras**:
   1. **Original** (tablatura)

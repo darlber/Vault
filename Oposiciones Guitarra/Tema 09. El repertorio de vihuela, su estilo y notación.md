@@ -169,7 +169,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
 ![](attachments/Pasted%20image%2020250619132810.png)    
 ==Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos==  
 ![](attachments/Pasted%20image%2020250619132903.png)  
-==Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina teblatura francesa. Se diferenciaba principalmente de la italiana en el orden de las cuerdas, que era el mismo que usaba Milán y además en la utilización de letras en vez de números para indicar los trastes.==
+==Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina **tablatura francesa**. Se diferenciaba principalmente de la italiana en dos aspectos: el **orden de las cuerdas** (la línea superior representaba la cuerda más grave, al igual que en Milán) y la **utilización de letras** en vez de números para indicar los trastes (`a` = al aire, `b` = traste 1, `c` = traste 2, etc.). Los valores rítmicos se colocaban sobre el pentagrama, de manera similar a la tablatura italiana. Este sistema fue el más empleado en Francia, Inglaterra y Alemania para el laúd, y a partir del siglo XVII se convirtió en el estándar europeo para la notación laudística, desplazando a la tablatura italiana #comprobado (Tyler, *The Early Guitar*; Apel, *The Notation of Polyphonic Music*).== #frase_revisar_opencode
 
 ### Lectura #REVISAR_OPENCODE
 
@@ -228,6 +228,14 @@ Estas afinaciones coinciden con las del laúd renacentista.
     - **Tablatura original**
     - **Transcripción pautada**
     - **Estudio personal** sobre el estilo y el autor
+
+- **Criterios editoriales prácticos**:
+  - **Barras de compás**: las tablaturas originales no siempre las usan o las colocan irregularmente; el editor debe añadirlas con criterio musical, sin alterar la estructura rítmica original #frase_sin_source
+  - **Alteraciones**: en la música renacentista, las alteraciones no siempre se escriben (*musica ficta*). El editor debe indicar las alteraciones sugeridas entre paréntesis o mediante criterios explicados en el prefacio #frase_sin_source
+  - **Ligaduras de unión**: las tablaturas no usan ligaduras; al transcribir a notación moderna, deben añadirse cuando una nota se prolonga más allá de la cifra siguiente, siempre consultando la tablatura original para verificar la duración real #frase_sin_source
+  - **Reducción de valores**: la reducción 2:1 (breve → redonda, semibreve → blanca, etc.) es la más extendida, pero debe indicarse explícitamente en la cabecera de la edición. Algunos editores optan por una reducción 4:1 para facilitar la lectura rítmica moderna #comprobado (Apel, *The Notation of Polyphonic Music*)
+  - **Digitación**: debe ser mínima y basada en la práctica histórica, evitando digitaciones propias de la guitarra romántica o moderna que distorsionen la articulación original #frase_revisar_opencode
+  - **Prefacio crítico**: toda edición moderna debe incluir una nota editorial que explique: la fuente utilizada, los criterios de transcripción, las soluciones adoptadas para pasajes ambiguos y las desviaciones respecto al original #frase_revisar_opencode
 
 - **Visión histórica de las transcripciones**:
   - Durante la **primera mitad del siglo XX** hubo gran interés por la música antigua.

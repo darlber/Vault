@@ -350,11 +350,14 @@ La obra está ordenada en tres tomos y recoge:  ==
 - Ruz, Francisco Javier. 2010. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Ciudad: Editorial.
 - Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
-- Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Ciudad: Editorial.# NOTAS
+- Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Ciudad: Editorial.# NOTAS #REVISAR_OPENCODE
 
 [^1]: Pajares Alonso, R. L. *Historia de la música en 6 bloques*. Madrid: Editorial, 2014.  
 [^2]: Iborra, Alcaraz. *La guitarra: Historia, organología y repertorio*. Valencia: Editorial, 2010.  
 [^3]: Radole, Giuseppe. *Laúd, guitarra y vihuela*. Milán: Editorial, 1982.  
+
+[^4]: Varios autores. *Catálogo de la Exposición La Guitarra Española*. Madrid: Editorial, 1991.
+
 [^5]: Amat, Joan Carles. *Pequeño tratado sobre Guitarra española y Vandolas*. Barcelona, 1596.  
 [^6]: Reese, Gustave. *Music in the Renaissance*. Nueva York: Norton, 1954.  
 [^7]: Lowinsky, Edward. *Tonality and Atonality in Sixteenth-Century Music*. Berkeley: University of California Press, 1961.  
@@ -366,4 +369,3 @@ La obra está ordenada en tres tomos y recoge:  ==
 [^13]: Tyler, James. *The Early Guitar*. Oxford: Oxford University Press, 1980.  
 [^14]: Arriaga, Gerardo. *Literatura para guitarra*. Madrid: Editorial, 2005.  
 [^15]: Ruz, Francisco Javier. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Murcia: Editorial, 2010.  
-[^4]: Varios autores. *Catálogo de la Exposición La Guitarra Española*. Madrid: Editorial, 1991.  
