@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
-                "bFile": "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+                "aFile": "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
+                "bFile": "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey  (Working Tree)"
+              "title": "Diff: Tema 12. Tipos abstractos y Estructuras de datos  (Working Tree)"
             }
           }
         ]
@@ -209,9 +209,14 @@
   },
   "active": "cb72182473f8e88d",
   "lastOpenFiles": [
+    "osint_ct.md",
+    "Oposiciones TAI/Tema 13. Sistemas operativos.md",
+    "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
+    "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
+    "Oposiciones TAI/Tema 11. Periféricos.md",
+    "Oposiciones TAI/Tema 10. Informática básica.md",
     "Oposiciones TAI/Tema 09. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
     "Oposiciones TAI/Tema 01. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
-    "Oposiciones TAI/Tema 13. Sistemas operativos..md",
     "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
     "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
     "Oposiciones Guitarra/Tema 16. Escuelas no españolas.md",
@@ -230,11 +235,6 @@
     "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-    "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
-    "Oposiciones Guitarra/Tema 14. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guit. 2 mitad siglo XVIII.md",
-    "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
-    "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
-    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
     "Oposiciones Guitarra/TEMA 22.pdf",
     "Oposiciones Guitarra/TEMA 27.pdf",
     "Oposiciones Guitarra/TEMA 25.pdf",
