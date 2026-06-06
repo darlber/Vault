@@ -18,24 +18,24 @@
 2. [Bibliografía](#Bibliografía)
 # Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I: la escuela española
 ## Introducción. Ubicación histórica
-Este tema se desarrolla en la primera mitad del siglo XIX, periodo en el que se produce el final del Clasicismo musical y el inicio del Romanticismo. En el caso de la guitarra, el repertorio creado en esta época se denomina clásico-romántico y supone un momento de esplendor del instrumento.
+Este tema se desarrolla en la primera mitad del siglo XIX, periodo en el que se produce el final del Clasicismo musical y el inicio del Romanticismo. En el caso de la guitarra, el repertorio creado en esta época se denomina clásico-romántico y supone un momento de esplendor del instrumento[^11].
 
-En 1799 Federico Moretti publicó *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*, tratado dedicado a la reina María Luisa, en el que emplea un lenguaje peculiar para describir la grafía musical. El método sistematiza las posibilidades armónicas de la guitarra, los arpegios ejecutables, la posición del instrumento y de las manos, las escalas y la afinación, entre otros aspectos.
+En 1799 Federico Moretti publicó *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*, tratado dedicado a la reina María Luisa, en el que emplea un lenguaje peculiar para describir la grafía musical. El método sistematiza las posibilidades armónicas de la guitarra, los arpegios ejecutables, la posición del instrumento y de las manos, las escalas y la afinación, entre otros aspectos[^12].
 
 En 1821 publicó *Gramática razonada; música en forma de diálogo para los principiantes* y en 1824 su *Sistema uniclave*, con el que intentó simplificar la lectura musical.
 
-El tratado guitarrístico de Moretti trata de aplicar los principios del Padre Basilio (maestro de Dionisio Aguado) y resulta crucial en la consolidación del esplendor guitarrístico que culmina con Sor y Aguado.
+El tratado guitarrístico de Moretti trata de aplicar los principios del Padre Basilio (maestro de Dionisio Aguado) y resulta crucial en la consolidación del esplendor guitarrístico que culmina con Sor y Aguado[^13].
 
-En 1799 también se publican *Arte de tocar la guitarra española por música* de Fernando Ferandiere y *Escuela para tocar con perfección la guitarra de cinco y seis órdenes* de Víctor Prieto.
+En 1799 también se publican *Arte de tocar la guitarra española por música* de Fernando Ferandiere[^14] y *Escuela para tocar con perfección la guitarra de cinco y seis órdenes* de Víctor Prieto.
 
-En 1816 se reeditó el tratado para guitarra de Fernando Ferandiere. No obstante, según Emilio Pujol en su *Enciclopedia de la música* (París, 1923), el tratado de Moretti es el más importante.
+En 1816 se reeditó el tratado para guitarra de Fernando Ferandiere. No obstante, según Emilio Pujol en su *Enciclopedia de la música* (París, 1923), el tratado de Moretti es el más importante[^15].
 
 En 1800 todavía había en España guitarras de seis órdenes dobles, situación que se mantuvo aproximadamente hasta 1830. Sin embargo, en Francia e Italia eran habituales las guitarras de cinco órdenes. Moretti describe en *Principios para la guitarra de seis órdenes* cómo los órdenes sencillos de las guitarras francesas e italianas permitían una afinación más rápida y una mayor estabilidad.
 
 En España, la evolución fue de cinco órdenes dobles a seis dobles, para culminar en un instrumento de seis cuerdas simples. Este cambio vino motivado por la necesidad de una interpretación más fluida, la dificultad de afinación con órdenes dobles, la deficiente calidad de las cuerdas y la influencia ejercida por Moretti y su método.
 
-La guitarra en este periodo queda consolidada con seis cuerdas simples, fruto de la evolución organológica iniciada en la segunda mitad del siglo XVIII, época en la que convivieron la guitarra de seis órdenes dobles y la de cinco órdenes casi hasta final de siglo e incluso, como señala Charles Doisy, hasta comienzos del XIX.
-A principios del siglo XIX comienza una evolución técnica y organológica ligada al desarrollo del lenguaje musical y la notación. Como señala Aguado en su método de 1825:
+La guitarra en este periodo queda consolidada con seis cuerdas simples, fruto de la evolución organológica iniciada en la segunda mitad del siglo XVIII, época en la que convivieron la guitarra de seis órdenes dobles y la de cinco órdenes casi hasta final de siglo e incluso, como señala Charles Doisy, hasta comienzos del XIX[^16].
+A principios del siglo XIX comienza una evolución técnica y organológica ligada al desarrollo del lenguaje musical y la notación. Como señala Aguado en su *Escuela de guitarra* (1825)[^17]:
 
 > “De poco tiempo a esta parte, el género de música y el modo de escribirla han variado, y poco a poco se ha llegado a plasmar en el papel lo mismo que se ejecuta (esto es, los sonidos expresados con su justo valor). Don Federico Moretti fue el primero que empezó a escribir la música de guitarra de manera que se distinguiesen dos partes, una de canto y otra de acompañamiento. Vino después don Fernando Sor, y en sus composiciones nos descubrió el secreto de hacer que la guitarra fuese al mismo tiempo instrumento armónico y melodioso”.
 
@@ -45,7 +45,7 @@ El nuevo concepto estilístico, el progreso técnico y la evolución organológi
 
 La guitarra mantiene una doble vertiente: popular y de concierto. El instrumento sufre cambios estructurales que favorecen, hacia mediados del siglo XIX, la aparición de la “guitarra clásica o de concierto”, mientras que otras variantes populares dan lugar a la guitarra flamenca.
 
-En este periodo se consolidan innovaciones organológicas, muchas de ellas atribuidas a Aguado, algunas aún vigentes en la guitarra moderna. Entre estos cambios destacan:
+En este periodo se consolidan innovaciones organológicas, muchas de ellas atribuidas a Aguado, algunas aún vigentes en la guitarra moderna[^18]. Entre estos cambios destacan:
 
 - Varetaje en forma de abanico.  
 - Diapasón de resalte.  
@@ -55,21 +55,21 @@ En este periodo se consolidan innovaciones organológicas, muchas de ellas atrib
 - Introducción del tornavoz.  
 - Construcción más liviana mediante selección de maderas.  
 
-La evolución organológica de la época responde a la necesidad de obtener mayor sonoridad y un timbre acorde con la estética musical del momento.
+La evolución organológica de la época responde a la necesidad de obtener mayor sonoridad y un timbre acorde con la estética musical del momento[^18].
 ## Características de la guitarra clásico-romántica
 La guitarra de esta época presenta una plantilla más pequeña que la actual —que se consolidará con Antonio Torres— pero más grande que la guitarra barroca. Posee 18 trastes, una cejuela en el puente que separa las cuerdas, y un diapasón en resalte. Debido a su mayor tamaño respecto a la barroca, cuenta con más barras de refuerzo y abanico en la tapa. Además, se realiza un estudio de las maderas para lograr mejor calidad y las cuerdas graves de tripa son sustituidas por entorchado. El instrumento se afina como la guitarra moderna.
 
-Se documenta por primera vez la colaboración entre intérpretes y constructores. Por ejemplo, Fernando Sor en su *Méthode* (París, 1830) relata sus experiencias en Londres con el constructor Panormo y en París con René Lacóte. En París existía una intensa actividad guitarrística y proliferación de constructores. La mayoría de las guitarras francesas de seis cuerdas datan de 1820 a 1850, periodo en el que florecieron grupos de luthiers en París y Mirecourt. Destacan:
+Se documenta por primera vez la colaboración entre intérpretes y constructores. Por ejemplo, Fernando Sor en su *Méthode* (París, 1830) relata sus experiencias en Londres con el constructor Panormo y en París con René Lacóte. En París existía una intensa actividad guitarrística y proliferación de constructores. La mayoría de las guitarras francesas de seis cuerdas datan de 1820 a 1850, periodo en el que florecieron grupos de luthiers en París y Mirecourt[^19]. Destacan:
 
 - París: Grobert, Bernard, Laprévote, René Lacóte.  
 - Mirecourt: Coffe-Goguette, Nicolas Morlot, Gratel, entre otros.  
 
-Evans considera a Lacóte el principal constructor parisino, colaborando incluso con Fernando Sor en experiencias constructivas. Las guitarras de 1820 incorporan clavijas bloqueables, evitando deslizamiento de la cuerda. Posteriormente, Lacóte desarrolla el sistema de engranajes en la cabeza y el *Piédestal Lacóte*, soporte que libera las manos del intérprete, similar al trípode de Dionisio Aguado. Otras innovaciones de Lacóte:
+Evans considera a Lacóte el principal constructor parisino, colaborando incluso con Fernando Sor en experiencias constructivas[^20]. Las guitarras de 1820 incorporan clavijas bloqueables, evitando deslizamiento de la cuerda. Posteriormente, Lacóte desarrolla el sistema de engranajes en la cabeza y el *Piédestal Lacóte*, soporte que libera las manos del intérprete, similar al trípode de Dionisio Aguado[^19]. Otras innovaciones de Lacóte:
 
 - *Tabouret*.  
 - *Diapason Guitare Lacóte. Mástil coulé*.  
 
-Algunos cambios fueron impulsados por los guitarristas, como el puente y el refuerzo interior de Sor. Carulli solicitó a Lacóte una guitarra de 10 cuerdas, para tocar bajos sin pisarlos con la mano izquierda y acompañar las piezas.
+Algunos cambios fueron impulsados por los guitarristas, como el puente y el refuerzo interior de Sor. Carulli solicitó a Lacóte una guitarra de 10 cuerdas, para tocar bajos sin pisarlos con la mano izquierda y acompañar las piezas[^19].
 ### Características de la guitarra francesa típica
 - Cabeza en forma de 8 con clavijas, unida al mástil mediante una especie de V.  
 - Reverso del mástil lacado en negro; unión al cuerpo mediante tacón cónico.  
@@ -79,15 +79,15 @@ Algunos cambios fueron impulsados por los guitarristas, como el puente y el refu
 - Aros y fondo de arce o palisandro; fondo de contrachapado sobre pino (más económico pero con menor sonoridad).  
 - Tapa sin decoración, solo ribete e incrustaciones de anillos concéntricos alrededor de la boca.  
 ## Revalorización de la guitarra
-La guitarra atraviesa en la segunda mitad del siglo XVIII un periodo de decadencia tras su apogeo barroco. El interés disminuye a mediados del siglo XVIII debido a la adición de un orden más y al paso a cuerdas sencillas.  
+La guitarra atraviesa en la segunda mitad del siglo XVIII un periodo de decadencia tras su apogeo barroco. El interés disminuye a mediados del siglo XVIII debido a la adición de un orden más y al paso a cuerdas sencillas[^11].  
 
 Cuando el instrumento se consolida y predomina el nuevo estilo musical llamado clasicismo, vuelve a surgir interés por su carácter íntimo y expresivo, otorgándole una sonoridad acorde con la época.  
 
-Los compositores guitarristas del periodo contribuyen a que la guitarra alcance mayor apreciación entre los músicos, favoreciendo que compositores no guitarristas, como Boccherini, escriban para el instrumento.  
+Los compositores guitarristas del periodo contribuyen a que la guitarra alcance mayor apreciación entre los músicos, favoreciendo que compositores no guitarristas, como Boccherini, escriban para el instrumento[^18].  
 
-Además, se produce un gran desarrollo de música de cámara, en la que la guitarra tiene un papel destacado, llegando incluso a intervenir en óperas de Rossini, Donizetti y Weber.  
+Además, se produce un gran desarrollo de música de cámara, en la que la guitarra tiene un papel destacado, llegando incluso a intervenir en óperas de Rossini, Donizetti y Weber[^21].  
 
-La revalorización del instrumento también depende del progreso técnico, impulsado por el auge de métodos didácticos elaborados por guitarristas.
+La revalorización del instrumento también depende del progreso técnico, impulsado por el auge de métodos didácticos elaborados por guitarristas[^11].
 ## Evolución musical. Estilo y formas
 
 La estética del clasicismo rompe con la concepción barroca de texturas polifónicas contrapuntísticas y armonías complejas, dando paso a la sencillez y naturalidad musical.  

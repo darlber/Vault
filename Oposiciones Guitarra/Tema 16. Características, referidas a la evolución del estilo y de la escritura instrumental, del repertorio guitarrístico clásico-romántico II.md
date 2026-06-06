@@ -195,6 +195,40 @@ Justo antes de su muerte, presenta su *Op. 65* a un concurso que organizaba Niko
 
 Escribió mucha música para guitarra sola y música de cámara, además de un método, llamado *Metodo teorico e pratico*, en el cual manifiesta conocer las enseñanzas de Carulli y de Sor. Nikolai Makaroff lo consideraba un grandísimo guitarrista, e incluso su protegido. Podemos observar cómo su música es densa, con muchas notas en los acordes. Desarrolló otro modelo de escritura que venía del piano-forte.
 
+## Síntesis estilística de las escuelas no españolas #REVISAR_OPENCODE
+
+==La escuela italiana se caracteriza por el predominio del virtuosismo instrumental y la influencia directa de la tradición operística. Compositores como Giuliani, Carulli y Carcassi desarrollan un lenguaje idiomático que explota las posibilidades técnicas de la guitarra: arpegios veloces, escalas extendidas, pasajes de acordes y una textura predominantemente homofónica. La melodía, de clara inspiración belcantista, se sitúa en el registro agudo mientras el acompañamiento se confía a arpegios regulares[^1].==
+
+==Giuliani representa la culminación de la escuela italiana. Su escritura, más evolucionada que la de sus contemporáneos, integra la forma sonata clásica con el virtuosismo instrumental en sus conciertos Op. 30, 36 y 70. La claridad de su textura a dos voces (melodía y bajo con acompañamiento arpegiado) establece un modelo para la guitarra romántica. Sus obras aparecen ligadas al viejo clasicismo italiano, pero el aspecto virtuosístico es parejo al del violín y el piano[^2].==
+
+==Carulli, el más clásico de los italianos, mantiene una escritura conservadora basada en patrones armónicos regulares y una textura homofónica. Su música de programa y su tratamiento orquestal de la guitarra anticipan ciertos rasgos románticos, pero su lenguaje armónico permanece anclado en el Clasicismo. La unión del legado armónico de la escuela napolitana con las nuevas ideas europeas maduradas en París define su estilo[^3].==
+
+==Carcassi, melódico por excelencia, se aleja de los efectos tímbricos orquestales y cultiva una línea melódica pura que conecta directamente con el aficionado. Sus *Estudios melódicos Op. 60* constituyen un puente entre la didáctica y la música de salón. La armonía, aunque aparentemente simple, revela un tratamiento horizontal de las líneas melódicas de gran maestría.==
+
+==La escuela francesa, representada por Napoleón Coste, se distingue por su vinculación con la tradición polifónica de Sor. Coste hereda la concepción soriana de la escritura a dos y tres voces y la aplica a un lenguaje más cercano al Romanticismo. Su interés por las guitarras de siete cuerdas refleja una búsqueda de mayor amplitud sonora y armónica. El estilo de Coste es más denso y armónicamente más complejo que el de sus contemporáneos franceses[^4].==
+
+==La escuela vienesa (Diabelli, Molitor, Matiegka) se integra en el Clasicismo germánico. Diabelli escribe una música funcional destinada al consumo doméstico que combina la guitarra con el piano en formaciones camerísticas. La producción de estos autores refleja el gusto vienés por la música de salón accesible, sin grandes exigencias técnicas pero con elegancia formal. Schubert utiliza la guitarra como herramienta compositiva en sus lieder, lo que demuestra la presencia del instrumento en el círculo musical vienés[^5].==
+
+==La escuela rusa, dominada por Sychra y la tradición de la guitarra de siete cuerdas, desarrolla un repertorio independiente del resto de Europa. La afinación abierta en Re mayor (d, a, d', g', b, d'', g'') permite texturas acordales características y una explotación de los bordones sin paralelo en la guitarra de seis cuerdas. El repertorio ruso combina obras originales con transcripciones de música folclórica y obras de compositores rusos, creando un corpus singular[^6].==
+
+==La escuela húngara, con Mertz como figura central, representa el Romanticismo guitarrístico más avanzado. Su escritura densa, con acordes amplios y texturas pianísticas que toman como modelo el piano-forte, anticipa el repertorio de la guitarra moderna. Mertz desarrolla un estilo tardorromántico caracterizado por la riqueza armónica, el cromatismo y la amplitud del registro. Sus *Bardenklänge* constituyen la obra más significativa del repertorio guitarrístico centroeuropeo anterior a la renovación de Tárrega[^7].==
+
+## La escritura instrumental en las escuelas no españolas #REVISAR_OPENCODE
+
+==La evolución de la escritura guitarrística en las escuelas no españolas sigue una trayectoria desde la notación esquemática heredada del siglo XVIII hasta la notación detallada y expresiva del Romanticismo. Carulli y Giuliani representan dos polos de esta evolución[^8].==
+
+==Carulli, en su *Méthode complète pour la guitare* (1810), utiliza una notación clara pero esquemática: las indicaciones de digitación son escasas y las dinámicas se limitan a los signos básicos (*p*, *f*). Su escritura se basa en bloques armónicos arpegiados, sin la separación de voces que caracteriza a la escuela española de Moretti y Sor.==
+
+==Giuliani marca un punto de inflexión en la evolución de la notación. Se le atribuye el mérito de haber perfeccionado la escritura guitarrística al incorporar los valores reales de duración de los sonidos, superando la notación primitiva heredada de la tablatura que aún perduraba a principios del siglo XIX. Su tratamiento rítmico, con puntillos, ligaduras de prolongación y silencios completivos, permite una lectura rítmica precisa[^2].==
+
+==La escritura de Giuliani muestra siempre una clara diferenciación entre la línea del canto y el bajo, con la armonía central expresada mediante arpegios que se unen al canto o al bajo. Esta textura a tres planos (melodía, armonía arpegiada, bajo) constituye el modelo de escritura guitarrística del Romanticismo y será adoptada por la mayoría de los compositores del siglo XIX.==
+
+==Legnani representa la escritura virtuosística extrema: sus obras contienen pasajes de arpegios veloces, escalas cromáticas y acordes extendidos que exigen un dominio completo del instrumento. Apenas contiene didáctica, pero su notación es precisa y detallada en las indicaciones de digitación y articulación.==
+
+==Coste, como heredero de Sor, aplica los principios de la escritura polifónica soriana (dos y tres voces reales, dinámicas detalladas, ligados de expresión) a un lenguaje romántico. Su traducción y ampliación del método de Sor difunde la notación detallada en Francia y contribuye a la normalización europea de la escritura guitarrística.==
+
+==Mertz desarrolla un modelo de escritura pianística para la guitarra: acordes densos de hasta seis notas, texturas llenas, cambios de registro abruptos y una explotación del registro grave que requiere una guitarra de mayor tesitura. Su *Op. 65* y sus *Bardenklänge* ejemplifican este estilo tardorromántico que lleva la escritura guitarrística a sus límites técnicos y notacionales. La influencia del piano-forte es evidente en su tratamiento armónico y en la amplitud de su registro.==
+
 ## Bibliografía
 
 - Denis, Francoise-Emmanuelle: *Comentario de Mertz; Manjón, Regondi, Coste, Broca* (1986)
@@ -208,3 +242,21 @@ Escribió mucha música para guitarra sola y música de cámara, además de un m
 - Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
 - Wade, Graham: *Traditions of the Classical Guitar* (1983)
 - Zuth, Josef: *Simon Molitor und die Wiener gitarristik* (um 1800)
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+
+[^2]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
+
+[^3]: Radole, Giuseppe. *Laúd, guitarra y vihuela*. Barcelona: EDB, 1982.
+
+[^4]: Denis, Françoise-Emmanuelle. «Comentario de Mertz; Manjón, Regondi, Coste, Broca». 1986.
+
+[^5]: Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
+
+[^6]: Timofeyev, Vitalyevich. *The Golden Age of the Russian Guitar: Repertoire, Performance Practice, and Social Function of the Russian Seven-string Guitar Music; 1800-1850*. 1999.
+
+[^7]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. 2005.
+
+[^8]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
