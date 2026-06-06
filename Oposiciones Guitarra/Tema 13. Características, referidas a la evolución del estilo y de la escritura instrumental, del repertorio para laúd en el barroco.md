@@ -29,7 +29,7 @@
 # Introducción
 Desde principios del siglo XVII hasta mediados del siglo XVIII, el **laúd renacentista** vivió una etapa de esplendor en Europa, destacando especialmente en **Italia, Francia, Alemania e Inglaterra**. Durante este período se publicaron numerosos tratados, siendo ya en el Renacimiento **Petrucci** en Italia el primero en publicar música para laúd (1507).
 
-El instrumento no experimentó grandes cambios hasta el siglo siguiente, debido a transformaciones en los estilos musicales. Sin embargo, este siglo fue testigo de la **mayor producción de música y tratados teóricos** dedicados al laúd.
+El instrumento no experimentó grandes cambios hasta el siglo siguiente, debido a transformaciones en los estilos musicales. Sin embargo, este siglo fue testigo de la **mayor producción de música y tratados teóricos** dedicados al laúd, como documentan Harwood y Prynne[^1].
 
 ## Evolución del laúd renacentista
 
@@ -46,7 +46,7 @@ La evolución del instrumento incluyó **cambios organológicos** importantes:
   - Mayor número de trastes (hasta 12).
   - Afinación más común en **Re**.
 
-El **primer registro de la adición de un séptimo orden** data de **1511**, según **Virdung**.
+Macleod-Coupe[^2] estudia en detalle la construcción del laúd y su evolución organológica. El **primer registro de la adición de un séptimo orden** data de **1511**, según **Virdung**.
 
 # Características generales del repertorio laudístico barroco #REVISAR_OPENCODE
 
@@ -74,7 +74,7 @@ La evolución técnica del instrumento permitió favorecer el **estilo polifóni
 - Aparición del **bajo continuo**.
 - Gusto por la **ornamentación**.
 
-El laúd se adaptó rápidamente a este nuevo estilo, destacando tanto en el **bajo continuo** como como **instrumento solista**, gracias a sus características **armónicas y polifónicas**.
+El laúd se adaptó rápidamente a este nuevo estilo, destacando tanto en el **bajo continuo** como como **instrumento solista**, gracias a sus características **armónicas y polifónicas**. Roche y Roche[^3] proporcionan un marco terminológico de referencia para la música de este período.
 ## Evolución técnica
 Además de los cambios organológicos, los **laudistas** tuvieron que adaptar su **técnica** a composiciones de textura **polifónico-armónica más compleja**. Esto se debió a que la **línea del bajo** se volvió más activa, sirviendo como soporte armónico de la voz principal y secundaria.
 ### Adaptaciones de la mano derecha
@@ -97,7 +97,7 @@ Además de los cambios organológicos, los **laudistas** tuvieron que adaptar su
 - Conservación de la **sonoridad profunda y natural de la yema**.  
 - Única excepción: **Thomas Mace**, que menciona la utilidad de la **uña** para música de conjunto.
 
-Los laudistas desarrollaron **estrategias y recursos** para interpretar correctamente la música de su tiempo, logrando una técnica de ejecución envidiable.
+Poulton[^4] analiza en profundidad la técnica de ejecución laudística, ofreciendo claves esenciales para comprender estos recursos. Los laudistas desarrollaron **estrategias y recursos** para interpretar correctamente la música de su tiempo, logrando una técnica de ejecución envidiable.
 ## Nuevos géneros y formas
 Las piezas de carácter **contrapuntístico**, como **fantasías y ricercare**, así como las **danzas**, se estructuraban en un **único esquema armónico**, alternando danzas rápidas y lentas, dando origen a la **suite**.  
 ### Composición de danzas
@@ -144,7 +144,7 @@ A finales del siglo XVII:
 
 ==La ornamentación constituye uno de los rasgos más característicos del repertorio laudístico barroco. Los laudistas franceses desarrollaron un sistema de *agréments* que incluía **trinos** (*tremblements*), **mordentes** (*pincés*), **apoyaturas** (*ports de voix*), **grupetos** (*tour de gosier*) y **arpegios** (*harpègement*). Estos ornamentos no eran meros adornos superficiales, sino elementos estructurales que contribuían a la expresión de los afectos y a la articulación del discurso musical.==
 
-==La ejecución de los ornamentos en el laúd barroco presenta particularidades técnicas derivadas de la naturaleza del instrumento. Los trinos, por ejemplo, se realizaban generalmente con los dedos de la mano izquierda mediante ligados, mientras que los mordentes requerían un movimiento rápido de presión sobre el traste. Los arpegios, por su parte, se ejecutaban con la mano derecha distribuyendo las notas del acorde en sucesión rápida, técnica que anticipa el arpegiado característico de la guitarra clásica. Walls[^1] ofrece un análisis detallado de las prácticas ornamentales en el laúd barroco y su relación con la retórica musical de la época.==
+==La ejecución de los ornamentos en el laúd barroco presenta particularidades técnicas derivadas de la naturaleza del instrumento. Los trinos, por ejemplo, se realizaban generalmente con los dedos de la mano izquierda mediante ligados, mientras que los mordentes requerían un movimiento rápido de presión sobre el traste. Los arpegios, por su parte, se ejecutaban con la mano derecha distribuyendo las notas del acorde en sucesión rápida, técnica que anticipa el arpegiado característico de la guitarra clásica. Walls[^5] ofrece un análisis detallado de las prácticas ornamentales en el laúd barroco y su relación con la retórica musical de la época.==
 
 ==El **style brisé** francés, cultivado por Denis Gaultier y sus contemporáneos, llevó la ornamentación a un nivel de sofisticación particular. En este estilo, la ornamentación no se limitaba a añadir notas de adorno, sino que impregnaba toda la textura musical, con una constante variación y rearticulación de las voces que creaba una sensación de improvisación y libertad expresiva. Esta concepción ornamentada del discurso musical influyó profundamente en la escuela francesa de clavecín y, a través de ella, en toda la música instrumental europea.==
 
@@ -172,7 +172,7 @@ La afinación más utilizada era:
 
 ==Además de la afinación estándar, los laudistas barrocos empleaban con frecuencia afinaciones alternativas o *scordatura*, que consistían en modificar la altura de una o varias cuerdas para facilitar la ejecución en determinadas tonalidades o para obtener efectos tímbricos y armónicos específicos. Esta práctica, común también en el repertorio violinístico barroco, permitía al laudista explorar recursos técnicos y expresivos que no eran posibles con la afinación ordinaria.==
 
-==Las afinaciones alternativas más documentadas incluyen la **afinación en Re menor** (con el sexto orden descendido un tono), la **afinación en Sol mayor** (con varios órdenes ascendidos o descendidos para adaptarse a la tonalidad) y diversas combinaciones de *scordatura* empleadas por compositores como Weiss y Bach. La elección de la afinación respondía tanto a criterios prácticos (facilitar digitaciones complejas) como expresivos (obtener resonancias armónicas particulares al aprovechar las cuerdas al aire). North[^2] documenta estas prácticas en el contexto más amplio del bajo continuo y la evolución de la escritura instrumental barroca.==
+==Las afinaciones alternativas más documentadas incluyen la **afinación en Re menor** (con el sexto orden descendido un tono), la **afinación en Sol mayor** (con varios órdenes ascendidos o descendidos para adaptarse a la tonalidad) y diversas combinaciones de *scordatura* empleadas por compositores como Weiss y Bach. La elección de la afinación respondía tanto a criterios prácticos (facilitar digitaciones complejas) como expresivos (obtener resonancias armónicas particulares al aprovechar las cuerdas al aire). North[^6] documenta estas prácticas en el contexto más amplio del bajo continuo y la evolución de la escritura instrumental barroca.==
 
 ==El estudio de las afinaciones alternativas resulta esencial para el transcriptor moderno, ya que una misma pieza puede presentar dificultades muy diferentes según la afinación original. La comprensión de la *scordatura* permite, además, identificar la intención expresiva del compositor y tomar decisiones informadas sobre la transcripción a la guitarra moderna.==
 
@@ -256,7 +256,7 @@ Compositores destacados:
   - Logros **técnicos y sonoros** dentro de las posibilidades del laúd  
 - Uso característico de **diferentes cuerdas para escalas**, creando un efecto distintivo  
 
-La muerte de Weiss coincidió con el **declive del laúd** como instrumento popular.
+La edición de las obras completas de Weiss realizada por Chiesa[^7] constituye la referencia fundamental para el estudio de su repertorio. La muerte de Weiss coincidió con el **declive del laúd** como instrumento popular.
 # Tablaturas y criterios de transcripción
 ## Tablaturas
 Comprender la **afinación y el funcionamiento del laúd** facilita la transcripción de tablaturas a **notación moderna**.  
@@ -302,7 +302,7 @@ Para la transcripción de música de laúd a **guitarra actual**, se suelen esta
 
 Este enfoque permite realizar transcripciones **prácticas y respetuosas con el original**, adaptadas a las capacidades de la guitarra moderna.
 ## Transcripciones: Tablatura barroca
-Según José Luis Rojo, la transcripción de tablaturas barrocas requiere un **método "nota a nota"**.  
+Según José Luis Rojo[^8], la transcripción de tablaturas barrocas requiere un **método «nota a nota»**.  
 ### Aspectos clave:
 - **Conocimiento del mástil**: Es necesario familiarizarse con el **mástil del laúd barroco**, aunque existen algunos **atajos** para facilitar el trabajo.  
 - **Afinación de las cuerdas**:  
@@ -311,26 +311,26 @@ Según José Luis Rojo, la transcripción de tablaturas barrocas requiere un **m
 - **Bajos del laúd**:  
   - Normalmente afinados según la **armadura de la tonalidad**, aunque en la mayoría de los casos la **tablatura lo indica**.  
 ### Referencias para ampliar conocimientos:
-- Javier Ruz Mata: *La guitarra del barroco abriéndose hueco en el arte de la música de los afectos*  
+- Ruz Mata[^9], *La guitarra del barroco abriéndose hueco en el arte de la música de los afectos*  
 - Stanley Yates: *Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar*  
 
 Estas fuentes permiten profundizar en la **escritura barroca y transcripciones de Bach**.
 # La obra para laúd de J. S. Bach
-Se tratarán las obras **seguras** de Bach para laúd, conocidas por sus manuscritos y transcripciones.  
-## Suite en Sol Menor, BWV 995
+Boyd[^10] sitúa estas obras en el contexto de la producción instrumental de Bach. Se tratarán las obras **seguras** de Bach para laúd, conocidas por sus manuscritos y transcripciones.  
+## Suite en sol menor, BWV 995
 - Composición:  
   - Preludio a la manera francesa  
   - Cuatro danzas tradicionales: **Allemande, Courante, Sarabande, Giga**  
   - Dos **Gavotas**  
 
-- Fecha probable: **1727-1731**  
+- Fecha probable: **1727-1731** (Martínez Miura[^11] sitúa esta obra en el contexto de la producción tardía de Bach)  
 - Origen: Versión de la *Suite n.º 5 en Do menor* para violonchelo (BWV 1011)  
 - Características:  
-  - Escrita específicamente para laúd (*Piéces pour la luth / á / Monsieur Schouster / par / J.S. Bach*)  
+  - Escrita específicamente para laúd (*Piéces pour la luth / á / Monsieur Schouster / par / J.S. Bach*), recogida en la edición completa de Cherici[^12]  
   - Presenta **posiciones y acordes forzados**, poco habituales en Bach  
   - Idealización de la obra que no siempre tiene en cuenta las **posibilidades reales del instrumento**  
   - La copia de la tablatura sugiere alternativas, aunque contiene **inconsistencias y discrepancias**
-## Suite en Mi Menor, BWV 996
+## Suite en mi menor, BWV 996
 - Composición originalmente para **Lautenwerk**:  
   - Instrumento de tecla similar al clavecín, pero con **cuerdas de tripa**  
   - El timbre es muy similar al laúd gracias a que al pulsar una tecla, una **púa ataca la cuerda**  
@@ -342,7 +342,7 @@ Se tratarán las obras **seguras** de Bach para laúd, conocidas por sus manuscr
 - Estilo:  
   - Probablemente la obra más antigua de las tratadas  
   - Recuerda composiciones de la época de **Mülhausen** (~1707) por el **espíritu y estilo de las danzas**
-## Partita en Do Menor, BWV 997
+## Partita en do menor, BWV 997
 - Posible instrumento original: **teclado**, aunque no hay certeza  
   - Única copia con indicación clara: autógrafo de **C.P.E. Bach** que dice:  
     *“C moll / Praeludium, Fugue, Sarabande / und Gigue / für's Clavier von J.S. Bach”*  
@@ -352,38 +352,38 @@ Se tratarán las obras **seguras** de Bach para laúd, conocidas por sus manuscr
     - Motivo interrumpido por una **séptima descendente** y continúa por **grados cromáticos**  
   - **Sarabanda**: su material sirvió de base para el coro final de la *Pasión según San Mateo* (según Chafe, 1982)  
   - **Giga**: contrasta con la Sarabanda, caracterizada por **apoyaturas y dobles** con sucesión de **semicorcheas**
-## Preludio, Fuga y Allegro en Mi Bemol Menor, BWV 998
+## Preludio, Fuga y Allegro en mi bemol menor, BWV 998
 - Fecha aproximada: **1740**  
 - Título original: *Prelude pour la Luth ou Cembal par J.S. Bach*  
 - Características:  
   - Obra tardía con escritura **más orientada al laúd**  
   - Presenta una solución **intermedia** entre la escritura para teclado y laúd  
-## Preludio en Do Menor, BWV 999
+## Preludio en do menor, BWV 999
 - Fecha aproximada: **1720-1721**  
 - Técnica característica: uso de **acordes arpegiados**, típica de preludios para **laúd barroco**  
 - Fuente: conservado gracias a la copia de **Johann Peter Kellner**, organista famoso y amigo de Haendel
-## Fuga en Sol Menor, BWV 1000
+## Fuga en sol menor, BWV 1000
 - Fecha: **1723**, justo después de la mudanza de Bach de **Cóthen a Leipzig**  
-- Origen: transcripción para laúd del **segundo movimiento de la Sonata en cuatro movimientos para violín BWV 1001 (1720)**  
+- Origen: transcripción para laúd del **segundo movimiento de la Sonata en cuatro movimientos para violín BWV 1001 (1720)**; Kehr[^13] estudia las sonatas y partitas para violín solo de Bach.  
 - Manuscritos: no existe versión autógrafa, pero sí una **copia en tablatura**, probablemente escrita por **Christian Weyrauch**, amigo y laudista de Bach  
-## Suite en Mi Mayor, BWV 1006
+## Suite en mi mayor, BWV 1006
 - Fecha aproximada: **1737-1740**  
 - Origen: transcripción de la **Partita BWV 1006 para violín** escrita en Cóthen (1720)  
 - Consideraciones sobre el instrumento:  
-  - Notación en **dos pentagramas** sugiere teclado  
+  - Notación en **dos pentagramas** sugiere teclado (Wolff[^14] analiza las fuentes manuscritas de estas transcripciones)  
   - La **tesitura** no es óptima para clavecín  
   - El registro medio predomina y funciona como soporte armónico, lo que indica **adaptación al laúd barroco**  
 ## Otras obras de Bach para laúd en grupo orquestal
 - **1723**: *Pasión según San Juan*, BWV 245  
 - **1727**: *Oda Funeral para la Reina Cristine Eberhardine*, BWV 198  
-- **1729**: Primera versión de la *Pasión según San Mateo*  
+- **1729**: Primera versión de la *Pasión según San Mateo*. Tureck[^15] ofrece claves fundamentales para la interpretación de la obra de Bach.  
 # Conclusión #REVISAR_OPENCODE
 
 ==El repertorio para laúd en el Barroco constituye uno de los capítulos más ricos y fascinantes de la historia de la música instrumental. A lo largo de este período, el laúd experimentó una evolución estilística y técnica que lo llevó desde la tradición polifónica renacentista hasta las formas más elaboradas del Barroco tardío, adaptándose a las nuevas exigencias estéticas y funcionales sin perder su identidad como instrumento de cuerda pulsada.==
 
 ==Las **características fundamentales** del repertorio laudístico barroco —la suite como forma principal, el uso del bajo continuo, la ornamentación como recurso expresivo esencial, la escritura en tablatura y la textura polifónico-armónica— reflejan la capacidad del instrumento para integrarse en las corrientes estéticas dominantes de la época al tiempo que mantenía una tradición técnica y notacional propia. La **evolución del estilo** desde el *style brisé* francés del primer Barroco hasta la síntesis contrapuntística y armónica de Weiss y Bach muestra la progresiva integración del laúd en el lenguaje musical común del siglo XVIII.==
 
-==La **evolución de la escritura instrumental** para laúd es igualmente notable: desde la tablatura renacentista de seis órdenes hasta las complejas tablaturas barrocas de trece órdenes, el sistema de notación refleja tanto el desarrollo técnico del instrumento como las cambiantes concepciones musicales. La transcripción de este repertorio a la guitarra moderna, con los criterios y precauciones expuestos, permite mantener vivo un legado musical de valor incalculable. Yates[^3] ha desarrollado una aproximación histórica a la transcripción que respeta las características idiomáticas del laúd barroco y las adapta a las posibilidades de la guitarra moderna, abriendo nuevas vías para la interpretación de este repertorio.==
+==La **evolución de la escritura instrumental** para laúd es igualmente notable: desde la tablatura renacentista de seis órdenes hasta las complejas tablaturas barrocas de trece órdenes, el sistema de notación refleja tanto el desarrollo técnico del instrumento como las cambiantes concepciones musicales. La transcripción de este repertorio a la guitarra moderna, con los criterios y precauciones expuestos, permite mantener vivo un legado musical de valor incalculable. Yates[^16] ha desarrollado una aproximación histórica a la transcripción que respeta las características idiomáticas del laúd barroco y las adapta a las posibilidades de la guitarra moderna, abriendo nuevas vías para la interpretación de este repertorio.==
 
 
 # Bibliografía #REVISAR_OPENCODE
@@ -407,9 +407,35 @@ Se tratarán las obras **seguras** de Bach para laúd, conocidas por sus manuscr
 
 # NOTAS #REVISAR_OPENCODE
 
-[^1]: Walls, *The Baroque Lute*.
+[^1]: Harwood, Ian; Prynne, Michael. *A Brief History of the Lute*. Richmond: Lute Society, 1975.
 
-[^2]: North, *Continuo Playing on the Lute, Archlute and Theorbo*.
+[^2]: Macleod-Coupe, Philip. *Lute Construction*. s.l.: edición del autor, 1978.
 
-[^3]: Yates, *Bach's Unaccompanied String Music*.
+[^3]: Roche, Jerome; Roche, Elizabeth. *A Dictionary of Early Music: From the Troubadours to Monteverdi*. Oxford: Oxford University Press, 1981.
+
+[^4]: Poulton, Diana. *Lute Playing Technique*. London: The Lute Society, 1981.
+
+[^5]: Walls, Peter. *The Baroque Lute*. Oxford: Oxford University Press, 1990.
+
+[^6]: North, Nigel. *Continuo Playing on the Lute, Archlute and Theorbo*. London: Faber Music, 1987.
+
+[^7]: Chiesa, Ruggero, ed. *Intavolatura di liuto di Sylvius Leopold Weiss*. Milano: Suvini Zerboni, 1969.
+
+[^8]: Rojo, José Luis. «La música de laúd en la guitarra: una aproximación práctica». *Guitarra Artepulsado*, 2004.
+
+[^9]: Ruz Mata, Francisco Javier. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Murcia: Editorial, 2010.
+
+[^10]: Boyd, Malcolm. *Bach*. 3.ª ed. Oxford: Oxford University Press, 2006.
+
+[^11]: Martínez Miura, Enrique. *Bach: Obra Completa Comentada*. Barcelona: Ediciones Península, 1997.
+
+[^12]: Cherici, Paolo, ed. *Opere Complete per liuto di J.S. Bach*. Milano: Suvini Zerboni, 1980.
+
+[^13]: Kehr, Günter. *La obra para violín solo de J.S. Bach*. Mainz: s.e., 1979.
+
+[^14]: Wolff, Christoph. *Johann Sebastian Bach: El Músico Sabio*. Barcelona: Ma Non Troppo, 2008.
+
+[^15]: Tureck, Rosalyn. *Introducción a la interpretación de J.S. Bach*. Madrid: Alpuerto, 1980.
+
+[^16]: Yates, Stanley. *Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar*. Pacific: Mel Bay, 1998.
 
