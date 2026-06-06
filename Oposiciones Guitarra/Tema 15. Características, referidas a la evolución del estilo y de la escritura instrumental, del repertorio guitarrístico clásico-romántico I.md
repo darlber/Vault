@@ -259,7 +259,7 @@ Aguado mantuvo numerosas amistades entre guitarristas, como François de Fossa y
 
 En cuanto a su obra guitarrística:
 
-- Composiciones para guitarra, muchas en forma de vals consideradas "música de salón".  
+- Composiciones para guitarra, muchas en forma de vals consideradas «música de salón».  
 - Obras destacadas:  
   - Op. 2 *Trois Rondo Brillants* (París, 1825)  
   - Op. 15 *Le Menuet affandangado*  
