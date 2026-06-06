@@ -48,10 +48,10 @@ El proceso de enseñanza-aprendizaje en estudios musicales debe estar alineado c
 La legislación educativa española lo recoge en los objetivos generales:
 
 - **Enseñanzas elementales**:  
-  *“Tocar en público con la necesaria seguridad en sí mismos, para comprender la función comunicativa de la interpretación musical.”*
+  *«Tocar en público con la necesaria seguridad en sí mismos, para comprender la función comunicativa de la interpretación musical.»*
 
 - **Enseñanzas profesionales**:  
-  *“Actuar en público con autocontrol, dominio de la memoria y capacidad auditiva.”*
+  *«Actuar en público con autocontrol, dominio de la memoria y capacidad auditiva.»*
 
 ### La importancia del autocontrol
 
@@ -84,7 +84,7 @@ Lograr un **autocontrol** que permita superar estas reacciones y mostrar la máx
 
 Por ello, en las Enseñanzas Profesionales se destaca la importancia de:
 
-> *“Valorar el dominio del cuerpo y de la mente para utilizar con seguridad la técnica y concentrarse en la audición e interpretación.”*
+> *«Valorar el dominio del cuerpo y de la mente para utilizar con seguridad la técnica y concentrarse en la audición e interpretación.»*
 
 ### Técnicas de concienciación corporal
 
@@ -99,9 +99,7 @@ Existen varias técnicas que ayudan a gestionar estos problemas, todas relaciona
 
 Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendimiento posible a través de una adecuada preparación y terapia corporal y mental.
 
-#REVISAR_OPENCODE
-
-## Aspectos anatómicos y fisiomecánicos en relación con la técnica de la guitarra
+## Aspectos anatómicos y fisiomecánicos en relación con la técnica de la guitarra #REVISAR_OPENCODE
 
 El conocimiento de la anatomía funcional del miembro superior resulta indispensable para el guitarrista, ya que permite comprender los movimientos implicados en la ejecución instrumental y prevenir lesiones derivadas de una práctica incorrecta.[^2]
 
@@ -233,12 +231,10 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 - Es fundamental la **integración cuerpo-mente**:  
   - Muchos músicos ejecutan la música solo con manos y dedos sin una imagen mental y auditiva clara del sonido deseado.  
   - La efectividad técnica depende de la conexión entre mente y músculos, según Ivan Galamian:  
-    > “La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.”  
+    > «La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.»  
 - La Técnica Alexander estimula que la actividad y el movimiento se dirijan desde el cerebro, usando el cuerpo como un todo integrado.
 
-#REVISAR_OPENCODE
-
-==Aplicación a la guitarra==: En la práctica guitarrística, la Técnica Alexander se concreta en la observación consciente de la postura al sentarse y al tomar el instrumento. El guitarrista aprende a ==inhibir== el impulso de encoger los hombros o tensar el cuello al abordar un pasaje difícil, y en su lugar ==dirige== la atención a la libertad del cuello y la expansión de la espalda. Elizabeth Langford ha desarrollado aplicaciones específicas de la Técnica Alexander para instrumentistas, incluyendo ejercicios de conciencia postural con y sin el instrumento, que permiten al guitarrista identificar patrones de tensión y reemplazarlos por movimientos más eficientes.[^6]
+==Aplicación a la guitarra==: En la práctica guitarrística, la Técnica Alexander se concreta en la observación consciente de la postura al sentarse y al tomar el instrumento. El guitarrista aprende a ==inhibir== el impulso de encoger los hombros o tensar el cuello al abordar un pasaje difícil, y en su lugar ==dirige== la atención a la libertad del cuello y la expansión de la espalda. Elizabeth Langford ha desarrollado aplicaciones específicas de la Técnica Alexander para instrumentistas, incluyendo ejercicios de conciencia postural con y sin el instrumento, que permiten al guitarrista identificar patrones de tensión y reemplazarlos por movimientos más eficientes.[^6]== #REVISAR_OPENCODE
 #### Método Moshe Feldenkrais
 
 - En 1942, Moshe Feldenkrais, físico en Londres, sufrió lesiones graves de rodilla con pronóstico poco alentador.  
@@ -256,9 +252,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 - El cerebro detecta y elimina el esfuerzo muscular innecesario, formando patrones coordinados de movimiento.  
 - El proceso ocurre casi sin esfuerzo consciente.
 
-#REVISAR_OPENCODE
-
-==Aplicación a la guitarra==: El método Feldenkrais resulta especialmente útil para el guitarrista en la recuperación de lesiones por sobreuso y en la optimización del gesto técnico. Los ejercicios de ==Conciencia a través del Movimiento== (CAM) pueden adaptarse a movimientos específicos de la guitarra: por ejemplo, realizar el movimiento de arpegio con la mano derecha a cámara lenta, prestando atención a las sensaciones articulares y musculares, permite detectar y eliminar co-contracciones innecesarias. Del mismo modo, los patrones de desplazamiento longitudinal de la mano izquierda por el mástil pueden descomponerse en secuencias de aprendizaje sensorial motor que facilitan la automatización consciente y previenen la fatiga.[^7]
+==Aplicación a la guitarra==: El método Feldenkrais resulta especialmente útil para el guitarrista en la recuperación de lesiones por sobreuso y en la optimización del gesto técnico. Los ejercicios de ==Conciencia a través del Movimiento== (CAM) pueden adaptarse a movimientos específicos de la guitarra: por ejemplo, realizar el movimiento de arpegio con la mano derecha a cámara lenta, prestando atención a las sensaciones articulares y musculares, permite detectar y eliminar co-contracciones innecesarias. Del mismo modo, los patrones de desplazamiento longitudinal de la mano izquierda por el mástil pueden descomponerse en secuencias de aprendizaje sensorial motor que facilitan la automatización consciente y previenen la fatiga.[^7]== #REVISAR_OPENCODE
 
 #### Claves para el éxito en los ejercicios:
 1. **Realice movimientos con facilidad:** usar el mínimo esfuerzo, sin tensar ni estirar.  
@@ -266,9 +260,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 3. **Relájese:** intente expulsar la tensión al moverse.  
 4. **Descanse entre movimientos:** para que el cerebro asimile la nueva información sensorial y motriz.[^18]  
 
-#REVISAR_OPENCODE
-
-### Colocación del cuerpo y del instrumento
+### Colocación del cuerpo y del instrumento #REVISAR_OPENCODE
 
 La correcta colocación del cuerpo y del instrumento constituye la base física sobre la que se asienta toda la técnica guitarrística. Una posición inadecuada no solo limita el rendimiento técnico y expresivo, sino que incrementa el riesgo de lesiones por sobrecarga muscular.[^4]
 
@@ -321,7 +313,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 **Orígenes y desarrollo:**  
 - Emil Coué, farmacéutico francés, fue pionero a principios del siglo XX en el uso de la autosugestión para superar el estrés y mejorar la salud.  
 - Para Coué, el miedo al fracaso genera el fracaso, mientras que la creencia en el éxito lo inspira.  
-- Propuso repetir mentalmente afirmaciones positivas como “cada día estoy mejorando más”.  
+- Propuso repetir mentalmente afirmaciones positivas como «cada día estoy mejorando más».  
 - Métodos contemporáneos amplían esta idea con la visualización positiva, donde se forma una imagen clara del objetivo a alcanzar.[^22]  
 
 **Práctica recomendada:**  
@@ -428,9 +420,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Esto conlleva una mejora en la calidad artística y musical de las interpretaciones.
 
 - En resumen, salud y mejora técnica son aspectos íntimamente relacionados que deben abordarse conjuntamente en el aula de instrumento.
-# Bibliografía 
-
-#REVISAR_OPENCODE
+# Bibliografía  #REVISAR_OPENCODE
 
 - Alexander, F. Matthias. 1932. *The Use of the Self*. London: Integral.
 - Barlow, Wilfred. 1973. *The Alexander Principle*. London: Gollancz.
@@ -453,9 +443,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Wiener, Jean Christophe. «James-stamp, maestro de la escucha» (1.ª parte, apartado de la respiración). *Brass Bulletin*, n.º 100 (IV/1997): 59–67.
 - Williamon, Aaron. 2004. *Musical Excellence: Strategies and Techniques to Enhance Performance*. Oxford: Oxford University Press.
 - Wilson, Glenn D. 1997. «Performance Anxiety.» En *The Social Psychology of Music*, editado por David J. Hargreaves y Adrian C. North, 229-48. Oxford: Oxford University Press.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Caplan, *The Guitarist's Anatomy*, 34-38.
 

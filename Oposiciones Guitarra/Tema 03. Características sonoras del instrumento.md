@@ -167,14 +167,12 @@ Por ejemplo, para una cuerda de 650 mm:
 - La quinta justa divide la cuerda en tres partes.
 - La cuarta justa divide la cuerda en cuatro partes.
 
-### Otros armónicos "puros" no ubicados en trastes exactos:
+### Otros armónicos «puros» no ubicados en trastes exactos:
 - 650 mm / 5  (Tercera Mayor) Traste 4, casi 5
 - 650 mm / 6  (Tercera menor) Traste 4, casi 3
 - 650 mm / 7  (Séptima menor o tercera menor baja) Traste 3 mitad.
 
-## Armónicos artificiales
-
-#REVISAR_OPENCODE
+## Armónicos artificiales #REVISAR_OPENCODE
 
 ==Los armónicos artificiales (también llamados *armónicos de octava* o *armónicos forzados*) son aquellos que se producen pisando una cuerda con la mano izquierda (acortando su longitud activa) y, simultáneamente, rozando la cuerda con la mano derecha a la distancia de una octava (doce trastes) del punto pisado.==[^4][^5] La técnica estándar consiste en:
 
@@ -188,18 +186,14 @@ Por ejemplo, para una cuerda de 650 mm:
 
 # Formas convencionales y no convencionales de producción del sonido
 
-#REVISAR_OPENCODE
-
-### Formas convencionales
+### Formas convencionales #REVISAR_OPENCODE
 
 - ==**Apoyando (rest stroke)**==: tras pulsar la cuerda, el dedo de la mano derecha **descansa sobre la cuerda inmediatamente superior**, lo que permite aprovechar todo el recorrido del dedo y transmite la máxima energía a la cuerda. Produce un sonido más pleno, potente y proyectado. Es la técnica predilecta para pasajes melódicos y de primer plano.
 - ==**Tirando (free stroke)**==: tras pulsar, el dedo **no toca la cuerda contigua** (excepto ocasionalmente para amortiguar). Permite mayor velocidad y flexibilidad, especialmente en arpegios, acordes o pasajes polifónicos donde varias voces se entrecruzan.[^8][^9]
 - ==**Pulsación combinada (yema y uña)**==: desde Piccinini (1623) hasta la actualidad, la mayoría de los concertistas emplean un ataque mixto: la yema contacta primero, amortiguando el inicio del sonido, y la uña se desliza sobre la cuerda para añadir brillo y proyección. La forma, longitud y dureza de la uña —así como el pulido de su borde— inciden directamente en el timbre resultante.[^10][^11]
 - ==**Ángulo y punto de ataque**==: el sonido puede modificarse variando la inclinación de la mano derecha (más perpendicular = más brillante; más oblicua = más dulce) y la zona de pulsación (boca = graves y redondez; puente = metálico y penetrante; mástil = aterciopelado y oscuro). La combinación de estos parámetros constituye la base del control tímbrico del guitarrista.[^12][^13]
 
-### Formas no convencionales
-
-#REVISAR_OPENCODE
+### Formas no convencionales #REVISAR_OPENCODE
 
 - ==**Rasgueo flamenco**==: técnica percusiva en la que los dedos de la mano derecha se abren y cierran golpeando las cuerdas con las uñas en sucesión rápida. Admite variantes como el rasgueo de cinco dedos, el de tres (abierto y cerrado) y el *abandolao*.
 - ==**Tambora (o percusión sobre la tapa)**==: se golpea la tapa armónica cerca del puente con la yema o la uña para imitar el sonido de un tambor o un bombo. Es frecuente en la música popular brasileña y en el repertorio contemporáneo.
@@ -211,9 +205,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - ==**Preparaciones**==: se colocan objetos (papel, gomas, clips, tornillos) entre las cuerdas o entre la cuerda y el diapasón para alterar el timbre, la altura o la sonoridad del instrumento. Es un recurso habitual en la música experimental desde la segunda mitad del siglo XX.
 - ==**Rasgueo con ambas manos**==: ambas manos se usan simultáneamente para rasguear, creando patrones rítmicos complejos y texturas sonoras no lineales.
 - ==**Armónicos con la mano izquierda**==: mientras la mano derecha pulsa la cuerda, la mano izquierda roza ligeramente la cuerda en un punto de inflexión para producir armónicos sin necesidad de pisar.
-# Bibliografía 
-
-#REVISAR_OPENCODE
+# Bibliografía  #REVISAR_OPENCODE
 #TODO
 
 - Aguado, Dionisio. 1949. *Escuela de guitarra*. Edición facsímil. Madrid: Unión Musical Española.
@@ -222,7 +214,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - Duncan, Charles. 1980. *The Art of Classical Guitar Playing*. Princeton: Summy-Birchard Music.
 - Fletcher, Neville H., y Thomas D. Rossing. 1998. *The Physics of Musical Instruments*. 2nd ed. New York: Springer.
 - Pujol, Emilio. 1956. *Escuela razonada de la guitarra*. Vols. 1-4. Buenos Aires: Ricordi Americana.
-- Richardson, Bernard E. 1994. "The Acoustical Development of the Guitar." *Journal of the Catgut Acoustical Society* 2 (5): 1-10.
+- Richardson, Bernard E. 1994. «The Acoustical Development of the Guitar.» *Journal of the Catgut Acoustical Society* 2 (5): 1-10.
 - Romanillos, José Luis, y Marian Harris Winspear. 2004. *Antonio de Torres: Guitar Maker: His Life and Work*. Westport, CT: The Bold Strummer.
 - Sáenz, Juan José. 2000. *Diccionario Técnico de la Guitarra*. Barcelona: Editorial Instrumentos.
 - Taylor, John. 1992. *The Science of Sound*. 3rd ed. San Francisco: Addison Wesley.
@@ -230,9 +222,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - Tyler, James. 1980. *The Early Guitar*. London: Oxford University Press.
 - Viglietti, Cedar. 1976. *Origen e historia de la Guitarra*. Buenos Aires: Editorial Artes.
 - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder.
-# NOTAS
-
-#REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1 y 6.
 
