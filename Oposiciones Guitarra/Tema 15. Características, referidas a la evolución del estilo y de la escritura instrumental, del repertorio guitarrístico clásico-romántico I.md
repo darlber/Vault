@@ -131,7 +131,7 @@ Este debate sobre la pulsación (yema o uña) se recoge en el *Método* de Sor y
 
 En 1797 se representó en Barcelona su primera ópera, *Telémaco*, con gran éxito, lo que lo convirtió en una figura popular. Entre 1797 y 1800 actuó en Barcelona como guitarrista y compositor para diversas formaciones instrumentales y vocales.
 
-En 1762 Fernando Sor fue protegido por la Duquesa de Alba y, tras su fallecimiento, el Duque de Medinaceli le ofreció un empleo en Barcelona, ocupándose de asuntos administrativos.
+Hacia 1799 Fernando Sor fue protegido por la Duquesa de Alba y, tras su fallecimiento en 1802, el Duque de Medinaceli le ofreció un empleo en Barcelona, ocupándose de asuntos administrativos.
 
 Entre septiembre y noviembre de 1802, los reyes de España visitaron Barcelona acompañados de Manuel Godoy, lo que motivó la actuación de numerosos músicos de la ciudad. Se presume que fue entonces cuando Sor dedicó su *Grande Sonate pour la Guitare seule* op. 22 a Godoy, gran aficionado al instrumento.
 
@@ -145,7 +145,7 @@ En la primavera de 1826 regresó a París, instalándose en el Hotel Favart, don
 
 Falleció a causa de un cáncer de garganta el 10 de julio de 1839.
 
-Entre sus métodos y tratados destaca *Traité pour la guitarre* (París, 1832), en el que narra sus experiencias como guitarrista, abordando fabricación del instrumento, cuerdas, producción y calidad de sonido, posición de manos, digitación, transcripción y otros aspectos.
+Entre sus métodos y tratados destaca *Méthode pour la Guitare* (París, 1830), en el que narra sus experiencias como guitarrista, abordando fabricación del instrumento, cuerdas, producción y calidad de sonido, posición de manos, digitación, transcripción y otros aspectos.
 #### Obras de Fernando Sor
 
 ##### Ballets
@@ -234,7 +234,7 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 - Op. 3: 8 piezas pequeñas  
 - Op. 4: 6 piezas pequeñas  
 - Op. 5: *Quatre Andantes et Quatre Valses*  
-- Op. 6: *Nuevo método de guitarra*  
+- Op. 6: *Nouvelle Méthode de Guitare*  
 - Op. 7: Valses fáciles  
 - Op. 8: Contradanzas y valses fáciles  
 - Op. 9: *Contredanses non difficiles*  

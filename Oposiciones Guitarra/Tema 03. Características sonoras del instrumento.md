@@ -206,8 +206,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - ==**Preparaciones**==: se colocan objetos (papel, gomas, clips, tornillos) entre las cuerdas o entre la cuerda y el diapasón para alterar el timbre, la altura o la sonoridad del instrumento. Es un recurso habitual en la música experimental desde la segunda mitad del siglo XX.
 - ==**Rasgueo con ambas manos**==: ambas manos se usan simultáneamente para rasguear, creando patrones rítmicos complejos y texturas sonoras no lineales.
 - ==**Armónicos con la mano izquierda**==: mientras la mano derecha pulsa la cuerda, la mano izquierda roza ligeramente la cuerda en un punto de inflexión para producir armónicos sin necesidad de pisar.
-# Bibliografía  #REVISAR_OPENCODE
-#TODO
+# Bibliografía
 
 - Aguado, Dionisio. 1949. *Escuela de guitarra*. Edición facsímil. Madrid: Unión Musical Española.
 - Backus, John. 1977. *The Acoustical Foundations of Music*. 2nd ed. New York: W. W. Norton.

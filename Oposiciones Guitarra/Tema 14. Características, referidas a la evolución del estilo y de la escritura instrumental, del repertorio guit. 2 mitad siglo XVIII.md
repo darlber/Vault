@@ -39,7 +39,7 @@ Estos cambios requirieron otros adicionales, como:
 
 Aunque lo que comentamos a continuación había comenzado años antes (1760), es reseñable que en 1763 podemos ver que el autor Michel Corrette incluye en su método *Les Dons d'Apollon: Méthode pour apprendre facilement à jouer de la guitarre* la tablatura junto a la notación pautada, describiendo el uso de la clave de sol ligado al sonido real una octava baja, de la forma en que lo conocemos hoy.
 
-En 1773 encontramos la primera referencia escrita a la guitarra de seis órdenes, en el método de un gaditano llamado Juan Antonio de Vargas Guzmán. Este autor fue el primer autor conocido de música para la guitarra de seis órdenes y de sus trabajos aún se conservan tres manuscritos teórico-prácticos en los cuales también nos habla de la existencia de guitarras de siete órdenes. Estos manuscritos datan aproximadamente de 1773-1776.
+En 1773 encontramos la primera referencia escrita a la guitarra de seis órdenes, en el método de un gaditano llamado Juan Antonio de Vargas y Guzmán. Este autor fue el primer autor conocido de música para la guitarra de seis órdenes y de sus trabajos aún se conservan tres manuscritos teórico-prácticos en los cuales también nos habla de la existencia de guitarras de siete órdenes. Estos manuscritos datan aproximadamente de 1773-1776.
 
 Tras estos manuscritos vino el método de Antonio Ballesteros, del cual no se conserva nada, pero sabemos que existió gracias a Baltasar Saldoni.
 
@@ -61,7 +61,7 @@ Sin embargo, vemos que en Francia hubo muchos autores que dedicaron documentaci�
 
 - **Joseph Carpentier (1771):** músico francés. Escribió *Méthode distribuée par leçons pour apprendre en peu de temps à joüer de l'instrument appelé cytre ou guitthare allemande*.  
 
-- **Antoine Bailleux (1773):** musicólogo, compositor y músico francés. Escribió el método *Méthode pour apprendre facilement la musique vocale et instrumentale, ou tous les principes sont développés avec clarté*.  
+- **Antoine Bailleux (1773):** editor musical francés. Escribió el método *Méthode pour apprendre facilement la musique vocale et instrumentale, ou tous les principes sont développés avec clarté*.  
 - **Giacomo Merchi (1777):** guitarrista y compositor de origen italiano que vivió principalmente en París. Publicó numerosos libros y fue profesor de guitarra en Inglaterra. Escribió el conocido método *Traité des Agrémens de la Musique, executés sur la Guitare, contenant des instructions claires, et des exemples démonstratifs sur le pincer, le doigté, l'arpegé, la batterie, l'accompagnement, la chûte, la tirade, le martellement, le trille, la glissade et le son filé, etc.*  
 
 - **Pietro Baillon (1781):** profesor de canto y guitarra en París. Escribió *Nouvelle Méthode de Guitare selon le Système des meilleurs Auteurs, contenant les moyens les plus clairs et les plus aisés pour apprendre à accompagner une voix et parvenir à jouer tout ce qui est propre à cet instrument*.  
@@ -83,7 +83,7 @@ Los editores franceses publicaban periódicamente. Aunque hubo abundancia de doc
 Se considera que el repertorio publicado en esta época era mediocre porque no presenta discurso contrapuntístico ni una búsqueda armónica desarrollada. Predominan composiciones basadas en acordes arpegiados con una línea melódica convencional y limitada.
 # Criterios de transcripción para guitarra de seis cuerdas
 ## Música y notación
-Si comenzamos hablando de la notación, tenemos que señalar que la cifrada era propia de la guitarra renacentista y barroca. Progresivamente se fue evolucionando hacia una notación mensural, apareciendo el primer ejemplo para guitarra en *Reglas y advertencias* de Pablo Minguet e Irol (Madrid, 1754).
+Si comenzamos hablando de la notación, tenemos que señalar que la cifrada era propia de la guitarra renacentista y barroca. Progresivamente se fue evolucionando hacia una notación mensural, apareciendo un ejemplo para guitarra en *Reglas y advertencias* de Pablo Minguet e Irol (Madrid, 1754), si bien autores anteriores como Gaspar Sanz (1674) ya combinaban cifra con notación mensural.
 
 En esta obra se utiliza la clave de Sol para la representación de los sonidos de la guitarra. Posteriormente a Minguet, tratadistas como Merchi, La Garde y Corrette, activos en Francia, usaron también la clave de Sol para escribir música de guitarra, aunque ninguno ofrece una explicación específica de esta elección.
 
