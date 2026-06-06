@@ -11,15 +11,14 @@
             "id": "a35c21abf5b5d6a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "tore Oposiciones Guitarra to clean state",
+                "bFile": "tore Oposiciones Guitarra to clean state",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Tema 01. Historia General de la Guitarra"
+              "icon": "diff",
+              "title": "Diff: tore Oposiciones Guitarra to clean state  (Working Tree)"
             }
           }
         ]
@@ -133,13 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 01. Historia General de la Guitarra"
+              "title": "Outline"
             }
           },
           {
@@ -189,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,8 +209,10 @@
   },
   "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
+    "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
+    "tore Oposiciones Guitarra to clean state",
+    "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 16.md",
     "Oposiciones Guitarra/Tema 15. La escuela española.md",
@@ -230,14 +230,12 @@
     "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
     "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
-    "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
     "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
     "Oposiciones TAI/Índice.md",
     "Oposiciones TAI/Flashcards - Tema 12.md",
     "OSINT_rcsmm.eu.md",
-    "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
     "Oposiciones TAI/attachments/{EA0AF256-3735-40BB-97EB-E58D75AE8A37}.png",
@@ -257,7 +255,6 @@
     "Music/Cadencia General Básica",
     "Music/attachments",
     "Music/Impro",
-    "Music/Guía de Estudio Musical/attachments",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
     "Vault/Proyecto/Phases.canvas",

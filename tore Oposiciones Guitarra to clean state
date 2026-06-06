@@ -1,0 +1,197 @@
+[1mdiff --git a/Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md b/Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md[m
+[1mindex ef4043a..6a49a7f 100644[m
+[1m--- a/Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md[m	
+[1m+++ b/Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md[m	
+[36m@@ -1,4 +1,4 @@[m
+[31m-# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.[m
+[32m+[m[32m﻿﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.[m
+ ## Índice:[m
+ 1. [Historia general de la guitarra: orígenes y antecedentes](#Historia%20general%20de%20la%20guitarra%20orígenes%20y%20antecedentes)[m
+ 	1. [Introducción](#Introducción)  [m
+[36m@@ -41,12 +41,14 @@[m [mSus características eran:[m
+ [m
+ # Evolución histórica desde sus orígenes hasta nuestros días[m
+ - La guitarra tiene una evolución estrechamente ligada a la vihuela, instrumento predominante en la música culta del Renacimiento con un amplio repertorio.[^6][m
+[31m-- El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. #frase_sin_source (corrección: no es una vihuela —instrumento renacentista ya en desuso para 1759— sino una guitarra de seis órdenes de transición; las fuentes la clasifican como el primer instrumento conocido con varetaje en abanico #frase_revisar_opencode #comprobado) Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.[m
+[32m+[m[32m- El salto clave hacia la guitarra española moderna se da con una vihuela construida por ==Francisco Sanguino en 1759==, conservada en el _Gemeentemuseum_ de La Haya. Esta incorpora por primera vez el sistema de varetaje en abanico, fundamental en la evolución del sonido de la guitarra.[m
+ - Este sistema fue adoptado por otros constructores como Pagés (1777), y se difundió desde Cádiz y Málaga hacia Madrid a principios del siglo XIX.[m
+ - Desde finales del siglo XVI, la guitarra ganó gran popularidad en España por su capacidad para el rasgueado y punteado, y por su facilidad para acompañar. Su fama se expandió por Europa bajo el nombre de «guitarra española», coexistiendo[^7] guitarras de cinco y seis órdenes hasta el siglo XVIII.[m
+ - En el siglo XIX se produce un cambio decisivo: los seis órdenes dobles se sustituyen por seis cuerdas simples, aproximándose más al modelo actual.[^8][m
+ [m
+[31m-### ==La guitarra barroca (siglos XVII–XVIII)== #REVISAR_OPENCODE[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+[32m+[m
+[32m+[m[32m### ==La guitarra barroca (siglos XVII–XVIII)==[m
+ [m
+ Durante el siglo XVII, la guitarra experimentó una transformación profunda que la consolidó como uno de los instrumentos más populares de Europa. ==La guitarra barroca de cinco órdenes== (conocida como *guitarra española*) se difundió por Italia, Francia, Inglaterra y Alemania, impulsada por la facilidad del rasgueado para acompañar danzas y canciones.[^9][m
+ [m
+[36m@@ -169,9 +171,11 @@[m [mEn el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar[m
+ - Ángel Benito: guitarras estilo francés.[m
+ - Paulino Bernabé, Paco Santiago Marín, entre otros.[m
+ [m
+[31m-### ==Breve semblanza de los constructores más destacados== #REVISAR_OPENCODE[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+[32m+[m
+[32m+[m[32m### ==Breve semblanza de los constructores más destacados==[m
+ [m
+[31m-Entre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya. #frase_sin_source (corrección: no es una "vihuela-guitarra" —término híbrido no documentado en las fuentes— sino una guitarra de seis órdenes, clasificada por Tyler & Sparks y el Met Museum como el primer instrumento conocido con varetaje en abanico #frase_revisar_opencode #comprobado)[m
+[32m+[m[32mEntre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya.[m
+ [m
+ En la escuela castellana, ==**Manuel Ramírez**== (1864–1920) fundó el taller que luego continuaría su descendiente **José Ramírez**, formando a constructores como **Santos Hernández** y **Domingo Esteso**, cuya tradición se mantiene activa en el siglo XXI. ==**José Ramírez III**== (1922–1995) introdujo la tapa de cedro y desarrolló el modelo de guitarra de concierto «1a», utilizado por Andrés Segovia.[m
+ [m
+[36m@@ -196,7 +200,9 @@[m [mLa guitarra clásica ha experimentado en las últimas décadas una diversificaci[m
+ - **Materiales compuestos**: fibras de carbono y kevlar, utilizados por **Gary Southwell** y **Ryoji Matsuoka** para guitarras de exterior y conciertos en condiciones extremas.[m
+ - **Guitarra flamenca**: variante constructiva con tapa de ciprés o palosanto, varetaje más ligero y acción de cuerdas más baja, desarrollada por constructores como **Santos Hernández** y **Manuel Reyes**.[m
+ [m
+[31m-# Bibliografía #REVISAR_OPENCODE[m
+[32m+[m[32m# Bibliografía[m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ [m
+ - Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.[m
+ - Evans, Tom, y Mary Anne Evans. 1977. *Guitars: From the Renaissance to Rock*. New York: Facts on File.[m
+[36m@@ -215,7 +221,9 @@[m [mLa guitarra clásica ha experimentado en las últimas décadas una diversificaci[m
+ - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Albatros.[m
+ - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder Publications.[m
+ - Wade, Graham. 2001. *A Concise History of the Classic Guitar*. Pacific: Mel Bay Publications.[m
+[31m-# NOTAS #REVISAR_OPENCODE[m
+[32m+[m[32m# NOTAS[m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ [m
+ [^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1-2.[m
+ [m
+[1mdiff --git a/Oposiciones Guitarra/Tema 02. La guitarra moderna.md b/Oposiciones Guitarra/Tema 02. La guitarra moderna.md[m
+[1mindex 452f413..44744a9 100644[m
+[1m--- a/Oposiciones Guitarra/Tema 02. La guitarra moderna.md[m	
+[1m+++ b/Oposiciones Guitarra/Tema 02. La guitarra moderna.md[m	
+[36m@@ -42,7 +42,7 @@[m [mEn el siglo XIX surgieron dos estilos constructivos[^2]: el castellano y el anda[m
+ [m
+ #REVISAR_OPENCODE[m
+ [m
+[31m-==La introducción del nylon==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia** (quienes comenzaron a trabajar juntos en 1946, produciendo las primeras cuerdas comerciales en 1947-1948), supuso una revolución en la historia del instrumento. #frase_sin_source (corrección: la primera prueba en escenario del nylon fue en enero de 1944 por Olga Coelho, no por Augustine-Segovia; ambos no se conocieron hasta 1946 y las primeras cuerdas Augustine se fabricaron en 1947-1948 #frase_revisar_opencode #comprobado)[^11] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista. #REVISAR_OPENCODE[m
+[32m+[m[32m==La introducción del nylon en 1944==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia**, supuso una revolución en la historia del instrumento.[^11] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista.[m
+ [m
+ Además del uso del **nylon**, se produjeron otros dos cambios[^12] importantes en las cuerdas:[m
+ [m
+[36m@@ -82,7 +82,7 @@[m [mEstas estructuras internas tienen doble función:[m
+ - La guitarra es muy sensible a los **cambios bruscos de temperatura y humedad**.[m
+ - Debe mantenerse en condiciones similares a las de su construcción.[m
+ ##### ✅ **Humedad:**[m
+[31m-- Ideal: entre **55 % y 70 %**. #frase_sin_source (corrección: el rango estándar recomendado por luthiers y fabricantes es 45-55 %; el 70 % está en zona de riesgo para la madera #frase_revisar_opencode #comprobado)[m
+[32m+[m[32m- Ideal: entre **55 % y 70 %**.[m
+ - Para controlarla:[m
+     - En la guitarra o estuche: usar un **humidificador** (por ejemplo, una esponja).[m
+     - En la habitación: usar un **higrómetro**.[m
+[36m@@ -160,7 +160,9 @@[m [mLas guitarras de luthier son construidas a medida por un artesano, lo que permit[m
+ [m
+ Antes de adquirir una guitarra, es recomendable probarla durante al menos treinta minutos, evaluando los siguientes aspectos: comodidad postural y sensación de equilibrio (sentado y de pie); nitidez y homogeneidad sonora en todas las cuerdas y en todos los trastes; facilidad de pulsación en ambas manos; respuesta dinámica (desde el *pianissimo* al *fortissimo*); y estabilidad de la afinación a lo largo del diapasón. Siempre que sea posible, conviene que un profesor o guitarrista experimentado acompañe la prueba.[^14][m
+ [m
+[31m-# Bibliografía #REVISAR_OPENCODE[m
+[32m+[m[32m# Bibliografía[m[41m [m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ [m
+ - Alcaraz Iborra, Mario. 2010. *La guitarra: Historia, organología y repertorio*. Madrid: Editorial Música.[m
+ - Coelho, Victor, ed. 2003. *The Cambridge Companion to the Guitar*. Cambridge: Cambridge University Press.[m
+[36m@@ -176,7 +178,9 @@[m [mAntes de adquirir una guitarra, es recomendable probarla durante al menos treint[m
+ - Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Madrid: Museo Nacional.[m
+ - Viglietti, Cedar. 1976. *Origen e historia de la guitarra*. Buenos Aires: Editorial Artes.[m
+ - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder.[m
+[31m-# NOTAS #REVISAR_OPENCODE[m
+[32m+[m[32m# NOTAS[m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ [m
+ [^1]: Romanillos y Winspear, *Antonio de Torres: Guitar Maker*, cap. 8.[m
+ [m
+[1mdiff --git "a/Oposiciones Guitarra/Tema 03. Caracter\303\255sticas sonoras del instrumento.md" "b/Oposiciones Guitarra/Tema 03. Caracter\303\255sticas sonoras del instrumento.md"[m
+[1mindex b2bcbfa..bfe4e86 100644[m
+[1m--- "a/Oposiciones Guitarra/Tema 03. Caracter\303\255sticas sonoras del instrumento.md"[m	
+[1m+++ "b/Oposiciones Guitarra/Tema 03. Caracter\303\255sticas sonoras del instrumento.md"[m	
+[36m@@ -41,10 +41,10 @@[m [mFrecuencias de las cuerdas al aire en la guitarra:[m
+ - Cuerda 4: Re4 = 147 Hz[m
+ - Cuerda 5: La3 = 110 Hz[m
+ - Cuerda 6: Mi3 = 82 Hz[m
+[31m-#frase_sin_source (corrección: la octava indicada originalmente (Mi5, Si4, etc.) estaba desplazada un grado; la correcta en notación científica es E4–B3–G3–D3–A2–E2 #frase_revisar_opencode #comprobado)[m
+[32m+[m
+ 2. La intensidad permite distinguir sonidos fuertes y débiles, relacionada con la amplitud de vibración de las cuerdas. Se mide en decibelios (dB), y en la guitarra varía entre 65 y 85 dB, aunque técnicas modernas están ampliando estos límites.[m
+ [m
+[31m-La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. #frase_sin_source (corrección: +3 dB duplica la intensidad física (potencia acústica), pero la percepción subjetiva de volumen requiere ~+10 dB para duplicarse; el texto original confunde ambos conceptos #frase_revisar_opencode #comprobado) Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.[m
+[32m+[m[32mLa escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.[m
+ [m
+ 3. Duración: es el tiempo que transcurre desde el inicio hasta el final de un sonido. En la guitarra, se valora que el instrumento mantenga el sonido por un tiempo prolongado, característica llamada «sustain».[m
+ [m
+[36m@@ -167,12 +167,14 @@[m [mPor ejemplo, para una cuerda de 650 mm:[m
+ - La quinta justa divide la cuerda en tres partes.[m
+ - La cuarta justa divide la cuerda en cuatro partes.[m
+ [m
+[31m-### Otros armónicos «puros» no ubicados en trastes exactos:[m
+[32m+[m[32m### Otros armónicos "puros" no ubicados en trastes exactos:[m
+ - 650 mm / 5  (Tercera Mayor) Traste 4, casi 5[m
+ - 650 mm / 6  (Tercera menor) Traste 4, casi 3[m
+ - 650 mm / 7  (Séptima menor o tercera menor baja) Traste 3 mitad.[m
+ [m
+[31m-## Armónicos artificiales #REVISAR_OPENCODE[m
+[32m+[m[32m## Armónicos artificiales[m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ [m
+ ==Los armónicos artificiales (también llamados *armónicos de octava* o *armónicos forzados*) son aquellos que se producen pisando una cuerda con la mano izquierda (acortando su longitud activa) y, simultáneamente, rozando la cuerda con la mano derecha a la distancia de una octava (doce trastes) del punto pisado.==[^4][^5] La técnica estándar consiste en:[m
+ [m
+[36m@@ -184,7 +186,9 @@[m [mPor ejemplo, para una cuerda de 650 mm:[m
+ [m
+ ==La distancia estándar para el armónico artificial es de doce trastes (una octava), pero también pueden obtenerse armónicos a otras distancias== (por ejemplo, a siete o cinco trastes, que producen la quinta o la cuarta justa, respectivamente), aunque su sonido es menos nítido y su ejecución considerablemente más difícil. En la notación moderna, los armónicos artificiales se indican con un rombo sobre la nota pisada y la indicación de la cuerda, o bien con dos notas: la nota pisada y, sobre ella, la nota que resulta del armónico.[^7][m
+ [m
+[31m-# Formas convencionales y no convencionales de producción del sonido #REVISAR_OPENCODE[m
+[32m+[m[32m# Formas convencionales y no convencionales de producción del sonido[m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ [m
+ ### Formas convencionales[m
+ [m
+[36m@@ -193,7 +197,9 @@[m [mPor ejemplo, para una cuerda de 650 mm:[m
+ - ==**Pulsación combinada (yema y uña)**==: desde Piccinini (1623) hasta la actualidad, la mayoría de los concertistas emplean un ataque mixto: la yema contacta primero, amortiguando el inicio del sonido, y la uña se desliza sobre la cuerda para añadir brillo y proyección. La forma, longitud y dureza de la uña —así como el pulido de su borde— inciden directamente en el timbre resultante.[^10][^11][m
+ - ==**Ángulo y punto de ataque**==: el sonido puede modificarse variando la inclinación de la mano derecha (más perpendicular = más brillante; más oblicua = más dulce) y la zona de pulsación (boca = graves y redondez; puente = metálico y penetrante; mástil = aterciopelado y oscuro). La combinación de estos parámetros constituye la base del control tímbrico del guitarrista.[^12][^13][m
+ [m
+[31m-### Formas no convencionales #REVISAR_OPENCODE[m
+[32m+[m[32m### Formas no convencionales[m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ [m
+ - ==**Rasgueo flamenco**==: técnica percusiva en la que los dedos de la mano derecha se abren y cierran golpeando las cuerdas con las uñas en sucesión rápida. Admite variantes como el rasgueo de cinco dedos, el de tres (abierto y cerrado) y el *abandolao*.[m
+ - ==**Tambora (o percusión sobre la tapa)**==: se golpea la tapa armónica cerca del puente con la yema o la uña para imitar el sonido de un tambor o un bombo. Es frecuente en la música popular brasileña y en el repertorio contemporáneo.[m
+[36m@@ -205,7 +211,9 @@[m [mPor ejemplo, para una cuerda de 650 mm:[m
+ - ==**Preparaciones**==: se colocan objetos (papel, gomas, clips, tornillos) entre las cuerdas o entre la cuerda y el diapasón para alterar el timbre, la altura o la sonoridad del instrumento. Es un recurso habitual en la música experimental desde la segunda mitad del siglo XX.[m
+ - ==**Rasgueo con ambas manos**==: ambas manos se usan simultáneamente para rasguear, creando patrones rítmicos complejos y texturas sonoras no lineales.[m
+ - ==**Armónicos con la mano izquierda**==: mientras la mano derecha pulsa la cuerda, la mano izquierda roza ligeramente la cuerda en un punto de inflexión para producir armónicos sin necesidad de pisar.[m
+[31m-# Bibliografía #REVISAR_OPENCODE[m
+[32m+[m[32m# Bibliografía[m[41m [m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ #TODO[m
+ [m
+ - Aguado, Dionisio. 1949. *Escuela de guitarra*. Edición facsímil. Madrid: Unión Musical Española.[m
+[36m@@ -222,7 +230,9 @@[m [mPor ejemplo, para una cuerda de 650 mm:[m
+ - Tyler, James. 1980. *The Early Guitar*. London: Oxford University Press.[m
+ - Viglietti, Cedar. 1976. *Origen e historia de la Guitarra*. Buenos Aires: Editorial Artes.[m
+ - Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder.[m
+[31m-# NOTAS #REVISAR_OPENCODE[m
+[32m+[m[32m# NOTAS[m
+[32m+[m
+[32m+[m[32m#REVISAR_OPENCODE[m
+ [m
+ [^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*, caps. 1 y 6.[m
+ [m
+[1mdiff --git "a/Oposiciones Guitarra/Tema 04. T\303\251cnicas de concienciaci\303\263n corporal.md" "b/Oposiciones Guitarra/Tema 04. T\303\251cnicas de concienciaci\303\263n corporal.md"[m
+[1mindex 4d53e51..90fc2cc 100644[m
+[1m--- "a/Oposiciones Guitarra/Tema 04. T\303\251cnicas de concienciaci\303\263n corporal.md"[m	
+[1m+++ "b/Oposiciones Guitarra/Tema 04. T\303\251cnicas de concienciaci\303\263n corporal.md"[m	
+[36m@@ -17,9 +17,9 @@[m [mLa **concienciación corporal** es un concepto utilizado en campos como la psico[m
+ [m
+ Esta conciencia se relaciona con varios aspectos:[m
+ [m
+[31m-- **Imagen corporal**: según Schilder (1935)[^1], es la representación mental que el individuo forma de su propio cuerpo, integrando sensaciones físicas y emocionales. #frase_sin_source (corrección: el autor original citado como "Di Sante (2001)" no ha sido localizado en las fuentes; se reemplaza por Schilder (1935), autor clásico de referencia sobre imagen corporal #frase_revisar_opencode #comprobado)[m
+[32m+[m[32m- **Imagen corporal**: según Di Sante (2001), es la interpretación que el individuo hace de sus propias sensaciones físicas y emocionales.[m
+ - **Esquema corporal**: para Frostig y Maslow (1984), es la capacidad automática del cuerpo para mantener el equilibrio y ejecutar movimientos mediante la tensión y relajación de los músculos.[m
+[31m-- **Conocimiento corporal**: también descrito por Le Boulch (1977)[^2], es el entendimi
