@@ -46,7 +46,7 @@
         "startupType": "disabled"
       },
       "obsidian-spaced-repetition": {
-        "startupType": "instant"
+        "startupType": "long"
       }
     }
   }
