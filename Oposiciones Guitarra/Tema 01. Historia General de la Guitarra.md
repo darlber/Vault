@@ -63,7 +63,7 @@ Otros autores fundamentales del período barroco fueron: ==**Francesco Corbetta*
 Antonio de Torres fue fundamental en la transformación del instrumento: logró una nueva sonoridad sin alterar la forma tradicional. Aunque ==no dejó escritos==, el análisis de sus guitarras muestra un profundo conocimiento empírico del instrumento.[^11][^12]
 	- Según José Luis Romanillos,[^13] Torres logró entonar la tapa armónica gracias a una sensibilidad acústica avanzada, anticipándose al conocimiento técnico actual y dotando a la guitarra de una versatilidad sonora sin precedentes.
 
-### ==La consolidación en el siglo XX: Andrés Segovia y la guitarra de concierto== #REVISAR_OPENCODE
+### ==La consolidación en el siglo XX: Andrés Segovia y la guitarra de concierto==
 
 La figura central de este período es ==**Andrés Segovia**== (1893–1987), cuyo magisterio elevó la guitarra desde el ámbito del salón y el folclore hasta las salas de concierto internacionales. Segovia no solo fue un intérprete excepcional, sino que impulsó activamente la creación de un nuevo repertorio —encargando obras a compositores como Federico Moreno Torroba, Joaquín Turina, Manuel de Falla, Heitor Villa-Lobos, Mario Castelnuovo-Tedesco y Joaquín Rodrigo— y legitimó el instrumento en los círculos académicos.[^14][^15]
 
