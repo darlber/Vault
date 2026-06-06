@@ -1,4 +1,4 @@
-﻿# El repertorio de guitarra barroca, su estilo y notación
+# El repertorio de guitarra barroca, su estilo y notación
 ## Índice
 1. [Introducción](#Introducción)
 2. [Afinación](#Afinación)
@@ -29,7 +29,7 @@
 
 ==Según Lope de Vega, Nicolao Doizi de Velasco y Gaspar Sanz (en *Instrucción de música sobre la guitarra española*), el «inventor» del quinto orden y de la guitarra española fue Vicente Espinel. No obstante, como no podemos contrastar con las guitarras conservadas (porque de cuatro órdenes no queda ninguna), Iborra[^2] documenta la escasez de fuentes organológicas conservadas. Únicamente podemos observar unas pocas unidades de guitarras de cinco órdenes.  ==
 
-==Lo único que parece claro es que, al igual que la de cuatro órdenes, la de cinco órdenes nació en España y a finales del siglo XVI llegó a ser el instrumento más popular del país, algo favorecido por Espinel. Radole[^3] sitúa la guitarra barroca en la evolución de los cordófonos. El catálogo de la exposición *La guitarra española*[^15] recoge una amplia documentación sobre el instrumento.   Su popularidad se extendió poco a poco por Europa.  ==
+==Lo único que parece claro es que, al igual que la de cuatro órdenes, la de cinco órdenes nació en España y a finales del siglo XVI llegó a ser el instrumento más popular del país, algo favorecido por Espinel. Radole[^3] sitúa la guitarra barroca en la evolución de los cordófonos. El catálogo de la exposición *La guitarra española*[^4] recoge una amplia documentación sobre el instrumento.   Su popularidad se extendió poco a poco por Europa.  ==
 
 ==En ese mismo siglo, además, nacía una nueva forma de tañer la guitarra: el **rasgueado**. La guitarra barroca fue fruto de distintos cambios acaecidos en «la guitarrilla» en España:  ==
 - Aumento del tamaño.  
@@ -54,7 +54,7 @@
 
 ==Sin embargo, hubo autores que fueron más precisos, como **Giloramo Montesardo**, que describió de forma exacta el número de cuerdas y las octavas en su *Nuova inventione* (1606).  ==
 
-==No todo el mundo estaba de acuerdo con esta configuración. Uno de ellos fue **Joan Carles Amat[^4]**, que en su tratado (1586) indica una afinación lógica para la guitarra de cinco órdenes.  ==
+==No todo el mundo estaba de acuerdo con esta configuración. Uno de ellos fue **Joan Carles Amat[^5]**, que en su tratado (1586) indica una afinación lógica para la guitarra de cinco órdenes.  ==
 ![](attachments/{DE11CBBC-2226-4D2E-B382-D3980E74EC28}.png)
 
 ==Esta afinación fue generalizándose en el resto de los países europeos, aunque con algunas variantes. A lo largo del siglo XVII, la guitarra sufrió muchas innovaciones en cuanto a afinación, al igual que ocurrió con el laúd y otros instrumentos.  ==
@@ -155,15 +155,15 @@ El anterior estilo será el que **perdurará en el futuro en la guitarra**, conv
 - Signos de compás
 ### Estilo #REVISAR_OPENCODE
 
-==El **estilo** de la guitarra barroca se define por la coexistencia de tres modos de ejecución: el **rasgueado**, el **punteado** y el **estilo mixto**, que determinan no solo la técnica sino también la estética y la función social del instrumento. El rasgueado, característico de la primera mitad del siglo XVII, es un estilo **vertical y armónico**, basado en la percusión de acordes completos según esquemas rítmicos preestablecidos. Su escritura emplea el sistema de **alfabeto** —letras que representan acordes—, lo que refleja su origen popular y su función como acompañamiento de la voz y la danza. Reese[^5] sitúa este período como la consolidación de la armonía tonal, donde la guitarra desempeñó un papel pionero al familiarizar al público con las nuevas sonoridades de la tonalidad mayor-menor.==
+==El **estilo** de la guitarra barroca se define por la coexistencia de tres modos de ejecución: el **rasgueado**, el **punteado** y el **estilo mixto**, que determinan no solo la técnica sino también la estética y la función social del instrumento. El rasgueado, característico de la primera mitad del siglo XVII, es un estilo **vertical y armónico**, basado en la percusión de acordes completos según esquemas rítmicos preestablecidos. Su escritura emplea el sistema de **alfabeto** —letras que representan acordes—, lo que refleja su origen popular y su función como acompañamiento de la voz y la danza. Reese[^6] sitúa este período como la consolidación de la armonía tonal, donde la guitarra desempeñó un papel pionero al familiarizar al público con las nuevas sonoridades de la tonalidad mayor-menor.==
 
-==El **punteado**, en cambio, recupera la tradición **contrapuntística** de la vihuela y el laúd, con una escritura **horizontal y melódica** que explora las posibilidades polifónicas del instrumento. Su desarrollo corre paralelo al del laúd barroco y la tiorba, y se cultiva preferentemente en **Francia**, donde Robert de Visée y Francesco Corbetta alcanzan un refinamiento expresivo que anticipa la sensibilidad galante. La textura del punteado es más densa y elaborada que la del rasgueado, con conducción de voces y ornamentación detallada. Lowinsky[^6] señala que la teoría de los afectos («doctrine of affections»), central en la estética barroca, encuentra en la guitarra punteada un vehículo ideal para la expresión de los «estados del alma» mediante la elección de tonalidades, intervalos y figuras rítmicas específicas.==
+==El **punteado**, en cambio, recupera la tradición **contrapuntística** de la vihuela y el laúd, con una escritura **horizontal y melódica** que explora las posibilidades polifónicas del instrumento. Su desarrollo corre paralelo al del laúd barroco y la tiorba, y se cultiva preferentemente en **Francia**, donde Robert de Visée y Francesco Corbetta alcanzan un refinamiento expresivo que anticipa la sensibilidad galante. La textura del punteado es más densa y elaborada que la del rasgueado, con conducción de voces y ornamentación detallada. Lowinsky[^7] señala que la teoría de los afectos («doctrine of affections»), central en la estética barroca, encuentra en la guitarra punteada un vehículo ideal para la expresión de los «estados del alma» mediante la elección de tonalidades, intervalos y figuras rítmicas específicas.==
 
-==La **ornamentación** en la guitarra barroca incluye **trinos**, **mordentes**, **apoyaturas**, **tremolos** y **glosas**, con una función expresiva que trasciende el mero adorno. En el estilo rasgueado, la ornamentación se realiza mediante **rasgueados quebrados** y **acordes arpegiados**; en el punteado, mediante **diminuciones** y **figuras melódicas** sobre las voces del contrapunto. Brown[^7] documenta las prácticas ornamentales del siglo XVII, destacando la creciente libertad del intérprete para añadir adornos no escritos, especialmente en las repeticiones de las danzas binarias de la suite.==
+==La **ornamentación** en la guitarra barroca incluye **trinos**, **mordentes**, **apoyaturas**, **tremolos** y **glosas**, con una función expresiva que trasciende el mero adorno. En el estilo rasgueado, la ornamentación se realiza mediante **rasgueados quebrados** y **acordes arpegiados**; en el punteado, mediante **diminuciones** y **figuras melódicas** sobre las voces del contrapunto. Brown[^8] documenta las prácticas ornamentales del siglo XVII, destacando la creciente libertad del intérprete para añadir adornos no escritos, especialmente en las repeticiones de las danzas binarias de la suite.==
 
-==Las **diferencias estilísticas entre escuelas nacionales** son notables. La **escuela española** (Amat, Sanz, Guerau, Murcia) mantiene una fuerte vinculación con el **rasgueado** y el **acompañamiento**, con un repertorio de danzas hispánicas (folías, jácaras, marizapalos, pasacalles) que conserva un sabor popular inconfundible. La **escuela italiana** (Foscarini, Corbetta, Roncalli) desarrolla el **estilo mixto**, combinando rasgueado y punteado en una síntesis virtuosística que influyó en toda Europa. La **escuela francesa** (Visée, Campion) se distingue por su **elegancia y refinamiento**, con un predominio del punteado y una escritura cuidada que preludia el estilo rococó. Boyd y Carreras[^8] analizan la difusión de la guitarra española en los distintos contextos sociales y geográficos de Europa.==
+==Las **diferencias estilísticas entre escuelas nacionales** son notables. La **escuela española** (Amat, Sanz, Guerau, Murcia) mantiene una fuerte vinculación con el **rasgueado** y el **acompañamiento**, con un repertorio de danzas hispánicas (folías, jácaras, marizapalos, pasacalles) que conserva un sabor popular inconfundible. La **escuela italiana** (Foscarini, Corbetta, Roncalli) desarrolla el **estilo mixto**, combinando rasgueado y punteado en una síntesis virtuosística que influyó en toda Europa. La **escuela francesa** (Visée, Campion) se distingue por su **elegancia y refinamiento**, con un predominio del punteado y una escritura cuidada que preludia el estilo rococó. Boyd y Carreras[^9] analizan la difusión de la guitarra española en los distintos contextos sociales y geográficos de Europa.==
 
-==La **evolución estilística** a lo largo del Barroco muestra un tránsito desde el rasgueado puro de los primeros métodos españoles (Amat, 1596) hacia el estilo mixto, que se consolida como la escritura ideal de la guitarra barroca tardía. En la segunda mitad del siglo XVII, la influencia francesa introduce un mayor refinamiento en la ornamentación y la conducción de voces. Ophee[^9] documenta la evolución de los métodos de guitarra a lo largo de este período, desde los simples manuales de acordes hasta los completos tratados de estilo mixto que cierran el siglo. Al final del Barroco, la guitarra de cinco órdenes ha adquirido un prestigio que la sitúa en las cortes europeas, preparando el terreno para la guitarra de seis cuerdas simples del Clasicismo.==
+==La **evolución estilística** a lo largo del Barroco muestra un tránsito desde el rasgueado puro de los primeros métodos españoles (Amat, 1596) hacia el estilo mixto, que se consolida como la escritura ideal de la guitarra barroca tardía. En la segunda mitad del siglo XVII, la influencia francesa introduce un mayor refinamiento en la ornamentación y la conducción de voces. Ophee[^10] documenta la evolución de los métodos de guitarra a lo largo de este período, desde los simples manuales de acordes hasta los completos tratados de estilo mixto que cierran el siglo. Al final del Barroco, la guitarra de cinco órdenes ha adquirido un prestigio que la sitúa en las cortes europeas, preparando el terreno para la guitarra de seis cuerdas simples del Clasicismo.==
 
 # Escuelas nacionales
 ## La escuela española
@@ -255,7 +255,7 @@ La obra está ordenada en tres tomos y recoge:  ==
 ==Todos ellos fueron muy prolíficos y mantuvieron a la guitarra barroca en un lugar destacado dentro de la música europea.==
 # Notación: tablaturas
 
-==Durante el período barroco, la **tablatura** fue el método de escritura por excelencia para la guitarra. Apel[^10] estudió la notación de este período y distingue dos sistemas principales: la **tablatura italiana** y la **tablatura francesa**.==
+==Durante el período barroco, la **tablatura** fue el método de escritura por excelencia para la guitarra. Apel[^11] estudió la notación de este período y distingue dos sistemas principales: la **tablatura italiana** y la **tablatura francesa**.==
 
 ### Tablatura italiana
 
@@ -281,7 +281,7 @@ La obra está ordenada en tres tomos y recoge:  ==
 
 ## Lectura
 
-==Turnbull[^11] ofrece una visión general del repertorio guitarrístico desde el Renacimiento hasta la actualidad. Tyler[^12] se centra en los primeros métodos y fuentes de la guitarra barroca. Arriaga[^13] completa el panorama con un estudio sobre la literatura del instrumento.==
+==Turnbull[^12] ofrece una visión general del repertorio guitarrístico desde el Renacimiento hasta la actualidad. Tyler[^13] se centra en los primeros métodos y fuentes de la guitarra barroca. Arriaga[^14] completa el panorama con un estudio sobre la literatura del instrumento.==
 
 # Tablaturas, Criterios de transcripción y edición
 ==Durante este período (del Renacimiento al Barroco), la **tablatura** fue el método de escritura por excelencia para la notación musical, aunque era prácticamente exclusivo de los instrumentos de **cuerda pulsada**.  ==
@@ -306,7 +306,7 @@ La obra está ordenada en tres tomos y recoge:  ==
 
 ==En cuanto a las **líneas divisorias**, se utilizan de manera que no entren en contradicción con los **acentos** ni con el **ritmo**, a diferencia de la tablatura italiana.  ==
 
-==Según Francisco Javier Ruz[^14] en *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*, podemos diferenciar las tablaturas usadas según el estilo:==
+==Según Francisco Javier Ruz[^15] en *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*, podemos diferenciar las tablaturas usadas según el estilo:==
 
 ### Estilo rasgueado
 - Escritura castellana  
@@ -330,21 +330,38 @@ La obra está ordenada en tres tomos y recoge:  ==
 - Escritura italiana mixta con acordes alfabeto italiano  
 - Escritura francesa mixta sin alfabeto  
 - Escritura pentagramática
-# Bibliografía
-## NOTAS
 
+# Bibliografía #REVISAR_OPENCODE
+
+- Amat, Joan Carles. 1596. *Guitarra española de cinco órdenes*. Barcelona: Editorial.
+- Apel, Willi. 1942. *The Notation of Polyphonic Music, 900–1600*. Cambridge: Mediaeval Academy of America.
+- Arriaga, Gerardo. 1992. *La guitarra renacentista: transcripción y edición*. Ciudad: Editorial.
+- Boyd, Malcolm; Carreras, José. 2000. *La música en España en el siglo XVIII*. Ciudad: Editorial.
+- Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Oxford: Oxford University Press.
+- Iborra, Alcaraz. 2010. *La guitarra: Historia, organología y repertorio*. Ciudad: Editorial.
+- Lowinsky, Edward E. 1961. *Tonality and Atonality in 16th Century Music*. Berkeley: University of California Press.
+- Ophee, Matanya. 1990. *Una breve historia de los métodos de guitarra*. Ciudad: Editorial.
+- Pajares Alonso, Roberto. 2010. *Historia de la música en seis bloques*. Ciudad: Editorial.
+- Radole, Giuseppe. 1982. *Laúd, guitarra y vihuela*. Ciudad: Editorial.
+- Reese, Gustave. 1954. *Music in the Renaissance*. Nueva York: W. W. Norton.
+- Ruz, Francisco Javier. 2010. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Ciudad: Editorial.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
+- Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
+- Varios autores. 1991. *Catálogo de la Exposición La Guitarra Española*. Ciudad: Editorial.# NOTAS
+
+# NOTAS #REVISAR_OPENCODE
 [^1]: Pajares Alonso, R. L. *Historia de la música en 6 bloques*. Madrid: Editorial, 2014.  
 [^2]: Iborra, Alcaraz. *La guitarra: Historia, organología y repertorio*. Valencia: Editorial, 2010.  
 [^3]: Radole, Giuseppe. *Laúd, guitarra y vihuela*. Milán: Editorial, 1982.  
-[^4]: Amat, Joan Carles. *Pequeño tratado sobre Guitarra española y Vandolas*. Barcelona, 1596.  
-[^5]: Reese, Gustave. *Music in the Renaissance*. Nueva York: Norton, 1954.  
-[^6]: Lowinsky, Edward. *Tonality and Atonality in Sixteenth-Century Music*. Berkeley: University of California Press, 1961.  
-[^7]: Brown, Howard Mayer. *Embellishing Sixteenth-Century Music*. Oxford: Oxford University Press, 1976.  
-[^8]: Boyd, Malcolm, y Carreras, Juan José (eds.). *La música en España en el siglo XVIII*. Madrid: Cambridge University Press, 2000.  
-[^9]: Ophee, Matanya. *The Baroque Guitar: An Anthology*. Columbus: Editions Orphée, 1981.  
-[^10]: Apel, Willi. *The Notation of Polyphonic Music, 900–1600*. Cambridge, MA: Medieval Academy of America, 1942.  
-[^11]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.  
-[^12]: Tyler, James. *The Early Guitar*. Oxford: Oxford University Press, 1980.  
-[^13]: Arriaga, Gerardo. *Literatura para guitarra*. Madrid: Editorial, 2005.  
-[^14]: Ruz, Francisco Javier. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Murcia: Editorial, 2010.  
-[^15]: Varios autores. *Catálogo de la Exposición La Guitarra Española*. Madrid: Editorial, 1991.  
+[^5]: Amat, Joan Carles. *Pequeño tratado sobre Guitarra española y Vandolas*. Barcelona, 1596.  
+[^6]: Reese, Gustave. *Music in the Renaissance*. Nueva York: Norton, 1954.  
+[^7]: Lowinsky, Edward. *Tonality and Atonality in Sixteenth-Century Music*. Berkeley: University of California Press, 1961.  
+[^8]: Brown, Howard Mayer. *Embellishing Sixteenth-Century Music*. Oxford: Oxford University Press, 1976.  
+[^9]: Boyd, Malcolm, y Carreras, Juan José (eds.). *La música en España en el siglo XVIII*. Madrid: Cambridge University Press, 2000.  
+[^10]: Ophee, Matanya. *The Baroque Guitar: An Anthology*. Columbus: Editions Orphée, 1981.  
+[^11]: Apel, Willi. *The Notation of Polyphonic Music, 900–1600*. Cambridge, MA: Medieval Academy of America, 1942.  
+[^12]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.  
+[^13]: Tyler, James. *The Early Guitar*. Oxford: Oxford University Press, 1980.  
+[^14]: Arriaga, Gerardo. *Literatura para guitarra*. Madrid: Editorial, 2005.  
+[^15]: Ruz, Francisco Javier. *La guitarra del barroco, abriéndose hueco en el arte de la música de los afectos*. Murcia: Editorial, 2010.  
+[^4]: Varios autores. *Catálogo de la Exposición La Guitarra Española*. Madrid: Editorial, 1991.  

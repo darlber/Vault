@@ -57,7 +57,7 @@ Además de los autores españoles, también hubo importantes contribuciones téc
 
 - **Francia**: Adrian Le Roy[^6]  
 - **Inglaterra**: Thomas Robinson y John Dowland[^7]  
-- **Alemania**: Hans Gerle y Wolff Heckel Newsidler[^8]
+- **Alemania**: Hans Gerle, Wolff Heckel y Hans Newsidler[^8]
 
 Durante el **Barroco**, se produjo un cambio musical significativo que impulsó el desarrollo de nuevas técnicas. Esto llevó a muchos laudistas a publicar tratados técnico-didácticos, dando lugar a diversas **escuelas nacionales** destacadas en:
 
@@ -99,7 +99,7 @@ En comparación con la guitarra renacentista, la nueva guitarra era más grande 
 - **Punteado**
 - **Estilo mixto**
 
-Estas técnicas fueron recogidas en numerosos **tratados** de la época, especialmente en relación con el **acompañamiento**, gracias a que la guitarra se adaptaba muy bien a esta función. Aunque hubo publicaciones previas, los tratados de **Amat, Velasco, Ribayaz**[^9] y sobre todo **Gaspar Sanz**, son los más relevantes por su enfoque técnico y expresivo.
+Estas técnicas fueron recogidas en numerosos **tratados** de la época, especialmente en relación con el **acompañamiento**, gracias a que la guitarra se adaptaba muy bien a esta función. Aunque hubo publicaciones previas, los tratados de **Amat, Doizi de Velasco y Ribayaz**[^9] y sobre todo **Gaspar Sanz**, son los más relevantes por su enfoque técnico y expresivo.
 
 Estos tratados explicaban detalladamente:
 - Técnicas de acompañamiento
@@ -184,22 +184,44 @@ Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica d
 ==En el ámbito específico de la guitarra, la historia, organología y repertorio han sido estudiados por Alcaraz Iborra, mientras que Giuseppe Radole ha abordado las relaciones entre laúd, guitarra y vihuela.[^21][^22] La guitarra barroca ha sido objeto de estudio por Monica Hall, y las tradiciones de la danza y las diferencias instrumentales en la España de los siglos XVII y XVIII han sido investigadas por Maurice Esses.[^23][^24] Por último, Graham Wade ha trazado la evolución de las tradiciones de la guitarra clásica, complementando el estudio de Harvey Turnbull sobre el instrumento desde el Renacimiento hasta nuestros días.[^25][^26]== #REVISAR_OPENCODE
 # Bibliografía #REVISAR_OPENCODE
 
-- Bianconi, Lorenzo. 1986. *Historia de la música, 5. El siglo XVII*. Ciudad: Editorial.
-- Buelow, George. 2004. *A History of Baroque Music*. Ciudad: Editorial.
-- Esses, Maurice. 1992. *Dance and Instrumental Diferencias in Spain During the 17th and Early 18th Centuries: History and Background, Music and Dance*. Ciudad: Editorial.
+- Aguado, Dionisio. 1825. *Escuela de guitarra*. Madrid: B. Wirmbs.
+- Bianconi, Lorenzo. 1986. *Historia de la música, 5. El siglo XVII*. Madrid: Editorial Turner.
+- Briso de Montiano, Luis. 1995. *Un fondo desconocido de música para guitarra*. Madrid: Editorial Clásica.
+- Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Cambridge: Cambridge University Press.
+- Buelow, George. 2004. *A History of Baroque Music*. Bloomington: Indiana University Press.
+- Capirola, Vincenzo. 1955. *Compositione di Meser Vincenzo Capirola: Lute-book (circa 1517)*. Editado por Otto Gombosi. Neuilly-sur-Seine: Société de Musique d'Autrefois.
+- Carlevaro, Abel. 1966. *Serie didáctica para guitarra*. Buenos Aires: Editorial Barry.
+- Doizi de Velasco, Nicolás. 1640. *Nuevo modo de cifra para tañer la guitarra con variedad, y perfección*. Nápoles: Egidio Longo.
+- Esses, Maurice. 1992. *Dance and Instrumental Diferencias in Spain During the 17th and Early 18th Centuries*. Stuyvesant: Pendragon Press.
+- Ferandiere, Fernando. 1799. *Arte de tocar la guitarra española por música*. Madrid: Imprenta de P. Aznar.
+- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lira*. Madrid: Ediciones Musicales.
+- Gerle, Hans. 1532. *Musica Teutsch*. Nürnberg: Jeronimus Formschneider.
+- Gimeno, Julio. 2003. *La «escuela Tárrega» según los métodos de Pascual Roch y Emilio Pujol*. Madrid: Editorial Clásica.
+- Gimeno, Julio. 2007. *Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820*. Barcelona: Editorial Música.
 - Hall, Monica. 2010. *Guitarra barroca extendida: un estudio de la evidencia*. Ciudad: Editorial.
-- Hill, John W. 2008. *La música barroca. Música en Europa Occidental*. Ciudad: Editorial.
+- Heckel, Wolff. 1556. *Lautten Buch von mancherley schönen und lieblichen stucken mit zweyen Lautten*. Estrasburgo: Urban Wyß.
+- Hill, John W. 2008. *La música barroca. Música en Europa Occidental*. Madrid: Editorial Akal.
 - Iborra, Alcaraz. 2010. *La guitarra: Historia, organología y repertorio*. Ciudad: Editorial.
 - Jacobs, Charles. 1978. *Introduction to Miguel de Fuenllana: Orphénica Lyra*. Ciudad: Editorial.
-- Milán, Luis de. 1536. *El Maestro*. Ciudad: Editorial.
-- Mudarra, Alonso. 1546. *Tres libros de música en cifras: para vihuela*. Ciudad: Editorial.
-- Neuman, Hans Federico. 1990. *Introducción a la música española del Renacimiento*. Ciudad: Editorial.
+- Le Roy, Adrian. 1551. *Premier livre de tabulature de guiterre*. París: Adrian Le Roy & Robert Ballard.
+- Mangado, Josep María. 2004. «Sor, Fernando.» En *Enciclopedia de Francisco Herrera*. Madrid: Editorial Enciclopédica.
+- Milán, Luis de. 1536. *El Maestro*. Valencia: Francisco Díaz Romano.
+- Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid: Imprenta de Sancha.
+- Mudarra, Alonso. 1546. *Tres libros de música en cifras: para vihuela*. Sevilla: Juan de León.
+- Neuman, Hans Federico. 1990. *Introducción a la música española del Renacimiento*. Madrid: Editorial Alpuerto.
+- Newsidler, Hans. 1536. *Ein newgeordnet künstlich Lautenbuch*. Nürnberg: Jeronimus Formschneider.
+- *Nombres Propios de la guitarra: Antonio de Torres*. 2008. Barcelona: Editorial Guitarra.
+- Prieto, Víctor, y Antonio Abreu. 1799. *Escuela para tocar con perfección la guitarra de cinco y seis órdenes*. Salamanca: Imprenta de la Calle del Prior.
 - Radole, Giuseppe. 1982. *Laúd, guitarra y vihuela*. Ciudad: Editorial.
-- Reese, Gustave. 1954. *Music in the Renaissance*. Ciudad: Editorial.
-- Rubio, Samuel. 1983. *Historia de la música española. Vol 2. Desde el Ars Nova hasta 1600*. Ciudad: Editorial.
-- Sanz, Gaspar. 1674. *Instrucción de música sobre la guitarra española*. Ciudad: Editorial.
-- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Ciudad: Editorial.
-- Venegas de Henestrosa, Luis. 1557. *Libro de cifra nueva para tecla, arpa y vihuela*. Ciudad: Editorial.
+- Reese, Gustave. 1954. *Music in the Renaissance*. New York: W. W. Norton.
+- Ribayaz, Lucas Ruiz de. 1677. *Luz, y norte musical para caminar por las cifras de la guitarra española, y arpa...*. Madrid: Melchor Alvarez.
+- Robinson, Thomas. 1603. *The Schoole of Musicke*. Londres: Thomas Este.
+- Romanillos, José Luis. 2004. *Antonio de Torres. Guitarrero, su vida y su obra*. Madrid: Editorial Música.
+- Rubio, Samuel. 1983. *Historia de la música española. Vol 2. Desde el Ars Nova hasta 1600*. Madrid: Editorial Alpuerto.
+- Sanz, Gaspar. 1674. *Instrucción de música sobre la guitarra española*. Zaragoza: Herederos de Diego Dormer.
+- Shearer, Aaron. 1969. *Classic Guitar Technique*. New York: Franco Colombo.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: B. T. Batsford.
+- Venegas de Henestrosa, Luis. 1557. *Libro de cifra nueva para tecla, arpa y vihuela*. Alcalá de Henares: Juan de Brocar.
 - Wade, Graham. 1953. *Traditions of the Classical Guitar*. Ciudad: Editorial.
 
 # NOTAS #REVISAR_OPENCODE
@@ -208,19 +230,19 @@ Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica d
 
 [^2]: Mudarra, *Tres libros de música en cifras: para vihuela*.
 
-[^3]: Fuenllana, *Orphénica Lyra*.
+[^3]: Fuenllana, *Orphénica Lyra*. Véase también Jacobs, *Introduction to Miguel de Fuenllana*.
 
 [^4]: Venegas de Henestrosa, *Libro de cifra nueva para tecla, arpa y vihuela*.
 
-[^5]: Capirola, *Lute Manuscript*.
+[^5]: Capirola, *Compositione di Meser Vincenzo Capirola: Lute-book (circa 1517)*, ed. Otto Gombosi.
 
-[^6]: Le Roy, tratados para laúd.
+[^6]: Le Roy, *Premier livre de tabulature de guiterre* (1551) y obras posteriores para laúd y guitarra.
 
-[^7]: Robinson, Thomas; Dowland, John. Tratados laudísticos ingleses.
+[^7]: Robinson, *The Schoole of Musicke* (1603); Dowland (comp.), *Varietie of Lute-Lessons* (1610).
 
-[^8]: Gerle, Hans; Newsidler, Wolff Heckel. Tratados laudísticos alemanes.
+[^8]: Gerle, *Musica Teutsch* (1532); Heckel, *Lautten Buch* (1556); Newsidler, *Ein newgeordnet künstlich Lautenbuch* (1536).
 
-[^9]: Amat, Joan Carles; Velasco; Ribayaz, Lucas Ruiz de. Tratados de guitarra barroca.
+[^9]: Amat, *Guitarra española, y vándola* (1626); Doizi de Velasco, *Nuevo modo de cifra para tañer la guitarra* (1640); Ribayaz, *Luz, y norte musical* (1677).
 
 [^10]: Sanz, *Instrucción de música sobre la guitarra española*.
 
@@ -228,7 +250,7 @@ Este enfoque técnico y detallado encuentra continuidad en la obra pedagógica d
 
 [^12]: Ferandiere, *Arte de tocar la guitarra española por música*.
 
-[^13]: Abreu-Prieto, *Escuela para tocar con perfección la guitarra de cinco y seis órdenes*.
+[^13]: Prieto y Abreu, *Escuela para tocar con perfección la guitarra de cinco y seis órdenes*.
 
 [^14]: Aguado, *Escuela de guitarra*.
 

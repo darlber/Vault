@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
+                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 07. Evolución de las diferentes escuelas y métodos"
+              "title": "Tema 12. El repertorio de guitarra barroca, su estilo y notación"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
+                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 07. Evolución de las diferentes escuelas y métodos"
+              "title": "Outline of Tema 12. El repertorio de guitarra barroca, su estilo y notación"
             }
           },
           {
@@ -184,8 +184,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -205,12 +205,15 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "a35c21abf5b5d6a2",
   "lastOpenFiles": [
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/0. Temas Oposiciones.md",
+    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
@@ -230,12 +233,10 @@
     "Oposiciones TAI/Tema 01. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
     "Oposiciones TAI/Tema 00. Rango de ley y Jerarquía leyes.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
     "restored_tmp.md",
     "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Oposiciones TAI/Flashcards - Tema 2.md",
-    "Oposiciones Guitarra/0. Temas Oposiciones.md",
     "Oposiciones Guitarra/TEMA 18-19.pdf",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
