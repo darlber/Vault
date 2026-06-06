@@ -88,7 +88,7 @@ Los compositores guitarristas del periodo contribuyen a que la guitarra alcance 
 Además, se produce un gran desarrollo de música de cámara, en la que la guitarra tiene un papel destacado, llegando incluso a intervenir en óperas de Rossini, Donizetti y Weber[^11].  
 
 La revalorización del instrumento también depende del progreso técnico, impulsado por el auge de métodos didácticos elaborados por guitarristas[^1].
-## Evolución musical. Estilo y formas
+## Evolución musical. Estilo y formas #REVISAR_OPENCODE
 
 La estética del clasicismo rompe con la concepción barroca de texturas polifónicas contrapuntísticas y armonías complejas, dando paso a la sencillez y naturalidad musical.  
 
@@ -101,13 +101,13 @@ La música de esta época se desarrolla a través de la forma sonata de dos tema
 
 Las formas musicales para guitarra coinciden con las de otros instrumentos como el piano: sonatas, temas con variaciones, rondós, valses, conciertos para guitarra y orquesta, fantasías, minuetos, y abundante música de cámara.
 
-### Contexto estilístico: del Clasicismo al Romanticismo
+### Contexto estilístico: del Clasicismo al Romanticismo #REVISAR_OPENCODE
 
 ==El repertorio guitarrístico clásico-romántico se sitúa en la transición entre el Clasicismo tardío (c. 1780-1800) y el primer Romanticismo (c. 1800-1830). La guitarra participa de ambas estéticas: del Clasicismo hereda la claridad formal, la textura homofónica y la estructura periódica; del Romanticismo temprano adopta la expresividad melódica, el contraste dinámico y la búsqueda de un carácter más subjetivo[^12].==
 
 ==En la escuela española, esta dualidad se manifiesta en las obras de Sor y Aguado. Sor, formado en la tradición clásica, desarrolla un lenguaje contrapuntístico moderado que mira al pasado clásico (influencia de Haydn y Mozart), mientras que Aguado, más orientado a la didáctica y al lucimiento del intérprete, anticipa rasgos del virtuosismo romántico que culminará en Giuliani y Mertz[^13].==
 
-### Formas y géneros cultivados por la escuela española
+### Formas y géneros cultivados por la escuela española #REVISAR_OPENCODE
 
 ==La sonata es la forma central del repertorio de Sor. Su *Grande Sonate* op. 22 ejemplifica la estructura tripartita clásica (exposición, desarrollo, reexposición) adaptada a las limitaciones de la guitarra: la modulación al tono de la dominante se sustituye con frecuencia por un contraste temático más que tonal, y el desarrollo se apoya en secuencias armónicas sobre el bordón de tónica o dominante[^14].==
 
@@ -117,7 +117,7 @@ Las formas musicales para guitarra coinciden con las de otros instrumentos como 
 
 ==El vals es la forma de salón por excelencia en la escuela española. Aguado compone numerosos valses (Op. 1, 7, 12) de carácter ligero y funcional, destinados al consumo doméstico. El rondó, la contradanza y el minué completan el cuadro formal del repertorio guitarrístico del periodo[^16].==
 
-### Textura y lenguaje armónico
+### Textura y lenguaje armónico #REVISAR_OPENCODE
 
 ==La textura predominante es la melodía acompañada, con la línea melódica en el registro agudo (primera y segunda cuerdas) y el acompañamiento armónico en las cuerdas graves mediante arpegios y acordes. Esta textura deriva del bajo Alberti pianístico y se adapta a la guitarra mediante fórmulas arpegiadas de tres, cuatro y seis notas que llenan el espacio sonoro sin exigir un control polifónico riguroso.==
 
