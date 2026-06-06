@@ -167,7 +167,7 @@ En la forma variación aparece un empleo más idiomático de los recursos de la 
 
 Todo ello debe tenerse en cuenta al abordar la edición y transcripción de la música guitarrística del siglo XVIII.
 
-# Bibliografía
+# Bibliografía #REVISAR_OPENCODE
 
 - Aguado, Dionisio. 1825. *Escuela de guitarra*. Madrid.
 - Alcaraz Iborra, Mario; Díaz Soto, Roberto. 2010. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario.
