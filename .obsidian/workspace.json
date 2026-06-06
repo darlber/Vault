@@ -11,14 +11,15 @@
             "id": "cb72182473f8e88d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
-                "bFile": "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
-                "aRef": ""
+                "file": "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: Tema 12. Tipos abstractos y Estructuras de datos  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Tema 12. Tipos abstractos y Estructuras de datos"
             }
           }
         ]
@@ -187,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,15 +203,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0e30d813145d5b6a",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
-    "osint_ct.md",
-    "Oposiciones TAI/Tema 13. Sistemas operativos.md",
     "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
     "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
+    "osint_ct.md",
+    "Oposiciones TAI/Tema 13. Sistemas operativos.md",
     "Oposiciones TAI/Tema 11. Periféricos.md",
     "Oposiciones TAI/Tema 10. Informática básica.md",
     "Oposiciones TAI/Tema 09. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
