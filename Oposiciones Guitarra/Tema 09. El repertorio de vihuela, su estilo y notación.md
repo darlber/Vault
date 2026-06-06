@@ -261,6 +261,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
 - Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
 - Varios autores. 1987. *Actas del Congreso «España en la Música de Occidente»*. Ciudad: Editorial.
+
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: Bermudo, *Declaración de instrumentos musicales*.
@@ -269,23 +270,23 @@ Estas afinaciones coinciden con las del laúd renacentista.
 
 [^3]: Koonce, *Renaissance Vihuela and Guitar in Sixteenth-Century Spain*.
 
-[^5]: Narváez, *Los Seis Libros del Delphin*.
+[^4]: Reese, *Music in the Renaissance*.
 
-[^6]: Mudarra, *Tres libros de música en cifra para vihuela*.
+[^5]: Apel, *The Notation of Polyphonic Music*.
 
-[^7]: Fuenllana, *Orphénica Lyra*.
+[^6]: Ortiz, *Trattado de glosas*.
 
-[^8]: Santa María, *Arte de tañer fantasía*.
+[^7]: Brown, *Embellishing 16th Century Music*.
 
-[^TEMP[^5]:] Reese, *Music in the Renaissance*.
+[^8]: Lowinsky, *Tonality and Atonality in 16th Century Music*.
 
-[^TEMP[^6]:] Apel, *The Notation of Polyphonic Music*.
+[^9]: Narváez, *Los Seis Libros del Delphin*.
 
-[^TEMP[^7]:] Ortiz, *Trattado de glosas*.
+[^10]: Mudarra, *Tres libros de música en cifra para vihuela*.
 
-[^TEMP[^8]:] Brown, *Embellishing 16th Century Music*.
+[^11]: Fuenllana, *Orphénica Lyra*.
 
-[^4]: Lowinsky, *Tonality and Atonality in 16th Century Music*.
+[^12]: Santa María, *Arte de tañer fantasía*.
 
 [^13]: Tyler, *The Early Guitar*.
 
