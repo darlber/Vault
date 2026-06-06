@@ -1,4 +1,4 @@
-﻿﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
+﻿# Orígenes y antecedentes. Evolución histórica desde sus orígenes hasta nuestros días. Diferentes escuelas de construcción.
 ## Índice:
 1. [Historia general de la guitarra: orígenes y antecedentes](#Historia%20general%20de%20la%20guitarra%20orígenes%20y%20antecedentes)
 	1. [Introducción](#Introducción)  
@@ -7,7 +7,7 @@
 3. [Diferentes escuelas de construcción](#Diferentes%20escuelas%20de%20construcción)
 4. [Bibliografía](#Bibliografía)
 # Historia general de la guitarra: orígenes y antecedentes  
-## Introducción
+## Introducciónasdas
 
 Determinar el origen exacto de la guitarra es una tarea compleja debido a la diversidad de instrumentos de cuerda medievales de los que podría derivar, ya que presentan distintos nombres, formas, procedencias y formas de ejecución.[^1]
 
