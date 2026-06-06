@@ -23,7 +23,7 @@ Otra opción menos asimétrica —más común en guitarristas flamencos— es la
 ### Técnica y postura
 Una **buena disposición corporal** y el aprovechamiento de las **capacidades individuales** son esenciales para lograr una técnica precisa. El **control muscular** y la **relajación** son claves: la tensión excesiva impide alcanzar los objetivos técnicos. La postura y el equilibrio físico son, por tanto, **fundamentales para un desarrollo guitarrístico saludable y eficiente**.
 
-==La **independencia digital** y la **coordinación bimanual** constituyen pilares complementarios de la técnica. Emilio Pujol sistematizó los principios de la digitación consciente y la preparación como herramientas para la fluidez técnica.[^5] El estudio de escalas en patrones progresivos, desarrollado por Abel Carlevaro, contribuye a la igualdad digital y a la sincronización entre ambas manos.[^6] Del mismo modo, la tradición pedagógica de Dionisio Aguado sentó las bases de la pulsación consciente y el control del sonido en la escuela clásica española.[^11]== #REVISAR_OPENCODE
+==La **independencia digital** y la **coordinación bimanual** constituyen pilares complementarios de la técnica. Emilio Pujol sistematizó los principios de la digitación consciente y la preparación como herramientas para la fluidez técnica.[^5] El estudio de escalas en patrones progresivos, desarrollado por Abel Carlevaro, contribuye a la igualdad digital y a la sincronización entre ambas manos.[^6] Del mismo modo, la tradición pedagógica de Dionisio Aguado sentó las bases de la pulsación consciente y el control del sonido en la escuela clásica española.[^7]== #REVISAR_OPENCODE
 # La función de las distintas partes de cada brazo en la técnica de la guitarra
 El brazo está compuesto por **hombro, antebrazo, brazo, mano y dedos**, y sus articulaciones —**hombro, codo y muñeca**— son esenciales en la ejecución guitarrística.
 ## Brazo izquierdo
@@ -33,14 +33,14 @@ Durante la práctica, el brazo izquierdo se mantiene en **supinación y flexión
 - **Presión de los dedos sobre el diapasón**
 - **Presentación adecuada de la mano**
 
-Según Abel Carlevaro, los movimientos de los dedos están condicionados por la **acción conjunta del brazo, muñeca y mano**, lo que permite una correcta **precisión, independencia y actitud técnica** sobre el diapasón.[^7]
+Según Abel Carlevaro, los movimientos de los dedos están condicionados por la **acción conjunta del brazo, muñeca y mano**, lo que permite una correcta **precisión, independencia y actitud técnica** sobre el diapasón.[^8]
 ## Brazo derecho
 El brazo derecho adopta una **posición de pronación** con **menos flexión** que el izquierdo. Sus funciones incluyen:
 - **Pulsación de las cuerdas**
 - **Desplazamientos para obtener diferentes efectos**
 La ubicación correcta del brazo es sobre el **aro superior mayor**, entre **la muñeca y el codo**, alineado aproximadamente con la **altura del puente**. Es fundamental evitar tensiones en la mano y el antebrazo para lograr **precisión y libertad de movimiento**. Además, la **posición del brazo influye directamente** en la trayectoria de los dedos al pulsar, evitando que rocen cuerdas adyacentes.
 
-==La pronación del antebrazo derecho, controlada por los músculos pronador redondo y cuadrado, determina el ángulo de ataque de los dedos sobre las cuerdas y, por tanto, la calidad tímbrica del sonido. Carlevaro dedicó un cuaderno monográfico a la sistematización de los movimientos de la mano derecha, incluyendo ejercicios progresivos para el desarrollo del ataque apoyado y tirando.[^8]== #REVISAR_OPENCODE
+==La pronación del antebrazo derecho, controlada por los músculos pronador redondo y cuadrado, determina el ángulo de ataque de los dedos sobre las cuerdas y, por tanto, la calidad tímbrica del sonido. Carlevaro dedicó un cuaderno monográfico a la sistematización de los movimientos de la mano derecha, incluyendo ejercicios progresivos para el desarrollo del ataque apoyado y tirando.[^9]== #REVISAR_OPENCODE
 ## Hombros
 - **Relajados y alineados** con las caderas; evitar su elevación para no sobrecargar trapecios y pectorales.
 - **Hombro izquierdo**: relajado y móvil; facilita alcanzar la zona sobreaguda.
@@ -66,7 +66,7 @@ La ubicación correcta del brazo es sobre el **aro superior mayor**, entre **la 
     - **Paralela**: todos los dedos realizan el mismo recorrido para pisar las cuerdas, lo que facilita la **coordinación**.
     - **Violinística**: reduce el esfuerzo de la **musculatura supinadora**, ya que el antebrazo, muñeca y articulaciones están más cerca de su **posición de reposo**, favoreciendo la **movilidad** y reduciendo la **tensión**.
 
-==La **técnica de la mano izquierda** ha sido objeto de estudio específico por parte de Abel Carlevaro, quien dedicó dos cuadernos al análisis de los movimientos digitales, la posición del pulgar y la economía de presión sobre el diapasón.[^9][^10]== #REVISAR_OPENCODE
+==La **técnica de la mano izquierda** ha sido objeto de estudio específico por parte de Abel Carlevaro, quien dedicó dos cuadernos al análisis de los movimientos digitales, la posición del pulgar y la economía de presión sobre el diapasón.[^10][^11]== #REVISAR_OPENCODE
 ### Mano derecha
 - Debe colocarse de forma **relajada**, como una **extensión natural del antebrazo**, con una forma ligeramente **ahuecada**.
 - Una buena postura permite una ejecución eficaz de:
@@ -146,15 +146,15 @@ La pulsación con los dedos **índice, medio y anular** sigue un proceso de **cu
 
 [^6]: Carlevaro, *Cuaderno n° 21: Escalas diatónicas*.
 
-[^7]: Carlevaro, *Escuela de la guitarra, exposición de la teoría instrumental*.
+[^7]: Aguado, *Nuevo método para guitarra*.
 
-[^8]: Carlevaro, *Cuaderno n° 22: Técnica de la mano derecha*.
+[^8]: Carlevaro, *Escuela de la guitarra, exposición de la teoría instrumental*.
 
-[^9]: Carlevaro, *Cuaderno n° 23: Técnica de la mano izquierda*.
+[^9]: Carlevaro, *Cuaderno n° 22: Técnica de la mano derecha*.
 
-[^10]: Carlevaro, *Cuaderno n° 24: Técnica de la mano izquierda*.
+[^10]: Carlevaro, *Cuaderno n° 23: Técnica de la mano izquierda*.
 
-[^11]: Aguado, *Nuevo método para guitarra*.
+[^11]: Carlevaro, *Cuaderno n° 24: Técnica de la mano izquierda*.
 
 [^12]: Farías, *Guía práctica de ergonomía musical*.
 
