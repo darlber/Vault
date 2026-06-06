@@ -171,7 +171,7 @@ En el siglo XIX, en París, sobresalió **René Lacéte**, constructor de guitar
 
 ### ==Breve semblanza de los constructores más destacados== #REVISAR_OPENCODE
 
-Entre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya.
+Entre los constructores andaluces, ==**Juan Pagés** y su hijo **José Pagés**== (taller en Cádiz, finales del siglo XVIII) fueron pioneros en la aplicación del varetaje en abanico, siendo sus guitarras las primeras en incorporar este sistema de forma sistemática. ==**Francisco Sanguino**== anticipó el diseño de la guitarra moderna con su vihuela-guitarra de 1759, conservada en La Haya. #frase_sin_source (corrección: no es una "vihuela-guitarra" —término híbrido no documentado en las fuentes— sino una guitarra de seis órdenes, clasificada por Tyler & Sparks y el Met Museum como el primer instrumento conocido con varetaje en abanico #frase_revisar_opencode #comprobado)
 
 En la escuela castellana, ==**Manuel Ramírez**== (1864–1920) fundó el taller que luego continuaría su descendiente **José Ramírez**, formando a constructores como **Santos Hernández** y **Domingo Esteso**, cuya tradición se mantiene activa en el siglo XXI. ==**José Ramírez III**== (1922–1995) introdujo la tapa de cedro y desarrolló el modelo de guitarra de concierto «1a», utilizado por Andrés Segovia.
 
