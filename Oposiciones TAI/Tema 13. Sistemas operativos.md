@@ -71,6 +71,7 @@ Transiciones: admitir (new->ready), des/planificar (ready->running, running->rea
 - **Asignación indexada**: un bloque índice contiene punteros a todos los bloques del archivo.
 
 **Sistemas de archivos típicos**:
+
 | SO | Sistema de archivos |
 |---|---|
 | Windows | **FAT32**, **NTFS**, exFAT |
@@ -271,12 +272,12 @@ Transiciones: admitir (new->ready), des/planificar (ready->running, running->rea
 - **tvOS**: Apple TV, basado en iOS, enfocado en entretenimiento.
 
 ### Comparativa Android vs iOS
-| Aspecto | Android | iOS |
-|---|---|---|
-| Kernel base | Linux (modificado) | XNU (Unix/Darwin) |
-| Desarrollador | Google | Apple |
-| Modelo | Código abierto (AOSP) | Código cerrado |
-| Lenguaje apps | Java/Kotlin | Swift/Objective-C |
-| Distribución apps | Google Play | App Store |
-| Personalización | Alta | Limitada |
-| Actualizaciones | Fragmentadas (fabricantes) | Centralizadas (Apple) |
+| Aspecto           | Android                    | iOS                   |
+| ----------------- | -------------------------- | --------------------- |
+| Kernel base       | Linux (modificado)         | XNU (Unix/Darwin)     |
+| Desarrollador     | Google                     | Apple                 |
+| Modelo            | Código abierto (AOSP)      | Código cerrado        |
+| Lenguaje apps     | Java/Kotlin                | Swift/Objective-C     |
+| Distribución apps | Google Play                | App Store             |
+| Personalización   | Alta                       | Limitada              |
+| Actualizaciones   | Fragmentadas (fabricantes) | Centralizadas (Apple) |
