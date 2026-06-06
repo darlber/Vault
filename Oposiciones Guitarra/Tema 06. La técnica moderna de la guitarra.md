@@ -16,25 +16,43 @@ La técnica moderna de la guitarra surge a partir de **varios hitos históricos 
     - La **ampliación del repertorio**.
     - La **presencia en grandes escenarios internacionales**.
     - Un **aumento en la popularidad** del instrumento.
-En conclusión, el **siglo XX** es considerado el más relevante en la historia de la guitarra, tanto por su desarrollo técnico como por su proyección artística y social.
+En conclusión, el **siglo XX** es considerado el más relevante en la historia de la guitarra, tanto por su desarrollo técnico como por su proyección artística y social.[^1]
+### Principios fundamentales de la técnica guitarrística moderna #REVISAR_OPENCODE
+
+==La técnica moderna de la guitarra clásica se sustenta sobre un conjunto de principios interrelacionados que han sido formulados y refinados por los grandes pedagogos del siglo XX:==
+
+==**Postura y colocación del instrumento:** La posición equilibrada del cuerpo y la sujeción estable de la guitarra constituyen la base sobre la que se asienta toda la técnica. La escuela de Tárrega, sistematizada por Pujol, estableció la colocación del instrumento sobre la pierna izquierda, con el mástil elevado y el brazo derecho apoyado sobre el aro superior.[^2]==
+
+==**Producción del sonido y pulsación:** El sonido se genera mediante la combinación de ataque apoyado (*apoyando*) y libre (*tirando*). El debate entre pulsación con yema o con uña —presente desde Sor y Aguado— define las tres grandes tendencias sonoras que se sintetizan en la tabla de pulsaciones de este tema.==
+
+==**Relajación y economía de movimiento:** Carlevaro racionalizó el análisis de los movimientos, distinguiendo entre fijaciones musculares innecesarias y acciones eficientes, sentando las bases de una técnica libre de tensiones.[^3]==
+
+==**Independencia y coordinación digital:** Tanto en la mano derecha (alternancia i-m, arpegios) como en la izquierda (preparación de dedos, distancia mínima), la independencia de los dedos es un objetivo pedagógico central, abordado por Shearer en su enfoque sistemático.[^4]==
+
+==**Control tímbrico y dinámico:** La escuela moderna distingue múltiples puntos de pulsación (*sul tasto*, *sul ponte*, *ordinario*) y variaciones en el ángulo de ataque, recursos sistematizados por los métodos del siglo XX.==
 ## Antecedentes: Sor, Aguado, Tárrega y las guitarras de Torres
 Para comprender el desarrollo de la técnica moderna de la guitarra, es necesario conocer **algunos antecedentes clave**:
-- **Transición del siglo XVIII al XIX**: se produce el paso de **órdenes dobles a cuerdas simples**, por razones como:
+- **Transición del siglo XVIII al XIX**: se produce el paso de **órdenes dobles a cuerdas simples**, por razones como:[^5]
     - Mayor **agilidad técnica**.
     - Cambios en la **expresión y tesitura musical**.
     - Influencia del **nuevo estilo musical** y cambios técnicos en otros instrumentos.
     - Búsqueda de **sencillez sonora** y evolución estética.
 - Esta evolución organológica, junto con los nuevos enfoques musicales, impulsa también el auge de la **didáctica guitarrística**, reflejada en diversos métodos. Uno de los primeros fue:
     - _Explicación para tocar la guitarra de punteado por música o cifra_ (Veracruz, 1776).
+
+==La tradición de la cuerda pulsada en España se remonta a los tratados para vihuela del siglo XVI, como los *Tres libros de música en cifras* de Alonso Mudarra (Sevilla, 1546) y el *Libro de música para vihuela intitulado Orphénica Lira* de Miguel de Fuenllana (1554), cuyas ediciones modernas constituyen fuentes esenciales para el estudio de la técnica antigua de la guitarra.[^6][^7]== #REVISAR_OPENCODE
+    - También se da un **cambio en la notación musical**:
 - Se da también un **cambio en la notación musical**:
     - De la **tablatura** al **sistema mensural** (primer ejemplo: _Reglas y advertencias_, Pablo Minguet, Madrid, 1754).
     - Esto favorece el paso de una función de acompañamiento (rasgueo) a una más **polifónica**, con líneas melódicas más definidas.
+
+==Paralelamente, la práctica de la ornamentación en la música del Renacimiento —cuyo estudio fue sistematizado por Howard Mayer Brown— influyó en el desarrollo de los recursos expresivos de la guitarra y el laúd, adaptándose a las posibilidades técnicas de cada instrumento.[^8]== #REVISAR_OPENCODE
 - **Fernando Sor** y **Dionisio Aguado** son figuras fundamentales en esta evolución:
     - **Sor**: guitarrista, compositor y pedagogo de gran sensibilidad musical, con una producción amplia que incluye ballet, ópera y música vocal.
     - **Aguado**: se destaca por su labor **pedagógica y técnica**, complementando el legado de Sor.
 - Ambos crean las **bases sobre las que Francisco Tárrega** construirá su técnica, considerada la piedra angular de la guitarra clásica moderna.
 ## Sor 
-- **Fernando Sor** destacó por llevar la escritura musical para guitarra a niveles muy altos, con obras como:
+- **Fernando Sor** destacó por llevar la escritura musical para guitarra a niveles muy altos, con obras como:[^9]
     - _Sonata opus 22_
     - _Fantasía Elegíaca opus 59_
     - _Variaciones sobre las Folías de España Opus 15a_
@@ -45,7 +63,7 @@ Para comprender el desarrollo de la técnica moderna de la guitarra, es necesari
     - Aguado tocaba **con uña**, más común en España.
     - Este debate (uso de yema vs. uña) está presente en el método de Sor y refleja la búsqueda romántica de mayor sonoridad y virtuosismo.
 ## Aguado
-- **Dionisio Aguado** es considerado por algunos como el **pedagogo más importante** en la historia de la guitarra.
+- **Dionisio Aguado** es considerado por algunos como el **pedagogo más importante** en la historia de la guitarra.[^10]
     - Vivió en Madrid con su madre y en 1820 publicó su _Colección de estudios_.
     - Tras la muerte de su madre (ca. 1826), se trasladó a París, donde coincidió y entabló amistad con Fernando Sor.
     - Aguado fue un músico popular en los salones y conciertos parisinos, admirado por figuras como Rossini y Paganini.
@@ -58,7 +76,7 @@ Para comprender el desarrollo de la técnica moderna de la guitarra, es necesari
     - En su testamento menciona al guitarrista **José Mª Ciebra**.
     - Su mayor amistad fue con **Fernando Sor**, quien en su _Método para la guitarra_ menciona a Aguado y relata su primer encuentro, además de tratar el uso de las uñas en la mano derecha.
 - **Obras musicales:**
-    - Compositor de muchas piezas en forma de vals, consideradas “música de salón”.
+    - Compositor de muchas piezas en forma de vals, consideradas «música de salón».
     - Destacan:
         - _Trois Rondo Brillants_ op. 2 (París, finales de 1825)
         - _Le Menuet affandangado_ op. 15
@@ -93,9 +111,9 @@ Para comprender el desarrollo de la técnica moderna de la guitarra, es necesari
 - **Técnica de Tárrega:**
     - Innovó en la posición de la mano al tocar sin uña y en la pulsación.
     - Actualizó la tradición guitarrística tomando como base a Aguado.
-- **Guitarras de Antonio de Torres:**
+- **Guitarras de Antonio de Torres:[^11]**
     - Adaptadas a las necesidades técnicas y sonoras de la época, favorecieron el avance de la técnica guitarrística.
-    - Según José Luis Romanillos, Torres se adelantó al conocimiento científico acústico, logrando un nuevo sonido sin alterar la forma tradicional.
+    - Según José Luis Romanillos, Torres se adelantó al conocimiento científico acústico, logrando un nuevo sonido sin alterar la forma tradicional.[^12]
     - Aunque no dejó escritos, sus guitarras son testigos de su intuición y trabajo con la elasticidad de la madera (especialmente el pino abeto) para mejorar la resonancia.
 - **Recepción y características sonoras:**
     - En 1862, la prensa inglesa elogió el sonido expresivo y versátil de las guitarras Torres, destacando la capacidad del instrumento para transmitir emociones.
@@ -157,7 +175,7 @@ Para comprender el desarrollo de la técnica moderna de la guitarra, es necesari
 - Invención de nuevos recursos técnico-interpretativos.
 ---
 - **Tárrega** asentó las bases de la técnica moderna de la guitarra y dio un impulso decisivo para su revalorización tras un periodo difícil.
-- Sus aportaciones técnicas no se publicaron en método alguno; fue su alumno **Emilio Pujol** quien las sistematizó en la _Escuela Razonada de la Guitarra_ (4 volúmenes), basada en los principios de Tárrega.    
+- Sus aportaciones técnicas no se publicaron en método alguno; fue su alumno **Emilio Pujol** quien las sistematizó en la _Escuela Razonada de la Guitarra_ (4 volúmenes), basada en los principios de Tárrega.[^2]    
 - De esta escuela surgieron guitarristas destacados como:    
     - **Miguel Llobet**: máximo exponente concertístico, gran compositor, difusor de la escuela moderna y transcriptor. Entre sus alumnos estuvieron María Luisa Anido y Domingo Prat.        
     - **Emilio Pujol**: centrado en la parte didáctica y el desarrollo del repertorio antiguo; profesor de Alberto Ponce, impulsor de la Escuela Francesa junto a A. Lagoya.        
@@ -187,7 +205,7 @@ Para comprender el desarrollo de la técnica moderna de la guitarra, es necesari
 - Su alumno más importante es Leo Brouwer, precursor de una escuela propia y figura clave en la música contemporánea para guitarra.  
 ### Abel Carlevaro  
 - Alumno de Segovia.  
-- Desarrolló su propia “Escuela de la guitarra”.  
+- Desarrolló su propia «Escuela de la guitarra».  
 - Su técnica racionaliza y analiza todos los movimientos de la ejecución: colocación de manos, producción de sonido, ataque de dedos, funciones del brazo, fatiga muscular (relajación y fijaciones).  
 - Autor del método *Serie didáctica para guitarra*, donde aborda extensamente aspectos técnicos y su abordaje.  
 ### Actualidad  
@@ -196,7 +214,9 @@ Para comprender el desarrollo de la técnica moderna de la guitarra, es necesari
 La evolución de la técnica guitarrística y la revalorización del instrumento se dio por varios frentes:
 1. **Frente concertístico:** Destacado por figuras como Miguel Llobet, Emilio Pujol y Andrés Segovia.  
 2. **Ampliación del repertorio:** A través de transcripciones de música antigua, recuperación de obras clásicas, y composición de piezas para guitarra por parte de compositores no guitarristas y guitarristas.  
-3. **Auge de métodos y enseñanza:** Surge la necesidad de transmitir conocimientos y la inclusión de la guitarra en conservatorios.  
+3. **Auge de métodos y enseñanza:** Surge la necesidad de transmitir conocimientos y la inclusión de la guitarra en conservatorios.
+
+==La investigación musicológica en torno a la guitarra ha sacado a la luz fondos documentales que permiten reconstruir su historia pedagógica, como el catalogado por Luis Briso de Montiano.[^13] Del mismo modo, los congresos y encuentros académicos han contribuido a la difusión de estos hallazgos, como las actas del congreso «España en la Música de Occidente».[^14]==   #REVISAR_OPENCODE
 4. **Desarrollo técnico-pedagógico:** Sistematicidad en métodos y estudios técnicos, con contribuciones de Tárrega, Pujol, Fortea, Carlevaro, entre otros.  
 5. **Publicación de obras:** Nuevas concepciones estéticas y musicales a principios del siglo XX motivaron cambios en técnicas de ataque y pulsación.  
 ### Controversia técnica  
@@ -217,18 +237,64 @@ Desde Sor y Aguado, persiste el debate sobre el uso de la **uña** o la **yema**
 5. **Regino Sainz de la Maza:** Ataque perpendicular con el centro del dedo (uña).  
 Estas distintas formas de ataque influyen en la posición de la mano derecha, la colocación del instrumento y la acción de los dedos para lograr precisión, sonoridad y técnica adecuadas.
 
-# Bibliografía
-#TODO 
-- Briso de Montiano, Luis. _Un fondo desconocido de música para guitarra_. Madrid: Editorial Clásica, 1995.
-- Brown, Howard Mayer. _Embellising 16th Century Music_. Cambridge: Cambridge University Press, 1976.
-- Fuenllana, Miguel de. _Libro de música para vihuela intitulado Orphénica Lira_. Madrid: Ediciones Musicales, 1981.
-- Gimeno, Julio. _Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820_. Barcelona: Editorial Música, 2007.
-- Gimeno, Julio. _La “escuela Tárrega” según los métodos de Pascual Roch y Emilio Pujol_. Madrid: Editorial Clásica, 2003.
-- Mangado, Josep María. “Sor, Fernando,” entrada en _Enciclopedia de Francisco Herrera_. Madrid: Editorial Enciclopédica, 2004.
-- Mudarra, Alonso. _Tres libros de música en cifras: para vihuela_. Sevilla: Editorial Antigua, 1546.
-- _Nombres Propios de la guitarra: Antonio de Torres_. Barcelona: Editorial Guitarra, 2008.
-- Romanillos, José Luis. _Antonio de Torres. Guitarrero, su vida y su obra_. Madrid: Editorial Música, 2004.
-- Turnbull, Harvey. _The Guitar from the Renaissance to the Present Day_. London: Faber and Faber, 1976.
-- Tyler, James. _The Early Guitar_. London: Oxford University Press, 1980.
-- Varios autores. _Actas del Congreso “España en la Música de Occidente”_, vol. 1. Madrid: Editorial Congresos, 1987.
+### Aportaciones técnicas de los grandes pedagogos #REVISAR_OPENCODE
 
+==Cada figura clave contribuyó con innovaciones específicas al desarrollo de la técnica moderna:==
+
+==- **Francisco Tárrega**: Estableció la posición perpendicular de la mano derecha, el ataque apoyado con la última falange, la sonoridad de yema como ideal y la prohibición de repetir dedo en sucesión. Su escuela sentó las bases de la técnica moderna.[^2]==
+
+==- **Emilio Pujol**: Sistematizó los principios de Tárrega en la *Escuela Razonada de la Guitarra*, codificando por primera vez la técnica de la escuela tárrega en un método completo.==
+
+==- **Andrés Segovia**: Desarrolló un ataque oblicuo hacia el puente (yema-uña), promoviendo una sonoridad más rica en armónicos y una proyección adaptada a salas de concierto. Estandarizó además la forma y cuidado de la uña.==
+
+==- **Abel Carlevaro**: Revolucionó la técnica de la mano derecha con su teoría de los cuatro tipos básicos de ataque y el análisis detallado de la relajación muscular, eliminando fijaciones innecesarias.[^3]==
+
+==- **Aaron Shearer**: Introdujo un enfoque anatómico-científico en la pedagogía de la guitarra, analizando la mecánica de los movimientos desde la biomecánica y la eficiencia.[^4]==
+
+==- **Julio Salvador Sagreras**: Desarrolló una progresión técnica gradual en sus seis volúmenes de *Lecciones de guitarra*, referencia pedagógica para la formación sistemática del guitarrista.==
+
+# Bibliografía #REVISAR_OPENCODE
+
+- Briso de Montiano, Luis. 1995. *Un fondo desconocido de música para guitarra*. Madrid: Editorial Clásica.
+- Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Cambridge: Cambridge University Press.
+- Carlevaro, Abel. 1966. *Serie didáctica para guitarra*. Buenos Aires: Editorial Barry.
+- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lira*. Madrid: Ediciones Musicales.
+- Gimeno, Julio. 2003. *La «escuela Tárrega» según los métodos de Pascual Roch y Emilio Pujol*. Madrid: Editorial Clásica.
+- Gimeno, Julio. 2007. *Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820*. Barcelona: Editorial Música.
+- Mangado, Josep María. 2004. «Sor, Fernando.» En *Enciclopedia de Francisco Herrera*. Madrid: Editorial Enciclopédica.
+- Mudarra, Alonso. 1546. *Tres libros de música en cifras: para vihuela*. Sevilla: Editorial Antigua.
+- *Nombres Propios de la guitarra: Antonio de Torres*. 2008. Barcelona: Editorial Guitarra.
+- Romanillos, José Luis. 2004. *Antonio de Torres. Guitarrero, su vida y su obra*. Madrid: Editorial Música.
+- Shearer, Aaron. 1969. *Classic Guitar Technique*. New York: Franco Colombo.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. London: Faber and Faber.
+- Tyler, James. 1980. *The Early Guitar*. London: Oxford University Press.
+- Varios autores. 1987. *Actas del Congreso «España en la Música de Occidente»*, vol. 1. Madrid: Editorial Congresos.
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Turnbull, *The Guitar from the Renaissance to the Present Day*.
+
+[^2]: Gimeno, *La «escuela Tárrega» según los métodos de Pascual Roch y Emilio Pujol*.
+
+[^3]: Carlevaro, *Serie didáctica para guitarra*.
+
+[^4]: Shearer, *Classic Guitar Technique*.
+
+[^5]: Tyler, *The Early Guitar*.
+
+[^6]: Mudarra, *Tres libros de música en cifras: para vihuela*.
+
+[^7]: Fuenllana, *Libro de música para vihuela intitulado Orphénica Lira*.
+
+[^8]: Brown, *Embellishing 16th Century Music*.
+
+[^9]: Mangado, «Sor, Fernando», en *Enciclopedia de Francisco Herrera*.
+
+[^10]: Gimeno, *Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820*.
+
+[^11]: *Nombres Propios de la guitarra: Antonio de Torres*.
+
+[^12]: Romanillos, *Antonio de Torres. Guitarrero, su vida y su obra*.
+
+[^13]: Briso de Montiano, *Un fondo desconocido de música para guitarra*.
+
+[^14]: Varios autores, *Actas del Congreso «España en la Música de Occidente»*.
