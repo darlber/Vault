@@ -1,0 +1,36 @@
+[33mcommit fc7fe0e139e129ce4405b28340907a7243efc2d4[m
+Author: Lua <maui_195@hotmail.com>
+Date:   Sat Jun 6 19:36:18 2026 +0200
+
+    vault backup: 2026-06-06 19:36:18
+
+ .obsidian/plugins/obsidian-git/data.json           |  10 [32m+[m[31m-[m
+ .obsidian/workspace.json                           |  83 [32m++[m[31m-[m
+ .../Tema 01. Historia General de la Guitarra.md    |  22 [32m+[m[31m-[m
+ .../Tema 02. La guitarra moderna.md                |  24 [32m+[m[31m-[m
+ ...acter\303\255sticas sonoras del instrumento.md" |  42 [32m+[m[31m-[m
+ ...251cnicas de concienciaci\303\263n corporal.md" | 112 [32m+[m[31m--[m
+ .../Tema 05. La t\303\251cnica de la guitarra.md"  | 116 [32m+[m[31m--[m
+ ...6. La t\303\251cnica moderna de la guitarra.md" | 114 [32m+[m[31m--[m
+ ...de las diferentes escuelas y m\303\251todos.md" | 163 [32m+[m[31m----[m
+ ...icios y otros materiales pedag\303\263gicos.md" | 214 [32m++[m[31m----[m
+ ...rio de vihuela, su estilo y notaci\303\263n.md" | 117 [32m+[m[31m--[m
+ ...a renacentista, su estilo y notaci\303\263n.md" | 186 [32m++[m[31m---[m
+ ...d renacentista, su estilo y notaci\303\263n.md" | 428 [32m+++++[m[31m------[m
+ ...itarra barroca, su estilo y notaci\303\263n.md" | 279 [32m+++[m[31m-----[m
+ ...l repertorio para la\303\272d en el barroco.md" | 352 [32m+++++++++[m
+ ...l, del repertorio guit. 2 mitad siglo XVIII.md" | 155 [32m++++[m
+ ...\255stico cl\303\241sico-rom\303\241ntico I.md" | 263 [32m+++++++[m
+ Oposiciones Guitarra/Tema 16.md                    | 787 [32m+++++++++++++++++++++[m
+ ...ma 0. Rango de ley y Jerarqu\303\255a leyes.md" |  69 [32m++[m
+ ... Corona, funciones constitucionales del Rey.md" | 184 [32m+++++[m
+ .... Formatos de informaci\303\263n y ficheros.md" | 201 [32m++++++[m
+ ... del Congreso de los Diputados y del Senado..md | 105 [32m+++[m
+ ...es entre el Gobierno y las Cortes Generales.md" | 188 [32m+++++[m
+ ...dem\303\241s normativa de aplicaci\303\263n.md" | 579 [32m+++++++++++++++[m
+ ...ldad y contra la violencia de g\303\251nero.md" | 349 [32m+++++++++[m
+ ...3nico. La Agenda Digital para Espa\303\261a.md" | 410 [32m+++++++++++[m
+ ...derechos y obligaciones. Derechos digitales.md" | 253 [32m+++++++[m
+ ...s p\303\272blicos y normativa de desarrollo.md" | 366 [32m++++++++++[m
+ ...nico a las Administraciones p\303\272blicas.md" | 241 [32m+++++++[m
+ 29 files changed, 5139 insertions(+), 1273 deletions(-)

@@ -11,14 +11,15 @@
             "id": "a35c21abf5b5d6a2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
-                "bFile": "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
-                "aRef": ""
+                "file": "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: Tema 0. Rango de ley y Jerarquía leyes  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Tema 07. Evolución de las diferentes escuelas y métodos"
             }
           }
         ]
@@ -146,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -181,12 +184,12 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -201,19 +204,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "74e6a2710cd0eafa",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
+    "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "OSINT.md",
     "osint_ct.md",
     "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
     "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
-    "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
@@ -234,7 +237,6 @@
     "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
     "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
     "Oposiciones TAI/Tema 6. La sociedad de la información. Identidad y firma electrónica, régimen jurídico. El DNI electrónico. La Agenda Digital para España.md",
-    "Oposiciones TAI/Tema 7. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
     "Oposiciones TAI/attachments/{EA0AF256-3735-40BB-97EB-E58D75AE8A37}.png",
