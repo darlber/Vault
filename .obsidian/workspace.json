@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb72182473f8e88d",
+            "id": "a35c21abf5b5d6a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
+                "file": "OSINT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 12. Tipos abstractos y Estructuras de datos"
+              "title": "OSINT"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#frase_revisar_opencode",
+                "query": "[\"description\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5110359191895
+    "width": 292.51103591918945
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -133,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OSINT.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OSINT"
             }
           },
           {
@@ -146,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -178,7 +177,7 @@
             }
           },
           {
-            "id": "0e30d813145d5b6a",
+            "id": "74e6a2710cd0eafa",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -188,11 +187,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,46 +202,40 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "74e6a2710cd0eafa",
   "lastOpenFiles": [
-    "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
-    "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
+    "OSINT.md",
     "osint_ct.md",
-    "Oposiciones TAI/Tema 13. Sistemas operativos.md",
-    "Oposiciones TAI/Tema 11. Periféricos.md",
-    "Oposiciones TAI/Tema 10. Informática básica.md",
-    "Oposiciones TAI/Tema 09. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
-    "Oposiciones TAI/Tema 01. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
-    "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
-    "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
-    "Oposiciones Guitarra/Tema 16. Escuelas no españolas.md",
-    "Oposiciones Guitarra/Tema 20.md",
-    "Oposiciones Guitarra/Tema 19. Contemporánea.md",
-    "Oposiciones Guitarra/Tema 18. Siglo XX.md",
-    "Oposiciones Guitarra/Tema 15. La escuela española.md",
-    "Oposiciones Guitarra/Tema 14. Criterios de transcripción para guitarra de seis cuerdas.md",
-    "Oposiciones Guitarra/Tema 16.md",
-    "Oposiciones Guitarra/Tema 13. Bach.md",
-    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
+    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
     "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-    "Oposiciones Guitarra/TEMA 22.pdf",
-    "Oposiciones Guitarra/TEMA 27.pdf",
-    "Oposiciones Guitarra/TEMA 25.pdf",
-    "Oposiciones Guitarra/TEMA 19-25.pdf",
-    "Oposiciones Guitarra/TEMA 20-21.pdf",
-    "Oposiciones Guitarra/TEMA 18-19.pdf",
+    "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
+    "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
+    "Oposiciones TAI/Índice.md",
+    "Oposiciones TAI/Flashcards - Tema 12.md",
+    "OSINT_rcsmm.eu.md",
+    "Oposiciones TAI/Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
+    "Oposiciones TAI/Flashcards - Tema 2.md",
+    "Oposiciones TAI/Flashcards - Tema 1.md",
+    "Oposiciones Guitarra/Programación Didáctica.md",
+    "Oposiciones Guitarra/0. Temas Oposiciones.md",
+    "Oposiciones TAI/Tema 11. Periféricos.md",
+    "Oposiciones TAI/Tema 10. Informática básica.md",
+    "Oposiciones TAI/Tema 2. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
+    "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
+    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
+    "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
+    "Oposiciones TAI/Tema 6. La sociedad de la información. Identidad y firma electrónica, régimen jurídico. El DNI electrónico. La Agenda Digital para España.md",
+    "Oposiciones TAI/Tema 7. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
     "Oposiciones TAI/attachments/{EA0AF256-3735-40BB-97EB-E58D75AE8A37}.png",
@@ -257,6 +250,12 @@
     "Music/Miscelánea",
     "Proyecto/Phases.canvas",
     "Oposiciones TAI",
+    "Oposiciones Guitarra/TEMA 29 y 30.pdf",
+    "Music/Cadencia General Básica/attachments",
+    "Music/Cadencia General Básica",
+    "Music/attachments",
+    "Music/Impro",
+    "Music/Guía de Estudio Musical/attachments",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
     "Vault/Proyecto/Phases.canvas",
