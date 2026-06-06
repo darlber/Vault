@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc1006d2cf17b6de",
+        "id": "12df342a06c90522",
         "type": "tabs",
         "children": [
           {
-            "id": "a35c21abf5b5d6a2",
+            "id": "62bb8ccb51d9c765",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "tore Oposiciones Guitarra to clean state",
-                "bFile": "tore Oposiciones Guitarra to clean state",
-                "aRef": ""
+                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: tore Oposiciones Guitarra to clean state  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Tema 12. El repertorio de guitarra barroca, su estilo y notación"
             }
           }
         ]
@@ -132,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "significado:"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tema 12. El repertorio de guitarra barroca, su estilo y notación"
             }
           },
           {
@@ -207,13 +209,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
-    "tore Oposiciones Guitarra to clean state",
+    "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
+    "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
+    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
+    "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
+    "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
+    "tore Oposiciones Guitarra to clean state",
     "Oposiciones Guitarra/Tema 16.md",
     "Oposiciones Guitarra/Tema 15. La escuela española.md",
     "Oposiciones Guitarra/Tema 14. Criterios de transcripción para guitarra de seis cuerdas.md",
@@ -221,15 +230,8 @@
     "Oposiciones Guitarra/Tema 13. Bach.md",
     "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
     "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 10. El repertorio de guitarra renacentista, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
-    "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "OSINT.md",
     "osint_ct.md",
-    "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
-    "Oposiciones Guitarra/Tema 04. Técnicas de concienciación corporal.md",
-    "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 15. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I.md",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
     "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",

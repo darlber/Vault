@@ -41,10 +41,10 @@ Frecuencias de las cuerdas al aire en la guitarra:
 - Cuerda 4: Re4 = 147 Hz
 - Cuerda 5: La3 = 110 Hz
 - Cuerda 6: Mi3 = 82 Hz
-#frase_sin_source (corrección: la octava indicada originalmente (Mi5, Si4, etc.) estaba desplazada un grado; la correcta en notación científica es E4–B3–G3–D3–A2–E2 #frase_revisar_opencode #comprobado)
+
 2. La intensidad permite distinguir sonidos fuertes y débiles, relacionada con la amplitud de vibración de las cuerdas. Se mide en decibelios (dB), y en la guitarra varía entre 65 y 85 dB, aunque técnicas modernas están ampliando estos límites.
 
-La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. #frase_sin_source (corrección: +3 dB duplica la intensidad física (potencia acústica), pero la percepción subjetiva de volumen requiere ~+10 dB para duplicarse; el texto original confunde ambos conceptos #frase_revisar_opencode #comprobado) Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.
+La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.
 
 3. Duración: es el tiempo que transcurre desde el inicio hasta el final de un sonido. En la guitarra, se valora que el instrumento mantenga el sonido por un tiempo prolongado, característica llamada «sustain».
 
@@ -184,9 +184,9 @@ Por ejemplo, para una cuerda de 650 mm:
 
 ==La distancia estándar para el armónico artificial es de doce trastes (una octava), pero también pueden obtenerse armónicos a otras distancias== (por ejemplo, a siete o cinco trastes, que producen la quinta o la cuarta justa, respectivamente), aunque su sonido es menos nítido y su ejecución considerablemente más difícil. En la notación moderna, los armónicos artificiales se indican con un rombo sobre la nota pisada y la indicación de la cuerda, o bien con dos notas: la nota pisada y, sobre ella, la nota que resulta del armónico.[^7]
 
-# Formas convencionales y no convencionales de producción del sonido #REVISAR_OPENCODE
+# Formas convencionales y no convencionales de producción del sonido
 
-### Formas convencionales
+### Formas convencionales #REVISAR_OPENCODE
 
 - ==**Apoyando (rest stroke)**==: tras pulsar la cuerda, el dedo de la mano derecha **descansa sobre la cuerda inmediatamente superior**, lo que permite aprovechar todo el recorrido del dedo y transmite la máxima energía a la cuerda. Produce un sonido más pleno, potente y proyectado. Es la técnica predilecta para pasajes melódicos y de primer plano.
 - ==**Tirando (free stroke)**==: tras pulsar, el dedo **no toca la cuerda contigua** (excepto ocasionalmente para amortiguar). Permite mayor velocidad y flexibilidad, especialmente en arpegios, acordes o pasajes polifónicos donde varias voces se entrecruzan.[^8][^9]
@@ -205,7 +205,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - ==**Preparaciones**==: se colocan objetos (papel, gomas, clips, tornillos) entre las cuerdas o entre la cuerda y el diapasón para alterar el timbre, la altura o la sonoridad del instrumento. Es un recurso habitual en la música experimental desde la segunda mitad del siglo XX.
 - ==**Rasgueo con ambas manos**==: ambas manos se usan simultáneamente para rasguear, creando patrones rítmicos complejos y texturas sonoras no lineales.
 - ==**Armónicos con la mano izquierda**==: mientras la mano derecha pulsa la cuerda, la mano izquierda roza ligeramente la cuerda en un punto de inflexión para producir armónicos sin necesidad de pisar.
-# Bibliografía #REVISAR_OPENCODE
+# Bibliografía  #REVISAR_OPENCODE
 #TODO
 
 - Aguado, Dionisio. 1949. *Escuela de guitarra*. Edición facsímil. Madrid: Unión Musical Española.
@@ -214,7 +214,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - Duncan, Charles. 1980. *The Art of Classical Guitar Playing*. Princeton: Summy-Birchard Music.
 - Fletcher, Neville H., y Thomas D. Rossing. 1998. *The Physics of Musical Instruments*. 2nd ed. New York: Springer.
 - Pujol, Emilio. 1956. *Escuela razonada de la guitarra*. Vols. 1-4. Buenos Aires: Ricordi Americana.
-- Richardson, Bernard E. 1994. "The Acoustical Development of the Guitar." *Journal of the Catgut Acoustical Society* 2 (5): 1-10.
+- Richardson, Bernard E. 1994. «The Acoustical Development of the Guitar.» *Journal of the Catgut Acoustical Society* 2 (5): 1-10.
 - Romanillos, José Luis, y Marian Harris Winspear. 2004. *Antonio de Torres: Guitar Maker: His Life and Work*. Westport, CT: The Bold Strummer.
 - Sáenz, Juan José. 2000. *Diccionario Técnico de la Guitarra*. Barcelona: Editorial Instrumentos.
 - Taylor, John. 1992. *The Science of Sound*. 3rd ed. San Francisco: Addison Wesley.

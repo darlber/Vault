@@ -17,9 +17,9 @@ La **concienciación corporal** es un concepto utilizado en campos como la psico
 
 Esta conciencia se relaciona con varios aspectos:
 
-- **Imagen corporal**: según Schilder (1935)[^1], es la representación mental que el individuo forma de su propio cuerpo, integrando sensaciones físicas y emocionales. #frase_sin_source (corrección: el autor original citado como "Di Sante (2001)" no ha sido localizado en las fuentes; se reemplaza por Schilder (1935), autor clásico de referencia sobre imagen corporal #frase_revisar_opencode #comprobado)
+- **Imagen corporal**: según Di Sante (2001), es la interpretación que el individuo hace de sus propias sensaciones físicas y emocionales.
 - **Esquema corporal**: para Frostig y Maslow (1984), es la capacidad automática del cuerpo para mantener el equilibrio y ejecutar movimientos mediante la tensión y relajación de los músculos.
-- **Conocimiento corporal**: también descrito por Le Boulch (1977)[^2], es el entendimiento fáctico del propio cuerpo (por ejemplo, saber que se tienen dos brazos, piernas, etc.), adquirido desde la infancia y perfeccionado con la práctica. #frase_sin_source (corrección: el autor original citado como "Di Sante (2001)" no ha sido localizado; se reemplaza por Le Boulch (1977), referente en psicomotricidad y esquema corporal #frase_revisar_opencode #comprobado)
+- **Conocimiento corporal**: también descrito por Di Sante, es el entendimiento fáctico del propio cuerpo (por ejemplo, saber que se tienen dos brazos, piernas, etc.), adquirido desde la infancia y perfeccionado con la práctica.
 
 En profesiones que requieren un uso preciso del cuerpo —como músicos, bailarines o deportistas—, este conocimiento se desarrolla a un nivel mucho más profundo, permitiéndoles detectar y modificar tensiones o movimientos con autonomía y control.
 
@@ -62,7 +62,7 @@ Esta ansiedad puede manifestarse como:
 - Leve malestar o excitación.
 - Episodios más intensos, incluso ataques de pánico.
 
-Según Spielberger (1966), la ansiedad incluye sentimientos de **aprensión y tensión**, acompañados de una activación del **sistema nervioso simpático**, lo que se traduce en respuestas fisiológicas como aumento del ritmo cardíaco, sudoración o temblores. #frase_sin_source (corrección: el nombre correcto es Charles D. Spielberger, no "Spielberg" #frase_revisar_opencode #comprobado)
+Según Spielberg (1966), la ansiedad incluye sentimientos de **aprensión y tensión**, acompañados de una activación del **sistema nervioso simpático**, lo que se traduce en respuestas fisiológicas como aumento del ritmo cardíaco, sudoración o temblores.
 
 Por ello, entrenar la conciencia corporal y emocional permite al músico enfrentar la escena con mayor seguridad y eficacia.
 ### Respuestas a la ansiedad escénica
@@ -99,9 +99,7 @@ Existen varias técnicas que ayudan a gestionar estos problemas, todas relaciona
 
 Todas persiguen el mismo objetivo: que la persona pueda alcanzar el mayor rendimiento posible a través de una adecuada preparación y terapia corporal y mental.
 
-#REVISAR_OPENCODE
-
-## Aspectos anatómicos y fisiomecánicos en relación con la técnica de la guitarra
+## Aspectos anatómicos y fisiomecánicos en relación con la técnica de la guitarra #REVISAR_OPENCODE
 
 El conocimiento de la anatomía funcional del miembro superior resulta indispensable para el guitarrista, ya que permite comprender los movimientos implicados en la ejecución instrumental y prevenir lesiones derivadas de una práctica incorrecta.[^2]
 
@@ -236,9 +234,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
     > «La clave para la facilidad y exactitud, y para el completo dominio técnico, está en la rápida y precisa secuencia de orden mental y respuesta física.»  
 - La Técnica Alexander estimula que la actividad y el movimiento se dirijan desde el cerebro, usando el cuerpo como un todo integrado.
 
-#REVISAR_OPENCODE
-
-==Aplicación a la guitarra==: En la práctica guitarrística, la Técnica Alexander se concreta en la observación consciente de la postura al sentarse y al tomar el instrumento. El guitarrista aprende a ==inhibir== el impulso de encoger los hombros o tensar el cuello al abordar un pasaje difícil, y en su lugar ==dirige== la atención a la libertad del cuello y la expansión de la espalda. Elizabeth Langford ha desarrollado aplicaciones específicas de la Técnica Alexander para instrumentistas, incluyendo ejercicios de conciencia postural con y sin el instrumento, que permiten al guitarrista identificar patrones de tensión y reemplazarlos por movimientos más eficientes.[^6]
+==Aplicación a la guitarra==: En la práctica guitarrística, la Técnica Alexander se concreta en la observación consciente de la postura al sentarse y al tomar el instrumento. El guitarrista aprende a ==inhibir== el impulso de encoger los hombros o tensar el cuello al abordar un pasaje difícil, y en su lugar ==dirige== la atención a la libertad del cuello y la expansión de la espalda. Elizabeth Langford ha desarrollado aplicaciones específicas de la Técnica Alexander para instrumentistas, incluyendo ejercicios de conciencia postural con y sin el instrumento, que permiten al guitarrista identificar patrones de tensión y reemplazarlos por movimientos más eficientes.[^6]== #REVISAR_OPENCODE
 #### Método Moshe Feldenkrais
 
 - En 1942, Moshe Feldenkrais, físico en Londres, sufrió lesiones graves de rodilla con pronóstico poco alentador.  
@@ -256,9 +252,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 - El cerebro detecta y elimina el esfuerzo muscular innecesario, formando patrones coordinados de movimiento.  
 - El proceso ocurre casi sin esfuerzo consciente.
 
-#REVISAR_OPENCODE
-
-==Aplicación a la guitarra==: El método Feldenkrais resulta especialmente útil para el guitarrista en la recuperación de lesiones por sobreuso y en la optimización del gesto técnico. Los ejercicios de ==Conciencia a través del Movimiento== (CAM) pueden adaptarse a movimientos específicos de la guitarra: por ejemplo, realizar el movimiento de arpegio con la mano derecha a cámara lenta, prestando atención a las sensaciones articulares y musculares, permite detectar y eliminar co-contracciones innecesarias. Del mismo modo, los patrones de desplazamiento longitudinal de la mano izquierda por el mástil pueden descomponerse en secuencias de aprendizaje sensorial motor que facilitan la automatización consciente y previenen la fatiga.[^7]
+==Aplicación a la guitarra==: El método Feldenkrais resulta especialmente útil para el guitarrista en la recuperación de lesiones por sobreuso y en la optimización del gesto técnico. Los ejercicios de ==Conciencia a través del Movimiento== (CAM) pueden adaptarse a movimientos específicos de la guitarra: por ejemplo, realizar el movimiento de arpegio con la mano derecha a cámara lenta, prestando atención a las sensaciones articulares y musculares, permite detectar y eliminar co-contracciones innecesarias. Del mismo modo, los patrones de desplazamiento longitudinal de la mano izquierda por el mástil pueden descomponerse en secuencias de aprendizaje sensorial motor que facilitan la automatización consciente y previenen la fatiga.[^7]== #REVISAR_OPENCODE
 
 #### Claves para el éxito en los ejercicios:
 1. **Realice movimientos con facilidad:** usar el mínimo esfuerzo, sin tensar ni estirar.  
@@ -266,9 +260,7 @@ Comprender estos mecanismos permite al guitarrista optimizar su gesto técnico y
 3. **Relájese:** intente expulsar la tensión al moverse.  
 4. **Descanse entre movimientos:** para que el cerebro asimile la nueva información sensorial y motriz.[^18]  
 
-#REVISAR_OPENCODE
-
-### Colocación del cuerpo y del instrumento
+### Colocación del cuerpo y del instrumento #REVISAR_OPENCODE
 
 La correcta colocación del cuerpo y del instrumento constituye la base física sobre la que se asienta toda la técnica guitarrística. Una posición inadecuada no solo limita el rendimiento técnico y expresivo, sino que incrementa el riesgo de lesiones por sobrecarga muscular.[^4]
 
@@ -321,7 +313,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 **Orígenes y desarrollo:**  
 - Emil Coué, farmacéutico francés, fue pionero a principios del siglo XX en el uso de la autosugestión para superar el estrés y mejorar la salud.  
 - Para Coué, el miedo al fracaso genera el fracaso, mientras que la creencia en el éxito lo inspira.  
-- Propuso repetir mentalmente afirmaciones positivas como “cada día estoy mejorando más”.  
+- Propuso repetir mentalmente afirmaciones positivas como «cada día estoy mejorando más».  
 - Métodos contemporáneos amplían esta idea con la visualización positiva, donde se forma una imagen clara del objetivo a alcanzar.[^22]  
 
 **Práctica recomendada:**  
@@ -428,9 +420,7 @@ La actividad musical requiere un alto grado de concentración por dos motivos pr
 - Esto conlleva una mejora en la calidad artística y musical de las interpretaciones.
 
 - En resumen, salud y mejora técnica son aspectos íntimamente relacionados que deben abordarse conjuntamente en el aula de instrumento.
-# Bibliografía 
-
-#REVISAR_OPENCODE
+# Bibliografía  #REVISAR_OPENCODE
 
 - Alexander, F. Matthias. 1932. *The Use of the Self*. London: Integral.
 - Barlow, Wilfred. 1973. *The Alexander Principle*. London: Gollancz.
