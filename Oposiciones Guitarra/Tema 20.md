@@ -1,0 +1,817 @@
+# Tema 20. La práctica de grupo en las enseñanzas elementales. Programación de las actividades colectivas en este nivel: repertorio; conceptos relativos al lenguaje musical, técnica de interpretación en grupo, audición, improvisación y otros aspectos.
+
+## Índice
+
+## 1. La práctica de grupo en las enseñanzas elementales
+
+### 1.1. Introducción
+
+### 1.2. Funciones de la clase colectiva
+
+### 1.3. La relación profesor-alumno
+
+### 1.4. Espacios y recursos educativos
+
+### 1.5. Posibilidades de agrupamientos
+
+PROGRAMACIÓN DE ACTIVIDADES COLECTIVAS EN ESTE NIVEL
+
+### 2.1. Las capacidades adquiridas en las clases colectivas y de conjunto
+
+CAPACIDADES
+
+ADQUIRIDAS
+
+EN
+
+LAS
+
+CLASES
+
+COLECTIVAS
+
+y
+
+DE
+
+CONJUNTO
+
+## 2. Programación de actividades colectivas en este nivel
+
+### 2.3. La metodología de la clase colectiva y las clases de conjunto
+
+2.4. LA
+
+TÉCNICA DE INTERPRETACIÓN EN GRUPO.
+
+### 2.5. Las actividades de enseñanza-aprendizaje
+
+## 3. Bibliografía
+
+## 3. Bibliografía
+
+## 1. La práctica de grupo en las enseñanzas elementales
+
+1.1. Introducción.
+
+Desde la promulgación en 1990 de la
+
+Orgánica de Ordenación General del Sistema
+
+Educativo (LOGSE), las enseñanzas artísticas de música y danza experimentaron una importante reforma pedagógica
+
+y
+
+también  organizativa.
+
+Una de las  grandes innovaciones fue la introducción de la práctica de grupo mediante la clase colectiva de instrumento de una hora de duración semanal en cada curso del llamado entonces grado elemental de música.
+
+Posteriormente la
+
+Orgánica de Educación del año 2006 (LOE) y el posterior Real
+
+Decreto 1577/2006, además de fijar los aspectos básicos del currículo de la enseñanzas profesionales, decidieron encomendar la regulación de las enseñanzas elementales en cada una de las
+
+Comunidades
+
+Autónomas  que han ejercido esta competencia mediante decretos y normativa de carácter autonómica.
+
+Todo ello en virtud del artículo 48.1 de la LOE que reza "las enseñanzas elementales de música y de danza tendrán
+
+Ias características y la  organización que
+
+Ias
+
+Administraciones  educativas determinen".
+
+El resultado ha sido unas enseñanzas elementales con características y currículo diferenciado en cada una de lascomunidades autónomas donde la práctica de conjunto ha  experimentado diferentes  regulaciones.
+
+En todo caso, en todos los decretos aparecen en los objetivos generales de estas enseñanzas la preocupación y la importancia de la práctica de grupo, citamos el texto que aparece en el decreto de la
+
+Comunidad Valenciana:
+
+d) Interpretar música en grupo y habituarse a escuchar otras voces instrumentos, adaptándose al equilibrio del conjunto.
+
+Si analizamos los diferentes decretos autonómicos podemos sistematizar las decisiones al respecto de la práctica de grupo, y observamos que las soluciones adoptadas se organizan en tres líneas generales:
+
+A)  Comunidades que no las enseñanzas elementales y encomiendan a las escuelas de música la iniciación a la música: Canarias, País Vasco y Cataluña
+
+B)
+
+Comunidades que regulan mediante la clase colectiva de instrumento la práctica de grupo, manteniendo lo establecido por la LOGSE y sus normas de desarrollo:
+
+Comunidad de
+
+Madrid,  Castilla/León, Aragón, Murcia, Asturias,
+
+Cantabria,
+
+La
+
+Rioja,
+
+Extremadura y
+
+Baleares
+
+(esta última mediante una asignatura diferenciada y no incluida como el resto en la organización de la clase de instrumento)
+
+C)
+
+Comunidades  que añaden nuevas asignaturas denominadas "Agrupaciones musicales"
+
+en el caso de Andalucía y Castilla/La Mancha y "Conjunto" en la
+
+Comunidad Valenciana.
+
+Ley
+
+Ley regulan
+
+En todos los casos, es el profesor de instrumento el que tiene la atribución docente para impartir o bien las clases colectivas o bien las nuevas asignaturas de conjunto. Por este motivo; es necesario tener la formación necesaria para abordar esta tarea.
+
+También es necesario puntualizar que la práctica de grupo entendida en sentida amplio; no solo se aborda desde las diferentes clases colectivas vinculadas a la práctica instrumental. Las asignaturas de Lenguaje Musical y sobre todo Coro inciden en este aspecto y promuevan la adquisición de competencias muy importantes.
+
+Los objetivos específicos y los contenidos comunes a todos los instrumentos contemplan la  práctica instrumental de grupo como necesaria para alcanzar los
+
+Objetivos
+
+Generales citados anteriormente.
+
+Así pues, podemos observar la importancia que ha adquirido la práctica en grupo desde los niveles más básicos de la educación musical, corrigiendo una disfunción importante en nuestras enseñanzas que arrastrábamos en el pasado bastante reciente.
+
+La clase colectiva en las enseñanzas elementales debe contribuir necesariamente a la formación integral del alumno; aportando otros aspectos como la socialización del individuo, despertar interés por un repertorio más amplio y preparar a los alumnos para su integración en agrupaciones orquestales y camerísticas.
+
+Otro elemento importante a destacar es la motivación. En la mayoría de los casos, las vocaciones de nuestros alumnos no están claramente definidas en estas edades y por ello corremos el peligro de provocar un rechazo si las inevitables exigencias técnicas de la  práctica instrumental no son presentadas a los alumnos de manera amena
+
+y
+
+estimulante para que se sientan verdaderamente interesados. Una relación adecuada profesor-alumno y una metodología idónea son la mayor garantía para evitar el abandonoCentraremos la exposición de nuestro tema en la organización de las clases colectivas de instrumento, su programación; metodología y todos aquellos aspectos que influyan en ella.
+
+1.2. Funciones de la clase colectiva y de las asignaturas de conjunto.
+
+Las clases colectivas pretenden desarrollar al individuo en el ámbito socio/educativo.
+
+Cumplen tres funciones básicas: el desarrollo integral del alumno, contribuir a su socialización y continuar el proceso de transmisión de saberes. Estas funciones pueden agruparse en: psicológicas, estéticas, técnicas y éticas.
+
+La función psicológica se basa en que la clase colectiva crea lazos de socialización y de amistad. Desarrolla el crecimiento personal, la autoestima y la seguridad en las  propias  posibilidades:
+
+Todo ello gracias al proceso de aprendizaje  cooperativo que consiste en aprovechar las necesidades de socialización de los niños y niñas al mismo tiempo que las relacionamos con un conjunto de conocimientos. Además esta clase es un espacio donde el alumno lleva a cabo la interpretación del instrumento ante otras personas, enfrentando así la interpretación en público con un nivel de exposición y ansiedad muy bajo que puede aprender a controlar.
+
+La función estética de la clase colectiva la observamos en el intercambio de mensajes artísticos entre profesores y alumnos de manera que los alumnos comprendan el sentido de la expresión musical y sensorial; y profundicen en el aspecto vivencial del arte. También constituye el entorno idóneo para estimular la creatividad entre los alumnos a través de la improvisación y la expresión libre, algo a que no se le dedica suficiente espacio en la clase individual de instrumento.
+
+La función técnica de la clase colectiva aparece la necesaria adquisición de destrezas fundamentales para la interpretación en grupo relacionadas con el ritmo, la precisión en la afinación conjunta, etc. Además existen contenidos procedimentales y actitudinales que solo pueden ser desarrollados en el grupo
+
+y que la clase individual de instrumento es incapaz de atender. La clase de conjunto actúa también como refuerzo para trabajar y asimilar los aspectos técnicos y del lenguaje musical que se han tratado en otras asignaturas.
+
+La función ética es inherente al fenómeno musical; el esfuerzo individual está supeditado a un resultado colectivo. Respetar a los demás, escucharles, hacer concesiones en beneficio de una unificación de criterios exige un código de comportamiento; fundamentalmente; ético.
+
+1.3. La relación profesor-alumno en las clases colectivas y de conjunto muchos factores que influyen en la relación entre alumnos y profesores. Casi con toda seguridad es la figura del profesor y su capacidad de liderazgo el factor más determinante
+
+Es obvio que el profesor en la clase colectiva juega un papel decisivo en el aprendizaje de sus alumnos ya que su criterio y actitud ejercen una fuerte influencia sobre su conducta musical.
+
+P
+
+Cebriá,
+
+R:
+
+J. Ortega y )
+
+E
+
+Fernández en el libro titulado La clase colectiva.
+
+Fundamentos básicos para su programación; su orientación y su evaluación, exponen estas ideas de manera diáfana. Nos encontramos ante un trabajo de investigación muy interesante por su enfoque y las conclusiones que desprende.
+
+Sobre el papel del profesor en la clase colectiva nos dicen:
+
+el profesor ha de ser consciente del modelo que representa y de la valoración muy subjetiva que el alumno realiza a través de su figura, no solo del instrumento; sino también del ambiente musical que le rodea.
+
+La tolerancia, el respeto y demás valores que la práctica musical lleva consigo tienen una conexión directa con la actitud que el profesor adopta en el aula".
+
+El estilo del profesor debe ser capaz de emanar una suficiente autoridad para evitar problemas de disciplina y al mismo tiempo impedir que un exceso desmotive o inhiba al alumno
+
+Es más un dinamizador, un animador que sugiere propuestas, facilitando alternativas participativas.
+
+en
+
+Hay
+
+El profesor procurará un clima de colaboración, respeto mutuo, participación y tolerancia democrática en el aula.
+
+Es fundamental aceptar el error y la equivocación como algo totalmente normal, de manera que los alumnos no tengan miedo a fracasar.
+
+No olvidemos que la música es un acto de extroversión:
+
+Si el profesor no actúa siempre de la misma manera o no se muestra igual con todos los alumnos; su autoridad moral se resentirá. La coherencia es muy importante:
+
+La clase colectiva no es el adecuado para dar a respuesta a cuestiones personales con los alumnos. Cuando esto ocurre el resto de alumnos aprovecha para desconectar de los mensajes del profesor. Son las clases individuales y en mayor medida las tutorías los momentos adecuados para actuar con más  personalismo.
+
+Además  debemos respetar la intimidad, evitándoles situaciones embarazosas.
+
+En cualquier grupo existen diferencias entre los alumnos. Cada uno posee un ritmo de aprendizaje diferente. Estas diferencias pueden producir situaciones de competitividad perjudiciales, que pueden resentir el ambiente dela clase colectiva.
+
+El profesor procurará encauzar de manera positiva esta situación, estableciendo un clima de cooperación; de compañerismo donde los más avanzados ayuden a los demás evitando actitudes de prepotencia. y si es necesario se puede recurrir a otros agrupamientos más homogéneos.
+
+1.4. Espacios y recursos materiales de las clases colectivas y de conjuntoEn primer lugar es necesario un aula en perfectas condiciones. Las características de esta aula son diferentes a las que utilizamos para las  clases individuales.
+
+Las dimensiones serán más grandes Ya que han de albergar a un mayor número de alumnos y además permitir que se puedan mover con cierta libertad. Una buena luminosidad y-ventilación natural serán fundamentales y
+
+a ser posible debe estar aislada de ruidos externos.
+
+Las  condiciones acústicas han de ser por lo menos aceptables, una reverberación excesiva dificultaría el desarrollo normal de la clase. La temperatura ambiente debe ser templada, no olvidemos que la edad de estos alumnos oscila entre los ocho y doce años. Un ambiente frío les impediría concentrarse en las tareas
+
+Esta aula, a su vez; presentará los materiales adecuados y necesarios. En primer lugar una alfombra que permita a los alumnos realizar juegos y actividades sin riesgos de caídas y si estas se produjeran poder amortiguarlas. El mobiliario se completará con armarios para guardar partituras, sillas y mesas adecuadas.
+
+Los instrumentos musicales son materiales indispensables. Actualmente la mayoría de alumnos posee sus propios instrumentos, no obstante el centro tendría aquellos difíciles de transportarlos que necesitan adaptaciones y los que completan las familias instrumentales. Independientemente de la especialidad, la presencia de pequeña percusión ayudaría a la organización de numerosas actividades al igual que los teclados electrónicos y las  cajas de ritmos.
+
+Estos instrumentos necesitan de armarios de grandes dimensiones donde puedan ser custodiados. El pequeño mobiliario también es lugar importante:
+
+atriles plegables y fáciles de transportar, metrónomos;  diapasones; afinadores, etc.
+
+Cada vez más, los conservatorios disponen de material audiovisual e informático que las posibilidades de organizar múltiples actividades en las clases colectivas. Los avances tecnológicos y la
+
+TIC's nos permiten realizar actividades de enseñanza/aprendizaje que ofrecen un gran valor y posibilidades didácticas.
+
+Los equipos informáticos y el software de grabación y reproducción nos permiten grabar las clases y las audiciones que realicemos. Los alumnos tienen la oportunidad de  visualizarse, observar suS
+
+diferentes actuaciones
+
+y
+
+extraer las conclusiones pertinentes. Es obvio que como complemento los conservatorios deben disponer de fonoteca y videoteca.
+
+La fonoteca incluirá grabaciones de las obras más importantes de la Historia de la Música y también de diferentes estilos musicales: música clásica, jazz, rock, etc..
+
+Actualmente;  existen en el mercado una gran cantidad de videos diversos sobre reportajes musicales, óperas, conciertos de enorme utilidad pedagógica.
+
+Por este motivo es necesario disponer de una videoteca.
+
+Los conservatorios no pueden vivir de espaldas a la expansión informática. Una cantidad de informaciónestá disponible en Internetde gran utilidad para todos los equipos docentes y-para-los alumnos. Por-este-motivo-sería-necesario-que-las-aulas disfrutaran de ordenadores al servicio de los profesores.
+
+La clase colectiva se convierte así en un entorno donde trabajar la aplicación de las TIC
+
+en la música, ya que difícilmente espacio para ello en la clase individual.
+
+Los alumnos deben empezar a conocer los recursos musicales que se encuentran en la web, aprender a localizarlos, utilizarlos, gestionarlos y aprovecharlos; de manera que les sirvan para enriquecer su proceso de aprendizaje a lo largo de toda su vida musical.
+
+La introducción de las TIC en la metodología de la clase colectiva permitirá a los alumnos beneficiarse de todas sus ventajas pedagógicas: aumento de la motivación, uso de una realidad cercana a la sensibilidad del alumno, infinidad de recursos al alcance, inmediatez de la información, potenciación del aprendizaje autónomo y continuo, autogestión del conocimiento, apertura de horizontes y conocimiento de otras realidades, manejo de los programas específicos TIC aplicados a la música, etc.
+
+1.5. Criterios de agrupamientos.
+
+Existen numerosas maneras de agrupar a los alumnos en las clases colectivas. Lebrero y Pérez (1988) establecen la siguiente clasificación:
+
+a)
+
+Grupos homogéneos: Los alumnos se agrupan por criterios de aprendizaje como por ejemplo: edad, capacidad intelectual o nivel de conocimientos.
+
+b)
+
+Grupos heterogéneos: Se caracterizan por la diversidad de sus componentes.
+
+c)
+
+Grupos flexibles: Los individuos se agrupan de diferentes formas en función de sus intereses y necesidades educativas.
+
+amplía hay
+
+La  configuración de grupos ha de estar adecuada en función de los fines educativos que persigamos. Tenemos un amplio abanico de posibilidades a nuestra disposición que deberemos utilizar de la mejor manera.
+
+Estas decisiones han de tomarse de manera coordinada entre todos los profesores de un centro y formar parte de los
+
+Proyectos Curriculares y Programaciones Didácticas sujetas a continua revisión.
+
+En los
+
+Conservatorios, actualmente los alumnos se agrupan comúnmente por enseñanzas (elementales o profesionales) y por asignatura. Solo las especialidades de
+
+Piano y Guitarra presentan clases colectivas en las enseñanzas profesionales. En todo caso y cómo hemos observado anteriormente, algunas comunidades autónomas han regulado la práctica de grupo en asignaturas diferenciadas que permiten agrupar al alumnado de diferentes especialidades instrumentales  organizando conjuntos que permiten una gran variedad de actividades y amplían el repertorio utilizado en las aulas.
+
+La posibilidad de realizar diferentes agrupamientos necesita una organización especial de los horarios generales del centro que permita reunir a los alumnos en el Iugar y en el momento adecuado.
+
+Es la Jefatura de Estudios la encargada de coordinar este proceso teniendo en cuenta la disponibilidad de espacios.
+
+Muchas veces las limitaciones de infraestructuras acaban convirtiéndose en el principal criterio para la organización de las clases colectivas.
+
+Establecer agrupamientos excesivamente homogéneos puede impedir la interrelación
+
+y el enriquecimiento entre los alumnos. A menudo, cuando juntamos alumnos de diferentes niveles estamos estimulando a muchos de ellos progresar ya que encuentran en sus compañeros un referente que les ayude aumentar sus expectativas.
+
+Parece ser que lo más conveniente es realizar los agrupamientos en función de las actividades de enseñanza-aprendizaje que vamos realizar.
+
+El área de Viento del conservatorio permite una gran variedad de agrupamientos. La opción que elijamos determinará grupos de características muy diferentes.
+
+Cuando realicemos actividades de
+
+Música de
+
+Cámara los agrupamientos por instrumentos debe presentar un cierto grado de homogeneidad. Pensamos que se trata de alumnos entre ocho y doce años. Sus características  psicoevolutivas les impiden la conjunción cuando existen diferencias tímbricas importantes entre los instrumentos. Por este motivo los grupos de cámara (dúos, tríos, etc.) se organizarán preferentemente entre los alumnos de la misma especialidad y en los últimos cursos de las Enseñanzas Elementales ya podemos conjuntar instrumentos diferentes pero con cierto grado de afinidad: viento-madera; viento-metal, cuerda; etc.
+
+Sin embargo, cuando las diferencias entre los alumnos son excesivas, entonces las actividades de enseñanza-aprendizaje no pueden ser las mismas: en la mayoría de ocasiones los alumnos al no poder participar se aburren y se desmotivan: Cuando los profesores programen deberán tener en cuenta estas posibles situaciones. También podemos agrupar a los alumnos por cursos, edades, etc. Las posibilidades son muy grandes.
+
+PROGRAMACIÓN DE LAS ACTIVIDADES COLECTIVAS EN ESTE NIVEL: REPERTORIO,
+
+CONCEPTOS RELATIVOS AL LENGUAJE MUSICAL, TÉCNICA DE INTERPRETACIÓN
+
+EN GRUPO, AUDICIÓN, IMPROVISACIÓN y OTROS ASPECTOS.
+
+### 2.1. Las capacidades adquiridas en las clases colectivas y de conjunto
+
+A
+
+continuación vamos a enumerar aquellas capacidades que los alumnos deben adquirir al finalizar las enseñanzas elementales y que pueden ser incluidas en los
+
+Proyectos Curriculares y Programaciones
+
+Didácticas del profesorado de instrumento.
+
+Estas capacidades requieren necesariamente clases colectivas.
+
+Interpretar delante de un público con la necesaria  seguridad en sí mismos que les permita vivir la música como medio de expresión y
+
+comunicación:
+
+Valorar la práctica en conjunto como algo imprescindible para el futuro ejercicio profesional.
+
+Respetar las normas que exige cualquier actuación en grupo: atención, afinación previa, respeto; disciplina, acatamiento de la voluntad del director, etc
+
+Aprender de manera aplicada los contenidos  relativos al lenguaje musical
+
+Realizar gestos básicos que permitan la interpretación coordinada de una obra sin director:
+
+Estar familiarizado con la práctica musical en grupo
+
+y el hábito de escuchar a otros instrumentos de adaptarse equilibradamente al conjunto.
+
+Interpretar un repertorio básico de obras de diferentes estilos y épocas adaptadas al nivel del alumno:
+
+Utilizar la improvisación musical y la creación como medio de libertad de expresión musical.
+
+Interpretar en agrupaciones de música de cámara como dúos, tríos, etc:
+
+2.2. La programación de los contenidos.
+
+Las clases colectivas son una magnífica ocasión para trabajar los contenidos programados en el nivel utilizando otras actividades de enseñanza-aprendizaje diferentes las utilizadas en las clases individuales de instrumento y de lenguaje musical.
+
+Los contenidos son los  mismos, si bien el planteamiento de cómo trabajarlos y estudiarlos para conseguir los objetivos programados varía sensiblemente
+
+Enunciar los contenidos en las enseñanzas musicales no es una tarea  fácil.
+
+El carácter marcadamente procedimental de las enseñanzas artísticas y la necesidad de adquirir y habilidades técnicas y no dejar de practicarlos no solo para dominarlos mejor sino para los no perder lo adquirido ha de ser reflejado en las programaciones; sobre todo cuando elaboramos las unidades didácticas o temáticas.
+
+A continuación vamos relacionar los contenidos secuenciados que son susceptibles de formar parte de las unidades didácticas programadas en las clases colectivas y de conjunto.
+
+Técnica Instrumental:
+
+La posición del cuerpo: tronco; brazos, cabeza y piernas.
+
+El emplazamiento del aire: Iniciación a la respiración abdominal.
+
+La colocación del instrumento. La posición con el instrumento de pie y sentada.
+
+La relajación
+
+y
+
+hábitos  corporales adecuados  para evitar  fatigas excesivas
+
+y
+
+malformaciones físicas.
+
+La colocación de la embocadura. Posición de los labios. Notas largas.
+
+La emisión del sonido.
+
+El legato y el picado. La articulación: escalas y arpegios.
+
+El control de la afinación:
+
+La flexibilidad técnica: Conjunción de todos los aspectos técnicos.
+
+lo La afinación en la música en grupo.
+
+Los conocimientos del lenguaje musical:
+
+El sonido y el silencio. Las características del sonido.
+
+Los elementos básicos de la notación musical.
+
+La identificación del pulso y del acento rítmico 4.
+
+Conocimiento de las formulas rítmicas básicas.
+
+Interpretación de partituras y canciones:
+
+La lectura a primera vista.
+
+La memoria musical.
+
+Valoración de la obra musical y cada una de sus partes.
+
+La interpretación musical:
+
+Las reglas básicas de la interpretación.
+
+La interpretación en grupo.
+
+La lectura con el instrumento a primera vista.
+
+La memoria musical.
+
+La improvisación como forma de expresión:
+
+La cooperación en grupo:
+
+Inicio de la improvisación musical a solo y en grupo.
+
+Incorporación de las tradiciones populares la práctica instrumental (canciones, danzas, juegos).
+
+Utilización de los instrumentos para acompañar a la voz, al movimiento y a la danza.
+
+Repertorio variado que acerque a distintos estilos; épocas y culturas.
+
+El respeto y la tolerancia en la interpretación.
+
+Interés por el cuidado de los instrumentos y demás materiales del centro.
+
+Interés por el estudio individual y en grupo para conseguir resultados.
+
+Etc.
+
+2.3. La metodología de la clase colectiva y las clases de conjunto.
+
+La metodología debe considerarse como algo fijo y estable, sino que debe estar en continuo estado de adaptación. Los principios metodológicos básicos, que responden a las preguntas de cómo debemos enseñar y cómo debemos plantear las actividades de enseñanza-aprendizaje, deberá también ser interiorizados por cada profesor y adaptamos al contexto real de su aula y
+
+del entorno de aprendizaje de los alumnos
+
+Las actividades de enseñanza-aprendizaje de las clases colectivas han de responder a unos principios metodológicos determinados:
+
+La motivación y el aspecto lúdico:
+
+En primer lugar, los alumnos han de encontrar motivadora la enseñanza mientras aprenden.
+
+Una forma de hacerlo es dotando de un; cierto carácter lúdico a la educación artística. El juego es una forma natural de aprender. El juego aumenta la motivación del alumno; que disfruta a la vez que aprende. El juego implica relación social, adquisición de valores afectivos. Además la enseñanza y aprendizaje de la música como actividad artística y escénica presenta una relación muy próxima con el concepto lúdico. La música es un hecho placentero tanto para el intérprete como para el oyente quien acude a un concierto a disfrutar. El juego como estrategia metodológica cobra una dimensión mayor en la clase colectiva que en la individual.
+
+El grupo ofrece unas posibilidades, en cierto sentido recrea el ambiente natural del niño/niña.
+
+El desarrollo de la creatividad y las destrezas técnicas:
+
+La adquisición de destrezas y de procedimientos técnicos es necesaria en el proceso de enseñanza de la música.
+
+El trabajo repetitivo y constante ha forzado muchos abandonos.
+
+Mitigar estas tendencias es tarea del  profesor  quien tiene en la improvisación un instrumento muy valioso para desarrollar la espontaneidad
+
+y
+
+creatividad musical, y lograr que los alumnos gocen a la par que aprenden.
+
+Integración de teoría y práctica y relación de los contenidos:
+
+Se debe procurar que el alumno  perciba los nuevos contenidos de manera relacionada. Así pues, la técnica instrumental y los conceptos del lenguaje musical han de ser explicados al mismo tiempo que desarrollamos la  práctica de la interpretación en grupo. En las clases individuales, por ejemplo, trabajamos con los no alumnos la precisión rítmica, pero el alumno podrá  percibir con más claridad, cuando se equivoca en una interpretación en grupo porque percibe más obviamente el resultado de su equivocación:
+
+La técnica instrumental, con toda su importancia, corre el peligro de llegar a convertirse en un por eso es mejor enseñarla de manera aplicada. Casi todos los alumnos y profesores coinciden en señalar lo aburrido de los ejercicios técnicos repetitivos, por lo que mitigar esto es una tarea necesaria, posible gracias a las clases colectivasEl aprendizaje significativo:
+
+De la misma manera, los conceptos relativos al lenguaje musical aprendidos en las clases no instrumentales  cobran una nueva dimensión cuando se aplican a
+
+la práctica individual del instrumento y muchísimo más a la práctica de conjunto. Los alumnos aprenden mejor cuando las cosas tienen un sentido y
+
+una finalidad. Por esto, es necesario que las actividades sean coherentes y puedan ser comprendidas por el alumno.
+
+En muchas ocasiones los  alumnos no perciben  claramente la necesidad de los contenidos y no comprenden el porqué de las explicaciones. Pues bien, si su aprendizaje no es significativo para ellos, posiblemente se desmotivarán rápidamente:
+
+2.4. La técnica de interpretación en grupo
+
+La mayor parte del repertorio musical; a excepción del repertorio de los instrumentos con un perfil más solista como el piano o la guitarra, es para ser interpretado en conjunto; bien en una gran formación
+
+~como la orquesta la banda- o bien en agrupaciones camerísticas. Incluso en el caso de os instrumentos con mayor literatura para el instrumento solo, como el piano o la guitarra, los alumnos que los estudien tendrán que dedicar gran parte de su carrera musical a tocar en conjunto, ya sea como acompañantes de otros instrumentos; ya como miembros de formaciones de cámara.
+
+ello la importancia de la interpretación en grupo es, sin duda, capital dentro de la formación de los alumnos.
+
+El sistema educativo musical actual prevé un espacio  amplio dentro del horario formativo para la adquisición de estas habilidades a través de las asignaturas como el coro, desde las Enseñanzas Elementales, o la orquesta/banda y la música de cámara ya en las Enseñanzas Profesionales. Sin embargo es el marco del conjunto instrumental donde el alumno toma este primer contacto de la práctica de grupo prestando más atención a las cuestiones técnicas y teóricas de su propio instrumento.
+
+El desarrollo de la técnica para la interpretación en grupo es de vital importancia para la formación de cualquier músico e incluye el dominio sobre los siguientes aspectos:
+
+Desarrollo auditivo:  capacidad de escuchar el sonido resultante por el conjunto, más allá del propio instrumento.
+
+Coordinación rítmica, tímbrica
+
+y dinámica: control de estos aspectos del sonido para adecuarlos a las demandas del grupo instrumental.
+
+fin,
+
+Por
+
+Afinación: capacidad de escucha y modificación de la propia afinación en función de la afinación del conjunto.
+
+Gestualidad de la interpretación camerística: comprende el repertorio de gestos y toda la comunicación no verbal que se produce en la interacción con los otros músicos para guiar la interpretación, como el dar entradas, pactar gradaciones sonoras, realizar ajustes rítmicos, etc.
+
+Atención a los estímulos externos:
+
+son cruciales para guiar la interpretación del conjunto. Incluye tanto la figura del director del conjunto si lo como en una formación orquestal, como el resto de situaciones que pueden producirse durante la interpretación (alguien se pierde, falla el instrumento, cae una partitura, etc.)
+
+Conocimiento del repertorio: en muchas ocasiones el repertorio grupal a ser de mayor importancia artística que el del instrumento solo
+
+Improvisación y la creatividad:
+
+dominio de ambas técnicas como un complemento pedagógico de alto valor formativo pero también para interpretar distintos tipos de repertorio; como el jazzístico o el moderno
+
+2.5. Las actividades de enseñanza-aprendizaje
+
+Son muchas las actividades de enseñanza-aprendizaje que se pueden desarrollar en Ias clases colectivas. Los objetivos y contenidos que pretendamos enseñar, el criterio de los  agrupamientos
+
+y
+
+los recursos y dotaciones de los centros determinarán la posibilidad de organizar unas u otras actividades.
+
+Las clases colectivas serán programadas, al igual que el resto de las clases; por unidades didácticas. Estas  unidades didácticas serán compendio de todos los elementos que intervienen en el proceso de enseñanza-aprendizaje por un periodo de tiempo determinado.
+
+Estos elementos serán:
+
+los objetivos didácticos, los contenidos didácticos, las actividades de enseñanza-aprendizaje; los criterios de  evaluación y los recursos materiales necesarios.
+
+Para enseñar conceptos, las actividades más usuales son las  exposiciones y explicaciones de los profesores. También se pueden organizar debates y discusiones en las que participen los alumnos. De esta manera el aprendizaje de conceptos es más ameno, los alumnos aprenden por descubrimiento.
+
+En estas actividades el profesor debe moderar y arbitrar las discusiones y recapitular las conclusiones las que llegan los alumnos. La participación está ligada a la motivación, cuanto más activo sea el alumno, más aprovechará las enseñanzas en el aula.
+
+También podemos organizar actividades que tengan como objeto el  análisis de diferente material, desde una partitura musical a una grabación o un vídeo. En estas hay,
+
+llega un actividades el profesor debe estimular la participación de todos y evitar que sólo los alumnos más desinhibidos copen las  intervenciones y los más tímidos apenas colaboren.
+
+actividades de la enseñanza de procedimientos adquieren un cariz bien distinto. Se caracteriza fundamentalmente por la imitación de modelos.
+
+Las explicaciones del profesor han de ser muy claras en estas actividades para que el alumno sea capaz de asimilar nuestras indicaciones y ejecutar la lección correctamente. La imitación nunca será idéntica a la que propone el profesor, el alumno parte de una idea y unas posibilidades previas.
+
+Mediante estas actividades enseñamos los aspectos más fundamentales de la técnica y la interpretación musical.
+
+La práctica instrumental en grupo es una de las actividades más importantes y usuales de las clases colectivas.
+
+En las enseñanzas elementales preparan lo que será la asignatura de Música de Cámara en las enseñanzas profesionales.
+
+Podemos detallan muchas otras actividades que trabajamos en la clase colectiva dentro de la práctica instrumental de grupo como la lectura a primera vista en grupo de piezas de dificultad asequible, estudio
+
+y trabajo de obras musicales para ser interpretadas en público; las audiciones públicas donde trabajaremos la seguridad de
+
+;la interpretación.
+
+En niveles de aprendizaje más elementales podemos desarrollar ejercicios  sencillos de emisión conjunta del  sonido; práctica de la  conjunción y precisión rítmica y un largo etc a)
+
+Actividades de improvisación
+
+Mención aparte merece la práctica de la improvisación, a lo que dedicamos un apartado específico. La improvisación es toda ejecución musical instantánea producida por un individuo o un grupo. La improvisación es una actividad creativa que se basa en la exploración y culmina con la invención y la creación musical.
+
+La educación; considerada como un proceso de crecimiento; presenta importantes rasgos comunes con la improvisación. No es el momento para explicar detalladamente lo que es la improvisación y
+
+porqué goza de tanta aceptación en la pedagogía actual, pero sí para detallar la cantidad de actividades relacionadas con ella que podemos desarrollar en las clases colectivas (consultar tema específico de este temario sobre la improvisación)
+
+El profesor enuncia una
+
+"consigna" que apunta directa o indirectamente al objetivo específico de la  improvisación. Su función consiste en desencadenar y
+
+activar el proceso improvisatorio.
+
+Las consignas son muy numerosas y presentan una gran variedad de posibilidades. Las consignas pueden ser musicales extra-musicales.
+
+En el primer caso se refieren materiales
+
+(sonido; ritmo; melodía, etc.)
+
+y en el segundo a objetos, personas, situaciones y conductas de todo tipo. Las consignas han de ser utilizadas con precisión por los profesores. A continuación se especifican algunos ejemplos de consignas:
+
+Las
+
+Tocar una melodía
+
+Improvisar una melodía alegre.
+
+Improvisar una melodía en Fa Mayor.
+
+Improvisar una melodía en Fa Mayor, con la forma A-B-A.
+
+Imitar el sonido de un tren.
+
+Describir una tormenta.
+
+7. Describir un cuadro.
+
+Las actividades de improvisación se pueden desarrollar en grupo incluso en los niveles más elementales de conocimientos musicales.
+
+A continuación detallamos algunos ejemplos de actividades:
+
+Actividad 1: improvisación libre y enlazada
+
+Se explica a los alumnos el concepto de improvisación libre, que consiste en crear música sin  ningún tipo de restricción rítmica ni melódica. El primer  participante improvisará una melodía breve, el segundo realiza una improvisación comenzando con la nota con la que terminó el anterior participante y así sucesivamente.
+
+Actividad 2: improvisación programática
+
+Se le pide a cada participante que improvise un fragmento con relación a un elemento extra-musicalquequieraevocar
+
+Por ejemplo;una estacióndelaño unpaisaje;un elemento meteorológico; un color, etc. Los alumnos deberán adivinar de se trata
+
+Actividad 3: reproducción de ritmo y patrones tonales
+
+Se pide a los alumnos que improvisen a partir de unos patrones rítmicos y/o melódicos generados por el profesor, un compañero u otra fuente.
+
+Este ejercicio sirve además para desarrollar la capacidad auditiva y la memoria.
+
+Actividad 4: improvisación de una respuesta sobre un estímulo rítmico o tonal
+
+El profesor o algún alumno inventa una semifrase en forma de pregunta musical y el resto de compañeros improvisan respuestas musicales de acuerdo al estímulo formulado.
+
+De esta manera se trabaja  también la  adecuación al estilo musical propuesto.
+
+Actividad 5: improvisación de variaciones sobre un tema conocido
+
+Un alumno propone un tema musical conocido por todos y el resto deben improvisar una variación sobre el tema, respetando los esquemas rítmicos y tonales básicos. Con este ejercicio se estimula mucho la creatividad.
+
+Actividad 6: improvisación de acompañamiento con distintos objetos
+
+El profesor propone una melodía tocada con su instrumento y los alumnos deben improvisar distintos tipos de acompañamientos sin usar instrumentos musicales, sólo con otros objetos:
+
+percusión corporal, objetos del aula, etc.
+
+De este modo qué
+
+Material registrado; Autor Inst. Gabou. Prohibida su comprenden la diferencia entre la textura de una melodía y de un acompañamiento y trabajan patrones rítmicos.
+
+Actividades relativas al lenguaje musical
+
+Se trataría de enseñar los contenidos del lenguaje musical de manera aplicada a la interpretación en grupo
+
+y
+
+de esta manera los aprendizajes del lenguaje musical adquirirán más significatividad.
+
+Entre las actividades citamos a:
+
+Práctica de
+
+los distintos elementos del  lenguaje musical:
+
+figuras,  alteraciones; compases, ritmos, tonalidades, intervalos; etc.
+
+Desarrollo en la comprensión de las estructuras musicales en sus distintos niveles.
+
+Reconocimiento del fraseo musical de una obra fragmento y su relación con las respiraciones musicales: período, frase, secciones; etc.
+
+Trabajo de formas básicas  instrumentales, tanto monódicas como polifónicas:
+
+Reconocimiento de las pequeñas formas: canon; vals, lied, rondó, sonata; etc.
+
+Elección del repertorio personal de los alumnos y profundización en las diferentes épocas que abarca la literatura del instrumento a lo de su historia.
+
+Actividades de desarrollo de la audición
+
+Discriminación auditiva de las cualidades del sonido en fuentes sonoras diversas.
+
+Desarrollo de la sensibilidad auditiva para el perfeccionamiento de su calidad sonora:
+
+practicar la autoescucha y la perfección del propio sonido.
+
+Ampliación del conocimiento y discriminación tímbrica de los diferentes instrumentos así como de los diferentes grupos orquestales.
+
+Realización de variaciones con el instrumento: altura, duración, intensidad, sonidosilencio, timbre, etc.
+
+Repertorio de las clases de conjunto
+
+Debido a la heterogeneidad de la asignatura, que en gran medida depende de la matriculación del  alumnado, y normalmente suelen ser grupos con una plantilla cambiante e inestable cada curso, es imprescindible realizar todo tipo de adaptaciones; orquestaciones y arreglos, que se adapten a la plantilla formada por el alumnado.
+
+Los programas informáticos de edición de partituras y webs especializadas en este tipo de agrupaciones, serán algunos de los recursos utilizados en la asignatura.
+
+copia largo
+
+A continuación citamos a título enunciativo algunos de los materiales susceptibles de ser utilizados en las clases de conjunto de nuestros conservatorios.
+
+Ejercicios de afinación:
+
+Cours densemble instrumental
+
+G. Parés 20 tunes ups
+
+H. van Lijnschooten
+
+Ejercicios de memoria de notas tenidas, escalas mayores y menores, ejercicios con diferentes dinámicas, etc.
+
+Composiciones instrumentales:
+
+La escala Sido
+
+F.Ferran
+
+El caragol mifasol
+
+Ferran
+
+Ammerland
+
+J.de Haan
+
+Aladdin
+
+Menrin /Ashman
+
+Fantasia
+
+Winson
+
+Gulliver' sTravels
+
+B.Appermont
+
+Air for winds
+
+A
+
+Waignein
+
+Themes for Harry Potter
+
+J. Williams
+
+A mediaval suite
+
+A. Waignein
+
+Russian carol variations
+
+S. Bulla
+
+Themes from 1812
+
+PI:
+
+Tchaikovsky
+
+Promenade
+
+M. Mussorsky lo Pictures for young band
+
+J. Bensmann
+
+Temario oposiciones comunes a todas especialidades 3. BIBLIOGRAFIA.
+
+Zaldívar, Álvaro: "La Logse en los Conservatorios; normativa básica en las enseñanzas musicales"
+
+Ed. Real Musical 1.992
+
+Cebriá
+
+Genovés
+
+P. Ortega
+
+Ricardo
+
+J
+
+Fernández  Juan
+
+E:
+
+"La clase  colectiva.
+
+Fundamentos básicos para su programación, su orientación
+
+y
+
+sU
+
+evaluación mundimúsica"
+
+Ediciones musicales.
+
+Música y Educación. Revista de Investigación Pedagógica-Musical. Ed Musicales, S.A.
+
+Eufonía. Didáctica de la música. Graó.
+
+Hemsy de Gainza:
+
+improvisación musical"
+
+Ricordi Americana S.A.EL. 1983.
+
+Nicolás  Carrillo;
+
+Gómez  Albaladejo:
+
+'Aspectos  curriculares,  psicopedagógicos y didácticos de las enseñanzas profesionales de música
+
+Master Oposiciones 1.999.
+
+Proyecto Curricular. Conservatorio Profesional de Música de Torrent.
+
+Corbalán, Maravillas: "La programación conjunta de las enseñanzas de música"
+
+Revista Música y Educación:
+
+Coll, César: "Psicología y curriculum
+
+Paidós.
+
+las
+
+"La
+
+Gh
