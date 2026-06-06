@@ -19,18 +19,21 @@ Según variabilidad de tamaño::Estáticas (tamaño fijo en compilación) / Din�
 Según homogeneidad::Homogéneas (array) / Heterogéneas (registro)
 
 Según linealidad::Lineales (pilas, colas, listas) / No lineales (árboles, grafos)
+<!--SR:!2026-06-10,4,270-->
 
 ## Estructuras Lineales
 
 Array - característica principal::Elementos homogéneos en posiciones contiguas de memoria
 
 Array - acceso por índice::O(1)
+<!--SR:!2026-06-10,4,270-->
 
 Array - inserción/borrado en medio::O(n)
 
 Registro (struct/record)::Agrupación heterogénea, contigua y estática
 
 Lista enlazada simple::Cada nodo apunta al siguiente; el último apunta a null
+<!--SR:!2026-06-10,4,270-->
 
 Lista enlazada doble::Cada nodo apunta al siguiente y al anterior
 
@@ -39,6 +42,7 @@ Lista circular::El último nodo apunta al primero
 Lista enlazada - acceso::O(n) (secuencial)
 
 Lista enlazada - inserción/borrado conociendo nodo::O(1)
+<!--SR:!2026-06-10,4,270-->
 
 Pila - política de acceso::LIFO (Last In, First Out)
 
@@ -69,12 +73,15 @@ ABB - complejidad búsqueda promedio::O(log n)
 ABB - complejidad peor caso::O(n) (degenerado)
 
 Árbol AVL::ABB autobalanceado; diferencia altura ≤ 1; garantiza O(log n)
+<!--SR:!2026-06-07,1,230-->
 
 Árbol B::Múltiples hijos por nodo; usado en índices SGBD
+<!--SR:!2026-06-09,3,250-->
 
 Árbol 2-3-4::Variante de árbol B (orden 4); nodos con 2, 3 o 4 hijos
 
 Grafo::Vértices + aristas; dirigido/no dirigido; ponderado/no ponderado
+<!--SR:!2026-06-09,3,250-->
 
 Grafo - matriz de adyacencia::O(V²) espacio
 
@@ -87,6 +94,7 @@ Algoritmo - definición::Secuencia finita, ordenada y no ambigua de pasos
 Instrucciones condicionales::if, switch - ejecutan según condición
 
 Instrucciones iterativas (bucles)::for, while, do-while - repiten mientras condición se cumple
+<!--SR:!2026-06-10,4,270-->
 
 While es una instrucción::Iterativa (bucle)
 
@@ -117,6 +125,7 @@ Búsqueda secuencial - condición::Ninguna; complejidad O(n)
 Búsqueda binaria - condición::Array ordenado; complejidad O(log n)
 
 Búsqueda por interpolación::Array ordenado, distribución uniforme; O(log log n)
+<!--SR:!2026-06-09,3,250-->
 
 Búsqueda ciega (no informada)::Secuencial y binaria - solo comparan valores
 
@@ -129,6 +138,7 @@ Burbuja (Bubble Sort) - estrategia::Compara adyacentes e intercambia si están d
 Burbuja - complejidad::O(n²) en todos los casos
 
 QuickSort - estrategia::Divide y vencerás con pivote
+<!--SR:!2026-06-09,3,250-->
 
 QuickSort - complejidad promedio::O(n log n)
 
@@ -163,6 +173,7 @@ Fichero secuencial indexado (ISAM)::Registros secuenciales + índice (clave+punt
 ISAM - complejidad búsqueda::O(log n) en índice + acceso directo
 
 ISAM - ventaja::Combina acceso directo y secuencial
+<!--SR:!2026-06-09,3,250-->
 
 ISAM - inconveniente::Índice ocupa espacio extra
 
@@ -185,10 +196,12 @@ Acceso directo (aleatorio)::seek() desplaza puntero a cualquier posición
 XML - bien formado exige::Único elemento raíz, etiquetas cerradas, case-sensitive
 
 XML - válido::Cumple esquema (DTD o XSD)
+<!--SR:!2026-06-10,4,270-->
 
 XML vs HTML::XML transporta datos; HTML presenta datos
 
 JSON - sintaxis correcta::Claves y strings con comillas dobles: {"clave": "valor"}
+<!--SR:!2026-06-10,4,270-->
 
 JSON - qué NO es válido::Comillas simples: {'clave': 'valor'} NO es válido
 
