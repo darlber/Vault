@@ -12,7 +12,7 @@
    6. [Julián Arcas (1832-1882)](#julián-arcas-1832-1882)
 4. [Bibliografía](#bibliografía)
 
-## Evolución del estilo y de la escritura instrumental
+## Evolución del estilo y de la escritura instrumental #REVISAR_OPENCODE
 
 Según muchos autores (incluidos los que vivieron en dicha época, como Berlioz en 1856) la segunda mitad del XIX fue un período difícil para la guitarra por diversos motivos. Uno de ellos era que la estética de la época favorecía a instrumentos como el piano, con gran volumen, al igual que había una preferencia por las masas orquestales. La guitarra era un instrumento para salas de dimensiones más pequeñas, y esto hizo que quedase relegada a un ámbito más casero.
 
@@ -41,7 +41,25 @@ Sin embargo, hasta que estas generaciones de las que hablamos no tuvieron más p
 
 Hubo también una última generación que comprendía los nacidos entre 1849 y 1863, en la cual se incluye a Tárrega, ya que él nació en 1852 en Barcelona. Tárrega reavivó el dilema histórico entre el uso de yema o uña, que incluso por aquella época ya se empezaba a dar por zanjada, siendo casi indiscutible la necesidad de la uña al tocar. De esos años debemos decir que la guitarra de Torres gozaba de una gran popularidad y Tárrega fue uno de los muchos que las usaron. No hizo ninguna innovación en cuanto a organología se refiere y ciertamente su técnica puede ser un compendio de los aspectos técnicos precedentes como los de Aguado. Podemos decir que su mayor aportación fue darse cuenta de que el repertorio guitarrístico necesitaba ser ampliado para salir del ámbito meramente guitarrístico, empezando a hacer transcripciones de compositores no guitarristas como Albéniz.
 
-## Repertorio
+### Características estilísticas del repertorio #REVISAR_OPENCODE
+
+==El repertorio guitarrístico de la segunda mitad del siglo XIX se caracteriza por un progresivo abandono de las formas clásicas (sonata, rondó, variación) en favor de piezas breves de carácter: valses, mazurcas, estudios, serenatas, aires andaluces y fantasías sobre motivos de ópera. Este cambio responde a la estética romántica, que valora la expresión del sentimiento y el carácter por encima de la arquitectura formal[^1].==
+
+==La fantasía sobre motivos de ópera se convierte en la forma más cultivada. Los guitarristas toman arias de óperas de Rossini, Bellini, Donizetti y Verdi y las desarrollan combinando exposición del tema, variaciones ornamentales y pasajes virtuosísticos. Este género, heredado de Giuliani y sus contemporáneos, constituye la columna vertebral del repertorio de concierto de la época[^2].==
+
+==Armónicamente, el lenguaje se simplifica respecto al Clasicismo: predominan las funciones tonales básicas (tónica, dominante, subdominante) con modulaciones a tonos vecinos. El cromatismo, presente en la música europea del Romanticismo, apenas penetra en el repertorio guitarrístico español anterior a Tárrega. La textura predominante es la melodía acompañada, con arpegios regulares y una escritura que evita la polifonía compleja[^3].==
+
+### Evolución de la escritura instrumental #REVISAR_OPENCODE
+
+==La escritura guitarrística de la segunda mitad del siglo XIX experimenta una transformación impulsada por dos factores principales: la influencia de la notación pianística y el desarrollo organológico de la guitarra de Torres[^4].==
+
+==Los guitarristas de esta época adoptan progresivamente una notación más detallada, con indicaciones de digitación (mano derecha e izquierda), dinámicas (*p*, *f*, *cresc.*, *dim.*), articulación (*staccato*, acentos, ligados) y símbolos de expresión. Frente a la escritura esquemática de la primera mitad del siglo, la notación de Arcas, Cano y Brocá refleja una preocupación por fijar en la partitura todos los elementos de la interpretación[^5].==
+
+==La influencia de la escritura pianística se manifiesta en el uso de acordes densos, arpegios extendidos, cambios de registro abruptos y texturas que buscan imitar el efecto orquestal del piano romántico. Esta tendencia, visible en Manjón y en las transcripciones pianísticas de la época, anticipa la escritura de Tárrega y representa una evolución respecto a la textura más clara y polifónica de la escuela de Sor[^6].==
+
+==Un rasgo distintivo de la escritura de finales de siglo es el uso de recursos idiomáticos de la guitarra flamenca: rasgueados, golpes, cejillas y efectos percusivos. Arcas incorpora estos elementos en sus aires andaluces, creando un puente entre la guitarra clásica y la tradición popular andaluza que será esencial para el desarrollo del repertorio nacionalista español[^4].==
+
+## Repertorio #REVISAR_OPENCODE
 
 Durante esta época tuvieron mucho protagonismo tanto las piezas pequeñas como las fantasías sobre motivos de ópera conocidos (fue la forma más usada). Por el contrario, vemos cómo las sonatas, rondós y juegos de variaciones llegan a tener un uso rozando lo esporádico.
 
@@ -51,7 +69,11 @@ Pero tenemos que hablar también de otra aportación al repertorio que surgió e
 
 También empezaron a surgir otros tipos de obras, como las transcripciones de números conocidos de zarzuela y los arreglos de obras para piano de los mejores intérpretes de la época, como fueron Émile Racine, Gauthier Prudent, Henri Rosellen y Sigismund Thalberg; estos últimos muy importantes, ya que dieron un empujón al desarrollo de la técnica guitarrística y en aquella época hubo una creciente demanda de obras con carácter virtuosístico. Tal fue la proliferación de este tipo de obras virtuosísticas, que incluso décadas después seguirían siendo muy difíciles de interpretar. Esto se debe a que muchas de las técnicas que requerían dichas obras estaban lejos de la llamada «escuela clásica».
 
-## Autores más importantes
+==La zarzuela constituye una fuente fundamental de inspiración para los guitarristas de la segunda mitad del siglo XIX. Los números más populares de este género lírico español se transcriben para guitarra sola o con acompañamiento, contribuyendo a la difusión del repertorio nacional y al desarrollo de un estilo guitarrístico español diferenciado del modelo italiano que había predominado en la primera mitad del siglo[^2].==
+
+==Junto a las transcripciones, comienza a cultivarse un repertorio original de carácter nacionalista. Los aires andaluces de Arcas, Damas y Bosch no son meras transcripciones, sino composiciones originales que integran los recursos de la guitarra flamenca (rasgueados, cejillas, efectos percusivos) dentro de las formas clásicas de la guitarra de concierto. Esta síntesis constituye la aportación más original del repertorio español de la segunda mitad del XIX y prepara el terreno para el nacionalismo musical de Albéniz, Granados y Falla[^4].==
+
+## Autores más importantes #REVISAR_OPENCODE
 
 Pasemos ahora a dar una breve explicación de los autores más importantes de la época:
 
@@ -67,6 +89,8 @@ Una vez establecido en Londres, la gente le recibió con gran admiración, pero 
 
 En Alemania también le tenían gran admiración, ya que la revista alemana *Allgemeine Musikalische Zeitung* le consideraba el guitarrista vivo más grande del mundo. En 1833 hizo una gira por España, tocando en ciudades grandes como Madrid, Barcelona y Valencia (entre otras), y en 1847 la reina Isabel II le condecoró con la Cruz de Carlos III. Tras la condecoración siguió tocando por Europa y compuso bastantes obras (unas 64), entre las que podemos encontrar algunas colecciones de valses, divertimentos, fantasías y otras piezas. En 1850 volvió a París y allí residió hasta su muerte (1874).
 
+==Huerta representa el virtuosismo viajero propio del Romanticismo temprano. Su estilo, heredero de la tradición italiana de Giuliani, se caracteriza por un dominio de la técnica de arpegios y escalas, con un tratamiento melódico cercano al bel canto. Sus fantasías sobre motivos de ópera y sus variaciones sobre aires españoles constituyen un puente entre el repertorio de la escuela italiana y la tradición española. Fétis comparó su impacto en la guitarra al de Paganini en el violín, reconociendo en su ejecución una combinación de virtuosismo y expresividad desconocida hasta entonces en el instrumento[^7].==
+
 ### José Brocá (1805-1882)
 
 José Brocá nació en Reus en 1805 y comenzó pronto su formación como guitarrista, gracias tanto al método de Aguado (con el cual aprendió de forma autodidacta y años después llegaría a recibir clases de él en persona) como al presbítero José Casas.
@@ -74,6 +98,8 @@ José Brocá nació en Reus en 1805 y comenzó pronto su formación como guitarr
 Interpretaba con gran maestría las obras de Sor y Aguado, así que consiguió un gran reconocimiento (se le conocía como un guitarrista cuya técnica al tocar arpegios era envidiable) y trabajó de profesor en Barcelona, a la vez que actuaba. Como profesor hizo una importante labor, ya que tuvo alumnos como Felipe Pedrell, Esteve Joseph Ferrer, Miquel Mas Bargalló, Cristina Palmer o Domingo Bonet.
 
 Compuso unas veinte piezas para guitarra (fantasías, valses y otros) y desgraciadamente en 1870 sufrió un ataque de apoplejía y no pudo volver a tocar. Murió en Barcelona en 1882.
+
+==Brocá ocupa una posición intermedia entre la escuela de Madrid (Aguado) y la de Barcelona (Sor). Su estilo refleja esta doble filiación: de Aguado toma la claridad en los arpegios y la precisión técnica; de Sor, la expresividad melódica y el cuidado contrapuntístico. Su dominio de los arpegios fue especialmente reconocido en la época. Como pedagogo, formó a la siguiente generación de guitarristas catalanes, siendo el eslabón entre Brocá y el núcleo que conduciría a Tárrega[^5].==
 
 ### Antonio Cano (1811-1897)
 
@@ -83,11 +109,15 @@ Después ejerció como cirujano durante un tiempo en Lorca y volvió a Madrid, d
 
 Su labor como pedagogo la desarrolló en el Conservatorio Nacional de Madrid, en el Colegio de Sordomudos y Ciegos de Madrid (desde 1874) y en sus métodos y obras didácticas: *Método completo para guitarra* (1868), *Método abreviado para guitarra*. También escribió un tratado para bandurria.
 
+==El estilo de Antonio Cano se caracteriza por la claridad y la limpieza técnica, cualidades que sus contemporáneos describieron comparando su sonido con el del arpa. Su escritura, heredera directa de Aguado, privilegia la textura arpegiada y la melodía acompañada, con un uso moderado de la polifonía. Sus métodos pedagógicos sistematizan la enseñanza de la guitarra en un momento crucial para la institucionalización del instrumento en los conservatorios españoles[^3].==
+
 ### Federico Cano (1838-1904)
 
 Hijo de Antonio Cano, también tuvo mucho éxito en el mundo de la guitarra durante la segunda mitad del XIX. Comenzó su carrera como solista a los quince años e hizo giras por España y Portugal (e incluso alguna vez tocaron padre e hijo juntos, obras de Sor y la transcripción del *Guillermo Tell* de Rossini). En sus actuaciones la gente podía apreciar la gran belleza y técnica con la que interpretaba; era considerado un guitarrista muy elegante y exquisito, lo que le hizo ser uno de los guitarristas más interesantes de este periodo.
 
 Federico se fue a vivir a Barcelona y allí se unió al núcleo de guitarristas catalanes, y al igual que su padre, publicó un método de guitarra. También fue compositor, y gracias a sus obras (muy cuidadas, logrando un equilibrio entre el pensamiento clásico y romántico) representa también una gran contribución al repertorio de la época. Entre sus obras encontramos varias para guitarra solista y su *Método de Guitarra* con texto español y francés. Cano fue uno de esos guitarristas olvidados, pero padre e hijo fueron decisivos en la conexión entre sus predecesores Sor y Aguado con Tárrega.
+
+==Federico Cano representa el equilibrio entre la tradición clásica de Sor y las nuevas tendencias románticas. Su escritura, cuidada y elegante, mantiene la claridad textural de la escuela clásica pero incorpora recursos expresivos del Romanticismo: cambios de dinámica más acusados, uso de rubato implícito en la notación y una mayor libertad formal. Su *Método de Guitarra*, bilingüe español-francés, contribuyó a la difusión de la escuela española fuera de España[^3].==
 
 ### Antonio Giménez Manjón (1866-1919)
 
@@ -100,6 +130,8 @@ Las interpretaciones de Manjón eran muy valoradas y de hecho Domingo Prat nos r
 En 1893 toma la decisión de marchar a Sudamérica, donde fue también muy admirado. Allí decían que Manjón fue «el más grande guitarrista llegado a estas tierras» y este recorrió Uruguay, Buenos Aires, Chile, Centroamérica y Argentina, en el cual se establecería. En Buenos Aires creó un conservatorio y allí realizó buena parte de su importante labor pedagógica. Permaneció allí hasta el día de su muerte, en 1919.
 
 Manjón era muy conocido por tocar usando una guitarra de once cuerdas (las seis cuerdas habituales y añadidas otras cinco más graves) y en los programas de sus conciertos podíamos ver obras de Sor, Aguado, transcripciones de obras de Beethoven y Schubert y también composiciones propias. Estas composiciones tenían una clara inspiración española y argentina, y aparte de sus obras, también escribió un método de guitarra que constó de dos volúmenes.
+
+==Manjón representa la vertiente más experimental de la guitarra española del siglo XIX. Su uso de la guitarra de once cuerdas amplía el registro grave del instrumento y permite una mayor densidad textural y armónica. Su estilo compositivo combina la influencia de la escuela clásica española con ritmos y melodías del folclore argentino, fruto de su larga estancia en Sudamérica. Su método pedagógico, en dos volúmenes, sistematiza la enseñanza para guitarra de cuerdas múltiples[^6].==
 
 ### Julián Arcas (1832-1882)
 
@@ -118,6 +150,12 @@ Arcas realizó una gran labor como concertista entre los años 1860 y 1870, toca
 La gran mayoría de sus programas estaban formados por óperas que él mismo adaptaba para guitarra, obras originales que buscaban realzar tanto el instrumento como el virtuosismo de quien lo toca.
 
 Pero no solamente interpretaba y componía bien, sino que incluso contribuyó enormemente en la evolución de la guitarra desde el punto de vista organológico, gracias a su relación con el también almeriense luthier Antonio Torres. En la segunda mitad del XIX se puede decir por tanto que Arcas jugó un papel importante en el desarrollo de las guitarras de Antonio Torres, pudiéndose decir que el sonido Torres está ligado de alguna forma a Julián Arcas.
+
+==Arcas es la figura central de la guitarra española del último tercio del siglo XIX. Su estilo combina el virtuosismo heredado de la escuela de Aguado con una incorporación novedosa de los recursos de la guitarra flamenca: rasgueados, cejillas rítmicas, efectos percusivos y aires andaluces. Esta fusión entre la tradición clásica y la música popular andaluza constituye su aportación más original y prepara el terreno para el nacionalismo musical de Tárrega[^4].==
+
+==Su relación con Antonio Torres fue decisiva para la evolución organológica de la guitarra. Arcas actuó como probador y asesor del luthier almeriense, contribuyendo al desarrollo de la guitarra de concierto moderna. Las mejoras de Torres (aumento de la caja armónica, varetaje en abanico, tapa armónica de mayor calidad) respondían a las exigencias interpretativas de Arcas, que buscaba un instrumento con mayor volumen y proyección sonora para los salones de concierto[^4].==
+
+==En sus composiciones, Arcas cultiva preferentemente la fantasía sobre motivos de ópera (Rossini, Bellini, Verdi) y los aires andaluces. Estos últimos, como la *Serenata andaluza* y las *Variaciones sobre la Jota aragonesa*, integran el lenguaje flamenco dentro de las formas de la guitarra clásica, creando un modelo de escritura nacionalista que influirá directamente en Tárrega. Su programa de concierto, centrado en adaptaciones operísticas y obras originales de carácter español, refleja el gusto del público romántico por el virtuosismo y el color local[^5].==
 
 ## Bibliografía
 
@@ -142,3 +180,19 @@ Pero no solamente interpretaba y componía bien, sino que incluso contribuyó en
 - Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
 - Viglietti, Cedar: *Origen e historia de la guitarra* (1976)
 - Wade, Graham: *Traditions of the Classical Guitar* (1952)
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1976.
+
+[^2]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1952.
+
+[^3]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. 2005.
+
+[^4]: Gilardino, Angelo. *El Renacimiento de la Guitarra. Manuale di Storia della Chitarra*.
+
+[^5]: Casares Rodicio, Emilio y Celsa Alonso. *La música española en el siglo XIX*. Madrid, 1995.
+
+[^6]: Ramos Altamira, Ignacio. *Una biografía inédita de Antonio Jiménez Manjón*. 2008.
+
+[^7]: López, Trinitario, Agustín y Javier Suárez-Pajares. *A. T. Huerta (1800-1874) Life and Works*. 2009.
