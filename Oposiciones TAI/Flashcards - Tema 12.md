@@ -1,4 +1,4 @@
-#flashcards/informatica
+#flashcards/informatica12
 
 # Flashcards - Tema 12: Tipos abstractos, ED, Algoritmos, Ficheros, Formatos
 

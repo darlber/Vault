@@ -1,4 +1,4 @@
-#flashcards/informatica
+#flashcards/informatica14
 
 # Flashcards - Tema 14: Bases de Datos, SGBD, Modelo Relacional, SQL, Administración de BD
 

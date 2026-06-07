@@ -1,4 +1,4 @@
-#flashcards/informatica
+#flashcards/informatica13
 
 # Flashcards - Tema 13: Sistemas Operativos
 

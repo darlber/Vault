@@ -1,4 +1,4 @@
-#flashcards/informatica
+#flashcards/informatica15
 
 # Flashcards - Tema 15: Modelado de Datos, Diseño de BD, Modelo Relacional, Normalización
 

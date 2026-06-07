@@ -1,4 +1,4 @@
-#flashcards/constitucion
+#flashcards/constitucion01
 
 # Flashcards - Tema 1: Constitución Española 1978
 

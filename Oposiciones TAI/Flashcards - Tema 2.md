@@ -1,4 +1,4 @@
-#flashcards/constitucion
+#flashcards/constitucion02
 
 # Flashcards - Tema 2: Cortes Generales, TC y Defensor del Pueblo
 
