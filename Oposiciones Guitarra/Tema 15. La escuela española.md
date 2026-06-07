@@ -299,28 +299,28 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 - Op.14: *Dix Petites Pièces non difficiles*  
 - Op.15: *Le Menuet Affandangado*  
 - Op.16: *El Fandango Variado*  
-# Bibliografía
+# Bibliografía #REVISAR_OPENCODE
 
-- Aguado, Dionisio. 1825. *Escuela de guitarra*. Madrid.
-- Aguado, Dionisio. 1843. *Nuevo método para guitarra*. Madrid.
-- Alcaraz Iborra, Mario; Díaz Soto, Roberto. 2010. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario.
-- Ara, Mario Dell. 1988. *Manuale di storia della chitarra. 1: La chitarra antica, classica e romántica*. Ancona: Bèrben.
-- Briso de Montiano, Luis. 1995. *Un fondo desconocido de música para guitarra*. Madrid: Ópera Tres (Ediciones Musicales).
-- Boyd, Malcolm, y Juan José Carreras (eds.). 2000. *La música en España en el siglo XVIII*. Madrid: Cambridge University Press.
-- Ferandiere, Fernando. 1799. *Arte de tocar la guitarra española por música*. Madrid.
-- Gimeno, Julio. «Escuela de París. La guitarra en París durante el periodo Clásico Romántico.» *Revista Sonoro*, Año 2, n.º 2.
-- Gimeno, Julio. 2007. «Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820.» *Roseta*, n.º 0. Madrid: Sociedad Española de la Guitarra, pp. 44-62.
-- Gómez Amat, Carlos. 2004. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial.
-- Jeffery, Brian. 1974. «Fernando Sor's Method.» *Guitar Review*, n.º 39.
-- Mangado, Josep María. 2004. «Sor, Fernando.» En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles.
-- Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid.
-- Radole, Giuseppe. 1982. *Laúd, guitarra y vihuela. Historia y literatura*. Barcelona: EDB (Editorial Don Bosco).
-- Romanillos, José Luis. 1984. «Dionisio Aguado. The Man.» *Guitar International* 12, n.º 9.
-- Rosen, Charles. 1971. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press.
-- Sor, Fernando. 1830. *Méthode pour la Guitare*. París: l'auteur.
-- Suárez Pajares, Javier. 1990. «Sor y Aguado en la tradición guitarrística española.» *Cuadernos de música y teatro*.
-- Turnbull, Harvey. 1974. *The Guitar from the Renaissance to the Present Day*. London: Batsford.
-- Wade, Graham. 1980. *Traditions of the Classical Guitar*. London: Calder.
+- Aguado, Dionisio. *Escuela de guitarra*. Madrid: Fuentenebro, 1825.
+- Aguado, Dionisio. *Nuevo método para guitarra*. Madrid: Benito Campo, 1843.
+- Alcaraz Iborra, Mario y Roberto Díaz Soto. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario, 2010.
+- Ara, Mario Dell. *Manuale di storia della chitarra, 1: La chitarra antica, classica e romántica*. Ancona: Bèrben, 1988.
+- Boyd, Malcolm y Juan José Carreras (eds.). *La música en España en el siglo XVIII*. Madrid: Cambridge University Press, 2000.
+- Briso de Montiano, Luis. *Un fondo desconocido de música para guitarra*. Madrid: Ópera Tres (Ediciones Musicales), 1995.
+- Ferandiere, Fernando. *Arte de tocar la guitarra española por música*. Madrid: Imprenta de Pantaleón Aznar, 1799.
+- Gimeno, Julio. «Escuela de París. La guitarra en París durante el periodo Clásico Romántico.» *Revista Sonoro*, año 2, n.º 2.
+- Gimeno, Julio. «Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820.» *Roseta*, n.º 0. Madrid: Sociedad Española de la Guitarra, 2007: 44-62.
+- Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
+- Jeffery, Brian. «Fernando Sor's Method.» *Guitar Review*, n.º 39, 1974.
+- Mangado, Josep María. «Sor, Fernando.» En *Enciclopedia de la guitarra*, editado por Francisco Herrera. 2.ª ed. Valencia: Piles, 2004.
+- Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid: Imprenta de Sancha, 1799.
+- Radole, Giuseppe. *Laúd, guitarra y vihuela. Historia y literatura*. Barcelona: EDB (Editorial Don Bosco), 1982.
+- Romanillos, José Luis. «Dionisio Aguado. The Man.» *Guitar International* 12, n.º 9, 1984.
+- Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
+- Sor, Fernando. *Méthode pour la Guitare*. París: l'auteur, 1830.
+- Suárez Pajares, Javier. «Sor y Aguado en la tradición guitarrística española.» *Cuadernos de música y teatro*, 1990.
+- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+- Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
 
 # NOTAS #REVISAR_OPENCODE
 

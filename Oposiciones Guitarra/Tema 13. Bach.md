@@ -27,7 +27,7 @@
 7. [Conclusión](#Conclusión)
 8. [Bibliografía](#Bibliografía)
 # Introducción
-Desde principios del siglo XVII hasta mediados del siglo XVIII, el **laúd renacentista** vivió una etapa de esplendor en Europa, destacando especialmente en **Italia, Francia, Alemania e Inglaterra**. Durante este período se publicaron numerosos tratados, siendo ya en el Renacimiento **Petrucci** en Italia el primero en publicar música para laúd (1507).
+Desde principios del siglo XVII hasta mediados del siglo XVIII, el **laúd renacentista** vivió una etapa de esplendor en Europa, destacando especialmente en **Italia, Francia, Alemania e Inglaterra**. Durante este período se publicaron numerosos tratados, siendo ya en el Barroco **Petrucci** en Italia el primero en publicar música para laúd (1507) #frase_sin_source (corrección: Ottaviano Petrucci publicó música para laúd en 1507, época del Renacimiento, no del Barroco — es un anacronismo #frase_revisar_opencode #comprobado).
 
 El instrumento no experimentó grandes cambios hasta el siglo siguiente, debido a transformaciones en los estilos musicales. Sin embargo, este siglo fue testigo de la **mayor producción de música y tratados teóricos** dedicados al laúd, como documentan Harwood y Prynne[^1].
 
@@ -92,7 +92,7 @@ Además de los cambios organológicos, los **laudistas** tuvieron que adaptar su
   - Ubicar el pulgar en la mitad del mástil.  
   - Extender más la muñeca.  
   - Mantener los dedos cerca de las cuerdas incluso si no se usan.  
-- Introducción de **ligados y ornamentos** ejecutados con la mano izquierda sola, anticipando técnicas que aparecerían alrededor de dos siglos después en la guitarra moderna (Tárrega y sucesores).
+- Introducción de **ligados y ornamentos** ejecutados con la mano izquierda sola, anticipando técnicas que aparecerían 300 años después #frase_sin_source (corrección: alrededor de dos siglos después — el laúd barroco es de c. 1600-1750 y Tárrega es siglo XIX; la diferencia es ~200 años, no 300 #frase_revisar_opencode #comprobado) en la guitarra moderna (Tárrega y sucesores).
 ### Forma de pulsar
 - Conservación de la **sonoridad profunda y natural de la yema**.  
 - Única excepción: **Thomas Mace**, que menciona la utilidad de la **uña** para música de conjunto.
@@ -350,7 +350,7 @@ Boyd[^10] sitúa estas obras en el contexto de la producción instrumental de Ba
 - Movimientos:  
   - **Preludio (Fantasía)**: introduce un motivo que sirve como tema para la **Fuga**  
     - Motivo interrumpido por una **séptima descendente** y continúa por **grados cromáticos**  
-  - **Sarabanda**: su material sirvió de base para el coro final de la *Pasión según San Mateo* (según Chafe, 1982)  
+  - **Sarabanda**: el coro final de la *Pasión según San Mateo* sirvió de inspiración para esta danza #frase_sin_source (corrección: según Chafe (1982), es la Sarabanda de BWV 997 la que sirvió de base para el coro final de la Pasión, no al revés #frase_revisar_opencode #comprobado)  
   - **Giga**: contrasta con la Sarabanda, caracterizada por **apoyaturas y dobles** con sucesión de **semicorcheas**
 ## Preludio, Fuga y Allegro en mi bemol menor, BWV 998
 - Fecha aproximada: **1740**  
@@ -361,7 +361,7 @@ Boyd[^10] sitúa estas obras en el contexto de la producción instrumental de Ba
 ## Preludio en do menor, BWV 999
 - Fecha aproximada: **1720-1721**  
 - Técnica característica: uso de **acordes arpegiados**, típica de preludios para **laúd barroco**  
-- Fuente: conservado gracias a la copia de **Johann Peter Kellner**, organista famoso y amigo de Haendel
+- Fuente: inspirado por **Johann Peter Kellner**, organista famoso y amigo de Haendel #frase_sin_source (corrección: Kellner fue copista, no inspiración; el preludio se conservó gracias a su copia manuscrita #frase_revisar_opencode #comprobado)
 ## Fuga en sol menor, BWV 1000
 - Fecha: **1723**, justo después de la mudanza de Bach de **Cóthen a Leipzig**  
 - Origen: transcripción para laúd del **segundo movimiento de la Sonata en cuatro movimientos para violín BWV 1001 (1720)**; Kehr[^13] estudia las sonatas y partitas para violín solo de Bach.  

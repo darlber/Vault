@@ -196,26 +196,26 @@ Hasta el siglo XXI, en concreto 2001, no se pudo abrir las cajas con la música 
 
 ## 4. Bibliografía #REVISAR_OPENCODE
 
-- Gilardino, Angelo. *Andrés Segovia y el repertorio de la guitarra del siglo XX*. 2008.
+- Gilardino, Angelo. «Andrés Segovia y el repertorio de la guitarra del siglo XX.» *Roseta*, n.º 1 (2008): 58-67.
 - Gilardino, Angelo. *El Renacimiento de la Guitarra. Manuale di Storia della Chitarra*.
-- Gimeno, Julio. *La «escuela Tárrega»: los métodos de Pascual Roch y Emilio Pujol*. 2003.
-- Gómez Amat, Carlos. *Historia de la música española*. Madrid, 2004.
-- *Nombres Propios de la Guitarra: Angelo Gilardino*. Festival de la Guitarra de Córdoba, 2012.
-- *Nombres Propios de la guitarra: Antonio de Torres*. Festival de la Guitarra de Córdoba, 2008.
-- Suárez Pajares, Javier. *Aquellos plateados años: La guitarra en el entorno del 27*. Madrid, 1997.
+- Gimeno, Julio. «La escuela Tárrega según los métodos de Pascual Roch y Emilio Pujol.» En *Francisco Tárrega y su época*, editado por Carlos González. Córdoba: La Posada, 2003.
+- Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
+- *Nombres Propios de la Guitarra: Angelo Gilardino*. Córdoba: Festival de la Guitarra de Córdoba, 2012.
+- *Nombres Propios de la guitarra: Antonio de Torres*. Córdoba: Festival de la Guitarra de Córdoba, 2008.
+- Suárez Pajares, Javier. «Aquellos plateados años: la guitarra en el entorno del 27.» En *La guitarra en la historia*, vol. 8. Córdoba: La Posada, 1998.
 
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: Gilardino, Angelo. *El Renacimiento de la Guitarra. Manuale di Storia della Chitarra*.
 
-[^2]: *Nombres Propios de la guitarra: Antonio de Torres*. Festival de la Guitarra de Córdoba, 2008.
+[^2]: *Nombres Propios de la guitarra: Antonio de Torres*. Córdoba: Festival de la Guitarra de Córdoba, 2008.
 
-[^3]: *Nombres Propios de la Guitarra: Angelo Gilardino*. Festival de la Guitarra de Córdoba, 2012.
+[^3]: Gilardino, Angelo. «Andrés Segovia y el repertorio de la guitarra del siglo XX.» *Roseta*, n.º 1 (2008): 58-67.
 
-[^4]: Suárez Pajares, Javier. *Aquellos plateados años: La guitarra en el entorno del 27*. Madrid, 1997.
+[^4]: Suárez Pajares, Javier. «Aquellos plateados años: la guitarra en el entorno del 27.» En *La guitarra en la historia*, vol. 8. Córdoba: La Posada, 1998.
 
-[^5]: Gómez Amat, Carlos. *Historia de la música española*. Madrid, 2004.
+[^5]: Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
 
-[^6]: Gimeno, Julio. *La «escuela Tárrega»: los métodos de Pascual Roch y Emilio Pujol*. 2003.
+[^6]: Gimeno, Julio. «La escuela Tárrega según los métodos de Pascual Roch y Emilio Pujol.» En *Francisco Tárrega y su época*, editado por Carlos González. Córdoba: La Posada, 2003.
 
-[^7]: Gilardino, Angelo. *Andrés Segovia y el repertorio de la guitarra del siglo XX*. 2008.
+[^7]: *Nombres Propios de la Guitarra: Angelo Gilardino*. Córdoba: Festival de la Guitarra de Córdoba, 2012.
