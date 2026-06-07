@@ -64,6 +64,26 @@ Las formas que se utilizan suelen ser piezas con carácter libre, también son i
 
 Podríamos decir que en el siglo XX se trabajan todas las formas, inclusive obras sin forma aparente o también denominadas «libres». Destacar también que se escribe mucha música de cámara, con agrupaciones de diversa configuración, incluyéndose la guitarra en dichos grupos, incluso en la ópera y el ballet. Consigue, con todo esto, un amplísimo repertorio original de diferentes compositores guitarristas y no guitarristas, y de transcripciones.
 
+#### Características estilísticas del repertorio #REVISAR_OPENCODE
+
+==El repertorio guitarrístico de la primera mitad del siglo XX se caracteriza por una profunda renovación estética impulsada por dos factores principales: la superación del modelo romántico tardío de Tárrega y la incorporación de la guitarra al lenguaje musical de las vanguardias históricas. Si el siglo XIX había privilegiado la fantasía sobre motivos de ópera y la pieza de salón, el nuevo siglo abre el abanico estilístico al impresionismo, el nacionalismo, el neoclasicismo y, más tardíamente, el atonalismo y el dodecafonismo[^1].==
+
+==La forma sonata, que había quedado relegada durante el Romanticismo guitarristico, recupera protagonismo de la mano de compositores como Turina, Torroba y Castelnuovo-Tedesco. Junto a ella, la suite neoclásica —con sus movimientos de danza—, los estudios de concierto y las piezas breves de carácter impresionista constituyen los géneros más cultivados. El concierto para guitarra y orquesta experimenta un auge sin precedentes, con hitos como el *Concierto de Aranjuez* de Rodrigo y el *Concierto del Sur* de Ponce[^3].==
+
+==El nacionalismo musical impregna buena parte del repertorio. En España, la guitarra se convierte en el instrumento emblemático de la renovación musical impulsada por la Generación del 27, que ve en ella un vehículo para expresar un nacionalismo esencial —en términos de Suárez Pajares—, alejado del costumbrismo decimonónico. En América Latina, compositores como Villa-Lobos, Barrios y Ponce integran el folclore local dentro de un lenguaje que fusiona la tradición guitarrística con las corrientes europeas[^4].==
+
+==Armónicamente, el lenguaje experimenta una ampliación sin precedentes. Junto a la tonalidad ampliada del impresionismo —acordes de novena, oncena, escalas modales—, la guitarra incorpora el cromatismo expresivo, la politonalidad y, en las obras más avanzadas de mediados de siglo, procedimientos seriales. La textura, que en Tárrega era predominantemente horizontal (melodía acompañada), se vuelve más densa y vertical, con acordes de hasta seis notas, clusters y efectos tímbricos que exploran todas las posibilidades sonoras del instrumento[^1].==
+
+#### Evolución de la escritura instrumental #REVISAR_OPENCODE
+
+==La escritura guitarrística de la primera mitad del siglo XX experimenta una transformación radical impulsada por la colaboración entre guitarristas y compositores no guitarristas. Si Tárrega y su escuela habían desarrollado una notación meticulosa que fijaba digitación, dinámicas y articulación dentro del idiomatismo del instrumento, la irrupción de compositores como Falla, Turina, Rodrigo o Castelnuovo-Tedesco exige una ampliación de los recursos notacionales para dar cabida a nuevas sonoridades[^1].==
+
+==Entre las innovaciones más significativas se encuentran: la notación precisa de armónicos (naturales y artificiales), el uso del rasgueado como recurso compositivo (no solo como adorno flamenco), la incorporación del tambora (golpe sobre la tapa armónica), pizzicato a la Bartók, glissandi, y efectos percusivos sobre el diapasón. La escritura se vuelve más orquestal, con cambios de registro abruptos, acordes de gran densidad y una explotación sistemática del timbre como elemento estructural[^3].==
+
+==La influencia de Segovia es determinante en este proceso. Al insistir en que los compositores escribieran para guitarra sin conocer previamente el idiomatismo del instrumento, Segovia forzó una expansión de los límites técnicos y expresivos de la guitarra. Las obras de Castelnuovo-Tedesco, Ponce, Tansman y Villa-Lobos presentan una escritura que, sin perder de vista las posibilidades del instrumento, incorpora recursos tomados del piano, el violín y la orquesta, enriqueciendo así el vocabulario guitarrístico[^7].==
+
+==Paralelamente, la escuela de Tárrega, representada por Llobet y Pujol, mantiene una línea de escritura más idiomática, centrada en el desarrollo de las cualidades expresivas y tímbricas de la guitarra. Esta doble corriente —la idiomática y la «orquestal»— convive durante toda la primera mitad del siglo y constituye una de las características más singulares del repertorio de este periodo[^5].==
+
 ### 1.4. Desarrollo técnico
 
 A partir de Tárrega la guitarra sufre un importante avance técnico como hemos expresado en varias ocasiones, desarrollando nuevas posibilidades y recursos, efectos expresivos y un importante estudio de su técnica. Sobre todo se realiza un perfeccionamiento progresivo de los elementos que intervienen en la ejecución guitarrística: mecanismos, dedos, ataque.
