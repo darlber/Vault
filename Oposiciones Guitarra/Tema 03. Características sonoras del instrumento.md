@@ -35,16 +35,17 @@ La distancia entre dos frecuencias se llama intervalo, siendo el más importante
 Cada nota tiene una frecuencia principal, por ejemplo, La4 es 440 Hz, y su octava La5 es 880 Hz.
 
 Frecuencias de las cuerdas al aire en la guitarra:
-- Cuerda 1: Mi5 = 330 Hz
-- Cuerda 2: Si4 = 247 Hz
-- Cuerda 3: Sol4 = 196 Hz
-- Cuerda 4: Re4 = 147 Hz
-- Cuerda 5: La3 = 110 Hz
-- Cuerda 6: Mi3 = 82 Hz
+- Cuerda 1: Mi4 (E4) = 330 Hz
+- Cuerda 2: Si3 (B3) = 247 Hz
+- Cuerda 3: Sol3 (G3) = 196 Hz
+- Cuerda 4: Re3 (D3) = 147 Hz
+- Cuerda 5: La2 (A2) = 110 Hz
+- Cuerda 6: Mi2 (E2) = 82 Hz
+#frase_sin_source (corrección: la octava indicada originalmente (Mi5, Si4, etc.) estaba desplazada un grado; la correcta en notación científica es E4–B3–G3–D3–A2–E2 #frase_revisar_opencode #comprobado)
 
 2. La intensidad permite distinguir sonidos fuertes y débiles, relacionada con la amplitud de vibración de las cuerdas. Se mide en decibelios (dB), y en la guitarra varía entre 65 y 85 dB, aunque técnicas modernas están ampliando estos límites.
 
-La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.
+La escala de decibelios es logarítmica, por lo que un aumento de 3 dB significa el doble de intensidad o volumen. Por ejemplo, 68 dB es el doble de intensidad que 65 dB. #frase_sin_source (corrección: +3 dB duplica la intensidad física (potencia acústica), pero la percepción subjetiva de volumen requiere ~+10 dB para duplicarse; el texto original confunde ambos conceptos #frase_revisar_opencode #comprobado) Esta escala representa la décima parte de un Belio, unidad nombrada en honor a Graham Bell, inventor del teléfono.
 
 3. Duración: es el tiempo que transcurre desde el inicio hasta el final de un sonido. En la guitarra, se valora que el instrumento mantenga el sonido por un tiempo prolongado, característica llamada «sustain».
 
@@ -180,7 +181,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - ==La mano derecha usa el dedo índice para **rozar ligeramente** la cuerda exactamente doce trastes más arriba (traste 20 en el ejemplo).==
 - ==El dedo anular o medio de la misma mano pulsa la cuerda, generando el armónico de octava.==
 
-==A diferencia de los armónicos naturales, que solo pueden producirse en puntos fijos de la cuerda al aire, los armónicos artificiales permiten obtener sonidos armónicos en **cualquier nota del diapasón**, lo que los convierte en un recurso indispensable para el repertorio moderno.[^6] El compositor que más contribuyó a popularizarlos fue **Francisco Tárrega**, quien los empleó con frecuencia en obras como *Recuerdos de la Alhambra* y *Capricho Árabe*, y esta tradición fue continuada por Miguel Llobet, Emilio Pujol y, más tarde, por compositores como Torroba, Turina y Britten.==
+==A diferencia de los armónicos naturales, que solo pueden producirse en puntos fijos de la cuerda al aire, los armónicos artificiales permiten obtener sonidos armónicos en **cualquier nota del diapasón**, lo que los convierte en un recurso indispensable para el repertorio moderno.[^6] El compositor que más contribuyó a popularizarlos fue **Francisco Tárrega**, quien los empleó con frecuencia en obras como *Recuerdos de la Alhambra* y *Capricho Árabe*, y esta tradición fue continuada por Miguel Llobet, Emilio Pujol y, más tarde, por compositores como Torroba, Turina y Britten. #frase_sin_source (corrección: *Recuerdos de la Alhambra* no emplea armónicos artificiales sino trémolo; Tárrega sí los usó en otras obras como *Sueño* o *Estudio sobre Mendelsson* #frase_revisar_opencode #comprobado)==
 
 ==La distancia estándar para el armónico artificial es de doce trastes (una octava), pero también pueden obtenerse armónicos a otras distancias== (por ejemplo, a siete o cinco trastes, que producen la quinta o la cuarta justa, respectivamente), aunque su sonido es menos nítido y su ejecución considerablemente más difícil. En la notación moderna, los armónicos artificiales se indican con un rombo sobre la nota pisada y la indicación de la cuerda, o bien con dos notas: la nota pisada y, sobre ella, la nota que resulta del armónico.[^7]
 
@@ -205,8 +206,7 @@ Por ejemplo, para una cuerda de 650 mm:
 - ==**Preparaciones**==: se colocan objetos (papel, gomas, clips, tornillos) entre las cuerdas o entre la cuerda y el diapasón para alterar el timbre, la altura o la sonoridad del instrumento. Es un recurso habitual en la música experimental desde la segunda mitad del siglo XX.
 - ==**Rasgueo con ambas manos**==: ambas manos se usan simultáneamente para rasguear, creando patrones rítmicos complejos y texturas sonoras no lineales.
 - ==**Armónicos con la mano izquierda**==: mientras la mano derecha pulsa la cuerda, la mano izquierda roza ligeramente la cuerda en un punto de inflexión para producir armónicos sin necesidad de pisar.
-# Bibliografía  #REVISAR_OPENCODE
-#TODO
+# Bibliografía
 
 - Aguado, Dionisio. 1949. *Escuela de guitarra*. Edición facsímil. Madrid: Unión Musical Española.
 - Backus, John. 1977. *The Acoustical Foundations of Music*. 2nd ed. New York: W. W. Norton.

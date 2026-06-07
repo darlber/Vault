@@ -38,9 +38,9 @@ En el siglo XIX surgieron dos estilos constructivos[^2]: el castellano y el anda
     - Abertura en la tapa que proyecta el sonido. Los rosetones labrados de los siglos XVI‑XVII dieron paso al orificio circular abierto que se usa hoy.
 - **Encordadura y cuerdas**[^10]
     - Tradicionalmente (siglos XVII-XVIII): tripa de carnero (agudas) y seda entorchada en plata (graves).
-    - Desde 1944, ==la introducción del nylon== estabilizó afinación y resistencia, impulsando la guitarra «clásica», aunque las cuerdas antiguas ofrecían gran dulzura y profundidad pero eran muy frágiles ante cambios atmosféricos.
+    - Desde 1947, ==la introducción del nylon== estabilizó afinación y resistencia, impulsando la guitarra «clásica», aunque las cuerdas antiguas ofrecían gran dulzura y profundidad pero eran muy frágiles ante cambios atmosféricos. ==(1947 o 1944?)== #frase_sin_source 
 
-==La introducción del nylon en 1944==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia**, supuso una revolución en la historia del instrumento.[^11] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista. #REVISAR_OPENCODE
+==La introducción del nylon==, fruto de la colaboración entre el luthier neoyorquino **Albert Augustine** y **Andrés Segovia** (quienes comenzaron a trabajar juntos en 1946, produciendo las primeras cuerdas comerciales en 1947-1948), supuso una revolución en la historia del instrumento. #frase_sin_source (corrección: la primera prueba en escenario del nylon fue en enero de 1944 por Olga Coelho, no por Augustine-Segovia; ambos no se conocieron hasta 1946 y las primeras cuerdas Augustine se fabricaron en 1947-1948 #frase_revisar_opencode #comprobado)[^11] Hasta entonces, los guitarristas dependían de cuerdas de tripa que variaban con la humedad, se rompían con facilidad y dificultaban la afinación estable en concierto. El nylon ofrecía una consistencia y durabilidad desconocidas hasta la fecha, permitió estandarizar la tensión y el calibre de las cuerdas, y contribuyó decisivamente a la expansión de la guitarra como instrumento de concierto durante la segunda mitad del siglo XX. ==Las cuerdas de nailon se clasifican actualmente por calibre y tensión==: baja (o *suave*), normal (o *media*) y alta (o *fuerte*). La elección del calibre depende del estilo interpretativo, de las características del instrumento y de las preferencias del guitarrista. #REVISAR_OPENCODE
 
 Además del uso del **nylon**, se produjeron otros dos cambios[^12] importantes en las cuerdas:
 
@@ -80,7 +80,7 @@ Estas estructuras internas tienen doble función:
 - La guitarra es muy sensible a los **cambios bruscos de temperatura y humedad**.
 - Debe mantenerse en condiciones similares a las de su construcción.
 ##### ✅ **Humedad:**
-- Ideal: entre **55 % y 70 %**.
+- Ideal: entre **55 % y 70 %**. #frase_sin_source (corrección: el rango estándar recomendado por luthiers y fabricantes es 45-55 %; el 70 % está en zona de riesgo para la madera #frase_revisar_opencode #comprobado)
 - Para controlarla:
     - En la guitarra o estuche: usar un **humidificador** (por ejemplo, una esponja).
     - En la habitación: usar un **higrómetro**.

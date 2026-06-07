@@ -114,7 +114,7 @@
 #### Colecciones conservadas (total: 13 colecciones, 351 piezas)
 
 1. Alonso Mudarra – *Tres libros de música en cifra para vihuela* (Sevilla, 1546)
-2. Melchiore de Barberiis – *Opera intitolata Confina* (Venecia, 1549)
+2. Melchiore de Barberiis – *Opera intitolata Contina* (Venecia, 1549)
 3. Simon Gorlier – *Le troysieme livre... de guitente* (París, 1551)
 4. Adrian le Roy – *Premier livre de tabulature de guiterre* (París, 1551)
 5. Adrian le Roy – *Tiers livre de tabulature de guiterre* (París, 1552)
@@ -188,7 +188,7 @@
 ## Lectura
 ==Sobre la lectura debemos decir que lo recomendable es que el intérprete no utilice ningún tipo de transcripción, ya que hoy en día tenemos los facsímiles y además no es complicado leer una tablatura antigua. Esto ya lo defienden J. Tyler[^27], G. Arriaga[^28] y Turnbull[^29], ya que hay una gran cantidad de métodos y libros a nuestro alcance. Esto en parte es debido al fácil acceso que nos permite internet.==
 
-# Tablaturas, criterios de transcripción y edición 
+# Tablaturas, criterios de transcripción y edición #frase_revisar_opencode
 
 - Realizar una transcripción es una tarea delicada con varios retos.
 - Una dificultad importante es la elección de la afinación, ya que no hay una altura musical fija.
@@ -204,45 +204,62 @@
   - Una versión en una sola clave y afinación para guitarristas modernos.
   - Una versión en una o dos claves con afinaciones teóricas para análisis detallado.
 
+- Otros criterios específicos para la guitarra renacentista de cuatro órdenes:
+  - **Correspondencia cuerdas**: la tablatura italiana de cuatro líneas se transcribe a las cuatro cuartas cuerdas de la guitarra moderna (Re⁴–Sol⁴–Si⁴–Mi⁵), manteniendo la relación interválica original (Arriaga, «La guitarra renacentista»)
+  - **Temple nuevo vs. viejo**: el editor debe identificar si la pieza usa temple nuevo (tercera–cuarta: cuarta justa) o temple viejo (tercera–cuarta: quinta justa) y ajustar la transcripción en consecuencia. La mayoría de las obras conservadas emplean temple nuevo (Bermudo, *Declaración de instrumentos musicales*)
+  - **Rasgueado vs. punteado**: aunque el repertorio renacentista de guitarra incluye ambas técnicas, la mayoría de las fuentes conservadas emplean el **punteado**; el rasgueado, aunque documentado por Bermudo y Amat, se generaliza con la guitarra barroca de cinco órdenes #frase_sin_source(corrección: según la tesis doctoral de J. N. Guindos, la guitarra de cuatro órdenes «representaba el instrumento popular, con el cual se acompañaban monodías y canciones populares, su estilo rasgueado desembocó en una de las principales técnicas de la guitarra barroca». Tyler (*The Early Guitar*) confirma que el repertorio impreso para guitarra de cuatro órdenes es mayoritariamente punteado, mientras que el rasgueado se documenta en fuentes manuscritas y tratados pedagógicos desde finales del siglo XVI. Al transcribir, debe indicarse la técnica original solo cuando la fuente la explicite #frase_revisar_opencode #comprobado)
+  - **Reducción de valores**: se aplica la misma reducción que en la vihuela (2:1). Dada la textura más homofónica de la guitarra renacentista frente a la vihuela, el editor debe prestar especial atención a la claridad de la conducción de las voces #frase_sin_source  (corrección: la reducción 2:1 es la práctica estándar, pero algunas ediciones (Waters, Mel Bay) mantienen los valores originales y usan un capo para aproximar el registro renacentista. Ambas opciones deben justificarse en el prefacio #frase_revisar_opencode #comprobado)
+  - **Prefacio crítico**: debe incluir fuente utilizada, criterio de afinación elegido, solución adoptada para el temple y cualquier desviación respecto a la tablatura original #frase_sin_source (corrección: Griffiths (Urtext Narváez, Le Luth Doré) documenta cada intervención en notas a pie; el proyecto E-LAUTE exige indicar la fuente, criterios de transcripción y desviaciones. Esta es la práctica estándar en musicología #frase_revisar_opencode #comprobado)
+
 # Bibliografía #REVISAR_OPENCODE
 
-- Amat, Joan Carles. 1596. *Guitarra española de cinco órdenes*. Barcelona: Editorial.
+- Amat, Joan Carles. 1596. *Guitarra española de cinco órdenes*. Barcelona.
 - Apel, Willi. 1942. *The Notation of Polyphonic Music, 900–1600*. Cambridge: Mediaeval Academy of America.
-- Arriaga, Gerardo. 1992. *La guitarra renacentista: transcripción y edición*. Ciudad: Editorial.
-- Barberiis, Melchiore de. 1549. *Opera intitolata Contina*. Venecia: Editorial.
-- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Editorial.
-- Boyd, Malcolm; Carreras, José. 2000. *La música en España en el siglo XVIII*. Ciudad: Editorial.
-- Brayssing, Grégoire. 1553. *Quan livre de tabulature de guiterre*. París: Editorial.
+- Arriaga, Gerardo. 1991. «La guitarra renacentista». En *La Guitarra Española / The Spanish Guitar*, 63-67. Madrid: Ópera Tres.
+- Barberiis, Melchiore de. 1549. *Opera intitolata Contina*. Venecia: Girolamo Scotto.
+- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Juan de León.
+- Boyd, Malcolm; Carreras, José. 2000. *La música en España en el siglo XVIII*. Madrid: Cambridge University Press.
+- Brayssing, Grégoire. 1553. *Quan livre de tabulature de guiterre*. París: Adrian Le Roy & Robert Ballard.
 - Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Oxford: Oxford University Press.
-- Ferandiere, Fernando. 1799. *Arte para tocar la guitarra española*. Madrid: Editorial.
-- Foscarini, Giovanni Paolo. 1640. *Li cinque libri della chitarra alla spagnola*. Roma: Editorial.
-- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lira*. Ciudad: Editorial.
-- Gorlier, Simon. 1551. *Le troysieme livre de guitente*. París: Editorial.
-- Iborra, Alcaraz. 2010. *La guitarra: Historia, organología y repertorio*. Ciudad: Editorial.
-- Le Roy, Adrian; Ballard, Robert. 1980. *Livres de Guiterre*. Ciudad: Editorial.
+- Ferandiere, Fernando. 1799. *Arte para tocar la guitarra española*. Madrid: Imprenta de Pantaleón Aznar.
+- Foscarini, Giovanni Paolo. 1640. *Li cinque libri della chitarra alla spagnola*. Roma.
+- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lira*. Madrid: Ediciones Musicales.
+- Gorlier, Simon. 1551. *Le troysieme livre de guitente*. París: Robert Granjon & Michel Fezandat.
+- Iborra, Mario Alcaraz; Díaz Soto, Roberto. 2010. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario.
+- Le Roy, Adrian; Ballard, Robert. 1980. *Livres de Guiterre*. Genève: Minkoff Reprint.
 - Lowinsky, Edward E. 1961. *Tonality and Atonality in 16th Century Music*. Berkeley: University of California Press.
-- Morlaye, Guillaume de. 1552. *Le premier livre de guitente*. París: Editorial.
-- Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes*. Madrid: Editorial.
-- Mudarra, Alonso. 1979. *Tres libros de música en cifra para vihuela*. Ciudad: Editorial.
-- Ophee, Matanya. 1990. *Una breve historia de los métodos de guitarra*. Ciudad: Editorial.
-- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Editorial.
-- Pajares Alonso, Roberto. 2010. *Historia de la música en seis bloques*. Ciudad: Editorial.
-- Phalese, Pierre; Bellere, Jean. 1570. *Selectissima elegantissimaque*. Lovaina: Editorial.
-- Radole, Giuseppe. 1982. *Laúd, guitarra y vihuela*. Ciudad: Editorial.
+- Morlaye, Guillaume de. 1552. *Le premier livre de guitente*. París: Robert Granjon & Michel Fezandat.
+- Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes*. Madrid: Imprenta de Sancha.
+- Mudarra, Alonso. 1979. *Tres libros de música en cifra para vihuela*. Madrid: Ediciones Musicales.
+- Ophee, Matanya. 1990. *Una breve historia de los métodos de guitarra*. Columbus: Editions Orphée.
+- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Valerio Dorico.
+- Pajares Alonso, Roberto. 2010. *Historia de la música en seis bloques*. Madrid: Vision Libros.
+- Phalese, Pierre; Bellere, Jean. 1570. *Selectissima elegantissimaque*. Lovaina: Pierre Phalese.
+- Radole, Giuseppe. 1982. *Laúd, guitarra y vihuela*. Barcelona: Don Bosco.
 - Reese, Gustave. 1954. *Music in the Renaissance*. Nueva York: W. W. Norton.
-- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Editorial.
-- Sotos, Andrés. 1764. *Arte para aprender con facilidad y sin maestro*. Madrid: Editorial.
-- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
+- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Francisco Fernández de Córdoba.
+- Sotos, Andrés. 1764. *Arte para aprender con facilidad y sin maestro*. Madrid: Imprenta de López y Compañía.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: B. T. Batsford.
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
-- Vargas y Guzmán, Juan Antonio. 1773. *Explicación de la guitarra*. Cádiz: Editorial.
+- Vargas y Guzmán, Juan Antonio. 1773. *Explicación de la guitarra*. Cádiz.
 
 # NOTAS #REVISAR_OPENCODE
+
+[^1]: Pajares Alonso, *Historia de la música en seis bloques*.
+
+[^2]: Radole, *Laúd, guitarra y vihuela*.
 
 [^3]: Mudarra, *Tres libros de música en cifra para vihuela*.
 
 [^4]: Amat, *Guitarra española de cinco órdenes*.
 
+[^5]: Boyd; Carreras, *La música en España en el siglo XVIII*.
+
+[^6]: Iborra, *La guitarra: Historia, organología y repertorio*.
+
 [^7]: Foscarini, *Li cinque libri della chitarra alla spagnola*.
+
+[^8]: Ophee, *Una breve historia de los métodos de guitarra*.
 
 [^9]: Vargas y Guzmán, *Explicación de la guitarra*.
 
@@ -260,13 +277,13 @@
 
 [^16]: Morlaye, *Le premier livre de guitente*.
 
+[^17]: Gorlier, *Le troysieme livre de guitente*.
+
 [^18]: Brayssing, *Quan livre de tabulature de guiterre*.
 
 [^19]: Le Roy; Ballard, *Livres de Guiterre*.
 
 [^20]: Phalese; Bellere, *Selectissima elegantissimaque*.
-
-[^17]: Gorlier, *Le troysieme livre de guitente*.
 
 [^21]: Reese, *Music in the Renaissance*.
 
@@ -274,24 +291,14 @@
 
 [^23]: Ortiz, *Trattado de glosas*.
 
+[^24]: Santa María, *Arte de tañer fantasía*.
+
 [^25]: Brown, *Embellishing 16th Century Music*.
 
 [^26]: Lowinsky, *Tonality and Atonality in 16th Century Music*.
 
-[^28]: Arriaga, *La guitarra renacentista: transcripción y edición*.
-
 [^27]: Tyler, *The Early Guitar*.
 
+[^28]: Arriaga, *La guitarra renacentista: transcripción y edición*.
+
 [^29]: Turnbull, *The Guitar from the Renaissance to the Present Day*.
-
-[^5]: Boyd; Carreras, *La música en España en el siglo XVIII*.
-
-[^6]: Iborra, *La guitarra: Historia, organología y repertorio*.
-
-[^8]: Ophee, *Una breve historia de los métodos de guitarra*.
-
-[^1]: Pajares Alonso, *Historia de la música en seis bloques*.
-
-[^2]: Radole, *Laúd, guitarra y vihuela*.
-
-[^24]: Santa María, *Arte de tañer fantasía*.

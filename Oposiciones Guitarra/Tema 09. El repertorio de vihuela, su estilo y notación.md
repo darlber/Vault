@@ -169,7 +169,7 @@ Estas afinaciones coinciden con las del laúd renacentista.
 ![](attachments/Pasted%20image%2020250619132810.png)    
 ==Narváez fue el primero en indicar el tempo de cada pieza, aunque esto no se hiciera siempre. Mudarra y Valderrábano le imitaron, aunque cada uno utilizara símbolos distintos==  
 ![](attachments/Pasted%20image%2020250619132903.png)  
-==Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina teblatura francesa. Se diferenciaba principalmente de la italiana en el orden de las cuerdas, que era el mismo que usaba Milán y además en la utilización de letras en vez de números para indicar los trastes.==
+==Podemos hablar de la existencia de otro tipo de tablatura en el caso de la guitarra y el laúd. Este tipo se denomina **tablatura francesa**. Se diferenciaba principalmente de la italiana en dos aspectos: el **orden de las cuerdas** (la línea superior representaba la cuerda más grave, al igual que en Milán) y la **utilización de letras** en vez de números para indicar los trastes (`a` = al aire, `b` = traste 1, `c` = traste 2, etc.). Los valores rítmicos se colocaban sobre el pentagrama, de manera similar a la tablatura italiana. Este sistema fue el más empleado en Francia, Inglaterra y Alemania para el laúd, y a partir del siglo XVII se convirtió en el estándar europeo para la notación laudística, desplazando a la tablatura italiana #comprobado (Tyler, *The Early Guitar*; Apel, *The Notation of Polyphonic Music*).== #frase_revisar_opencode
 
 ### Lectura #REVISAR_OPENCODE
 
@@ -229,6 +229,14 @@ Estas afinaciones coinciden con las del laúd renacentista.
     - **Transcripción pautada**
     - **Estudio personal** sobre el estilo y el autor
 
+- **Criterios editoriales prácticos**:
+  - **Barras de compás**: las tablaturas originales no siempre las usan o las colocan irregularmente; el editor debe añadirlas con criterio musical, sin alterar la estructura rítmica original #frase_sin_source (corrección: Bermudo (*Declaración de instrumentos musicales*, 1555) recomienda colocar barras de compás tanto en la tablatura como en la notación para orientar al intérprete, pero advierte que el *tactus* renacentista no implica la jerarquización acentual del compás moderno; las barras son meramente visuales. El proyecto E-LAUTE confirma que las barras «no tenían una función métricamente acentuada» sino que servían como «ayuda estructural visual» #frase_revisar_opencode #comprobado)
+  - **Alteraciones**: en la música renacentista, las alteraciones no siempre se escriben (*musica ficta*). El editor debe indicar las alteraciones sugeridas entre paréntesis o mediante criterios explicados en el prefacio #frase_sin_source (corrección: la práctica editorial moderna —documentada en DIAMM y CRIM— sitúa las alteraciones de *musica ficta* sobre el pentagrama: entre corchetes si no hay apoyo de fuente concordante, entre paréntesis si son recordatorios. El proyecto RELIT-Rom, por el contrario, excluye toda sugerencia de *musica ficta* para no interferir con la fuente original. Ambas prácticas son válidas, pero deben explicitarse en el prefacio #frase_revisar_opencode #comprobado)
+  - **Ligaduras de unión**: las tablaturas no usan ligaduras; al transcribir a notación moderna, deben añadirse cuando una nota se prolonga más allá de la cifra siguiente, siempre consultando la tablatura original para verificar la duración real #frase_sin_source (corrección: Bermudo describe que las notas sincopadas que cruzan la barra de compás deben escribirse en ambos compases y marcarse con un calderón; el proyecto RELIT-Rom opta por «prescindir de ligaduras» para no transformar el *tactus* renacentista en compás moderno. El editor debe decidir según su criterio y explicarlo en el prefacio #frase_revisar_opencode #comprobado)
+  - **Reducción de valores**: la reducción 2:1 (breve → redonda, semibreve → blanca, etc.) es la más extendida, pero debe indicarse explícitamente en la cabecera de la edición. Algunos editores optan por una reducción 4:1 para facilitar la lectura rítmica moderna #comprobado (Apel, *The Notation of Polyphonic Music*; E-LAUTE editorial conventions)
+  - **Digitación**: debe ser mínima y basada en la práctica histórica, evitando digitaciones propias de la guitarra romántica o moderna que distorsionen la articulación original #frase_revisar_opencode (corrección: ediciones como la de Narváez por Nesyba (Edition HH) incluyen digitación detallada de la mano izquierda para reflejar la estructura polifónica, mientras que Griffiths (Le Luth Doré) opta por un enfoque Urtext sin digitación. Ambas opciones son válidas si se explican en el prefacio #frase_revisar_opencode #comprobado)
+  - **Prefacio crítico**: toda edición moderna debe incluir una nota editorial que explique: la fuente utilizada, los criterios de transcripción, las soluciones adoptadas para pasajes ambiguos y las desviaciones respecto al original #frase_revisar_opencode (corrección: Griffiths, en su edición Urtext de Narváez, documenta en notas a pie de página cada intervención editorial; el proyecto E-LAUTE exige que toda edición indique la fuente, los criterios de transcripción y las desviaciones. Esta es la práctica estándar en musicología #frase_revisar_opencode #comprobado)
+
 - **Visión histórica de las transcripciones**:
   - Durante la **primera mitad del siglo XX** hubo gran interés por la música antigua.
   - Importantes editores y transcriptores:
@@ -247,20 +255,20 @@ Estas afinaciones coinciden con las del laúd renacentista.
 # Bibliografía #REVISAR_OPENCODE
 
 - Apel, Willi. 1942. *The Notation of Polyphonic Music, 900–1600*. Cambridge: Mediaeval Academy of America.
-- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Editorial.
+- Bermudo, Juan. 1555. *Declaración de instrumentos musicales*. Osuna: Juan de León.
 - Brown, Howard Mayer. 1976. *Embellishing 16th Century Music*. Oxford: Oxford University Press.
-- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lyra*. Ciudad: Editorial.
-- Koonce, Frank. 2008. *Renaissance Vihuela and Guitar in Sixteenth-Century Spain*. Ciudad: Editorial.
+- Fuenllana, Miguel de. 1981. *Libro de música para vihuela intitulado Orphénica Lira*. Madrid: Ediciones Musicales.
+- Koonce, Frank. 2008. *The Renaissance Vihuela and Guitar in Sixteenth-Century Spain*. Pacific: Mel Bay Publications.
 - Lowinsky, Edward E. 1961. *Tonality and Atonality in 16th Century Music*. Berkeley: University of California Press.
-- Milán, Luys de. 1536. *El Maestro*. Valencia: Editorial.
-- Mudarra, Alonso. 1979. *Tres libros de música en cifra para vihuela*. Ciudad: Editorial.
-- Narváez, Luis de. 1538. *Los Seis Libros del Delphin*. Valladolid: Editorial.
-- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Editorial.
+- Milán, Luys de. 1536. *El Maestro*. Valencia: Francisco Díaz Romano.
+- Mudarra, Alonso. 1979. *Tres libros de música en cifra para vihuela*. Madrid: Ediciones Musicales.
+- Narváez, Luis de. 1538. *Los Seis Libros del Delphin*. Valladolid: Diego Hernández de Córdoba.
+- Ortiz, Diego. 1553. *Trattado de glosas*. Roma: Valerio Dorico.
 - Reese, Gustave. 1954. *Music in the Renaissance*. Nueva York: W. W. Norton.
-- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Editorial.
-- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: Editorial.
+- Santa María, Tomás de. 1565. *Arte de tañer fantasía*. Valladolid: Francisco Fernández de Córdoba.
+- Turnbull, Harvey. 1976. *The Guitar from the Renaissance to the Present Day*. Londres: B. T. Batsford.
 - Tyler, James. 1980. *The Early Guitar*. Oxford: Oxford University Press.
-- Varios autores. 1987. *Actas del Congreso «España en la Música de Occidente»*. Ciudad: Editorial.
+- Varios autores. 1987. *Actas del Congreso «España en la Música de Occidente»*, vol. 1. Madrid: Ministerio de Cultura.
 
 # NOTAS #REVISAR_OPENCODE
 
