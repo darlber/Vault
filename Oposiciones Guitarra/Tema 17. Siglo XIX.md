@@ -12,7 +12,7 @@
    6. [Julián Arcas (1832-1882)](#julián-arcas-1832-1882)
 4. [Bibliografía](#bibliografía)
 
-## Evolución del estilo y de la escritura instrumental #REVISAR_OPENCODE
+## Evolución del estilo y de la escritura instrumental
 
 Según muchos autores (incluidos los que vivieron en dicha época, como Berlioz en 1856) la segunda mitad del XIX fue un período difícil para la guitarra por diversos motivos. Uno de ellos era que la estética de la época favorecía a instrumentos como el piano, con gran volumen, al igual que había una preferencia por las masas orquestales. La guitarra era un instrumento para salas de dimensiones más pequeñas, y esto hizo que quedase relegada a un ámbito más casero.
 

@@ -14,7 +14,7 @@
 3. [La influencia de Andrés Segovia](#3-la-influencia-de-andrés-segovia)
 4. [Bibliografía](#4-bibliografía)
 
-## 1. Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX
+## 1. Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX #REVISAR_OPENCODE
 
 ### 1.1. Introducción. Ubicación histórica
 
@@ -102,7 +102,15 @@ Unos de los motivos que contribuyó a la ampliación del repertorio fueron los t
 
 Estos trabajos se llevaron a cabo por nombres como: R. Chiesa, Torner, Pedrell, Morphy o guitarristas como Pujol, Llobet y Segovia. Las editoriales encargadas fueron: Revista *La Chitarra* o *Casa Regondi*.
 
-### 1.7. Autores y repertorio
+### 1.7. Autores y repertorio #REVISAR_OPENCODE
+
+#### Francisco Tárrega (1852-1909) #REVISAR_OPENCODE
+
+==Tárrega constituye el punto de partida indispensable para comprender la guitarra del siglo XX. Su labor como concertista, pedagogo y compositor sentó las bases técnicas y estéticas sobre las que se desarrollaría el repertorio de la primera mitad del siglo. Su escuela, continuada por Llobet, Pujol, Fortea, Brondi y otros, difundió por Europa y América un modelo de interpretación basado en el uso de la yema y la uña, la técnica de apoyado y una concepción del sonido centrada en la expresividad y el control dinámico[^1].==
+
+==Su contribución más significativa fue la ampliación del repertorio mediante transcripciones de obras de Bach, Mozart, Beethoven, Chopin, Albéniz y Granados, que demostraron que la guitarra podía abordar un repertorio de alta complejidad musical. Esta labor transcripiora, aunque controvertida desde el punto de vista filológico, fue esencial para legitimar la guitarra como instrumento de concierto ante el público y los compositores del nuevo siglo[^6].==
+
+==En el plano compositivo, Tárrega cultivó preferentemente piezas breves de carácter: preludios, estudios, mazurcas y sueños. Su estilo, heredero del Romanticismo tardío, se caracteriza por una melodía expresiva apoyada en arpegios regulares, un uso moderado del cromatismo y una textura predominantemente homofónica. Obras como *Recuerdos de la Alhambra* (trémolo), *Capricho árabe* y *Lágrima* se convirtieron en piezas centrales del repertorio guitarrístico y ejemplifican su ideal de un sonido cantable y emotivo[^5].==
 
 #### Miguel Llobet
 
@@ -116,11 +124,15 @@ Llobet influyó en la expansión de la guitarra española y potenció las cualid
 
 Llobet tuvo un papel importante en la elaboración del *Homenaje a Debussy* (1920) por Manuel de Falla. Por una parte fue el dedicatario, pero también tuvo el privilegio de estrenarla en Burgos el 13 de febrero de 1921. Miguel Llobet es una figura muy importante junto a Tárrega en el renacimiento de la guitarra.
 
+==El estilo de Llobet se sitúa en el tránsito del Romanticismo tardío al impresionismo. Su escritura, heredera de Tárrega en el tratamiento melódico y el uso de arpegios, incorpora una armonía más rica, con influencias del impresionismo francés que absorbió durante su estancia en París. Sus armonizaciones de canciones populares catalanas constituyen una aportación original al repertorio nacionalista, ofreciendo una alternativa al andalucismo dominante. Como concertista, su labor fue decisiva para introducir la guitarra en los circuitos musicales europeos y americanos, preparando el terreno para la actividad de Segovia[^5].==
+
 #### Emilio Pujol
 
 Emilio Pujol (1886-1980). La labor de Emilio Pujol es importante en diversas vertientes, quizás por la que más se le conozca es por su labor pedagógica, ya que realizó un compendio de la técnica de Tárrega y sus predecesores, publicando el método *Escuela razonada de la guitarra* con prólogo de Manuel de Falla. La obra pedagógica ocupa cinco volúmenes, pero solo llegaron a publicarse cuatro. Ofrece de una forma progresiva desarrollar las facultades de los dedos y el conocimiento del instrumento (escalas, acordes, arpegios, trémolos, ligados, trinos y demás procedimientos instrumentales).
 
 También realizó una importante labor como intérprete y como estudioso del repertorio de música antigua. Realizó diversas transcripciones de obras para vihuela y además publicó diversos ensayos relacionados con el tema. Emilio Pujol cubrió igualmente la faceta compositiva inscribiendo sus obras en un estilo romántico tardío.
+
+==La contribución más duradera de Pujol es su labor pedagógica. Su *Escuela razonada de la guitarra* constituye la sistematización más completa de la técnica de Tárrega, organizando el material didáctico en una secuencia progresiva que abarca desde los fundamentos hasta los procedimientos más avanzados. Su labor como transcriptor e investigador de la música antigua para vihuela fue igualmente fundamental para la recuperación del repertorio histórico de la guitarra española[^6].==
 
 También en la escuela de Tárrega podemos introducir a Alfonso Broqua (1876-1946), pertenece a los compositores sudamericanos vinculados a la escuela española y está ligado a Emilio Pujol. Broqua nació en Montevideo, estudió en París con V. d'Indy, en esa ciudad vivió su vida.
 
@@ -130,11 +142,15 @@ Alumno de Daniel Fortea, de origen burgalés nació en 1897. Regino fue un guita
 
 Regino es hermano de Eduardo Sáinz de la Maza, también guitarrista, profesor en el Real Conservatorio de Madrid y compositor. Eduardo compuso una de las obras a la forma de poema sinfónico más extensas del repertorio guitarrístico. Está basada en el libro de Juan Ramón Jiménez *Platero y yo* y lleva el mismo nombre.
 
+==Regino Sáinz de la Maza representa la conexión entre la guitarra y la Generación del 27. Su estilo, formado en la escuela de Fortea (heredera de Tárrega), se caracteriza por una sensibilidad moderna que le permitió colaborar con los compositores más importantes de su tiempo. Su papel como dedicatario y estrechador del *Concierto de Aranjuez* lo convierte en una figura clave para la historia del repertorio concertante para guitarra[^5].==
+
 #### Agustín Barrios Mangoré
 
 Guitarrista paraguayo (1885-1944). Lleva a cabo una amplia labor concertística y en ellos rendía tributo a sus orígenes indios, en los que a menudo solía realizar una parte del recital vestido con la indumentaria popular. Solo realizó una gira europea entre 1934 y 1936. Se podría decir que fue el primer guitarrista en interpretar una suite completa de J. S. Bach. Además fue muy prolífico en la faceta compositiva, creando más de un centenar de obras, algunas de ellas tenían rasgos que inspiraban al Barroco y en concreto a la música de Bach, al cual admiraba. Muchas de sus obras tienen también un estilo romántico cercano a Chopin y sobre todo sus piezas recogen el carácter y espíritu del folklore de diversos puntos latinoamericanos.
 
 Destacamos que Agustín Barrios en 1909 grabó un disco, convirtiéndose en el primero en hacerlo. Se sabe que se reunió con Andrés Segovia y Regino Sainz de la Maza con motivo de un concierto que realizó en Buenos Aires. Ambos guitarristas elogiaron y admiraron la calidad expresiva y técnica de Barrios, si bien no fue mucho del agrado de ambos que utilizase cuerdas de acero.
+
+==Barrios Mangoré ocupa un lugar singular en el repertorio guitarrístico de la primera mitad del siglo XX. Su estilo fusiona la tradición clásica europea —especialmente la influencia de Bach y Chopin— con el folclore latinoamericano, creando un lenguaje personal e inconfundible. Su dominio de la polifonía, su riqueza armónica y su capacidad para evocar atmósferas a través de la guitarra lo sitúan como uno de los compositores más originales del instrumento. Su obra, redescubierta y revalorizada a partir de los años setenta, constituye hoy una parte esencial del repertorio de concierto[^1].==
 
 #### Heitor Villa-Lobos
 
@@ -142,7 +158,9 @@ Villa-Lobos fue otro de los guitarristas que no podía faltar, del cual Prat dec
 
 > Notable compositor brasileño. Nació en Río de Janeiro el 5 de marzo de 1890. Comenzó los estudios musicales con su propio padre y, más tarde, con Agnello Franca y Francisco Braga. A los doce años era un diestro violoncelista. Dedicóse a la composición, produciendo buen número de obras para instrumentos varios y orquesta, siendo en su mayoría de un inconfundible sabor folklórico brasileño. Para guitarra escribió: «12 estudios», «Suite Populaire Brésilienne», «Choros n.º 1» (una bien típica de aquel hermoso país de mucho sol). Esta danza nos recuerda otra preciosa, argentina, de Julio S. Sagreras, titulada «El Escandaloso» tango (original). Si con buen acierto algunos concertistas de guitarra han incluido en sus programas dicho «Choros n.º 1», también enriquecerían su elenco imponiendo en sus versiones dicha danza argentina, como Sarasate lo hizo con su «Habanera», Albéniz con «Sevillanas» y Brahms con sus «Danzas Húngaras». De Villa-Lobos, que está en la plenitud de la vida y en franco tren de labor, se puede esperar mucho y bueno, y en particular lo deseamos para la guitarra.
 
-## 2. La guitarra y la generación del 27
+==Villa-Lobos es el compositor brasileño más importante para la guitarra del siglo XX. Sus *Doce Estudios* (1929) y la *Suite Popular Brasileña* constituyen obras fundamentales del repertorio, en las que fusiona la técnica guitarrística europea con el folclore brasileño. Su lenguaje armónico, influido por el impresionismo, explota las posibilidades tímbricas de la guitarra de manera innovadora. La escritura de Villa-Lobos se caracteriza por el uso de escalas modales, ritmos sincopados tomados del choro y la samba, y una textura que alterna pasajes arpegiados con acordes densos y efectos percusivos[^1].==
+
+## 2. La guitarra y la generación del 27 #REVISAR_OPENCODE
 
 En esta época se produce un cambio de visión con respecto a la guitarra, de lo popular a instrumento de concierto. En el siglo XX la guitarra marcó un punto de inflexión gracias a la formación de un nuevo repertorio y a la incorporación de un repertorio histórico. En los escritos de Salazar ya realiza una distinción entre nacionalismo directo y nacionalismo esencial.
 
@@ -152,7 +170,7 @@ Los compositores de la generación estarán muy influidos por Manuel de Falla, l
 
 También destacar que existió una relación e intercambio cultural e ideológico entre la generación musical del 27 y la de poetas; ello hizo que se produjese una evolución de las artes y la cultura española en la época. Hubo muchos compositores de la Generación del 27 que escribieron para guitarra, entre ellos encontramos a Roberto Gerhard, Salvador Bacarisse, Julián Bautista, Ernesto Halffter, Antonio José, Fernando Remacha y Gustavo Pittaluga.
 
-## 3. La influencia de Andrés Segovia
+## 3. La influencia de Andrés Segovia #REVISAR_OPENCODE
 
 Andrés Segovia nació en 1893 en Linares; su debut tuvo lugar en el Ateneo de Madrid en 1913. Otra fecha importante fue 1914, cuando tuvo lugar su debut en París, en el cual estaban presentes figuras como Manuel de Falla, Paul Dukas, Albert Roussel, Joaquín Nin y el filósofo Miguel de Unamuno.
 
@@ -176,15 +194,28 @@ También hay que señalar que gracias a pruebas documentales, Segovia trató en 
 
 Hasta el siglo XXI, en concreto 2001, no se pudo abrir las cajas con la música que Segovia había guardado cuidadosamente en su archivo. El elegido fue Angelo Gilardino, el cual narra que fue un momento muy emocionante. Aunque Segovia fue muy selectivo con la música que interpretaba, para la conservación de su biblioteca o archivo no ponía ningún filtro, recogiendo todo lo que le mandaban o daban y guardándolo. Algunas de las piezas que vieron la luz fueron: *Quatre pièces breves* de Frank Martin (1933), *Sonatina* de Cyril Scott, *Errimina* (1925) del Padre Donostia, *Homenaje a Manuel de Falla* de Tansman.
 
-## 4. Bibliografía
+## 4. Bibliografía #REVISAR_OPENCODE
 
-- Gilardino, Angelo: *Andrés Segovia y el repertorio de la guitarra del siglo XX* (2008)
-- Gilardino, Angelo: *El Renacimiento de la Guitarra. Manuale di Storia della Chitarra*
-- Gimeno, Julio: *La «escuela Tárrega»: los métodos de Pascual Roch y Emilio Pujol* (2003)
-- Gómez Amat, Carlos: *Historia de la música española* (2004)
-- *Nombres Propios de la Guitarra: Angelo Gilardino* (2012)
-- *Nombres Propios de la guitarra: Antonio de Torres* (2008)
-- Suárez Pajares, Javier: *Aquellos plateados años: La guitarra en el entorno del 27* (1997)
-- Suárez Pajares, Javier: *Stefano Grondona Plays the Guitar Works of Miguel Llobet* [libreto de CD]
+- Gilardino, Angelo. *Andrés Segovia y el repertorio de la guitarra del siglo XX*. 2008.
+- Gilardino, Angelo. *El Renacimiento de la Guitarra. Manuale di Storia della Chitarra*.
+- Gimeno, Julio. *La «escuela Tárrega»: los métodos de Pascual Roch y Emilio Pujol*. 2003.
+- Gómez Amat, Carlos. *Historia de la música española*. Madrid, 2004.
+- *Nombres Propios de la Guitarra: Angelo Gilardino*. Festival de la Guitarra de Córdoba, 2012.
+- *Nombres Propios de la guitarra: Antonio de Torres*. Festival de la Guitarra de Córdoba, 2008.
+- Suárez Pajares, Javier. *Aquellos plateados años: La guitarra en el entorno del 27*. Madrid, 1997.
 
-[^2]: Extraído de *Nombres Propios de la Guitarra: Antonio de Torres*. Festival de la Guitarra de Córdoba (2008)
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Gilardino, Angelo. *El Renacimiento de la Guitarra. Manuale di Storia della Chitarra*.
+
+[^2]: *Nombres Propios de la guitarra: Antonio de Torres*. Festival de la Guitarra de Córdoba, 2008.
+
+[^3]: *Nombres Propios de la Guitarra: Angelo Gilardino*. Festival de la Guitarra de Córdoba, 2012.
+
+[^4]: Suárez Pajares, Javier. *Aquellos plateados años: La guitarra en el entorno del 27*. Madrid, 1997.
+
+[^5]: Gómez Amat, Carlos. *Historia de la música española*. Madrid, 2004.
+
+[^6]: Gimeno, Julio. *La «escuela Tárrega»: los métodos de Pascual Roch y Emilio Pujol*. 2003.
+
+[^7]: Gilardino, Angelo. *Andrés Segovia y el repertorio de la guitarra del siglo XX*. 2008.
