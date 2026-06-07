@@ -14,7 +14,7 @@
 3. [La influencia de Andrés Segovia](#3-la-influencia-de-andrés-segovia)
 4. [Bibliografía](#4-bibliografía)
 
-## 1. Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX #REVISAR_OPENCODE
+## 1. Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX 
 
 ### 1.1. Introducción. Ubicación histórica
 
