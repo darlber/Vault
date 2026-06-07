@@ -277,17 +277,13 @@ Escribió mucha música para guitarra sola y música de cámara, además de un m
 
 [^8]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
 
-[^9]: Gruenfield, John. *Paganini: A Biography*. London: Chappell, 1969.
+[^10]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
 
-[^10]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+[^11]: Timofeyev, Vitalyevich. *The Golden Age of the Russian Guitar: Repertoire, Performance Practice, and Social Function of the Russian Seven-string Guitar Music; 1800-1850*. 1999.
 
-[^11]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
+[^12]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
 
-[^12]: Koczorowski, S. P. *Jan Nepomucen Bobrowicz*. Leipzig: Breitkopf & Härtel, 1938.
-
-[^13]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
-
-[^14]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+[^13]: Denis, Françoise-Emmanuelle. «Comentario de Mertz; Manjón, Regondi, Coste, Broca». En *Il Fronimo*, n.º 56. Milán: Edizioni Suvini Zerboni, 1986.
 
 [^15]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
 
