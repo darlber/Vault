@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc1006d2cf17b6de",
+        "id": "8ef94fce3d2ff433",
         "type": "tabs",
         "children": [
           {
-            "id": "a35c21abf5b5d6a2",
+            "id": "d36c1557fdb65d59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
+                "bFile": "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Tema 06. La técnica moderna de la guitarra"
+              "icon": "diff",
+              "title": "Diff: Tema 06. La técnica moderna de la guitarra  (Working Tree)"
             }
           }
         ]
@@ -133,13 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 06. La técnica moderna de la guitarra"
+              "title": "Outline"
             }
           },
           {
@@ -209,9 +207,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a35c21abf5b5d6a2",
+  "active": "d36c1557fdb65d59",
   "lastOpenFiles": [
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
+    "Oposiciones Guitarra/0. Temas Oposiciones.md",
     "Oposiciones Guitarra/Tema 16. Escuelas no españolas.md",
     "Oposiciones Guitarra/Tema 16.md",
     "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
@@ -236,7 +235,6 @@
     "Oposiciones Guitarra/Tema 13. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco.md",
     "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
     "OSINT.md",
-    "osint_ct.md",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
