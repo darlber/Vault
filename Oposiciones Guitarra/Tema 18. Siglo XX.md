@@ -1,4 +1,4 @@
-# Tema 18. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX. La influencia de A. Segovia
+# Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX. La influencia de A. Segovia
 
 ## Índice
 

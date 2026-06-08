@@ -1,4 +1,4 @@
-# Tema 21. La práctica de grupo en las enseñanzas profesionales. Programación de las actividades colectivas en este nivel: repertorio, conceptos relativos al lenguaje musical, técnica de interpretación en grupo, audición, improvisación y otros aspectos.
+# La práctica de grupo en las enseñanzas profesionales. Programación de las actividades colectivas en este nivel: repertorio, conceptos relativos al lenguaje musical, técnica de interpretación en grupo, audición, improvisación y otros aspectos.
 
 ## Índice
 
