@@ -310,7 +310,7 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 - Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
 - Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
 
-## NOTAS #REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
 
