@@ -18,11 +18,11 @@
 
 ## Justificación y organización de la asignatura de música de cámara
 
-El Real Decreto 1577/2006 por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música justifica y regula la presencia de la música de cámara en los conservatorios españoles[^1]. En este texto la Música de Cámara tiene la consideración de «Asignatura propia de la especialidad».
+El Real Decreto 1577/2006 por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música justifica y regula la presencia de la música de cámara en los conservatorios españoles[^5]. En este texto la Música de Cámara tiene la consideración de «Asignatura propia de la especialidad».
 
 De manera general en todo el territorio español, como mínimo, las Comunidades Autónomas deben establecer en sus decretos autonómicos 340 horas para las asignaturas de conjunto (Orquesta/banda/música de cámara) especificando que la Música de cámara se impartirá un mínimo de dos cursos académicos. A partir de aquí, las CCAA han programado cuatro cursos de Música de Cámara en las enseñanzas profesionales de música, en los cursos que van de tercero a sexto con una hora semanal de clase.
 
-Respecto a la atribución docente, el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas encarga la impartición de la asignatura de música de cámara al profesorado de las diferentes especialidades instrumentales[^2]. Esta decisión es una consecuencia lógica después de la desaparición de la Música de Cámara como especialidad y también de la supresión del título de Profesor Superior de Música de Cámara que aparecía en el artículo once del Decreto 2618/1966 de 10 de Septiembre sobre Reglamentación general de los Conservatorios de Música[^3].
+Respecto a la atribución docente, el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas encarga la impartición de la asignatura de música de cámara al profesorado de las diferentes especialidades instrumentales[^4]. Esta decisión es una consecuencia lógica después de la desaparición de la Música de Cámara como especialidad y también de la supresión del título de Profesor Superior de Música de Cámara que aparecía en el artículo once del Decreto 2618/1966 de 10 de Septiembre sobre Reglamentación general de los Conservatorios de Música[^2].
 
 Por este motivo cualquier profesor de instrumento puede impartir la asignatura de música de cámara a cualquier alumno de cualquier especialidad instrumental. Esto nos obliga a formarnos adecuadamente para ejercer esta atribución con la máxima calidad y formación.
 
@@ -86,7 +86,7 @@ Es importante conocer todos estos aspectos curriculares básicos para entender y
 
 ==## Competencias clave y marco curricular #REVISAR_OPENCODE==
 
-==La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)[^4], consolida el enfoque competencial del currículo. Aunque las enseñanzas profesionales de música mantienen su estructura en asignaturas, la programación de Música de Cámara debe integrar explícitamente las competencias clave. La competencia en comunicación lingüística se desarrolla mediante el vocabulario técnico específico y la argumentación crítica sobre las decisiones interpretativas; la competencia social y cívica se fomenta en la interacción del grupo, el respeto por los turnos de intervención y la responsabilidad compartida; la conciencia y expresión culturales se amplía a través del contacto directo con el repertorio camerístico de todas las épocas; y la competencia digital se integra mediante el uso de aplicaciones de edición de partituras, grabación y difusión de las interpretaciones[^5].==
+==La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)[^3], consolida el enfoque competencial del currículo. Aunque las enseñanzas profesionales de música mantienen su estructura en asignaturas, la programación de Música de Cámara debe integrar explícitamente las competencias clave. La competencia en comunicación lingüística se desarrolla mediante el vocabulario técnico específico y la argumentación crítica sobre las decisiones interpretativas; la competencia social y cívica se fomenta en la interacción del grupo, el respeto por los turnos de intervención y la responsabilidad compartida; la conciencia y expresión culturales se amplía a través del contacto directo con el repertorio camerístico de todas las épocas; y la competencia digital se integra mediante el uso de aplicaciones de edición de partituras, grabación y difusión de las interpretaciones[^1].==
 
 ==La práctica camerística, por su carácter autogestionado (ausencia de director), desarrolla de manera especialmente intensa la competencia de aprender a aprender —el alumno debe planificar su estudio en función del grupo— y el sentido de iniciativa y espíritu emprendedor, al tener que tomar decisiones interpretativas en tiempo real. La programación de la asignatura debe reflejar estas competencias en los objetivos, contenidos y criterios de evaluación de cada curso.==
 
@@ -336,7 +336,7 @@ Las actividades de evaluación a desarrollar: realización de una prueba inicial
 
 ==## Atención a la diversidad en la clase de Música de Cámara #REVISAR_OPENCODE==
 
-==La heterogeneidad es inherente a la asignatura de Música de Cámara, donde confluyen alumnos de diferentes especialidades instrumentales, niveles técnicos dispares y ritmos de aprendizaje variados. El profesor debe planificar agrupamientos flexibles que permitan la participación activa de todos: en un quinteto de viento, por ejemplo, la parte de flauta puede presentar una dificultad superior a la de trompa, de modo que cada alumno sea exigido en función de su nivel real. Las adaptaciones curriculares no significativas —simplificación de pasajes, redistribución de voces, uso de transcripciones— son herramientas legítimas siempre que no desvirtúen el resultado musical del conjunto[^5].==
+==La heterogeneidad es inherente a la asignatura de Música de Cámara, donde confluyen alumnos de diferentes especialidades instrumentales, niveles técnicos dispares y ritmos de aprendizaje variados. El profesor debe planificar agrupamientos flexibles que permitan la participación activa de todos: en un quinteto de viento, por ejemplo, la parte de flauta puede presentar una dificultad superior a la de trompa, de modo que cada alumno sea exigido en función de su nivel real. Las adaptaciones curriculares no significativas —simplificación de pasajes, redistribución de voces, uso de transcripciones— son herramientas legítimas siempre que no desvirtúen el resultado musical del conjunto[^1].==
 
 ==La tutoría entre iguales adquiere en Música de Cámara una dimensión especialmente productiva. Los alumnos de cursos superiores pueden actuar como concertinos del grupo, guiando la afinación, las entradas y los gestos de coordinación. Esta práctica no solo beneficia al grupo, sino que refuerza la comprensión del alumno tutor al tener que explicar y demostrar los conceptos. El profesor debe supervisar estas dinámicas y asegurarse de que no se conviertan en relaciones de dependencia.==
 
@@ -377,24 +377,22 @@ Es necesario, entonces, tener un conocimiento adecuado de los distintos tipos de
 
 Solo desde esta comprensión global se podrá llevar a cabo la impartición de esta asignatura que constituirá el ensayo de una de las principales actividades que los alumnos tendrán que realizar como músicos en el futuro: interpretar música en grupo.
 
-## NOTAS #REVISAR_OPENCODE
-
-[^1]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
-
-[^2]: Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas. *BOE* n.º 143, de 15 de junio de 2013.
-
-[^3]: Decreto 2618/1966, de 10 de septiembre, sobre Reglamentación general de los Conservatorios de Música. *BOE* n.º 237, de 4 de octubre de 1966.
-
-[^4]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
-
-[^5]: Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
-
 ## Bibliografía #REVISAR_OPENCODE
 
 - Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
-- Franchefort, F. R. *Guía de la música de cámara*. Madrid: Alianza Editorial, 1992.
-- Gómez Albaladejo, José Antonio y Manuel Nicolás Carrillo. *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Murcia: Master Oposiciones, 1999.
-- Payas Magraner, Javier. *Programación didáctica*. Manuscrito del autor, [s. a.].
-- Pliego de Andrés, Víctor. *Temas pedagógicos para la oposición de conservatorios*. Madrid: Musicalis, 1998.
+- Decreto 2618/1966, de 10 de septiembre, sobre Reglamentación general de los Conservatorios de Música. *BOE* n.º 237, de 4 de octubre de 1966.
+- Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
+- Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas. *BOE* n.º 143, de 15 de junio de 2013.
 - Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
-- Sanjosé Huguet, Vicente. *Didáctica de la expresión musical para maestros*. Valencia: Piles, 1997.
+
+## NOTAS #REVISAR_OPENCODE
+
+[^1]: Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
+
+[^2]: Decreto 2618/1966, de 10 de septiembre, sobre Reglamentación general de los Conservatorios de Música. *BOE* n.º 237, de 4 de octubre de 1966.
+
+[^3]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
+
+[^4]: Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas. *BOE* n.º 143, de 15 de junio de 2013.
+
+[^5]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
