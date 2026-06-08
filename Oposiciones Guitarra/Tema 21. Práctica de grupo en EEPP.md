@@ -21,7 +21,7 @@
 
 ## La práctica de grupo en las enseñanzas profesionales
 
-==### Justificación de las asignaturas instrumentales colectivas en las enseñanzas profesionales #REVISAR_OPENCODE==
+==### Justificación de las asignaturas instrumentales colectivas en las enseñanzas profesionales #REVISAR_OPENCODE 
 
 ==El marco legal de las enseñanzas profesionales de música viene determinado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)[^1], cuyo desarrollo reglamentario se concreta en el Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música[^2]. La posterior Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)[^3], mantiene la estructura básica de las enseñanzas profesionales y refuerza el enfoque competencial del currículo. Sobre esta base, cada comunidad autónoma ha dictado sus propios decretos de currículo, que concretan la organización de las materias instrumentales colectivas.==
 
@@ -41,7 +41,7 @@ La necesidad de seguir las indicaciones del director durante la ejecución induc
 
 El desarrollo de la orquesta como asignatura de las enseñanzas profesionales con una duración de seis años permite al alumnado la adquisición de importantes competencias y que la conciliación y el perfeccionamiento del alumno adquieran los niveles adecuados que reclaman sus objetivos y contenidos, atendiendo a los tres ciclos que se perfilan en ellos: la técnica de interpretación en grupo, la práctica orquestal y la estética de la interpretación.
 
-==### Competencias clave y marco curricular #REVISAR_OPENCODE==
+### Competencias clave y marco curricular #REVISAR_OPENCODE 
 
 ==La LOMLOE[^3] consolida el enfoque competencial del currículo, que en las enseñanzas profesionales de música se traduce en la integración de las competencias clave a través de las materias instrumentales colectivas. La competencia en comunicación lingüística se desarrolla mediante la terminología técnica específica y la argumentación crítica sobre las versiones interpretativas; la competencia social y cívica se despliega en la disciplina orquestal, el respeto al director y la responsabilidad compartida en el resultado sonoro; la conciencia y expresión culturales se amplía mediante el contacto con el repertorio sinfónico y camerístico de todas las épocas; y la competencia digital se integra a través del uso de programas de edición de partituras, grabación y difusión de las producciones del conjunto[^5].==
 
@@ -94,7 +94,7 @@ También la audición y análisis de grabaciones y otros aspectos técnicos del 
 
 Estas decisiones deben formar parte de los Proyectos Educativos de los Centros y de las Programaciones Generales. Los centros gozan de una autonomía, reconocida en las normas, para adecuar sus programaciones a la realidad del entorno y las necesidades musicales de sus alumnos. Es necesaria una cierta flexibilidad para organizar actividades extraescolares y complementarias. Es pues decisión de los equipos docentes abordar de manera conjunta y programar la práctica de grupo en las enseñanzas profesionales.
 
-==### Atención a la diversidad en las enseñanzas profesionales #REVISAR_OPENCODE==
+### Atención a la diversidad en las enseñanzas profesionales #REVISAR_OPENCODE
 
 ==En las enseñanzas profesionales, la diversidad del alumnado se manifiesta no solo en el nivel técnico, sino también en los intereses artísticos, la experiencia previa en agrupaciones y las expectativas de futuro (orientación hacia la interpretación, la docencia o la musicología). La clase de orquesta y música de cámara debe dar respuesta a esta heterogeneidad mediante agrupamientos flexibles dentro de la misma asignatura: secciones de cuerda, viento y percusión pueden trabajar por separado pasajes de diferente dificultad antes de la reunión del tutti. Asimismo, la selección del repertorio debe incluir obras que contengan partes de distinto nivel de exigencia, de modo que cada alumno pueda contribuir al resultado colectivo desde su capacidad real[^5].==
 
@@ -233,7 +233,7 @@ Respecto al trabajo melódico podemos plantear a modo de ejemplo las siguientes 
 
 Las clases de orquesta y música de cámara nos permiten también interpretar piezas y obras donde existen elementos de improvisación como en la música aleatoria y lenguajes del jazz. Todo este repertorio redundará en la mejora integral de la educación del alumnado.
 
-==#### Evaluación #REVISAR_OPENCODE==
+#### Evaluación #REVISAR_OPENCODE
 
 ==La evaluación en las enseñanzas profesionales debe ser continua, formativa e integradora, contemplando tanto el progreso individual del alumno como su contribución al conjunto. Los criterios de evaluación han de incluir la capacidad de lectura a primera vista, la afinación en el contexto grupal, la adecuación de la dinámica y la articulación a las indicaciones del director, la responsabilidad en el estudio individual de las particellas y la actitud durante los ensayos y conciertos.==
 
@@ -284,7 +284,7 @@ c) La heteroevaluación: los profesores evalúan a los alumnos: el sentido de di
 - Recursos bibliográficos: las partituras de la obra y particellas, ediciones diferentes y bibliografía sobre el compositor, época y estilo de la obra interpretada.
 - Material audiovisual: equipo de sonido HI-FI, equipo reproductor, CD's, MC's, etc.
 
-==### Transición a las enseñanzas superiores #REVISAR_OPENCODE==
+### Transición a las enseñanzas superiores #REVISAR_OPENCODE
 
 ==Las enseñanzas profesionales constituyen la antesala de los estudios superiores de música, ya sea en el ámbito académico (Grado en Interpretación, Pedagogía o Musicología) o en el profesional (orquestas, agrupaciones de cámara, docencia). Por ello, la programación de las actividades colectivas en este nivel debe preparar al alumno para las exigencias de la etapa superior. En el plano técnico, el alumno debe alcanzar un dominio suficiente de la lectura a primera vista que le permita integrarse en una orquesta o grupo de cámara con un tiempo de preparación mínimo; en el plano interpretativo, debe desarrollar un criterio estético propio que le permita tomar decisiones musicales fundamentadas; y en el plano actitudinal, debe interiorizar la disciplina de trabajo que exige el calendario de ensayos y conciertos de una agrupación profesional.==
 

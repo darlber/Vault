@@ -15,11 +15,11 @@
 
 ## Justificación y organización de la asignatura de música de cámara
 
-El Real Decreto 1577/2006 por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música justifica y regula la presencia de la música de cámara en los conservatorios españoles. En este texto la Música de Cámara tiene la consideración de «Asignatura propia de la especialidad».
+El Real Decreto 1577/2006 por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música justifica y regula la presencia de la música de cámara en los conservatorios españoles[^1]. En este texto la Música de Cámara tiene la consideración de «Asignatura propia de la especialidad».
 
 De manera general en todo el territorio español, como mínimo, las Comunidades Autónomas deben establecer en sus decretos autonómicos 340 horas para las asignaturas de conjunto (Orquesta/banda/música de cámara) especificando que la Música de cámara se impartirá un mínimo de dos cursos académicos. A partir de aquí, las CCAA han programado cuatro cursos de Música de Cámara en las enseñanzas profesionales de música, en los cursos que van de tercero a sexto con una hora semanal de clase.
 
-Respecto a la atribución docente, el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas encarga la impartición de la asignatura de música de cámara al profesorado de las diferentes especialidades instrumentales. Esta decisión es una consecuencia lógica después de la desaparición de la Música de Cámara como especialidad y también de la supresión del título de Profesor Superior de Música de Cámara que aparecía en el artículo once del Decreto 2618/1966 de 10 de Septiembre sobre Reglamentación general de los Conservatorios de Música.
+Respecto a la atribución docente, el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas encarga la impartición de la asignatura de música de cámara al profesorado de las diferentes especialidades instrumentales[^2]. Esta decisión es una consecuencia lógica después de la desaparición de la Música de Cámara como especialidad y también de la supresión del título de Profesor Superior de Música de Cámara que aparecía en el artículo once del Decreto 2618/1966 de 10 de Septiembre sobre Reglamentación general de los Conservatorios de Música[^3].
 
 Por este motivo cualquier profesor de instrumento puede impartir la asignatura de música de cámara a cualquier alumno de cualquier especialidad instrumental. Esto nos obliga a formarnos adecuadamente para ejercer esta atribución con la máxima calidad y formación.
 
@@ -80,6 +80,12 @@ d) Conocer y realizar los gestos básicos que permitan la interpretación coordi
 6. Interpretación pública de una obra contemporánea con formación instrumental heterogénea. Mediante este criterio se pretende comprobar el grado de comprensión del lenguaje contemporáneo, el conocimiento de efectos y grafías, así como el equilibrio sonoro dentro de un conjunto de instrumentos de morfologías diversas y poco habituales.
 
 Es importante conocer todos estos aspectos curriculares básicos para entender y programar de manera adecuada la asignatura de música de cámara, y no olvidemos que con la atribución docente asignada, los profesores de instrumento pueden ser los responsables de impartir la asignatura de Música de Cámara a alumnado de cuerda, viento/metal, viento/madera, piano, percusión, etc.
+
+==### Competencias clave y marco curricular #REVISAR_OPENCODE==
+
+==La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)[^4], consolida el enfoque competencial del currículo. Aunque las enseñanzas profesionales de música mantienen su estructura en asignaturas, la programación de Música de Cámara debe integrar explícitamente las competencias clave. La competencia en comunicación lingüística se desarrolla mediante el vocabulario técnico específico y la argumentación crítica sobre las decisiones interpretativas; la competencia social y cívica se fomenta en la interacción del grupo, el respeto por los turnos de intervención y la responsabilidad compartida; la conciencia y expresión culturales se amplía a través del contacto directo con el repertorio camerístico de todas las épocas; y la competencia digital se integra mediante el uso de aplicaciones de edición de partituras, grabación y difusión de las interpretaciones[^5].==
+
+==La práctica camerística, por su carácter autogestionado (ausencia de director), desarrolla de manera especialmente intensa la competencia de aprender a aprender —el alumno debe planificar su estudio en función del grupo— y el sentido de iniciativa y espíritu emprendedor, al tener que tomar decisiones interpretativas en tiempo real. La programación de la asignatura debe reflejar estas competencias en los objetivos, contenidos y criterios de evaluación de cada curso.==
 
 ## La programación didáctica: objetivos, contenidos, repertorio, recursos y evaluación
 
