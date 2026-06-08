@@ -144,6 +144,17 @@
 - Es necesario superar prácticas del pasado como el excesivo individualismo
 - La interdisciplinariedad y la transdisciplinariedad son irrenunciables para propiciar aprendizajes más funcionales, significativos, holísticos e integrados
 
+## 7. Bibliografía #REVISAR_OPENCODE
+
+- Cano, Elena. *Cómo mejorar las competencias de los docentes*. Barcelona: Graó, 2005.
+- Cook McNeil, L. O. «La Educación artística: vía fundamental para la educación estética». *Opuntia Brava* 4, n.º 3 (2003): 45–52.
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). *BOE*, 4 de mayo de 2006.
+- Perrenoud, Philippe. *Diez nuevas competencias para enseñar*. Barcelona: Graó, 2000.
+- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
+- *Revista Eufonía*, n.º 41, «Competencias en educación musical» (2007).
+- Roche, Elisa. «El profesor artista». En *La enseñanza musical: reflexiones y propuestas*, 67–84. Madrid: Música y Educación, 1990.
+- Torres Santomé, Jurjo. *Globalización e interdisciplinariedad: el currículo integral*. Madrid: Morata, 1994.
+
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: Cano, Elena. *Cómo mejorar las competencias de los docentes*. Barcelona: Graó, 2005.
@@ -161,14 +172,3 @@
 [^7]: Roche, Elisa. «El profesor artista». En *La enseñanza musical: reflexiones y propuestas*, 67–84. Madrid: Música y Educación, 1990.
 
 [^8]: Torres Santomé, Jurjo. *Globalización e interdisciplinariedad: el currículo integral*. Madrid: Morata, 1994.
-
-## 7. Bibliografía #REVISAR_OPENCODE
-
-- Cano, Elena. *Cómo mejorar las competencias de los docentes*. Barcelona: Graó, 2005.
-- Cook McNeil, L. O. «La Educación artística: vía fundamental para la educación estética». *Opuntia Brava* 4, n.º 3 (2003): 45–52.
-- Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). *BOE*, 4 de mayo de 2006.
-- Perrenoud, Philippe. *Diez nuevas competencias para enseñar*. Barcelona: Graó, 2000.
-- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
-- *Revista Eufonía*, n.º 41, «Competencias en educación musical» (2007).
-- Roche, Elisa. «El profesor artista». En *La enseñanza musical: reflexiones y propuestas*, 67–84. Madrid: Música y Educación, 1990.
-- Torres Santomé, Jurjo. *Globalización e interdisciplinariedad: el currículo integral*. Madrid: Morata, 1994.

@@ -18,7 +18,8 @@
    - [4.6. Recursos de audio y vídeo](#46-recursos-de-audio-y-vídeo)
    - [4.7. Recursos de internet relacionados con el clarinete (a modo de ejemplo)](#47-recursos-de-internet-relacionados-con-el-clarinete-a-modo-de-ejemplo)
 5. [Conclusiones](#5-conclusiones)
-6. [Bibliografía](#6-bibliografía)
+6. [NOTAS](#6-notas)
+7. [Bibliografía](#7-bibliografía)
 
 ## 1. Introducción
 
@@ -54,7 +55,7 @@
 - Solo necesitamos iniciativa, imaginación y creatividad para expresarse libremente por medio de la música. Al ser trabajo colectivo, favorecemos el desarrollo de habilidades de cooperación y la necesidad de apreciar las contribuciones de los demás
 - Las nuevas tecnologías aplicadas al consumo musical ofrecen al alumnado la posibilidad de conocer y valorar la diversidad musical a su disposición a través de Internet, capacitándoles para ser autónomos en la selección musical
 
-## 2. Metodologías TIC
+## 2. Metodologías TIC #REVISAR_OPENCODE
 
 - Las metodologías y planes curriculares están centrados en el alumno, pero los alumnos han cambiado rápidamente y no nos hemos adaptado a ellos
 - Los estudiantes construyen su identidad con recursos propios de la cultura digital: son multitarea, viven en línea, buscan resultados inmediatos y aprenden por ensayo-error
@@ -64,9 +65,11 @@
   - **EVA (Entorno Virtual de Aprendizaje) / VLE (Virtual Learning Environment)**: espacio educativo alojado en la web con herramientas informáticas que posibilitan la interacción didáctica entre profesor y alumnos. Espacios con acceso restringido donde el profesor dispone materiales e interactúa con los alumnos a través de actividades, chats, etc.
   - **MOOC (Massive Open Online Course)**: cursos en línea de acceso libre y gratuito dirigidos a un amplio número de participantes. Permiten el acceso masivo de estudiantes de todo el mundo sin requisitos previos. Desarrollados completamente en línea, utilizando audio, texto, vídeo, animación e interacción asíncrona o síncrona entre alumnos y profesores
 
+==**Aplicaciones TIC en el aula de guitarra:** (a) **Flipped Classroom** — el profesor graba en vídeo la explicación de un pasaje técnico (p. ej., colocación de la mano derecha para el tremolo) y el alumno lo visualiza en casa; en clase se dedica el tiempo a practicar y corregir individualmente. (b) **EVA** — la plataforma Google Classroom o Moodle del conservatorio alberga los materiales del curso: partituras escaneadas, grabaciones de referencia, ejercicios de lectura a primera vista, enlaces a recursos externos. El alumno sube sus grabaciones semanales para que el profesor las evalúe de forma asíncrona. (c) **MOOC** — plataformas como Coursera o edX ofrecen cursos de guitarra clásica y teoría musical que complementan la formación reglada (p. ej., «Guitar Performance» de Berklee). (d) **Aplicaciones móviles** — apps como *Guitar Toolkit* (afinador, metrónomo, diccionario de acordes), *Yousician* (feedback en tiempo real sobre la precisión), *Soundbrenner* (metrónomo visual para ensembles) y *AmpliTube* (simulación de amplificadores y efectos) convierten el móvil en una herramienta pedagógica de primer orden. El profesor puede recomendar apps específicas según el nivel y los objetivos del alumno, integrando su uso en la rutina de estudio diaria[^2].==
+
 ## 3. El uso de las TIC en la educación musical. Campos posibles de aplicación
 
-### 3.1. Los programas de edición de partituras
+### 3.1. Los programas de edición de partituras #REVISAR_OPENCODE
 
 - Un editor de partituras permite al usuario realizar una partitura lo más perfecta posible. Su manejo es similar al de un procesador de texto, pero escribiendo grafías musicales (pentagramas, claves, notas, articulaciones, matices, casillas de repetición, etc.)
 - Los datos se introducen mediante teclado alfanumérico y ratón, o mediante un instrumento MIDI (teclado). También es posible introducir un fichero MIDI para que el editor lo convierta en partitura
@@ -79,6 +82,8 @@
 - Programas de pago profesionales: **Sibelius**, **Finale**, **Encore** — permiten ediciones de alta calidad y complejidad, aunque también pueden usarse para cuestiones sencillas
 - Software libre: **MuseScore** (http://musescore.org)
 - Otros: **Songworks** (asiste la creación con un tutor que ofrece alternativas), **Lilypond** (las notas se escriben en un archivo de texto mediante comandos y se procesa para obtener PDF y MIDI; requiere aprender la sintaxis básica pero permite editar ejercicios y pruebas escritas de forma sencilla)
+
+==**Software específico para guitarra:** (a) **Editores de tablatura** — programas como **TuxGuitar** (libre, multiplataforma) o **Guitar Pro** (de pago) permiten escribir y reproducir música en tablatura y pentagrama simultáneamente, esenciales para el repertorio contemporáneo y popular. El alumno puede introducir una obra, escucharla a diferentes velocidades, aislar voces y modificar la digitación. (b) **Transcripción y análisis** — **Amazing Slow Downer** y **Transcribe!** permiten ralentizar grabaciones sin alterar el tono, facilitando la transcripción de obras complejas y el estudio de pasajes rápidos. (c) **Afinadores y metrónomos** — software como **PitchLab** (afinador cromático visual), **Pro Metronome** o **Soundcorset** ofrecen precisión profesional y funciones avanzadas (polirritmia, subdivisión de pulsos). (d) **Grabación multipista** — con **Audacity** o **GarageBand** el alumno puede grabarse en varias pistas (melodía, acompañamiento, bajo) y analizar su interpretación. (e) **IA aplicada** — herramientas emergentes como **Chordify** (reconocimiento automático de acordes a partir de audio) o **Moises.ai** (separación de pistas con IA) abren posibilidades para el análisis armónico y la práctica de improvisación. El profesor debe seleccionar y recomendar el software más adecuado según el nivel y los objetivos didácticos[^2].==
 
 ### 3.2. Secuenciadores y editores de audio
 
@@ -96,7 +101,7 @@
 ### 4.1. Internet como recurso educativo para el alumnado y el profesorado
 
 - Internet bien utilizado puede convertirse en una fuente inagotable de recursos para la clase de instrumento, permitiendo una manera eficaz y ágil de incrementar las actividades de enseñanza/aprendizaje
-- **Andrea Giráldez** (*Internet y educación musical*) establece los siguientes beneficios:
+- **Andrea Giráldez**[^2] (*Internet y educación musical*) establece los siguientes beneficios:
   - Ampliar los contenidos y conocimientos musicales adquiridos en el aula
   - Ofrecer nuevas alternativas para la interpretación y la composición
   - Posibilitar que los alumnos intercambien ideas musicales y composiciones con otros alumnos (españoles y de otros países) a través de correo electrónico, listas de distribución, webblogs, mensajería instantánea y sitios web especializados
@@ -105,7 +110,7 @@
   - Acceder a sitios educativos y materiales de consulta mediante «cazas del tesoro» y WebQuests
   - Crear y diseñar páginas web para distribuir información y mostrar el trabajo del alumnado
   - Para la clase de instrumento: obtener recursos específicos (partituras, grabaciones, vídeos)
-- **Martin Maglio (1998)** formula tres reflexiones para demostrar que Internet no debe ser una moda sino una herramienta útil:
+- **Martin Maglio (1998)**[^4] formula tres reflexiones para demostrar que Internet no debe ser una moda sino una herramienta útil:
   1. ¿Las actividades propuestas son educativas y se corresponden con las metas que intentamos alcanzar?
   2. ¿El uso de Internet permitirá que el alumnado haga algo que antes no podía hacer?
   3. ¿El uso de Internet permitirá que el alumnado haga algo que podía hacer antes, pero de una manera más eficaz?
@@ -177,28 +182,37 @@
 - **a) Spotify (y similares) como herramienta pedagógica**: representan una potente herramienta educativa y un fondo de recursos sonoros. Colecciones ingentes con disponibilidad total sin tiempos de descarga ni almacenamiento. Permite la organización de actividades de audición al tener acceso a todas las grabaciones de las obras que se interpretan en clase
 - **b) YouTube (y similares) como herramienta pedagógica**: el vídeo, con los adelantos tecnológicos (CD, DVD), se hace cada vez más popular. Proporciona alternativas para favorecer las motivaciones de los alumnos y mejorar el aprendizaje colaborativo. El lenguaje audiovisual es uno de los más utilizados y puede convertirse en un buen método de aprendizaje. El vídeo, por sus posibilidades expresivas, ocasiona un alto grado de motivación. Permite adecuar el ritmo de visualización a las dificultades de comprensión o retención. En YouTube encontramos infinidad de vídeos musicales que mejoran el aprendizaje: obras para el instrumento, información de interés, etc.
 
-### 4.7. Recursos de internet relacionados con el clarinete (a modo de ejemplo)
+### 4.7. Recursos de internet relacionados con la guitarra #REVISAR_OPENCODE
 
-- **Generales**:
-  - The Woodwind Fingering Guide: guía con digitaciones de todos los instrumentos de viento madera (http://www.wfg.woodwind.org)
-  - Definición Wikipedia: http://es.wikipedia.org/wiki/Clarinete
-  - Página con información básica: http://www.el-atril.com/orquesta/instrumentos/Clarinete.html
-  - International Clarinet Association: asociación que aglutina la mayor comunidad de clarinetistas (http://www.clarinet.org)
-  - ADEC (Asociación para el Desarrollo y Estudio del Clarinete): espacio para el intercambio de proyectos, ideas, información y experiencias. Cuenta con una publicación y congreso anual (http://www.adec-clarinete.com)
-- **Partituras**:
-  - IMSLP: obras que utilizan el clarinete (http://imslp.org)
-  - Colección de arreglos para ensemble de clarinetes (http://dichmusik.dk)
-  - Recopilación de partituras en formatos Finale (.mus) y MIDI (http://www.csudh.edu/oliver/clarmusi/clarmusi.htm)
-- **Foros y blogs**:
-  - Clariperú: el clarinete en Latinoamérica (http://www.clariperu.org)
-  - The Clarinet Cache: mayor blog sobre el clarinete (http://www.clarinetcache.com)
-- **Recursos en vídeo**:
-  - Canal YouTube de Clariperú: interpretaciones famosas y vídeos instructivos
-  - Canal de Marco Mazzini: técnicas virtuosas para clarinete (respiración circular, slap tongue)
-  - Masterclass de Chris Richards (London Symphony Orchestra)
-  - «With a pro, Clarinet»: academia online con masterclasses de grandes figuras del clarinete
+==**Generales:**
+- **Guitarraclasicayflamenca.com**: portal en español con partituras, grabaciones, artículos y foro para guitarra clásica y flamenca
+- **Delcamp.net**: comunidad internacional de guitarra clásica con foros activos, partituras gratuitas y encuentros anuales
+- **Guitarristas.info**: portal de referencia en español con noticias, críticas, entrevistas y agenda de conciertos
+- **International Guitar Research Archive (IGRA)**: archivo digital de la California State University con manuscritos y publicaciones sobre guitarra (http://www.csun.edu/igra)
+- **Guitar Foundation of America (GFA)**: asociación que publica la revista *Soundboard*, organiza concursos y ofrece recursos digitales (http://www.guitarfoundation.org)
 
-> Cada aspirante debe personalizar este apartado relacionando los recursos más importantes y específicos sobre su propia especialidad.
+**Partituras:**
+- **IMSLP**: obras para guitarra de Sor, Giuliani, Aguado, Mertz, y transcripciones de obras del Barroco (http://imslp.org)
+- **Mutopia**: partituras libres para guitarra de dominio público (http://www.mutopiaproject.org)
+- **Free-scores.com**: amplia colección de partituras gratuitas para guitarra clásica de todos los niveles
+- **Boije af Gennäs Collection**: archivo digital con más de 700 partituras del s. XIX para guitarra (https://www.muslib.se/boije)
+
+**Foros y blogs:**
+- **Guitarristas.info/foro**: foro activo con secciones de técnica, repertorio, pedagogía y lutería
+- **The Guitarologist (Blog de David Martin)**: artículos sobre pedagogía, técnica e historia de la guitarra
+- **El blog de guitarraclasicayflamenca.com**: recursos didácticos y análisis de obras
+
+**Recursos en vídeo:**
+- **Canal de YouTube de la GFA**: grabaciones de conciertos y concursos
+- **Tone Base (Guitar Salon International)**: demos de guitarras históricas y contemporáneas de luthiers
+- **Canal de Marcin Dylla**: masterclasses y conciertos del guitarrista polaco
+- **Classical Guitar Shed (Allen Mathews)**: vídeos pedagógicos sobre técnica, lectura y repertorio
+- **This is Classical Guitar (Bradford Werner)**: lecciones semanales, partituras descargables y ejercicios técnicos
+
+**Apps y herramientas:**
+- **Guitar Toolkit** (iOS/Android): afinador, metrónomo, acordes y escalas
+- **Yousician** (iOS/Android/PC): tutorial interactivo con feedback en tiempo real
+- **Complete Classical Guitar** (iOS/Android): método progresivo con partituras, ejercicios y grabaciones==
 
 ## 5. Conclusiones
 
@@ -209,15 +223,21 @@
 - Las industrias culturales y musicales han aplicado estas innovaciones desde el primer momento. Los conservatorios deben superar el aislamiento tradicional
 - Los nuevos docentes deben atesorar las competencias necesarias en el manejo de estas nuevas tecnologías. La competencia digital también debe ser adquirida por el alumnado para aumentar sus posibilidades de una vida profesional y personal más fructífera
 
-## 6. Bibliografía
+## 7. Bibliografía #REVISAR_OPENCODE
 
-- Fuertes, C. (1998): «La tecnología informática y la música», en San José Villacorta, C. (coord.): *Tecnologías de la información en la educación*. Madrid. Anaya Multimedia. pp. 257-284
-- Giráldez, A. (2005): *Internet y educación musical*. Barcelona. Graó
-- Lehmann, P. (1993): «Panorama de la educación musical en el mundo», en Hemsy de Gainza, V. (ed.): *La educación musical frente al futuro*. Buenos Aires. Guadalupe. pp. 13-24
-- Ali, Y.; Ganuza, J.L. (1997): *Internet en la educación*. Madrid. Anaya Multimedia
-- Esebag, C.; Martínez, J. (1995): *Guía práctica de Internet*. Madrid. Anaya
-- Busquets, F. (1997): *Aproximació a Internet*. CD-ROM Sinera
-- Meso, K. (1997): *Educación en Internet*. Madrid. Anaya Multimedia
-- Parra, A. (1997): *Música en Internet*. Madrid. Anaya Multimedia
-- Peña, R. (1997): *La educación en internet. Guía para su aplicación en la enseñanza*. Barcelona. Inforbooks Editions
-- Terceiro, J.B. (1996): *Sociedad digital*. Madrid. Alianza Editorial
+- Fuertes, Carlos. «La tecnología informática y la música». En *Tecnologías de la información en la educación*, coordinado por C. San José Villacorta, 257–284. Madrid: Anaya Multimedia, 1998.
+- Giráldez, Andrea. *Internet y educación musical*. Barcelona: Graó, 2005.
+- Lehmann, Paul. «Panorama de la educación musical en el mundo». En *La educación musical frente al futuro*, editado por V. Hemsy de Gainza, 13–24. Buenos Aires: Guadalupe, 1993.
+- Maglio, Martin. «Integrating Technology into the Music Classroom». *Music Educators Journal* 85, n.º 1 (1998): 28–33.
+- Terceiro, José B. *Sociedad digital*. Madrid: Alianza, 1996.
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Fuertes, Carlos. «La tecnología informática y la música». En *Tecnologías de la información en la educación*, coordinado por C. San José Villacorta, 257–284. Madrid: Anaya Multimedia, 1998.
+
+[^2]: Giráldez, Andrea. *Internet y educación musical*. Barcelona: Graó, 2005.
+
+[^3]: Lehmann, Paul. «Panorama de la educación musical en el mundo». En *La educación musical frente al futuro*, editado por V. Hemsy de Gainza, 13–24. Buenos Aires: Guadalupe, 1993.
+
+[^4]: Maglio, Martin. «Integrating Technology into the Music Classroom». *Music Educators Journal* 85, n.º 1 (1998): 28–33.
+
+[^5]: Terceiro, José B. *Sociedad digital*. Madrid: Alianza, 1996.

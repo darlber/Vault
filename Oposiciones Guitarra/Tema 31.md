@@ -200,6 +200,15 @@ e) Repetir c) y d) con descansos hasta el dominio completo
 - Es necesario conocer los diferentes tipos de memoria y cómo potenciar cada uno
 - La memoria musical es un instrumento pedagógico al servicio de la educación integral y el crecimiento musical del alumnado
 
+## 11. Bibliografía #REVISAR_OPENCODE
+
+- Baddeley, Alan. *La psicología de la memoria*. Madrid: Debate, 1983.
+- Barbacci, Rodolfo. *Educación de la memoria musical*. Buenos Aires: Ricordi, 1965.
+- Marín, Juan Francisco. «La memoria: introducción a la memoria musical». *Música y Educación* 17, n.º 60 (2004): 75–88.
+- Peral Hernández, Sara. «La memoria musical en la interpretación pianística». *Revista del Conservatorio de Oviedo*, n.º 3 (2000): 45–58.
+- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
+- Willems, Edgar. *Las bases psicológicas de la educación musical*. Buenos Aires: Audeba, 1961.
+
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: Baddeley, Alan. *La psicología de la memoria*. Madrid: Debate, 1983.
@@ -213,12 +222,3 @@ e) Repetir c) y d) con descansos hasta el dominio completo
 [^5]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *Boletín Oficial del Estado*, 8 de enero de 2007.
 
 [^6]: Willems, Edgar. *Las bases psicológicas de la educación musical*. Buenos Aires: Audeba, 1961.
-
-## 11. Bibliografía #REVISAR_OPENCODE
-
-- Baddeley, Alan. *La psicología de la memoria*. Madrid: Debate, 1983.
-- Barbacci, Rodolfo. *Educación de la memoria musical*. Buenos Aires: Ricordi, 1965.
-- Marín, Juan Francisco. «La memoria: introducción a la memoria musical». *Música y Educación* 17, n.º 60 (2004): 75–88.
-- Peral Hernández, Sara. «La memoria musical en la interpretación pianística». *Revista del Conservatorio de Oviedo*, n.º 3 (2000): 45–58.
-- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
-- Willems, Edgar. *Las bases psicológicas de la educación musical*. Buenos Aires: Audeba, 1961.
