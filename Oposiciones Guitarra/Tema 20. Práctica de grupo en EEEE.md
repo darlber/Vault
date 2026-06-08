@@ -4,30 +4,27 @@
 
 1. [La práctica de grupo en las enseñanzas elementales](#la-práctica-de-grupo-en-las-enseñanzas-elementales)
    1. [Introducción](#introducción)
-   2. [Competencias clave y marco curricular](#competencias-clave-y-marco-curricular)
-   3. [Funciones de la clase colectiva](#funciones-de-la-clase-colectiva)
-   4. [La relación profesor-alumno](#la-relación-profesor-alumno)
-   5. [Espacios y recursos educativos](#espacios-y-recursos-educativos)
-   6. [Posibilidades de agrupamientos](#posibilidades-de-agrupamientos)
-   7. [Atención a la diversidad en la clase colectiva](#atención-a-la-diversidad-en-la-clase-colectiva)
+   2. [Funciones de la clase colectiva](#funciones-de-la-clase-colectiva)
+   3. [La relación profesor-alumno](#la-relación-profesor-alumno)
+   4. [Espacios y recursos educativos](#espacios-y-recursos-educativos)
+   5. [Posibilidades de agrupamientos](#posibilidades-de-agrupamientos)
 2. [Programación de actividades colectivas en este nivel](#programación-de-actividades-colectivas-en-este-nivel)
    1. [Las capacidades adquiridas en las clases colectivas y de conjunto](#las-capacidades-adquiridas-en-las-clases-colectivas-y-de-conjunto)
    2. [La programación de los contenidos](#la-programación-de-los-contenidos)
    3. [La metodología de la clase colectiva y las clases de conjunto](#la-metodología-de-la-clase-colectiva-y-las-clases-de-conjunto)
    4. [La técnica de interpretación en grupo](#la-técnica-de-interpretación-en-grupo)
    5. [Las actividades de enseñanza-aprendizaje](#las-actividades-de-enseñanza-aprendizaje)
-3. [NOTAS](#notas)
-4. [Bibliografía](#bibliografía)
+3. [Bibliografía](#bibliografía)
 
 ## La práctica de grupo en las enseñanzas elementales
 
 ### Introducción
 
-Desde la promulgación en 1990 de la Ley Orgánica de Ordenación General del Sistema Educativo (LOGSE)[^4], las enseñanzas artísticas de música y danza experimentaron una importante reforma pedagógica y también organizativa. Una de las grandes innovaciones fue la introducción de la práctica de grupo mediante la clase colectiva de instrumento de una hora de duración semanal en cada curso del llamado entonces grado elemental de música.
+Desde la promulgación en 1990 de la Ley Orgánica de Ordenación General del Sistema Educativo (LOGSE), las enseñanzas artísticas de música y danza experimentaron una importante reforma pedagógica y también organizativa. Una de las grandes innovaciones fue la introducción de la práctica de grupo mediante la clase colectiva de instrumento de una hora de duración semanal en cada curso del llamado entonces grado elemental de música.
 
-Posteriormente la Ley Orgánica de Educación del año 2006 (LOE)[^5] y el posterior Real Decreto 1577/2006[^7], además de fijar los aspectos básicos del currículo de las enseñanzas profesionales, decidieron encomendar la regulación de las enseñanzas elementales a cada una de las Comunidades Autónomas, que han ejercido esta competencia mediante decretos y normativa de carácter autonómico. Todo ello en virtud del artículo 48.1 de la LOE que reza «las enseñanzas elementales de música y de danza tendrán las características y la organización que las Administraciones educativas determinen».
+Posteriormente la Ley Orgánica de Educación del año 2006 (LOE) y el posterior Real Decreto 1577/2006, además de fijar los aspectos básicos del currículo de las enseñanzas profesionales, decidieron encomendar la regulación de las enseñanzas elementales a cada una de las Comunidades Autónomas, que han ejercido esta competencia mediante decretos y normativa de carácter autonómico. Todo ello en virtud del artículo 48.1 de la LOE que reza «las enseñanzas elementales de música y de danza tendrán las características y la organización que las Administraciones educativas determinen».
 
-El resultado ha sido unas enseñanzas elementales con características y currículo diferenciado en cada una de las comunidades autónomas donde la práctica de conjunto ha experimentado diferentes regulaciones. En todo caso, en todos los decretos aparecen en los objetivos generales de estas enseñanzas la preocupación y la importancia de la práctica de grupo; citamos el texto que aparece en el decreto de la Comunidad Valenciana[^2]:
+El resultado ha sido unas enseñanzas elementales con características y currículo diferenciado en cada una de las comunidades autónomas donde la práctica de conjunto ha experimentado diferentes regulaciones. En todo caso, en todos los decretos aparecen en los objetivos generales de estas enseñanzas la preocupación y la importancia de la práctica de grupo; citamos el texto que aparece en el decreto de la Comunidad Valenciana:
 
 > d) Interpretar música en grupo y habituarse a escuchar otras voces o instrumentos, adaptándose al equilibrio del conjunto.
 
@@ -47,12 +44,6 @@ La clase colectiva en las enseñanzas elementales debe contribuir necesariamente
 
 Otro elemento importante a destacar es la motivación. En la mayoría de los casos, las vocaciones de nuestros alumnos no están claramente definidas en estas edades y por ello corremos el peligro de provocar un rechazo si las inevitables exigencias técnicas de la práctica instrumental no son presentadas a los alumnos de manera amena y estimulante para que se sientan verdaderamente interesados. Una relación adecuada profesor-alumno y una metodología idónea son la mayor garantía para evitar el abandono. Centraremos la exposición de nuestro tema en la organización de las clases colectivas de instrumento, su programación, metodología y todos aquellos aspectos que influyan en ella.
 
-### Competencias clave y marco curricular #REVISAR_OPENCODE
-
-==La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006 de Educación (LOMLOE)[^6], refuerza el enfoque competencial del currículo iniciado por la LOE. Aunque las enseñanzas elementales de música no están directamente reguladas por la LOMLOE en su articulado básico, los decretos autonómicos que las desarrollan incorporan cada vez más el lenguaje de las competencias clave como referente del perfil de salida del alumnado.==
-
-==En el contexto de la clase colectiva, las competencias clave se desarrollan de manera transversal. La competencia en comunicación lingüística se ejercita a través del vocabulario técnico-musical compartido; la competencia social y cívica se fomenta mediante la escucha activa, el respeto por el turno de palabra y la responsabilidad hacia el grupo; la conciencia y expresión culturales se despliegan en la interpretación del repertorio y en la improvisación; y la competencia digital se integra mediante el uso de aplicaciones de afinación, grabación y edición de partituras. La clase colectiva se convierte así en un espacio privilegiado para la adquisición de estas competencias, que difícilmente pueden abordarse con la misma eficacia en la clase individual[^1].==
-
 ### Funciones de la clase colectiva y de las asignaturas de conjunto
 
 Las clases colectivas pretenden desarrollar al individuo en el ámbito socioeducativo. Cumplen tres funciones básicas: el desarrollo integral del alumno, contribuir a su socialización y continuar el proceso de transmisión de saberes. Estas funciones pueden agruparse en: psicológicas, estéticas, técnicas y éticas.
@@ -66,7 +57,7 @@ Las clases colectivas pretenden desarrollar al individuo en el ámbito socioeduc
 
 Son muchos los factores que influyen en la relación entre alumnos y profesores. Casi con toda seguridad es la figura del profesor y su capacidad de liderazgo el factor más determinante. Es obvio que el profesor en la clase colectiva juega un papel decisivo en el aprendizaje de sus alumnos ya que su criterio y actitud ejercen una fuerte influencia sobre su conducta musical.
 
-Cebriá, R., J. Ortega y E. Fernández, en el libro titulado *La clase colectiva. Fundamentos básicos para su programación, su orientación y su evaluación*[^1], exponen estas ideas de manera diáfana. Nos encontramos ante un trabajo de investigación muy interesante por su enfoque y las conclusiones que desprende. Sobre el papel del profesor en la clase colectiva nos dicen:
+Cebriá, R., J. Ortega y E. Fernández, en el libro titulado *La clase colectiva. Fundamentos básicos para su programación, su orientación y su evaluación*, exponen estas ideas de manera diáfana. Nos encontramos ante un trabajo de investigación muy interesante por su enfoque y las conclusiones que desprende. Sobre el papel del profesor en la clase colectiva nos dicen:
 
 > El profesor ha de ser consciente del modelo que representa y de la valoración muy subjetiva que el alumno realiza a través de su figura, no solo del instrumento, sino también del ambiente musical que le rodea. La tolerancia, el respeto y demás valores que la práctica musical lleva consigo tienen una conexión directa con la actitud que el profesor adopta en el aula.
 
@@ -96,7 +87,7 @@ Los alumnos deben empezar a conocer los recursos musicales que se encuentran en 
 
 ### Criterios de agrupamientos
 
-Existen numerosas maneras de agrupar a los alumnos en las clases colectivas. Lebrero y Pérez[^3] establecen la siguiente clasificación:
+Existen numerosas maneras de agrupar a los alumnos en las clases colectivas. Lebrero y Pérez (1988) establecen la siguiente clasificación:
 
 - **Grupos homogéneos**: Los alumnos se agrupan por criterios de aprendizaje como por ejemplo: edad, capacidad intelectual o nivel de conocimientos.
 - **Grupos heterogéneos**: Se caracterizan por la diversidad de sus componentes.
@@ -113,12 +104,6 @@ Establecer agrupamientos excesivamente homogéneos puede impedir la interrelaci�
 El área de Viento del conservatorio permite una gran variedad de agrupamientos. La opción que elijamos determinará grupos de características muy diferentes. Cuando realicemos actividades de Música de Cámara los agrupamientos por instrumentos debe presentar un cierto grado de homogeneidad. Pensamos que se trata de alumnos entre ocho y doce años. Sus características psicoevolutivas les impiden la conjunción cuando existen diferencias tímbricas importantes entre los instrumentos. Por este motivo los grupos de cámara (dúos, tríos, etc.) se organizarán preferentemente entre los alumnos de la misma especialidad y en los últimos cursos de las Enseñanzas Elementales ya podemos conjuntar instrumentos diferentes pero con cierto grado de afinidad: viento-madera, viento-metal, cuerda, etc.
 
 Sin embargo, cuando las diferencias entre los alumnos son excesivas, entonces las actividades de enseñanza-aprendizaje no pueden ser las mismas: en la mayoría de ocasiones los alumnos al no poder participar se aburren y se desmotivan. Cuando los profesores programen deberán tener en cuenta estas posibles situaciones. También podemos agrupar a los alumnos por cursos, edades, etc. Las posibilidades son muy grandes.
-
-## Atención a la diversidad en la clase colectiva #REVISAR_OPENCODE
-
-==Uno de los mayores desafíos de la clase colectiva en enseñanzas elementales es la heterogeneidad del alumnado. En un mismo grupo pueden coexistir alumnos con distinto nivel técnico, diferente capacidad lectora, variados ritmos de aprendizaje y motivaciones dispares. La atención a la diversidad exige del profesor una planificación flexible que contemple actividades multinivel: mientras un alumno trabaja un pasaje melódico completo, otro puede ejecutar una línea rítmica simplificada o un pedal armónico. Las adaptaciones curriculares no significativas, como la modificación de la dificultad de la parte instrumental o el uso de arreglos con diferentes niveles de exigencia dentro de la misma obra, son herramientas esenciales para garantizar la participación de todos los alumnos[^1].==
-
-==La tutoría entre iguales constituye otra estrategia eficaz en este contexto. Emparejar a un alumno con mayor nivel con otro que presenta dificultades permite que ambos se beneficien: el primero consolida sus conocimientos al tener que explicarlos y el segundo recibe una ayuda individualizada en un entorno de confianza. Además, esta práctica fomenta valores de solidaridad y cooperación que están en la base de la función ética de la clase colectiva. El profesor debe supervisar estas parejas pedagógicas y rotar los roles para evitar dinámicas de dependencia.==
 
 ## Programación de las actividades colectivas en este nivel: repertorio, conceptos relativos al lenguaje musical, técnica de interpretación en grupo, audición, improvisación y otros aspectos
 
@@ -271,7 +256,7 @@ Se trataría de enseñar los contenidos del lenguaje musical de manera aplicada 
 - Ampliación del conocimiento y discriminación tímbrica de los diferentes instrumentos así como de los diferentes grupos orquestales.
 - Realización de variaciones con el instrumento: altura, duración, intensidad, sonido-silencio, timbre, etc.
 
-#### Repertorio de las clases de conjunto #REVISAR_OPENCODE
+#### Repertorio de las clases de conjunto
 
 Debido a la heterogeneidad de la asignatura, que en gran medida depende de la matriculación del alumnado, y normalmente suelen ser grupos con una plantilla cambiante e inestable cada curso, es imprescindible realizar todo tipo de adaptaciones, orquestaciones y arreglos que se adapten a la plantilla formada por el alumnado. Los programas informáticos de edición de partituras y webs especializadas en este tipo de agrupaciones serán algunos de los recursos utilizados en la asignatura.
 
@@ -280,48 +265,14 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 - **Ejercicios de afinación:** *Cours d'ensemble instrumental* (G. Parés), *20 tunes ups* (H. van Lijnschooten), ejercicios de memoria de notas tenidas, escalas mayores y menores, ejercicios con diferentes dinámicas, etc.
 - **Composiciones instrumentales:** *La escala Sido* (F. Ferran), *El caragol mifasol* (Ferran), *Ammerland* (J. de Haan), *Aladdin* (Menrin/Ashman), *Fantasia* (Winson), *Gulliver's Travels* (B. Appermont), *Air for winds* (A. Waignein), *Themes from Harry Potter* (J. Williams), *A medieval suite* (A. Waignein), *Russian carol variations* (S. Bulla), *Themes from 1812* (P. I. Tchaikovsky), *Promenade* (M. Mussorgsky), *Pictures for young band* (J. Bensmann).
 
-==A estos materiales conviene añadir el repertorio específico para agrupaciones de cuerda pulsada, como los dúos didácticos de Fernando Sor y Dionisio Aguado, las antologías de guitarra en conjunto de Josep Henríquez y las adaptaciones para grupo del repertorio renacentista y barroco (canzoni, danzas, diferencias). Para el desarrollo de la lectura a primera vista en grupo resultan especialmente útiles los métodos progresivos de ensemble como el *Building a Jazz Vocabulary* de Mike Steinel y los cuadernos de lecturas a primera vista editados por el Trinity College London.==
+## Bibliografía
 
-### Evaluación #REVISAR_OPENCODE
-
-==La evaluación en las clases colectivas de las enseñanzas elementales debe ser continua, formativa y criterial, orientada a valorar el progreso del alumno en relación con los objetivos programados. Los criterios de evaluación han de contemplar tanto aspectos individuales (la aportación personal al conjunto, la corrección técnica, la capacidad de autocrítica) como colectivos (capacidad de escucha activa, ajuste rítmico y dinámico, respeto por las indicaciones del director o del resto de compañeros, actitud responsable hacia los ensayos y los plazos de trabajo).==
-
-==Los instrumentos de evaluación más adecuados para este nivel incluyen la observación sistemática del profesor, registrada en fichas de seguimiento o portfolios individuales; la grabación en audio o vídeo de las interpretaciones para su visionado y autoevaluación posterior; y las rúbricas de evaluación que permitan al alumno conocer de antemano los criterios con los que será valorado. Las audiciones periódicas ante los compañeros y ante el público actúan también como momentos de evaluación formativa, al enfrentar al alumno a una situación real de concierto que integra todos los aprendizajes trabajados en el aula[^1].==
-
-### Coordinación con Lenguaje Musical y Coro #REVISAR_OPENCODE
-
-==La clase colectiva de instrumento no debe entenderse como un compartimento estanco, sino como parte de un engranaje curricular en el que Lenguaje Musical y Coro desempeñan un papel complementario. La coordinación entre estas asignaturas es esencial para que el alumno perciba la unidad del proceso formativo. Por ejemplo, los contenidos rítmicos trabajados en Lenguaje Musical (compases compuestos, síncopas, contratiempos) pueden ser reforzados en la clase colectiva mediante ejercicios de percusión corporal y lectura rítmica aplicada al instrumento antes de abordar las obras del repertorio. Del mismo modo, las canciones aprendidas en Coro pueden ser adaptadas para ser interpretadas con el instrumento, ya sea como melodía principal o como acompañamiento armónico simple. Esta sinergia no solo consolida los aprendizajes, sino que también dota de significatividad a contenidos que el alumno puede percibir como abstractos cuando se trabajan de forma aislada[^1].==
-
-==La figura del profesor de instrumento como coordinador del equipo docente del alumno es clave en este proceso. Las reuniones de departamento y las sesiones de evaluación conjunta permiten planificar secuencias didácticas compartidas y ajustar los contenidos para evitar solapamientos o lagunas. En centros donde existe una programación integrada, los resultados muestran una mayor motivación del alumnado y una reducción significativa del abandono en los primeros cursos.==
-
-### Transición a las enseñanzas profesionales #REVISAR_OPENCODE
-
-==La clase colectiva en enseñanzas elementales constituye el primer escalón de una trayectoria que culmina en la práctica camerística y orquestal de las enseñanzas profesionales. Por ello, la programación de actividades colectivas en este nivel debe contemplar objetivos a medio plazo que faciliten la transición. En el plano técnico, el alumno debe adquirir los reflejos necesarios para mantener la afinación en conjunto, ajustar la dinámica al equilibrio del grupo y seguir las indicaciones gestuales de un director o concertino. En el plano actitudinal, debe interiorizar hábitos de puntualidad, responsabilidad hacia el material colectivo y respeto por el trabajo de los compañeros.==
-
-==Para favorecer esta transición, resulta recomendable organizar, ya desde el último curso de enseñanzas elementales, agrupaciones mixtas en las que participen alumnos de ambos niveles en proyectos puntuales (conciertos de fin de curso, seminarios de conjunto, semanas culturales). Esta experiencia permite al alumno de elementales familiarizarse con las dinámicas de trabajo propias de las agrupaciones profesionales y reduce la ansiedad ante el cambio de etapa. Asimismo, el profesor puede utilizar estas situaciones para evaluar la preparación del alumno y orientarle en la elección de su itinerario formativo[^1].==
-
-## Bibliografía #REVISAR_OPENCODE
-
-- Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
-- Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas elementales de música en la Comunitat Valenciana. *DOCV* n.º 5625, de 25 de septiembre de 2007.
-- Lebrero Baena, María Paz y María Teresa Pérez. *Los procesos de enseñanza-aprendizaje en la educación infantil*. Madrid: UNED, 1988.
-- Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
-- Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 106, de 4 de mayo de 2006.
-- Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
-- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
-
-# NOTAS #REVISAR_OPENCODE
-
-[^1]: Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
-
-[^2]: Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas elementales de música en la Comunitat Valenciana. *DOCV* n.º 5625, de 25 de septiembre de 2007.
-
-[^3]: Lebrero Baena, María Paz y María Teresa Pérez. *Los procesos de enseñanza-aprendizaje en la educación infantil*. Madrid: UNED, 1988.
-
-[^4]: Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
-
-[^5]: Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 106, de 4 de mayo de 2006.
-
-[^6]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
-
-[^7]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
+- Zaldívar, Álvaro: *La Logse en los Conservatorios; normativa básica en las enseñanzas musicales*. Ed. Real Musical, 1992.
+- Cebriá Genovés, P.; Ortega, Ricardo, J.; Fernández, Juan, E.: *La clase colectiva. Fundamentos básicos para su programación, su orientación y su evaluación*. Mundimúsica Ediciones Musicales.
+- *Música y Educación. Revista de Investigación Pedagógico-Musical*. Ed. Musicales, S.A.
+- *Eufonía. Didáctica de la música*. Graó.
+- Hemsy de Gainza: *La improvisación musical*. Ricordi Americana S.A., 1983.
+- Nicolás Carrillo; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
+- Proyecto Curricular. Conservatorio Profesional de Música de Torrent.
+- Corbalán, Maravillas: «La programación conjunta de las enseñanzas de música». *Revista Música y Educación*.
+- Coll, César: *Psicología y curriculum*. Paidós.

@@ -3,12 +3,11 @@
 ## Índice
 
 1. [La transcripción: Conceptos generales y antecedentes históricos](#la-transcripción-conceptos-generales-y-antecedentes-históricos)
-    1. [Instrumentos de cuerda pulsada. Instrumentos derivados del laúd](#instrumentos-de-cuerda-pulsada-instrumentos-derivados-del-laúd)
-    2. [Instrumentos derivados de la guitarra](#instrumentos-derivados-de-la-guitarra)
+   1. [Instrumentos de cuerda pulsada. Instrumentos derivados del laúd](#instrumentos-de-cuerda-pulsada-instrumentos-derivados-del-laúd)
+   2. [Instrumentos derivados de la guitarra](#instrumentos-derivados-de-la-guitarra)
 2. [Criterios sobre la interpretación de transcripciones](#criterios-sobre-la-interpretación-de-transcripciones)
 3. [Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales](#transcripciones-del-repertorio-de-otros-instrumentos-y-de-diferentes-agrupaciones-instrumentales)
-4. [NOTAS](#notas)
-5. [Bibliografía](#bibliografía)
+4. [Bibliografía](#bibliografía)
 
 ## La transcripción: Conceptos generales y antecedentes históricos
 
@@ -18,7 +17,7 @@ Sin embargo nosotros vamos a tratar la transcripción musical de una pieza escri
 
 La transcripción en guitarra toma fuerza a partir de la figura de Tárrega, que fue el primero en transcribir algunas obras de Albéniz para guitarra. Posteriormente se desarrolla un interés por la música antigua. Dicho interés es compartido por alumnos de Tárrega como Miguel Llobet, Emilio Pujol, Daniel Fortea, María Luisa Anido, Louise Walker, los cuales son conscientes de la necesidad de ampliar el repertorio para guitarra en un momento histórico en el que está en auge.
 
-Pedrell favorece también el interés hacia la música antigua, consiguiendo que guitarristas como Emilio Pujol[^1] empiecen a realizar multitud de transcripciones de esta época. El repertorio de la música antigua está escrito en tablatura, lo que favorece un acercamiento a los guitarristas. Todo lo relativo a la transcripción de tablaturas se puede leer en los temas 9, 10, 11, 12, 13 y 14 de este temario. También se puede encontrar información en la *Escuela Razonada de la Guitarra* de Emilio Pujol, en el Capítulo IX «La Escritura para Guitarra».
+Pedrell favorece también el interés hacia la música antigua, consiguiendo que guitarristas como Emilio Pujol empiecen a realizar multitud de transcripciones de esta época. El repertorio de la música antigua está escrito en tablatura, lo que favorece un acercamiento a los guitarristas. Todo lo relativo a la transcripción de tablaturas se puede leer en los temas 9, 10, 11, 12, 13 y 14 de este temario. También se puede encontrar información en la *Escuela Razonada de la Guitarra* de Emilio Pujol, en el Capítulo IX «La Escritura para Guitarra».
 
 **Algunos de los principales guitarristas que han transcrito música antigua han sido:**
 
@@ -89,13 +88,13 @@ Algunos de los compositores para mandolina son:
 
 **Bandurria.** Aunque no existe mucha documentación acerca de este instrumento en el siglo XVI, sí que podemos conocer que fue pequeña, de tesitura y órdenes afinados en quintas, gracias a Bermudo. La bandurria adquirió cinco y seis órdenes dobles en los siglos XVII y XVIII. Comúnmente se tocaba con plectro.
 
-**Chitarra battente y Chitarriglia.** La primera tenía cinco órdenes de metal y se tocaba con plectro[^3]. Se puede intuir que el instrumento aparecería a mediados del siglo XVIII; no ha sobrevivido literatura escrita del instrumento, lo que nos hace pensar que pudo ser un instrumento utilizado para música popular. El segundo instrumento está afinado como la guitarra española pero en registro más agudo. Poseía cinco órdenes y sus referencias se pueden encontrar en libros como los de Pesori.
+**Chitarra battente y Chitarriglia.** La primera tenía cinco órdenes de metal y se tocaba con plectro. Se puede intuir que el instrumento aparecería a mediados del siglo XVIII; no ha sobrevivido literatura escrita del instrumento, lo que nos hace pensar que pudo ser un instrumento utilizado para música popular. El segundo instrumento está afinado como la guitarra española pero en registro más agudo. Poseía cinco órdenes y sus referencias se pueden encontrar en libros como los de Pesori.
 
 **Guitarra Inglesa.** Conocida en Francia como *cistre*, *guitarra allemande* y en Italia como *cedra*. Es diferente a la guitarra tradicional, introducida probablemente por los italianos en Inglaterra. Alguna de la música que se escribió fue *Six Sonatas or solos for the guitar and bass* (1759) de J. F. Zuchert o un libro anónimo llamado *Ladies Pocket Guide or the complete tutor for the guitar* de 1750.
 
 **Guitarra Tiorbata.** Este tipo de instrumento tiene una extensión que se adhiere a una parte del clavijero para poseer un mayor número de cuerdas para los bajos, los cuales se tocan al aire. Llegó a tener cierta popularidad como instrumento ya que encontramos referencias a ella en el manuscrito de Gallot; incluso Antonio Stradivarius dejó escritas unas medidas para el clavijero y su extensión, que poseía cinco cuerdas dobles sobre el primer clavijero y sobre el segundo siete simples.
 
-## Criterios sobre la interpretación de transcripciones #REVISAR_OPENCODE
+## Criterios sobre la interpretación de transcripciones
 
 Generalmente las transcripciones para guitarra de música para otros instrumentos han sido consideradas retos técnicos para el guitarrista. Este hecho ha supuesto que algunas transcripciones hayan sido «intocables» y no respetasen el espíritu de la partitura original.
 
@@ -105,13 +104,9 @@ Diremos que una transcripción está bien hecha cuando respete las característi
 
 Existen numerosos libros, tanto de orquestación como específicos de las características de cada instrumento, que podemos consultar para realizar nuestras transcripciones. Además será de vital importancia realizar un análisis previo de la obra.
 
-==Entre los criterios específicos que deben guiar la transcripción para guitarra destacan los siguientes. En primer lugar, el registro: la guitarra tiene una tesitura de tres octavas y media (Mi₂ a Si♭₅ aproximadamente), por lo que las obras que excedan este ámbito deben ser transportadas o reubicadas. La transposición de octava de pasajes completos es un recurso legítimo siempre que no altere la línea melódica ni la conducción de las voces. En segundo lugar, la textura armónica: la guitarra puede realizar hasta seis notas simultáneas, pero la distribución de las voces debe respetar la disposición original en la medida de lo posible, utilizando cuerdas al aire para mantener las notas pedales y las resonancias armónicas. En tercer lugar, la articulación y el timbre deben adaptarse al instrumento original: los golpes de arco del violín o del violonchelo pueden traducirse en ligados, apoyando o picado, mientras que el efecto de sustain del piano puede recrearse mediante el uso del pedal armónico o la resonancia simpática de las cuerdas al aire[^2].==
+## Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales
 
-==La transcripción de obras orquestales presenta desafíos adicionales. La guitarra no puede reproducir la masa sonora de una orquesta, por lo que el transcriptor debe seleccionar las voces esenciales y renunciar a aquellas que son meramente ornamentales o de relleno. Las reducciones orquestales para guitarra requieren un conocimiento profundo de la instrumentación original para identificar qué elementos son estructurales y cuáles accesorios. En el caso de las transcripciones de obras para teclado (clave, piano, órgano), el principal desafío es la conducción de las voces: el teclado puede mantener todas las voces simultáneamente, mientras que la guitarra debe recurrir a la arpegiación y a la sincopación de las voces para crear la ilusión polifónica descrita por Ralph Kirkpatrick[^5].==
-
-## Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales #REVISAR_OPENCODE
-
-Cuando tenemos la necesidad de realizar transcripciones para guitarra de repertorio de otros instrumentos[^4], es necesario que tengamos en cuenta aspectos como:
+Cuando tenemos la necesidad de realizar transcripciones para guitarra de repertorio de otros instrumentos, es necesario que tengamos en cuenta aspectos como:
 - Realizar un análisis previo de la obra a transcribir.
 - Tener en cuenta la textura armónica de la obra a transcribir.
 - Conocer el instrumento y las características para el cual fue concebida la obra originalmente.
@@ -136,26 +131,11 @@ En cuanto a las transcripciones de música de Bach, podemos encontrar mucha info
 
 Este tema puede ser ampliado con los apartados de edición y transcripción de los temas del 9 al 14.
 
-==Junto al criterio historicista, existe una corriente moderna de transcripción que defiende la adaptación libre de la obra original a las posibilidades expresivas de la guitarra, sin supeditarse al respeto absoluto de la letra de la partitura. Esta tradición, representada por Segovia, Yepes y gran parte de la escuela decimonónica, ha sido criticada por la musicología reciente por su falta de rigor filológico, pero también ha generado algunas de las transcripciones más populares y musicalmente efectivas del repertorio guitarrístico. La clave de una buena transcripción no reside tanto en la fidelidad literal como en la capacidad de transmitir el espíritu de la obra original a través de las posibilidades del nuevo instrumento. Como señala Yates, el transcriptor debe buscar «la mejor conducción polifónica, así como la mejor disposición armónica en nuestra transcripción»[^5].==
+## Bibliografía
 
-==La tecnología digital ha abierto nuevas posibilidades en el ámbito de la transcripción. Los programas de edición de partituras permiten experimentar con diferentes disposiciones de voces, tonalidades y registros sin la necesidad de escribir a mano cada versión. Asimismo, las grabaciones históricas y las ediciones críticas disponibles en línea facilitan el acceso a fuentes primarias que antes eran de difícil consulta. El transcriptor actual debe combinar el conocimiento musicológico tradicional con las herramientas digitales para producir ediciones que sean a la vez rigurosas y funcionales para el intérprete[^2].==
-
-# Bibliografía #REVISAR_OPENCODE
-
-- Pujol, Emilio. *La guitarra y su historia*. Buenos Aires: Ricordi Americana, 1930.
-- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.
-- Tyler, James. *The Early Guitar: A History and Handbook*. Londres: Oxford University Press, 1980.
-- Wade, Graham. *Traditions of the Classical Guitar*. Londres: Calder, 1980.
-- Yates, Stanley. «Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar». *Soundboard* 25, n.º 1 (1998): 51–67.
-
-# NOTAS #REVISAR_OPENCODE
-
-[^1]: Pujol, Emilio. *La guitarra y su historia*. Buenos Aires: Ricordi Americana, 1930.
-
-[^2]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.
-
-[^3]: Tyler, James. *The Early Guitar: A History and Handbook*. Londres: Oxford University Press, 1980.
-
-[^4]: Wade, Graham. *Traditions of the Classical Guitar*. Londres: Calder, 1980.
-
-[^5]: Yates, Stanley. «Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar». *Soundboard* 25, n.º 1 (1998): 51–67.
+- Blanco Bohigas, Alberto: *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*.
+- Radole, Giuseppe: *Laúd, guitarra y vihuela* (1982)
+- Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
+- Tyler, James: *The Early Guitar* (1980)
+- Yates, Stanley: *Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar* (1998)
+- Wade, Graham: *Traditions of the classical guitar* (1953)
