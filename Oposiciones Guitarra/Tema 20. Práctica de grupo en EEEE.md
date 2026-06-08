@@ -303,19 +303,29 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 
 ## NOTAS #REVISAR_OPENCODE
 
-[^1]: Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
+[^1]: Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
 
-[^2]: Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 106, de 4 de mayo de 2006.
+[^2]: Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
 
-[^3]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
+[^3]: Corbalán, Maravillas. «La programación conjunta de las enseñanzas de música.» *Revista Música y Educación* 12, n.º 3 (1999): 85–102.
 
 [^4]: Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas elementales de música en la Comunitat Valenciana. *DOCV* n.º 5625, de 25 de septiembre de 2007.
 
-[^5]: Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
+[^5]: Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
 
 [^6]: Lebrero Baena, María Paz y María Teresa Pérez. *Los procesos de enseñanza-aprendizaje en la educación infantil*. Madrid: UNED, 1988.
 
-[^7]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
+[^7]: Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
+
+[^8]: Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 106, de 4 de mayo de 2006.
+
+[^9]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
+
+[^10]: Nicolás Carrillo, Manuel y José Antonio Gómez Albaladejo. *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Murcia: Master Oposiciones, 1999.
+
+[^11]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
+
+[^12]: Zaldívar, Álvaro. *La LOGSE en los conservatorios: normativa básica en las enseñanzas musicales*. Madrid: Real Musical, 1992.
 
 ## Bibliografía #REVISAR_OPENCODE
 

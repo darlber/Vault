@@ -21,7 +21,7 @@
 
 ## La práctica de grupo en las enseñanzas profesionales
 
-==### Justificación de las asignaturas instrumentales colectivas en las enseñanzas profesionales #REVISAR_OPENCODE 
+### Justificación de las asignaturas instrumentales colectivas en las enseñanzas profesionales #REVISAR_OPENCODE 
 
 ==El marco legal de las enseñanzas profesionales de música viene determinado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)[^1], cuyo desarrollo reglamentario se concreta en el Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música[^2]. La posterior Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)[^3], mantiene la estructura básica de las enseñanzas profesionales y refuerza el enfoque competencial del currículo. Sobre esta base, cada comunidad autónoma ha dictado sus propios decretos de currículo, que concretan la organización de las materias instrumentales colectivas.==
 
