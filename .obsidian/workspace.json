@@ -11,12 +11,15 @@
             "id": "d36c1557fdb65d59",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/TEMA 29 y 30.pdf"
+                "file": "Oposiciones Guitarra/Tema 28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "TEMA 29 y 30"
+              "icon": "lucide-file",
+              "title": "Tema 28"
             }
           }
         ]
@@ -206,11 +209,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d36c1557fdb65d59",
+  "active": "74e6a2710cd0eafa",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 28.md",
-    "Oposiciones Guitarra/TEMA 29 y 30.pdf",
+    "Oposiciones Guitarra/Tema 29.md",
     "Oposiciones Guitarra/Tema 27.md",
+    "Oposiciones Guitarra/TEMA 29 y 30.pdf",
+    "Oposiciones Guitarra/Tema 28.md",
     "Oposiciones Guitarra/TEMA 28.pdf",
     "Oposiciones Guitarra/Tema 25_1.md",
     "Oposiciones Guitarra/Tema 25_2.md",
