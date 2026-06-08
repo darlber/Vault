@@ -58,17 +58,17 @@ La evolución organológica de la época responde a la necesidad de obtener mayo
 ## Características de la guitarra clásico-romántica
 La guitarra de esta época presenta una plantilla más pequeña que la actual —que se consolidará con Antonio Torres— pero más grande que la guitarra barroca. Posee 18 trastes, una cejuela en el puente que separa las cuerdas, y un diapasón en resalte. Debido a su mayor tamaño respecto a la barroca, cuenta con más barras de refuerzo y abanico en la tapa. Además, se realiza un estudio de las maderas para lograr mejor calidad y las cuerdas graves de tripa son sustituidas por entorchado. El instrumento se afina como la guitarra moderna.
 
-Se documenta por primera vez la colaboración entre intérpretes y constructores. Por ejemplo, Fernando Sor en su *Méthode* (París, 1830) relata sus experiencias en Londres con el constructor Panormo y en París con René Lacóte. En París existía una intensa actividad guitarrística y proliferación de constructores. La mayoría de las guitarras francesas de seis cuerdas datan de 1820 a 1850, periodo en el que florecieron grupos de luthiers en París y Mirecourt[^9]. Destacan:
+Se documenta por primera vez la colaboración entre intérpretes y constructores. Por ejemplo, Fernando Sor en su *Méthode* (París, 1830) relata sus experiencias en Londres con el constructor Panormo y en París con René Lacóte. En París existía una intensa actividad guitarrística y proliferación de constructores. La mayoría de las guitarras francesas de seis cuerdas datan de 1820 a 1850, periodo en el que florecieron grupos de luthiers en París y Mirecourt[^8]. Destacan:
 
 - París: Grobert, Bernard, Laprévote, René Lacóte.  
 - Mirecourt: Coffe-Goguette, Nicolas Morlot, Gratel, entre otros.  
 
-Evans considera a Lacóte el principal constructor parisino, colaborando incluso con Fernando Sor en experiencias constructivas[^10]. Las guitarras de 1820 incorporan clavijas bloqueables, evitando deslizamiento de la cuerda. Posteriormente, Lacóte desarrolla el sistema de engranajes en la cabeza y el *Piédestal Lacóte*, soporte que libera las manos del intérprete, similar al trípode de Dionisio Aguado[^9]. Otras innovaciones de Lacóte:
+Evans considera a Lacóte el principal constructor parisino, colaborando incluso con Fernando Sor en experiencias constructivas[^9]. Las guitarras de 1820 incorporan clavijas bloqueables, evitando deslizamiento de la cuerda. Posteriormente, Lacóte desarrolla el sistema de engranajes en la cabeza y el *Piédestal Lacóte*, soporte que libera las manos del intérprete, similar al trípode de Dionisio Aguado[^8]. Otras innovaciones de Lacóte:
 
 - *Tabouret*.  
 - *Diapason Guitare Lacóte. Mástil coulé*.  
 
-Algunos cambios fueron impulsados por los guitarristas, como el puente y el refuerzo interior de Sor. Carulli solicitó a Lacóte una guitarra de 10 cuerdas, para tocar bajos sin pisarlos con la mano izquierda y acompañar las piezas[^9].
+Algunos cambios fueron impulsados por los guitarristas, como el puente y el refuerzo interior de Sor. Carulli solicitó a Lacóte una guitarra de 10 cuerdas, para tocar bajos sin pisarlos con la mano izquierda y acompañar las piezas[^8].
 ### Características de la guitarra francesa típica
 - Cabeza en forma de 8 con clavijas, unida al mástil mediante una especie de V.  
 - Reverso del mástil lacado en negro; unión al cuerpo mediante tacón cónico.  
@@ -84,7 +84,7 @@ Cuando el instrumento se consolida y predomina el nuevo estilo musical llamado c
 
 Los compositores guitarristas del periodo contribuyen a que la guitarra alcance mayor apreciación entre los músicos, favoreciendo que compositores no guitarristas, como Boccherini, escriban para el instrumento[^8].  
 
-Además, se produce un gran desarrollo de música de cámara, en la que la guitarra tiene un papel destacado, llegando incluso a intervenir en óperas de Rossini, Donizetti y Weber[^11].  
+Además, se produce un gran desarrollo de música de cámara, en la que la guitarra tiene un papel destacado, llegando incluso a intervenir en óperas de Rossini, Donizetti y Weber[^10].  
 
 La revalorización del instrumento también depende del progreso técnico, impulsado por el auge de métodos didácticos elaborados por guitarristas[^1].
 ## Evolución musical. Estilo y formas #REVISAR_OPENCODE
@@ -102,55 +102,55 @@ Las formas musicales para guitarra coinciden con las de otros instrumentos como 
 
 ### Contexto estilístico: del Clasicismo al Romanticismo #REVISAR_OPENCODE
 
-==El repertorio guitarrístico clásico-romántico se sitúa en la transición entre el Clasicismo tardío (c. 1780-1800) y el primer Romanticismo (c. 1800-1830). La guitarra participa de ambas estéticas: del Clasicismo hereda la claridad formal, la textura homofónica y la estructura periódica; del Romanticismo temprano adopta la expresividad melódica, el contraste dinámico y la búsqueda de un carácter más subjetivo[^12].==
+==El repertorio guitarrístico clásico-romántico se sitúa en la transición entre el Clasicismo tardío (c. 1780-1800) y el primer Romanticismo (c. 1800-1830). La guitarra participa de ambas estéticas: del Clasicismo hereda la claridad formal, la textura homofónica y la estructura periódica; del Romanticismo temprano adopta la expresividad melódica, el contraste dinámico y la búsqueda de un carácter más subjetivo[^11].==
 
-==En la escuela española, esta dualidad se manifiesta en las obras de Sor y Aguado. Sor, formado en la tradición clásica, desarrolla un lenguaje contrapuntístico moderado que mira al pasado clásico (influencia de Haydn y Mozart), mientras que Aguado, más orientado a la didáctica y al lucimiento del intérprete, anticipa rasgos del virtuosismo romántico que culminará en Giuliani y Mertz[^13].==
+==En la escuela española, esta dualidad se manifiesta en las obras de Sor y Aguado. Sor, formado en la tradición clásica, desarrolla un lenguaje contrapuntístico moderado que mira al pasado clásico (influencia de Haydn y Mozart), mientras que Aguado, más orientado a la didáctica y al lucimiento del intérprete, anticipa rasgos del virtuosismo romántico que culminará en Giuliani y Mertz[^12].==
 
 ### Formas y géneros cultivados por la escuela española #REVISAR_OPENCODE
 
-==La sonata es la forma central del repertorio de Sor. Su *Grande Sonate* op. 22 ejemplifica la estructura tripartita clásica (exposición, desarrollo, reexposición) adaptada a las limitaciones de la guitarra: la modulación al tono de la dominante se sustituye con frecuencia por un contraste temático más que tonal, y el desarrollo se apoya en secuencias armónicas sobre el bordón de tónica o dominante[^14].==
+==La sonata es la forma central del repertorio de Sor. Su *Grande Sonate* op. 22 ejemplifica la estructura tripartita clásica (exposición, desarrollo, reexposición) adaptada a las limitaciones de la guitarra: la modulación al tono de la dominante se sustituye con frecuencia por un contraste temático más que tonal, y el desarrollo se apoya en secuencias armónicas sobre el bordón de tónica o dominante[^13].==
 
-==El tema con variaciones es otro género fundamental. Sor lo cultiva en las *Variaciones sobre las Folías de España* op. 15a, donde cada variación explota un recurso técnico diferente (arpegios, escalas, campanelas, acordes) manteniendo la estructura armónica del tema. Aguado compone *El Fandango Variado* op. 16, que combina la forma de variaciones con el carácter rítmico del fandango español[^15].==
+==El tema con variaciones es otro género fundamental. Sor lo cultiva en las *Variaciones sobre las Folías de España* op. 15a, donde cada variación explota un recurso técnico diferente (arpegios, escalas, campanelas, acordes) manteniendo la estructura armónica del tema. Aguado compone *El Fandango Variado* op. 16, que combina la forma de variaciones con el carácter rítmico del fandango español[^14].==
 
 ==La fantasía, de origen improvisatorio, permite una mayor libertad formal. La *Fantasía Elegíaca* op. 59 de Sor es un ejemplo de programa extramusical y de la influencia del Sturm und Drang en el repertorio guitarrístico: compuesta a la muerte de Madame Beslay, la obra describe un viaje desde la desesperación hasta la aceptación mediante contrastes extremos de dinámica y tempo.==
 
-==El vals es la forma de salón por excelencia en la escuela española. Aguado compone numerosos valses (Op. 1, 7, 12) de carácter ligero y funcional, destinados al consumo doméstico. El rondó, la contradanza y el minué completan el cuadro formal del repertorio guitarrístico del periodo[^16].==
+==El vals es la forma de salón por excelencia en la escuela española. Aguado compone numerosos valses (Op. 1, 7, 12) de carácter ligero y funcional, destinados al consumo doméstico. El rondó, la contradanza y el minué completan el cuadro formal del repertorio guitarrístico del periodo[^15].==
 
 ### Textura y lenguaje armónico #REVISAR_OPENCODE
 
 ==La textura predominante es la melodía acompañada, con la línea melódica en el registro agudo (primera y segunda cuerdas) y el acompañamiento armónico en las cuerdas graves mediante arpegios y acordes. Esta textura deriva del bajo Alberti pianístico y se adapta a la guitarra mediante fórmulas arpegiadas de tres, cuatro y seis notas que llenan el espacio sonoro sin exigir un control polifónico riguroso.==
 
-==Sor introduce un tratamiento más contrapuntístico que el habitual. En sus obras, las voces intermedias adquieren independencia melódica, creando una polifonía a dos o tres voces reales propia de un estilo de escritura más elaborada[^17]. Aguado, en cambio, prefiere una textura más homofónica y pianística, con arpegios regulares y acompañamientos esquemáticos que facilitan la ejecución al aficionado[^13].==
+==Sor introduce un tratamiento más contrapuntístico que el habitual. En sus obras, las voces intermedias adquieren independencia melódica, creando una polifonía a dos o tres voces reales propia de un estilo de escritura más elaborada[^16]. Aguado, en cambio, prefiere una textura más homofónica y pianística, con arpegios regulares y acompañamientos esquemáticos que facilitan la ejecución al aficionado[^12].==
 
 ==Armónicamente, el lenguaje se mueve dentro de la tonalidad bimodal mayor-menor, con modulaciones a tonos vecinos (dominante, relativo menor, subdominante). Sor emplea con frecuencia la séptima disminuida y las dominantes secundarias para crear tensión expresiva, mientras que Aguado se mantiene en un lenguaje más diatónico y funcional, acorde con su enfoque pedagógico.==
 
 ## La escritura instrumental en la escuela española #REVISAR_OPENCODE
 
-==La evolución de la escritura guitarrística en la escuela española está marcada por el tránsito definitivo de la tablatura a la notación mensural y por la progresiva complejidad de la notación para reflejar las posibilidades polifónicas del instrumento. Moretti, Sor y Aguado constituyen los tres hitos fundamentales de este proceso[^18].==
+==La evolución de la escritura guitarrística en la escuela española está marcada por el tránsito definitivo de la tablatura a la notación mensural y por la progresiva complejidad de la notación para reflejar las posibilidades polifónicas del instrumento. Moretti, Sor y Aguado constituyen los tres hitos fundamentales de este proceso[^17].==
 
 ### La herencia de Moretti: la notación a dos voces #REVISAR_OPENCODE
 
-==Federico Moretti, con sus *Principios para tocar la guitarra de seis órdenes* (1799), sienta las bases de la escritura moderna: distingue claramente dos voces mediante la dirección de las plicas (hacia arriba para la voz superior, hacia abajo para el bajo) y establece la clave de Sol como referencia para la notación guitarrística. Este sistema de dos voces será adoptado y refinado por Sor, quien lo menciona explícitamente en su *Méthode*[^18].==
+==Federico Moretti, con sus *Principios para tocar la guitarra de seis órdenes* (1799), sienta las bases de la escritura moderna: distingue claramente dos voces mediante la dirección de las plicas (hacia arriba para la voz superior, hacia abajo para el bajo) y establece la clave de Sol como referencia para la notación guitarrística. Este sistema de dos voces será adoptado y refinado por Sor, quien lo menciona explícitamente en su *Méthode*[^17].==
 
-==Sin embargo, la notación de Moretti es aún esquemática: los acordes se escriben como bloques armónicos sin indicaciones de digitación, articulación o dinámica. La escritura funciona como un cifrado armónico sobre el que el intérprete debe aplicar sus propios recursos expresivos. Sor supera este esquematismo al incorporar a la notación indicaciones precisas de digitación (mano izquierda y derecha), ligados, dinámicas (*p*, *f*, *cresc.*, *dim.*) y articulación (*staccato*, acentos)[^19].==
+==Sin embargo, la notación de Moretti es aún esquemática: los acordes se escriben como bloques armónicos sin indicaciones de digitación, articulación o dinámica. La escritura funciona como un cifrado armónico sobre el que el intérprete debe aplicar sus propios recursos expresivos. Sor supera este esquematismo al incorporar a la notación indicaciones precisas de digitación (mano izquierda y derecha), ligados, dinámicas (*p*, *f*, *cresc.*, *dim.*) y articulación (*staccato*, acentos)[^18].==
 
 ### La escritura de Sor: polifonía y expresividad #REVISAR_OPENCODE
 
-==Sor desarrolla la escritura a tres voces reales, un salto cualitativo respecto a la notación anterior. Las voces se distinguen no solo por la dirección de las plicas sino también por el uso de silencios completivos, calderones y cambios de registro que permiten la claridad polifónica. Su *Méthode* (1830) explica detalladamente estos recursos y su aplicación[^20].==
+==Sor desarrolla la escritura a tres voces reales, un salto cualitativo respecto a la notación anterior. Las voces se distinguen no solo por la dirección de las plicas sino también por el uso de silencios completivos, calderones y cambios de registro que permiten la claridad polifónica. Su *Méthode* (1830) explica detalladamente estos recursos y su aplicación[^19].==
 
 ==En sus obras más avanzadas (op. 22, op. 29, op. 31), Sor emplea una concepción orquestal de la escritura guitarrística: la guitarra imita los contrastes de la orquesta clásica mediante cambios de registro, dinámicas extremas y alternancia de texturas. La indicación *solo* y *tutti* aparece en varias de sus obras para señalar estos contrastes tímbricos.==
 
 ==La notación de Sor incluye también ligados de expresión que indican frases musicales completas, no solo articulaciones técnicas. Este enfoque musical de la notación, en el que cada indicación sirve a la expresión musical antes que a la mera ejecución técnica, influye en toda la tradición guitarrística posterior.==
 
-==En sus estudios (op. 6, 29, 31, 35), Sor combina el valor pedagógico con la calidad artística. Cada estudio se centra en un recurso técnico específico dentro de un marco musical coherente, anticipando el concepto de estudio de concierto que desarrollará el Romanticismo[^14].==
+==En sus estudios (op. 6, 29, 31, 35), Sor combina el valor pedagógico con la calidad artística. Cada estudio se centra en un recurso técnico específico dentro de un marco musical coherente, anticipando el concepto de estudio de concierto que desarrollará el Romanticismo[^13].==
 
 ### La escritura pedagógica de Aguado #REVISAR_OPENCODE
 
-==Aguado aborda la notación desde una perspectiva pedagógica. Su *Escuela de guitarra* (1825) y el posterior *Nuevo método para guitarra* (1843) sistematizan la técnica guitarrística mediante una notación detallada y progresiva[^21].==
+==Aguado aborda la notación desde una perspectiva pedagógica. Su *Escuela de guitarra* (1825) y el posterior *Nuevo método para guitarra* (1843) sistematizan la técnica guitarrística mediante una notación detallada y progresiva[^20].==
 
 ==Aguado es el primero en incluir sistemáticamente la digitación de la mano derecha (*p*, *i*, *m*, *a*) en sus métodos, así como indicaciones precisas sobre la posición de las manos y el cuerpo. Su notación de los arpegios incluye la distribución exacta de los dedos de la mano derecha para cada fórmula, un recurso didáctico inédito hasta entonces.==
 
-==Frente a la escritura musical de Sor, Aguado adopta un enfoque más funcional y didáctico. Sus composiciones, aunque menos ambiciosas musicalmente, están notadas con una claridad ejemplar que las convierte en herramientas pedagógicas de primer orden. El *Nuevo método* incluye además innovaciones organológicas notadas: el uso del trípode (tripodison) se indica en las partituras, y las indicaciones sobre la pulsación (con o sin uña) se explicitan en los ejercicios[^21].==
+==Frente a la escritura musical de Sor, Aguado adopta un enfoque más funcional y didáctico. Sus composiciones, aunque menos ambiciosas musicalmente, están notadas con una claridad ejemplar que las convierte en herramientas pedagógicas de primer orden. El *Nuevo método* incluye además innovaciones organológicas notadas: el uso del trípode (tripodison) se indica en las partituras, y las indicaciones sobre la pulsación (con o sin uña) se explicitan en los ejercicios[^20].==
 
 ==La escuela española de escritura guitarrística, representada por Moretti, Sor y Aguado, establece los fundamentos notacionales que permitirán el desarrollo del repertorio romántico posterior (Giuliani, Diabelli, Mertz, Coste) y sienta las bases de la notación moderna de la guitarra.==
 ## Autores y repertorio
@@ -158,7 +158,7 @@ Este tema se centra en las escuelas españolas. Entre las figuras imprescindible
 ### Fernando Sor (1778-1839) y Dionisio Aguado (1784-1849)
 En el contexto histórico del clasicismo-romanticismo temprano, Fernando Sor y Dionisio Aguado componen nueva música para guitarra, alcanzando niveles de escritura inéditos hasta entonces. Sus obras constituyen una base para las generaciones siguientes y consolidan la guitarra como instrumento no solo armónico y de acompañamiento, sino también contrapuntístico, con notación precisa y explotación de su riqueza tímbrica.
 #### Fernando Sor
-Fernando Sor es una de las figuras más relevantes de la historia de la guitarra y puede considerarse el autor más destacado de su época. Su amplia producción incluye música para guitarra, ballet, ópera, música vocal y otros géneros. Sin embargo, gran parte de su obra permanece poco conocida, lo que dificulta apreciar la totalidad de su capacidad creativa (Mangado, *Enciclopedia para guitarra*).
+Fernando Sor es una de las figuras más relevantes de la historia de la guitarra y puede considerarse el autor más destacado de su época. Su amplia producción incluye música para guitarra, ballet, ópera, música vocal y otros géneros. Sin embargo, gran parte de su obra permanece poco conocida, lo que dificulta apreciar la totalidad de su capacidad creativa[^18].
 
 Entre sus composiciones para guitarra destacan:
 
@@ -172,22 +172,22 @@ También escribió obras didácticas que contribuyeron a la evolución técnica 
 - Colecciones de estudios op. 6, 29, 31, 35...  
 - 24 pequeñas piezas progresivas op. 44  
 
-Nació el 13 de febrero de 1778 en Barcelona. Su verdadero apellido es «Sor», aunque un error en su partida de nacimiento lo registra como «Sors». Durante su infancia estudió música, canto, guitarra y violín con Joseph Prats. Tras la muerte de su padre en 1790, ingresó en la escolanía de música del Monasterio de Montserrat, donde recibió formación con Amselm Viola y el organista Narcís Casanovas[^22].  
+Nació el 13 de febrero de 1778 en Barcelona. Su verdadero apellido es «Sor», aunque un error en su partida de nacimiento lo registra como «Sors». Durante su infancia estudió música, canto, guitarra y violín con Joseph Prats. Tras la muerte de su padre en 1790, ingresó en la escolanía de música del Monasterio de Montserrat, donde recibió formación con Amselm Viola y el organista Narcís Casanovas[^21].  
 
-En 1795 abandonó el monasterio y se presentó voluntario para el ejército español, siendo teniente de la Tercera Compañía del Tercio de Tropas Auxiliares del Corregimiento de Villafranca, cuya misión era frenar el avance francés en Cataluña. Tras la disolución del Tercio en septiembre de 1795, volvió a la vida civil. Durante esta época conoció la obra de Moretti para guitarra, ampliando su visión sobre las posibilidades polifónicas del instrumento[^22].
+En 1795 abandonó el monasterio y se presentó voluntario para el ejército español, siendo teniente de la Tercera Compañía del Tercio de Tropas Auxiliares del Corregimiento de Villafranca, cuya misión era frenar el avance francés en Cataluña. Tras la disolución del Tercio en septiembre de 1795, volvió a la vida civil. Durante esta época conoció la obra de Moretti para guitarra, ampliando su visión sobre las posibilidades polifónicas del instrumento[^21].
 
 Sor fue un músico cosmopolita, residiendo en ciudades como Barcelona, Madrid, París, Londres y Moscú, donde adquirió amplia experiencia musical.  
 #### Diferencias técnicas entre Sor y Aguado
 - Sor tocaba sin uña, práctica habitual en Europa.  
 - Aguado tocaba con uña, como era común en España.  
 
-Este debate sobre la pulsación (yema o uña) se recoge en el *Método* de Sor y responde al concepto estético del Romanticismo, buscando mayor sonoridad y virtuosismo, así como un tratamiento técnico más avanzado[^23].
+Este debate sobre la pulsación (yema o uña) se recoge en el *Método* de Sor y responde al concepto estético del Romanticismo, buscando mayor sonoridad y virtuosismo, así como un tratamiento técnico más avanzado[^22].
 
 En 1797 se representó en Barcelona su primera ópera, *Telémaco*, con gran éxito, lo que lo convirtió en una figura popular. Entre 1797 y 1800 actuó en Barcelona como guitarrista y compositor para diversas formaciones instrumentales y vocales.
 
 En 1762 Fernando Sor fue protegido por la Duquesa de Alba #frase_sin_source (corrección: Hacia 1799 — Sor nació en 1778, la Duquesa de Alba falleció en 1802; la protección debió ocurrir hacia 1799 cuando Sor tenía unos 21 años #frase_revisar_opencode #comprobado) y, tras su fallecimiento en 1802, el Duque de Medinaceli le ofreció un empleo en Barcelona, ocupándose de asuntos administrativos.
 
-Entre septiembre y noviembre de 1802, los reyes de España visitaron Barcelona acompañados de Manuel Godoy, lo que motivó la actuación de numerosos músicos de la ciudad. Se presume que fue entonces cuando Sor dedicó su *Grande Sonate pour la Guitare seule* op. 22 a Godoy, gran aficionado al instrumento[^24].
+Entre septiembre y noviembre de 1802, los reyes de España visitaron Barcelona acompañados de Manuel Godoy, lo que motivó la actuación de numerosos músicos de la ciudad. Se presume que fue entonces cuando Sor dedicó su *Grande Sonate pour la Guitare seule* op. 22 a Godoy, gran aficionado al instrumento[^23].
 
 En 1802, Sor fue nombrado jefe de la administración real en Málaga. La entrada de los franceses en 1808 le obligó a trasladarse a Madrid. Durante su estancia en Málaga debió jurar fidelidad a José I para evitar la pena de muerte, siendo designado comisario de policía en la frontera. Posteriormente se trasladó a Valencia.
 
@@ -247,7 +247,7 @@ Entre sus métodos y tratados destaca *Traité pour la guitarre* (1832) #frase_s
 ##### Arpa-Lira
 - 3 piezas, 6 pequeñas piezas progresivas y *Marcha fúnebre*  
 #### Dionisio Aguado
-Dionisio Aguado destacó principalmente por su labor pedagógica, aunque también compuso en menor medida que Sor. Su trabajo pedagógico fue fundamental para la formación de generaciones posteriores y sentó las bases de la técnica guitarrística. Según Julio Jimeno (*Revista Roseta*), es considerado por algunos como el pedagogo más importante de la historia de la guitarra[^25].
+Dionisio Aguado destacó principalmente por su labor pedagógica, aunque también compuso en menor medida que Sor. Su trabajo pedagógico fue fundamental para la formación de generaciones posteriores y sentó las bases de la técnica guitarrística. Según Julio Jimeno (*Revista Roseta*), es considerado por algunos como el pedagogo más importante de la historia de la guitarra[^24].
 
 Su primer maestro fue el Padre Basilio, y perfeccionó sus conocimientos con Moretti. Aguado vivió varios años en Madrid junto a su madre y en 1820 publicó la *Colección de estudios*. Tras la muerte de su madre en 1826 se trasladó a París, hospedándose en el Hotel Favart, donde residía también Fernando Sor, lo que dio lugar a una estrecha amistad entre ambos guitarristas. Herman Mendel señala que «se convirtió en el preferido de los salones y salas de concierto», llamando la atención de figuras como Rossini y Paganini.  
 
@@ -304,17 +304,13 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 - Aguado, Dionisio. *Escuela de guitarra*. Madrid: Fuentenebro, 1825.
 - Aguado, Dionisio. *Nuevo método para guitarra*. Madrid: Benito Campo, 1843.
 - Alcaraz Iborra, Mario y Roberto Díaz Soto. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario, 2010.
-- Ara, Mario Dell. *Manuale di storia della chitarra, 1: La chitarra antica, classica e romántica*. Ancona: Bèrben, 1988.
-- Boyd, Malcolm y Juan José Carreras (eds.). *La música en España en el siglo XVIII*. Madrid: Cambridge University Press, 2000.
-- Briso de Montiano, Luis. *Un fondo desconocido de música para guitarra*. Madrid: Ópera Tres (Ediciones Musicales), 1995.
 - Ferandiere, Fernando. *Arte de tocar la guitarra española por música*. Madrid: Imprenta de Pantaleón Aznar, 1799.
-- Gimeno, Julio. «Escuela de París. La guitarra en París durante el periodo Clásico Romántico.» *Revista Sonoro*, año 2, n.º 2.
 - Gimeno, Julio. «Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820.» *Roseta*, n.º 0. Madrid: Sociedad Española de la Guitarra, 2007: 44-62.
 - Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
 - Jeffery, Brian. «Fernando Sor's Method.» *Guitar Review*, n.º 39, 1974.
 - Mangado, Josep María. «Sor, Fernando.» En *Enciclopedia de la guitarra*, editado por Francisco Herrera. 2.ª ed. Valencia: Piles, 2004.
 - Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid: Imprenta de Sancha, 1799.
-- Radole, Giuseppe. *Laúd, guitarra y vihuela. Historia y literatura*. Barcelona: EDB (Editorial Don Bosco), 1982.
+- Pujol, Emilio. *Enciclopedia de la música*. París, 1923.
 - Romanillos, José Luis. «Dionisio Aguado. The Man.» *Guitar International* 12, n.º 9, 1984.
 - Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
 - Sor, Fernando. *Méthode pour la Guitare*. París: l'auteur, 1830.
@@ -340,36 +336,34 @@ Durante su estancia en Fuenlabrada, Aguado desarrolló varias innovaciones organ
 
 [^8]: Alcaraz Iborra, Mario; Díaz Soto, Roberto. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario, 2010.
 
-[^9]: Alcaraz Iborra, Mario; Díaz Soto, Roberto. *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario, 2010.
+[^9]: Romanillos, José Luis. «Dionisio Aguado. The Man.» *Guitar International* 12, n.º 9 (1984).
 
-[^10]: Romanillos, José Luis. «Dionisio Aguado. The Man.» *Guitar International* 12, n.º 9 (1984).
+[^10]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
 
-[^11]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+[^11]: Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
 
-[^12]: Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
+[^12]: Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
 
-[^13]: Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
+[^13]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830. Reed. en *The Guitar Review*, n.º 39, 1974.
 
-[^14]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830. Reed. en *The Guitar Review*, n.º 39, 1974.
+[^14]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
 
-[^15]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+[^15]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
 
-[^16]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+[^16]: Suárez Pajares, Javier. «Sor y Aguado en la tradición guitarrística española.» *Cuadernos de música y teatro*, 1990.
 
-[^17]: Suárez Pajares, Javier. «Sor y Aguado en la tradición guitarrística española.» *Cuadernos de música y teatro*, 1990.
+[^17]: Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid, 1799.
 
-[^18]: Moretti, Federico. *Principios para tocar la guitarra de seis órdenes, precedidos de los elementos generales de la música*. Madrid, 1799.
+[^18]: Mangado, Josep María. «Sor, Fernando.» En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.
 
-[^19]: Mangado, Josep María. «Sor, Fernando.» En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.
+[^19]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830.
 
-[^20]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830.
+[^20]: Aguado, Dionisio. *Nuevo método para guitarra*. Madrid, 1843.
 
-[^21]: Aguado, Dionisio. *Nuevo método para guitarra*. Madrid, 1843.
+[^21]: Mangado, Josep María. «Sor, Fernando.» En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.
 
-[^22]: Mangado, Josep María. «Sor, Fernando.» En Francisco Herrera, *Enciclopedia de la guitarra*. 2.ª ed. Valencia: Piles, 2004.
+[^22]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830.
 
-[^23]: Sor, Fernando. *Méthode pour la Guitare*. París, 1830.
+[^23]: Jeffery, Brian. «Fernando Sor's Method.» *Guitar Review*, n.º 39 (1974).
 
-[^24]: Jeffery, Brian. «Fernando Sor's Method.» *Guitar Review*, n.º 39 (1974).
-
-[^25]: Gimeno, Julio. «Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820.» *Roseta*, n.º 0. Madrid: Sociedad Española de la Guitarra, 2007, pp. 44-62.
+[^24]: Gimeno, Julio. «Dionisio Aguado (1784-1849) y la Escuela de guitarra de 1820.» *Roseta*, n.º 0. Madrid: Sociedad Española de la Guitarra, 2007, pp. 44-62.
