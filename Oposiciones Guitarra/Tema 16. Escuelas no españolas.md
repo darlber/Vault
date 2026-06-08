@@ -80,7 +80,7 @@ En cuanto a sus círculos de conocidos y relaciones profesionales, debemos menci
 
 #### Nicolo Paganini
 
-Nicolo Paganini es el compositor más famoso no-guitarrista (aunque sabía tocarla, no era un virtuoso) #frase_sin_source (corrección: Paganini cultivó también la guitarra con dominio nada desdeñable; sus contemporáneos lo describen como «formidable virtuoso de la guitarra» (Gruenfield) #frase_revisar_opencode #comprobado) Era contemporáneo de Sor, ya que nació en Génova en 1782 y falleció en 1840 en Niza. Realizó una gran producción de piezas que involucraban a la guitarra, fuera para guitarra sola o música de cámara (dúos, tríos y cuartetos), y esta producción consta de 200 obras.
+Nicolo Paganini es el compositor más famoso no-guitarrista (aunque sabía tocarla, no era un virtuoso) #frase_sin_source (corrección: Paganini cultivó también la guitarra con dominio nada desdeñable; sus contemporáneos lo describen como «formidable virtuoso de la guitarra» (Gruenfield) #frase_revisar_opencode #comprobado)[^9] Era contemporáneo de Sor, ya que nació en Génova en 1782 y falleció en 1840 en Niza. Realizó una gran producción de piezas que involucraban a la guitarra, fuera para guitarra sola o música de cámara (dúos, tríos y cuartetos), y esta producción consta de 200 obras.
 
 #### Giulio Regondi
 
@@ -141,7 +141,7 @@ En Austria podemos ver cómo coincidió la caída del laúd con el ascenso de la
 
 #### Franz Schubert
 
-Schubert nació y murió en Viena (1797-1828), el centro musical de los siglos XVIII y XIX, y fue un gran compositor de lieder (composiciones cortas para voz y piano). Pero sabemos que además mantuvo una relación estrecha con la guitarra, porque el ciclo de lieder *Die Winterreise* fue compuesto sirviéndose de este instrumento #frase_sin_source (corrección: la relación de Schubert con la guitarra está documentada en el *Terzetto* D. 80 (1813) y en la adaptación del trío de Matiegka (1814); no hay evidencia de que compusiera *Winterreise* con guitarra #frase_revisar_opencode #comprobado)
+Schubert nació y murió en Viena (1797-1828), el centro musical de los siglos XVIII y XIX, y fue un gran compositor de lieder (composiciones cortas para voz y piano). Pero sabemos que además mantuvo una relación estrecha con la guitarra, porque el ciclo de lieder *Die Winterreise* fue compuesto sirviéndose de este instrumento #frase_sin_source (corrección: la relación de Schubert con la guitarra está documentada en el *Terzetto* D. 80 (1813) y en la adaptación del trío de Matiegka (1814); no hay evidencia de que compusiera *Winterreise* con guitarra #frase_revisar_opencode #comprobado)[^14]
 
 #### Anton Diabelli
 
@@ -247,15 +247,15 @@ Escribió mucha música para guitarra sola y música de cámara, además de un m
 
 ==Mertz desarrolla un modelo de escritura pianística para la guitarra: acordes densos de hasta seis notas, texturas llenas, cambios de registro abruptos y una explotación del registro grave que requiere una guitarra de mayor tesitura. Su *Op. 65* y sus *Bardenklänge* ejemplifican este estilo tardorromántico que lleva la escritura guitarrística a sus límites técnicos y notacionales. La influencia del piano-forte es evidente en su tratamiento armónico y en la amplitud de su registro.==
 
-# Bibliografía
+# Bibliografía #REVISAR_OPENCODE
 
 - Denis, Françoise-Emmanuelle. «Comentario de Mertz; Manjón, Regondi, Coste, Broca». En *Il Fronimo*, n.º 56. Milán: Edizioni Suvini Zerboni, 1986.
 - Gruenfield, John. *Paganini: A Biography*. London: Chappell, 1969.
-- Koczorowski, S. P. *Jan Nepomucen Bobrowicz*. Leipzig: Breitkopf & Härtel, 1938.
-- Radole, Giuseppe. *Laúd, guitarra y vihuela*. Traducción de A. L. Sánchez. Barcelona: EDB, 1982.
+- Mattingly, Stephen. *Franz Schubert's Chamber Music with Guitar: A Study of the Guitar's Role in Biedermeier Vienna*. DMA thesis, Florida State University, 2007.
+- Radole, Giuseppe. *Laúd, guitarra y vihuela*. Barcelona: EDB, 1982.
 - Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
 - Rosen, Charles. *The Classical Style: Haydn, Mozart, Beethoven*. New York: Viking Press, 1971.
-- Timofeyev, Vitalyevich. *The Golden Age of the Russian Guitar: Repertoire, Performance Practice, and Social Function of the Russian Seven-string Guitar Music; 1800-1850*. Ann Arbor: UMI Dissertation Services, 1999.
+- Timofeyev, Oleg V. *The Golden Age of the Russian Guitar: Repertoire, Performance Practice, and Social Function of the Russian Seven-string Guitar Music; 1800-1850*. Ann Arbor: UMI Dissertation Services, 1999.
 - Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
 - Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
 
@@ -277,17 +277,21 @@ Escribió mucha música para guitarra sola y música de cámara, además de un m
 
 [^8]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
 
+[^9]: Gruenfield, John. *Paganini: A Biography*. London: Chappell, 1969.
+
 [^10]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
 
-[^11]: Timofeyev, Vitalyevich. *The Golden Age of the Russian Guitar: Repertoire, Performance Practice, and Social Function of the Russian Seven-string Guitar Music; 1800-1850*. 1999.
+[^11]: Timofeyev, Oleg V. *The Golden Age of the Russian Guitar*. Ann Arbor: UMI Dissertation Services, 1999.
 
 [^12]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
 
 [^13]: Denis, Françoise-Emmanuelle. «Comentario de Mertz; Manjón, Regondi, Coste, Broca». En *Il Fronimo*, n.º 56. Milán: Edizioni Suvini Zerboni, 1986.
 
+[^14]: Mattingly, Stephen. *Franz Schubert's Chamber Music with Guitar: A Study of the Guitar's Role in Biedermeier Vienna*. DMA thesis, Florida State University, 2007.
+
 [^15]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
 
-[^16]: Timofeyev, Vitalyevich. *The Golden Age of the Russian Guitar: Repertoire, Performance Practice, and Social Function of the Russian Seven-string Guitar Music; 1800-1850*. 1999.
+[^16]: Timofeyev, Oleg V. *The Golden Age of the Russian Guitar*. Ann Arbor: UMI Dissertation Services, 1999.
 
 [^17]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
 
