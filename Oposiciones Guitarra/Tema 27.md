@@ -6,15 +6,16 @@
 2. [Concepto de creatividad](#2-concepto-de-creatividad)
 3. [Creatividad musical en las diferentes etapas del desarrollo humano](#3-creatividad-musical-en-las-diferentes-etapas-del-desarrollo-humano)
 4. [Desarrollo de la creatividad en los conservatorios de música](#4-desarrollo-de-la-creatividad-en-los-conservatorios-de-música)
-   - [4.1. Pedagogía que propicie la creatividad](#41-pedagogía-que-propicie-la-creatividad)
-   - [4.2. Creatividad y Proyecto Educativo de Centro](#42-creatividad-y-proyecto-educativo-de-centro)
-   - [4.3. Organización del aula, actitud del profesor y creatividad](#43-organización-del-aula-actitud-del-profesor-y-creatividad)
+    - [4.1. Pedagogía que propicie la creatividad](#41-pedagogía-que-propicie-la-creatividad)
+    - [4.2. Creatividad y Proyecto Educativo de Centro](#42-creatividad-y-proyecto-educativo-de-centro)
+    - [4.3. Organización del aula, actitud del profesor y creatividad](#43-organización-del-aula-actitud-del-profesor-y-creatividad)
 5. [Creatividad y desarrollo instrumental y musical](#5-creatividad-y-desarrollo-instrumental-y-musical)
-   - [5.1. Técnica, capacidad expresiva, inteligencia musical y personalidad artística](#51-técnica-capacidad-expresiva-inteligencia-musical-y-personalidad-artística)
-   - [5.2. La improvisación musical como técnica pedagógica](#52-la-improvisación-musical-como-técnica-pedagógica)
+    - [5.1. Técnica, capacidad expresiva, inteligencia musical y personalidad artística](#51-técnica-capacidad-expresiva-inteligencia-musical-y-personalidad-artística)
+    - [5.2. La improvisación musical como técnica pedagógica](#52-la-improvisación-musical-como-técnica-pedagógica)
 6. [Desarrollo del espíritu emprendedor](#6-desarrollo-del-espíritu-emprendedor)
 7. [Conclusiones](#7-conclusiones)
-8. [Bibliografía](#8-bibliografía)
+8. [NOTAS](#8-notas)
+9. [Bibliografía](#9-bibliografía)
 
 ## 1. Introducción
 
