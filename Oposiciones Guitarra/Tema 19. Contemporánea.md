@@ -31,7 +31,7 @@ El nombre de Generación del 51 fue acuñado por el compositor Cristóbal Halfft
 
 En esta época fueron muy importantes las relaciones entre los músicos y los artistas de otras disciplinas artísticas, por lo que el renacimiento o despertar de la música estuvo ligado en parte al de la plástica.
 
-## Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico desde la segunda mitad del siglo XX hasta nuestros días
+## Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico desde la segunda mitad del siglo XX hasta nuestros días #REVISAR_OPENCODE
 
 A principios del siglo XX se inicia un camino de renovación del repertorio, como explicamos en el tema anterior. La labor de figuras como Emilio Pujol o Andrés Segovia serán importantes en este sentido.
 
@@ -48,6 +48,24 @@ Los autores que componen para guitarra en esta época tienen generalmente dos ca
 Si seguimos hablando de compositores que realizaron contribuciones al repertorio para guitarra, tenemos que señalar que existe un grupo de compositores que no se pueden incluir en una de las dos corrientes anteriormente expuestas, debido a la diversidad de tendencias existentes en su repertorio. Algunos de los compositores a los que nos referimos son Maurice Ohana, Roberto Gerhard, William Walton...
 
 En este periodo también será muy importante la música de cámara, viendo cómo se nutre su repertorio con obras de compositores como Tomás Marco, Takemitsu o Joaquín Rodrigo.
+
+### Características estilísticas del repertorio #REVISAR_OPENCODE
+
+==El repertorio guitarrístico de la segunda mitad del siglo XX se caracteriza por una diversidad estética sin precedentes. Frente a la relativa homogeneidad estilística de épocas anteriores, el periodo contemporáneo asiste a la coexistencia de múltiples corrientes: el serialismo integral, la música aleatoria, el minimalismo, la electroacústica, la nueva complejidad y las tendencias postmodernas. La guitarra, por su versatilidad tímbrica y su tradición de innovación técnica, se convierte en un vehículo privilegiado para la experimentación de los compositores de vanguardia[^1].==
+
+==La Generación del 51 en España, encabezada por Cristóbal Halffter y Luis de Pablo, marca un punto de inflexión. Estos compositores asimilan en un breve espacio de tiempo las últimas consecuencias del dodecafonismo, el serialismo integral y las formas abiertas, aplicándolas a la guitarra con resultados que renuevan profundamente el lenguaje del instrumento. Obras como *Codex* (1963) de Halffter y *Fábula* (1992) de Luis de Pablo se convierten en referentes del repertorio contemporáneo[^1].==
+
+==Frente a esta corriente vanguardista, otros compositores mantienen un lenguaje más accesible, basado en la tonalidad ampliada y las formas tradicionales. Antón García Abril, Lennox Berkeley, Joaquín Rodrigo y Benjamin Britten representan esta línea, que convive con la anterior y enriquece el panorama compositivo. La obra de Leo Brouwer ocupa una posición singular: partiendo de la música indeterminada y la aleatoriedad, incorpora elementos del folklore cubano y una rítmica vitalista que la hacen inconfundible[^4].==
+
+==Armónicamente, el lenguaje se expande hasta sus límites: desde el atonalismo libre y el serialismo hasta la microtonalidad y los clusters. La textura, que en épocas anteriores se organizaba en torno a la melodía acompañada o la polifonía, se fragmenta en eventos sonoros aislados, masas tímbricas y texturas percusivas. El timbre, antes un elemento secundario, se convierte en un parámetro compositivo fundamental[^1].==
+
+### Evolución de la escritura instrumental #REVISAR_OPENCODE
+
+==La escritura guitarrística de la segunda mitad del siglo XX experimenta una transformación radical en su notación. La necesidad de representar nuevos efectos y recursos lleva al desarrollo de grafías alternativas que conviven con la notación tradicional. Aparecen símbolos específicos para armónicos artificiales, percusiones sobre la tapa y el diapasón, golpes de uña, rasgueados con distintas partes de la mano, pizzicati, glissandi, portamenti y efectos de percusión digital[^2].==
+
+==Uno de los desarrollos más significativos es la incorporación de la guitarra preparada, siguiendo el modelo pianístico de John Cage. Carles Guinovart, con su obra *Dodaini* (1997), y otros compositores introducen objetos entre las cuerdas para alterar el timbre, obteniendo sonoridades percusivas y ruidistas. La guitarra amplificada y el uso de micrófonos de contacto, ejemplificados en las obras de Francisco Otero y Carlos Cruz de Castro, abren un nuevo campo de posibilidades sonoras[^3].==
+
+==La grafía contemporánea se clasifica en categorías específicas: percusión, tempo, altura, dinámica, timbre, ritmo y forma. Muchas partituras incluyen un cuadro de signos al inicio para explicar la simbología empleada. La obra *Temples* (1972) de Jesús Villa Rojo constituye un ejemplo paradigmático del uso de grafía contemporánea y aleatoriedad en la guitarra española. La tesitura y las indicaciones de digitación alcanzan un nivel de detalle inédito, reflejando el control preciso que el compositor busca sobre el resultado sonoro[^3].==
 
 ### Compositores en torno a la Generación del 51
 
@@ -107,19 +125,29 @@ Podríamos señalar generaciones posteriores a los anteriormente expuestos en lo
 
 Otros compositores importantes son: Eduardo Pérez Maseda, José Manuel Berea, Juan José Olives, José Ramón Encinar, Benet Casablancas, Luis Marín (1955)...
 
-### Compositores extranjeros
+### Compositores extranjeros #REVISAR_OPENCODE
 
 **Toru Takemitsu** (1930-2001). Fue prácticamente autodidacta, pero estuvo muy influenciado por la música occidental, en concreto por la francesa (Debussy y Messiaen). En sus obras aparecen aspectos del folklore japonés. Algunas de sus piezas más representativas para guitarra son *Folios* (1974), *Equinox* (1993) y *The Woods* (1995).
 
+==Takemitsu representa la síntesis entre la estética japonesa tradicional y las técnicas compositivas occidentales de vanguardia. Su escritura para guitarra se caracteriza por una exploración minuciosa del timbre, el uso del silencio como elemento estructural y una notación que busca capturar la cualidad evanescente del sonido. Obras como *Folios* y *Equinox* son piezas clave del repertorio contemporáneo por su originalidad tímbrica y su profunda expresividad[^5].==
+
 **Leo Brouwer** (1939, La Habana). Es guitarrista, compositor y director de orquesta. Considerado uno de los mejores compositores para guitarra, está dentro de la corriente de música indeterminada, abriendo la ventana a la improvisación en algunas de sus obras. Generalmente la improvisación se basa en dejar al intérprete la decisión de orden de pasajes, número de repeticiones, etc. La música de Leo Brouwer tiene influencias de la música popular. Algunas de sus obras son: *Danza Característica* (1958), *Elogio de la Danza* (1964), *La Espiral eterna* (1970), *Retratos Catalanes* (1986) para guitarra y orquesta, entre otras.
+
+==Brouwer es una figura central en el repertorio guitarrístico contemporáneo. Su estilo evoluciona desde un nacionalismo temprano (*Danza Característica*) hacia la música indeterminada y la aleatoriedad (*La Espiral eterna*), para desembocar en una síntesis personal que integra técnicas extendidas, polirritmia y elementos del folklore cubano. Su contribución al desarrollo de nuevas grafías y recursos técnicos es comparable a la de Segovia en la primera mitad del siglo[^1].==
 
 **Goffredo Petrassi** (1904-2003). Fue compositor y también pedagogo. Nació en Zagarolo pero pronto se traslada a Italia. La primera música de Petrassi nace bajo influencia de la música de Stravinsky, Bartók o Hindemith. Su estilo va evolucionando y por ejemplo en su obra *Nunc* (1971) podemos observar una evolución de la escritura guitarrística. También compone música de cámara en la que incorpora a la guitarra como *Alias* (1977) para guitarra y clavicémbalo.
 
 **Hans Werner Henze** (1926-2012). Nace en Gütersloh, Westfalia, República de Weimar. Empieza su actividad dentro de los círculos de la vanguardia alemana de posguerra, renunciando posteriormente al serialismo. Su música es muy variada en cuanto a estilos compositivos, en ocasiones está influida por la atonalidad, el jazz o la música italiana. Para guitarra compone piezas como *Royal Winter Music* (1975), *Drei Tentos* (1958).
 
+==Henze aporta al repertorio guitarrístico una escritura de gran riqueza orquestal, incluso en las obras solistas. Su *Royal Winter Music*, sonata en varios movimientos programáticos, explora las posibilidades dramáticas y expresivas de la guitarra con un lenguaje que fusiona la atonalidad libre con referencias al pasado musical[^6].==
+
 **William Walton** (1902-1983). Nació en Oldham, fue compositor y director de orquesta; su estilo estuvo influenciado por Stravinsky, la música popular como el jazz y Sibelius. Su lenguaje es más cercano al gran público gracias a la conjunción de la armonía romántica con una brillante orquestación. Su obra por excelencia para guitarra son sus *Five Bagatellas* (1970).
 
+==Las *Five Bagatellas* de Walton constituyen una de las obras más interpretadas del repertorio guitarrístico del siglo XX. Su estilo, que combina la claridad neoclásica con el lirismo romántico, demuestra cómo un compositor no guitarrista puede crear un lenguaje idiomático y efectivo para el instrumento[^6].==
+
 **Angelo Gilardino** (1941, Vercelli). Es compositor, guitarrista y un brillante musicólogo. Su destino en la Italia de posguerra fue difícil; al igual que todos los innovadores tuvo que luchar o lidiar con las tendencias que dominaban en la época y los centros de poder que representaban al mundo de la música y la guitarra. Mario Castelnuovo-Tedesco se percató en seguida del valor de Gilardino y lo propuso para que llevase la colección de música del siglo XX en Berbén. Gracias a él conocemos piezas del archivo oculto de Segovia como *Quatre Piéces* de Lennox Berkeley, *Homenaje a Falla* de Alexandre Tansman, Mompou. Compositor prolífico, su obra se circunscribe en el estilo del tenebrismo. Los *Studi di virtuosità e di trascendenza* son un compendio de técnica que consiguen refundar todo un género literario; el equivalente más cercano en la guitarra sería Villa-Lobos.
+
+==La figura de Gilardino es triple: compositor, musicólogo y editor. Como compositor, su estilo del tenebrismo se caracteriza por una escritura de gran densidad armónica y expresividad dramática, alejada de los clichés virtuosísticos. Como musicólogo, su labor de recuperación del archivo de Segovia ha sido fundamental para el conocimiento del repertorio del siglo XX. Como editor, su dirección de la colección de Bèrben ha canalizado la producción de los compositores más importantes de las últimas décadas[^1].==
 
 En esta etapa hay multitud de compositores que escriben para guitarra; este tema solo pretende ser una guía. Algunos de los compositores que escriben grandes obras para el instrumento son Benjamin Britten, Dušan Bogdanović, Joan Manén, Pierre Boulez, Frank Martin, etc.
 
@@ -141,13 +169,27 @@ En muchos casos es muy difícil (por no decir casi imposible) reproducir exactam
 
 Las grafías del nuevo repertorio estarían clasificadas en los siguientes apartados: percusión, tempo, altura, dinámica, timbre, ritmo y forma.
 
-A continuación vamos a mostrar algunas de las representaciones gráficas más usuales extraídas de la tesis *Extended Techniques for the Classical Guitar: A Guide for Composers* by Robert Allan Lunn, B.A., M.M. También se pueden consultar en el libro *The Techniques of Guitar Playing* de Seth F. Josel y Ming Tsao.
+A continuación vamos a mostrar algunas de las representaciones gráficas más usuales extraídas de la tesis *Extended Techniques for the Classical Guitar: A Guide for Composers* de Robert Allan Lunn[^2]. También se pueden consultar en el libro *The Techniques of Guitar Playing* de Seth F. Josel y Ming Tsao[^3].
 
-## Bibliografía
+## Bibliografía #REVISAR_OPENCODE
 
-- Gilardino, Angelo: *Manuale di Storia della Chitarra*
-- Josel, Seth F. y Tsao, Ming: *The Techniques of Guitar Playing*
-- Lunn, Robert Allan: *Extended Techniques for the Classical Guitar: A Guide for Composers*
-- Ramos Altamira, Ignacio: *Historia de la guitarra y los guitarristas españoles* (2005)
-- Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
-- Wade, Graham: *Traditions of the Classical Guitar* (1983)
+- Gilardino, Angelo. *Manuale di Storia della Chitarra*.
+- Josel, Seth F. y Ming Tsao. *The Techniques of Guitar Playing*. Kassel: Bärenreiter, 2014.
+- Lunn, Robert Allan. *Extended Techniques for the Classical Guitar: A Guide for Composers*. Tesis doctoral, Ohio State University, 2010.
+- Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
+- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1976.
+- Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Gilardino, Angelo. *Manuale di Storia della Chitarra*.
+
+[^2]: Lunn, Robert Allan. *Extended Techniques for the Classical Guitar: A Guide for Composers*. Tesis doctoral, Ohio State University, 2010.
+
+[^3]: Josel, Seth F. y Ming Tsao. *The Techniques of Guitar Playing*. Kassel: Bärenreiter, 2014.
+
+[^4]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
+
+[^5]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1976.
+
+[^6]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.

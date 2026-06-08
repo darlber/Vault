@@ -160,7 +160,7 @@ Villa-Lobos fue otro de los guitarristas que no podía faltar, del cual Prat dec
 
 ==Villa-Lobos es el compositor brasileño más importante para la guitarra del siglo XX. Sus *Doce Estudios* (1929) y la *Suite Popular Brasileña* constituyen obras fundamentales del repertorio, en las que fusiona la técnica guitarrística europea con el folclore brasileño. Su lenguaje armónico, influido por el impresionismo, explota las posibilidades tímbricas de la guitarra de manera innovadora. La escritura de Villa-Lobos se caracteriza por el uso de escalas modales, ritmos sincopados tomados del choro y la samba, y una textura que alterna pasajes arpegiados con acordes densos y efectos percusivos[^1].==
 
-## 2. La guitarra y la generación del 27 #REVISAR_OPENCODE
+## 2. La guitarra y la generación del 27
 
 En esta época se produce un cambio de visión con respecto a la guitarra, de lo popular a instrumento de concierto. En el siglo XX la guitarra marcó un punto de inflexión gracias a la formación de un nuevo repertorio y a la incorporación de un repertorio histórico. En los escritos de Salazar ya realiza una distinción entre nacionalismo directo y nacionalismo esencial.
 
@@ -170,7 +170,7 @@ Los compositores de la generación estarán muy influidos por Manuel de Falla, l
 
 También destacar que existió una relación e intercambio cultural e ideológico entre la generación musical del 27 y la de poetas; ello hizo que se produjese una evolución de las artes y la cultura española en la época. Hubo muchos compositores de la Generación del 27 que escribieron para guitarra, entre ellos encontramos a Roberto Gerhard, Salvador Bacarisse, Julián Bautista, Ernesto Halffter, Antonio José, Fernando Remacha y Gustavo Pittaluga.
 
-## 3. La influencia de Andrés Segovia #REVISAR_OPENCODE
+## 3. La influencia de Andrés Segovia
 
 Andrés Segovia nació en 1893 en Linares; su debut tuvo lugar en el Ateneo de Madrid en 1913. Otra fecha importante fue 1914, cuando tuvo lugar su debut en París, en el cual estaban presentes figuras como Manuel de Falla, Paul Dukas, Albert Roussel, Joaquín Nin y el filósofo Miguel de Unamuno.
 
