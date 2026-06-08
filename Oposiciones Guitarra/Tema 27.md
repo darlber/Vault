@@ -94,7 +94,7 @@
 
 ## 5. Creatividad y desarrollo instrumental y musical
 
-### 5.1. Técnica, capacidad expresiva, inteligencia musical y personalidad artística
+### 5.1. Técnica, capacidad expresiva, inteligencia musical y personalidad artística #REVISAR_OPENCODE
 
 - La enseñanza instrumental en el pasado se ha caracterizado por ser excesivamente técnica, centrada en la adquisición de habilidades mecánicas para la lectura e interpretación de partituras
 - En los conservatorios del s. XX las metodologías no han propiciado la creatividad; se configuraba una enseñanza artesanal donde el profesor modelaba al alumno a su imagen y semejanza
@@ -135,7 +135,7 @@
 - La improvisación debe desarrollarse en enseñanzas elementales y profesionales, independientemente del nivel técnico
 - La creatividad funde lo afectivo, la sensibilidad, lo cognoscitivo y la curiosidad creadora; la improvisación integra el hacer con el sentir y el pensar
 
-## 6. Desarrollo del espíritu emprendedor
+## 6. Desarrollo del espíritu emprendedor #REVISAR_OPENCODE
 
 - La LOMCE modificó las 8 competencias básicas de la LOE, que pasan a ser 7 «competencias clave»
 - Entre ellas aparece una nueva: **Sentido de la iniciativa y espíritu emprendedor**
@@ -224,7 +224,7 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*), la comp
 
 [^5]: García Calero, Pilar y A. Estebaranz García. *Innovación y creatividad en la enseñanza musical*. Barcelona: Octaedro, 2005.
 
-## 9. Bibliografía #REVISAR_OPENCODE
+## 8. Bibliografía #REVISAR_OPENCODE
 
 - Alemany, Luisa; José Antonio Marina y Juan Manuel Pérez Díaz-Pericles. *Aprender a emprender: cómo educar el talento emprendedor*. Barcelona: AulaPLANETA, 2013.
 - Fuentes, Pilar y Juan Cervera. *Pedagogía y didáctica para músicos*. Valencia: Piles, 1989.

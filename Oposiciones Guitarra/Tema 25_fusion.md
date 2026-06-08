@@ -40,11 +40,11 @@
 - Estas corrientes tratan primero la vivencia y el descubrimiento, y posteriormente abordan la teoría en la que se asientan dichas experiencias
 - Rousseau fue uno de los primeros defensores de este enfoque; a finales del s. XIX apareció la «Escuela activa», cuyo representante máximo fue Dewey[^2], que promovió este movimiento pedagógico
 - A finales del s. XIX y comienzos del XX surge el movimiento de la Nueva Escuela, que sitúa al alumno como centro del proceso de aprendizaje
-- El s. XX ha sido el siglo de los grandes métodos de iniciación musical[^4], propiciado por:
+- El s. XX ha sido el siglo de los grandes métodos de iniciación musical[^5], propiciado por:
   1. El auge de las ciencias sobre la conducta humana (psicología y pedagogía)
   2. La expansión de la educación y su obligatoriedad progresiva
   3. El gran desarrollo instrumental y técnico desde la segunda mitad del s. XIX, y la mala praxis pedagógica imperante
-- Muchos de estos sistemas se han inspirado en J. Piaget[^3] y la Psicología Cognitiva, el constructivismo y los estadios psico-evolutivos
+- Muchos de estos sistemas se han inspirado en J. Piaget[^4] y la Psicología Cognitiva, el constructivismo y los estadios psico-evolutivos
 
 ### Principios metodológicos comunes
 - **Intuición**: la enseñanza, sobre todo en primeras edades, ha de tener base intuitiva
@@ -195,7 +195,7 @@
 
 ### 3.1. Clasificación histórica
 
-Según Hemsy de Gainza (2004)[^1], los métodos pueden clasificarse en seis períodos históricos:
+Según Hemsy de Gainza (2004)[^3], los métodos pueden clasificarse en seis períodos históricos:
 
 - **Primer período: métodos precursores (1930–1940)**: nace el movimiento de la Nueva Escuela en oposición a los métodos decimonónicos. Pedagogías activas: Pestalozzi, Dalcroze, Froebel, Dalton, Montessori. En música: Tonic-Sol-Fa (Inglaterra), método de Maurice Chevais (Francia)
 - **Segundo período: métodos activos (1940–1950)**: aparece la Euritmia de Jaques Dalcroze, y en consonancia las propuestas de Edgar Willems (Bélgica) y Maurice Martenot (Francia). Willems centra la atención en el alumno y su psicología. En EE. UU., John Dewey difunde la educación para todos y James Mursell aplica sus principios a la educación musical
@@ -284,9 +284,9 @@ Según Hemsy de Gainza (2004)[^1], los métodos pueden clasificarse en seis per�
 - Aplicar juegos de Dalcroze y Bassi adaptados al instrumento (ej. percusión en la caja de la guitarra, movimiento mientras se mantiene la posición)
 - Ejercicios de pulsación rítmica combinados con palmadas y desplazamientos
 
-==**Actividades rítmicas específicas:** la percusión corporal combinada con la guitarra permite desarrollar la pulsación estable antes de abordar la lectura de figuras. Por ejemplo, el alumno puede marcar el pulso con el pie mientras rasguea acordes básicos al aire, o alternar palmadas y pulsaciones sobre la tapa armónica para interiorizar las subdivisiones del compás. Estas actividades conectan directamente con los principios de Dalcroze y Orff aplicados al instrumento[^4].==
+==**Actividades rítmicas específicas:** la percusión corporal combinada con la guitarra permite desarrollar la pulsación estable antes de abordar la lectura de figuras. Por ejemplo, el alumno puede marcar el pulso con el pie mientras rasguea acordes básicos al aire, o alternar palmadas y pulsaciones sobre la tapa armónica para interiorizar las subdivisiones del compás. Estas actividades conectan directamente con los principios de Dalcroze y Orff aplicados al instrumento[^5].==
 
-==**Ejercicios de conocimiento de la guitarra:** antes de la lectura de partituras, el alumno debe explorar las posibilidades sonoras del instrumento imitando breves motivos propuestos por el profesor (ecos melódicos y rítmicos), tal como propone Suzuki para la iniciación instrumental. La memorización de patrones melódicos sencillos en las cuerdas al aire (mi, si, sol) desarrolla la memoria musical y la coordinación sin la presión de la notación escrita[^5].==
+==**Ejercicios de conocimiento de la guitarra:** antes de la lectura de partituras, el alumno debe explorar las posibilidades sonoras del instrumento imitando breves motivos propuestos por el profesor (ecos melódicos y rítmicos), tal como propone Suzuki para la iniciación instrumental. La memorización de patrones melódicos sencillos en las cuerdas al aire (mi, si, sol) desarrolla la memoria musical y la coordinación sin la presión de la notación escrita[^1].==
 
 **Capacidades expresivas e improvisatorias:**
 - Escala pentatónica y obstinatos (Orff, Kodály) aplicados a la guitarra
@@ -308,9 +308,9 @@ Según Hemsy de Gainza (2004)[^1], los métodos pueden clasificarse en seis per�
 
 #### Tendencias actuales en la iniciación a la guitarra #REVISAR_OPENCODE
 
-==En las últimas décadas han aparecido métodos de iniciación a la guitarra que integran los principios de las pedagogías activas con un enfoque progresivo y lúdico. El método *La guitarra paso a paso* de Luisa Sanz, por ejemplo, combina la enseñanza por imitación, la improvisación guiada y la lectura progresiva, conectando con los principios de Suzuki, Kodály y Molina. Otros enfoques, como el *Guitar Fun* de Leslie Searle o *La aventura de la guitarra* de Santi Figueras, utilizan el juego y la exploración sonora como ejes del aprendizaje, integrando la percusión corporal, el canto y la improvisación desde las primeras clases. El *Método de guitarra* de Dionisio Aguado, aunque histórico, sigue siendo un referente para la iniciación técnica por su claridad en la exposición de los fundamentos posturales y de pulsación[^5].==
+==En las últimas décadas han aparecido métodos de iniciación a la guitarra que integran los principios de las pedagogías activas con un enfoque progresivo y lúdico. El método *La guitarra paso a paso* de Luisa Sanz, por ejemplo, combina la enseñanza por imitación, la improvisación guiada y la lectura progresiva, conectando con los principios de Suzuki, Kodály y Molina. Otros enfoques, como el *Guitar Fun* de Leslie Searle o *La aventura de la guitarra* de Santi Figueras, utilizan el juego y la exploración sonora como ejes del aprendizaje, integrando la percusión corporal, el canto y la improvisación desde las primeras clases. El *Método de guitarra* de Dionisio Aguado, aunque histórico, sigue siendo un referente para la iniciación técnica por su claridad en la exposición de los fundamentos posturales y de pulsación[^1].==
 
-==Además, las plataformas digitales y las aplicaciones interactivas (YouTube, aplicaciones de acompañamiento, software de edición de partituras) han abierto nuevas vías para la iniciación instrumental, permitiendo al alumno acceder a recursos audiovisuales que complementan la enseñanza presencial. El profesor debe integrar estas herramientas en su metodología sin perder de vista los principios pedagógicos fundamentales: la experiencia musical activa, la atención individualizada y la motivación como motor del aprendizaje[^4].==
+==Además, las plataformas digitales y las aplicaciones interactivas (YouTube, aplicaciones de acompañamiento, software de edición de partituras) han abierto nuevas vías para la iniciación instrumental, permitiendo al alumno acceder a recursos audiovisuales que complementan la enseñanza presencial. El profesor debe integrar estas herramientas en su metodología sin perder de vista los principios pedagógicos fundamentales: la experiencia musical activa, la atención individualizada y la motivación como motor del aprendizaje[^5].==
 
 ### 4.5. Repertorio y métodos recomendados
 
@@ -329,37 +329,22 @@ Según Hemsy de Gainza (2004)[^1], los métodos pueden clasificarse en seis per�
 - *Método de Guitarra* (Dionisio Aguado)
 - Métodos de Daniel Fortea
 
-## 5. NOTAS #REVISAR_OPENCODE
-
-[^1]: Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
-
-[^2]: Dewey, John. *Democracy and Education: An Introduction to the Philosophy of Education*. Nueva York: Macmillan, 1916.
-
-[^3]: Piaget, Jean. *La psicología de la inteligencia*. Buenos Aires: Psique, 1980.
-
-[^4]: Sanjosé Huguet, Vicente. *Didáctica de la expresión musical para maestros*. Valencia: Piles, 1997.
-
-[^5]: Aguado, Dionisio. *Método de guitarra*. Madrid: Imprenta de Sancha, 1843. Edición facsímil: Valencia: Piles, 2005.
-
 ## 6. Bibliografía #REVISAR_OPENCODE
 
 - Aguado, Dionisio. *Método de guitarra*. Madrid: Imprenta de Sancha, 1843. Edición facsímil: Valencia: Piles, 2005.
-- Alsina, Pep. *El área de educación musical*. Barcelona: Graó, 1997.
-- Banks, Susan. «Orff Schulwerk Teaches Musical Responsiveness». *Music Educators Journal* 68, n.º 6 (1982): 42–46.
-- Bitcon, Carol. *Alike and Different: The Clinical and Educational Use of Orff Schulwerk*. Santa Ana: Rosha Press, 1976.
-- Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1987.
-- Decreto 158/2007, de 17 de agosto, del Consell, por el que se establece el currículo de las enseñanzas profesionales de música en la Comunitat Valenciana.
-- Gersdorf, Lilo. *Carl Orff*. Reinbek: Rowohlt, 2002.
-- Gómez Albaladejo, José Antonio y Manuel Nicolás Carrillo. *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Murcia: Master Oposiciones, 1999.
+- Dewey, John. *Democracy and Education: An Introduction to the Philosophy of Education*. Nueva York: Macmillan, 1916.
 - Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
-- Hoge Mead, Virginia. «More than Mere Movement: Dalcroze Eurhythmics». *Music Educators Journal* 72, n.º 6 (1986): 42–46.
-- Jaques-Dalcroze, Émile. *Méthode Jaques-Dalcroze*. París: Sandoz, 1907–1914.
-- Jaques-Dalcroze, Émile. *Rhythm, Music and Education*. Londres: Chatto & Windus, 1922.
-- Muñoz, A. y J. Noriega. *Técnicas básicas de programación*. Madrid: Escuela Española, 1994.
-- Pliego de Andrés, Víctor. *Temas pedagógicos para la oposición de conservatorios*. Madrid: Musicalis, 1998.
+- Piaget, Jean. *La psicología de la inteligencia*. Buenos Aires: Psique, 1980.
 - Sanjosé Huguet, Vicente. *Didáctica de la expresión musical para maestros*. Valencia: Piles, 1997.
-- Swanwick, Keith. *Música, pensamiento y educación*. Madrid: Morata, 1991.
-- Willems, Edgar. *La preparación musical de los más pequeños*. Buenos Aires: Ricordi Americana, 1976.
-- Willems, Edgar. *Las bases psicológicas de la educación musical*. Buenos Aires: Ricordi Americana, 1984.
-- Willems, Edgar. *El oído musical: la preparación auditiva del niño*. Barcelona: Paidós, 2001.
-- Zaldívar, Álvaro. *La LOGSE en los conservatorios*. Madrid: Real Musical, 1992.
+
+## 5. NOTAS #REVISAR_OPENCODE
+
+[^1]: Aguado, Dionisio. *Método de guitarra*. Madrid: Imprenta de Sancha, 1843. Edición facsímil: Valencia: Piles, 2005.
+
+[^2]: Dewey, John. *Democracy and Education: An Introduction to the Philosophy of Education*. Nueva York: Macmillan, 1916.
+
+[^3]: Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
+
+[^4]: Piaget, Jean. *La psicología de la inteligencia*. Buenos Aires: Psique, 1980.
+
+[^5]: Sanjosé Huguet, Vicente. *Didáctica de la expresión musical para maestros*. Valencia: Piles, 1997.

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 24.md",
+                "file": "Oposiciones Guitarra/Tema 28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 24"
+              "title": "Tema 28"
             }
           },
           {
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 24.md",
+                "file": "Oposiciones Guitarra/Tema 28.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 24"
+              "title": "Outline of Tema 28"
             }
           },
           {
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -226,10 +226,10 @@
   },
   "active": "d36c1557fdb65d59",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 23.md",
-    "Oposiciones Guitarra/Tema 24.md",
     "Oposiciones Guitarra/Tema 27.md",
     "Oposiciones Guitarra/Tema 25_fusion.md",
+    "Oposiciones Guitarra/Tema 24.md",
+    "Oposiciones Guitarra/Tema 23.md",
     "Oposiciones Guitarra/Tema 21. Práctica de grupo en EEPP.md",
     "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
     "Oposiciones Guitarra/Tema 19. Contemporánea.md",
