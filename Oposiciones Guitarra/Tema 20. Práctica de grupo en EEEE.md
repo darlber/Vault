@@ -288,6 +288,7 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 
 ==Los instrumentos de evaluación más adecuados para este nivel incluyen la observación sistemática del profesor, registrada en fichas de seguimiento o portfolios individuales; la grabación en audio o vídeo de las interpretaciones para su visionado y autoevaluación posterior; y las rúbricas de evaluación que permitan al alumno conocer de antemano los criterios con los que será valorado. Las audiciones periódicas ante los compañeros y ante el público actúan también como momentos de evaluación formativa, al enfrentar al alumno a una situación real de concierto que integra todos los aprendizajes trabajados en el aula[^5].==
 
+<<<<<<< HEAD
 ==#### Coordinación con Lenguaje Musical y Coro #REVISAR_OPENCODE==
 
 ==La clase colectiva de instrumento no debe entenderse como un compartimento estanco, sino como parte de un engranaje curricular en el que Lenguaje Musical y Coro desempeñan un papel complementario. La coordinación entre estas asignaturas es esencial para que el alumno perciba la unidad del proceso formativo. Por ejemplo, los contenidos rítmicos trabajados en Lenguaje Musical (compases compuestos, síncopas, contratiempos) pueden ser reforzados en la clase colectiva mediante ejercicios de percusión corporal y lectura rítmica aplicada al instrumento antes de abordar las obras del repertorio. Del mismo modo, las canciones aprendidas en Coro pueden ser adaptadas para ser interpretadas con el instrumento, ya sea como melodía principal o como acompañamiento armónico simple. Esta sinergia no solo consolida los aprendizajes, sino que también dota de significatividad a contenidos que el alumno puede percibir como abstractos cuando se trabajan de forma aislada[^5].==
@@ -300,6 +301,8 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 
 ==Para favorecer esta transición, resulta recomendable organizar, ya desde el último curso de enseñanzas elementales, agrupaciones mixtas en las que participen alumnos de ambos niveles en proyectos puntuales (conciertos de fin de curso, seminarios de conjunto, semanas culturales). Esta experiencia permite al alumno de elementales familiarizarse con las dinámicas de trabajo propias de las agrupaciones profesionales y reduce la ansiedad ante el cambio de etapa. Asimismo, el profesor puede utilizar estas situaciones para evaluar la preparación del alumno y orientarle en la elección de su itinerario formativo[^5].==
 
+=======
+>>>>>>> origin/main
 ## NOTAS #REVISAR_OPENCODE
 
 [^1]: Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
@@ -314,6 +317,7 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 
 [^6]: Lebrero Baena, María Paz y María Teresa Pérez. *Los procesos de enseñanza-aprendizaje en la educación infantil*. Madrid: UNED, 1988.
 
+<<<<<<< HEAD
 [^7]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
 
 ## Bibliografía #REVISAR_OPENCODE

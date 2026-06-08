@@ -4,23 +4,28 @@
 
 1. [La práctica de grupo en las enseñanzas profesionales](#la-práctica-de-grupo-en-las-enseñanzas-profesionales)
    1. [Justificación de las asignaturas instrumentales colectivas](#justificación-de-las-asignaturas-instrumentales-colectivas)
-   2. [Funciones de la clase colectiva y de las asignaturas de conjunto](#funciones-de-la-clase-colectiva-y-de-las-asignaturas-de-conjunto)
-   3. [La metodología de la clase colectiva y las clases de conjunto](#la-metodología-de-la-clase-colectiva-y-las-clases-de-conjunto)
-   4. [La técnica de interpretación en grupo](#la-técnica-de-interpretación-en-grupo)
-   5. [Las clases colectivas en la asignatura de instrumento](#las-clases-colectivas-en-la-asignatura-de-instrumento)
+   2. [Competencias clave y marco curricular](#competencias-clave-y-marco-curricular)
+   3. [Funciones de la clase colectiva y de las asignaturas de conjunto](#funciones-de-la-clase-colectiva-y-de-las-asignaturas-de-conjunto)
+   4. [La metodología de la clase colectiva y las clases de conjunto](#la-metodología-de-la-clase-colectiva-y-las-clases-de-conjunto)
+   5. [La técnica de interpretación en grupo](#la-técnica-de-interpretación-en-grupo)
+   6. [Las clases colectivas en la asignatura de instrumento](#las-clases-colectivas-en-la-asignatura-de-instrumento)
+   7. [Atención a la diversidad en las enseñanzas profesionales](#atención-a-la-diversidad-en-las-enseñanzas-profesionales)
 2. [Programación de las actividades colectivas en este nivel](#programación-de-las-actividades-colectivas-en-este-nivel)
    1. [Consideraciones generales](#consideraciones-generales)
    2. [Los objetivos didácticos](#los-objetivos-didácticos)
    3. [Bloques de contenidos](#bloques-de-contenidos)
    4. [Decisiones aplicables a las programaciones](#decisiones-aplicables-a-las-programaciones)
 3. [Desarrollo de una unidad didáctica de práctica musical en grupo en las enseñanzas profesionales](#desarrollo-de-una-unidad-didáctica-de-práctica-musical-en-grupo-en-las-enseñanzas-profesionales)
-4. [Bibliografía](#bibliografía)
+4. [NOTAS](#notas)
+5. [Bibliografía](#bibliografía)
 
 ## La práctica de grupo en las enseñanzas profesionales
 
-### Justificación de las asignaturas instrumentales colectivas en las enseñanzas profesionales
+==### Justificación de las asignaturas instrumentales colectivas en las enseñanzas profesionales #REVISAR_OPENCODE==
 
-En las enseñanzas profesionales desaparece del currículo la clase colectiva semanal (excepto en las asignaturas de Piano y Guitarra). La práctica instrumental de grupo se refleja en materias instrumentales colectivas, a saber: Música de Cámara, Orquesta y Coro.
+==El marco legal de las enseñanzas profesionales de música viene determinado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)[^1], cuyo desarrollo reglamentario se concreta en el Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música[^2]. La posterior Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)[^3], mantiene la estructura básica de las enseñanzas profesionales y refuerza el enfoque competencial del currículo. Sobre esta base, cada comunidad autónoma ha dictado sus propios decretos de currículo, que concretan la organización de las materias instrumentales colectivas.==
+
+==En este marco, en las enseñanzas profesionales desaparece del currículo la clase colectiva semanal (excepto en las asignaturas de Piano y Guitarra). La práctica instrumental de grupo se refleja en materias instrumentales colectivas, a saber: Música de Cámara, Orquesta y Coro.==
 
 La asignatura de Orquesta está presente en los seis cursos de las enseñanzas profesionales. Le corresponden dos horas semanales de clase. La asignatura de Música de Cámara aparece en los cursos de cuarto a sexto con una hora semanal de clase. La asignatura de Coro, que estuvo presente en tercero y cuarto de las enseñanzas elementales, reaparece en el quinto y sexto ciclo como asignatura optativa, al igual que Orquesta con tres horas semanales. Estas tres asignaturas constituyen la práctica instrumental de grupo en las enseñanzas profesionales que varía en función del currículo de cada Comunidad Autónoma.
 
@@ -28,7 +33,7 @@ La práctica de la Música de Cámara en las enseñanzas profesionales es un veh
 
 La práctica de la Música de Cámara potencia hábitos de disciplina como la homogeneización de la voz que permite el contraste del instrumento propio con otros diferentes. Contribuye a la maduración del músico en el terreno de su formación intelectual y expresiva. La necesidad de coordinación de los distintos puntos de vista de los varios intérpretes va más allá de la conciliación que debe ser el resultado final que posibilite su ejecución. En la Música de Cámara se pierde en individualidad y se gana en el trabajo común, fruto de las aportaciones de todos.
 
-En el Real Decreto 989/2000, de 2 de Junio, se establecen las especialidades del cuerpo de profesores de Música y Artes Escénicas, se adscriben a ellas los profesores de dicho cuerpo y se determinan las materias que deberán impartir. Pues bien, en este Real Decreto observamos una modificación respecto al profesorado responsable de la Música de Cámara: a partir de su publicación corresponde a los profesores de instrumento impartir la docencia de esta asignatura.
+En el Real Decreto 989/2000, de 2 de Junio, se establecen las especialidades del cuerpo de profesores de Música y Artes Escénicas, se adscriben a ellas los profesores de dicho cuerpo y se determinan las materias que deberán impartir[^4]. Pues bien, en este Real Decreto observamos una modificación respecto al profesorado responsable de la Música de Cámara: a partir de su publicación corresponde a los profesores de instrumento impartir la docencia de esta asignatura.
 
 La Orquesta supera el carácter marcadamente individual que adopta la práctica instrumental. La orquesta mejora la relación social entre condiscípulos y potencia el intercambio de ideas entre los diversos instrumentistas. La orquesta plantea un diálogo entre los instrumentistas y los grupos de instrumentos; diálogo que también se establece entre solistas. La formación instrumental no puede descuidar la promoción del solista, pero tampoco olvidar al grupo.
 
@@ -36,7 +41,11 @@ La necesidad de seguir las indicaciones del director durante la ejecución induc
 
 El desarrollo de la orquesta como asignatura de las enseñanzas profesionales con una duración de seis años permite al alumnado la adquisición de importantes competencias y que la conciliación y el perfeccionamiento del alumno adquieran los niveles adecuados que reclaman sus objetivos y contenidos, atendiendo a los tres ciclos que se perfilan en ellos: la técnica de interpretación en grupo, la práctica orquestal y la estética de la interpretación.
 
-### Funciones de la clase colectiva y de las asignaturas de conjunto
+==### Competencias clave y marco curricular #REVISAR_OPENCODE==
+
+==La LOMLOE[^3] consolida el enfoque competencial del currículo, que en las enseñanzas profesionales de música se traduce en la integración de las competencias clave a través de las materias instrumentales colectivas. La competencia en comunicación lingüística se desarrolla mediante la terminología técnica específica y la argumentación crítica sobre las versiones interpretativas; la competencia social y cívica se despliega en la disciplina orquestal, el respeto al director y la responsabilidad compartida en el resultado sonoro; la conciencia y expresión culturales se amplía mediante el contacto con el repertorio sinfónico y camerístico de todas las épocas; y la competencia digital se integra a través del uso de programas de edición de partituras, grabación y difusión de las producciones del conjunto[^5].==
+
+==La práctica orquestal y camerística constituye, además, el contexto idóneo para desarrollar la competencia de aprender a aprender, ya que el alumno debe gestionar su estudio individual en función de las exigencias del conjunto, y la competencia de sentido de iniciativa y espíritu emprendedor, al tener que tomar decisiones interpretativas en tiempo real durante los ensayos y conciertos. La programación de las actividades colectivas debe reflejar explícitamente estas competencias en los objetivos y criterios de evaluación de cada curso.==
 
 Las clases colectivas pretenden desarrollar al individuo en el ámbito socioeducativo. Cumplen tres funciones básicas: el desarrollo integral del alumno, contribuir a su socialización y continuar el proceso de transmisión de saberes. Estas funciones pueden agruparse en: psicológicas, estéticas, técnicas y éticas.
 
@@ -47,7 +56,7 @@ Las clases colectivas pretenden desarrollar al individuo en el ámbito socioeduc
 
 ### La metodología de la clase colectiva y las clases de conjunto
 
-La metodología no debe considerarse como algo fijo y estable, sino que debe estar en continuo estado de adaptación. Los principios metodológicos básicos, que responden a las preguntas de cómo debemos enseñar y cómo debemos plantear las actividades de enseñanza-aprendizaje, deberán también ser interiorizados por cada profesor y adaptados al contexto real de su aula y del entorno de aprendizaje de los alumnos.
+La metodología no debe considerarse como algo fijo y estable, sino que debe estar en continuo estado de adaptación. Los principios metodológicos básicos, que responden a las preguntas de cómo debemos enseñar y cómo debemos plantear las actividades de enseñanza-aprendizaje, deberán también ser interiorizados por cada profesor y adaptados al contexto real de su aula y del entorno de aprendizaje de los alumnos[^5].
 
 Las actividades de enseñanza-aprendizaje de las clases colectivas, también en las Enseñanzas Profesionales, han de responder a unos principios metodológicos determinados:
 
@@ -85,6 +94,14 @@ También la audición y análisis de grabaciones y otros aspectos técnicos del 
 
 Estas decisiones deben formar parte de los Proyectos Educativos de los Centros y de las Programaciones Generales. Los centros gozan de una autonomía, reconocida en las normas, para adecuar sus programaciones a la realidad del entorno y las necesidades musicales de sus alumnos. Es necesaria una cierta flexibilidad para organizar actividades extraescolares y complementarias. Es pues decisión de los equipos docentes abordar de manera conjunta y programar la práctica de grupo en las enseñanzas profesionales.
 
+==### Atención a la diversidad en las enseñanzas profesionales #REVISAR_OPENCODE==
+
+==En las enseñanzas profesionales, la diversidad del alumnado se manifiesta no solo en el nivel técnico, sino también en los intereses artísticos, la experiencia previa en agrupaciones y las expectativas de futuro (orientación hacia la interpretación, la docencia o la musicología). La clase de orquesta y música de cámara debe dar respuesta a esta heterogeneidad mediante agrupamientos flexibles dentro de la misma asignatura: secciones de cuerda, viento y percusión pueden trabajar por separado pasajes de diferente dificultad antes de la reunión del tutti. Asimismo, la selección del repertorio debe incluir obras que contengan partes de distinto nivel de exigencia, de modo que cada alumno pueda contribuir al resultado colectivo desde su capacidad real[^5].==
+
+==La tutoría entre iguales, ya iniciada en las enseñanzas elementales, adquiere aquí un carácter más formal. Los alumnos de cursos superiores pueden actuar como tutores de los de cursos inferiores dentro de la sección orquestal, guiándoles en la digitación, el arco o la afinación. Esta práctica no solo beneficia al tutorizado, sino que refuerza la comprensión del tutor al tener que explicar y demostrar los conceptos. El profesor debe supervisar estas relaciones y evitar que se conviertan en dinámicas de dependencia o de desigualdad[^5].==
+
+==Para los alumnos con necesidades específicas de apoyo educativo (dificultades de aprendizaje, trastornos de ansiedad escénica, altas capacidades), el equipo docente debe prever adaptaciones curriculares no significativas que modifiquen la dificultad de la parte instrumental, el número de ensayos o el tipo de evaluación, garantizando en todo caso la participación activa en el conjunto.==
+
 ## Programación de las actividades colectivas en este nivel
 
 ### Consideraciones generales
@@ -98,7 +115,7 @@ Para realizar una programación conjunta podemos seguir el siguiente itinerario 
 2. Extraer los conocimientos comunes de estas asignaturas y agruparlos en bloques.
 3. Deducir de este análisis algunos conocimientos para las programaciones.
 
-Para la elaboración de estos itinerarios de programación nos hemos basado en las investigaciones de la profesora de la Universidad Autónoma de Madrid, Maravillas Corbalán, publicados en un artículo en la revista *Música y Educación*.
+Para la elaboración de estos itinerarios de programación nos hemos basado en las investigaciones de la profesora de la Universidad Autónoma de Madrid, Maravillas Corbalán, publicados en un artículo en la revista *Música y Educación*[^6].
 
 ### Los objetivos didácticos
 
@@ -216,6 +233,12 @@ Respecto al trabajo melódico podemos plantear a modo de ejemplo las siguientes 
 
 Las clases de orquesta y música de cámara nos permiten también interpretar piezas y obras donde existen elementos de improvisación como en la música aleatoria y lenguajes del jazz. Todo este repertorio redundará en la mejora integral de la educación del alumnado.
 
+==#### Evaluación #REVISAR_OPENCODE==
+
+==La evaluación en las enseñanzas profesionales debe ser continua, formativa e integradora, contemplando tanto el progreso individual del alumno como su contribución al conjunto. Los criterios de evaluación han de incluir la capacidad de lectura a primera vista, la afinación en el contexto grupal, la adecuación de la dinámica y la articulación a las indicaciones del director, la responsabilidad en el estudio individual de las particellas y la actitud durante los ensayos y conciertos.==
+
+==Los instrumentos de evaluación más adecuados para este nivel son la observación sistemática registrada en el portfolio del alumno, las grabaciones de ensayos y conciertos para su visionado y autoevaluación crítica, y las rúbricas que expliciten los niveles de logro esperados en cada competencia. La autoevaluación y la coevaluación, ya presentes en la unidad didáctica modelo, deben formar parte habitual de la práctica evaluadora, ya que fomentan la reflexión crítica y la autonomía del alumno. Las audiciones públicas actúan como situación de evaluación integradora en la que se demuestran todas las competencias adquiridas[^5].==
+
 ## Desarrollo de una unidad didáctica de práctica musical en grupo en las enseñanzas profesionales
 
 A continuación presentamos un modelo de unidad didáctica basada en los principios metodológicos expuestos anteriormente de motivación, asimilación de destrezas técnicas, transversalidad, unidad de teoría y práctica y aprendizaje significativo.
@@ -261,11 +284,29 @@ c) La heteroevaluación: los profesores evalúan a los alumnos: el sentido de di
 - Recursos bibliográficos: las partituras de la obra y particellas, ediciones diferentes y bibliografía sobre el compositor, época y estilo de la obra interpretada.
 - Material audiovisual: equipo de sonido HI-FI, equipo reproductor, CD's, MC's, etc.
 
-## Bibliografía
+==### Transición a las enseñanzas superiores #REVISAR_OPENCODE==
 
-- *Música y Educación. Revista de investigación pedagógico-musical*. Ed. Musicalis S.A.
-- Corbalán, Maravillas: «La programación interdisciplinar en la enseñanza musical no superior», *Música y Educación*.
-- *Eufonía. Didáctica de la música*. Ed. Graó.
-- Fuentes, Pilar y Cervera, Juan: *Pedagogía y didáctica para músicos*. Ed. Piles S.A., 1989.
-- Cebriá, Pascual; Ortega, Ricardo J.; Fernández, Juan E.: *La clase colectiva*. Mundimúsica Garijo S.L.
-- Carrillo, Nicolás; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
+==Las enseñanzas profesionales constituyen la antesala de los estudios superiores de música, ya sea en el ámbito académico (Grado en Interpretación, Pedagogía o Musicología) o en el profesional (orquestas, agrupaciones de cámara, docencia). Por ello, la programación de las actividades colectivas en este nivel debe preparar al alumno para las exigencias de la etapa superior. En el plano técnico, el alumno debe alcanzar un dominio suficiente de la lectura a primera vista que le permita integrarse en una orquesta o grupo de cámara con un tiempo de preparación mínimo; en el plano interpretativo, debe desarrollar un criterio estético propio que le permita tomar decisiones musicales fundamentadas; y en el plano actitudinal, debe interiorizar la disciplina de trabajo que exige el calendario de ensayos y conciertos de una agrupación profesional.==
+
+==Para facilitar esta transición, es recomendable que los departamentos didácticos programen, en los últimos cursos de las enseñanzas profesionales, actividades que simulen las condiciones reales del ámbito superior: convocatorias de audiciones con programa libre, clases magistrales colectivas con profesores invitados, y proyectos de colaboración con conservatorios superiores o escuelas de música. Asimismo, la participación en agrupaciones externas al centro (bandas juveniles, orquestas de cámara locales, grupos de música antigua) debe ser valorada y, en la medida de lo posible, convalidada o reconocida en la evaluación de las asignaturas de Orquesta y Música de Cámara[^5].==
+
+## NOTAS #REVISAR_OPENCODE
+
+[^1]: Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 106, de 4 de mayo de 2006.
+
+[^2]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
+
+[^3]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
+
+[^4]: Real Decreto 989/2000, de 2 de junio, por el que se establecen las especialidades del cuerpo de profesores de Música y Artes Escénicas. *BOE* n.º 167, de 13 de julio de 2000.
+
+[^5]: Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
+
+[^6]: Corbalán, Maravillas. «La programación interdisciplinar en la enseñanza musical no superior». *Revista Música y Educación* 12, n.º 3 (1999): 85–102.
+
+## Bibliografía #REVISAR_OPENCODE
+
+- Carrillo, Manuel Nicolás y José Antonio Gómez Albaladejo. *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Murcia: Master Oposiciones, 1999.
+- Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
+- Corbalán, Maravillas. «La programación interdisciplinar en la enseñanza musical no superior». *Revista Música y Educación* 12, n.º 3 (1999): 85–102.
+- Fuentes, Pilar y Juan Cervera. *Pedagogía y didáctica para músicos*. Valencia: Piles, 1989.

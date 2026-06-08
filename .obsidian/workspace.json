@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Tema 19. Contemporánea"
             }
+          },
+          {
+            "id": "dcb0672bd706e3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tema 20. Práctica de grupo en EEEE"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 19. Contemporánea.md",
+                "file": "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 19. Contemporánea"
+              "title": "Outline of Tema 20. Práctica de grupo en EEEE"
             }
           },
           {
@@ -189,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,14 +225,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d36c1557fdb65d59",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 25_fusion.md",
-    "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
+    "conflict-files-obsidian-git.md",
     "Oposiciones Guitarra/Tema 19. Contemporánea.md",
-    "Oposiciones Guitarra/Tema 18. Siglo XX.md",
-    "Oposiciones Guitarra/Tema 21. Práctica de grupo en EEPP.md",
+    "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
     "Oposiciones Guitarra/Tema 22.md",
+    "Oposiciones Guitarra/Tema 25_fusion.md",
+    "Oposiciones Guitarra/Tema 25_2.md",
+    "Oposiciones Guitarra/Tema 21. Práctica de grupo en EEPP.md",
+    "osint_ct.md",
+    "Oposiciones Guitarra/Tema 18. Siglo XX.md",
     "Oposiciones Guitarra/Tema 34.md",
     "Oposiciones Guitarra/Tema 15. La escuela española.md",
     "Oposiciones Guitarra/Tema 13. Bach.md",
@@ -236,9 +255,6 @@
     "Oposiciones Guitarra/TEMA 31 y 32.pdf",
     "Oposiciones Guitarra/Tema 31.md",
     "Oposiciones TAI/Flashcards - Tema 15.md",
-    "Oposiciones TAI/Flashcards - Tema 16.md",
-    "Oposiciones Guitarra/Tema 30.md",
-    "Oposiciones Guitarra/Tema 29.md",
     "Oposiciones Guitarra/TEMA 29 y 30.pdf",
     "Oposiciones Guitarra/TEMA 28.pdf",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
