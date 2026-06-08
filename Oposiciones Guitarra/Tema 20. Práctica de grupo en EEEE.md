@@ -23,11 +23,11 @@
 
 ### Introducción
 
-Desde la promulgación en 1990 de la Ley Orgánica de Ordenación General del Sistema Educativo (LOGSE)[^7], las enseñanzas artísticas de música y danza experimentaron una importante reforma pedagógica y también organizativa. Una de las grandes innovaciones fue la introducción de la práctica de grupo mediante la clase colectiva de instrumento de una hora de duración semanal en cada curso del llamado entonces grado elemental de música.
+Desde la promulgación en 1990 de la Ley Orgánica de Ordenación General del Sistema Educativo (LOGSE)[^4], las enseñanzas artísticas de música y danza experimentaron una importante reforma pedagógica y también organizativa. Una de las grandes innovaciones fue la introducción de la práctica de grupo mediante la clase colectiva de instrumento de una hora de duración semanal en cada curso del llamado entonces grado elemental de música.
 
-Posteriormente la Ley Orgánica de Educación del año 2006 (LOE)[^8] y el posterior Real Decreto 1577/2006[^11], además de fijar los aspectos básicos del currículo de las enseñanzas profesionales, decidieron encomendar la regulación de las enseñanzas elementales a cada una de las Comunidades Autónomas, que han ejercido esta competencia mediante decretos y normativa de carácter autonómico. Todo ello en virtud del artículo 48.1 de la LOE que reza «las enseñanzas elementales de música y de danza tendrán las características y la organización que las Administraciones educativas determinen».
+Posteriormente la Ley Orgánica de Educación del año 2006 (LOE)[^5] y el posterior Real Decreto 1577/2006[^7], además de fijar los aspectos básicos del currículo de las enseñanzas profesionales, decidieron encomendar la regulación de las enseñanzas elementales a cada una de las Comunidades Autónomas, que han ejercido esta competencia mediante decretos y normativa de carácter autonómico. Todo ello en virtud del artículo 48.1 de la LOE que reza «las enseñanzas elementales de música y de danza tendrán las características y la organización que las Administraciones educativas determinen».
 
-El resultado ha sido unas enseñanzas elementales con características y currículo diferenciado en cada una de las comunidades autónomas donde la práctica de conjunto ha experimentado diferentes regulaciones. En todo caso, en todos los decretos aparecen en los objetivos generales de estas enseñanzas la preocupación y la importancia de la práctica de grupo; citamos el texto que aparece en el decreto de la Comunidad Valenciana[^4]:
+El resultado ha sido unas enseñanzas elementales con características y currículo diferenciado en cada una de las comunidades autónomas donde la práctica de conjunto ha experimentado diferentes regulaciones. En todo caso, en todos los decretos aparecen en los objetivos generales de estas enseñanzas la preocupación y la importancia de la práctica de grupo; citamos el texto que aparece en el decreto de la Comunidad Valenciana[^2]:
 
 > d) Interpretar música en grupo y habituarse a escuchar otras voces o instrumentos, adaptándose al equilibrio del conjunto.
 
@@ -49,7 +49,7 @@ Otro elemento importante a destacar es la motivación. En la mayoría de los cas
 
 ### Competencias clave y marco curricular #REVISAR_OPENCODE
 
-==La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006 de Educación (LOMLOE)[^9], refuerza el enfoque competencial del currículo iniciado por la LOE. Aunque las enseñanzas elementales de música no están directamente reguladas por la LOMLOE en su articulado básico, los decretos autonómicos que las desarrollan incorporan cada vez más el lenguaje de las competencias clave como referente del perfil de salida del alumnado.==
+==La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006 de Educación (LOMLOE)[^6], refuerza el enfoque competencial del currículo iniciado por la LOE. Aunque las enseñanzas elementales de música no están directamente reguladas por la LOMLOE en su articulado básico, los decretos autonómicos que las desarrollan incorporan cada vez más el lenguaje de las competencias clave como referente del perfil de salida del alumnado.==
 
 ==En el contexto de la clase colectiva, las competencias clave se desarrollan de manera transversal. La competencia en comunicación lingüística se ejercita a través del vocabulario técnico-musical compartido; la competencia social y cívica se fomenta mediante la escucha activa, el respeto por el turno de palabra y la responsabilidad hacia el grupo; la conciencia y expresión culturales se despliegan en la interpretación del repertorio y en la improvisación; y la competencia digital se integra mediante el uso de aplicaciones de afinación, grabación y edición de partituras. La clase colectiva se convierte así en un espacio privilegiado para la adquisición de estas competencias, que difícilmente pueden abordarse con la misma eficacia en la clase individual[^1].==
 
@@ -96,7 +96,7 @@ Los alumnos deben empezar a conocer los recursos musicales que se encuentran en 
 
 ### Criterios de agrupamientos
 
-Existen numerosas maneras de agrupar a los alumnos en las clases colectivas. Lebrero y Pérez[^6] establecen la siguiente clasificación:
+Existen numerosas maneras de agrupar a los alumnos en las clases colectivas. Lebrero y Pérez[^3] establecen la siguiente clasificación:
 
 - **Grupos homogéneos**: Los alumnos se agrupan por criterios de aprendizaje como por ejemplo: edad, capacidad intelectual o nivel de conocimientos.
 - **Grupos heterogéneos**: Se caracterizan por la diversidad de sus componentes.
@@ -300,43 +300,28 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 
 ==Para favorecer esta transición, resulta recomendable organizar, ya desde el último curso de enseñanzas elementales, agrupaciones mixtas en las que participen alumnos de ambos niveles en proyectos puntuales (conciertos de fin de curso, seminarios de conjunto, semanas culturales). Esta experiencia permite al alumno de elementales familiarizarse con las dinámicas de trabajo propias de las agrupaciones profesionales y reduce la ansiedad ante el cambio de etapa. Asimismo, el profesor puede utilizar estas situaciones para evaluar la preparación del alumno y orientarle en la elección de su itinerario formativo[^1].==
 
-## NOTAS #REVISAR_OPENCODE
-
-[^1]: Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
-
-[^2]: Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
-
-[^3]: Corbalán, Maravillas. «La programación conjunta de las enseñanzas de música.» *Revista Música y Educación* 12, n.º 3 (1999): 85–102.
-
-[^4]: Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas elementales de música en la Comunitat Valenciana. *DOCV* n.º 5625, de 25 de septiembre de 2007.
-
-[^5]: Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
-
-[^6]: Lebrero Baena, María Paz y María Teresa Pérez. *Los procesos de enseñanza-aprendizaje en la educación infantil*. Madrid: UNED, 1988.
-
-[^7]: Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
-
-[^8]: Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 106, de 4 de mayo de 2006.
-
-[^9]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
-
-[^10]: Nicolás Carrillo, Manuel y José Antonio Gómez Albaladejo. *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Murcia: Master Oposiciones, 1999.
-
-[^11]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
-
-[^12]: Zaldívar, Álvaro. *La LOGSE en los conservatorios: normativa básica en las enseñanzas musicales*. Madrid: Real Musical, 1992.
-
 ## Bibliografía #REVISAR_OPENCODE
 
 - Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
-- Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
-- Corbalán, Maravillas. «La programación conjunta de las enseñanzas de música.» *Revista Música y Educación* 12, n.º 3 (1999): 85–102.
 - Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas elementales de música en la Comunitat Valenciana. *DOCV* n.º 5625, de 25 de septiembre de 2007.
-- Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
 - Lebrero Baena, María Paz y María Teresa Pérez. *Los procesos de enseñanza-aprendizaje en la educación infantil*. Madrid: UNED, 1988.
 - Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
 - Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 106, de 4 de mayo de 2006.
 - Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
-- Nicolás Carrillo, Manuel y José Antonio Gómez Albaladejo. *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Murcia: Master Oposiciones, 1999.
 - Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
-- Zaldívar, Álvaro. *La LOGSE en los conservatorios: normativa básica en las enseñanzas musicales*. Madrid: Real Musical, 1992.
+
+## NOTAS #REVISAR_OPENCODE
+
+[^1]: Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].
+
+[^2]: Decreto 158/2007, de 21 de septiembre, del Consell, por el que se establece el currículo de las enseñanzas elementales de música en la Comunitat Valenciana. *DOCV* n.º 5625, de 25 de septiembre de 2007.
+
+[^3]: Lebrero Baena, María Paz y María Teresa Pérez. *Los procesos de enseñanza-aprendizaje en la educación infantil*. Madrid: UNED, 1988.
+
+[^4]: Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
+
+[^5]: Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 106, de 4 de mayo de 2006.
+
+[^6]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
+
+[^7]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
