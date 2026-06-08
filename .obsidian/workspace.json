@@ -11,15 +11,12 @@
             "id": "d36c1557fdb65d59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Oposiciones TAI/Tema 15. Modelado de datos, metodologías y reglas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Oposiciones Guitarra/TEMA 29 y 30.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tema 15. Modelado de datos, metodologías y reglas"
+              "icon": "lucide-file-text",
+              "title": "TEMA 29 y 30"
             }
           }
         ]
@@ -209,8 +206,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "d36c1557fdb65d59",
   "lastOpenFiles": [
+    "Oposiciones Guitarra/Tema 28.md",
+    "Oposiciones Guitarra/TEMA 29 y 30.pdf",
+    "Oposiciones Guitarra/Tema 27.md",
+    "Oposiciones Guitarra/TEMA 28.pdf",
+    "Oposiciones Guitarra/Tema 25_1.md",
+    "Oposiciones Guitarra/Tema 25_2.md",
+    "Oposiciones Guitarra/Tema 24.md",
+    "Oposiciones Guitarra/Tema 23.md",
+    "Oposiciones Guitarra/Tema 22.md",
+    "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
     "Oposiciones TAI/Tema 15. Modelado de datos, metodologías y reglas.md",
     "Oposiciones TAI/Flashcards - Tema 1.md",
     "Oposiciones TAI/Flashcards - Tema 2.md",
@@ -223,21 +230,11 @@
     "Oposiciones Guitarra/Tema 18. Siglo XX.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Oposiciones Guitarra/Tema 21. Práctica de grupo en EEPP.md",
-    "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
     "Oposiciones Guitarra/Tema 19. Contemporánea.md",
     "Oposiciones TAI/Índice.md",
     "Oposiciones TAI/Tema 00. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI/Tema 01. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
     "Oposiciones TAI/Tema 08. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
-    "Oposiciones TAI/Tema 09. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
-    "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos.md",
-    "Oposiciones TAI/Tema 14. Bases de datos.md",
-    "Oposiciones TAI/Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.md",
-    "Oposiciones TAI/Tema 0. Rango de ley y Jerarquía leyes.md",
-    "Oposiciones TAI/Tema 13. Sistemas operativos.md",
-    "Oposiciones TAI/Tema 10. Informática básica.md",
-    "Oposiciones Guitarra/Tema 27.md",
-    "Oposiciones Guitarra/TEMA 28.pdf",
     "Oposiciones Guitarra/TEMA 16-18.pdf",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
@@ -253,7 +250,6 @@
     "Music/Miscelánea",
     "Proyecto/Phases.canvas",
     "Oposiciones TAI",
-    "Oposiciones Guitarra/TEMA 29 y 30.pdf",
     "Music/Cadencia General Básica/attachments",
     "Music/Cadencia General Básica",
     "Music/attachments",
