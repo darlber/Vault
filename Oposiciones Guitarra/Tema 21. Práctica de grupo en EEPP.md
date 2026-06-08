@@ -290,7 +290,7 @@ c) La heteroevaluación: los profesores evalúan a los alumnos: el sentido de di
 
 ==Para facilitar esta transición, es recomendable que los departamentos didácticos programen, en los últimos cursos de las enseñanzas profesionales, actividades que simulen las condiciones reales del ámbito superior: convocatorias de audiciones con programa libre, clases magistrales colectivas con profesores invitados, y proyectos de colaboración con conservatorios superiores o escuelas de música. Asimismo, la participación en agrupaciones externas al centro (bandas juveniles, orquestas de cámara locales, grupos de música antigua) debe ser valorada y, en la medida de lo posible, convalidada o reconocida en la evaluación de las asignaturas de Orquesta y Música de Cámara[^1].==
 
-## Bibliografía #REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Carrillo, Manuel Nicolás y José Antonio Gómez Albaladejo. *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Murcia: Master Oposiciones, 1999.
 - Cebriá Genovés, Pascual; Ricardo J. Ortega y Juan E. Fernández. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, [s. a.].

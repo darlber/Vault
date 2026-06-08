@@ -78,11 +78,11 @@ Y por esto, en el método lo que encontraremos son canciones en las cuales la gu
 
 Lo que encontramos en este siglo, sobre todo a principios, es la divulgación de canciones populares, que más tarde serán usadas como inspiración para crear obras de «música culta» por grandes compositores e instrumentistas. Pero todo esto fue en gran parte gracias a la labor que realizó Felipe Pedrell, que comenzó a estudiar el folklore.
 
-==Durante el Romanticismo, la guitarra como instrumento acompañante adquiere un nuevo protagonismo en el ámbito doméstico y de salón. La publicación de canciones con acompañamiento de guitarra se generaliza en toda Europa, favorecida por la portabilidad del instrumento y su capacidad para ofrecer un soporte armónico completo sin necesidad de teclado. Compositores como Fernando Sor publican colecciones de canciones con acompañamiento de guitarra (*Cantos*), y autores italianos como Giuliani y Carulli cultivan el género de la canción con guitarra, tanto en el ámbito popular como en el culto[^1].==
+==Durante el Romanticismo, la guitarra como instrumento acompañante adquiere un nuevo protagonismo en el ámbito doméstico y de salón. La publicación de canciones con acompañamiento de guitarra se generaliza en toda Europa, favorecida por la portabilidad del instrumento y su capacidad para ofrecer un soporte armónico completo sin necesidad de teclado. Compositores como Fernando Sor publican colecciones de canciones con acompañamiento de guitarra (*Cantos*), y autores italianos como Giuliani y Carulli cultivan el género de la canción con guitarra, tanto en el ámbito popular como en el culto[^3].==
 
-==En España, la tonadilla escénica del siglo XVIII evoluciona hacia la zarzuela del siglo XIX, donde la guitarra se utiliza en las orquestas para el acompañamiento de los números vocales, especialmente en las escenas de carácter popular. La guitarra flamenca, por su parte, se consolida como instrumento de acompañamiento al cante, desarrollando técnicas específicas (rasgueado, alzapúa, picado) que más tarde influirán en la guitarra clásica[^2].==
+==En España, la tonadilla escénica del siglo XVIII evoluciona hacia la zarzuela del siglo XIX, donde la guitarra se utiliza en las orquestas para el acompañamiento de los números vocales, especialmente en las escenas de carácter popular. La guitarra flamenca, por su parte, se consolida como instrumento de acompañamiento al cante, desarrollando técnicas específicas (rasgueado, alzapúa, picado) que más tarde influirán en la guitarra clásica[^5].==
 
-==En el ámbito de la música culta, la guitarra se emplea como acompañamiento en los lieder y canciones de cámara. Aunque Schubert, Schumann o Brahms escribieron originalmente para voz y piano, numerosas transcripciones para guitarra realizadas en la época —así como versiones de canciones populares arregladas para voz y guitarra— demuestran la vitalidad de esta práctica interpretativa. El guitarrista y editor Antonio Jiménez Manjón, en sus publicaciones, incluye arreglos de obras del repertorio vocal romántico adaptados a la guitarra[^1].==
+==En el ámbito de la música culta, la guitarra se emplea como acompañamiento en los lieder y canciones de cámara. Aunque Schubert, Schumann o Brahms escribieron originalmente para voz y piano, numerosas transcripciones para guitarra realizadas en la época —así como versiones de canciones populares arregladas para voz y guitarra— demuestran la vitalidad de esta práctica interpretativa. El guitarrista y editor Antonio Jiménez Manjón, en sus publicaciones, incluye arreglos de obras del repertorio vocal romántico adaptados a la guitarra[^3].==
 
 ==En Iberoamérica, la guitarra se convierte en el vehículo principal del acompañamiento de la canción popular, desde el son cubano hasta el vals peruano, pasando por la milonga argentina. Esta tradición, transmitida de forma oral y escrita, constituye la base sobre la que se desarrollará la canción popular del siglo XX.==
 
@@ -96,49 +96,40 @@ La guitarra también está presente en otros tipos de música popular en distint
 
 Un tipo de guitarra usada en el siglo XX es la guitarra acústica y se suele usar en música celta, jazz, etc. Este tipo de guitarra tiene las cuerdas de metal, la caja es más grande que la de la guitarra tradicional al igual que la boca. Su mástil es regulable en altura, clavijero tipo guitarra eléctrica, puente regulable, entre otras características. Esta guitarra es la preferida en la música folk, puede estar amplificada y sus órdenes varían entre 12 y 6.
 
-==En el ámbito del jazz, la guitarra eléctrica irrumpe en los años treinta de la mano de Charlie Christian, quien establece el rol de la guitarra como instrumento tanto de acompañamiento armónico (comping) como solista en el seno del combo de jazz. A partir de los años cincuenta, la guitarra eléctrica se convierte en el instrumento vertebrador del acompañamiento en el rock, el pop y el rhythm and blues, generando técnicas específicas como el power chord, el palm mute y el uso de efectos (distorsión, chorus, delay). En el jazz moderno, guitarristas como Joe Pass y Jim Hall llevan el acompañamiento a un nivel de sofisticación armónica que iguala al del piano, combinando la conducción de voces con el ritmo[^3].==
+==En el ámbito del jazz, la guitarra eléctrica irrumpe en los años treinta de la mano de Charlie Christian, quien establece el rol de la guitarra como instrumento tanto de acompañamiento armónico (comping) como solista en el seno del combo de jazz. A partir de los años cincuenta, la guitarra eléctrica se convierte en el instrumento vertebrador del acompañamiento en el rock, el pop y el rhythm and blues, generando técnicas específicas como el power chord, el palm mute y el uso de efectos (distorsión, chorus, delay). En el jazz moderno, guitarristas como Joe Pass y Jim Hall llevan el acompañamiento a un nivel de sofisticación armónica que iguala al del piano, combinando la conducción de voces con el ritmo[^4].==
 
-==En la música popular brasileña, la guitarra —violão— desempeña un papel fundamental como acompañante desde el samba y el choro hasta la bossa nova. João Gilberto revolucionó la forma de acompañar al introducir la batida sincopada característica de la bossa nova, un patrón rítmico de pulgar y dedos que combina el bajo con los acordes en un flujo continuo. Este estilo de acompañamiento ha influido en guitarristas de todo el mundo y se ha integrado en el lenguaje del jazz y la música popular contemporánea[^4].==
+==En la música popular brasileña, la guitarra —violão— desempeña un papel fundamental como acompañante desde el samba y el choro hasta la bossa nova. João Gilberto revolucionó la forma de acompañar al introducir la batida sincopada característica de la bossa nova, un patrón rítmico de pulgar y dedos que combina el bajo con los acordes en un flujo continuo. Este estilo de acompañamiento ha influido en guitarristas de todo el mundo y se ha integrado en el lenguaje del jazz y la música popular contemporánea[^2].==
 
-==En la música clásica contemporánea, la guitarra aparece como acompañante en obras de cámara de compositores como Britten (Songs from the Chinese, para voz y guitarra), Henze (Kammermusik) y Brouwer, que integran la guitarra en formaciones camerísticas donde su función es tanto solista como acompañante. La recuperación de la guitarra como instrumento de bajo continuo en las interpretaciones historicistas del repertorio barroco ha abierto una nueva línea de investigación interpretativa que conecta con la tradición acompañante de los siglos XVII y XVIII[^1].==
+==En la música clásica contemporánea, la guitarra aparece como acompañante en obras de cámara de compositores como Britten (Songs from the Chinese, para voz y guitarra), Henze (Kammermusik) y Brouwer, que integran la guitarra en formaciones camerísticas donde su función es tanto solista como acompañante. La recuperación de la guitarra como instrumento de bajo continuo en las interpretaciones historicistas del repertorio barroco ha abierto una nueva línea de investigación interpretativa que conecta con la tradición acompañante de los siglos XVII y XVIII[^3].==
 
-==En el flamenco, la guitarra de acompañamiento al cante (toque a compás) alcanza su madurez en el siglo XX con figuras como Ramón Montoya, Niño Ricardo y Paco de Lucía, que desarrollan un lenguaje armónico y rítmico de gran complejidad técnica. La función de la guitarra en el flamenco no se limita a sostener armónicamente al cante, sino que establece un diálogo rítmico y melódico con el intérprete, en el que los patrones de rasgueado y picado adquieren un valor estructural[^2].==
+==En el flamenco, la guitarra de acompañamiento al cante (toque a compás) alcanza su madurez en el siglo XX con figuras como Ramón Montoya, Niño Ricardo y Paco de Lucía, que desarrollan un lenguaje armónico y rítmico de gran complejidad técnica. La función de la guitarra en el flamenco no se limita a sostener armónicamente al cante, sino que establece un diálogo rítmico y melódico con el intérprete, en el que los patrones de rasgueado y picado adquieren un valor estructural[^5].==
 
 ## Características del repertorio y su interpretación #REVISAR_OPENCODE
 
-==El repertorio de la guitarra como instrumento acompañante abarca más de cinco siglos de música y presenta una serie de características comunes que condicionan su interpretación. En primer lugar, la función armónica de la guitarra como acompañante se basa en la construcción de acordes en posición cerrada, con frecuente omisión de la fundamental cuando esta no puede realizarse digitada. El guitarrista acompañante debe dominar múltiples posiciones de un mismo acorde (voicings) para adaptarse al registro y a la tesitura del instrumento o de la voz solista[^1].==
+==El repertorio de la guitarra como instrumento acompañante abarca más de cinco siglos de música y presenta una serie de características comunes que condicionan su interpretación. En primer lugar, la función armónica de la guitarra como acompañante se basa en la construcción de acordes en posición cerrada, con frecuente omisión de la fundamental cuando esta no puede realizarse digitada. El guitarrista acompañante debe dominar múltiples posiciones de un mismo acorde (voicings) para adaptarse al registro y a la tesitura del instrumento o de la voz solista[^3].==
 
-==En segundo lugar, la textura del acompañamiento guitarrístico se organiza generalmente en tres planos: el bajo (generalmente realizado con el pulgar en las cuerdas graves), el relleno armónico (acordes en posición abierta o cerrada) y el diseño rítmico (rasgueado, arpegio o patrón sincopado). El equilibrio entre estos planos es esencial para lograr un acompañamiento claro y expresivo que no opaque a la voz o al instrumento solista[^5].==
+==En segundo lugar, la textura del acompañamiento guitarrístico se organiza generalmente en tres planos: el bajo (generalmente realizado con el pulgar en las cuerdas graves), el relleno armónico (acordes en posición abierta o cerrada) y el diseño rítmico (rasgueado, arpegio o patrón sincopado). El equilibrio entre estos planos es esencial para lograr un acompañamiento claro y expresivo que no opaque a la voz o al instrumento solista[^1].==
 
-==En el plano rítmico, la guitarra acompañante debe desarrollar una pulsación estable y flexible a la vez. En la música popular, los patrones rítmicos específicos de cada género (el compás de la bossa nova, la clave del son, el ritmo de la bulería) constituyen la seña de identidad del acompañamiento y requieren un trabajo técnico específico. En la música clásica, la guitarra acompañante debe ajustarse a las convenciones del estilo: bajo continuo cifrado en el Barroco, arpegios en el Clasicismo, rasgueados y acordes en el Romanticismo[^3].==
+==En el plano rítmico, la guitarra acompañante debe desarrollar una pulsación estable y flexible a la vez. En la música popular, los patrones rítmicos específicos de cada género (el compás de la bossa nova, la clave del son, el ritmo de la bulería) constituyen la seña de identidad del acompañamiento y requieren un trabajo técnico específico. En la música clásica, la guitarra acompañante debe ajustarse a las convenciones del estilo: bajo continuo cifrado en el Barroco, arpegios en el Clasicismo, rasgueados y acordes en el Romanticismo[^4].==
 
-==Por último, la interpretación del repertorio acompañante exige del guitarrista una escucha activa y una capacidad de adaptación permanente. A diferencia del repertorio solista, donde el intérprete controla todos los parámetros de la ejecución, en el acompañamiento el guitarrista debe reaccionar en tiempo real a las inflexiones del solista, ajustando la dinámica, el tempo y la articulación. Esta dimensión interactiva sitúa la práctica del acompañamiento en el núcleo de la formación del músico de conjunto y constituye una de las competencias más valoradas en el ámbito profesional[^5].==
-
-# NOTAS #REVISAR_OPENCODE
-
-[^1]: Pajares Alonso, Roberto. *Historia de la música en seis bloques*. Madrid: Aebius, 2010.
-
-[^2]: Subirá, José. *La tonadilla escénica*. Madrid: Tipografía de Archivos, 1933.
-
-[^3]: Scholes, Percy. *Diccionario Oxford de la música*. Barcelona: Edhasa, 1984.
-
-[^4]: Iborra, Alcaraz. *La guitarra: historia, organología y repertorio*. Almería: Editorial Círculo Rojo, 2010.
-
-[^5]: Clemente Buhlal, José Antonio. *El contenido melódico en la enseñanza de la guitarra*. Cádiz: Servicio de Publicaciones de la Universidad de Cádiz, 2002.
+==Por último, la interpretación del repertorio acompañante exige del guitarrista una escucha activa y una capacidad de adaptación permanente. A diferencia del repertorio solista, donde el intérprete controla todos los parámetros de la ejecución, en el acompañamiento el guitarrista debe reaccionar en tiempo real a las inflexiones del solista, ajustando la dinámica, el tempo y la articulación. Esta dimensión interactiva sitúa la práctica del acompañamiento en el núcleo de la formación del músico de conjunto y constituye una de las competencias más valoradas en el ámbito profesional[^1].==
 
 # Bibliografía #REVISAR_OPENCODE
 
-- Amat, Juan Carlos. *Guitarra española y vandola en dos maneras de guitarra, castellana y cathalana de cinco órdenes*. Barcelona, 1596. Edición facsímil: Madrid: Arte Tripharia, 1982.
-- Boyd, Malcolm y José Carreras. *La música en España en el siglo XVIII*. Madrid: Cambridge University Press, 2000.
-- Bukofzer, Manfred. *Music in the Baroque Era: From Monteverdi to Bach*. Nueva York: W. W. Norton, 2007.
 - Clemente Buhlal, José Antonio. *El contenido melódico en la enseñanza de la guitarra*. Cádiz: Servicio de Publicaciones de la Universidad de Cádiz, 2002.
 - Iborra, Alcaraz. *La guitarra: historia, organología y repertorio*. Almería: Editorial Círculo Rojo, 2010.
-- López Chavarri, Eduardo. *Música popular española*. Barcelona: Labor, 1927.
-- Matas, José Ricart. *Diccionario biográfico de la música*. Barcelona: Iberia, 1980.
 - Pajares Alonso, Roberto. *Historia de la música en seis bloques*. Madrid: Aebius, 2010.
-- Radole, Giuseppe. *Laúd, guitarra y vihuela*. Milán: Suvini Zerboni, 1982.
-- Salazar, Adolfo. *La música de España*. Buenos Aires: Espasa-Calpe, 1953.
 - Scholes, Percy. *Diccionario Oxford de la música*. Barcelona: Edhasa, 1984.
 - Subirá, José. *La tonadilla escénica*. Madrid: Tipografía de Archivos, 1933.
-- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.
-- Tyler, James. *The Early Guitar: A History and Handbook*. Londres: Oxford University Press, 1980.
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Clemente Buhlal, José Antonio. *El contenido melódico en la enseñanza de la guitarra*. Cádiz: Servicio de Publicaciones de la Universidad de Cádiz, 2002.
+
+[^2]: Iborra, Alcaraz. *La guitarra: historia, organología y repertorio*. Almería: Editorial Círculo Rojo, 2010.
+
+[^3]: Pajares Alonso, Roberto. *Historia de la música en seis bloques*. Madrid: Aebius, 2010.
+
+[^4]: Scholes, Percy. *Diccionario Oxford de la música*. Barcelona: Edhasa, 1984.
+
+[^5]: Subirá, José. *La tonadilla escénica*. Madrid: Tipografía de Archivos, 1933.

@@ -140,7 +140,7 @@ Este tema puede ser ampliado con los apartados de edición y transcripción de l
 
 ==La tecnología digital ha abierto nuevas posibilidades en el ámbito de la transcripción. Los programas de edición de partituras permiten experimentar con diferentes disposiciones de voces, tonalidades y registros sin la necesidad de escribir a mano cada versión. Asimismo, las grabaciones históricas y las ediciones críticas disponibles en línea facilitan el acceso a fuentes primarias que antes eran de difícil consulta. El transcriptor actual debe combinar el conocimiento musicológico tradicional con las herramientas digitales para producir ediciones que sean a la vez rigurosas y funcionales para el intérprete[^3].==
 
-## NOTAS #REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Pujol, Emilio. *La guitarra y su historia*. Buenos Aires: Ricordi Americana, 1930.
 
@@ -152,7 +152,7 @@ Este tema puede ser ampliado con los apartados de edición y transcripción de l
 
 [^5]: Wade, Graham. *Traditions of the Classical Guitar*. Londres: Calder, 1980.
 
-## Bibliografía #REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Blanco Bohigas, Alberto. *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*. [s. l.]: [s. n.], [s. a.].
 - Pujol, Emilio. *La guitarra y su historia*. Buenos Aires: Ricordi Americana, 1930.

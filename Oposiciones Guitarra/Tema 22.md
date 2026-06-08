@@ -377,7 +377,7 @@ Es necesario, entonces, tener un conocimiento adecuado de los distintos tipos de
 
 Solo desde esta comprensión global se podrá llevar a cabo la impartición de esta asignatura que constituirá el ensayo de una de las principales actividades que los alumnos tendrán que realizar como músicos en el futuro: interpretar música en grupo.
 
-## Bibliografía #REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
 - Decreto 2618/1966, de 10 de septiembre, sobre Reglamentación general de los Conservatorios de Música. *BOE* n.º 237, de 4 de octubre de 1966.
@@ -385,7 +385,7 @@ Solo desde esta comprensión global se podrá llevar a cabo la impartición de e
 - Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas. *BOE* n.º 143, de 15 de junio de 2013.
 - Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE* n.º 18, de 20 de enero de 2007.
 
-## NOTAS #REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
 
