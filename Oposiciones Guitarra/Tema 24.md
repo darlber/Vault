@@ -89,7 +89,7 @@ Algunos de los compositores para mandolina son:
 
 **Bandurria.** Aunque no existe mucha documentación acerca de este instrumento en el siglo XVI, sí que podemos conocer que fue pequeña, de tesitura y órdenes afinados en quintas, gracias a Bermudo. La bandurria adquirió cinco y seis órdenes dobles en los siglos XVII y XVIII. Comúnmente se tocaba con plectro.
 
-**Chitarra battente y Chitarriglia.** La primera tenía cinco órdenes de metal y se tocaba con plectro[^4]. Se puede intuir que el instrumento aparecería a mediados del siglo XVIII; no ha sobrevivido literatura escrita del instrumento, lo que nos hace pensar que pudo ser un instrumento utilizado para música popular. El segundo instrumento está afinado como la guitarra española pero en registro más agudo. Poseía cinco órdenes y sus referencias se pueden encontrar en libros como los de Pesori.
+**Chitarra battente y Chitarriglia.** La primera tenía cinco órdenes de metal y se tocaba con plectro[^3]. Se puede intuir que el instrumento aparecería a mediados del siglo XVIII; no ha sobrevivido literatura escrita del instrumento, lo que nos hace pensar que pudo ser un instrumento utilizado para música popular. El segundo instrumento está afinado como la guitarra española pero en registro más agudo. Poseía cinco órdenes y sus referencias se pueden encontrar en libros como los de Pesori.
 
 **Guitarra Inglesa.** Conocida en Francia como *cistre*, *guitarra allemande* y en Italia como *cedra*. Es diferente a la guitarra tradicional, introducida probablemente por los italianos en Inglaterra. Alguna de la música que se escribió fue *Six Sonatas or solos for the guitar and bass* (1759) de J. F. Zuchert o un libro anónimo llamado *Ladies Pocket Guide or the complete tutor for the guitar* de 1750.
 
@@ -105,13 +105,13 @@ Diremos que una transcripción está bien hecha cuando respete las característi
 
 Existen numerosos libros, tanto de orquestación como específicos de las características de cada instrumento, que podemos consultar para realizar nuestras transcripciones. Además será de vital importancia realizar un análisis previo de la obra.
 
-==Entre los criterios específicos que deben guiar la transcripción para guitarra destacan los siguientes. En primer lugar, el registro: la guitarra tiene una tesitura de tres octavas y media (Mi₂ a Si♭₅ aproximadamente), por lo que las obras que excedan este ámbito deben ser transportadas o reubicadas. La transposición de octava de pasajes completos es un recurso legítimo siempre que no altere la línea melódica ni la conducción de las voces. En segundo lugar, la textura armónica: la guitarra puede realizar hasta seis notas simultáneas, pero la distribución de las voces debe respetar la disposición original en la medida de lo posible, utilizando cuerdas al aire para mantener las notas pedales y las resonancias armónicas. En tercer lugar, la articulación y el timbre deben adaptarse al instrumento original: los golpes de arco del violín o del violonchelo pueden traducirse en ligados, apoyando o picado, mientras que el efecto de sustain del piano puede recrearse mediante el uso del pedal armónico o la resonancia simpática de las cuerdas al aire[^3].==
+==Entre los criterios específicos que deben guiar la transcripción para guitarra destacan los siguientes. En primer lugar, el registro: la guitarra tiene una tesitura de tres octavas y media (Mi₂ a Si♭₅ aproximadamente), por lo que las obras que excedan este ámbito deben ser transportadas o reubicadas. La transposición de octava de pasajes completos es un recurso legítimo siempre que no altere la línea melódica ni la conducción de las voces. En segundo lugar, la textura armónica: la guitarra puede realizar hasta seis notas simultáneas, pero la distribución de las voces debe respetar la disposición original en la medida de lo posible, utilizando cuerdas al aire para mantener las notas pedales y las resonancias armónicas. En tercer lugar, la articulación y el timbre deben adaptarse al instrumento original: los golpes de arco del violín o del violonchelo pueden traducirse en ligados, apoyando o picado, mientras que el efecto de sustain del piano puede recrearse mediante el uso del pedal armónico o la resonancia simpática de las cuerdas al aire[^2].==
 
-==La transcripción de obras orquestales presenta desafíos adicionales. La guitarra no puede reproducir la masa sonora de una orquesta, por lo que el transcriptor debe seleccionar las voces esenciales y renunciar a aquellas que son meramente ornamentales o de relleno. Las reducciones orquestales para guitarra requieren un conocimiento profundo de la instrumentación original para identificar qué elementos son estructurales y cuáles accesorios. En el caso de las transcripciones de obras para teclado (clave, piano, órgano), el principal desafío es la conducción de las voces: el teclado puede mantener todas las voces simultáneamente, mientras que la guitarra debe recurrir a la arpegiación y a la sincopación de las voces para crear la ilusión polifónica descrita por Ralph Kirkpatrick[^2].==
+==La transcripción de obras orquestales presenta desafíos adicionales. La guitarra no puede reproducir la masa sonora de una orquesta, por lo que el transcriptor debe seleccionar las voces esenciales y renunciar a aquellas que son meramente ornamentales o de relleno. Las reducciones orquestales para guitarra requieren un conocimiento profundo de la instrumentación original para identificar qué elementos son estructurales y cuáles accesorios. En el caso de las transcripciones de obras para teclado (clave, piano, órgano), el principal desafío es la conducción de las voces: el teclado puede mantener todas las voces simultáneamente, mientras que la guitarra debe recurrir a la arpegiación y a la sincopación de las voces para crear la ilusión polifónica descrita por Ralph Kirkpatrick[^5].==
 
 ## Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales #REVISAR_OPENCODE
 
-Cuando tenemos la necesidad de realizar transcripciones para guitarra de repertorio de otros instrumentos[^5], es necesario que tengamos en cuenta aspectos como:
+Cuando tenemos la necesidad de realizar transcripciones para guitarra de repertorio de otros instrumentos[^4], es necesario que tengamos en cuenta aspectos como:
 - Realizar un análisis previo de la obra a transcribir.
 - Tener en cuenta la textura armónica de la obra a transcribir.
 - Conocer el instrumento y las características para el cual fue concebida la obra originalmente.
@@ -140,24 +140,22 @@ Este tema puede ser ampliado con los apartados de edición y transcripción de l
 
 ==La tecnología digital ha abierto nuevas posibilidades en el ámbito de la transcripción. Los programas de edición de partituras permiten experimentar con diferentes disposiciones de voces, tonalidades y registros sin la necesidad de escribir a mano cada versión. Asimismo, las grabaciones históricas y las ediciones críticas disponibles en línea facilitan el acceso a fuentes primarias que antes eran de difícil consulta. El transcriptor actual debe combinar el conocimiento musicológico tradicional con las herramientas digitales para producir ediciones que sean a la vez rigurosas y funcionales para el intérprete[^3].==
 
-# NOTAS #REVISAR_OPENCODE
-
-[^1]: Pujol, Emilio. *La guitarra y su historia*. Buenos Aires: Ricordi Americana, 1930.
-
-[^2]: Yates, Stanley. «Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar». *Soundboard* 25, n.º 1 (1998): 51–67.
-
-[^3]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.
-
-[^4]: Tyler, James. *The Early Guitar: A History and Handbook*. Londres: Oxford University Press, 1980.
-
-[^5]: Wade, Graham. *Traditions of the Classical Guitar*. Londres: Calder, 1980.
-
 # Bibliografía #REVISAR_OPENCODE
 
-- Blanco Bohigas, Alberto. *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*. [s. l.]: [s. n.], [s. a.].
 - Pujol, Emilio. *La guitarra y su historia*. Buenos Aires: Ricordi Americana, 1930.
-- Radole, Giuseppe. *Laúd, guitarra y vihuela*. Milán: Suvini Zerboni, 1982.
 - Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.
 - Tyler, James. *The Early Guitar: A History and Handbook*. Londres: Oxford University Press, 1980.
 - Wade, Graham. *Traditions of the Classical Guitar*. Londres: Calder, 1980.
 - Yates, Stanley. «Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar». *Soundboard* 25, n.º 1 (1998): 51–67.
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Pujol, Emilio. *La guitarra y su historia*. Buenos Aires: Ricordi Americana, 1930.
+
+[^2]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. Londres: Batsford, 1976.
+
+[^3]: Tyler, James. *The Early Guitar: A History and Handbook*. Londres: Oxford University Press, 1980.
+
+[^4]: Wade, Graham. *Traditions of the Classical Guitar*. Londres: Calder, 1980.
+
+[^5]: Yates, Stanley. «Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar». *Soundboard* 25, n.º 1 (1998): 51–67.
