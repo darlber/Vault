@@ -174,7 +174,7 @@ Todo ello debe tenerse en cuenta al abordar la edición y transcripción de la m
 - Annala, Hannu; Matlik, Heiki. 2010. *Handbook of Guitar and Lute Composers*. Pacific: Mel Bay Publications.
 - Corrette, Michel. 1763. *Les Dons d'Apollon: Méthode pour apprendre facilement à jouer de la guitarre*. Paris.
 - Ferandiere, Fernando. 1799. *Arte de tocar la guitarra de seis órdenes*. Madrid.
-- Lichtenthal, Pietro. 1836. *Dizionario e bibliografia della musica*. Milano: Antonio Fontana.
+- Copeland, Jeffrey. 2012. *Ornamentation in Eighteenth-Century Guitar Music: An Examination of Instruction Manuals from 1750–1800*. DMA thesis, Arizona State University.
 - Merchi, Giacomo. 1777. *Traité des agrémens de la musique exécutés sur la guitarre*. Paris: l'auteur.
 - Minguet e Irol, Pablo. 1754. *Reglas y advertencias generales para enseñar a los principiantes a tañer la guitarra*. Madrid.
 - Moretti, Federico. 1799. *Principios para tocar la guitarra de seis órdenes*. Madrid.
@@ -203,7 +203,7 @@ Todo ello debe tenerse en cuenta al abordar la edición y transcripción de la m
 
 [^8]: Moretti, Federico. *Principios para tocar la guitarra de seis órdenes*. Madrid, 1799.
 
-[^9]: Lichtenthal, Pietro. *Dizionario e bibliografia della musica*. Milano: Antonio Fontana, 1836.
+[^9]: Copeland, Jeffrey. *Ornamentation in Eighteenth-Century Guitar Music: An Examination of Instruction Manuals from 1750–1800*. DMA thesis, Arizona State University, 2012.
 
 [^10]: Suárez Pajares, Javier. «El auge de la guitarra moderna en España». En *La música en España en el siglo XVIII*, editado por Malcolm Boyd y Juan José Carreras, 261-278. Madrid: Cambridge University Press, 2000.
 
