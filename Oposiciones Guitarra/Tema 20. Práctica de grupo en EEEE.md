@@ -301,8 +301,6 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 
 ==Para favorecer esta transición, resulta recomendable organizar, ya desde el último curso de enseñanzas elementales, agrupaciones mixtas en las que participen alumnos de ambos niveles en proyectos puntuales (conciertos de fin de curso, seminarios de conjunto, semanas culturales). Esta experiencia permite al alumno de elementales familiarizarse con las dinámicas de trabajo propias de las agrupaciones profesionales y reduce la ansiedad ante el cambio de etapa. Asimismo, el profesor puede utilizar estas situaciones para evaluar la preparación del alumno y orientarle en la elección de su itinerario formativo[^5].==
 
-=======
->>>>>>> origin/main
 ## NOTAS #REVISAR_OPENCODE
 
 [^1]: Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. *BOE* n.º 238, de 4 de octubre de 1990.
@@ -317,7 +315,6 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 
 [^6]: Lebrero Baena, María Paz y María Teresa Pérez. *Los procesos de enseñanza-aprendizaje en la educación infantil*. Madrid: UNED, 1988.
 
-<<<<<<< HEAD
 [^7]: Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *BOE* n.º 340, de 30 de diciembre de 2020.
 
 ## Bibliografía #REVISAR_OPENCODE
