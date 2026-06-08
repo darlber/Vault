@@ -40,7 +40,7 @@
 - Durante mucho tiempo la creatividad se valoraba a partir de productos nuevos observables; era considerada un don o aptitud heredada
 - Investigaciones recientes incorporan un nuevo elemento: la creatividad también es una **actitud**, un rasgo de pensamiento y conducta que cualquier persona puede adquirir y desarrollar
 - Este nuevo concepto incluye que también es creativo quien construye algo nuevo para sí mismo, aunque no sea nuevo para los demás
-- **Maslow**[^3] distingue entre creatividad como talento especial y creatividad como autorrealización; todo individuo cuenta con un potencial creativo
+- **Maslow**[^4] distingue entre creatividad como talento especial y creatividad como autorrealización; todo individuo cuenta con un potencial creativo
 
 ### Criterios de Hallman (1963)
 
@@ -64,7 +64,7 @@
 ### 4.1. Pedagogía que propicie la creatividad
 
 - Es necesario transformar las pedagogías del pasado para adecuar la enseñanza musical a los retos actuales
-- **Pilar García Calero**[^5]: «No debemos centrarnos en la acumulación lineal de contenidos ni en el desarrollo de las técnicas de pensamiento, sino en la elaboración de las capacidades de los alumnos para dar sentido a las cosas»
+- **Pilar García Calero**[^1]: «No debemos centrarnos en la acumulación lineal de contenidos ni en el desarrollo de las técnicas de pensamiento, sino en la elaboración de las capacidades de los alumnos para dar sentido a las cosas»
 - **Violeta Hemsy de Gainza (1970)**: «Dotar a la enseñanza de un carácter práctico, activo, creador y dinámico; aportar mayor conciencia a los procesos mentales de aprendizaje; establecer secuencias coherentes desde el punto de vista psicológico»
 - La pedagogía del arte debe ser «abierta» como sinónimo de creativo, libre y experimental
 - Criterios de esta pedagogía:
@@ -114,7 +114,7 @@
 - **Hemsy de Gainza**: «La búsqueda obsesiva de la perfección en la copia ha sido la causa de irreparables frustraciones musicales; esta actitud ha producido una multitud de pequeños repetidores, a quienes se privó de disfrutar su infancia musical»
 - Las TIC (edición de partituras, secuenciación, grabación) son instrumentos poderosos para estimular la creatividad en el aula de instrumento
 
-==**Ejemplos de aplicación a la guitarra:** la creatividad en el aula de guitarra puede trabajarse desde la primera clase mediante actividades de exploración sonora. Por ejemplo, pedir al alumno que invente un motivo de cuatro notas sobre las cuerdas al aire y lo varíe rítmicamente (creatividad melódico-rítmica); o que busque diferentes formas de pulsar la misma cuerda (cerca del puente, sobre la boca, con la uña, con la yema) para desarrollar la conciencia tímbrica y la inventiva expresiva. La improvisación sobre patrones armónicos sencillos (Mi menor, La menor) con ritmos básicos de rasgueado permite al alumno experimentar con la armonía y la forma musical sin la presión de la lectura. Estas actividades conectan directamente con el desarrollo de la inteligencia musical y la personalidad artística desde los primeros estadios del aprendizaje instrumental[^1].==
+==**Ejemplos de aplicación a la guitarra:** la creatividad en el aula de guitarra puede trabajarse desde la primera clase mediante actividades de exploración sonora. Por ejemplo, pedir al alumno que invente un motivo de cuatro notas sobre las cuerdas al aire y lo varíe rítmicamente (creatividad melódico-rítmica); o que busque diferentes formas de pulsar la misma cuerda (cerca del puente, sobre la boca, con la uña, con la yema) para desarrollar la conciencia tímbrica y la inventiva expresiva. La improvisación sobre patrones armónicos sencillos (Mi menor, La menor) con ritmos básicos de rasgueado permite al alumno experimentar con la armonía y la forma musical sin la presión de la lectura. Estas actividades conectan directamente con el desarrollo de la inteligencia musical y la personalidad artística desde los primeros estadios del aprendizaje instrumental[^3].==
 
 ### 5.2. La improvisación musical como técnica pedagógica
 
@@ -202,7 +202,7 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*), la comp
 - Se está produciendo «la conversión de la vieja guardia»; más centros incluyen programas avanzados de emprendimiento
 - Cada año terminan sus estudios cientos de músicos con pocas posibilidades de lograr un puesto de trabajo; el emprendimiento mejora la empleabilidad
 
-==**Emprendimiento y guitarra:** el guitarrista, por la versatilidad del instrumento, cuenta con un abanico especialmente amplio de salidas emprendedoras: conciertos en solitario y en grupo, docencia en centros públicos y privados, publicación de métodos y arreglos, gestión de festivales y ciclos de conciertos, grabación y producción discográfica, y divulgación a través de plataformas digitales. El desarrollo del espíritu emprendedor en el aula de guitarra implica fomentar la iniciativa para organizar recitales, la responsabilidad en la gestión del estudio autónomo, la capacidad de negociación en ensayos de grupo y la creatividad para diseñar programas de concierto originales. Estas habilidades, trabajadas desde las enseñanzas elementales y profesionales, preparan al alumno para un mercado laboral en el que la polivalencia y la capacidad de autogestión son cada vez más valoradas[^4].==
+==**Emprendimiento y guitarra:** el guitarrista, por la versatilidad del instrumento, cuenta con un abanico especialmente amplio de salidas emprendedoras: conciertos en solitario y en grupo, docencia en centros públicos y privados, publicación de métodos y arreglos, gestión de festivales y ciclos de conciertos, grabación y producción discográfica, y divulgación a través de plataformas digitales. El desarrollo del espíritu emprendedor en el aula de guitarra implica fomentar la iniciativa para organizar recitales, la responsabilidad en la gestión del estudio autónomo, la capacidad de negociación en ensayos de grupo y la creatividad para diseñar programas de concierto originales. Estas habilidades, trabajadas desde las enseñanzas elementales y profesionales, preparan al alumno para un mercado laboral en el que la polivalencia y la capacidad de autogestión son cada vez más valoradas[^5].==
 
 ## 7. Conclusiones
 
@@ -212,28 +212,22 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*), la comp
 - El desarrollo de la creatividad necesita actuaciones globales: nueva pedagogía, proyecto educativo abierto y organización del aula diferente
 - La práctica de la improvisación es un poderoso instrumento para conseguir estos objetivos
 
-## 8. NOTAS #REVISAR_OPENCODE
-
-[^1]: Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
-
-[^2]: Guilford, Joy Paul. «Creativity». *American Psychologist* 5, n.º 9 (1950): 444–454.
-
-[^3]: Maslow, Abraham. *El hombre autorrealizado*. Barcelona: Kairós, 1993.
-
-[^4]: Miller, Kerry. *Teaching Musicians to Be Entrepreneurs*. Moberly: AdCiv, 2007.
-
-[^5]: García Calero, Pilar y A. Estebaranz García. *Innovación y creatividad en la enseñanza musical*. Barcelona: Octaedro, 2005.
-
 ## 8. Bibliografía #REVISAR_OPENCODE
 
-- Alemany, Luisa; José Antonio Marina y Juan Manuel Pérez Díaz-Pericles. *Aprender a emprender: cómo educar el talento emprendedor*. Barcelona: AulaPLANETA, 2013.
-- Fuentes, Pilar y Juan Cervera. *Pedagogía y didáctica para músicos*. Valencia: Piles, 1989.
 - García Calero, Pilar y A. Estebaranz García. *Innovación y creatividad en la enseñanza musical*. Barcelona: Octaedro, 2005.
 - Guilford, Joy Paul. «Creativity». *American Psychologist* 5, n.º 9 (1950): 444–454.
 - Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
-- Hemsy de Gainza, Violeta. *Pedagogía musical: dos décadas de pensamiento y acción educativa*. Buenos Aires: Lumen, 2002.
-- Hemsy de Gainza, Violeta. *Valor de la improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana, 1977.
-- Lago, Pilar. *Música y creatividad*. Madrid: Educación Musical, 1998.
-- Lavista, Mario. «Creatividad en el proceso de enseñanza/aprendizaje». En *Educación y expresión*, 45–62. Buenos Aires: Plus Ultra, 1982.
 - Maslow, Abraham. *El hombre autorrealizado*. Barcelona: Kairós, 1993.
 - Miller, Kerry. *Teaching Musicians to Be Entrepreneurs*. Moberly: AdCiv, 2007.
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: García Calero, Pilar y A. Estebaranz García. *Innovación y creatividad en la enseñanza musical*. Barcelona: Octaedro, 2005.
+
+[^2]: Guilford, Joy Paul. «Creativity». *American Psychologist* 5, n.º 9 (1950): 444–454.
+
+[^3]: Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
+
+[^4]: Maslow, Abraham. *El hombre autorrealizado*. Barcelona: Kairós, 1993.
+
+[^5]: Miller, Kerry. *Teaching Musicians to Be Entrepreneurs*. Moberly: AdCiv, 2007.
