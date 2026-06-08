@@ -149,18 +149,46 @@
 - Posibles dificultades: generar herramientas apropiadas de autoevaluación y autocontrol, acceso a fuentes de información, falta de apoyo familiar en las primeras etapas
 - El paradigma de aprender a aprender es irrenunciable en un mundo globalizado donde los conocimientos quedan obsoletos rápidamente
 
-## 7. Bibliografía
+## 7. Bibliografía #REVISAR_OPENCODE
 
+- *Competencias básicas*. Ministerio de Educación
+- Fuentes, P. y Cervera, J. *Pedagogía y didáctica para músicos*. Editorial Piles
 - Gainza, V. H. (1977). *Valor de la Improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana
 - Gainza, V. H. (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
 - Gainza, V. H. (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*. Lumen
 - García Calero, P. y Estebaranz García, A. (2005). *Innovación y creatividad en la enseñanza musical*. Octaedro
-- Fuentes, P. y Cervera, J. *Pedagogía y didáctica para músicos*. Editorial Piles
 - Lago, P. *Música y creatividad*. Educación Musical
 - Lavista, M. (1982). «Creatividad en el proceso de enseñanza/aprendizaje». En *Educación y expresión*. Buenos Aires: Plus Ultra
-- *Competencias básicas*. Ministerio de Educación
 - Molina, E. (2006). «Análisis, improvisación y autonomía». *Revista Eufonía*, n.º 36
 - *Revista Eufonía*. Editorial Graó
 - *Revista Música y Educación*. Ediciones Musicales
 - Rodríguez González, R. (2006). «Diseño de entornos para el desarrollo de la autonomía en el aprendizaje». *Aula Abierta*, n.º 87
 - Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Diputació de Barcelona
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: *Competencias básicas*. Ministerio de Educación
+
+[^2]: Fuentes, P. y Cervera, J. *Pedagogía y didáctica para músicos*. Editorial Piles
+
+[^3]: Gainza, V. H. (1977). *Valor de la Improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana
+
+[^4]: Gainza, V. H. (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
+
+[^5]: Gainza, V. H. (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*. Lumen
+
+[^6]: García Calero, P. y Estebaranz García, A. (2005). *Innovación y creatividad en la enseñanza musical*. Octaedro
+
+[^7]: Lago, P. *Música y creatividad*. Educación Musical
+
+[^8]: Lavista, M. (1982). «Creatividad en el proceso de enseñanza/aprendizaje». En *Educación y expresión*. Buenos Aires: Plus Ultra
+
+[^9]: Molina, E. (2006). «Análisis, improvisación y autonomía». *Revista Eufonía*, n.º 36
+
+[^10]: *Revista Eufonía*. Editorial Graó
+
+[^11]: *Revista Música y Educación*. Ediciones Musicales
+
+[^12]: Rodríguez González, R. (2006). «Diseño de entornos para el desarrollo de la autonomía en el aprendizaje». *Aula Abierta*, n.º 87
+
+[^13]: Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Diputació de Barcelona

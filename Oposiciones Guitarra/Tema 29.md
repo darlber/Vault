@@ -172,7 +172,7 @@
 - En el terreno profesional, es fundamental el dominio de otros tipos de música para una carrera musical sostenible
 - Es necesario adquirir competencias profesionales para interpretar nuevos lenguajes musicales y un perfil profesional versátil que amplíe las posibilidades laborales
 
-## 9. Bibliografía
+## 9. Bibliografía #REVISAR_OPENCODE
 
 - Contreras, A. de: *El «guitagrama»: un lenguaje para la composición musical dinámica*. Departamento de Estética e Historia de la Filosofía. Universidad de Sevilla, 2002
 - Crook, H.: *How to Improvise*. Advance Music. Rottenburg, 1991
@@ -180,22 +180,74 @@
 - Davis, M. y Troupe, Q.: *Miles, La Autobiografía*. Ediciones B. Barcelona, 1991
 - Gioia, T.: *Historia del Jazz*. Turner. Madrid, 2002
 - Levine, M.: *The Jazz Theory Book*. Sher Music Co. Petaluma, California, 1995
-- Molina, E. (2011): «Hacer música para aprender a componer. Composición en grupo». *Eufonía*, n.º 51, p. 53-64
-- Molina, E. (2009): «Pirámide de Niveles de Síntesis...». Comunicación. Encuentro nacional de análisis. Las Palmas
-- Molina, E. (2009): «La improvisación y el análisis como herramientas de creación musical en una orquesta de jóvenes». *Eufonía*, n.º 47
-- Molina, E. (2008): «Improvisación y educación musical. Breve historia, definición y aplicación pedagógica». X Congreso de la SIBE. Salamanca
-- Molina, E. (2008): «Estudios de Chopin. Análisis y metodología de trabajo. Metodología IEM». Jornadas de Pedagogía. Barcelona
-- Molina, E. (2008): «La improvisación como sistema pedagógico...». I Congreso de educación e investigación musical. Madrid
-- Molina, E. (2008): «La improvisación. Definiciones y puntos de vista». *Música y Educación*, Vol. 21, 3, n.º 75, p. 78-94
-- Molina, E. (2006): «Análisis, improvisación e interpretación». *Eufonía*, n.º 36
-- Molina, E. (2005): «La Improvisación en la Educación Musical (Metodología IEM)». *Alzapúa*, n.º 11
-- Molina, E., Roca, A. D. y Roncero, M. A. (2004): «La Improvisación como sistema pedagógico». 26.º ISME World Conference. Tenerife
-- Molina, E. (2003): «La lectura a primera vista análisis». *Música y Educación*, Vol. 16, 2, n.º 54, p. 73-90
+- Molina, E. (1988): «Improvisación y educación musical profesional». *Música y Educación*, Vol. 1, 1, n.º 1, p. 33-55
 - Molina, E. (1994): «La improvisación. Aportaciones pedagógicas a la enseñanza musical». *Música*, n.º 1, RCSMM, Madrid
 - Molina, E. (1994): «La improvisación. Nueva metodología de enseñanza musical». *Revista galega do ensino*, n.º 2. La Coruña
-- Molina, E. (1988): «Improvisación y educación musical profesional». *Música y Educación*, Vol. 1, 1, n.º 1, p. 33-55
+- Molina, E. (2003): «La lectura a primera vista análisis». *Música y Educación*, Vol. 16, 2, n.º 54, p. 73-90
+- Molina, E., Roca, A. D. y Roncero, M. A. (2004): «La Improvisación como sistema pedagógico». 26.º ISME World Conference. Tenerife
+- Molina, E. (2005): «La Improvisación en la Educación Musical (Metodología IEM)». *Alzapúa*, n.º 11
+- Molina, E. (2006): «Análisis, improvisación e interpretación». *Eufonía*, n.º 36
+- Molina, E. (2008): «Estudios de Chopin. Análisis y metodología de trabajo. Metodología IEM». Jornadas de Pedagogía. Barcelona
+- Molina, E. (2008): «Improvisación y educación musical. Breve historia, definición y aplicación pedagógica». X Congreso de la SIBE. Salamanca
+- Molina, E. (2008): «La improvisación como sistema pedagógico...». I Congreso de educación e investigación musical. Madrid
+- Molina, E. (2008): «La improvisación. Definiciones y puntos de vista». *Música y Educación*, Vol. 21, 3, n.º 75, p. 78-94
+- Molina, E. (2009): «La improvisación y el análisis como herramientas de creación musical en una orquesta de jóvenes». *Eufonía*, n.º 47
+- Molina, E. (2009): «Pirámide de Niveles de Síntesis...». Comunicación. Encuentro nacional de análisis. Las Palmas
+- Molina, E. (2011): «Hacer música para aprender a componer. Composición en grupo». *Eufonía*, n.º 51, p. 53-64
 - Monson, I.: *Saying Something (jazz improvisation and interaction)*. The University of Chicago Press, 1996
 - Nettl, B. y Russell, M.: *In the course of Performance*. The University of Chicago Press, 1998
 - Ryan, L. F.: *The Natural Classical Guitar*. The Bold Strummer, Ltd. Westport, Connecticut, 1991
 - Sadie, S. (Ed.): *The New Grove Dictionary of Music and Musicians*. Macmillan. London, 1980
 - Sloboda, J. A. (Ed.): *Generative Processes in Music*. Clarendon Press. Oxford, 1988
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Contreras, A. de: *El «guitagrama»: un lenguaje para la composición musical dinámica*. Departamento de Estética e Historia de la Filosofía. Universidad de Sevilla, 2002
+
+[^2]: Crook, H.: *How to Improvise*. Advance Music. Rottenburg, 1991
+
+[^3]: Crook, H.: *Ready, Aim, Improvise!*. Advance Music. Rottenburg, 1999
+
+[^4]: Davis, M. y Troupe, Q.: *Miles, La Autobiografía*. Ediciones B. Barcelona, 1991
+
+[^5]: Gioia, T.: *Historia del Jazz*. Turner. Madrid, 2002
+
+[^6]: Levine, M.: *The Jazz Theory Book*. Sher Music Co. Petaluma, California, 1995
+
+[^7]: Molina, E. (1988): «Improvisación y educación musical profesional». *Música y Educación*, Vol. 1, 1, n.º 1, p. 33-55
+
+[^8]: Molina, E. (1994): «La improvisación. Aportaciones pedagógicas a la enseñanza musical». *Música*, n.º 1, RCSMM, Madrid
+
+[^9]: Molina, E. (1994): «La improvisación. Nueva metodología de enseñanza musical». *Revista galega do ensino*, n.º 2. La Coruña
+
+[^10]: Molina, E. (2003): «La lectura a primera vista análisis». *Música y Educación*, Vol. 16, 2, n.º 54, p. 73-90
+
+[^11]: Molina, E., Roca, A. D. y Roncero, M. A. (2004): «La Improvisación como sistema pedagógico». 26.º ISME World Conference. Tenerife
+
+[^12]: Molina, E. (2005): «La Improvisación en la Educación Musical (Metodología IEM)». *Alzapúa*, n.º 11
+
+[^13]: Molina, E. (2006): «Análisis, improvisación e interpretación». *Eufonía*, n.º 36
+
+[^14]: Molina, E. (2008): «Estudios de Chopin. Análisis y metodología de trabajo. Metodología IEM». Jornadas de Pedagogía. Barcelona
+
+[^15]: Molina, E. (2008): «Improvisación y educación musical. Breve historia, definición y aplicación pedagógica». X Congreso de la SIBE. Salamanca
+
+[^16]: Molina, E. (2008): «La improvisación como sistema pedagógico...». I Congreso de educación e investigación musical. Madrid
+
+[^17]: Molina, E. (2008): «La improvisación. Definiciones y puntos de vista». *Música y Educación*, Vol. 21, 3, n.º 75, p. 78-94
+
+[^18]: Molina, E. (2009): «La improvisación y el análisis como herramientas de creación musical en una orquesta de jóvenes». *Eufonía*, n.º 47
+
+[^19]: Molina, E. (2009): «Pirámide de Niveles de Síntesis...». Comunicación. Encuentro nacional de análisis. Las Palmas
+
+[^20]: Molina, E. (2011): «Hacer música para aprender a componer. Composición en grupo». *Eufonía*, n.º 51, p. 53-64
+
+[^21]: Monson, I.: *Saying Something (jazz improvisation and interaction)*. The University of Chicago Press, 1996
+
+[^22]: Nettl, B. y Russell, M.: *In the course of Performance*. The University of Chicago Press, 1998
+
+[^23]: Ryan, L. F.: *The Natural Classical Guitar*. The Bold Strummer, Ltd. Westport, Connecticut, 1991
+
+[^24]: Sadie, S. (Ed.): *The New Grove Dictionary of Music and Musicians*. Macmillan. London, 1980
+
+[^25]: Sloboda, J. A. (Ed.): *Generative Processes in Music*. Clarendon Press. Oxford, 1988

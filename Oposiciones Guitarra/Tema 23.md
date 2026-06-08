@@ -86,7 +86,7 @@ La guitarra también está presente en otros tipos de música popular en distint
 
 Un tipo de guitarra usada en el siglo XX es la guitarra acústica y se suele usar en música celta, jazz, etc. Este tipo de guitarra tiene las cuerdas de metal, la caja es más grande que la de la guitarra tradicional al igual que la boca. Su mástil es regulable en altura, clavijero tipo guitarra eléctrica, puente regulable, entre otras características. Esta guitarra es la preferida en la música folk, puede estar amplificada y sus órdenes varían entre 12 y 6.
 
-## Bibliografía
+## Bibliografía #REVISAR_OPENCODE
 
 - Amat, Juan Carlos: *Guitarra española y vandola en dos maneras de guitarra, castellana y cathalana de cinco órdenes* (1745)
 - Boyd, Malcolm y Carreras, José: *La música en España en el siglo XVIII* (2000)
@@ -103,3 +103,35 @@ Un tipo de guitarra usada en el siglo XX es la guitarra acústica y se suele usa
 - Subirá, José: *La Tonadilla Escénica* (1933)
 - Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
 - Tyler, James: *The Early Guitar* (1980)
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Amat, Juan Carlos: *Guitarra española y vandola en dos maneras de guitarra, castellana y cathalana de cinco órdenes* (1745)
+
+[^2]: Boyd, Malcolm y Carreras, José: *La música en España en el siglo XVIII* (2000)
+
+[^3]: Bukofzer, Manfred: *Music in the Baroque Era. From Monteverdi to Bach* (2007)
+
+[^4]: Clemente Buhlal, José Antonio: *El contenido melódico en la enseñanza de la guitarra* (2002)
+
+[^5]: Iborra, Alcaraz: *La guitarra: Historia, organología y repertorio* (2010)
+
+[^6]: López Chavarri, Eduardo: *Música Popular Española* (1927)
+
+[^7]: Matas, José Ricart: *Diccionario Biográfico de la Música* (1980)
+
+[^8]: Molina, Emilio: *La improvisación en el lenguaje musical* (1997)
+
+[^9]: Pajares Alonso, Roberto: *Historia de la música en seis bloques* (2010)
+
+[^10]: Radole, Giuseppe: *Laúd, guitarra y vihuela* (1982)
+
+[^11]: Salazar, Adolfo: *La música de España* (1953)
+
+[^12]: Scholes, Percy: *Diccionario Oxford de la Música* (1984)
+
+[^13]: Subirá, José: *La Tonadilla Escénica* (1933)
+
+[^14]: Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
+
+[^15]: Tyler, James: *The Early Guitar* (1980)

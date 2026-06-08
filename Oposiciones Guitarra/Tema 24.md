@@ -131,11 +131,25 @@ En cuanto a las transcripciones de música de Bach, podemos encontrar mucha info
 
 Este tema puede ser ampliado con los apartados de edición y transcripción de los temas del 9 al 14.
 
-## Bibliografía
+## Bibliografía #REVISAR_OPENCODE
 
 - Blanco Bohigas, Alberto: *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*.
 - Radole, Giuseppe: *Laúd, guitarra y vihuela* (1982)
 - Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
 - Tyler, James: *The Early Guitar* (1980)
-- Yates, Stanley: *Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar* (1998)
 - Wade, Graham: *Traditions of the classical guitar* (1953)
+- Yates, Stanley: *Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar* (1998)
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Blanco Bohigas, Alberto: *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*.
+
+[^2]: Radole, Giuseppe: *Laúd, guitarra y vihuela* (1982)
+
+[^3]: Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
+
+[^4]: Tyler, James: *The Early Guitar* (1980)
+
+[^5]: Wade, Graham: *Traditions of the classical guitar* (1953)
+
+[^6]: Yates, Stanley: *Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar* (1998)

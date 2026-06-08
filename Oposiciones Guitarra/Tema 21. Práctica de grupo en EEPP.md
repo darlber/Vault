@@ -261,11 +261,25 @@ c) La heteroevaluación: los profesores evalúan a los alumnos: el sentido de di
 - Recursos bibliográficos: las partituras de la obra y particellas, ediciones diferentes y bibliografía sobre el compositor, época y estilo de la obra interpretada.
 - Material audiovisual: equipo de sonido HI-FI, equipo reproductor, CD's, MC's, etc.
 
-## Bibliografía
+## Bibliografía #REVISAR_OPENCODE
 
-- *Música y Educación. Revista de investigación pedagógico-musical*. Ed. Musicalis S.A.
+- Carrillo, Nicolás; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
+- Cebriá, Pascual; Ortega, Ricardo J.; Fernández, Juan E.: *La clase colectiva*. Mundimúsica Garijo S.L.
 - Corbalán, Maravillas: «La programación interdisciplinar en la enseñanza musical no superior», *Música y Educación*.
 - *Eufonía. Didáctica de la música*. Ed. Graó.
 - Fuentes, Pilar y Cervera, Juan: *Pedagogía y didáctica para músicos*. Ed. Piles S.A., 1989.
-- Cebriá, Pascual; Ortega, Ricardo J.; Fernández, Juan E.: *La clase colectiva*. Mundimúsica Garijo S.L.
-- Carrillo, Nicolás; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
+- *Música y Educación. Revista de investigación pedagógico-musical*. Ed. Musicalis S.A.
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Carrillo, Nicolás; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
+
+[^2]: Cebriá, Pascual; Ortega, Ricardo J.; Fernández, Juan E.: *La clase colectiva*. Mundimúsica Garijo S.L.
+
+[^3]: Corbalán, Maravillas: «La programación interdisciplinar en la enseñanza musical no superior», *Música y Educación*.
+
+[^4]: *Eufonía. Didáctica de la música*. Ed. Graó.
+
+[^5]: Fuentes, Pilar y Cervera, Juan: *Pedagogía y didáctica para músicos*. Ed. Piles S.A., 1989.
+
+[^6]: *Música y Educación. Revista de investigación pedagógico-musical*. Ed. Musicalis S.A.

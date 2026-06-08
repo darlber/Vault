@@ -318,7 +318,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - *Método de Guitarra* (Dionisio Aguado)
 - Métodos de Daniel Fortea
 
-## 5. Bibliografía
+## 5. Bibliografía #REVISAR_OPENCODE
 
 - Alsina, Pep: *El área de educación musical* (1997)
 - Banks, Susan: *Orff Schulwerk Teaches Musical Responsiveness* (1982)
@@ -334,7 +334,45 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - Pliego de Andrés, Víctor: *Temas Pedagógicos para la oposición de conservatorios* (1998)
 - Sanjosé Huguet, V. (1997): *Didáctica de la Expresión Musical para Maestros*. Piles
 - Swanwick, Keith: *Música, pensamiento y educación* (1991)
+- Willems, Edgar: *El oído musical. La preparación auditiva del niño* (2001)
 - Willems, Edgar: *La preparación musical de los más pequeños* (1976)
 - Willems, Edgar: *Las bases psicológicas de la educación musical* (1984)
-- Willems, Edgar: *El oído musical. La preparación auditiva del niño* (2001)
 - Zaldivar, Álvaro: *La Logse en los conservatorios* (1992)
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Alsina, Pep: *El área de educación musical* (1997)
+
+[^2]: Banks, Susan: *Orff Schulwerk Teaches Musical Responsiveness* (1982)
+
+[^3]: Bitcon, Carol: *Alike and Different: The Clinical and Educational Use of Orff Schulwerk* (1976)
+
+[^4]: Coll, C. (1987). *Psicología y Currículum*. Paidós
+
+[^5]: Decreto 158/2007 de 17 de agosto del Gobierno Valenciano
+
+[^6]: Gersdorf, Lilo: *Carl Orff* (2002)
+
+[^7]: Gómez Albadalejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos*
+
+[^8]: Hoge Mead, Virginia: *More than Mere Movement: Dalcroze Eurhythmics* (1986)
+
+[^9]: Jaques-Dalcroze, Émile: *Méthode Jaques-Dalcroze* (1907-1914)
+
+[^10]: Jaques-Dalcroze, Émile: *Rhythm, Music and Education* (1922)
+
+[^11]: Muñoz, A. y Noriega, J.: *Técnicas Básicas de Programación*. Escuela Española
+
+[^12]: Pliego de Andrés, Víctor: *Temas Pedagógicos para la oposición de conservatorios* (1998)
+
+[^13]: Sanjosé Huguet, V. (1997): *Didáctica de la Expresión Musical para Maestros*. Piles
+
+[^14]: Swanwick, Keith: *Música, pensamiento y educación* (1991)
+
+[^15]: Willems, Edgar: *El oído musical. La preparación auditiva del niño* (2001)
+
+[^16]: Willems, Edgar: *La preparación musical de los más pequeños* (1976)
+
+[^17]: Willems, Edgar: *Las bases psicológicas de la educación musical* (1984)
+
+[^18]: Zaldivar, Álvaro: *La Logse en los conservatorios* (1992)

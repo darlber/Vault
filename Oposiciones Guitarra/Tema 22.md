@@ -360,17 +360,43 @@ Es necesario, entonces, tener un conocimiento adecuado de los distintos tipos de
 
 Solo desde esta comprensión global se podrá llevar a cabo la impartición de esta asignatura que constituirá el ensayo de una de las principales actividades que los alumnos tendrán que realizar como músicos en el futuro: interpretar música en grupo.
 
-## Bibliografía
+## Bibliografía #REVISAR_OPENCODE
 
-- Real Decreto 1577/2006, de 1 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas en la LOE 2/2006, de 3 de mayo, de Educación.
-- Decreto 158/2007, por el que se establece el currículum de las enseñanzas profesionales de música en la Comunitat Valenciana.
-- *Música y Educación. Revista trimestral de Pedagogía Musical*. Madrid.
-- *Eufonía. Revista de Didáctica Musical*. Ediciones Graó.
 - Coll, C. (1987). *Psicología y Currículum*. Paidós.
-- Varios autores (1981). *La Educación Musical en Hungría*. Real Musical.
-- Sanjosé Huguet, V. (1997). *Didáctica de la Expresión Musical para Maestros*. Piles.
-- Pliego de Andrés (1998). *Temas pedagógicos para la oposición de conservatorios*. Editorial Musicalis.
-- Gómez Albaladejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Master Oposiciones.
+- Decreto 158/2007, por el que se establece el currículum de las enseñanzas profesionales de música en la Comunitat Valenciana.
 - *Ensenyaments Musicals IV*. Generalitat de Catalunya. Departament d'Ensenyament.
-- Payas Magraner, Javier. *Programación Didáctica*. Manuscrito del Autor.
+- *Eufonía. Revista de Didáctica Musical*. Ediciones Graó.
 - Franchefort, F. R. *Guía de la música de Cámara*. Alianza Editorial.
+- Gómez Albaladejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Master Oposiciones.
+- *Música y Educación. Revista trimestral de Pedagogía Musical*. Madrid.
+- Payas Magraner, Javier. *Programación Didáctica*. Manuscrito del Autor.
+- Pliego de Andrés (1998). *Temas pedagógicos para la oposición de conservatorios*. Editorial Musicalis.
+- Real Decreto 1577/2006, de 1 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas en la LOE 2/2006, de 3 de mayo, de Educación.
+- Sanjosé Huguet, V. (1997). *Didáctica de la Expresión Musical para Maestros*. Piles.
+- Varios autores (1981). *La Educación Musical en Hungría*. Real Musical.
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Coll, C. (1987). *Psicología y Currículum*. Paidós.
+
+[^2]: Decreto 158/2007, por el que se establece el currículum de las enseñanzas profesionales de música en la Comunitat Valenciana.
+
+[^3]: *Ensenyaments Musicals IV*. Generalitat de Catalunya. Departament d'Ensenyament.
+
+[^4]: *Eufonía. Revista de Didáctica Musical*. Ediciones Graó.
+
+[^5]: Franchefort, F. R. *Guía de la música de Cámara*. Alianza Editorial.
+
+[^6]: Gómez Albaladejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Master Oposiciones.
+
+[^7]: *Música y Educación. Revista trimestral de Pedagogía Musical*. Madrid.
+
+[^8]: Payas Magraner, Javier. *Programación Didáctica*. Manuscrito del Autor.
+
+[^9]: Pliego de Andrés (1998). *Temas pedagógicos para la oposición de conservatorios*. Editorial Musicalis.
+
+[^10]: Real Decreto 1577/2006, de 1 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas en la LOE 2/2006, de 3 de mayo, de Educación.
+
+[^11]: Sanjosé Huguet, V. (1997). *Didáctica de la Expresión Musical para Maestros*. Piles.
+
+[^12]: Varios autores (1981). *La Educación Musical en Hungría*. Real Musical.

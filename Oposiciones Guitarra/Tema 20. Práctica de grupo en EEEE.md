@@ -265,14 +265,34 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 - **Ejercicios de afinación:** *Cours d'ensemble instrumental* (G. Parés), *20 tunes ups* (H. van Lijnschooten), ejercicios de memoria de notas tenidas, escalas mayores y menores, ejercicios con diferentes dinámicas, etc.
 - **Composiciones instrumentales:** *La escala Sido* (F. Ferran), *El caragol mifasol* (Ferran), *Ammerland* (J. de Haan), *Aladdin* (Menrin/Ashman), *Fantasia* (Winson), *Gulliver's Travels* (B. Appermont), *Air for winds* (A. Waignein), *Themes from Harry Potter* (J. Williams), *A medieval suite* (A. Waignein), *Russian carol variations* (S. Bulla), *Themes from 1812* (P. I. Tchaikovsky), *Promenade* (M. Mussorgsky), *Pictures for young band* (J. Bensmann).
 
-## Bibliografía
+## Bibliografía #REVISAR_OPENCODE
 
-- Zaldívar, Álvaro: *La Logse en los Conservatorios; normativa básica en las enseñanzas musicales*. Ed. Real Musical, 1992.
 - Cebriá Genovés, P.; Ortega, Ricardo, J.; Fernández, Juan, E.: *La clase colectiva. Fundamentos básicos para su programación, su orientación y su evaluación*. Mundimúsica Ediciones Musicales.
-- *Música y Educación. Revista de Investigación Pedagógico-Musical*. Ed. Musicales, S.A.
+- Coll, César: *Psicología y curriculum*. Paidós.
+- Corbalán, Maravillas: «La programación conjunta de las enseñanzas de música». *Revista Música y Educación*.
 - *Eufonía. Didáctica de la música*. Graó.
 - Hemsy de Gainza: *La improvisación musical*. Ricordi Americana S.A., 1983.
+- *Música y Educación. Revista de Investigación Pedagógico-Musical*. Ed. Musicales, S.A.
 - Nicolás Carrillo; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
 - Proyecto Curricular. Conservatorio Profesional de Música de Torrent.
-- Corbalán, Maravillas: «La programación conjunta de las enseñanzas de música». *Revista Música y Educación*.
-- Coll, César: *Psicología y curriculum*. Paidós.
+- Zaldívar, Álvaro: *La Logse en los Conservatorios; normativa básica en las enseñanzas musicales*. Ed. Real Musical, 1992.
+
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Cebriá Genovés, P.; Ortega, Ricardo, J.; Fernández, Juan, E.: *La clase colectiva. Fundamentos básicos para su programación, su orientación y su evaluación*. Mundimúsica Ediciones Musicales.
+
+[^2]: Coll, César: *Psicología y curriculum*. Paidós.
+
+[^3]: Corbalán, Maravillas: «La programación conjunta de las enseñanzas de música». *Revista Música y Educación*.
+
+[^4]: *Eufonía. Didáctica de la música*. Graó.
+
+[^5]: Hemsy de Gainza: *La improvisación musical*. Ricordi Americana S.A., 1983.
+
+[^6]: *Música y Educación. Revista de Investigación Pedagógico-Musical*. Ed. Musicales, S.A.
+
+[^7]: Nicolás Carrillo; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
+
+[^8]: Proyecto Curricular. Conservatorio Profesional de Música de Torrent.
+
+[^9]: Zaldívar, Álvaro: *La Logse en los Conservatorios; normativa básica en las enseñanzas musicales*. Ed. Real Musical, 1992.

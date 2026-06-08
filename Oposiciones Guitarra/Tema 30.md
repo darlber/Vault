@@ -16,12 +16,13 @@
    - [5.1. Enseñanzas elementales](#51-enseñanzas-elementales)
    - [5.2. Enseñanzas profesionales](#52-enseñanzas-profesionales)
 6. [Conclusiones](#6-conclusiones)
-7. [Bibliografía](#7-bibliografía)
+7. [NOTAS](#7-notas)
+8. [Bibliografía](#8-bibliografía)
 
 ## 1. Introducción
 
 - La lectura a primera vista engloba: conocimiento de grafías, capacidad de concentración, memorización, rapidez en la lectura e interpretación de signos, comprensión analítica del texto y calidad interpretativa
-- **RD 1577/2006**: objetivo específico «desarrollar la capacidad de lectura a primera vista y aplicar con autonomía progresivamente mayor los conocimientos musicales para la improvisación con el instrumento»
+- **RD 1577/2006**[^12]: objetivo específico «desarrollar la capacidad de lectura a primera vista y aplicar con autonomía progresivamente mayor los conocimientos musicales para la improvisación con el instrumento»
 - Aparece en los contenidos de instrumento como «práctica de la lectura a primera vista»
 - La mayoría de Comunidades Autónomas incluyen pruebas de lectura a primera vista en los accesos a enseñanzas profesionales y superiores
 - Debe ser programada en los proyectos educativos y programaciones didácticas de los conservatorios
@@ -39,7 +40,7 @@
 - La notación musical nace en las culturas del Antiguo Egipto y Grecia con función mnemotécnica. El modelo actual se desarrolla en el s. IX y se perfecciona con la música polifónica
 - Una cultura basada en la improvisación no requiere lectura a primera vista. Esta nace cuando intérpretes y compositores asumen roles diferenciados, para incrementar el repertorio y limitar los ensayos
 - En el s. XIX se generalizó la interpretación de memoria entre los grandes solistas. Hoy la interpretación con partitura no es habitual en conciertos y concursos: se evita la distracción al pasar páginas, el uso de atriles y se gana capacidad gestual
-- Sin embargo, psicólogos y pedagogos musicales han dedicado gran interés al estudio de la lectura a primera vista desde 1970. Destacan los trabajos de Sloboda (1974, 1976, 1977), Lehmann y Ericsson (1993, 1996), Kopiez y Lee (2006, 2008), Schon, Besson y Yumoto
+- Sin embargo, psicólogos y pedagogos musicales han dedicado gran interés al estudio de la lectura a primera vista desde 1970. Destacan los trabajos de Sloboda (1974, 1976, 1977)[^14], Lehmann y Ericsson (1993, 1996), Kopiez y Lee (2006, 2008), Schon, Besson y Yumoto
 
 ### 2.2. Percepción de la notación musical y la lectura a primera vista
 
@@ -80,7 +81,7 @@
 
 ### 3.2. Diferentes metodologías y estrategias
 
-**G. E. Mc Pherson (1994):**
+**G. E. Mc Pherson (1994)**[^10]:
 - La habilidad de repentizar no está significativamente relacionada con la habilidad para interpretar música ensayada
 - El **ritmo** es el elemento más importante en la repentización
 - Estrategias de mejora:
@@ -96,7 +97,7 @@
   - Los ejercicios basados en lectura de notas sin sentido no tienen interés pedagógico
   - «Fundamentar los ejercicios de lectura en acelerar la visión de las notas en cualquier orden, sin tener en cuenta el sistema por el que se agrupan, es un error de base»
 
-### 3.3. Elementos que intervienen para mejorar la lectura a primera vista
+### 3.3. Elementos que intervienen para mejorar la lectura a primera vista #REVISAR_OPENCODE
 
 1. Destreza musical en los distintos aspectos del lenguaje musical
 2. Capacidad auditiva (reconocimiento de altura, duración, intensidad, timbre; dictados)
@@ -115,17 +116,21 @@
 - Los factores más determinantes: **habilidades de improvisación** y **capacidad auditiva**, seguidos de capacidad técnica y conocimiento musical
 - La mayoría de estos factores se pueden mejorar con la práctica adecuada
 
-## 4. Simplificación o reducción de la partitura
+==**Estrategias específicas para guitarra:** la lectura a primera vista en guitarra presenta dificultades singulares: la misma nota puede ejecutarse en cuerdas diferentes, la digitación debe decidirse instantáneamente y la textura polifónica exige gestionar varias voces simultáneas. Estrategias para trabajarla en el aula: (a) **lectura de patrones** — ejercitar el reconocimiento visual de intervalos, acordes y digitaciones típicas (tríadas en posición, arpegios) para automatizar la respuesta motora; (b) **práctica con metrónomo** — mantener la pulsación rítmica estricta, reduciendo la velocidad si es necesario para preservar la continuidad; (c) **análisis previo** — dedicar 30 segundos a examinar la armadura, los cambios de compás, las repeticiones y las indicaciones de tempo antes de comenzar; (d) **lectura rítmica separada** — percutir el ritmo de la pieza antes de tocarla, prestando atención a las figuras y silencios; (e) **reducción de texturas** — en pasajes polifónicos, empezar leyendo solo la voz superior, luego añadir el bajo progresivamente (aplicación directa de la teoría schenkeriana[^13]). La práctica diaria de 5–10 minutos produce mejoras significativas en poco tiempo[^14].==
+
+## 4. Simplificación o reducción de la partitura #REVISAR_OPENCODE
 
 - Las reducciones son realizadas mayoritariamente por intérpretes de instrumentos polifónicos (piano), que requieren reducir partituras de orquesta para el acompañamiento
-- **Heinrich Schenker**: algunas notas tienen mayor importancia estructural que otras. Las notas estructurales están rodeadas de notas de embellecimiento. La **reducción** obtiene la estructura subyacente quitando las notas de embellecimiento
+- **Heinrich Schenker**[^13]: algunas notas tienen mayor importancia estructural que otras. Las notas estructurales están rodeadas de notas de embellecimiento. La **reducción** obtiene la estructura subyacente quitando las notas de embellecimiento
 - Las reducciones funcionan como patrones lineales escondidos en un nivel profundo de la estructura, ayudando a construir la coherencia melódica. Los patrones lineales recorren la escala por grado conjunto entre dos notas de un intervalo específico
 - Distinción entre:
   - **Modelos prolongacionales**: el movimiento estructural se produce de manera no-temporal, como una línea continua entre puntos estructurales no contiguos
   - **Modelos progresionales**: líneas encadenadas que se manifiestan de manera local, con eventos en los límites más salientes estructuralmente
 - **Kielian-Gilbert (2003)**: distingue entre relaciones prolongacionales (orientación adelante-atrás) y transicionales (orientación izquierda-derecha)
 
-## 5. Criterios para la selección del repertorio
+==**Aplicación a la guitarra:** la reducción de partituras es especialmente útil en la guitarra por su naturaleza polifónica. El guitarrista puede aplicar la reducción schenkeriana para: (a) identificar las notas estructurales de una fuga o pieza contrapuntística y simplificar la lectura a primera vista reduciendo a la voz principal y al bajo; (b) en pasajes de acordes densos (p. ej., obras de Granados o Albéniz transcritas para guitarra), eliminar notas de relleno (duplicaciones, notas de paso) para obtener la estructura armónica subyacente; (c) en la lectura de reducciones de orquesta (acompañamiento de conciertos), el guitarrista debe seleccionar las voces esenciales —bajo armónico y línea melódica principal— omitiendo las duplicaciones internas. Esta técnica, enseñada progresivamente desde enseñanzas profesionales, incrementa la autonomía del alumno ante cualquier texto polifónico[^13].==
+
+## 5. Criterios para la selección del repertorio #REVISAR_OPENCODE
 
 ### 5.1. Enseñanzas elementales
 
@@ -149,26 +154,57 @@
   - Relación con los contenidos del aula
   - Práctica de lectura a primera vista en grupo (música de cámara, orquesta)
 
+==**Ejemplos de repertorio graduado para guitarra:** la selección de materiales debe ajustarse al nivel técnico y de lenguaje musical del alumno. En **enseñanzas elementales** pueden emplearse: melodías monódicas en primera posición (canciones populares, estudios de Sor y Aguado adaptados) con ritmos simples (blancas, negras, corcheas); dúos fáciles para dos guitarras (p. ej., *Duetos fáciles* de Carulli) que exigen coordinación y lectura simultánea. En **enseñanzas profesionales** puede progresarse a: piezas con cambios de posición (estudios de Carcassi, op. 60), texturas polifónicas a dos voces (Preludios de Villa-Lobos simplificados, *Introducción y variaciones* de Sor), fragmentos de música de cámara (tríos con flauta y violín), y pasajes orquestales reducidos (transcripciones de obras barrocas para guitarra). La inclusión de obras de distintos estilos (Renacimiento, Barroco, Clasicismo, contemporáneo) familiariza al alumno con convenciones diversas y mejora su capacidad de anticipación visual. El profesor puede elaborar una **antología progresiva** de fragmentos de 8–16 compases clasificados por dificultad técnica y rítmica, que el alumno trabaja diariamente al inicio de la sesión de estudio[^12][^10].==
+
 ## 6. Conclusiones
 
 - La lectura a primera vista es un contenido prescrito por las administraciones educativas, necesario para superar pruebas eliminatorias de acceso a enseñanzas superiores
 - La formación integral del músico exige su dominio
 - Las metodologías están en continua evolución; la mejor manera de enseñarla es ligando la repentización con el análisis de la partitura para una comprensión global
 
-## 7. Bibliografía
+# NOTAS #REVISAR_OPENCODE
 
-- Ericsson, K. y Kintsch, W. (1995). Long-term working memory. *Psychological Review*, 102(2), 211-245
-- Fine, P., Berry, A. y Rosner, B. (2006). The effect of pattern recognition and tonal predictability on sight-singing ability. *Psychology of Music*, 34(4), 431-447
-- Friberg, A., Bresin, R. y Sundberg, J. (2006). Overview of the KTH rule system for musical performance. *Advances in Cognitive Psychology*, 2(2-3), 145-161
-- Furneaux, S. y Land, M. F. (1999). The effects of skill on the eye-hand span during musical sight-reading. *Proceedings of the Royal Society. Biological Sciences*, 266(1436), 2435-2440
-- Gentner, D. (1988). Expertise in typewriting. En M. Chi, R. Glaser y M. Farr (eds.), *The nature of expertise*, 1-21. Erlbaum
-- Goolsby, T. W. (1994). Profiles of processing: eye movements during sight reading. *Music Perception*, 12(1), 97-123
-- Jacobsen, O. I. (1941). An analytical study of eye-movements in reading vocal and instrumental music. *Journal of Musicology*, 1-22
-- Kinsler, V. y Carpenter, R. H. (1995). Saccadic eye movements while reading music. *Vision Research*, 1447-1458
-- Kopiez, R. y Lee, J. I. (2006). Towards a dynamic model of skills involved in sight reading music. *Music Education Research*, 8(1), 97-120
-- Kopiez, R. y Lee, J. I. (2008). Towards a general model of skills involved in sight reading music. *Music Education Research*, 10(1), 41-62
-- Kornicke, L. E. (1995). An exploratory study of individual difference variables in piano sight-reading achievement. *Quarterly Journal of Music Teaching and Learning*, (1), 56-79
-- Lannert, V. y Ullman, M. (1945). Factors in the reading of piano music. *American Journal of Psychology*, 58, 91-99
-- Lehmann, A. C. y McArthur, V. H. (2002). Sight-reading. En R. Parncutt y G. McPherson (eds.), *Science and psychology of music performance*, 135-150. Oxford University Press
-- Lehmann, A. C. y Ericsson, K. A. (1996). Performance without preparation: structure and acquisition of expert sight-reading. *Psychomusicology*, 15(1/2), 1-29
-- Lehmann, A. C. y Ericsson, K. A. (1993). Sight-reading ability of expert pianists in the context of piano accompanying. *Psychomusicology*, 12(2), 182-195
+[^1]: Ericsson, K. Anders y Walter Kintsch. «Long-Term Working Memory». *Psychological Review* 102, n.º 2 (1995): 211–245.
+
+[^2]: Fine, Philip, Anna Berry y Burton Rosner. «The Effect of Pattern Recognition and Tonal Predictability on Sight-Singing Ability». *Psychology of Music* 34, n.º 4 (2006): 431–447.
+
+[^3]: Furneaux, Stephanie y Michael F. Land. «The Effects of Skill on the Eye-Hand Span during Musical Sight-Reading». *Proceedings of the Royal Society B* 266, n.º 1436 (1999): 2435–2440.
+
+[^4]: Goolsby, Thomas W. «Profiles of Processing: Eye Movements during Sight Reading». *Music Perception* 12, n.º 1 (1994): 97–123.
+
+[^5]: Kopiez, Reinhard y Ji In Lee. «Towards a Dynamic Model of Skills Involved in Sight Reading Music». *Music Education Research* 8, n.º 1 (2006): 97–120.
+
+[^6]: Kopiez, Reinhard y Ji In Lee. «Towards a General Model of Skills Involved in Sight Reading Music». *Music Education Research* 10, n.º 1 (2008): 41–62.
+
+[^7]: Lehmann, Andreas C. y K. Anders Ericsson. «Sight-Reading Ability of Expert Pianists in the Context of Piano Accompanying». *Psychomusicology* 12, n.º 2 (1993): 182–195.
+
+[^8]: Lehmann, Andreas C. y K. Anders Ericsson. «Performance without Preparation: Structure and Acquisition of Expert Sight-Reading». *Psychomusicology* 15, n.º 1/2 (1996): 1–29.
+
+[^9]: Lehmann, Andreas C. y Victoria H. McArthur. «Sight-Reading». En *The Science and Psychology of Music Performance*, editado por Richard Parncutt y Gary E. McPherson, 135–150. Oxford: Oxford University Press, 2002.
+
+[^10]: McPherson, Gary E. «Factors and Abilities Influencing Sight-Reading Skill in Music». *Journal of Research in Music Education* 42, n.º 3 (1994): 217–231.
+
+[^11]: Molina, Emilio. «La lectura a primera vista: análisis». *Música y Educación* 16, n.º 54 (2003): 73–90.
+
+[^12]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *Boletín Oficial del Estado*, 8 de enero de 2007.
+
+[^13]: Schenker, Heinrich. *Free Composition*. Traducido por Ernst Oster. New York: Longman, 1979.
+
+[^14]: Sloboda, John A. *The Musical Mind: The Cognitive Psychology of Music*. Oxford: Oxford University Press, 1985.
+
+## 8. Bibliografía #REVISAR_OPENCODE
+
+- Ericsson, K. Anders y Walter Kintsch. «Long-Term Working Memory». *Psychological Review* 102, n.º 2 (1995): 211–245.
+- Fine, Philip, Anna Berry y Burton Rosner. «The Effect of Pattern Recognition and Tonal Predictability on Sight-Singing Ability». *Psychology of Music* 34, n.º 4 (2006): 431–447.
+- Furneaux, Stephanie y Michael F. Land. «The Effects of Skill on the Eye-Hand Span during Musical Sight-Reading». *Proceedings of the Royal Society B* 266, n.º 1436 (1999): 2435–2440.
+- Goolsby, Thomas W. «Profiles of Processing: Eye Movements during Sight Reading». *Music Perception* 12, n.º 1 (1994): 97–123.
+- Kopiez, Reinhard y Ji In Lee. «Towards a Dynamic Model of Skills Involved in Sight Reading Music». *Music Education Research* 8, n.º 1 (2006): 97–120.
+- Kopiez, Reinhard y Ji In Lee. «Towards a General Model of Skills Involved in Sight Reading Music». *Music Education Research* 10, n.º 1 (2008): 41–62.
+- Lehmann, Andreas C. y K. Anders Ericsson. «Sight-Reading Ability of Expert Pianists in the Context of Piano Accompanying». *Psychomusicology* 12, n.º 2 (1993): 182–195.
+- Lehmann, Andreas C. y K. Anders Ericsson. «Performance without Preparation: Structure and Acquisition of Expert Sight-Reading». *Psychomusicology* 15, n.º 1/2 (1996): 1–29.
+- Lehmann, Andreas C. y Victoria H. McArthur. «Sight-Reading». En *The Science and Psychology of Music Performance*, editado por Richard Parncutt y Gary E. McPherson, 135–150. Oxford: Oxford University Press, 2002.
+- McPherson, Gary E. «Factors and Abilities Influencing Sight-Reading Skill in Music». *Journal of Research in Music Education* 42, n.º 3 (1994): 217–231.
+- Molina, Emilio. «La lectura a primera vista: análisis». *Música y Educación* 16, n.º 54 (2003): 73–90.
+- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
+- Schenker, Heinrich. *Free Composition*. Traducido por Ernst Oster. New York: Longman, 1979.
+- Sloboda, John A. *The Musical Mind: The Cognitive Psychology of Music*. Oxford: Oxford University Press, 1985.

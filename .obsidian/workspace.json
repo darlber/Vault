@@ -11,14 +11,15 @@
             "id": "d36c1557fdb65d59",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Oposiciones Guitarra/Tema 28.md",
-                "bFile": "Oposiciones Guitarra/Tema 28.md",
-                "aRef": ""
+                "file": "Oposiciones Guitarra/Tema 31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: Tema 28  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Tema 31"
             }
           },
           {
@@ -147,12 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Oposiciones Guitarra/Tema 31.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tema 31"
             }
           },
           {
@@ -202,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,32 +226,32 @@
   },
   "active": "d36c1557fdb65d59",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 28.md",
-    "Oposiciones Guitarra/Tema 27.md",
+    "Oposiciones Guitarra/Tema 30.md",
+    "Oposiciones Guitarra/Tema 29.md",
+    "Oposiciones Guitarra/Tema 25_fusion.md",
+    "Oposiciones Guitarra/Tema 16. Escuelas no españolas.md",
+    "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
+    "Oposiciones Guitarra/Tema 18. Siglo XX.md",
+    "Oposiciones Guitarra/Tema 19. Contemporánea.md",
+    "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
+    "Oposiciones Guitarra/Tema 21. Práctica de grupo en EEPP.md",
+    "Oposiciones Guitarra/Tema 22.md",
     "Oposiciones Guitarra/Tema 23.md",
     "Oposiciones Guitarra/Tema 24.md",
-    "Oposiciones Guitarra/Tema 25_fusion.md",
-    "Oposiciones Guitarra/Tema 21. Práctica de grupo en EEPP.md",
-    "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
-    "Oposiciones Guitarra/Tema 19. Contemporánea.md",
-    "Oposiciones Guitarra/Tema 22.md",
-    "Oposiciones Guitarra/Tema 18. Siglo XX.md",
-    "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
-    "Oposiciones Guitarra/Tema 16. Escuelas no españolas.md",
+    "Oposiciones Guitarra/Tema 25_1.md",
+    "Oposiciones Guitarra/Tema 25_2.md",
+    "Oposiciones Guitarra/Tema 27.md",
+    "Oposiciones Guitarra/Tema 28.md",
     "Oposiciones Guitarra/Tema 15. La escuela española.md",
     "Oposiciones Guitarra/Tema 14. Criterios de transcripción para guitarra de seis cuerdas.md",
     "Oposiciones Guitarra/Tema 13. Bach.md",
     "Oposiciones Guitarra/Tema 12. El repertorio de guitarra barroca, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
     "conflict-files-obsidian-git.md",
-    "Oposiciones Guitarra/Tema 25_2.md",
     "osint_ct.md",
     "Oposiciones Guitarra/Tema 34.md",
     "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
-    "Oposiciones TAI/Tema 15. Modelado de datos, metodologías y reglas.md",
-    "Oposiciones TAI/Índice.md",
-    "Oposiciones Guitarra/Tema 33.md",
     "Oposiciones Guitarra/TEMA 33 y 34.pdf",
     "Oposiciones Guitarra/TEMA 31 y 32.pdf",
     "Oposiciones Guitarra/TEMA 29 y 30.pdf",
