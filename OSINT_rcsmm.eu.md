@@ -8,15 +8,15 @@
 
 ## 1. Identidad de la organización
 
-| Campo | Valor |
-|---|---|
-| Nombre | Real Conservatorio Superior de Música de Madrid (RCSMM) |
-| Fundación | 15 de julio de 1830 (195 años) |
-| Tipo | Centro público de enseñanzas artísticas superiores |
-| Directora actual | Consuelo de la Vega Sestelo (desde diciembre 2020) |
-| Coordenadas | 40°24′33″N 3°41′40″O |
-| ROR ID | `https://ror.org/02w65pw28` |
-| WHED ID | IAU-013929 |
+| Campo            | Valor                                                   |
+| ---------------- | ------------------------------------------------------- |
+| Nombre           | Real Conservatorio Superior de Música de Madrid (RCSMM) |
+| Fundación        | 15 de julio de 1830 (195 años)                          |
+| Tipo             | Centro público de enseñanzas artísticas superiores      |
+| Directora actual | Consuelo de la Vega Sestelo (desde diciembre 2020)      |
+| Coordenadas      | 40°24′33″N 3°41′40″O                                    |
+| ROR ID           | `https://ror.org/02w65pw28`                             |
+| WHED ID          | IAU-013929                                              |
 
 ## 2. Datos del dominio
 

@@ -3,14 +3,10 @@
 > **Metodología y comandos empleados:**
 > Toda la información se recopiló mediante OSINT pasivo con herramientas de línea de comandos nativas de Windows PowerShell (`Resolve-DnsName`, `curl.exe`) y servicios web gratuitos (dnsdumpster.com, securitytrails.com, crt.sh, whatsmydns.net, dmarcian.com, mxtoolbox.com). No se realizó escaneo activo de puertos ni pruebas de intrusión.
 
----
-
 ## 1. Finalidad del documento
 - Objetivo del informe: Recopilación de información pública (OSINT pasivo) sobre `rcsmm.eu` — Real Conservatorio Superior de Música de Madrid (RCSMM)
 - Alcance: Dominio principal, subdominios, infraestructura DNS, hosting, tecnologías, personal identificable, registros de seguridad email
 - Limitaciones: Solo fuentes públicas sin autenticación. Sin escaneo activo de puertos ni pruebas de intrusión. Sin acceso a WHOIS completo por protección GDPR del TLD .eu
-
----
 
 ## 2. Información del objetivo
 
@@ -52,11 +48,9 @@
   - Facebook: https://www.facebook.com/RealConservatorioSuperiordeMusicadeMadrid/
 - Otros canales: Webmail (webmail.rcsmm.eu), Campus Virtual Moodle (moodle.rcsmm.eu), Gestor de Citas (rcsmm_citas.scncloud.com), Registro de Trabajos de Alumnos (rta.rcsmm.eu)
 - Plataformas externas:
-  - **CODEX** (https://www.codex.pro/) — Gestión académica y calificaciones de alumnos. Plataforma externa de la empresa valenciana Codex (C/ Palleter 11, 46008 Valencia). Sistema SaaS con login.
+  - **CODEX** (https://www.codex.pro/) — Gestión académica y calificaciones de alumnos. Plataforma externa de la empresa valenciana Codex (C/ Palleter 11, 46008 Valencia). Sistema SaaS con login. #error: los datos son de codex.es. codexpro: Desarrollado por [Dial S.L.](http://www.dialsl.es/) 
   - **WebUntis** (https://rcsmm.webuntis.com/) — Horario público. Sin autenticación lista horarios completos con nombres de profesores, asignaturas, aulas y grupos.
 - Teléfono: +34 91 539 29 01 | Fax: +34 91 527 52 22
-
----
 
 ## 3. Información administrativa
 
@@ -70,7 +64,7 @@
 
 ### 3.1 Datos fiscales
 - Razón social: Real Conservatorio Superior de Música de Madrid (RCSMM)
-- CIF/NIF (si es público): No publicado directamente. Centro público dependiente de la Comunidad de Madrid
+- NIF : Q2868055A
 - Dirección fiscal: C/ Doctor Mata 2, 28012 Madrid, España
 - Registro mercantil (si aplica): No aplica (organismo público)
 
@@ -79,8 +73,6 @@
 - Informes anuales: No localizados en fuentes abiertas
 - Subvenciones / ayudas (si aplica): Participa en programas Erasmus+ (Erasmus Charter for Higher Education). Fondo Social Europeo mencionado en web
 - Afiliaciones: Miembro de AEC (Association Européenne des Conservatoires)
-
----
 
 ## 4. Información técnica
 
@@ -235,8 +227,6 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 - Servicios externos: scncloud.com (gestor de citas), EducaMadrid, WebUntis (rcsmm.webuntis.com — horarios públicos sin autenticación), CODEX (codex.pro — gestión académica y notas de alumnos)
 - Plataformas propias: rta.rcsmm.eu (Registro de Trabajos de Alumnos)
 
----
-
 ## 5. Información corporativa
 
 > **Fuentes utilizadas:**
@@ -277,8 +267,6 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 - Eventos: Masterclass de Repertorio Orquestal (violín), Clases Magistrales de Cámara (Aitor Hevia), Recital de Viola (Helena Santos), entre otros
 - Conferencias: No detectadas
 
----
-
 ## 6. Otra información
 
 > **Comandos utilizados:**
@@ -316,8 +304,6 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 ### 6.2 Metadatos
 - Documentos analizados: No se descargaron documentos para análisis de metadatos
 - Información extraída (autor, software, fechas): N/A
-
----
 
 ## 7. Recomendaciones
 

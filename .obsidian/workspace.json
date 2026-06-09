@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT.md",
+                "file": "OSINT_rcsmm.eu.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OSINT"
+              "title": "Outline of OSINT_rcsmm.eu"
             }
           },
           {
@@ -231,10 +231,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4ead5de3cba484e0",
+  "active": "981ee0b89fa67119",
   "lastOpenFiles": [
-    "OSINT_rcsmm.eu.md",
     "OSINT.md",
+    "OSINT_rcsmm.eu.md",
     "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
     "sh_scripts/07_datoscif.sh",
     "sh_scripts/run_all.sh",
