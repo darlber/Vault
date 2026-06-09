@@ -2,16 +2,16 @@
 
 ## Índice
 
-1. [Justificación y organización de la asignatura de música de cámara](#justificación-y-organización-de-la-asignatura-de-música-de-cámara)
-2. [La programación didáctica: objetivos, contenidos, repertorio, recursos y evaluación](#la-programación-didáctica-objetivos-contenidos-repertorio-recursos-y-evaluación)
-   1. [Tercer curso](#tercer-curso)
-   2. [Cuarto curso](#cuarto-curso)
-   3. [Quinto curso](#quinto-curso)
-   4. [Sexto curso](#sexto-curso)
-3. [Repertorio, análisis, técnica de interpretación en grupo, audición, improvisación, lectura a primera vista y otros](#repertorio-análisis-técnica-de-interpretación-en-grupo-audición-improvisación-lectura-a-primera-vista-y-otros)
-4. [Criterios pedagógicos para la elección del repertorio](#criterios-pedagógicos-para-la-elección-del-repertorio)
-5. [Conclusión](#conclusión)
-6. [Bibliografía](#bibliografía)
+1. [Justificación y organización de la asignatura de música de cámara](#Justificación%20y%20organización%20de%20la%20asignatura%20de%20música%20de%20cámara)
+2. [La programación didáctica: objetivos, contenidos, repertorio, recursos y evaluación](#La%20programación%20didáctica%3A%20objetivos%2C%20contenidos%2C%20repertorio%2C%20recursos%20y%20evaluación)
+	1. [Tercer curso](#Tercer%20curso)
+	2. [Cuarto curso](#Cuarto%20curso)
+	3. [Quinto curso](#Quinto%20curso)
+	4. [Sexto curso](#Sexto%20curso)
+3. [Repertorio, análisis, técnica de interpretación en grupo, audición, improvisación, lectura a primera vista y otros](#Repertorio%2C%20análisis%2C%20técnica%20de%20interpretación%20en%20grupo%2C%20audición%2C%20improvisación%2C%20lectura%20a%20primera%20vista%20y%20otros)
+4. [Criterios pedagógicos para la elección del repertorio](#Criterios%20pedagógicos%20para%20la%20elección%20del%20repertorio)
+5. [Conclusión](#Conclusión)
+6. [Bibliografía](#Bibliografía)
 
 ## Justificación y organización de la asignatura de música de cámara
 

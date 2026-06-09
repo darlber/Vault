@@ -1,16 +1,16 @@
 # Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XIX
 ## Índice
 
-1. [Evolución del estilo y de la escritura instrumental](#evolución-del-estilo-y-de-la-escritura-instrumental)
-2. [Repertorio](#repertorio)
-3. [Autores más importantes](#autores-más-importantes)
-   1. [Trinidad Huerta (1800-1875)](#trinidad-huerta-1800-1875)
-   2. [José Brocá (1805-1882)](#josé-brocá-1805-1882)
-   3. [Antonio Cano (1811-1897)](#antonio-cano-1811-1897)
-   4. [Federico Cano (1838-1904)](#federico-cano-1838-1904)
-   5. [Antonio Giménez Manjón (1866-1919)](#antonio-giménez-manjón-1866-1919)
-   6. [Julián Arcas (1832-1882)](#julián-arcas-1832-1882)
-4. [Bibliografía](#bibliografía)
+1. [Evolución del estilo y de la escritura instrumental](#Evolución%20del%20estilo%20y%20de%20la%20escritura%20instrumental)
+2. [Repertorio](#Repertorio)
+3. [Autores más importantes](#Autores%20más%20importantes)
+	1. [Trinidad Huerta (1800-1875)](#Trinidad%20Huerta%20(1800-1875))
+	2. [José Brocá (1805-1882)](#José%20Brocá%20(1805-1882))
+	3. [Antonio Cano (1811-1897)](#Antonio%20Cano%20(1811-1897))
+	4. [Federico Cano (1838-1904)](#Federico%20Cano%20(1838-1904))
+	5. [Antonio Giménez Manjón (1866-1919)](#Antonio%20Giménez%20Manjón%20(1866-1919))
+	6. [Julián Arcas (1832-1882)](#Julián%20Arcas%20(1832-1882))
+4. [Bibliografía](#Bibliografía)
 
 ## Evolución del estilo y de la escritura instrumental
 

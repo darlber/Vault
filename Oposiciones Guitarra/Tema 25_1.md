@@ -2,18 +2,18 @@
 
 ## Índice
 
-1. [Introducción](#1-introducción)
-2. [Émile Jaques-Dalcroze](#2-émile-jaques-dalcroze)
-3. [Laura Bassi](#3-laura-bassi)
-4. [Zoltán Kodály](#4-zoltán-kodály)
-5. [Carl Orff](#5-carl-orff)
-6. [Edgar Willems](#6-edgar-willems)
-7. [Leo Rinderer](#7-leo-rinderer)
-8. [Maurice Martenot](#8-maurice-martenot)
-9. [Shinichi Suzuki](#9-shinichi-suzuki)
-10. [Emilio Molina](#10-emilio-molina)
-11. [Criterios didácticos para la selección de repertorio a nivel inicial](#11-criterios-didácticos-para-la-selección-de-repertorio-a-nivel-inicial)
-12. [Bibliografía](#12-bibliografía)
+1. [Introducción](#1.%20Introducción)
+2. [Émile Jaques-Dalcroze](#2.%20Émile%20Jaques-Dalcroze)
+3. [Laura Bassi](#3.%20Laura%20Bassi)
+4. [Zoltán Kodály](#4.%20Zoltán%20Kodály)
+5. [Carl Orff](#5.%20Carl%20Orff)
+6. [Edgar Willems](#6.%20Edgar%20Willems)
+7. [Leo Rinderer](#7.%20Leo%20Rinderer)
+8. [Maurice Martenot](#8.%20Maurice%20Martenot)
+9. [Shinichi Suzuki](#9.%20Shinichi%20Suzuki)
+10. [Emilio Molina](#10.%20Emilio%20Molina)
+11. [Criterios didácticos para la selección de repertorio a nivel inicial](#11.%20Criterios%20didácticos%20para%20la%20selección%20de%20repertorio%20a%20nivel%20inicial)
+12. [Bibliografía](#12.%20Bibliografía)
 
 ## 1. Introducción
 

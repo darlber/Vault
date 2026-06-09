@@ -2,15 +2,15 @@
 
 ## Índice
 
-1. [Introducción](#1-introducción)
-2. [Principios generales para la selección del repertorio](#2-principios-generales-para-la-selección-del-repertorio)
-3. [Marco legislativo](#3-marco-legislativo)
-4. [Criterios didácticos para enseñanzas elementales](#4-criterios-didácticos-para-enseñanzas-elementales)
-5. [Criterios didácticos para enseñanzas profesionales](#5-criterios-didácticos-para-enseñanzas-profesionales)
-6. [Aplicación práctica a la guitarra](#6-aplicación-práctica-a-la-guitarra)
-7. [Conclusiones](#7-conclusiones)
-8. [NOTAS](#8-notas)
-9. [Bibliografía](#9-bibliografía)
+1. [Introducción](#1.%20Introducción)
+2. [Principios generales para la selección del repertorio](#2.%20Principios%20generales%20para%20la%20selección%20del%20repertorio)
+3. [Marco legislativo](#3.%20Marco%20legislativo)
+4. [Criterios didácticos para enseñanzas elementales](#4.%20Criterios%20didácticos%20para%20enseñanzas%20elementales)
+5. [Criterios didácticos para enseñanzas profesionales](#5.%20Criterios%20didácticos%20para%20enseñanzas%20profesionales)
+6. [Aplicación práctica a la guitarra](#6.%20Aplicación%20práctica%20a%20la%20guitarra)
+7. [Conclusiones](#7.%20Conclusiones)
+8. [NOTAS](#8.%20NOTAS)
+9. [Bibliografía](#9.%20Bibliografía)
 
 ## 1. Introducción
 

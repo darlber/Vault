@@ -2,17 +2,17 @@
 
 ## Índice
 
-1. [Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX](#1-características-referidas-a-la-evolución-del-estilo-y-de-la-escritura-instrumental-del-repertorio-guitarrístico-de-la-primera-mitad-del-siglo-xx)
-   1. [Introducción. Ubicación histórica](#11-introducción-ubicación-histórica)
-   2. [Características del instrumento](#12-características-del-instrumento)
-   3. [Estilo compositivo y formas](#13-estilo-compositivo-y-formas)
-   4. [Desarrollo técnico](#14-desarrollo-técnico)
-   5. [Actividad concertística](#15-actividad-concertística)
-   6. [Publicaciones](#16-publicaciones)
-   7. [Autores y repertorio](#17-autores-y-repertorio)
-2. [La guitarra y la generación del 27](#2-la-guitarra-y-la-generación-del-27)
-3. [La influencia de Andrés Segovia](#3-la-influencia-de-andrés-segovia)
-4. [Bibliografía](#4-bibliografía)
+1. [Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX](#1.%20Características%20referidas%20a%20la%20evolución%20del%20estilo%20y%20de%20la%20escritura%20instrumental%2C%20del%20repertorio%20guitarrístico%20de%20la%20primera%20mitad%20del%20siglo%20XX)
+	1. [Introducción. Ubicación histórica](#1.1.%20Introducción.%20Ubicación%20histórica)
+	2. [Características del instrumento](#1.2.%20Características%20del%20instrumento)
+	3. [Estilo compositivo y formas](#1.3.%20Estilo%20compositivo%20y%20formas)
+	4. [Desarrollo técnico](#1.4.%20Desarrollo%20técnico)
+	5. [Actividad concertística](#1.5.%20Actividad%20concertística)
+	6. [Publicaciones](#1.6.%20Publicaciones)
+	7. [Autores y repertorio](#1.7.%20Autores%20y%20repertorio)
+2. [La guitarra y la generación del 27](#2.%20La%20guitarra%20y%20la%20generación%20del%2027)
+3. [La influencia de Andrés Segovia](#3.%20La%20influencia%20de%20Andrés%20Segovia)
+4. [Bibliografía](#4.%20Bibliografía)
 
 ## 1. Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX 
 

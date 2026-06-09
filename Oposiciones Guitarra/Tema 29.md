@@ -2,22 +2,22 @@
 
 ## Índice
 
-1. [Introducción](#1-introducción)
-2. [Definición y tipos de improvisación musical. Improvisación dirigida y libre](#2-definición-y-tipos-de-improvisación-musical-improvisación-dirigida-y-libre)
-3. [Aportaciones de la improvisación a la formación integral del alumnado](#3-aportaciones-de-la-improvisación-a-la-formación-integral-del-alumnado)
-4. [Presencia de la improvisación en la historia de la música](#4-presencia-de-la-improvisación-en-la-historia-de-la-música)
-5. [Improvisación musical en la clase de instrumento](#5-improvisación-musical-en-la-clase-de-instrumento)
-   - [5.1. Herramienta para la mejora de la interpretación](#51-herramienta-para-la-mejora-de-la-interpretación)
-   - [5.2. Metodología y actividades de improvisación](#52-metodología-y-actividades-de-improvisación)
-   - [5.3. Metodología IEM (Emilio Molina)](#53-metodología-iem-emilio-molina)
-6. [La improvisación en el jazz](#6-la-improvisación-en-el-jazz)
-   - [6.1. Características generales](#61-características-generales)
-   - [6.2. Estrategias de improvisación](#62-estrategias-de-improvisación)
-7. [Uso de nuevos lenguajes y notaciones en la improvisación](#7-uso-de-nuevos-lenguajes-y-notaciones-en-la-improvisación)
-   - [7.1. Cifrado armónico en el jazz](#71-cifrado-armónico-en-el-jazz)
-   - [7.2. Notación contemporánea](#72-notación-contemporánea)
-8. [Conclusiones](#8-conclusiones)
-9. [Bibliografía](#9-bibliografía)
+1. [Introducción](#1.%20Introducción)
+2. [Definición y tipos de improvisación musical. Improvisación dirigida y libre](#2.%20Definición%20y%20tipos%20de%20improvisación%20musical.%20Improvisación%20dirigida%20y%20libre)
+3. [Aportaciones de la improvisación a la formación integral del alumnado](#3.%20Aportaciones%20de%20la%20improvisación%20a%20la%20formación%20integral%20del%20alumnado)
+4. [Presencia de la improvisación en la historia de la música](#4.%20Presencia%20de%20la%20improvisación%20en%20la%20historia%20de%20la%20música)
+5. [Improvisación musical en la clase de instrumento](#5.%20Improvisación%20musical%20en%20la%20clase%20de%20instrumento)
+	1. [5.1. Herramienta para la mejora de la interpretación](#5.1.%20Herramienta%20para%20la%20mejora%20de%20la%20interpretación)
+	2. [5.2. Metodología y actividades de improvisación](#5.2.%20Metodología%20y%20actividades%20de%20improvisación)
+	3. [5.3. Metodología IEM (Emilio Molina)](#5.3.%20Metodología%20IEM%20(Emilio%20Molina))
+6. [La improvisación en el jazz](#6.%20La%20improvisación%20en%20el%20jazz)
+	1. [6.1. Características generales](#6.1.%20Características%20generales)
+	2. [6.2. Estrategias de improvisación](#6.2.%20Estrategias%20de%20improvisación)
+7. [Uso de nuevos lenguajes y notaciones en la improvisación](#7.%20Uso%20de%20nuevos%20lenguajes%20y%20notaciones%20en%20la%20improvisación)
+	1. [7.1. Cifrado armónico en el jazz](#7.1.%20Cifrado%20armónico%20en%20el%20jazz)
+	2. [7.2. Notación contemporánea](#7.2.%20Notación%20contemporánea)
+8. [Conclusiones](#8.%20Conclusiones)
+9. [Bibliografía](#9.%20Bibliografía)
 
 ## 1. Introducción
 

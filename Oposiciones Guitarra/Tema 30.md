@@ -2,22 +2,22 @@
 
 ## Índice
 
-1. [Introducción](#1-introducción)
-2. [La lectura a primera vista](#2-la-lectura-a-primera-vista)
-   - [2.1. Consideraciones generales](#21-consideraciones-generales)
-   - [2.2. Percepción de la notación musical y la lectura a primera vista](#22-percepción-de-la-notación-musical-y-la-lectura-a-primera-vista)
-   - [2.3. Los procesos de memorización](#23-los-procesos-de-memorización)
-3. [Técnicas, estrategias, análisis aplicado, métodos](#3-técnicas-estrategias-análisis-aplicado-métodos)
-   - [3.1. Limitaciones del solfeo tradicional](#31-limitaciones-del-solfeo-tradicional)
-   - [3.2. Diferentes metodologías y estrategias](#32-diferentes-metodologías-y-estrategias)
-   - [3.3. Elementos que intervienen para mejorar la lectura a primera vista](#33-elementos-que-intervienen-para-mejorar-la-lectura-a-primera-vista)
-4. [Simplificación o reducción de la partitura](#4-simplificación-o-reducción-de-la-partitura)
-5. [Criterios para la selección del repertorio](#5-criterios-para-la-selección-del-repertorio)
-   - [5.1. Enseñanzas elementales](#51-enseñanzas-elementales)
-   - [5.2. Enseñanzas profesionales](#52-enseñanzas-profesionales)
-6. [Conclusiones](#6-conclusiones)
-7. [NOTAS](#7-notas)
-8. [Bibliografía](#8-bibliografía)
+1. [Introducción](#1.%20Introducción)
+2. [La lectura a primera vista](#2.%20La%20lectura%20a%20primera%20vista)
+	1. [2.1. Consideraciones generales](#2.1.%20Consideraciones%20generales)
+	2. [2.2. Percepción de la notación musical y la lectura a primera vista](#2.2.%20Percepción%20de%20la%20notación%20musical%20y%20la%20lectura%20a%20primera%20vista)
+	3. [2.3. Los procesos de memorización](#2.3.%20Los%20procesos%20de%20memorización)
+3. [Técnicas, estrategias, análisis aplicado, métodos](#3.%20Técnicas%2C%20estrategias%2C%20análisis%20aplicado%2C%20métodos)
+	1. [3.1. Limitaciones del solfeo tradicional](#3.1.%20Limitaciones%20del%20solfeo%20tradicional)
+	2. [3.2. Diferentes metodologías y estrategias](#3.2.%20Diferentes%20metodologías%20y%20estrategias)
+	3. [3.3. Elementos que intervienen para mejorar la lectura a primera vista](#3.3.%20Elementos%20que%20intervienen%20para%20mejorar%20la%20lectura%20a%20primera%20vista)
+4. [Simplificación o reducción de la partitura](#4.%20Simplificación%20o%20reducción%20de%20la%20partitura)
+5. [Criterios para la selección del repertorio](#5.%20Criterios%20para%20la%20selección%20del%20repertorio)
+	1. [5.1. Enseñanzas elementales](#5.1.%20Enseñanzas%20elementales)
+	2. [5.2. Enseñanzas profesionales](#5.2.%20Enseñanzas%20profesionales)
+6. [Conclusiones](#6.%20Conclusiones)
+7. [NOTAS](#7.%20NOTAS)
+8. [Bibliografía](#8.%20Bibliografía)
 
 ## 1. Introducción
 

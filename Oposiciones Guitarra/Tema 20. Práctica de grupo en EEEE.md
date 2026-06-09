@@ -2,19 +2,19 @@
 
 ## Índice
 
-1. [La práctica de grupo en las enseñanzas elementales](#la-práctica-de-grupo-en-las-enseñanzas-elementales)
-   1. [Introducción](#introducción)
-   2. [Funciones de la clase colectiva](#funciones-de-la-clase-colectiva)
-   3. [La relación profesor-alumno](#la-relación-profesor-alumno)
-   4. [Espacios y recursos educativos](#espacios-y-recursos-educativos)
-   5. [Posibilidades de agrupamientos](#posibilidades-de-agrupamientos)
-2. [Programación de actividades colectivas en este nivel](#programación-de-actividades-colectivas-en-este-nivel)
-   1. [Las capacidades adquiridas en las clases colectivas y de conjunto](#las-capacidades-adquiridas-en-las-clases-colectivas-y-de-conjunto)
-   2. [La programación de los contenidos](#la-programación-de-los-contenidos)
-   3. [La metodología de la clase colectiva y las clases de conjunto](#la-metodología-de-la-clase-colectiva-y-las-clases-de-conjunto)
-   4. [La técnica de interpretación en grupo](#la-técnica-de-interpretación-en-grupo)
-   5. [Las actividades de enseñanza-aprendizaje](#las-actividades-de-enseñanza-aprendizaje)
-3. [Bibliografía](#bibliografía)
+1. [La práctica de grupo en las enseñanzas elementales](#La%20práctica%20de%20grupo%20en%20las%20enseñanzas%20elementales)
+	1. [Introducción](#Introducción)
+	2. [Funciones de la clase colectiva y de las asignaturas de conjunto](#Funciones%20de%20la%20clase%20colectiva%20y%20de%20las%20asignaturas%20de%20conjunto)
+	3. [La relación profesor-alumno en las clases colectivas y de conjunto](#La%20relación%20profesor-alumno%20en%20las%20clases%20colectivas%20y%20de%20conjunto)
+	4. [Espacios y recursos materiales de las clases colectivas y de conjunto](#Espacios%20y%20recursos%20materiales%20de%20las%20clases%20colectivas%20y%20de%20conjunto)
+	5. [Criterios de agrupamientos](#Criterios%20de%20agrupamientos)
+2. [Programación de las actividades colectivas en este nivel: repertorio, conceptos relativos al lenguaje musical, técnica de interpretación en grupo, audición, improvisación y otros aspectos](#Programación%20de%20las%20actividades%20colectivas%20en%20este%20nivel%3A%20repertorio%2C%20conceptos%20relativos%20al%20lenguaje%20musical%2C%20técnica%20de%20interpretación%20en%20grupo%2C%20audición%2C%20improvisación%20y%20otros%20aspectos)
+	1. [Las capacidades adquiridas en las clases colectivas y de conjunto](#Las%20capacidades%20adquiridas%20en%20las%20clases%20colectivas%20y%20de%20conjunto)
+	2. [La programación de los contenidos](#La%20programación%20de%20los%20contenidos)
+	3. [La metodología de la clase colectiva y las clases de conjunto](#La%20metodología%20de%20la%20clase%20colectiva%20y%20las%20clases%20de%20conjunto)
+	4. [La técnica de interpretación en grupo](#La%20técnica%20de%20interpretación%20en%20grupo)
+	5. [Las actividades de enseñanza-aprendizaje](#Las%20actividades%20de%20enseñanza-aprendizaje)
+3. [Bibliografía](#4.%20Bibliografía)
 
 ## La práctica de grupo en las enseñanzas elementales
 

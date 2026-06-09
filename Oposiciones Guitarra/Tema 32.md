@@ -2,15 +2,15 @@
 
 ## Índice
 
-1. [Introducción](#1-introducción)
-2. [Conceptos: multidisciplinariedad, interdisciplinariedad, transdisciplinariedad](#2-conceptos-multidisciplinariedad-interdisciplinariedad-transdisciplinariedad)
-3. [Relación entre las asignaturas del currículo](#3-relación-entre-las-asignaturas-del-currículo)
-   - [3.1. Enseñanzas Elementales](#31-enseñanzas-elementales)
-   - [3.2. Enseñanzas Profesionales](#32-enseñanzas-profesionales)
-4. [Desarrollo de las competencias como vía integradora](#4-desarrollo-de-las-competencias-como-vía-integradora)
-5. [Conclusiones](#5-conclusiones)
-6. [NOTAS](#6-notas)
-7. [Bibliografía](#7-bibliografía)
+1. [Introducción](#1.%20Introducción)
+2. [Conceptos: multidisciplinariedad, interdisciplinariedad, transdisciplinariedad](#2.%20Conceptos%3A%20multidisciplinariedad%2C%20interdisciplinariedad%2C%20transdisciplinariedad)
+3. [Relación entre las asignaturas del currículo](#3.%20Relación%20entre%20las%20asignaturas%20del%20currículo)
+	1. [3.1. Enseñanzas Elementales](#3.1.%20Enseñanzas%20Elementales)
+	2. [3.2. Enseñanzas Profesionales](#3.2.%20Enseñanzas%20Profesionales)
+4. [Desarrollo de las competencias como vía integradora](#4.%20Desarrollo%20de%20las%20competencias%20como%20vía%20integradora)
+5. [Conclusiones](#5.%20Conclusiones)
+6. [NOTAS](#6.%20NOTAS)
+7. [Bibliografía](#7.%20Bibliografía)
 
 ## 1. Introducción
 

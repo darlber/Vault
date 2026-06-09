@@ -2,17 +2,17 @@
 
 ## Índice
 
-1. [Introducción](#1-introducción)
-2. [La competencia de «aprender a aprender»](#2-la-competencia-de-aprender-a-aprender)
-3. [Desarrollo en la programación didáctica de un nuevo marco para la autonomía en el aprendizaje](#3-desarrollo-en-la-programación-didáctica-de-un-nuevo-marco-para-la-autonomía-en-el-aprendizaje)
-4. [El «aprender a aprender» en la enseñanza instrumental](#4-el-aprender-a-aprender-en-la-enseñanza-instrumental)
-5. [Desarrollo de capacidades que incrementen la autonomía. Estrategias adecuadas](#5-desarrollo-de-capacidades-que-incrementen-la-autonomía-estrategias-adecuadas)
-   - [5.1. El análisis musical](#51-el-análisis-musical)
-   - [5.2. La repentización y la lectura a primera vista](#52-la-repentización-y-la-lectura-a-primera-vista)
-   - [5.3. La madurez interpretativa y la comprensión profunda de los textos musicales](#53-la-madurez-interpretativa-y-la-comprensión-profunda-de-los-textos-musicales)
-   - [5.4. Hábitos y procedimientos de estudio adecuados](#54-hábitos-y-procedimientos-de-estudio-adecuados)
-6. [Conclusiones](#6-conclusiones)
-7. [Bibliografía](#7-bibliografía)
+1. [Introducción](#1.%20Introducción)
+2. [La competencia de «aprender a aprender»](#2.%20La%20competencia%20de%20«aprender%20a%20aprender»)
+3. [Desarrollo en la programación didáctica de un nuevo marco para la autonomía en el aprendizaje](#3.%20Desarrollo%20en%20la%20programación%20didáctica%20de%20un%20nuevo%20marco%20para%20la%20autonomía%20en%20el%20aprendizaje)
+4. [El «aprender a aprender» en la enseñanza instrumental](#4.%20El%20«aprender%20a%20aprender»%20en%20la%20enseñanza%20instrumental)
+5. [Desarrollo de capacidades que incrementen la autonomía. Estrategias adecuadas](#5.%20Desarrollo%20de%20capacidades%20que%20incrementen%20la%20autonomía.%20Estrategias%20adecuadas)
+	1. [5.1. El análisis musical](#5.1.%20El%20análisis%20musical)
+	2. [5.2. La repentización y la lectura a primera vista](#5.2.%20La%20repentización%20y%20la%20lectura%20a%20primera%20vista)
+	3. [5.3. La madurez interpretativa y la comprensión profunda de los textos musicales](#5.3.%20La%20madurez%20interpretativa%20y%20la%20comprensión%20profunda%20de%20los%20textos%20musicales)
+	4. [5.4. Hábitos y procedimientos de estudio adecuados](#5.4.%20Hábitos%20y%20procedimientos%20de%20estudio%20adecuados)
+6. [Conclusiones](#6.%20Conclusiones)
+7. [Bibliografía](#7.%20Bibliografía)
 
 ## 1. Introducción
 

@@ -2,15 +2,15 @@
 
 ## Índice
 
-1. [Introducción](#introducción)
-2. [Diferentes escuelas](#diferentes-escuelas)
-   1. [Escuela de Italia](#escuela-de-italia)
-   2. [Escuela de Francia](#escuela-de-francia)
-   3. [Escuela de Polonia](#escuela-de-polonia)
-   4. [Escuelas de Austria y Alemania](#escuelas-de-austria-y-alemania)
-   5. [Escuela de Rusia](#escuela-de-rusia)
-   6. [Escuela de Hungría](#escuela-de-hungría)
-3. [Bibliografía](#bibliografía)
+1. [Introducción](#Introducción)
+2. [Diferentes escuelas](#Diferentes%20escuelas)
+	1. [Escuela de Italia](#Escuela%20de%20Italia)
+	2. [Escuela de Francia](#Escuela%20de%20Francia)
+	3. [Escuela de Polonia](#Escuela%20de%20Polonia)
+	4. [Escuelas de Austria y Alemania](#Escuelas%20de%20Austria%20y%20Alemania)
+	5. [Escuela de Rusia](#Escuela%20de%20Rusia)
+	6. [Escuela de Hungría](#Escuela%20de%20Hungría)
+3. [Bibliografía](#Bibliografía)
 
 # Introducción
 

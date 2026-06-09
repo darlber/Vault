@@ -2,12 +2,12 @@
 
 ## Índice
 
-1. [La transcripción: Conceptos generales y antecedentes históricos](#la-transcripción-conceptos-generales-y-antecedentes-históricos)
-   1. [Instrumentos de cuerda pulsada. Instrumentos derivados del laúd](#instrumentos-de-cuerda-pulsada-instrumentos-derivados-del-laúd)
-   2. [Instrumentos derivados de la guitarra](#instrumentos-derivados-de-la-guitarra)
-2. [Criterios sobre la interpretación de transcripciones](#criterios-sobre-la-interpretación-de-transcripciones)
-3. [Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales](#transcripciones-del-repertorio-de-otros-instrumentos-y-de-diferentes-agrupaciones-instrumentales)
-4. [Bibliografía](#bibliografía)
+1. [La transcripción: Conceptos generales y antecedentes históricos](#La%20transcripción%3A%20Conceptos%20generales%20y%20antecedentes%20históricos)
+	1. [Instrumentos de cuerda pulsada. Instrumentos derivados del laúd](#Instrumentos%20de%20cuerda%20pulsada.%20Instrumentos%20derivados%20del%20laúd)
+	2. [Instrumentos derivados de la guitarra](#Instrumentos%20derivados%20de%20la%20guitarra)
+2. [Criterios sobre la interpretación de transcripciones](#Criterios%20sobre%20la%20interpretación%20de%20transcripciones)
+3. [Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales](#Transcripciones%20del%20repertorio%20de%20otros%20instrumentos%20y%20de%20diferentes%20agrupaciones%20instrumentales)
+4. [Bibliografía](#Bibliografía)
 
 ## La transcripción: Conceptos generales y antecedentes históricos
 

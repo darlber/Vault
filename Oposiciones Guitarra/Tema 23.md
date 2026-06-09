@@ -2,13 +2,13 @@
 
 ## Índice
 
-1. [Edad Media](#edad-media)
-2. [Siglo XVI](#siglo-xvi)
-3. [Siglo XVII](#siglo-xvii)
-4. [Siglo XVIII](#siglo-xviii)
-5. [Siglo XIX](#siglo-xix)
-6. [Siglo XX](#siglo-xx)
-7. [Bibliografía](#bibliografía)
+1. [Edad Media](#Edad%20Media)
+2. [Siglo XVI](#Siglo%20XVI)
+3. [Siglo XVII](#Siglo%20XVII)
+4. [Siglo XVIII](#Siglo%20XVIII)
+5. [Siglo XIX](#Siglo%20XIX)
+6. [Siglo XX](#Siglo%20XX)
+7. [Bibliografía](#Bibliografía)
 
 Para este tema recorreremos época por época, viendo además autores que tuvieron en cuenta a la guitarra como instrumento acompañante.[^1][^2]4
 

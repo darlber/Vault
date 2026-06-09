@@ -2,14 +2,14 @@
 
 ## Índice
 
-1. [Introducción. El comienzo del periodo. Contexto histórico](#introducción-el-comienzo-del-periodo-contexto-histórico)
-2. [Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico desde la segunda mitad del siglo XX hasta nuestros días](#características-referidas-a-la-evolución-del-estilo-y-de-la-escritura-instrumental-del-repertorio-guitarrístico-desde-la-segunda-mitad-del-siglo-xx-hasta-nuestros-días)
-   1. [Compositores en torno a la Generación del 51](#compositores-en-torno-a-la-generación-del-51)
-   2. [Generación posterior al 51, nacidos en los años 40](#generación-posterior-al-51-nacidos-en-los-años-40)
-   3. [Generaciones posteriores](#generaciones-posteriores)
-   4. [Compositores extranjeros](#compositores-extranjeros)
-3. [Nuevos recursos compositivos, formales, interpretativos y de notación](#nuevos-recursos-compositivos-formales-interpretativos-y-de-notación)
-4. [Bibliografía](#bibliografía)
+1. [Introducción. El comienzo del periodo. Contexto histórico](#Introducción.%20El%20comienzo%20del%20periodo.%20Contexto%20histórico)
+2. [Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico desde la segunda mitad del siglo XX hasta nuestros días](#Características%2C%20referidas%20a%20la%20evolución%20del%20estilo%20y%20de%20la%20escritura%20instrumental%2C%20del%20repertorio%20guitarrístico%20desde%20la%20segunda%20mitad%20del%20siglo%20XX%20hasta%20nuestros%20días)
+	1. [Compositores en torno a la Generación del 51](#Compositores%20en%20torno%20a%20la%20Generación%20del%2051)
+	2. [Generación posterior al 51, nacidos en los años 40](#Generación%20posterior%20al%2051%2C%20nacidos%20en%20los%20años%2040)
+	3. [Generaciones posteriores](#Generaciones%20posteriores)
+	4. [Compositores extranjeros](#Compositores%20extranjeros)
+3. [Nuevos recursos compositivos, formales, interpretativos y de notación](#Nuevos%20recursos%20compositivos%2C%20formales%2C%20interpretativos%20y%20de%20notación)
+4. [Bibliografía](#Bibliografía)
 
 ## Introducción. El comienzo del periodo. Contexto histórico
 

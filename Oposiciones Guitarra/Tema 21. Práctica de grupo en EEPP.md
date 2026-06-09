@@ -2,19 +2,19 @@
 
 ## Índice
 
-1. [La práctica de grupo en las enseñanzas profesionales](#la-práctica-de-grupo-en-las-enseñanzas-profesionales)
-   1. [Justificación de las asignaturas instrumentales colectivas](#justificación-de-las-asignaturas-instrumentales-colectivas)
-   2. [Funciones de la clase colectiva y de las asignaturas de conjunto](#funciones-de-la-clase-colectiva-y-de-las-asignaturas-de-conjunto)
-   3. [La metodología de la clase colectiva y las clases de conjunto](#la-metodología-de-la-clase-colectiva-y-las-clases-de-conjunto)
-   4. [La técnica de interpretación en grupo](#la-técnica-de-interpretación-en-grupo)
-   5. [Las clases colectivas en la asignatura de instrumento](#las-clases-colectivas-en-la-asignatura-de-instrumento)
-2. [Programación de las actividades colectivas en este nivel](#programación-de-las-actividades-colectivas-en-este-nivel)
-   1. [Consideraciones generales](#consideraciones-generales)
-   2. [Los objetivos didácticos](#los-objetivos-didácticos)
-   3. [Bloques de contenidos](#bloques-de-contenidos)
-   4. [Decisiones aplicables a las programaciones](#decisiones-aplicables-a-las-programaciones)
-3. [Desarrollo de una unidad didáctica de práctica musical en grupo en las enseñanzas profesionales](#desarrollo-de-una-unidad-didáctica-de-práctica-musical-en-grupo-en-las-enseñanzas-profesionales)
-4. [Bibliografía](#bibliografía)
+1. [La práctica de grupo en las enseñanzas profesionales](#La%20práctica%20de%20grupo%20en%20las%20enseñanzas%20profesionales)
+	1. [Justificación de las asignaturas instrumentales colectivas en las enseñanzas profesionales](#Justificación%20de%20las%20asignaturas%20instrumentales%20colectivas%20en%20las%20enseñanzas%20profesionales)
+	2. [Funciones de la clase colectiva y de las asignaturas de conjunto](#Funciones%20de%20la%20clase%20colectiva%20y%20de%20las%20asignaturas%20de%20conjunto)
+	3. [La metodología de la clase colectiva y las clases de conjunto](#La%20metodología%20de%20la%20clase%20colectiva%20y%20las%20clases%20de%20conjunto)
+	4. [La técnica de interpretación en grupo](#La%20técnica%20de%20interpretación%20en%20grupo)
+	5. [Las clases colectivas en la asignatura de instrumento](#Las%20clases%20colectivas%20en%20la%20asignatura%20de%20instrumento)
+2. [Programación de las actividades colectivas en este nivel](#Programación%20de%20las%20actividades%20colectivas%20en%20este%20nivel)
+	1. [Consideraciones generales](#Consideraciones%20generales)
+	2. [Los objetivos didácticos](#Los%20objetivos%20didácticos)
+	3. [Bloques de contenidos](#Bloques%20de%20contenidos)
+	4. [Decisiones aplicables a las programaciones](#Decisiones%20aplicables%20a%20las%20programaciones)
+3. [Desarrollo de una unidad didáctica de práctica musical en grupo en las enseñanzas profesionales](#Desarrollo%20de%20una%20unidad%20didáctica%20de%20práctica%20musical%20en%20grupo%20en%20las%20enseñanzas%20profesionales)
+4. [Bibliografía](#Bibliografía)
 
 ## La práctica de grupo en las enseñanzas profesionales
 
