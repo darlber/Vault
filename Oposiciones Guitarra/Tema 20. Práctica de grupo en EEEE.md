@@ -22,7 +22,7 @@
 
 Desde la promulgación en 1990 de la Ley Orgánica de Ordenación General del Sistema Educativo (LOGSE), las enseñanzas artísticas de música y danza experimentaron una importante reforma pedagógica y también organizativa. Una de las grandes innovaciones fue la introducción de la práctica de grupo mediante la clase colectiva de instrumento de una hora de duración semanal en cada curso del llamado entonces grado elemental de música.
 
-Posteriormente la Ley Orgánica de Educación del año 2006 (LOE) y el posterior Real Decreto 1577/2006, además de fijar los aspectos básicos del currículo de las enseñanzas profesionales, decidieron encomendar la regulación de las enseñanzas elementales a cada una de las Comunidades Autónomas, que han ejercido esta competencia mediante decretos y normativa de carácter autonómico. Todo ello en virtud del artículo 48.1 de la LOE que reza «las enseñanzas elementales de música y de danza tendrán las características y la organización que las Administraciones educativas determinen».
+Posteriormente la Ley Orgánica de Educación del año 2006 (LOE) y el posterior Real Decreto 1577/2006, además de fijar los aspectos básicos del currículo de las enseñanzas profesionales, decidieron encomendar la regulación de las enseñanzas elementales a cada una de las Comunidades Autónomas, que han ejercido esta competencia mediante decretos y normativa de carácter autonómico. Todo ello en virtud del artículo 48.1 de la LOE que reza «las enseñanzas elementales de música y de danza tendrán las características y la organización que las Administraciones educativas determinen»[^1].
 
 El resultado ha sido unas enseñanzas elementales con características y currículo diferenciado en cada una de las comunidades autónomas donde la práctica de conjunto ha experimentado diferentes regulaciones. En todo caso, en todos los decretos aparecen en los objetivos generales de estas enseñanzas la preocupación y la importancia de la práctica de grupo; citamos el texto que aparece en el decreto de la Comunidad Valenciana:
 
@@ -61,7 +61,7 @@ Cebriá, R., J. Ortega y E. Fernández, en el libro titulado *La clase colectiva
 
 > El profesor ha de ser consciente del modelo que representa y de la valoración muy subjetiva que el alumno realiza a través de su figura, no solo del instrumento, sino también del ambiente musical que le rodea. La tolerancia, el respeto y demás valores que la práctica musical lleva consigo tienen una conexión directa con la actitud que el profesor adopta en el aula.
 
-El estilo del profesor debe ser capaz de emanar una suficiente autoridad para evitar problemas de disciplina y al mismo tiempo impedir que un exceso desmotive o inhiba al alumno. Es más un dinamizador, un animador que sugiere propuestas, facilitando alternativas participativas.
+El estilo del profesor debe ser capaz de emanar una suficiente autoridad para evitar problemas de disciplina y al mismo tiempo impedir que un exceso desmotive o inhiba al alumno. Es más un dinamizador, un animador que sugiere propuestas, facilitando alternativas participativas[^2].
 
 El profesor procurará un clima de colaboración, respeto mutuo, participación y tolerancia democrática en el aula. Es fundamental aceptar el error y la equivocación como algo totalmente normal, de manera que los alumnos no tengan miedo a fracasar. No olvidemos que la música es un acto de extroversión.
 
@@ -93,7 +93,7 @@ Existen numerosas maneras de agrupar a los alumnos en las clases colectivas. Leb
 - **Grupos heterogéneos**: Se caracterizan por la diversidad de sus componentes.
 - **Grupos flexibles**: Los individuos se agrupan de diferentes formas en función de sus intereses y necesidades educativas.
 
-La configuración de grupos ha de estar adecuada en función de los fines educativos que persigamos. Tenemos un amplio abanico de posibilidades a nuestra disposición que deberemos utilizar de la mejor manera. Estas decisiones han de tomarse de manera coordinada entre todos los profesores de un centro y formar parte de los Proyectos Curriculares y Programaciones Didácticas sujetas a continua revisión.
+La configuración de grupos ha de estar adecuada en función de los fines educativos que persigamos. Tenemos un amplio abanico de posibilidades a nuestra disposición que deberemos utilizar de la mejor manera. Estas decisiones han de tomarse de manera coordinada entre todos los profesores de un centro y formar parte de los Proyectos Curriculares y Programaciones Didácticas sujetas a continua revisión[^3].
 
 En los Conservatorios, actualmente los alumnos se agrupan comúnmente por enseñanzas (elementales o profesionales) y por asignatura. Solo las especialidades de Piano y Guitarra presentan clases colectivas en las enseñanzas profesionales. En todo caso y como hemos observado anteriormente, algunas comunidades autónomas han regulado la práctica de grupo en asignaturas diferenciadas que permiten agrupar al alumnado de diferentes especialidades instrumentales, organizando conjuntos que permiten una gran variedad de actividades y amplían el repertorio utilizado en las aulas.
 
@@ -125,7 +125,7 @@ A continuación vamos a enumerar aquellas capacidades que los alumnos deben adqu
 
 Las clases colectivas son una magnífica ocasión para trabajar los contenidos programados en el nivel utilizando otras actividades de enseñanza-aprendizaje diferentes a las utilizadas en las clases individuales de instrumento y de lenguaje musical. Los contenidos son los mismos, si bien el planteamiento de cómo trabajarlos y estudiarlos para conseguir los objetivos programados varía sensiblemente.
 
-Enunciar los contenidos en las enseñanzas musicales no es una tarea fácil. El carácter marcadamente procedimental de las enseñanzas artísticas y la necesidad de adquirir habilidades técnicas y no dejar de practicarlas no solo para dominarlas mejor sino para no perder lo adquirido ha de ser reflejado en las programaciones, sobre todo cuando elaboramos las unidades didácticas o temáticas.
+Enunciar los contenidos en las enseñanzas musicales no es una tarea fácil. El carácter marcadamente procedimental de las enseñanzas artísticas y la necesidad de adquirir habilidades técnicas y no dejar de practicarlas no solo para dominarlas mejor sino para no perder lo adquirido ha de ser reflejado en las programaciones, sobre todo cuando elaboramos las unidades didácticas o temáticas[^4].
 
 A continuación vamos a relacionar los contenidos secuenciados que son susceptibles de formar parte de las unidades didácticas programadas en las clases colectivas y de conjunto.
 
@@ -172,15 +172,15 @@ A continuación vamos a relacionar los contenidos secuenciados que son susceptib
 
 La metodología no debe considerarse como algo fijo y estable, sino que debe estar en continuo estado de adaptación. Los principios metodológicos básicos, que responden a las preguntas de cómo debemos enseñar y cómo debemos plantear las actividades de enseñanza-aprendizaje, deberán también ser interiorizados por cada profesor y adaptados al contexto real de su aula y del entorno de aprendizaje de los alumnos.
 
-Las actividades de enseñanza-aprendizaje de las clases colectivas han de responder a unos principios metodológicos determinados:
+Las actividades de enseñanza-aprendizaje de las clases colectivas han de responder a unos principios metodológicos determinados[^5]:
 
-**La motivación y el aspecto lúdico:** En primer lugar, los alumnos han de encontrar motivadora la enseñanza mientras aprenden. Una forma de hacerlo es dotando de un cierto carácter lúdico a la educación artística. El juego es una forma natural de aprender. El juego aumenta la motivación del alumno, que disfruta a la vez que aprende. El juego implica relación social, adquisición de valores afectivos. Además la enseñanza y aprendizaje de la música como actividad artística y escénica presenta una relación muy próxima con el concepto lúdico. La música es un hecho placentero tanto para el intérprete como para el oyente que acude a un concierto a disfrutar. El juego como estrategia metodológica cobra una dimensión mayor en la clase colectiva que en la individual. El grupo ofrece unas posibilidades que, en cierto sentido, recrean el ambiente natural del niño/niña.
+**La motivación y el aspecto lúdico:** En primer lugar, los alumnos han de encontrar motivadora la enseñanza mientras aprenden. Una forma de hacerlo es dotando de un cierto carácter lúdico a la educación artística. El juego es una forma natural de aprender. El juego aumenta la motivación del alumno, que disfruta a la vez que aprende. El juego implica relación social, adquisición de valores afectivos. Además la enseñanza y aprendizaje de la música como actividad artística y escénica presenta una relación muy próxima con el concepto lúdico. La música es un hecho placentero tanto para el intérprete como para el oyente que acude a un concierto a disfrutar. El juego como estrategia metodológica cobra una dimensión mayor en la clase colectiva que en la individual. El grupo ofrece unas posibilidades que, en cierto sentido, recrean el ambiente natural del niño/niña[^6].
 
-**El desarrollo de la creatividad y las destrezas técnicas:** La adquisición de destrezas y de procedimientos técnicos es necesaria en el proceso de enseñanza de la música. El trabajo repetitivo y constante ha forzado muchos abandonos. Mitigar estas tendencias es tarea del profesor, quien tiene en la improvisación un instrumento muy valioso para desarrollar la espontaneidad y creatividad musical, y lograr que los alumnos gocen a la par que aprenden.
+**El desarrollo de la creatividad y las destrezas técnicas:** La adquisición de destrezas y de procedimientos técnicos es necesaria en el proceso de enseñanza de la música. El trabajo repetitivo y constante ha forzado muchos abandonos. Mitigar estas tendencias es tarea del profesor, quien tiene en la improvisación un instrumento muy valioso para desarrollar la espontaneidad y creatividad musical, y lograr que los alumnos gocen a la par que aprenden[^7].
 
 **Integración de teoría y práctica y relación de los contenidos:** Se debe procurar que el alumno perciba los nuevos contenidos de manera relacionada. Así pues, la técnica instrumental y los conceptos del lenguaje musical han de ser explicados al mismo tiempo que desarrollamos la práctica de la interpretación en grupo. En las clases individuales, por ejemplo, trabajamos con los alumnos la precisión rítmica, pero el alumno podrá percibir con más claridad cuándo se equivoca en una interpretación en grupo porque percibe más obviamente el resultado de su equivocación. La técnica instrumental, con toda su importancia, corre el peligro de llegar a convertirse en un fin en sí misma; por eso es mejor enseñarla de manera aplicada. Casi todos los alumnos y profesores coinciden en señalar lo aburrido de los ejercicios técnicos repetitivos, por lo que mitigar esto es una tarea necesaria, posible gracias a las clases colectivas.
 
-**El aprendizaje significativo:** De la misma manera, los conceptos relativos al lenguaje musical aprendidos en las clases no instrumentales cobran una nueva dimensión cuando se aplican a la práctica individual del instrumento y muchísimo más a la práctica de conjunto. Los alumnos aprenden mejor cuando las cosas tienen un sentido y una finalidad. Por esto, es necesario que las actividades sean coherentes y puedan ser comprendidas por el alumno. En muchas ocasiones los alumnos no perciben claramente la necesidad de los contenidos y no comprenden el porqué de las explicaciones. Pues bien, si su aprendizaje no es significativo para ellos, posiblemente se desmotivarán rápidamente.
+**El aprendizaje significativo:** De la misma manera, los conceptos relativos al lenguaje musical aprendidos en las clases no instrumentales cobran una nueva dimensión cuando se aplican a la práctica individual del instrumento y muchísimo más a la práctica de conjunto. Los alumnos aprenden mejor cuando las cosas tienen un sentido y una finalidad. Por esto, es necesario que las actividades sean coherentes y puedan ser comprendidas por el alumno. En muchas ocasiones los alumnos no perciben claramente la necesidad de los contenidos y no comprenden el porqué de las explicaciones. Pues bien, si su aprendizaje no es significativo para ellos, posiblemente se desmotivarán rápidamente[^8].
 
 ### La técnica de interpretación en grupo
 
@@ -216,7 +216,7 @@ Podemos detallar muchas otras actividades que trabajamos en la clase colectiva d
 
 #### Actividades de improvisación
 
-Mención aparte merece la práctica de la improvisación, a lo que dedicamos un apartado específico. La improvisación es toda ejecución musical instantánea producida por un individuo o un grupo. La improvisación es una actividad creativa que se basa en la exploración y culmina con la invención y la creación musical.
+Mención aparte merece la práctica de la improvisación, a lo que dedicamos un apartado específico. La improvisación es toda ejecución musical instantánea producida por un individuo o un grupo. La improvisación es una actividad creativa que se basa en la exploración y culmina con la invención y la creación musical[^9].
 
 La educación, considerada como un proceso de crecimiento, presenta importantes rasgos comunes con la improvisación. No es el momento para explicar detalladamente lo que es la improvisación y porqué goza de tanta aceptación en la pedagogía actual, pero sí para detallar la cantidad de actividades relacionadas con ella que podemos desarrollar en las clases colectivas (consultar tema específico de este temario sobre la improvisación).
 
@@ -265,34 +265,34 @@ A continuación citamos a título enunciativo algunos de los materiales suscepti
 - **Ejercicios de afinación:** *Cours d'ensemble instrumental* (G. Parés), *20 tunes ups* (H. van Lijnschooten), ejercicios de memoria de notas tenidas, escalas mayores y menores, ejercicios con diferentes dinámicas, etc.
 - **Composiciones instrumentales:** *La escala Sido* (F. Ferran), *El caragol mifasol* (Ferran), *Ammerland* (J. de Haan), *Aladdin* (Menrin/Ashman), *Fantasia* (Winson), *Gulliver's Travels* (B. Appermont), *Air for winds* (A. Waignein), *Themes from Harry Potter* (J. Williams), *A medieval suite* (A. Waignein), *Russian carol variations* (S. Bulla), *Themes from 1812* (P. I. Tchaikovsky), *Promenade* (M. Mussorgsky), *Pictures for young band* (J. Bensmann).
 
-## Bibliografía #REVISAR_OPENCODE
+## 4. Bibliografía #REVISAR_OPENCODE
 
-- Cebriá Genovés, P.; Ortega, Ricardo, J.; Fernández, Juan, E.: *La clase colectiva. Fundamentos básicos para su programación, su orientación y su evaluación*. Mundimúsica Ediciones Musicales.
-- Coll, César: *Psicología y curriculum*. Paidós.
-- Corbalán, Maravillas: «La programación conjunta de las enseñanzas de música». *Revista Música y Educación*.
-- *Eufonía. Didáctica de la música*. Graó.
-- Hemsy de Gainza: *La improvisación musical*. Ricordi Americana S.A., 1983.
-- *Música y Educación. Revista de Investigación Pedagógico-Musical*. Ed. Musicales, S.A.
-- Nicolás Carrillo; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
-- Proyecto Curricular. Conservatorio Profesional de Música de Torrent.
-- Zaldívar, Álvaro: *La Logse en los Conservatorios; normativa básica en las enseñanzas musicales*. Ed. Real Musical, 1992.
+- Cebriá Genovés, Pascual; Fernández Ferrandis, Juan E.; Ortega Sansaloni, Ricardo J. *La clase colectiva: fundamentos básicos para su programación, su orientación y su evaluación*. Madrid: Mundimúsica, 1996.
+- Coll, César. *Psicología y currículum: una aproximación psicopedagógica a la elaboración del currículum escolar*. Barcelona: Paidós, 1991.
+- Corbalán, Maravillas. «La programación conjunta de las enseñanzas de música». *Música y Educación. Revista Internacional de Pedagogía Musical*, n.º 38 (1999): 33-44.
+- *Eufonía. Didáctica de la Música*. Barcelona: Graó. Revista trimestral (1994–).
+- Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
+- *Música y Educación. Revista Internacional de Pedagogía Musical*. Madrid: Musicalis, 1988–. ISSN 0214-4786.
+- Nicolás Carrillo, María Jesús de; Gómez Albaladejo, José Antonio. *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Madrid: Master Oposiciones, 1999.
+- *Proyecto Curricular del Conservatorio Profesional de Música de Torrent*. Torrent, s.a.
+- Zaldívar, Álvaro. *La LOGSE en los Conservatorios: normativa básica en las enseñanzas musicales*. Madrid: Real Musical, 1992.
 
 # NOTAS #REVISAR_OPENCODE
 
-[^1]: Cebriá Genovés, P.; Ortega, Ricardo, J.; Fernández, Juan, E.: *La clase colectiva. Fundamentos básicos para su programación, su orientación y su evaluación*. Mundimúsica Ediciones Musicales.
+[^1]: Zaldívar, Álvaro. *La LOGSE en los Conservatorios*. Madrid: Real Musical, 1992.
 
-[^2]: Coll, César: *Psicología y curriculum*. Paidós.
+[^2]: Cebriá Genovés, P.; Fernández Ferrandis, J. E.; Ortega Sansaloni, R. J. *La clase colectiva*. Madrid: Mundimúsica, 1996.
 
-[^3]: Corbalán, Maravillas: «La programación conjunta de las enseñanzas de música». *Revista Música y Educación*.
+[^3]: *Proyecto Curricular del Conservatorio Profesional de Música de Torrent*. Torrent, s.a.
 
-[^4]: *Eufonía. Didáctica de la música*. Graó.
+[^4]: Corbalán, Maravillas. «La programación conjunta de las enseñanzas de música». *Música y Educación*, n.º 38 (1999): 33-44.
 
-[^5]: Hemsy de Gainza: *La improvisación musical*. Ricordi Americana S.A., 1983.
+[^5]: *Eufonía. Didáctica de la Música*. Barcelona: Graó.
 
-[^6]: *Música y Educación. Revista de Investigación Pedagógico-Musical*. Ed. Musicales, S.A.
+[^6]: *Música y Educación. Revista Internacional de Pedagogía Musical*. Madrid: Musicalis, 1988–.
 
-[^7]: Nicolás Carrillo; Gómez Albaladejo: *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de música*. Master Oposiciones, 1999.
+[^7]: Nicolás Carrillo, M.ª J. de; Gómez Albaladejo, J. A. *Aspectos curriculares, psicopedagógicos y didácticos*. Madrid: Master Oposiciones, 1999.
 
-[^8]: Proyecto Curricular. Conservatorio Profesional de Música de Torrent.
+[^8]: Coll, César. *Psicología y currículum*. Barcelona: Paidós, 1991.
 
-[^9]: Zaldívar, Álvaro: *La Logse en los Conservatorios; normativa básica en las enseñanzas musicales*. Ed. Real Musical, 1992.
+[^9]: Hemsy de Gainza, Violeta. *La improvisación musical*. Buenos Aires: Ricordi Americana, 1983.
