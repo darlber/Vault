@@ -1,4 +1,4 @@
-# Tema 34. Las tecnologías de la información y de la comunicación aplicadas a la enseñanza y el aprendizaje del instrumento. Importancia de la utilización del software musical y de la selección de los recursos de internet.
+# Las tecnologías de la información y de la comunicación aplicadas a la enseñanza y el aprendizaje del instrumento. Importancia de la utilización del software musical y de la selección de los recursos de internet.
 
 ## Índice
 
@@ -26,6 +26,7 @@
 - En las últimas décadas del siglo pasado asistimos a una profunda innovación tecnológica en la que las TIC originaron transformaciones en nuestras vidas y en las relaciones sociales, provocando el inicio de una nueva etapa conocida como Sociedad de la Información
 - El motor que provoca estos cambios es la revolución digital: el conjunto de innovaciones que han hecho posible que la información (sonido, imagen, texto) se digitalice y se transmita a gran velocidad mediante combinaciones de ceros y unos integradas en un circuito electrónico
 - La Sociedad de la Información (también llamada post-industrial, posmoderna o sociedad del conocimiento) se caracteriza por la capacidad de sus miembros para obtener y compartir información. Cada persona dispone de sus propios almacenes de información y también de la capacidad de acceder a la información generada por los demás, compartirla, modificarla y participar activamente en la construcción social del conocimiento
+- Terceiro (1996)[^1] analiza este fenómeno de transformación digital y sus implicaciones en el ámbito educativo
 - Los procesos de creación y consumo de información se han democratizado, permitiendo un acceso amplio y universalizado. Este cambio ha desencadenado una transformación de valores y actitudes sociales cuyo alcance es aún imprevisible
 
 ### 1.1. Integración de las TIC en la enseñanza
@@ -40,6 +41,7 @@
 ### 1.2. Las TIC y la educación musical
 
 - Estamos asistiendo a un proceso imparable que está generalizando el uso de las nuevas tecnologías en los conservatorios y en el conjunto de la educación musical
+- Lehmann (1993)[^2] ofrecía una panorámica de la educación musical que ya apuntaba la necesidad de integrar las tecnologías en la formación instrumental
 - Este avance es aún debido a iniciativas personales de algunos profesores. De todos depende que se generalice y sus ventajas lleguen al mayor número posible de miembros de los conservatorios
 - Las TIC potencian modelos pedagógicos renovados en los que el alumnado sea más protagonista de su aprendizaje: conocer y disfrutar medios audiovisuales, escuchar una gran variedad de obras de distintos estilos, comprender las relaciones entre el lenguaje musical y otros ámbitos del conocimiento
 - Ejemplos de aplicaciones didácticas:
@@ -65,9 +67,11 @@
   - **EVA (Entorno Virtual de Aprendizaje) / VLE (Virtual Learning Environment)**: espacio educativo alojado en la web con herramientas informáticas que posibilitan la interacción didáctica entre profesor y alumnos. Espacios con acceso restringido donde el profesor dispone materiales e interactúa con los alumnos a través de actividades, chats, etc.
   - **MOOC (Massive Open Online Course)**: cursos en línea de acceso libre y gratuito dirigidos a un amplio número de participantes. Permiten el acceso masivo de estudiantes de todo el mundo sin requisitos previos. Desarrollados completamente en línea, utilizando audio, texto, vídeo, animación e interacción asíncrona o síncrona entre alumnos y profesores
 
-==**Aplicaciones TIC en el aula de guitarra:** (a) **Flipped Classroom** — el profesor graba en vídeo la explicación de un pasaje técnico (p. ej., colocación de la mano derecha para el tremolo) y el alumno lo visualiza en casa; en clase se dedica el tiempo a practicar y corregir individualmente. (b) **EVA** — la plataforma Google Classroom o Moodle del conservatorio alberga los materiales del curso: partituras escaneadas, grabaciones de referencia, ejercicios de lectura a primera vista, enlaces a recursos externos. El alumno sube sus grabaciones semanales para que el profesor las evalúe de forma asíncrona. (c) **MOOC** — plataformas como Coursera o edX ofrecen cursos de guitarra clásica y teoría musical que complementan la formación reglada (p. ej., «Guitar Performance» de Berklee). (d) **Aplicaciones móviles** — apps como *Guitar Toolkit* (afinador, metrónomo, diccionario de acordes), *Yousician* (feedback en tiempo real sobre la precisión), *Soundbrenner* (metrónomo visual para ensembles) y *AmpliTube* (simulación de amplificadores y efectos) convierten el móvil en una herramienta pedagógica de primer orden. El profesor puede recomendar apps específicas según el nivel y los objetivos del alumno, integrando su uso en la rutina de estudio diaria[^2].==
+==**Aplicaciones TIC en el aula de guitarra:** (a) **Flipped Classroom** — el profesor graba en vídeo la explicación de un pasaje técnico (p. ej., colocación de la mano derecha para el tremolo) y el alumno lo visualiza en casa; en clase se dedica el tiempo a practicar y corregir individualmente. (b) **EVA** — la plataforma Google Classroom o Moodle del conservatorio alberga los materiales del curso: partituras escaneadas, grabaciones de referencia, ejercicios de lectura a primera vista, enlaces a recursos externos. El alumno sube sus grabaciones semanales para que el profesor las evalúe de forma asíncrona. (c) **MOOC** — plataformas como Coursera o edX ofrecen cursos de guitarra clásica y teoría musical que complementan la formación reglada (p. ej., «Guitar Performance» de Berklee). (d) **Aplicaciones móviles** — apps como *Guitar Toolkit* (afinador, metrónomo, diccionario de acordes), *Yousician* (feedback en tiempo real sobre la precisión), *Soundbrenner* (metrónomo visual para ensembles) y *AmpliTube* (simulación de amplificadores y efectos) convierten el móvil en una herramienta pedagógica de primer orden. El profesor puede recomendar apps específicas según el nivel y los objetivos del alumno, integrando su uso en la rutina de estudio diaria[^3].==
 
 ## 3. El uso de las TIC en la educación musical. Campos posibles de aplicación
+
+- Fuertes (1998)[^4] analiza las aplicaciones de la tecnología informática en el ámbito musical, identificando campos como la edición de partituras, la secuenciación y la producción sonora
 
 ### 3.1. Los programas de edición de partituras #REVISAR_OPENCODE
 
@@ -83,7 +87,7 @@
 - Software libre: **MuseScore** (http://musescore.org)
 - Otros: **Songworks** (asiste la creación con un tutor que ofrece alternativas), **Lilypond** (las notas se escriben en un archivo de texto mediante comandos y se procesa para obtener PDF y MIDI; requiere aprender la sintaxis básica pero permite editar ejercicios y pruebas escritas de forma sencilla)
 
-==**Software específico para guitarra:** (a) **Editores de tablatura** — programas como **TuxGuitar** (libre, multiplataforma) o **Guitar Pro** (de pago) permiten escribir y reproducir música en tablatura y pentagrama simultáneamente, esenciales para el repertorio contemporáneo y popular. El alumno puede introducir una obra, escucharla a diferentes velocidades, aislar voces y modificar la digitación. (b) **Transcripción y análisis** — **Amazing Slow Downer** y **Transcribe!** permiten ralentizar grabaciones sin alterar el tono, facilitando la transcripción de obras complejas y el estudio de pasajes rápidos. (c) **Afinadores y metrónomos** — software como **PitchLab** (afinador cromático visual), **Pro Metronome** o **Soundcorset** ofrecen precisión profesional y funciones avanzadas (polirritmia, subdivisión de pulsos). (d) **Grabación multipista** — con **Audacity** o **GarageBand** el alumno puede grabarse en varias pistas (melodía, acompañamiento, bajo) y analizar su interpretación. (e) **IA aplicada** — herramientas emergentes como **Chordify** (reconocimiento automático de acordes a partir de audio) o **Moises.ai** (separación de pistas con IA) abren posibilidades para el análisis armónico y la práctica de improvisación. El profesor debe seleccionar y recomendar el software más adecuado según el nivel y los objetivos didácticos[^2].==
+==**Software específico para guitarra:** (a) **Editores de tablatura** — programas como **TuxGuitar** (libre, multiplataforma) o **Guitar Pro** (de pago) permiten escribir y reproducir música en tablatura y pentagrama simultáneamente, esenciales para el repertorio contemporáneo y popular. El alumno puede introducir una obra, escucharla a diferentes velocidades, aislar voces y modificar la digitación. (b) **Transcripción y análisis** — **Amazing Slow Downer** y **Transcribe!** permiten ralentizar grabaciones sin alterar el tono, facilitando la transcripción de obras complejas y el estudio de pasajes rápidos. (c) **Afinadores y metrónomos** — software como **PitchLab** (afinador cromático visual), **Pro Metronome** o **Soundcorset** ofrecen precisión profesional y funciones avanzadas (polirritmia, subdivisión de pulsos). (d) **Grabación multipista** — con **Audacity** o **GarageBand** el alumno puede grabarse en varias pistas (melodía, acompañamiento, bajo) y analizar su interpretación. (e) **IA aplicada** — herramientas emergentes como **Chordify** (reconocimiento automático de acordes a partir de audio) o **Moises.ai** (separación de pistas con IA) abren posibilidades para el análisis armónico y la práctica de improvisación. El profesor debe seleccionar y recomendar el software más adecuado según el nivel y los objetivos didácticos[^3].==
 
 ### 3.2. Secuenciadores y editores de audio
 
@@ -101,7 +105,7 @@
 ### 4.1. Internet como recurso educativo para el alumnado y el profesorado
 
 - Internet bien utilizado puede convertirse en una fuente inagotable de recursos para la clase de instrumento, permitiendo una manera eficaz y ágil de incrementar las actividades de enseñanza/aprendizaje
-- **Andrea Giráldez**[^2] (*Internet y educación musical*) establece los siguientes beneficios:
+- **Andrea Giráldez**[^3] (*Internet y educación musical*) establece los siguientes beneficios:
   - Ampliar los contenidos y conocimientos musicales adquiridos en el aula
   - Ofrecer nuevas alternativas para la interpretación y la composición
   - Posibilitar que los alumnos intercambien ideas musicales y composiciones con otros alumnos (españoles y de otros países) a través de correo electrónico, listas de distribución, webblogs, mensajería instantánea y sitios web especializados
@@ -110,7 +114,7 @@
   - Acceder a sitios educativos y materiales de consulta mediante «cazas del tesoro» y WebQuests
   - Crear y diseñar páginas web para distribuir información y mostrar el trabajo del alumnado
   - Para la clase de instrumento: obtener recursos específicos (partituras, grabaciones, vídeos)
-- **Martin Maglio (1998)**[^4] formula tres reflexiones para demostrar que Internet no debe ser una moda sino una herramienta útil:
+- **Martin Maglio (1998)**[^5] formula tres reflexiones para demostrar que Internet no debe ser una moda sino una herramienta útil:
   1. ¿Las actividades propuestas son educativas y se corresponden con las metas que intentamos alcanzar?
   2. ¿El uso de Internet permitirá que el alumnado haga algo que antes no podía hacer?
   3. ¿El uso de Internet permitirá que el alumnado haga algo que podía hacer antes, pero de una manera más eficaz?
@@ -223,7 +227,7 @@
 - Las industrias culturales y musicales han aplicado estas innovaciones desde el primer momento. Los conservatorios deben superar el aislamiento tradicional
 - Los nuevos docentes deben atesorar las competencias necesarias en el manejo de estas nuevas tecnologías. La competencia digital también debe ser adquirida por el alumnado para aumentar sus posibilidades de una vida profesional y personal más fructífera
 
-## 7. Bibliografía #REVISAR_OPENCODE
+# Bibliografía #REVISAR_OPENCODE
 
 - Fuertes, Carlos. «La tecnología informática y la música». En *Tecnologías de la información en la educación*, coordinado por C. San José Villacorta, 257–284. Madrid: Anaya Multimedia, 1998.
 - Giráldez, Andrea. *Internet y educación musical*. Barcelona: Graó, 2005.
@@ -232,12 +236,13 @@
 - Terceiro, José B. *Sociedad digital*. Madrid: Alianza, 1996.
 # NOTAS #REVISAR_OPENCODE
 
-[^1]: Fuertes, Carlos. «La tecnología informática y la música». En *Tecnologías de la información en la educación*, coordinado por C. San José Villacorta, 257–284. Madrid: Anaya Multimedia, 1998.
+[^1]: Terceiro, J. B. *Sociedad digital*. Madrid: Alianza, 1996.
 
-[^2]: Giráldez, Andrea. *Internet y educación musical*. Barcelona: Graó, 2005.
+[^2]: Lehmann, P. «Panorama de la educación musical en el mundo». En Hemsy de Gainza (ed.), *La educación musical frente al futuro*, 13–24. Buenos Aires: Guadalupe, 1993.
 
-[^3]: Lehmann, Paul. «Panorama de la educación musical en el mundo». En *La educación musical frente al futuro*, editado por V. Hemsy de Gainza, 13–24. Buenos Aires: Guadalupe, 1993.
+[^3]: Giráldez, A. *Internet y educación musical*. Barcelona: Graó, 2005.
 
-[^4]: Maglio, Martin. «Integrating Technology into the Music Classroom». *Music Educators Journal* 85, n.º 1 (1998): 28–33.
+[^4]: Fuertes, C. «La tecnología informática y la música». En San José Villacorta (coord.), *Tecnologías de la información en la educación*, 257–284. Madrid: Anaya Multimedia, 1998.
 
-[^5]: Terceiro, José B. *Sociedad digital*. Madrid: Alianza, 1996.
+[^5]: Maglio, M. «Integrating Technology into the Music Classroom». *Music Educators Journal* 85, n.º 1 (1998): 28–33.
+

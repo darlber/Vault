@@ -119,7 +119,14 @@
 - La cuestión patrimonial no debe ser un mero cumplimiento curricular, sino un medio educativo de alto valor pedagógico para mejorar la significatividad de los aprendizajes
 - Los alumnos comprenderán mejor el hecho musical si integramos los contenidos patrimoniales con los habituales de la especialidad instrumental
 - El conservatorio no puede centrarse exclusivamente en la transmisión de destrezas técnicas; debe abordar una educación holística que incluya el conocimiento histórico, cultural y artístico
+# Bibliografía #REVISAR_OPENCODE
 
+- Campbell, Patricia Shehan. «Etnomusicología y Educación Musical». *Revista Internacional de Educación Musical* 1 (2013): 12–24.
+- Fubini, Enrico. *La estética musical desde la antigüedad hasta el siglo XX*. Madrid: Alianza, 2005.
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). *BOE*, 4 de mayo de 2006.
+- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
+- Small, Christopher. *Música, sociedad, educación*. Madrid: Alianza, 1980.
+- UNESCO. *Convención para la Salvaguardia del Patrimonio Cultural Inmaterial*. París, 2003
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: UNESCO. *Convención para la Salvaguardia del Patrimonio Cultural Inmaterial*. París, 2003.
@@ -134,11 +141,4 @@
 
 [^6]: Campbell, P. S. «Etnomusicología y Educación Musical». *Revista Internacional de Educación Musical* 1 (2013): 12–24.
 
-# Bibliografía #REVISAR_OPENCODE
-
-- Campbell, Patricia Shehan. «Etnomusicología y Educación Musical». *Revista Internacional de Educación Musical* 1 (2013): 12–24.
-- Fubini, Enrico. *La estética musical desde la antigüedad hasta el siglo XX*. Madrid: Alianza, 2005.
-- Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). *BOE*, 4 de mayo de 2006.
-- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
-- Small, Christopher. *Música, sociedad, educación*. Madrid: Alianza, 1980.
-- UNESCO. *Convención para la Salvaguardia del Patrimonio Cultural Inmaterial*. París, 2003.
+.

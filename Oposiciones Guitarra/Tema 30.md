@@ -167,6 +167,23 @@ Lehmann y McArthur (2002)[^13] sintetizan los factores que influyen en la lectur
 - La lectura a primera vista es un contenido prescrito por las administraciones educativas, necesario para superar pruebas eliminatorias de acceso a enseñanzas superiores
 - La formación integral del músico exige su dominio
 - Las metodologías están en continua evolución; la mejor manera de enseñarla es ligando la repentización con el análisis de la partitura para una comprensión global
+
+# Bibliografía #REVISAR_OPENCODE
+
+- Ericsson, K. Anders y Walter Kintsch. «Long-Term Working Memory». *Psychological Review* 102, n.º 2 (1995): 211–245.
+- Fine, Philip, Anna Berry y Burton Rosner. «The Effect of Pattern Recognition and Tonal Predictability on Sight-Singing Ability». *Psychology of Music* 34, n.º 4 (2006): 431–447.
+- Furneaux, Stephanie y Michael F. Land. «The Effects of Skill on the Eye-Hand Span during Musical Sight-Reading». *Proceedings of the Royal Society B* 266, n.º 1436 (1999): 2435–2440.
+- Goolsby, Thomas W. «Profiles of Processing: Eye Movements during Sight Reading». *Music Perception* 12, n.º 1 (1994): 97–123.
+- Kopiez, Reinhard y Ji In Lee. «Towards a Dynamic Model of Skills Involved in Sight Reading Music». *Music Education Research* 8, n.º 1 (2006): 97–120.
+- Kopiez, Reinhard y Ji In Lee. «Towards a General Model of Skills Involved in Sight Reading Music». *Music Education Research* 10, n.º 1 (2008): 41–62.
+- Lehmann, Andreas C. y K. Anders Ericsson. «Sight-Reading Ability of Expert Pianists in the Context of Piano Accompanying». *Psychomusicology* 12, n.º 2 (1993): 182–195.
+- Lehmann, Andreas C. y K. Anders Ericsson. «Performance without Preparation: Structure and Acquisition of Expert Sight-Reading». *Psychomusicology* 15, n.º 1/2 (1996): 1–29.
+- Lehmann, Andreas C. y Victoria H. McArthur. «Sight-Reading». En *The Science and Psychology of Music Performance*, editado por Richard Parncutt y Gary E. McPherson, 135–150. Oxford: Oxford University Press, 2002.
+- McPherson, Gary E. «Factors and Abilities Influencing Sight-Reading Skill in Music». *Journal of Research in Music Education* 42, n.º 3 (1994): 217–231.
+- Molina, Emilio. «La lectura a primera vista: análisis». *Música y Educación* 16, n.º 54 (2003): 73–90.
+- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
+- Schenker, Heinrich. *Free Composition*. Traducido por Ernst Oster. New York: Longman, 1979.
+- Sloboda, John A. *The Musical Mind: The Cognitive Psychology of Music*. Oxford: Oxford University Press, 1985.
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: RD 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
@@ -196,20 +213,3 @@ Lehmann y McArthur (2002)[^13] sintetizan los factores que influyen en la lectur
 [^13]: Lehmann, A. C. y V. H. McArthur. «Sight-Reading». En Parncutt y McPherson (eds.), *The Science and Psychology of Music Performance*, 135–150. Oxford: OUP, 2002.
 
 [^14]: Schenker, H. *Free Composition*. Trad. E. Oster. New York: Longman, 1979.
-
-# Bibliografía #REVISAR_OPENCODE
-
-- Ericsson, K. Anders y Walter Kintsch. «Long-Term Working Memory». *Psychological Review* 102, n.º 2 (1995): 211–245.
-- Fine, Philip, Anna Berry y Burton Rosner. «The Effect of Pattern Recognition and Tonal Predictability on Sight-Singing Ability». *Psychology of Music* 34, n.º 4 (2006): 431–447.
-- Furneaux, Stephanie y Michael F. Land. «The Effects of Skill on the Eye-Hand Span during Musical Sight-Reading». *Proceedings of the Royal Society B* 266, n.º 1436 (1999): 2435–2440.
-- Goolsby, Thomas W. «Profiles of Processing: Eye Movements during Sight Reading». *Music Perception* 12, n.º 1 (1994): 97–123.
-- Kopiez, Reinhard y Ji In Lee. «Towards a Dynamic Model of Skills Involved in Sight Reading Music». *Music Education Research* 8, n.º 1 (2006): 97–120.
-- Kopiez, Reinhard y Ji In Lee. «Towards a General Model of Skills Involved in Sight Reading Music». *Music Education Research* 10, n.º 1 (2008): 41–62.
-- Lehmann, Andreas C. y K. Anders Ericsson. «Sight-Reading Ability of Expert Pianists in the Context of Piano Accompanying». *Psychomusicology* 12, n.º 2 (1993): 182–195.
-- Lehmann, Andreas C. y K. Anders Ericsson. «Performance without Preparation: Structure and Acquisition of Expert Sight-Reading». *Psychomusicology* 15, n.º 1/2 (1996): 1–29.
-- Lehmann, Andreas C. y Victoria H. McArthur. «Sight-Reading». En *The Science and Psychology of Music Performance*, editado por Richard Parncutt y Gary E. McPherson, 135–150. Oxford: Oxford University Press, 2002.
-- McPherson, Gary E. «Factors and Abilities Influencing Sight-Reading Skill in Music». *Journal of Research in Music Education* 42, n.º 3 (1994): 217–231.
-- Molina, Emilio. «La lectura a primera vista: análisis». *Música y Educación* 16, n.º 54 (2003): 73–90.
-- Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
-- Schenker, Heinrich. *Free Composition*. Traducido por Ernst Oster. New York: Longman, 1979.
-- Sloboda, John A. *The Musical Mind: The Cognitive Psychology of Music*. Oxford: Oxford University Press, 1985.
