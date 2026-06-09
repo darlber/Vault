@@ -33,7 +33,7 @@
   - **Cómo enseñar**: metodología, que define cómo conseguir los objetivos mediante actividades de enseñanza-aprendizaje adecuadas
 - Estos tres aspectos están interrelacionados; las opciones sobre el cómo enseñar impregnan todo el proceso de elaboración curricular
 - Definición: la metodología educativa explica el modo de enseñar, la aplicación coherente de un sistema ordenado para llegar a un fin educativo
-- Las metodologías educativas giran en torno a teorías del aprendizaje psicopedagógicas: conductismo, cognitivismo, constructivismo y conectivismo[^1]
+- Las metodologías educativas giran en torno a teorías del aprendizaje psicopedagógicas: conductismo, cognitivismo, constructivismo y conectivismo[^1][^2]
 - No debe confundirse metodología con libros de estudios o ejercicios («métodos»). La metodología es un concepto más amplio que abarca la manera de proceder de un profesor y de un centro
 - Durante años, las corrientes que defienden un aprendizaje mediante la experiencia se han considerado las más adecuadas para el aprendizaje musical
 - Estas corrientes tratan primero la vivencia y el descubrimiento, y posteriormente abordan la teoría en la que se asientan dichas experiencias
@@ -43,7 +43,7 @@
   1. El auge de las ciencias sobre la conducta humana (psicología y pedagogía)
   2. La expansión de la educación y su obligatoriedad progresiva
   3. El gran desarrollo instrumental y técnico desde la segunda mitad del s. XIX, y la mala praxis pedagógica imperante
-- Muchos de estos sistemas se han inspirado en J. Piaget y la Psicología Cognitiva, el constructivismo y los estadios psico-evolutivos[^2]
+- Muchos de estos sistemas se han inspirado en J. Piaget y la Psicología Cognitiva, el constructivismo y los estadios psico-evolutivos
 
 ### Principios metodológicos comunes
 - **Intuición**: la enseñanza, sobre todo en primeras edades, ha de tener base intuitiva

@@ -1,4 +1,4 @@
-# Tema 27. La creatividad y su desarrollo. La creatividad aplicada a todos los aspectos del desarrollo instrumental: técnica, capacidad expresiva o comunicativa, inteligencia musical y personalidad artística. El desarrollo del espíritu emprendedor: cualidades, habilidades, actitudes y valores que engloba el espíritu emprendedor.
+# La creatividad y su desarrollo. La creatividad aplicada a todos los aspectos del desarrollo instrumental: técnica, capacidad expresiva o comunicativa, inteligencia musical y personalidad artística. El desarrollo del espíritu emprendedor: cualidades, habilidades, actitudes y valores que engloba el espíritu emprendedor.
 
 ## Índice
 
