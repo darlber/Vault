@@ -55,7 +55,7 @@ En este periodo también será muy importante la música de cámara, viendo cóm
 
 ==La Generación del 51 en España, encabezada por Cristóbal Halffter y Luis de Pablo, marca un punto de inflexión. Estos compositores asimilan en un breve espacio de tiempo las últimas consecuencias del dodecafonismo, el serialismo integral y las formas abiertas, aplicándolas a la guitarra con resultados que renuevan profundamente el lenguaje del instrumento. Obras como *Codex* (1963) de Halffter y *Fábula* (1992) de Luis de Pablo se convierten en referentes del repertorio contemporáneo[^1].==
 
-==Frente a esta corriente vanguardista, otros compositores mantienen un lenguaje más accesible, basado en la tonalidad ampliada y las formas tradicionales. Antón García Abril, Lennox Berkeley, Joaquín Rodrigo y Benjamin Britten representan esta línea, que convive con la anterior y enriquece el panorama compositivo. La obra de Leo Brouwer ocupa una posición singular: partiendo de la música indeterminada y la aleatoriedad, incorpora elementos del folklore cubano y una rítmica vitalista que la hacen inconfundible[^4].==
+==Frente a esta corriente vanguardista, otros compositores mantienen un lenguaje más accesible, basado en la tonalidad ampliada y las formas tradicionales. Antón García Abril, Lennox Berkeley, Joaquín Rodrigo y Benjamin Britten representan esta línea, que convive con la anterior y enriquece el panorama compositivo. La obra de Leo Brouwer ocupa una posición singular: partiendo de la música indeterminada y la aleatoriedad, incorpora elementos del folklore cubano y una rítmica vitalista que la hacen inconfundible[^2].==
 
 ==Armónicamente, el lenguaje se expande hasta sus límites: desde el atonalismo libre y el serialismo hasta la microtonalidad y los clusters. La textura, que en épocas anteriores se organizaba en torno a la melodía acompañada o la polifonía, se fragmenta en eventos sonoros aislados, masas tímbricas y texturas percusivas. El timbre, antes un elemento secundario, se convierte en un parámetro compositivo fundamental[^1].==
 ==El minimalismo, surgido en Estados Unidos en los años sesenta de la mano de Steve Reich, Philip Glass y Terry Riley, encuentra en la guitarra un vehículo natural por su capacidad para la reiteración rítmica y el proceso armónico gradual. Compositores como Leo Brouwer en su etapa de madurez, y más tarde Andrew York con sus piezas de carácter meditativo, incorporan elementos minimalistas al repertorio guitarrístico. En el ámbito europeo, el minimalismo espiritual de Arvo Pärt y Henryk Górecki influye en compositores como Dušan Bogdanović, cuyas obras para guitarra fusionan la simplicidad armónica con una profunda expresividad[^1].==
@@ -64,9 +64,9 @@ En este periodo también será muy importante la música de cámara, viendo cóm
 
 ==La escritura guitarrística de la segunda mitad del siglo XX experimenta una transformación radical en su notación. La necesidad de representar nuevos efectos y recursos lleva al desarrollo de grafías alternativas que conviven con la notación tradicional. Aparecen símbolos específicos para armónicos artificiales, percusiones sobre la tapa y el diapasón, golpes de uña, rasgueados con distintas partes de la mano, pizzicati, glissandi, portamenti y efectos de percusión digital[^3].==
 
-==Uno de los desarrollos más significativos es la incorporación de la guitarra preparada, siguiendo el modelo pianístico de John Cage. Carles Guinovart, con su obra *Dodaini* (1997), y otros compositores introducen objetos entre las cuerdas para alterar el timbre, obteniendo sonoridades percusivas y ruidistas. La guitarra amplificada y el uso de micrófonos de contacto, ejemplificados en las obras de Francisco Otero y Carlos Cruz de Castro, abren un nuevo campo de posibilidades sonoras[^2].==
+==Uno de los desarrollos más significativos es la incorporación de la guitarra preparada, siguiendo el modelo pianístico de John Cage. Carles Guinovart, con su obra *Dodaini* (1997), y otros compositores introducen objetos entre las cuerdas para alterar el timbre, obteniendo sonoridades percusivas y ruidistas. La guitarra amplificada y el uso de micrófonos de contacto, ejemplificados en las obras de Francisco Otero y Carlos Cruz de Castro, abren un nuevo campo de posibilidades sonoras[^4].==
 
-==La grafía contemporánea se clasifica en categorías específicas: percusión, tempo, altura, dinámica, timbre, ritmo y forma. Muchas partituras incluyen un cuadro de signos al inicio para explicar la simbología empleada. La obra *Temples* (1972) de Jesús Villa Rojo constituye un ejemplo paradigmático del uso de grafía contemporánea y aleatoriedad en la guitarra española. La tesitura y las indicaciones de digitación alcanzan un nivel de detalle inédito, reflejando el control preciso que el compositor busca sobre el resultado sonoro[^2].==
+==La grafía contemporánea se clasifica en categorías específicas: percusión, tempo, altura, dinámica, timbre, ritmo y forma. Muchas partituras incluyen un cuadro de signos al inicio para explicar la simbología empleada. La obra *Temples* (1972) de Jesús Villa Rojo constituye un ejemplo paradigmático del uso de grafía contemporánea y aleatoriedad en la guitarra española. La tesitura y las indicaciones de digitación alcanzan un nivel de detalle inédito, reflejando el control preciso que el compositor busca sobre el resultado sonoro[^4].==
 
 ### Compositores en torno a la Generación del 51
 
@@ -176,9 +176,9 @@ En muchos casos es muy difícil (por no decir casi imposible) reproducir exactam
 
 Las grafías del nuevo repertorio estarían clasificadas en los siguientes apartados: percusión, tempo, altura, dinámica, timbre, ritmo y forma.
 
-A continuación vamos a mostrar algunas de las representaciones gráficas más usuales extraídas de la tesis *Extended Techniques for the Classical Guitar: A Guide for Composers* de Robert Allan Lunn[^3]. También se pueden consultar en el libro *The Techniques of Guitar Playing* de Seth F. Josel y Ming Tsao[^2].
+A continuación vamos a mostrar algunas de las representaciones gráficas más usuales extraídas de la tesis *Extended Techniques for the Classical Guitar: A Guide for Composers* de Robert Allan Lunn[^3]. También se pueden consultar en el libro *The Techniques of Guitar Playing* de Seth F. Josel y Ming Tsao[^4].
 
-==Entre los recursos interpretativos más significativos del periodo se encuentra la incorporación de la electrónica en vivo. La guitarra amplificada, el uso de micrófonos de contacto y los sistemas de procesamiento en tiempo real permiten transformar el sonido del instrumento de maneras antes inimaginables. Obras como *Guit-trónica* (1987) de Carlos Cruz de Castro, que combina guitarra y cinta magnética, abren el camino a la integración de la guitarra con medios electroacústicos. En las últimas décadas, el uso de loop stations y pedales de efectos se ha generalizado tanto en la música de concierto como en la popular, difuminando las fronteras entre ambos ámbitos[^2].==
+==Entre los recursos interpretativos más significativos del periodo se encuentra la incorporación de la electrónica en vivo. La guitarra amplificada, el uso de micrófonos de contacto y los sistemas de procesamiento en tiempo real permiten transformar el sonido del instrumento de maneras antes inimaginables. Obras como *Guit-trónica* (1987) de Carlos Cruz de Castro, que combina guitarra y cinta magnética, abren el camino a la integración de la guitarra con medios electroacústicos. En las últimas décadas, el uso de loop stations y pedales de efectos se ha generalizado tanto en la música de concierto como en la popular, difuminando las fronteras entre ambos ámbitos[^4].==
 
 ==La notación gráfica constituye otro de los rasgos distintivos del periodo. Junto a la notación tradicional, aparecen símbolos para indicar la presión del trémolo, la velocidad del rasgueado, la altura aproximada de los sonidos (notación aproximativa) y la duración relativa de los eventos. En las obras aleatorias, la partitura puede presentarse como un conjunto de módulos que el intérprete debe ordenar, o como una serie de instrucciones verbales que dejan un amplio margen a la improvisación. La obra *Temples* de Villa Rojo y *La Espiral eterna* de Brouwer ejemplifican esta tendencia hacia una notación más flexible y participativa[^3].==
 
@@ -188,19 +188,19 @@ A continuación vamos a mostrar algunas de las representaciones gráficas más u
 - Josel, Seth F. y Ming Tsao. *The Techniques of Guitar Playing*. Kassel: Bärenreiter, 2014.
 - Lunn, Robert Allan. *Extended Techniques for the Classical Guitar: A Guide for Composers*. Tesis doctoral, Ohio State University, 2010.
 - Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
-- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1976.
-- Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
+- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+- Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
 
 # NOTAS #REVISAR_OPENCODE
 
 [^1]: Gilardino, Angelo. *Manuale di storia della chitarra*. Ancona: Bèrben, 1988.
 
-[^2]: Josel, Seth F. y Ming Tsao. *The Techniques of Guitar Playing*. Kassel: Bärenreiter, 2014.
+[^2]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
 
 [^3]: Lunn, Robert Allan. *Extended Techniques for the Classical Guitar: A Guide for Composers*. Tesis doctoral, Ohio State University, 2010.
 
-[^4]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
+[^4]: Josel, Seth F. y Ming Tsao. *The Techniques of Guitar Playing*. Kassel: Bärenreiter, 2014.
 
-[^5]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1976.
+[^5]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
 
-[^6]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1983.
+[^6]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
