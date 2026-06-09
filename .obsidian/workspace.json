@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Programación Didáctica.md",
+                "file": "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Programación Didáctica"
+              "title": "Tema 16. Lenguajes de programación"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/Programación Didáctica.md",
+                "file": "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Programación Didáctica"
+              "title": "Outline of Tema 16. Lenguajes de programación"
             }
           },
           {
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,16 +209,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "30c66a756c80d7ae",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 34. TIC.md",
+    "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
+    "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
+    "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
     "Oposiciones TAI/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
+    "Oposiciones Guitarra/attachments/Pasted image 20250619133049.png",
+    "Oposiciones Guitarra/attachments/Pasted image 20250619133043.png",
+    "Oposiciones Guitarra/attachments/Pasted image 20250619132903.png",
+    "Oposiciones Guitarra/attachments/Pasted image 20250619132810.png",
+    "Oposiciones Guitarra/attachments/{F00AF04A-3884-4743-88C1-29EC3EDB70D1}.png",
+    "Oposiciones Guitarra/attachments/{74EB0B94-1C8F-41BC-9E82-EC6496B9C30F}.png",
+    "Oposiciones Guitarra/attachments/{42A71911-872D-42BB-B355-059C98BE1EC3}.png",
+    "Oposiciones Guitarra/attachments/{1FC9E565-82D8-4A1A-9907-B2622D1C1898}.png",
+    "Oposiciones Guitarra/Programación Didáctica.md",
+    "Oposiciones Guitarra/Tema 34. TIC.md",
     "Oposiciones TAI/Flashcards - Tema 11.md",
     "Oposiciones TAI/Flashcards - Tema 10.md",
     "Oposiciones TAI/Flashcards - Tema 9.md",
     "Oposiciones TAI/Flashcards - Tema 8.md",
-    "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
-    "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
     "Oposiciones TAI/Flashcards - Tema 7.md",
     "Oposiciones TAI/Flashcards - Tema 6.md",
     "Oposiciones TAI/Flashcards - Tema 3.md",
@@ -232,11 +242,9 @@
     "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
     "Oposiciones TAI/Flashcards - Tema 13.md",
     "Oposiciones Guitarra/0. Temas Oposiciones.md",
-    "Oposiciones Guitarra/Programación Didáctica.md",
     "Oposiciones Guitarra/Tema 33. Patrimonio.md",
     "Oposiciones Guitarra/Tema 32. Interdisciplinariedad.md",
     "Oposiciones Guitarra/Tema 31. Memoria.md",
-    "Oposiciones Guitarra/Tema 30. Lectura a primera vista.md",
     "Oposiciones Guitarra/TEMA 33 y 34.pdf",
     "Oposiciones Guitarra/TEMA 31 y 32.pdf",
     "Oposiciones Guitarra/TEMA 29 y 30.pdf",
@@ -244,14 +252,6 @@
     "Oposiciones Guitarra/TEMA 16-18.pdf",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",
     "Oposiciones TAI/attachments/{5C54E4C8-F79F-4F11-A4D2-3ABAF7E627C1}.png",
-    "Oposiciones TAI/attachments/{EA0AF256-3735-40BB-97EB-E58D75AE8A37}.png",
-    "Oposiciones TAI/attachments/{481F4662-FD5E-4637-97D0-55A2F32BF782}.png",
-    "Oposiciones TAI/attachments/{9E77E9D6-0368-442F-9C3B-5BCBA178CBC6}.png",
-    "Oposiciones TAI/attachments/{7775B4F6-BAFB-4CBD-99DF-845175C7A528}.png",
-    "Oposiciones TAI/attachments/{F1A0616F-7359-4C82-B60E-2BF19C20FD47} 1.png",
-    "Oposiciones TAI/attachments/{F1A0616F-7359-4C82-B60E-2BF19C20FD47}.png",
-    "Oposiciones TAI/attachments/{1D7B50D5-A41A-44E6-BBE5-DAC4FA41F4A6}.png",
-    "Oposiciones TAI/attachments/{6B126EB5-4EBC-414F-AE35-071A18ECDE28}.png",
     "Oposiciones TAI/attachments",
     "Music/Miscelánea",
     "Proyecto/Phases.canvas",
