@@ -49,7 +49,7 @@
   - Twitter/X: https://x.com/RCSMM_oficial — Perfil oficial verificado (@RCSMM_oficial)
   - Instagram: https://www.instagram.com/conservatorio_superior_madrid — Perfil oficial
   - LinkedIn: No detectado
-  - Facebook: No detectado
+  - Facebook: https://www.facebook.com/RealConservatorioSuperiordeMusicadeMadrid/
 - Otros canales: Webmail (webmail.rcsmm.eu), Campus Virtual Moodle (moodle.rcsmm.eu), Gestor de Citas (rcsmm_citas.scncloud.com), Registro de Trabajos de Alumnos (rta.rcsmm.eu)
 - Plataformas externas:
   - **CODEX** (https://www.codex.pro/) — Gestión académica y calificaciones de alumnos. Plataforma externa de la empresa valenciana Codex (C/ Palleter 11, 46008 Valencia). Sistema SaaS con login.
