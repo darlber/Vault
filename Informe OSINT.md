@@ -2,7 +2,6 @@
 title: Informe OSINT
 date: 2026-06-09
 ---
-
 # Informe OSINT
 
 # 1\. Finalidad del documento

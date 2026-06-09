@@ -124,7 +124,7 @@
   - **PHP 5.6.38** (EOL dic 2018) — Múltiples RCE por deserialización: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768, CVE-2016-5773 (todos CVSS 9.8); inyección comandos CVE-2018-19518 (CVSS 9.8)
   - **Debian 8 Jessie** (EOL jun 2020) — Sin parches de seguridad del sistema desde 2020
   - **Drupal 9** (EOL nov 2023) — Sin parches de seguridad desde 2023
-  - **DKIM configurado** (4 selectors detectados) ==(00_osint_pasivo confirmó DKIM activo)== — Spoofing mitigado parcialmente
+  - **DKIM configurado** (4 selectors detectados) — Spoofing mitigado parcialmente
   - **DMARC en quarantine** (no reject) ==(p=quarantine confirmado)== — Correos suplantados no se rechazan
   - **FTP e Intranet expuestos** sin restricción de IP visible
   - **Sin registro CAA** — Cualquier CA puede emitir certificados
@@ -157,7 +157,7 @@
 > # "PHP 5.6 rce exploit", "Debian 8 local privilege escalation"
 > ```
 
-##### Vía 1: Moodle 2.7 (moodle.rcsmm.eu) — CRÍTICO
+### Vía 1: Moodle 2.7 (moodle.rcsmm.eu) — CRÍTICO
 
 Moodle 2.7.x alcanzó su fin de vida en **noviembre de 2015**. El servidor corre **PHP 5.6.38** sobre **Debian 8 (Jessie)**, ambos también EOL. Este stack completo sin parches hace que la explotación sea trivial:
 
@@ -175,7 +175,7 @@ Moodle 2.7.x alcanzó su fin de vida en **noviembre de 2015**. El servidor corre
 
 3. **RCE vía CVE-2018-19518**: Vulnerabilidad de inyección de comandos en `imap_open()` de PHP 5.6 (CVSS 9.8). Si Moodle usa alguna funcionalidad IMAP, se puede ejecutar código arbitrario.
 
-##### Vía 2: Drupal 9.5.11 (rcsmm.eu) — ALTO
+### Vía 2: Drupal 9.5.11 (rcsmm.eu) — ALTO
 
 Drupal 9 alcanzó EOL en **noviembre de 2023**. No recibe parches de seguridad desde entonces.
 
@@ -191,7 +191,7 @@ Drupal 9 alcanzó EOL en **noviembre de 2023**. No recibe parches de seguridad d
 
 3. **Fuerza bruta de credenciales**: El patrón de emails `nombre.apellido@rcsmm.es` permite enumerar cuentas de profesorado desde los listados públicos. Un diccionario con nombres comunes + contraseñas débiles contra `/user/login` puede dar acceso administrativo.
 
-##### Vía 3: Exposición de servicios internos
+### Vía 3: Exposición de servicios internos
 
 | Servicio | URL | Riesgo |
 |----------|-----|--------|
@@ -201,7 +201,7 @@ Drupal 9 alcanzó EOL en **noviembre de 2023**. No recibe parches de seguridad d
 
 Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir archivos PHP directamente.
 
-##### Resumen de prioridad de explotación
+### Resumen de prioridad de explotación
 
 | Vector | Dificultad | Impacto | Prioridad |
 |--------|-----------|---------|-----------|
@@ -288,9 +288,13 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 
 ### 6.1.4 Registros TXT confirmados (00_osint_pasivo)
 - SPF: `v=spf1 ip4:213.172.39.16/28 ip4:217.172.77.96/27 ip6:2a11:1f40::/29 -all`
+  **Definición**: El registro SPF (Sender Policy Framework) autoriza qué servidores pueden enviar correos en nombre del dominio
 - DMARC: `_dmarc.rcsmm.eu` → `v=DMARC1; p=quarantine; rua=mailto:dmarc-analysis@rcsmm.eu; ruf=mailto:dmarc-forensics@rcsmm.eu`
+  **Definición**: El registro DMARC (Domain-based Message Authentication Reporting) establece cómo los mensajes fallan en verificaciones SPF/DKIM y quién recibe informes
 - Microsoft verification: `MS=ms13757792` (en rcsmm.eu)
+  **Definición**: El token de verificación de Microsoft confirma propiedad del dominio para servicios de Microsoft 365
 - DKIM selectors detectados: `_j086yc6fkdff4hfxni3svuz2k437bxd`, `_2t2d9xz3ow186tdizt6vge7kenyxfoc`, `ls86y0hdz3l881ws89g4592m4qc52s6w`, `8lrtrcstkqy8dx7zw3fkzy3n29hc9wf9` ==(DKIM SÍ existe, contrario a nota anterior)==
+  **Definición**: Los selectores DKIM (DomainKeys Identified Mail) son claves criptográficas usadas para firmar y verificar la autenticidad de los correos salientes
 
 ### 6.1.2 Dominio secundario identificado
 - `rcsmm.es` — Dominio separado para email del profesorado
@@ -324,7 +328,10 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
   - **Crítico inmediato**: Aislar servidor Moodle (PHP 5.6 + Debian 8 + Moodle 2.7 — todo EOL). Migrar a PHP 8.x, Debian 12, Moodle 4.x. Realizar forensia por posible compromiso previo.
   - **Alto**: Implementar DKIM y subir DMARC a `p=reject`. Restringir FTP e Intranet por IP/VPN. Migrar Drupal 9 a versión soportada.
   - **Medio**: Publicar registro CAA, eliminar registros TXT huérfanos, ocultar versión de Apache.
-  - **Bajo**: Habilitar IPv6, monitorización continua de seguridad.
+  **Definición**: El registro CAA (Certification Authority Authorization) impide que cualquier CA emita certificados para este dominio
+  **Definición**: Los registros TXT huérfanos son entradas DNS no utilizadas que pueden ser explotadas para_REDacción
+  **Definición**: Ocultar la versión de Apache previene fingerprinting del servidor
+- **Bajo**: Habilitar IPv6, monitorización continua de seguridad.
 
 - Exposición de datos innecesaria:
   - Cabecera `X-Powered-By: PHP/5.6.38-0+deb8u1` expone versión exacta de PHP y SO
@@ -335,12 +342,15 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
   - Patrón de correo `nombre.apellido@rcsmm.es` permite enumerar emails de cualquier docente del centro fácilmente
   - Dos dominios separados (rcsmm.eu / rcsmm.es) con infraestructura diferente y sin coordinación de seguridad visible
   - **DKIM activo** (mitiga spoofing) pero DMARC en quarantine no reject
+  **Nota**: DKIM solo mitiga parcialmente el spoofing, no lo previene completamente
+  **Definición**: DMARC en modo quarantine (p=quarantine) mantiene los correos sospechosos en cuarentena pero no los rechaza
 
 - Buenas prácticas detectadas:
   - HSTS activo con `max-age=63072000` (2 años)
   - SPF restrictivo con `-all`
   - DMARC implementado (aunque en modo quarantine y no reject)
-  - **DKIM configurado** (4 selectors activos) ==(00_osint_pasivo confirmado)==
+  - **DKIM configurado** (4 selectors activos)
+  **Nota**: DKIM ayuda a prevenir el spoofing de correo pero no bloquea el spam
   - HTTPS nativo sin redirección HTTP (seguro por defecto)
   - Cabecera `X-Frame-Options: SAMEORIGIN` (protección anti-clickjacking)
   - `X-Content-Type-Options: nosniff` activo
