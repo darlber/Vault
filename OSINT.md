@@ -9,10 +9,8 @@
 
 > **Comandos utilizados:**
 > ```bash
-> curl -s https://rcsmm.eu
-> curl -sI https://moodle.rcsmm.eu/login/index.php
-> dig +short rcsmm.eu MX TXT
-> subfinder -d rcsmm.eu -silent
+> # Búsqueda web: "RCSMM historia", "Real Conservatorio Superior de Música Madrid Wikipedia"
+> # Redes sociales: x.com/RCSMM_oficial, instagram.com/conservatorio_superior_madrid
 > ```
 
 ![](attachments/Pasted%20image%2020260609192703.png)
@@ -48,6 +46,7 @@
 > ```bash
 > curl -s https://rcsmm.eu/aviso-legal
 > curl -s https://rcsmm.eu/politica-privacidad
+> # https://ror.org/02w65pw28
 > ```
 
 ### 3.1 Datos fiscales
@@ -80,13 +79,6 @@
 - Dominio secundario `rcsmm.es`: Nameservers `docks10.rzone.de` / `shades03.rzone.de` (Strato)
 
 ### 4.2 Servidor
-
-> **Comandos utilizados:**
-> ```bash
-> curl -sI https://rcsmm.eu
-> curl -sI https://moodle.rcsmm.eu/login/index.php
-> curl -s https://rcsmm.eu/authorize.php | grep -oE 'v=[0-9.]+'
-> ```
 
 #### 4.2.1 Máquina virtual
 - Indicios de uso: No confirmado, pero la segmentación de IPs sugiere infraestructura virtualizada
@@ -138,11 +130,11 @@
 
 El servidor Moodle corre **PHP 5.6.38** sobre **Debian 8 (Jessie)**, ambos EOL. La versión exacta de Moodle no se confirmó pasivamente (no hay banner expuesto), pero el stack tecnológico (YUI 3.13.0/2.9.0, timestamps 2014) es consistente con Moodle 2.7–3.x (EOL 2015–2019). Este stack completo sin parches hace que la explotación sea trivial:
 
-| Componente | Versión confirmada | EOL | CVEs críticos públicos |
-|------------|-------------------|-----|----------------------|
-| PHP | 5.6.38 | dic 2018 | CVE-2016-7124, CVE-2016-5771, CVE-2016-5768 (deserialización RCE, CVSS 9.8) |
-| Debian | 8 Jessie | jun 2020 | Múltiples LPE sin parchear |
-| Moodle | Antigua (2.7–3.x inferido) | 2015–2019 | +150 CVEs sin parchear si 2.7 |
+| Componente | Versión confirmada         | EOL       | CVEs críticos públicos                                                      |
+| ---------- | -------------------------- | --------- | --------------------------------------------------------------------------- |
+| PHP        | 5.6.38                     | dic 2018  | CVE-2016-7124, CVE-2016-5771, CVE-2016-5768 (deserialización RCE, CVSS 9.8) |
+| Debian     | 8 Jessie                   | jun 2020  | Múltiples LPE sin parchear                                                  |
+| Moodle     | Antigua (2.7–3.x inferido) | 2015–2019 | +150 CVEs sin parchear si 2.7                                               |
 
 **Ataque directo para defacement:**
 
