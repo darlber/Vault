@@ -1,8 +1,5 @@
 # Informe OSINT
 
-> **Metodología y comandos empleados:**
-> Toda la información se recopiló mediante OSINT pasivo con herramientas de línea de comandos nativas de Windows PowerShell (`Resolve-DnsName`, `curl.exe`) y servicios web gratuitos (dnsdumpster.com, securitytrails.com, crt.sh, whatsmydns.net, dmarcian.com, mxtoolbox.com). No se realizó escaneo activo de puertos ni pruebas de intrusión.
-
 ## 1. Finalidad del documento
 - Objetivo del informe: Recopilación de información pública (OSINT pasivo) sobre `rcsmm.eu` — Real Conservatorio Superior de Música de Madrid (RCSMM)
 - Alcance: Dominio principal, subdominios, infraestructura DNS, hosting, tecnologías, personal identificable, registros de seguridad email
@@ -33,13 +30,6 @@
 
 ### 2.3 Contacto y redes sociales
 
-> **Comandos y fuentes:**
-> ```powershell
-> curl.exe -s https://rcsmm.eu | Select-String -Pattern "href='https://(twitter|instagram|facebook|youtube|linkedin)"
-> # Búsqueda manual en X/Twitter e Instagram
-> curl.exe -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM  # horarios públicos sin auth
-> # codex.pro y scncloud.com detectados en footer del HTML de rcsmm.eu
-> ```
 - Página web oficial: https://rcsmm.eu
 - Redes sociales:
   - Twitter/X: https://x.com/RCSMM_oficial — Perfil oficial verificado (@RCSMM_oficial)
