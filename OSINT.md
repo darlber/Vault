@@ -120,18 +120,18 @@
 
 #### 4.2.3 Vulnerabilidades
 - Solo fuentes públicas (CVE, informes, etc.):
-  - **Moodle 2.7.x** (EOL nov 2015) — +150 CVEs sin parchear. Críticos: CVE-2017-2641 (SQLi → RCE, CVSS 9.8)
-  - **PHP 5.6.38** (EOL dic 2018) — Múltiples RCE por deserialización: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768, CVE-2016-5773 (todos CVSS 9.8); inyección comandos CVE-2018-19518 (CVSS 9.8)
-  - **Debian 8 Jessie** (EOL jun 2020) — Sin parches de seguridad del sistema desde 2020
-  - **Drupal 9** (EOL nov 2023) — Sin parches de seguridad desde 2023
+  - **PHP 5.6.38** (EOL dic 2018, confirmado por cabecera `X-Powered-By`) — Múltiples RCE por deserialización: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768, CVE-2016-5773 (todos CVSS 9.8); inyección comandos CVE-2018-19518 (CVSS 9.8)
+  - **Debian 8 Jessie** (EOL jun 2020, inferido de `deb8u1` en versión PHP) — Sin parches de seguridad del sistema desde 2020
+  - **Drupal 9.5.11** (EOL nov 2023, confirmado por `/authorize.php`) — Sin parches de seguridad desde 2023
+  - **Moodle** — Versión exacta no confirmada pasivamente; stack (PHP 5.6, Debian 8, YUI 2014) consistente con versión antigua (2.7–3.x EOL)
   - **DKIM configurado** (4 selectors detectados) — Spoofing mitigado parcialmente
   - **DMARC en quarantine** (no reject)  — Correos suplantados no se rechazan
-  - **FTP e Intranet expuestos** sin restricción de IP visible
+  - **FTP e Intranet expuestos** (DNS confirma subdominios ftp.rcsmm.eu e intranet.rcsmm.eu en 213.172.39.24)
   - **Sin registro CAA** — Cualquier CA puede emitir certificados
 - Referencias:
-  - Tenable: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768, CVE-2017-2641
+  - Tenable: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768
   - NVD: CVE-2018-19518, CVE-2015-6836, CVE-2016-4538
-  - OSV.dev: Múltiples CVEs PHP/Moodle
+  - OSV.dev: Múltiples CVEs PHP
   - Wikipedia: https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
 
 #### 4.2.4 Análisis de vectores de explotación (defacement)
@@ -142,38 +142,37 @@
 > curl -sI https://moodle.rcsmm.eu/login/index.php
 > # → X-Powered-By: PHP/5.6.38-0+deb8u1  (Debian 8 + PHP 5.6 EOL)
 > # → MoodleSession cookie confirma Moodle activo
->
+> >
 > curl -s https://rcsmm.eu/authorize.php
 > # → eu_cookie_compliance.min.js?v=9.5.11  → Drupal 9.5.11 (EOL nov 2023)
->
+> >
 > curl -sI https://rcsmm.eu/user/register
-> # → 200 OK → registro de usuarios abierto
->
+> # → 403 Forbidden → registro de usuarios NO abierto
+> >
 > curl -s https://rcsmm.eu/user/login
 > # → formulario login presente
->
+> >
 > # Búsqueda exploits públicos:
-> # Google: "Moodle 2.7 RCE exploit", "Drupal 9 RCE gadget chain",
-> # "PHP 5.6 rce exploit", "Debian 8 local privilege escalation"
+> # Google: "Drupal 9 RCE gadget chain", "PHP 5.6 rce exploit", "Debian 8 local privilege escalation"
 > ```
 
-### Vía 1: Moodle 2.7 (moodle.rcsmm.eu) — CRÍTICO
+### Vía 1: Stack Moodle antiguo (moodle.rcsmm.eu) — CRÍTICO
 
-Moodle 2.7.x alcanzó su fin de vida en **noviembre de 2015**. El servidor corre **PHP 5.6.38** sobre **Debian 8 (Jessie)**, ambos también EOL. Este stack completo sin parches hace que la explotación sea trivial:
+El servidor Moodle corre **PHP 5.6.38** sobre **Debian 8 (Jessie)**, ambos EOL. La versión exacta de Moodle no se confirmó pasivamente (no hay banner expuesto), pero el stack tecnológico (YUI 3.13.0/2.9.0, timestamps 2014) es consistente con Moodle 2.7–3.x (EOL 2015–2019). Este stack completo sin parches hace que la explotación sea trivial:
 
-| Componente | Versión | EOL | CVEs críticos públicos |
-|------------|---------|-----|----------------------|
-| Moodle | 2.7.x | nov 2015 | CVE-2017-2641 (SQLi→RCE, CVSS 9.8), +150 CVEs sin parchear |
+| Componente | Versión confirmada | EOL | CVEs críticos públicos |
+|------------|-------------------|-----|----------------------|
 | PHP | 5.6.38 | dic 2018 | CVE-2016-7124, CVE-2016-5771, CVE-2016-5768 (deserialización RCE, CVSS 9.8) |
 | Debian | 8 Jessie | jun 2020 | Múltiples LPE sin parchear |
+| Moodle | Antigua (2.7–3.x inferido) | 2015–2019 | +150 CVEs sin parchear si 2.7 |
 
 **Ataque directo para defacement:**
 
-1. **Plugin/tema malicioso**: Moodle 2.7 permite instalar plugins ZIP desde la interfaz de administración. Si se obtiene acceso de administrador (credenciales por defecto/débiles), se sube un tema con una webshell PHP → `system("echo 'HACKED' > /var/www/html/index.php")`
+1. **PHPGGC + unserialize**: PHP 5.6 es especialmente vulnerable a ataques de deserialización (`CVE-2016-7124`, CVSS 9.8). Cadenas de gadgets públicas para Moodle/Drupal disponibles.
 
-2. **PHPGGC + unserialize**: La cadena de gadgets `Moodle` o directamente el `Drupal9/RCE1` si el servidor también ejecuta código Drupal. PHP 5.6 es especialmente vulnerable a ataques de deserialización (`CVE-2016-7124`, CVSS 9.8).
+2. **RCE vía CVE-2018-19518**: Vulnerabilidad de inyección de comandos en `imap_open()` de PHP 5.6 (CVSS 9.8). Si Moodle usa funcionalidad IMAP, se puede ejecutar código arbitrario.
 
-3. **RCE vía CVE-2018-19518**: Vulnerabilidad de inyección de comandos en `imap_open()` de PHP 5.6 (CVSS 9.8). Si Moodle usa alguna funcionalidad IMAP, se puede ejecutar código arbitrario.
+3. **Plugin/tema malicioso**: *Si* la versión de Moodle permite instalación de plugins ZIP desde admin y se obtienen credenciales (fuerza bruta, por defecto/débiles), subida de webshell PHP.
 
 ### Vía 2: Drupal 9.5.11 (rcsmm.eu) — ALTO
 
@@ -187,7 +186,7 @@ Drupal 9 alcanzó EOL en **noviembre de 2023**. No recibe parches de seguridad d
 
 1. **Cadena de gadgets Drupal9/RCE1** (PHPGGC): Desde 2023 existe una cadena pública que permite RCE en Drupal 8.9.6 – 9.4.9. En 9.5.11 aún podría ser funcional si están presentes las dependencias Guzzle/Laminas. Requiere un punto de entrada `unserialize()` desde otro módulo.
 
-2. **CVE-2025-31674** (Object Injection, CVSS 7.5): Publicado en marzo 2025. Afecta a Drupal 9.x. **Requiere autenticación** con privilegios bajos. El registro de usuarios en `/user/register` está **abierto** (devuelve 200 OK), por lo que cualquiera puede crear una cuenta y probar este exploit.
+2. **CVE-2025-31674** (Object Injection, CVSS 7.5): Publicado en marzo 2025. Afecta a Drupal 9.x. **Requiere autenticación** con privilegios bajos. El registro de usuarios en `/user/register` devuelve **403 Forbidden** (no abierto), limitando este vector.
 
 3. **Fuerza bruta de credenciales**: El patrón de emails `nombre.apellido@rcsmm.es` permite enumerar cuentas de profesorado desde los listados públicos. Un diccionario con nombres comunes + contraseñas débiles contra `/user/login` puede dar acceso administrativo.
 
@@ -205,15 +204,15 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 
 | Vector | Dificultad | Impacto | Prioridad |
 |--------|-----------|---------|-----------|
-| Moodle 2.7 plugin upload | Baja | Defacement + RCE | ★★★★★ |
-| PHP 5.6 CVE-2018-19518 | Baja | RCE | ★★★★★ |
+| PHP 5.6 CVE-2018-19518 / deserialización | Baja | RCE | ★★★★★ |
+| Stack Moodle antiguo (PHP 5.6 + Debian 8) | Baja | RCE | ★★★★★ |
 | Drupal fuerza bruta | Media | Acceso admin | ★★★★☆ |
 | Drupal CVE-2025-31674 | Alta (requiere auth) | Object Injection | ★★★☆☆ |
-| FTP anónimo | Baja | Subida archivos | ★★★★☆ |
+| FTP anónimo (si habilitado) | Baja | Subida archivos | ★★★★☆ |
 
 #### 4.2.5 Tecnologías usadas
-- CMS: Drupal 9 (web principal) + Moodle ~2.7.x (campus virtual)
-- Frameworks: YUI 3.13.0 / YUI2 2.9.0 (Moodle), PHP 5.6.38
+- CMS: Drupal 9.5.11 (web principal, confirmado) + Moodle (campus virtual, versión no confirmada pasivamente; stack consistente con 2.7–3.x EOL)
+- Frameworks: YUI 3.13.0 / YUI2 2.9.0 (Moodle), PHP 5.6.38 (confirmado por cabecera)
 - Librerías: Apache httpd
 - Analíticas: No detectadas
 - CDN: No detectada
@@ -286,7 +285,7 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
   - `dmarc-forensics@rcsmm.eu` — Informes forenses DMARC (RUF)
 - Formatos detectados: `nombre@rcsmm.eu` (administrativo) / `nombre.apellido@rcsmm.es` (profesorado, sobre Office 365 / Exchange Online)
 
-### 6.1.4 Registros TXT confirmados (00_osint_pasivo)
+### 6.1.4 Registros TXT confirmados
 - SPF: `v=spf1 ip4:213.172.39.16/28 ip4:217.172.77.96/27 ip6:2a11:1f40::/29 -all`
   **Definición**: El registro SPF (Sender Policy Framework) autoriza qué servidores pueden enviar correos en nombre del dominio
 - DMARC: `_dmarc.rcsmm.eu` → `v=DMARC1; p=quarantine; rua=mailto:dmarc-analysis@rcsmm.eu; ruf=mailto:dmarc-forensics@rcsmm.eu`
@@ -298,13 +297,13 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 
 ### 6.1.2 Dominio secundario identificado
 - `rcsmm.es` — Dominio separado para email del profesorado
-- Patrón de correo: `nombre.apellido@rcsmm.es` (ej: Javier Somoza → `javier.somozadepablo@rcsmm.es`)
+- Patrón de correo: `nombre.apellido@rcsmm.es`
 - Infraestructura: Hosting en Strato AG (Alemania), correo en Microsoft 365 / Exchange Online (Outlook)
 - SPF: `v=spf1 include:spf.protection.outlook.com -all`
 - Verificación Microsoft: `MS=ms87766292`
 - **Implicación OSINT**: Conociendo la lista de profesores (25+ nombres del Departamento de Cuerda), se puede inferir el correo de cualquier docente del centro.
 
-### 6.1.3 Registros MX confirmados (00_osint_pasivo)
+### 6.1.3 Registros MX confirmados 
 - `pop3.rcsmm.eu` (priority 10)
 - `mail.rcsmm.eu` (priority 10)
 - `smtp.rcsmm.eu` (priority 10)
@@ -325,7 +324,7 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 > - Capacidad de fingerprinting del servidor
 > - Exposición de datos personales en fuentes públicas
 - Mejora de seguridad visible:
-  - **Crítico inmediato**: Aislar servidor Moodle (PHP 5.6 + Debian 8 + Moodle 2.7 — todo EOL). Migrar a PHP 8.x, Debian 12, Moodle 4.x. Realizar forensia por posible compromiso previo.
+  - **Crítico inmediato**: Aislar servidor Moodle (PHP 5.6 + Debian 8 + Moodle antiguo EOL — todo EOL). Migrar a PHP 8.x, Debian 12, Moodle 4.x. Realizar forensia por posible compromiso previo.
   - **Alto**: Implementar DKIM y subir DMARC a `p=reject`. Restringir FTP e Intranet por IP/VPN. Migrar Drupal 9 a versión soportada.
   - **Medio**: Publicar registro CAA, eliminar registros TXT huérfanos, ocultar versión de Apache.
   **Definición**: El registro CAA (Certification Authority Authorization) impide que cualquier CA emita certificados para este dominio
@@ -355,17 +354,16 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
   - Cabecera `X-Frame-Options: SAMEORIGIN` (protección anti-clickjacking)
   - `X-Content-Type-Options: nosniff` activo
   - Nameservers redundantes (4 servidores DNS)
-### 8. CVEs críticos específicos del stack Moodle
+### 8. CVEs críticos del stack  (PHP 5.6.38 + Debian 8 + Drupal 9.5.11)
 
-| CVE | Componente | CVSS | Descripción |
-|---|---|---|---|
-| **CVE-2017-2641** | Moodle 2.x/3.x | **9.8** | SQL injection vía preferencias de usuario. RCE potencial. |
-| **CVE-2016-7124** | PHP 5.6.x < 5.6.25 | **9.8** | Use-after-free en `unserialize()`. RCE remoto sin autenticar. |
-| **CVE-2016-5771** | PHP 5.6.x < 5.6.23 | **9.8** | Use-after-free en SPL `unserialize()`. RCE remoto. |
-| **CVE-2016-5768** | PHP 5.6.x < 5.6.23 | **9.8** | Doble liberación en mbstring. RCE remoto. |
-| **CVE-2016-5773** | PHP 5.6.x < 5.6.23 | **9.8** | Use-after-free en zip `unserialize()`. RCE remoto. |
-| **CVE-2018-19518** | PHP 5.6.x < 5.6.39 | **9.8** | Inyección de comandos vía `imap_open()`. RCE remoto. |
-| **CVE-2016-4538** | PHP 5.6.x < 5.6.21 | **9.8** | Modificación de estructuras en `bcpowmod()`. RCE potencial. |
-| **CVE-2015-6836** | PHP 5.6.x < 5.6.13 | **9.8** | Type confusion en `SoapClient`. RCE vía serialización. |
-| CVE-2015-5266 | Moodle 2.7.x < 2.7.10 | 8.8 | SQL injection en meta enrolment. Escalada a manager. |
-| CVE-2016-2192 | Moodle 2.7.x < 2.7.12 | 8.1 | Escalada de privilegios por validación incorrecta de capabilities. |
+| CVE                | Componente         | CVSS    | Descripción                                                   |
+| ------------------ | ------------------ | ------- | ------------------------------------------------------------- |
+| **CVE-2016-7124**  | PHP 5.6.x < 5.6.25 | **9.8** | Use-after-free en `unserialize()`. RCE remoto sin autenticar. |
+| **CVE-2016-5771**  | PHP 5.6.x < 5.6.23 | **9.8** | Use-after-free en SPL `unserialize()`. RCE remoto.            |
+| **CVE-2016-5768**  | PHP 5.6.x < 5.6.23 | **9.8** | Doble liberación en mbstring. RCE remoto.                     |
+| **CVE-2016-5773**  | PHP 5.6.x < 5.6.23 | **9.8** | Use-after-free en zip `unserialize()`. RCE remoto.            |
+| **CVE-2018-19518** | PHP 5.6.x < 5.6.39 | **9.8** | Inyección de comandos vía `imap_open()`. RCE remoto.          |
+| **CVE-2016-4538**  | PHP 5.6.x < 5.6.21 | **9.8** | Modificación de estructuras en `bcpowmod()`. RCE potencial.   |
+| **CVE-2015-6836**  | PHP 5.6.x < 5.6.13 | **9.8** | Type confusion en `SoapClient`. RCE vía serialización.        |
+| **CVE-2024-55638** | Drupal 8.9.6–9.4.9 | **9.8** | Cadena de gadgets (PHPGGC). RCE si `unserialize()` expuesto.  |
+| **CVE-2025-31674** | Drupal 9.x         | 7.5     | Object Injection. Requiere autenticación.                     |

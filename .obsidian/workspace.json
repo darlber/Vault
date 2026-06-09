@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informe OSINT.md",
+                "file": "OSINT.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Informe OSINT"
+              "title": "Outline of OSINT"
             }
           },
           {
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,9 +209,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "447c60c6f620624e",
   "lastOpenFiles": [
-    "Informe OSINT.md",
+    "README.md",
+    "Informe.md",
     "OSINT.md",
     "attachments/{F9695896-56CD-46C5-ACDD-8FFCC32F2C0C}.png",
     "attachments/Pasted image 20260609192703.png",
