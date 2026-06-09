@@ -2,31 +2,31 @@
 
 ## Índice
 
-1. [Introducción](#1.%20Introducción)
-2. [Definición y tipos de improvisación musical. Improvisación dirigida y libre](#2.%20Definición%20y%20tipos%20de%20improvisación%20musical.%20Improvisación%20dirigida%20y%20libre)
-3. [Aportaciones de la improvisación a la formación integral del alumnado](#3.%20Aportaciones%20de%20la%20improvisación%20a%20la%20formación%20integral%20del%20alumnado)
-4. [Presencia de la improvisación en la historia de la música](#4.%20Presencia%20de%20la%20improvisación%20en%20la%20historia%20de%20la%20música)
-5. [Improvisación musical en la clase de instrumento](#5.%20Improvisación%20musical%20en%20la%20clase%20de%20instrumento)
-	1. [Herramienta para la mejora de la interpretación](#5.1.%20Herramienta%20para%20la%20mejora%20de%20la%20interpretación)
-	2. [Metodología y actividades de improvisación](#5.2.%20Metodología%20y%20actividades%20de%20improvisación)
-	3. [Metodología IEM (Emilio Molina)](#5.3.%20Metodología%20IEM%20(Emilio%20Molina))
-6. [La improvisación en el jazz](#6.%20La%20improvisación%20en%20el%20jazz)
-	1. [Características generales](#6.1.%20Características%20generales)
-	2. [Estrategias de improvisación](#6.2.%20Estrategias%20de%20improvisación)
-7. [Uso de nuevos lenguajes y notaciones en la improvisación](#7.%20Uso%20de%20nuevos%20lenguajes%20y%20notaciones%20en%20la%20improvisación)
-	1. [Cifrado armónico en el jazz](#7.1.%20Cifrado%20armónico%20en%20el%20jazz)
-	2. [Notación contemporánea](#7.2.%20Notación%20contemporánea)
-8. [Conclusiones](#8.%20Conclusiones)
-9. [Bibliografía](#9.%20Bibliografía)
+1. [Introducción](#Introducción)
+2. [Definición y tipos de improvisación musical. Improvisación dirigida y libre](#Definición%20y%20tipos%20de%20improvisación%20musical.%20Improvisación%20dirigida%20y%20libre)
+3. [Aportaciones de la improvisación a la formación integral del alumnado](#Aportaciones%20de%20la%20improvisación%20a%20la%20formación%20integral%20del%20alumnado)
+4. [Presencia de la improvisación en la historia de la música](#Presencia%20de%20la%20improvisación%20en%20la%20historia%20de%20la%20música)
+5. [Improvisación musical en la clase de instrumento](#Improvisación%20musical%20en%20la%20clase%20de%20instrumento)
+	1. [Herramienta para la mejora de la interpretación](#Herramienta%20para%20la%20mejora%20de%20la%20interpretación)
+	2. [Metodología y actividades de improvisación](#Metodología%20y%20actividades%20de%20improvisación)
+	3. [Metodología IEM (Emilio Molina)](#Metodología%20IEM%20(Emilio%20Molina))
+6. [La improvisación en el jazz](#La%20improvisación%20en%20el%20jazz)
+	1. [Características generales](#Características%20generales)
+	2. [Estrategias de improvisación](#Estrategias%20de%20improvisación)
+7. [Uso de nuevos lenguajes y notaciones en la improvisación](#Uso%20de%20nuevos%20lenguajes%20y%20notaciones%20en%20la%20improvisación)
+	1. [Cifrado armónico en el jazz](#Cifrado%20armónico%20en%20el%20jazz)
+	2. [Notación contemporánea](#Notación%20contemporánea)
+8. [Conclusiones](#Conclusiones)
+9. [Bibliografía](#Bibliografía)
 
-## 1. Introducción
+## Introducción
 
 - Las metodologías basadas en la improvisación musical constituyen un instrumento excepcional para el desarrollo de la creatividad y la educación integral del alumnado
 - En el terreno profesional, es una técnica obligada para el intérprete de jazz, pero también ha existido en la música clásica desde sus inicios
 - El enunciado del tema se ha ampliado con nuevos epígrafes para reflejar la importancia de la improvisación en los centros de educación musical actuales
 - El tema se estructura en 9 apartados: definición y tipos, beneficios formativos, perspectiva histórica, aplicación en el aula de instrumento, jazz, nuevos lenguajes y notaciones
 
-## 2. Definición y tipos de improvisación musical. Improvisación dirigida y libre
+## Definición y tipos de improvisación musical. Improvisación dirigida y libre
 
 - **Violeta Hemsy de Gainza (1983)**: «ejecución sonora instantánea producida por un individuo o grupo de individuos que abarca desde la libertad total hasta la sujeción a pautas estrictas, desde la situación espontánea hasta la participación de la conciencia mental»[^1]
 - **Pasqual Pastor (1997)**: «la forma que mejor representa el juego simbólico sonoro; nace de la curiosidad manipuladora sobre la sonoridad de los instrumentos musicales en la búsqueda de significatividad»[^2]
@@ -48,7 +48,7 @@
 - **RD 1577/2006**: «Cultivar la improvisación y la transposición como elementos inherentes a la creatividad musical»
 - Actualmente existen asignaturas optativas de improvisación, pero falta su generalización desde la asignatura de Instrumento
 
-## 3. Aportaciones de la improvisación a la formación integral del alumnado
+## Aportaciones de la improvisación a la formación integral del alumnado
 
 - Desde mediados del s. XX, los pedagogos más influyentes han establecido las ventajas de la improvisación para la formación integral del individuo
 - Uno de los objetivos básicos de la educación musical es estimular la comunicación y la expresión para el desarrollo social, cognitivo y psicomotor
@@ -58,7 +58,7 @@
 - **Alsina (1999)**: «Hacer música mediante la improvisación implica la intervención del cuerpo entero, el equilibrio, la coordinación audio-viso-corporal y el establecimiento de combinaciones espacio-temporales»[^4]
 - **Consuelo Arguedas Quesada**: «Al integrar la improvisación musical con el quehacer cotidiano escolar se desarrolla la atención, la memoria, el razonamiento, la imaginación, la expresión y la creatividad»[^5]
 
-## 4. Presencia de la improvisación en la historia de la música
+## Presencia de la improvisación en la historia de la música
 
 - La improvisación ha estado presente en todas las épocas y manifestaciones musicales; se encuentra en el origen de toda creación y composición musical
 - La separación del rol de intérprete y compositor a partir del s. XIX hizo que la improvisación perdiera peso, pero no siempre fue así
@@ -71,9 +71,9 @@
 - La irrupción del jazz revitalizó el arte de la improvisación
 - La revitalización pedagógica vino de la mano de los grandes pedagogos del s. XX (Willems, Hemsy de Gainza, Dalcroze, Orff), inicialmente centrados en la enseñanza general. En los últimos años estas metodologías están apareciendo lentamente en los conservatorios[^6][^7]
 
-## 5. Improvisación musical en la clase de instrumento
+## Improvisación musical en la clase de instrumento
 
-### 5.1. Herramienta para la mejora de la interpretación
+### Herramienta para la mejora de la interpretación
 
 - La interpretación musical es el principal objetivo en los conservatorios. Tradicionalmente se ha basado en un adiestramiento técnico para leer partituras, que acaba reproduciendo perfiles profesionales restringidos
 - Es necesario ampliar la formación técnica con análisis e improvisación
@@ -84,7 +84,7 @@
 - La improvisación permite conocer mejor las intenciones del compositor, comprender sus motivaciones estéticas y su técnica compositiva, y desarrollar la sensibilidad artística y la creatividad
 - **Emilio Molina**: «La improvisación aporta control del lenguaje y nos capacita para confeccionar nuestras propias frases, lo que nos permite repensar y adaptar el texto original a nuestra capacidad y sensibilidad. Nos coloca en una situación de privilegio para recrear la partitura del compositor»
 
-### 5.2. Metodología y actividades de improvisación
+### Metodología y actividades de improvisación
 
 - Los instrumentos melódicos requieren especialmente el aprendizaje de la improvisación para trabajar los procesos armónicos
 - Es necesaria una actitud abierta del profesor para establecer un clima de experimentación y libertad, perdiendo el miedo a «alterar la voluntad del compositor»
@@ -103,7 +103,7 @@
 5. **Variaciones sobre un tema conocido**: improvisar variaciones respetando esquemas rítmicos y tonales básicos
 6. **Acompañamiento con distintos objetos**: improvisar acompañamientos sin instrumentos (percusión corporal, objetos del aula) para comprender texturas y patrones rítmicos
 
-### 5.3. Metodología IEM (Emilio Molina)
+### Metodología IEM (Emilio Molina)
 
 - El Instituto de Educación Musical (IEM) ha sistematizado la aplicación de la improvisación en conservatorios y escuelas de música[^8]
 - Principios:
@@ -115,9 +115,9 @@
 - Objetivos de la improvisación: a) interiorizar reglas del lenguaje, b) aportar recursos de trabajo adaptables a cualquier alumno y nivel, c) desarrollar capacidad auditiva, memorización, interpretación, capacidad expresiva e imaginación creadora
 - Aportaciones de la metodología: globalización, aplicación de la improvisación como proceso inherente, incorporación temprana de la armonía, potenciación del análisis, desarrollo de la creatividad, articulación en unidades didácticas[^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20]
 
-## 6. La improvisación en el jazz
+## La improvisación en el jazz
 
-### 6.1. Características generales
+### Características generales
 
 - La implantación del currículo LOGSE en 1995 definió la especialidad de Jazz en enseñanzas superiores
 - Todos los músicos de jazz improvisan durante la mayor parte de la interpretación, con excepción del «head» (melodía inicial) que sirve como marco estructural
@@ -127,7 +127,7 @@
 - La partitura de jazz muestra una línea melódica con «cifrado americano», sin notas escritas para el acompañamiento
 - Lo único prefijado es la melodía, el arreglo, el orden de solos y la finalización; estos elementos pueden variar en cada interpretación[^21][^22]
 
-### 6.2. Estrategias de improvisación
+### Estrategias de improvisación
 
 - La construcción de un solo debe guardar coherencia con la estructura armónica y manifestar la creatividad y originalidad del músico
 - **Pensamiento melódico**: generar ideas melódicas a partir del tema (variaciones, adornos, segundas voces, citas de otros temas)
@@ -139,9 +139,9 @@
 - Escalas utilizadas: diatónicas, pentatónicas, hexágonas (sin semitonos), escalas alteradas
 - **Forma musical**: esquemas A-A', A-A-B, A-A-B-A. Es común organizar el solo desarrollando una misma idea durante un chorus completo o una sección[^23][^24][^25][^26]
 
-## 7. Uso de nuevos lenguajes y notaciones en la improvisación
+## Uso de nuevos lenguajes y notaciones en la improvisación
 
-### 7.1. Cifrado armónico en el jazz
+### Cifrado armónico en el jazz
 
 - El «cifrado americano» es el sistema de notación armónica más aplicado en jazz y música moderna
 - Características:
@@ -153,7 +153,7 @@
   - Las inversiones se reflejan en forma de fracción (C/E = Do mayor en 1ª inversión)
   - Correspondencia letra-nota: C=Do, D=Re, E=Mi, F=Fa, G=Sol, A=La, B=Si
 
-### 7.2. Notación contemporánea
+### Notación contemporánea
 
 - Con la aparición de nuevas formas de crear música e instrumentos electrónicos, la notación ha evolucionado rápidamente desde principios del s. XX
 - La improvisación ha pasado a formar parte de las composiciones en movimientos vanguardistas:
@@ -164,7 +164,7 @@
 - Cada compositor usa nuevos símbolos y formas de escritura (dibujos, fórmulas matemáticas, nuevas grafías) explicadas al inicio de la partitura[^27][^28]
 - Estas nuevas grafías son el lenguaje de la improvisación musical en los siglos XX y XXI. El contacto con ellas es fundamental para los alumnos desde las primeras etapas educativas[^29]
 
-## 8. Conclusiones
+## Conclusiones
 
 - La improvisación musical debe ser una práctica extendida en las aulas de instrumento de todos los conservatorios, tal como indican los grandes pedagogos del s. XX
 - No podemos reducir las competencias del alumnado a la interpretación de partituras, por brillante que sea. La educación de la creatividad es irrenunciable para una auténtica educación artística
@@ -172,7 +172,7 @@
 - En el terreno profesional, es fundamental el dominio de otros tipos de música para una carrera musical sostenible
 - Es necesario adquirir competencias profesionales para interpretar nuevos lenguajes musicales y un perfil profesional versátil que amplíe las posibilidades laborales
 
-## 9. Bibliografía #REVISAR_OPENCODE
+## Bibliografía #REVISAR_OPENCODE
 
 - Alsina, P. (1999). *La música en la escuela infantil (0-6)*. Barcelona: Graó
 - Arguedas Quesada, C. (2003). «La improvisación musical y el currículo escolar». *Actualidades Investigativas en Educación*, 3(2). Universidad de Costa Rica

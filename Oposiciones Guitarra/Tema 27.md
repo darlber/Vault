@@ -2,21 +2,21 @@
 
 ## Índice
 
-1. [Introducción](#1.%20Introducción)
-2. [Concepto de creatividad](#2.%20Concepto%20de%20creatividad)
-3. [Creatividad musical en las diferentes etapas del desarrollo humano](#3.%20Creatividad%20musical%20en%20las%20diferentes%20etapas%20del%20desarrollo%20humano)
-4. [Desarrollo de la creatividad en los conservatorios de música](#4.%20Desarrollo%20de%20la%20creatividad%20en%20los%20conservatorios%20de%20música)
-	1. [Pedagogía que propicie la creatividad](#4.1.%20Pedagogía%20que%20propicie%20la%20creatividad)
-	2. [Creatividad y Proyecto Educativo de Centro](#4.2.%20Creatividad%20y%20Proyecto%20Educativo%20de%20Centro)
-	3. [Organización del aula, actitud del profesor y creatividad](#4.3.%20Organización%20del%20aula%2C%20actitud%20del%20profesor%20y%20creatividad)
-5. [Creatividad y desarrollo instrumental y musical](#5.%20Creatividad%20y%20desarrollo%20instrumental%20y%20musical)
-	1. [Técnica, capacidad expresiva, inteligencia musical y personalidad artística](#5.1.%20Técnica%2C%20capacidad%20expresiva%2C%20inteligencia%20musical%20y%20personalidad%20artística)
-	2. [La improvisación musical como técnica pedagógica](#5.2.%20La%20improvisación%20musical%20como%20técnica%20pedagógica)
-6. [Desarrollo del espíritu emprendedor](#6.%20Desarrollo%20del%20espíritu%20emprendedor)
-7. [Conclusiones](#7.%20Conclusiones)
-8. [Bibliografía](#8.%20Bibliografía)
+1. [Introducción](#Introducción)
+2. [Concepto de creatividad](#Concepto%20de%20creatividad)
+3. [Creatividad musical en las diferentes etapas del desarrollo humano](#Creatividad%20musical%20en%20las%20diferentes%20etapas%20del%20desarrollo%20humano)
+4. [Desarrollo de la creatividad en los conservatorios de música](#Desarrollo%20de%20la%20creatividad%20en%20los%20conservatorios%20de%20música)
+	1. [Pedagogía que propicie la creatividad](#Pedagogía%20que%20propicie%20la%20creatividad)
+	2. [Creatividad y Proyecto Educativo de Centro](#Creatividad%20y%20Proyecto%20Educativo%20de%20Centro)
+	3. [Organización del aula, actitud del profesor y creatividad](#Organización%20del%20aula%2C%20actitud%20del%20profesor%20y%20creatividad)
+5. [Creatividad y desarrollo instrumental y musical](#Creatividad%20y%20desarrollo%20instrumental%20y%20musical)
+	1. [Técnica, capacidad expresiva, inteligencia musical y personalidad artística](#Técnica%2C%20capacidad%20expresiva%2C%20inteligencia%20musical%20y%20personalidad%20artística)
+	2. [La improvisación musical como técnica pedagógica](#La%20improvisación%20musical%20como%20técnica%20pedagógica)
+6. [Desarrollo del espíritu emprendedor](#Desarrollo%20del%20espíritu%20emprendedor)
+7. [Conclusiones](#Conclusiones)
+8. [Bibliografía](#Bibliografía)
 
-## 1. Introducción
+## Introducción
 
 - El arte es por excelencia el reino de la creatividad, sinónimo de movimiento y libertad; constituye el punto de partida y de llegada de casi todos los procesos naturales de desarrollo
 - La música es considerada un campo creativo por excelencia, aunque el papel creativo ha recaído casi exclusivamente en el compositor
@@ -29,7 +29,7 @@
 - Ejemplo: RD 1577/2006 incluye como objetivo específico «cultivar la improvisación y la transposición como elementos inherentes a la creatividad musical»
 - Para generalizar la enseñanza de la creatividad en conservatorios es necesario un cambio metodológico profundo y superar el excesivo academicismo y las prácticas individualistas
 
-## 2. Concepto de creatividad
+## Concepto de creatividad
 
 - **Gottfried Heinelt**: «Entendemos por creatividad aquellas aptitudes, fuerzas y talentos que tratamos de determinar por medio de nociones complejas tales como la intuición, imaginación, riqueza de ideas, inventiva, originalidad como pensamiento productivo, solución de problemas e imaginación creadora»
 - **S. de la Torre (2003)**: «Creatividad es la decisión de hacer algo valioso para satisfacción propia y beneficio de los demás»
@@ -49,18 +49,18 @@
 - **Autorrealización**: dirigido al logro de la plenitud de realización. Para Maslow, la creatividad es característica de quienes se realizan en la vida
 - **Apertura**: presencia de sensibilidad y tolerancia, rasgos susceptibles de ser aprendidos
 
-## 3. Creatividad musical en las diferentes etapas del desarrollo humano
+## Creatividad musical en las diferentes etapas del desarrollo humano
 
 - **Primer período: Imitación**. En todo proceso de aprendizaje aparece una etapa imitativa (el niño refleja el gesto de la madre). A los 2-3 años reproduce indicaciones, pero ya se observan gestos creativos
 - **Segundo período: Improvisación**. Paso de la imitación a la improvisación en un momento difícil de precisar. Padres y educadores deben estimular esta capacidad. También denominado período analítico: se perfilan timbre, melodía y ritmo
 - **Tercer período: Experimentación**. Se produce en la adolescencia; se descubren las posibilidades de la armonía. La capacidad creativa aumenta; se buscan nuevas fórmulas de expresión con mayor complejidad
 - **Cuarto período: Creación**. El conocimiento musical permite explorar diferentes puertas creativas: fusión de ritmos de diferentes culturas y paisajes sonoros. Acciones más complejas y sofisticadas
 
-## 4. Desarrollo de la creatividad en los conservatorios de música
+## Desarrollo de la creatividad en los conservatorios de música
 
 - El desarrollo de la creatividad musical exige actuaciones en diversos niveles: criterios pedagógicos del profesorado, organización del aula, organización general del centro y Proyecto Educativo
 
-### 4.1. Pedagogía que propicie la creatividad
+### Pedagogía que propicie la creatividad
 
 - Es necesario transformar las pedagogías del pasado para adecuar la enseñanza musical a los retos actuales[^1]
 - **Pilar García Calero**: «No debemos centrarnos en la acumulación lineal de contenidos ni en el desarrollo de las técnicas de pensamiento, sino en la elaboración de las capacidades de los alumnos para dar sentido a las cosas»[^2]
@@ -73,7 +73,7 @@
   - El saber no es patrimonio exclusivo del profesor; está en constante evolución
 - Legalizar la creatividad como alternativa válida en la educación musical especializada; abrir un espacio para el desarrollo expresivo y sensible de los futuros músicos[^4]
 
-### 4.2. Creatividad y Proyecto Educativo de Centro
+### Creatividad y Proyecto Educativo de Centro
 
 - El claustro, configurado como equipo docente, debe aprovechar el Proyecto Educativo de Centro para desarrollar la creatividad
 - El fomento de la interdisciplinariedad, el desarrollo de competencias, la colaboración de la comunidad educativa, las relaciones con el entorno y las actividades creativas colectivas son vías para estimular la creatividad
@@ -81,7 +81,7 @@
 - Capacitar al alumnado para utilizar el lenguaje musical con libertad, «hablar musicalmente»[^5]
 - Trabajar la improvisación en todas las especialidades instrumentales como elemento esencial para la formación integral[^6][^7]
 
-### 4.3. Organización del aula, actitud del profesor y creatividad
+### Organización del aula, actitud del profesor y creatividad
 
 - El aula es el lugar de encuentro donde se construyen conocimientos y se negocian significados
 - Elementos positivos: cordialidad y ofrecimiento de ayuda
@@ -91,9 +91,9 @@
 - Los profesores creativos practican la previsión, generan expectación, aportan nuevos estímulos, realizan actividades extraescolares y procuran la interacción entre disciplinas y artes
 - Es vital la existencia de un ambiente donde se pueda generar creatividad a nivel personal y grupal[^8]
 
-## 5. Creatividad y desarrollo instrumental y musical
+## Creatividad y desarrollo instrumental y musical
 
-### 5.1. Técnica, capacidad expresiva, inteligencia musical y personalidad artística
+### Técnica, capacidad expresiva, inteligencia musical y personalidad artística
 
 - La enseñanza instrumental en el pasado se ha caracterizado por ser excesivamente técnica, centrada en la adquisición de habilidades mecánicas para la lectura e interpretación de partituras
 - En los conservatorios del s. XX las metodologías no han propiciado la creatividad; se configuraba una enseñanza artesanal donde el profesor modelaba al alumno a su imagen y semejanza
@@ -113,7 +113,7 @@
 - **Hemsy de Gainza**: «La búsqueda obsesiva de la perfección en la copia ha sido la causa de irreparables frustraciones musicales; esta actitud ha producido una multitud de pequeños repetidores, a quienes se privó de disfrutar su infancia musical»[^9]
 - Las TIC (edición de partituras, secuenciación, grabación) son instrumentos poderosos para estimular la creatividad en el aula de instrumento
 
-### 5.2. La improvisación musical como técnica pedagógica
+### La improvisación musical como técnica pedagógica
 
 - La improvisación ha experimentado un gran auge a partir de los años 70
 - Unir creación espontánea con interpretación instrumental representa una oportunidad para aumentar la creatividad y la formación integral
@@ -132,7 +132,7 @@
 - La improvisación debe desarrollarse en enseñanzas elementales y profesionales, independientemente del nivel técnico
 - La creatividad funde lo afectivo, la sensibilidad, lo cognoscitivo y la curiosidad creadora; la improvisación integra el hacer con el sentir y el pensar[^10][^11]
 
-## 6. Desarrollo del espíritu emprendedor
+## Desarrollo del espíritu emprendedor
 
 - La LOMCE modificó las 8 competencias básicas de la LOE, que pasan a ser 7 «competencias clave»
 - Entre ellas aparece una nueva: **Sentido de la iniciativa y espíritu emprendedor**

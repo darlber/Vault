@@ -2,26 +2,26 @@
 
 ## Índice
 
-1. [Introducción](#1.%20Introducción)
-2. [El funcionamiento general de la memoria](#2.%20El%20funcionamiento%20general%20de%20la%20memoria)
-3. [Educación de la memoria como base para la formación del oído interno](#3.%20Educación%20de%20la%20memoria%20como%20base%20para%20la%20formación%20del%20oído%20interno)
-4. [Tipos de memoria musical](#4.%20Tipos%20de%20memoria%20musical)
-	1. [Memoria visual](#4.1.%20Memoria%20visual)
-	2. [Memoria auditiva](#4.2.%20Memoria%20auditiva)
-	3. [Memoria muscular y táctil](#4.3.%20Memoria%20muscular%20y%20táctil)
-	4. [Memoria nominal](#4.4.%20Memoria%20nominal)
-	5. [Memoria rítmica](#4.5.%20Memoria%20rítmica)
-	6. [Memoria analítica](#4.6.%20Memoria%20analítica)
-	7. [Memoria emotiva](#4.7.%20Memoria%20emotiva)
-5. [Factores en el uso de la memoria](#5.%20Factores%20en%20el%20uso%20de%20la%20memoria)
-6. [La memoria como elemento imprescindible en el estudio del instrumento](#6.%20La%20memoria%20como%20elemento%20imprescindible%20en%20el%20estudio%20del%20instrumento)
-7. [Técnicas de memorización](#7.%20Técnicas%20de%20memorización)
-8. [El trabajo de la memoria como unidad didáctica](#8.%20El%20trabajo%20de%20la%20memoria%20como%20unidad%20didáctica)
-9. [Conclusiones](#9.%20Conclusiones)
-10. [NOTAS](#10.%20NOTAS)
-11. [Bibliografía](#11.%20Bibliografía)
+1. [Introducción](#Introducción)
+2. [El funcionamiento general de la memoria](#El%20funcionamiento%20general%20de%20la%20memoria)
+3. [Educación de la memoria como base para la formación del oído interno](#Educación%20de%20la%20memoria%20como%20base%20para%20la%20formación%20del%20oído%20interno)
+4. [Tipos de memoria musical](#Tipos%20de%20memoria%20musical)
+	1. [Memoria visual](#Memoria%20visual)
+	2. [Memoria auditiva](#Memoria%20auditiva)
+	3. [Memoria muscular y táctil](#Memoria%20muscular%20y%20táctil)
+	4. [Memoria nominal](#Memoria%20nominal)
+	5. [Memoria rítmica](#Memoria%20rítmica)
+	6. [Memoria analítica](#Memoria%20analítica)
+	7. [Memoria emotiva](#Memoria%20emotiva)
+5. [Factores en el uso de la memoria](#Factores%20en%20el%20uso%20de%20la%20memoria)
+6. [La memoria como elemento imprescindible en el estudio del instrumento](#La%20memoria%20como%20elemento%20imprescindible%20en%20el%20estudio%20del%20instrumento)
+7. [Técnicas de memorización](#Técnicas%20de%20memorización)
+8. [El trabajo de la memoria como unidad didáctica](#El%20trabajo%20de%20la%20memoria%20como%20unidad%20didáctica)
+9. [Conclusiones](#Conclusiones)
+10. [NOTAS](#NOTAS)
+11. [Bibliografía](#Bibliografía)
 
-## 1. Introducción
+## Introducción
 
 - **Bülow**: «¡La partitura en la cabeza y no la cabeza en la partitura!»
 - La memoria humana es una de las capacidades más asombrosas de la mente. Su mecanismo no ha sido totalmente descifrado, pero la investigación ha arrojado mucha luz
@@ -32,7 +32,7 @@
 - El RD justifica: «La memorización es un excelente auxiliar en el estudio; permite desentenderse de la partitura para centrar la atención en los problemas técnicos y en la realización musical. La memoria juega un papel primordial en la comprensión unitaria y global de una obra»
 - **Rodolfo Barbacci**[^2]: «Solo cuando se puede soltar el lastre material de la lectura del texto, la mente puede comenzar a elevarse a las esferas superiores del perfeccionamiento artístico»
 
-## 2. El funcionamiento general de la memoria
+## El funcionamiento general de la memoria
 
 - Aprendizaje y memoria son procesos complementarios para modificar conductas a partir de experiencias vividas
 - La memoria es la facultad psíquica de conservar, retener y reconocer hechos, conceptos e imágenes pasadas
@@ -47,7 +47,7 @@
   - **Memoria a largo plazo (MLP)**: relativamente permanente, capacidad prácticamente ilimitada
 - Marín (2004)[^3] ofrece una introducción a la memoria musical que relaciona estos procesos con la práctica interpretativa
 
-## 3. Educación de la memoria como base para la formación del oído interno #REVISAR_OPENCODE
+## Educación de la memoria como base para la formación del oído interno #REVISAR_OPENCODE
 
 - **E. Willems**[^4]: «Los malos músicos solo oyen sonidos y no la música; los mediocres podrían oírla pero no la escuchan; los buenos músicos oyen lo que van a tocar; los artistas oyen lo que aún no está escrito»
 - La memoria auditiva es la memoria más musical e importante. La función musical desarrolla dos experiencias: el oído exterior (físico) y el oído interno (psicológico e imaginativo)
@@ -60,47 +60,47 @@
 
 ==**Ejercicios para desarrollar el oído interno en guitarra:** la educación del oído interno puede trabajarse en el aula de guitarra mediante actividades graduadas. (a) **Cantar antes de tocar**: el alumno canta una melodía breve (p. ej., un estudio de Sor o una canción popular) y luego la reproduce en la guitarra, verificando la correspondencia entre la imagen auditiva previa y el sonido real. (b) **Audición interior de una obra conocida**: el alumno cierra los ojos, escucha mentalmente una obra que ya ha trabajado, visualizando la digitación y la conducción de voces, y después la toca de memoria comprobando la fidelidad de su imagen auditiva. (c) **Dictado mental**: el profesor toca un fragmento de 2–4 compases; el alumno lo retiene mentalmente, lo analiza (intervalos, ritmo, grado tonal) y lo reproduce en el instrumento sin haber visto la partitura. (d) **Improvisación guiada por el oído interno**: el profesor da una consigna armónica (p. ej., «improvisa en Mi menor usando solo grados I y V») y el alumno debe anticipar mentalmente el sonido antes de ejecutarlo. (e) **Memorización de timbres**: el alumno escucha una grabación de guitarra (diferentes intérpretes tocando la misma obra) e identifica diferencias de sonido, articulación y fraseo; después intenta imitarlas. Estas actividades conectan directamente la memoria auditiva con la producción sonora[^4].==
 
-## 4. Tipos de memoria musical #REVISAR_OPENCODE
+## Tipos de memoria musical #REVISAR_OPENCODE
 
 Según la sistematización de **Rodolfo Barbacci**[^2] (*Educación de la memoria musical*) resumida por **Sara Peral Hernández**[^5]:
 
-### 4.1. Memoria visual
+### Memoria visual
 - Recordar lo visto: rasgos significativos de la partitura, digitaciones, distancias entre llaves
 
-### 4.2. Memoria auditiva
+### Memoria auditiva
 - La más musical e importante, aunque no la más práctica. Controla la calidad de la ejecución
 - Dos tipos: memoria del oído externo y del oído interno (oído musical)
 - Tres momentos: oír, escuchar, relacionar
 - No es una base sólida para la memorización sin orientarse al control y crítica de la interpretación
 
-### 4.3. Memoria muscular y táctil
+### Memoria muscular y táctil
 - La más útil, según Barbacci. Automatiza los movimientos liberando la mente de la correlación mental/muscular
 - Base: repetición con atención y concentración, buscando la imagen sonora deseada
 - Se manifiesta en dos aspectos: tensión y relajación
 
-### 4.4. Memoria nominal
+### Memoria nominal
 - Memoria verbal que dicta el nombre de las notas mientras se interpretan
 - Muy rápida; actúa simultáneamente a la interpretación
 - Se desarrolla a partir del Lenguaje musical y el solfeo tradicional
 - Los instrumentistas de viento tienen más dificultades para usarla (órganos de fonación ocupados con la embocadura)
 
-### 4.5. Memoria rítmica
+### Memoria rítmica
 - Facultad de recordar ritmos y movimientos rítmicos. Relacionada con auditiva, visual, analítica y nominal
 - Método fundamental: práctica del solfeo y uso del metrónomo
 
-### 4.6. Memoria analítica
+### Memoria analítica
 - Facultad de retener lo leído. Es la más intelectual
 - La lectura detenida de la obra sin el instrumento ayuda a consolidarla
 - Incluye la memoria numerativa (repeticiones de frases, motivos, ritmos, numeración armónica)
 
-### 4.7. Memoria emotiva
+### Memoria emotiva
 - Recrear y memorizar imágenes mentales, ideas sugeridas por el texto musical
 - Proceso subjetivo, sin pautas ni métodos concretos
 - Íntimamente ligada a la memoria auditiva
 
 ==**Aplicación a la guitarra de cada tipo de memoria:** la enseñanza de la guitarra puede potenciar cada tipo de memoria con ejercicios específicos. **Memoria visual**: el alumno observa la partitura durante 30 segundos, la retira y debe recordar la distribución de las notas en el pentagrama, las indicaciones de dinámica y las digitaciones escritas; luego contrasta con la partitura real. **Memoria auditiva**: el profesor toca una obra de memoria cometiendo errores sutiles (notas falsas, alteraciones omitidas); el alumno debe identificarlos y corregirlos. **Memoria muscular y táctil**: practicar pasajes con los ojos cerrados, confiando exclusivamente en la sensación táctil del mástil; variar la digitación de un pasaje conocido para romper la automatización muscular y reconstruir la memoria desde cero. **Memoria nominal**: el alumno dice en voz alta el nombre de las notas mientras toca, reforzando la asociación entre el sonido, la grafía y el nombre. **Memoria rítmica**: percutir con las manos sobre la tapa de la guitarra el ritmo de un pasaje antes de tocarlo; luego ejecutarlo manteniendo la pulsación interna. **Memoria analítica**: analizar la forma (A-A-B-A), las funciones armónicas (I-IV-V-I) y los motivos temáticos de una obra; memorizar la estructura antes que las notas. **Memoria emotiva**: asociar cada sección de la obra con una imagen o emoción (p. ej., «el tema A suena como un amanecer») para facilitar la recuperación durante la interpretación. La combinación de estos siete tipos de memoria en la práctica diaria garantiza una memorización sólida y duradera[^2].==
 
-## 5. Factores en el uso de la memoria
+## Factores en el uso de la memoria
 
 - Cuatro etapas en la memorización musical:
   1. **Impresión**: cuanto más fuerte y clara, mejor
@@ -113,7 +113,7 @@ Según la sistematización de **Rodolfo Barbacci**[^2] (*Educación de la memori
   - **Constructiva**: clasificar impresiones y transformarlas en nuevas ideas
   - **Creadora**: reelaborar y transformar lo percibido en ideas evolucionadas donde casi no se reconoce la sensación original
 
-## 6. La memoria como elemento imprescindible en el estudio del instrumento
+## La memoria como elemento imprescindible en el estudio del instrumento
 
 **A) Beneficios estéticos:**
 - El oyente experimenta mayor admiración y placer con la interpretación de memoria
@@ -135,7 +135,7 @@ Según la sistematización de **Rodolfo Barbacci**[^2] (*Educación de la memori
 - Propicia la creatividad y la autonomía personal
 - El alumnado que memoriza desde el principio tiene una formación integral más sólida
 
-## 7. Técnicas de memorización #REVISAR_OPENCODE
+## Técnicas de memorización #REVISAR_OPENCODE
 
 - «Repetir muchas veces una obra rutinariamente no conduce a tocarla de memoria perfectamente»
 - **Barbacci** establece tres métodos:
@@ -172,7 +172,7 @@ e) Repetir c) y d) con descansos hasta el dominio completo
 
 ==**Técnicas específicas de memorización para guitarra:** la naturaleza polifónica y la digitación compleja de la guitarra requieren técnicas de memorización adaptadas. (a) **Memorización por secciones**: dividir la obra en fragmentos de 4–8 compases y memorizar cada uno por separado antes de unirlos, alternando el orden de estudio (empezar por la sección más difícil, no por el principio). (b) **Estudio sin instrumento (análisis de sillón)**: memorizar la partitura lejos de la guitarra, visualizando la posición de cada dedo en el mástil, la cuerda y el traste, y la conducción de las voces; luego comprobar al instrumento. (c) **Práctica con variaciones rítmicas**: tocar el pasaje memorizado con ritmos diferentes (p. ej., con puntillo, en tresillos) para fortalecer la memoria muscular y evitar la dependencia de un único patrón motor. (d) **Cambio de digitación**: una vez memorizada la obra con una digitación, proponer una digitación alternativa para un pasaje; esto obliga a reconstruir la memoria desde cero y revela si la memorización es auténtica o meramente muscular. (e) **Memorización desde el final**: empezar memorizando los últimos compases y avanzar hacia atrás; esta técnica evita la tendencia a tocar bien el principio y peor el final, y refuerza la memoria analítica al tener que comprender la estructura en orden inverso. (f) **Grabación y autoevaluación**: el alumno se graba tocando de memoria, se escucha sin partitura e identifica los pasajes inseguros; después los trabaja específicamente. Estas técnicas, combinadas con la práctica diaria, permiten una memorización fiable y reducen la ansiedad escénica[^2][^6].==
 
-## 8. El trabajo de la memoria como unidad didáctica
+## El trabajo de la memoria como unidad didáctica
 
 - La mejor manera de sistematizar la memoria es mediante una Unidad Didáctica transversal aplicada al repertorio del alumno
 
@@ -193,7 +193,7 @@ e) Repetir c) y d) con descansos hasta el dominio completo
   6. Sesión 6 (1 clase): audición de clase o departamento; autoevaluación y comparación
 - **Evaluación**: criterios (memorizar la obra, interpretar de memoria en audición, conocer los tipos de memoria, aplicar el proceso con autonomía, valorar la importancia de la memoria); instrumentos (observación directa, valoración del esfuerzo, participación en audición); mínimos exigibles (memorizar la obra elegida, conocer los distintos tipos de memoria)
 
-## 9. Conclusiones
+## Conclusiones
 
 - La práctica de la memoria musical es aún objeto de controversia, aunque son más los partidarios que los detractores
 - El RD 1577/2006 incluye objetivos prescriptivos para su enseñanza

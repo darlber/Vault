@@ -2,21 +2,21 @@
 
 ## Índice
 
-1. [Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX](#1.%20Características%20referidas%20a%20la%20evolución%20del%20estilo%20y%20de%20la%20escritura%20instrumental%2C%20del%20repertorio%20guitarrístico%20de%20la%20primera%20mitad%20del%20siglo%20XX)
-	1. [Introducción. Ubicación histórica](#1.1.%20Introducción.%20Ubicación%20histórica)
-	2. [Características del instrumento](#1.2.%20Características%20del%20instrumento)
-	3. [Estilo compositivo y formas](#1.3.%20Estilo%20compositivo%20y%20formas)
-	4. [Desarrollo técnico](#1.4.%20Desarrollo%20técnico)
-	5. [Actividad concertística](#1.5.%20Actividad%20concertística)
-	6. [Publicaciones](#1.6.%20Publicaciones)
-	7. [Autores y repertorio](#1.7.%20Autores%20y%20repertorio)
-2. [La guitarra y la generación del 27](#2.%20La%20guitarra%20y%20la%20generación%20del%2027)
-3. [La influencia de Andrés Segovia](#3.%20La%20influencia%20de%20Andrés%20Segovia)
-4. [Bibliografía](#4.%20Bibliografía)
+1. [Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX](#Características%20referidas%20a%20la%20evolución%20del%20estilo%20y%20de%20la%20escritura%20instrumental%2C%20del%20repertorio%20guitarrístico%20de%20la%20primera%20mitad%20del%20siglo%20XX)
+	1. [Introducción. Ubicación histórica](#Introducción.%20Ubicación%20histórica)
+	2. [Características del instrumento](#Características%20del%20instrumento)
+	3. [Estilo compositivo y formas](#Estilo%20compositivo%20y%20formas)
+	4. [Desarrollo técnico](#Desarrollo%20técnico)
+	5. [Actividad concertística](#Actividad%20concertística)
+	6. [Publicaciones](#Publicaciones)
+	7. [Autores y repertorio](#Autores%20y%20repertorio)
+2. [La guitarra y la generación del 27](#La%20guitarra%20y%20la%20generación%20del%2027)
+3. [La influencia de Andrés Segovia](#La%20influencia%20de%20Andrés%20Segovia)
+4. [Bibliografía](#Bibliografía)
 
-## 1. Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX 
+## Características referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la primera mitad del siglo XX 
 
-### 1.1. Introducción. Ubicación histórica
+### Introducción. Ubicación histórica
 
 Se ha hablado de una decadencia de la guitarra en el periodo precedente a la primera mitad del siglo XX, pero según Angelo Gilardino, la decadencia no puede atribuirse a la ausencia de maestros capaces de mantener su popularidad, sino a las características de la historia de la música las cuales son cambiantes.
 
@@ -38,7 +38,7 @@ Por tanto, si hablamos sobre la estética general en esta primera mitad del sigl
 
 Esta época es en la que se produce la ruptura de la tonalidad de la mano de Arnold Schönberg y sus seguidores. También aparecen los partidarios del impresionismo con Debussy a la cabeza, los nacionalismos, y también una vuelta a los gustos del pasado con el neoclasicismo. La guitarra empieza a experimentar las distintas corrientes compositivas surgiendo nuevas piezas, formas de expresión, efectos y recursos, haciendo que ésta explore nuevos caminos en su evolución.
 
-### 1.2. Características del instrumento
+### Características del instrumento
 
 En el siglo XX las características del instrumento estaban asentadas gracias a la aportación realizada en el siglo XIX por Antonio de Torres. Las guitarras de Torres estaban construidas con un nuevo concepto desarrollado por él mismo. Sus guitarras tenían una amplia paleta expresiva con la que guitarristas como Arcas y Tárrega pudieron introducir en su interpretación una nueva gama de sonoridades, efectos y dinámicas. Torres puso énfasis en el carácter romántico del sonido; eran guitarras más ligeras de peso, equilibradas y de gran claridad.
 
@@ -56,7 +56,7 @@ Las guitarras de Torres en manos de Arcas, Tárrega, Pujol, Cuervas, Manjón y o
 
 Otros constructores han seguido perfeccionando la construcción, consiguiendo guitarras de altísima calidad como «Ramírez» desde principios de siglo, Marín, Bernabé, etc.
 
-### 1.3. Estilo compositivo y formas
+### Estilo compositivo y formas
 
 La música para guitarra en el siglo XX experimenta, en mayor o menor medida, las formas musicales que se dieron en la época. Se pueden encontrar en cuanto a estilo obras escritas en estilo romántico, nacionalista, impresionista, atonal, dodecafonista, neoclasicismo, etc. En las composiciones para guitarra podemos apreciar un desarrollo en la utilización de recursos tímbricos, dinámicas, armónicos y efectos, destinados a explotar la expresión y sonoridad de la misma.
 
@@ -84,7 +84,7 @@ Podríamos decir que en el siglo XX se trabajan todas las formas, inclusive obra
 
 ==Paralelamente, la escuela de Tárrega, representada por Llobet y Pujol, mantiene una línea de escritura más idiomática, centrada en el desarrollo de las cualidades expresivas y tímbricas de la guitarra. Esta doble corriente —la idiomática y la «orquestal»— convive durante toda la primera mitad del siglo y constituye una de las características más singulares del repertorio de este periodo[^6].==
 
-### 1.4. Desarrollo técnico
+### Desarrollo técnico
 
 A partir de Tárrega la guitarra sufre un importante avance técnico como hemos expresado en varias ocasiones, desarrollando nuevas posibilidades y recursos, efectos expresivos y un importante estudio de su técnica. Sobre todo se realiza un perfeccionamiento progresivo de los elementos que intervienen en la ejecución guitarrística: mecanismos, dedos, ataque.
 
@@ -92,17 +92,17 @@ En una época en el que el estudio del sonido y las dos formas de pulsación (ti
 
 Existen guitarristas muy preocupados por el desarrollo técnico y por llevar a cabo un planteamiento didáctico que quede recogido y sistematizado para ayudar a las generaciones venideras. Estos guitarristas serán sobre todo Pujol o Carlevaro como podremos comprobar más adelante.
 
-### 1.5. Actividad concertística
+### Actividad concertística
 
 Otra de las vertientes que ayudó a la consolidación del instrumento fue la actividad concertista que mantuvieron grandes guitarristas de la época, los cuales ofrecían conciertos en las mejores salas y auditorios de Europa y América. Algún ejemplo de esto lo encontramos en Llobet o Barrios, pero sobre todo en cuanto a actividad concertística se refiere tenemos que destacar a Andrés Segovia.
 
-### 1.6. Publicaciones
+### Publicaciones
 
 Unos de los motivos que contribuyó a la ampliación del repertorio fueron los trabajos que llevaron a cabo las editoriales y músicos de la época, guitarristas y musicólogos, sobre la transcripción y publicación de música antigua de los vihuelistas, guitarristas y laudistas del siglo XVI y XVIII, transcripciones de los grandes clásico-románticos (Beethoven, Schubert, Mozart, Chopin) o transcripciones de músicos nacionalistas como Albéniz, Granados o Falla.
 
 Estos trabajos se llevaron a cabo por nombres como: R. Chiesa, Torner, Pedrell, Morphy o guitarristas como Pujol, Llobet y Segovia. Las editoriales encargadas fueron: Revista *La Chitarra* o *Casa Regondi*.
 
-### 1.7. Autores y repertorio #REVISAR_OPENCODE
+### Autores y repertorio #REVISAR_OPENCODE
 
 #### Francisco Tárrega (1852-1909) #REVISAR_OPENCODE
 
@@ -160,7 +160,7 @@ Villa-Lobos fue otro de los guitarristas que no podía faltar, del cual Prat dec
 
 ==Villa-Lobos es el compositor brasileño más importante para la guitarra del siglo XX. Sus *Doce Estudios* (1929) y la *Suite Popular Brasileña* constituyen obras fundamentales del repertorio, en las que fusiona la técnica guitarrística europea con el folclore brasileño. Su lenguaje armónico, influido por el impresionismo, explota las posibilidades tímbricas de la guitarra de manera innovadora. La escritura de Villa-Lobos se caracteriza por el uso de escalas modales, ritmos sincopados tomados del choro y la samba, y una textura que alterna pasajes arpegiados con acordes densos y efectos percusivos[^2].==
 
-## 2. La guitarra y la generación del 27
+## La guitarra y la generación del 27
 
 En esta época se produce un cambio de visión con respecto a la guitarra, de lo popular a instrumento de concierto. En el siglo XX la guitarra marcó un punto de inflexión gracias a la formación de un nuevo repertorio y a la incorporación de un repertorio histórico. En los escritos de Salazar ya realiza una distinción entre nacionalismo directo y nacionalismo esencial.
 
@@ -170,7 +170,7 @@ Los compositores de la generación estarán muy influidos por Manuel de Falla, l
 
 También destacar que existió una relación e intercambio cultural e ideológico entre la generación musical del 27 y la de poetas; ello hizo que se produjese una evolución de las artes y la cultura española en la época. Hubo muchos compositores de la Generación del 27 que escribieron para guitarra, entre ellos encontramos a Roberto Gerhard, Salvador Bacarisse, Julián Bautista, Ernesto Halffter, Antonio José, Fernando Remacha y Gustavo Pittaluga.
 
-## 3. La influencia de Andrés Segovia
+## La influencia de Andrés Segovia
 
 Andrés Segovia nació en 1893 en Linares; su debut tuvo lugar en el Ateneo de Madrid en 1913. Otra fecha importante fue 1914, cuando tuvo lugar su debut en París, en el cual estaban presentes figuras como Manuel de Falla, Paul Dukas, Albert Roussel, Joaquín Nin y el filósofo Miguel de Unamuno.
 
@@ -194,7 +194,7 @@ También hay que señalar que gracias a pruebas documentales, Segovia trató en 
 
 Hasta el siglo XXI, en concreto 2001, no se pudo abrir las cajas con la música que Segovia había guardado cuidadosamente en su archivo. El elegido fue Angelo Gilardino, el cual narra que fue un momento muy emocionante. Aunque Segovia fue muy selectivo con la música que interpretaba, para la conservación de su biblioteca o archivo no ponía ningún filtro, recogiendo todo lo que le mandaban o daban y guardándolo. Algunas de las piezas que vieron la luz fueron: *Quatre pièces breves* de Frank Martin (1933), *Sonatina* de Cyril Scott, *Errimina* (1925) del Padre Donostia, *Homenaje a Manuel de Falla* de Tansman.
 
-## 4. Bibliografía #REVISAR_OPENCODE
+## Bibliografía #REVISAR_OPENCODE
 
 - Gilardino, A. (1988). *El Renacimiento de la Guitarra / Manuale di storia della chitarra, 2: La chitarra moderna e contemporanea*. 2ª ed. Ancona: Bèrben.
 - Gilardino, A. (2008). «Andrés Segovia y el repertorio de la guitarra del siglo XX». *Roseta*, 1, 58-67.

@@ -2,20 +2,20 @@
 
 ## Índice
 
-1. [Introducción](#1.%20Introducción)
-2. [Émile Jaques-Dalcroze](#2.%20Émile%20Jaques-Dalcroze)
-3. [Laura Bassi](#3.%20Laura%20Bassi)
-4. [Zoltán Kodály](#4.%20Zoltán%20Kodály)
-5. [Carl Orff](#5.%20Carl%20Orff)
-6. [Edgar Willems](#6.%20Edgar%20Willems)
-7. [Leo Rinderer](#7.%20Leo%20Rinderer)
-8. [Maurice Martenot](#8.%20Maurice%20Martenot)
-9. [Shinichi Suzuki](#9.%20Shinichi%20Suzuki)
-10. [Emilio Molina](#10.%20Emilio%20Molina)
-11. [Criterios didácticos para la selección de repertorio a nivel inicial](#11.%20Criterios%20didácticos%20para%20la%20selección%20de%20repertorio%20a%20nivel%20inicial)
-12. [Bibliografía](#12.%20Bibliografía)
+1. [Introducción](#Introducción)
+2. [Émile Jaques-Dalcroze](#Émile%20Jaques-Dalcroze)
+3. [Laura Bassi](#Laura%20Bassi)
+4. [Zoltán Kodály](#Zoltán%20Kodály)
+5. [Carl Orff](#Carl%20Orff)
+6. [Edgar Willems](#Edgar%20Willems)
+7. [Leo Rinderer](#Leo%20Rinderer)
+8. [Maurice Martenot](#Maurice%20Martenot)
+9. [Shinichi Suzuki](#Shinichi%20Suzuki)
+10. [Emilio Molina](#Emilio%20Molina)
+11. [Criterios didácticos para la selección de repertorio a nivel inicial](#Criterios%20didácticos%20para%20la%20selección%20de%20repertorio%20a%20nivel%20inicial)
+12. [Bibliografía](#Bibliografía)
 
-## 1. Introducción
+## Introducción
 
 - Durante años, las corrientes que defienden un aprendizaje mediante la experiencia se han considerado las más adecuadas para el aprendizaje musical
 - Estas corrientes tratan primero la vivencia y el descubrimiento, y posteriormente abordan la teoría en la que se asientan dichas experiencias
@@ -23,7 +23,7 @@
 - A finales del s. XIX apareció la «Escuela activa», cuyo representante máximo fue Dewey, que promovió este movimiento pedagógico defendiendo la acción y la participación del niño
 - Lo primordial es la vivencia, la experiencia y el descubrimiento
 
-## 2. Émile Jaques-Dalcroze
+## Émile Jaques-Dalcroze
 
 - Nació en Viena en 1865, compositor y teórico. Estudió con Anton Bruckner y Robert Fuchs, después en París con Léo Delibes, y en 1892 ingresó en el Conservatorio de Ginebra
 - En 1910 creó su propia escuela en Hellerau, donde estudiaron Kurt Jooss, Rudolf Laban o Hanya Holm. En 1915 volvió a Ginebra y abrió un nuevo instituto. En 1920 trasladó la escuela a Laxenburg, clausurada por los nazis en 1938
@@ -38,7 +38,7 @@
   - Muchos parámetros motrices y dinámicos dependen de todo el organismo, no solo del oído
   - Gran importancia de la experiencia sensorial
 
-## 3. Laura Bassi
+## Laura Bassi
 
 - Nació en la provincia de Perugia en 1883. Deseaba ser actriz y bailarina, estudió en el Istituto Magistrale y también piano, aunque no le gustaba la teoría musical
 - Impartió clases en diversas escuelas de música en Italia
@@ -49,7 +49,7 @@
 - Fragmentos musicales propios y de autores clásicos y contemporáneos
 - Las experiencias vivenciadas llevan a comprender ritmos, figuras y notas musicales
 
-## 4. Zoltán Kodály
+## Zoltán Kodály
 
 - Compositor, musicólogo, director de orquesta y crítico húngaro, nació en 1882 en Kecskemét
 - Estudió composición en la Academia Musical y Filología en la universidad; entre 1906 y 1907 se perfeccionó en París con Charles Widor
@@ -65,7 +65,7 @@
 - Resume las características del buen músico en cuatro puntos: oído adiestrado, intelecto culto, corazón educado y mano educada
 - Defiende el ejercicio musical cotidiano para desarrollar el sentido del ritmo, el canto afinado, la interpretación vivida, la memoria y la creatividad
 
-## 5. Carl Orff
+## Carl Orff
 
 - Compositor alemán (Munich, 1895–1982), conocido por *Carmina Burana* y su método pedagógico *Schulwerk* (Método Orff)
 - Comenzó a tocar el piano a los 5 años; recibió clases de órgano y violonchelo. Publicó parte de su música a los 16 años
@@ -82,7 +82,7 @@
 - Importancia de los obstinatos y uso de la escala pentatónica
 - La experiencia vivida (voz, instrumentos, cuerpo) conduce a la educación rítmica, auditiva y de la sensibilidad
 
-## 6. Edgar Willems
+## Edgar Willems
 
 - Nació en 1890 en Lanaken (Bélgica). Pedagogo, musicólogo e investigador
 - Se formó en Ginebra (1925) con Malan, fue profesor del Conservatorio de Ginebra y dirigió conjuntos corales
@@ -102,7 +102,7 @@
   - Afirmar que los acordes son superposiciones de terceras
   - Presentar la escala como constituida solo por tonos y semitonos
 
-## 7. Leo Rinderer
+## Leo Rinderer
 
 - Una de las personas más influyentes en la educación musical de Austria
 - Su método es un compendio del método Dalcroze, los principios psicológicos de Lechner y las investigaciones sobre el canto popular de Jöde
@@ -110,7 +110,7 @@
 - Sostiene que si un niño de 6 años se familiariza con 96 signos alfabéticos, también se le puede introducir gradualmente a la lectura musical, separando al principio ritmo y melodía
 - Punto de partida: un breve motivo con el intervalo descendente de tercera menor (do-la), al que se le incorporan notas inferiores y superiores
 
-## 8. Maurice Martenot
+## Maurice Martenot
 
 - Nació en 1898 en Francia; fue ingeniero, sargento, violonchelista y radiotelegrafista
 - Conocido por descubrir las Ondas Martenot (1928)
@@ -121,7 +121,7 @@
 - Utiliza la negra como unidad de tiempo, la relajación y los juegos en silencio
 - Gran importancia de la memoria rítmica y melódica, así como de la audición interior
 
-## 9. Shinichi Suzuki
+## Shinichi Suzuki
 
 - Nació en Nagoya el 15 de octubre de 1898, violinista y pedagogo
 - Su padre era lutier; creció rodeado de instrumentos
@@ -133,7 +133,7 @@
 - El alumno tiene una clase individual semanal y cada quince días una clase colectiva
 - El aprendizaje por descubrimiento se produce, por ejemplo, al asistir a clases de alumnos más avanzados
 
-## 10. Emilio Molina
+## Emilio Molina
 
 - Figura pedagógica española fundamental
 - Su método se basa en la improvisación, promoviendo el desarrollo integral de la creatividad y la imaginación, usando la improvisación como control del lenguaje
@@ -145,7 +145,7 @@
 - Propone dos métodos paralelos: uno con la partitura como punto de partida y otro con la partitura como objetivo
 - Para guitarra, se han publicado trabajos con la colaboración de profesores como Miguel J. Ferrer
 
-## 11. Criterios didácticos para la selección de repertorio a nivel inicial
+## Criterios didácticos para la selección de repertorio a nivel inicial
 
 ### Principios generales
 - La enseñanza instrumental debe ser personalizada, adaptándose a las capacidades de cada alumno
@@ -196,7 +196,7 @@
 - *Método de Guitarra* (Dionisio Aguado)
 - Métodos de Daniel Fortea
 
-## 12. Bibliografía
+## Bibliografía
 
 - Gersdorf, Lilo: *Carl Orff* (2002)
 - Hoge Mead, Virginia: *More than Mere Movement: Dalcroze Eurhythmics* (1986)

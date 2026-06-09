@@ -2,24 +2,24 @@
 
 ## Índice
 
-1. [Introducción](#1.%20Introducción)
-2. [La lectura a primera vista](#2.%20La%20lectura%20a%20primera%20vista)
-	1. [Consideraciones generales](#2.1.%20Consideraciones%20generales)
-	2. [Percepción de la notación musical y la lectura a primera vista](#2.2.%20Percepción%20de%20la%20notación%20musical%20y%20la%20lectura%20a%20primera%20vista)
-	3. [Los procesos de memorización](#2.3.%20Los%20procesos%20de%20memorización)
-3. [Técnicas, estrategias, análisis aplicado, métodos](#3.%20Técnicas%2C%20estrategias%2C%20análisis%20aplicado%2C%20métodos)
-	1. [Limitaciones del solfeo tradicional](#3.1.%20Limitaciones%20del%20solfeo%20tradicional)
-	2. [Diferentes metodologías y estrategias](#3.2.%20Diferentes%20metodologías%20y%20estrategias)
-	3. [Elementos que intervienen para mejorar la lectura a primera vista](#3.3.%20Elementos%20que%20intervienen%20para%20mejorar%20la%20lectura%20a%20primera%20vista)
-4. [Simplificación o reducción de la partitura](#4.%20Simplificación%20o%20reducción%20de%20la%20partitura)
-5. [Criterios para la selección del repertorio](#5.%20Criterios%20para%20la%20selección%20del%20repertorio)
-	1. [Enseñanzas elementales](#5.1.%20Enseñanzas%20elementales)
-	2. [Enseñanzas profesionales](#5.2.%20Enseñanzas%20profesionales)
-6. [Conclusiones](#6.%20Conclusiones)
-7. [NOTAS](#7.%20NOTAS)
-8. [Bibliografía](#8.%20Bibliografía)
+1. [Introducción](#Introducción)
+2. [La lectura a primera vista](#La%20lectura%20a%20primera%20vista)
+	1. [Consideraciones generales](#Consideraciones%20generales)
+	2. [Percepción de la notación musical y la lectura a primera vista](#Percepción%20de%20la%20notación%20musical%20y%20la%20lectura%20a%20primera%20vista)
+	3. [Los procesos de memorización](#Los%20procesos%20de%20memorización)
+3. [Técnicas, estrategias, análisis aplicado, métodos](#Técnicas%2C%20estrategias%2C%20análisis%20aplicado%2C%20métodos)
+	1. [Limitaciones del solfeo tradicional](#Limitaciones%20del%20solfeo%20tradicional)
+	2. [Diferentes metodologías y estrategias](#Diferentes%20metodologías%20y%20estrategias)
+	3. [Elementos que intervienen para mejorar la lectura a primera vista](#Elementos%20que%20intervienen%20para%20mejorar%20la%20lectura%20a%20primera%20vista)
+4. [Simplificación o reducción de la partitura](#Simplificación%20o%20reducción%20de%20la%20partitura)
+5. [Criterios para la selección del repertorio](#Criterios%20para%20la%20selección%20del%20repertorio)
+	1. [Enseñanzas elementales](#Enseñanzas%20elementales)
+	2. [Enseñanzas profesionales](#Enseñanzas%20profesionales)
+6. [Conclusiones](#Conclusiones)
+7. [NOTAS](#NOTAS)
+8. [Bibliografía](#Bibliografía)
 
-## 1. Introducción
+## Introducción
 
 - La lectura a primera vista engloba: conocimiento de grafías, capacidad de concentración, memorización, rapidez en la lectura e interpretación de signos, comprensión analítica del texto y calidad interpretativa
 - **RD 1577/2006**[^1]: objetivo específico «desarrollar la capacidad de lectura a primera vista y aplicar con autonomía progresivamente mayor los conocimientos musicales para la improvisación con el instrumento»
@@ -29,9 +29,9 @@
 - La repentización es clave para la integración en agrupaciones musicales. Un músico con poca capacidad de lectura tendrá menos oportunidades y perjudicará el resultado del grupo
 - Las metodologías han evolucionado con los movimientos de renovación pedagógica de la segunda mitad del s. XX
 
-## 2. La lectura a primera vista
+## La lectura a primera vista
 
-### 2.1. Consideraciones generales
+### Consideraciones generales
 
 - El conocimiento de la notación musical es fundamental para la interpretación de la música occidental. Su elaboración es uno de los elementos característicos que la distinguen de otras culturas, sin que ello implique superioridad
 - En otras culturas la improvisación asume un papel destacado, mientras que en la nuestra ha perdido fuerza al especializarse los roles de compositor e intérprete. Los creadores establecieron un sistema preciso para que la música se interpretara según su voluntad
@@ -42,7 +42,7 @@
 - En el s. XIX se generalizó la interpretación de memoria entre los grandes solistas. Hoy la interpretación con partitura no es habitual en conciertos y concursos: se evita la distracción al pasar páginas, el uso de atriles y se gana capacidad gestual
 - Sin embargo, psicólogos y pedagogos musicales han dedicado gran interés al estudio de la lectura a primera vista desde 1970. Destacan los trabajos de Sloboda (1974, 1976, 1977)[^2], Lehmann y Ericsson (1993, 1996)[^5][^6], Kopiez y Lee (2006, 2008)[^3][^4], Schon, Besson y Yumoto
 
-### 2.2. Percepción de la notación musical y la lectura a primera vista
+### Percepción de la notación musical y la lectura a primera vista
 
 - El ojo humano no funciona como una cámara de video; es más parecido a una linterna que se enciende y apaga rápidamente en saltos discontinuos
 - **Movimientos sacádicos**: se suceden a 15–50 ms con puntos de descanso llamados **fijaciones** (150–200 ms). Una atención consciente a todas las notas a velocidad negra=120 sería casi imposible
@@ -61,7 +61,7 @@
 - Fine, Berry y Rosner (2006)[^8] demostraron que el reconocimiento de patrones tonales y melódicos facilita esa agrupación de información en la memoria operativa durante la repentización
 - Los géneros más predecibles son más fáciles de repentizar (ej. música barroca de cámara); los menos predecibles, más difíciles (ej. música atonal del s. XX)
 
-### 2.3. Los procesos de memorización
+### Los procesos de memorización
 
 - La retención en memoria del material visto en la partitura para ejecutarlo mientras se lee la parte siguiente es fundamental
 - Se mide mediante experimentos que limitan el tiempo de visualización (ordenador con técnica de ventana), midiendo el **lapso perceptivo** y el **lapso ojo/mano**
@@ -72,9 +72,9 @@
 - Ericsson y Kintsch (1995)[^10] propusieron el concepto de **memoria operativa a largo plazo**, que los músicos expertos utilizan para retener estructuras musicales complejas durante la lectura a primera vista
 - La **práctica** es el factor que más influye: los lectores con más práctica tienen mayor recuerdo del material previsualizado y recuperan mejor la información
 
-## 3. Técnicas, estrategias, análisis aplicado, métodos
+## Técnicas, estrategias, análisis aplicado, métodos
 
-### 3.1. Limitaciones del solfeo tradicional
+### Limitaciones del solfeo tradicional
 
 - En el Plan 66 (vigente hasta 1992), los estudios comenzaban con un curso preparatorio de solfeo; la práctica instrumental empezaba en el segundo año. Esto ocasionó una confusión entre música y solfeo
 - La lectura a primera vista se convirtió en meros ejercicios circenses incapaces de producir aprendizajes significativos
@@ -83,7 +83,7 @@
 - **Víctor Pliego**: «El solfeo se ha convertido en un fin en sí mismo ajeno a la música. El daño está en el uso equívoco que se hace al imponerlo como sustituto de la educación musical básica»
 - El aprendizaje de la lectura a primera vista debe ser más que una técnica de lectura rápida: debe propiciar una mayor comprensión de las estructuras musicales y dotar de autonomía al alumnado
 
-### 3.2. Diferentes metodologías y estrategias
+### Diferentes metodologías y estrategias
 
 **G. E. Mc Pherson (1994)**[^11]:
 - La habilidad de repentizar no está significativamente relacionada con la habilidad para interpretar música ensayada
@@ -101,7 +101,7 @@
   - Los ejercicios basados en lectura de notas sin sentido no tienen interés pedagógico
   - «Fundamentar los ejercicios de lectura en acelerar la visión de las notas en cualquier orden, sin tener en cuenta el sistema por el que se agrupan, es un error de base»
 
-### 3.3. Elementos que intervienen para mejorar la lectura a primera vista #REVISAR_OPENCODE
+### Elementos que intervienen para mejorar la lectura a primera vista #REVISAR_OPENCODE
 
 Lehmann y McArthur (2002)[^13] sintetizan los factores que influyen en la lectura a primera vista:
 
@@ -124,7 +124,7 @@ Lehmann y McArthur (2002)[^13] sintetizan los factores que influyen en la lectur
 
 ==**Estrategias específicas para guitarra:** la lectura a primera vista en guitarra presenta dificultades singulares: la misma nota puede ejecutarse en cuerdas diferentes, la digitación debe decidirse instantáneamente y la textura polifónica exige gestionar varias voces simultáneas. Estrategias para trabajarla en el aula: (a) **lectura de patrones** — ejercitar el reconocimiento visual de intervalos, acordes y digitaciones típicas (tríadas en posición, arpegios) para automatizar la respuesta motora; (b) **práctica con metrónomo** — mantener la pulsación rítmica estricta, reduciendo la velocidad si es necesario para preservar la continuidad; (c) **análisis previo** — dedicar 30 segundos a examinar la armadura, los cambios de compás, las repeticiones y las indicaciones de tempo antes de comenzar; (d) **lectura rítmica separada** — percutir el ritmo de la pieza antes de tocarla, prestando atención a las figuras y silencios; (e) **reducción de texturas** — en pasajes polifónicos, empezar leyendo solo la voz superior, luego añadir el bajo progresivamente (aplicación directa de la teoría schenkeriana[^14]). La práctica diaria de 5–10 minutos produce mejoras significativas en poco tiempo[^2].==
 
-## 4. Simplificación o reducción de la partitura #REVISAR_OPENCODE
+## Simplificación o reducción de la partitura #REVISAR_OPENCODE
 
 - Las reducciones son realizadas mayoritariamente por intérpretes de instrumentos polifónicos (piano), que requieren reducir partituras de orquesta para el acompañamiento
 - **Heinrich Schenker**[^14]: algunas notas tienen mayor importancia estructural que otras. Las notas estructurales están rodeadas de notas de embellecimiento. La **reducción** obtiene la estructura subyacente quitando las notas de embellecimiento
@@ -136,9 +136,9 @@ Lehmann y McArthur (2002)[^13] sintetizan los factores que influyen en la lectur
 
 ==**Aplicación a la guitarra:** la reducción de partituras es especialmente útil en la guitarra por su naturaleza polifónica. El guitarrista puede aplicar la reducción schenkeriana para: (a) identificar las notas estructurales de una fuga o pieza contrapuntística y simplificar la lectura a primera vista reduciendo a la voz principal y al bajo; (b) en pasajes de acordes densos (p. ej., obras de Granados o Albéniz transcritas para guitarra), eliminar notas de relleno (duplicaciones, notas de paso) para obtener la estructura armónica subyacente; (c) en la lectura de reducciones de orquesta (acompañamiento de conciertos), el guitarrista debe seleccionar las voces esenciales —bajo armónico y línea melódica principal— omitiendo las duplicaciones internas. Esta técnica, enseñada progresivamente desde enseñanzas profesionales, incrementa la autonomía del alumno ante cualquier texto polifónico[^14].==
 
-## 5. Criterios para la selección del repertorio #REVISAR_OPENCODE
+## Criterios para la selección del repertorio #REVISAR_OPENCODE
 
-### 5.1. Enseñanzas elementales
+### Enseñanzas elementales
 
 - La lectura a primera vista es necesaria desde los primeros momentos porque incrementa la autonomía, favorece habilidades instrumentales y mejora la comprensión musical
 - Las pruebas de acceso a enseñanzas profesionales incorporan un ejercicio eliminatorio de lectura a primera vista
@@ -149,7 +149,7 @@ Lehmann y McArthur (2002)[^13] sintetizan los factores que influyen en la lectur
   - Melodías comprensibles, con estructuras formales sencillas; pueden incluir materiales reconocidos por el alumnado
   - Los materiales deben guardar relación con los contenidos del aula
 
-### 5.2. Enseñanzas profesionales
+### Enseñanzas profesionales
 
 - Vital por la prueba eliminatoria de acceso a enseñanzas superiores y por la formación integral del músico
 - Criterios (similares a elementales, con dificultad progresiva en 6 cursos):
@@ -162,7 +162,7 @@ Lehmann y McArthur (2002)[^13] sintetizan los factores que influyen en la lectur
 
 ==**Ejemplos de repertorio graduado para guitarra:** la selección de materiales debe ajustarse al nivel técnico y de lenguaje musical del alumno. En **enseñanzas elementales** pueden emplearse: melodías monódicas en primera posición (canciones populares, estudios de Sor y Aguado adaptados) con ritmos simples (blancas, negras, corcheas); dúos fáciles para dos guitarras (p. ej., *Duetos fáciles* de Carulli) que exigen coordinación y lectura simultánea. En **enseñanzas profesionales** puede progresarse a: piezas con cambios de posición (estudios de Carcassi, op. 60), texturas polifónicas a dos voces (Preludios de Villa-Lobos simplificados, *Introducción y variaciones* de Sor), fragmentos de música de cámara (tríos con flauta y violín), y pasajes orquestales reducidos (transcripciones de obras barrocas para guitarra). La inclusión de obras de distintos estilos (Renacimiento, Barroco, Clasicismo, contemporáneo) familiariza al alumno con convenciones diversas y mejora su capacidad de anticipación visual. El profesor puede elaborar una **antología progresiva** de fragmentos de 8–16 compases clasificados por dificultad técnica y rítmica, que el alumno trabaja diariamente al inicio de la sesión de estudio[^1][^11].==
 
-## 6. Conclusiones
+## Conclusiones
 
 - La lectura a primera vista es un contenido prescrito por las administraciones educativas, necesario para superar pruebas eliminatorias de acceso a enseñanzas superiores
 - La formación integral del músico exige su dominio

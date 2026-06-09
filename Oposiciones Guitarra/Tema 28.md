@@ -2,19 +2,19 @@
 
 ## Índice
 
-1. [Introducción](#1.%20Introducción)
-2. [La competencia de «aprender a aprender»](#2.%20La%20competencia%20de%20«aprender%20a%20aprender»)
-3. [Desarrollo en la programación didáctica de un nuevo marco para la autonomía en el aprendizaje](#3.%20Desarrollo%20en%20la%20programación%20didáctica%20de%20un%20nuevo%20marco%20para%20la%20autonomía%20en%20el%20aprendizaje)
-4. [El «aprender a aprender» en la enseñanza instrumental](#4.%20El%20«aprender%20a%20aprender»%20en%20la%20enseñanza%20instrumental)
-5. [Desarrollo de capacidades que incrementen la autonomía. Estrategias adecuadas](#5.%20Desarrollo%20de%20capacidades%20que%20incrementen%20la%20autonomía.%20Estrategias%20adecuadas)
-	1. [El análisis musical](#5.1.%20El%20análisis%20musical)
-	2. [La repentización y la lectura a primera vista](#5.2.%20La%20repentización%20y%20la%20lectura%20a%20primera%20vista)
-	3. [La madurez interpretativa y la comprensión profunda de los textos musicales](#5.3.%20La%20madurez%20interpretativa%20y%20la%20comprensión%20profunda%20de%20los%20textos%20musicales)
-	4. [Hábitos y procedimientos de estudio adecuados](#5.4.%20Hábitos%20y%20procedimientos%20de%20estudio%20adecuados)
-6. [Conclusiones](#6.%20Conclusiones)
-7. [Bibliografía](#7.%20Bibliografía)
+1. [Introducción](#Introducción)
+2. [La competencia de «aprender a aprender»](#La%20competencia%20de%20«aprender%20a%20aprender»)
+3. [Desarrollo en la programación didáctica de un nuevo marco para la autonomía en el aprendizaje](#Desarrollo%20en%20la%20programación%20didáctica%20de%20un%20nuevo%20marco%20para%20la%20autonomía%20en%20el%20aprendizaje)
+4. [El «aprender a aprender» en la enseñanza instrumental](#El%20«aprender%20a%20aprender»%20en%20la%20enseñanza%20instrumental)
+5. [Desarrollo de capacidades que incrementen la autonomía. Estrategias adecuadas](#Desarrollo%20de%20capacidades%20que%20incrementen%20la%20autonomía.%20Estrategias%20adecuadas)
+	1. [El análisis musical](#El%20análisis%20musical)
+	2. [La repentización y la lectura a primera vista](#La%20repentización%20y%20la%20lectura%20a%20primera%20vista)
+	3. [La madurez interpretativa y la comprensión profunda de los textos musicales](#La%20madurez%20interpretativa%20y%20la%20comprensión%20profunda%20de%20los%20textos%20musicales)
+	4. [Hábitos y procedimientos de estudio adecuados](#Hábitos%20y%20procedimientos%20de%20estudio%20adecuados)
+6. [Conclusiones](#Conclusiones)
+7. [Bibliografía](#Bibliografía)
 
-## 1. Introducción
+## Introducción
 
 - Durante el s. XX se debatió si las instituciones educativas deben ser centros de transmisión de saberes o dar prioridad a la formación integral del alumnado (capacidades, competencias, habilidades). La tendencia actual insiste en la segunda opción
 - En la enseñanza musical tradicional, la pedagogía se entendía como transmitir la capacidad mecánica para interpretar obras seleccionadas del repertorio. El aprendizaje era un ejercicio repetitivo para solucionar dificultades mecánicas
@@ -31,7 +31,7 @@
 - En las sociedades industriales había dos etapas diferenciadas (estudio → trabajo); hoy ese esquema es imposible por la globalización, la sociedad del conocimiento y el desarrollo tecnológico
 - La autonomía en el aprendizaje es la garantía para la formación de personas que puedan integrarse con éxito en el mercado laboral y desarrollar una vida más plena
 
-## 2. La competencia de «aprender a aprender»
+## La competencia de «aprender a aprender»
 
 - La incorporación de competencias básicas al currículo permite poner el acento en aprendizajes imprescindibles desde un planteamiento integrador y orientado a la aplicación de los saberes adquiridos
 - Finalidades:
@@ -60,7 +60,7 @@
 - Requiere: perseverancia, autoevaluación, autorregulación, responsabilidad, aceptar errores y aprender de los demás
 - En síntesis: ser autónomo y aprender a aprender implica la conciencia, gestión y control de las propias capacidades y conocimientos desde un sentimiento de competencia personal, pensamiento estratégico, cooperación, autoevaluación y manejo eficiente de recursos y técnicas de trabajo intelectual[^3]
 
-## 3. Desarrollo en la programación didáctica de un nuevo marco para la autonomía en el aprendizaje
+## Desarrollo en la programación didáctica de un nuevo marco para la autonomía en el aprendizaje
 
 - Las programaciones didácticas deben incluir progresivamente más decisiones del profesorado para avanzar en la autonomía del alumnado
 - Cambios necesarios en el aula de instrumento para superar el modelo tradicional transmisivo[^4]:
@@ -85,7 +85,7 @@
 - Feedback continuo del profesorado, cronograma de actividades conjuntas, acuerdos con el alumnado
 - Necesario superar el sistema tradicional unidireccional; la autonomía implica un cambio profundo de la didáctica y las prácticas docentes[^7]
 
-## 4. El «aprender a aprender» en la enseñanza instrumental
+## El «aprender a aprender» en la enseñanza instrumental
 
 - Es importante desarrollar estrategias de autoaprendizaje para buscar y encontrar soluciones propias en la interpretación y ejecución musical[^8]
 - El estudio de un instrumento exige muchas horas de estudio individual para adquirir destrezas técnicas y abordar con éxito la interpretación de una partitura
@@ -102,9 +102,9 @@
   - Generar un entorno apropiado de aprendizaje: rutinas de estudio, objetivos realistas, secuenciación clara, evaluación integrada
   - Implicación de la familia, especialmente en las primeras etapas: seguimiento del trabajo en casa, valores como responsabilidad, compromiso y esfuerzo
 
-## 5. Desarrollo de capacidades que incrementen la autonomía. Estrategias adecuadas
+## Desarrollo de capacidades que incrementen la autonomía. Estrategias adecuadas
 
-### 5.1. El análisis musical
+### El análisis musical
 
 - Los músicos tradicionales de conservatorio están capacitados para la lectura de partituras y dominan la técnica instrumental, pero esta capacidad no suele ir acompañada de una comprensión profunda del texto musical
 - El análisis permite explorar todos los elementos que configuran un texto musical: idea original del compositor, motivación artística, forma, líneas melódicas, armonías, esquemas rítmicos, conocimientos históricos, estilo de la época, características del compositor y del instrumento
@@ -112,13 +112,13 @@
 - Solo así se tiene un verdadero criterio para configurar una «versión propia» y alcanzar la verdadera autonomía
 - El desarrollo de la capacidad analítica incrementa la autonomía: permite aplicar este método a cualquier obra musical e interpretarla correctamente sin recurrir necesariamente al profesor o a una grabación
 
-### 5.2. La repentización y la lectura a primera vista
+### La repentización y la lectura a primera vista
 
 - La capacidad de interpretar a primera vista fragmentos musicales sin estudio previo es muy importante para la autonomía
 - Permite la integración en agrupaciones musicales (orquestas, bandas, grupos de cámara) con eficacia y eficiencia en el montaje del repertorio
 - La repentización consiste en adquirir reflejos para la lectura y análisis rápido de una partitura, el manejo de soluciones técnicas necesarias y la sensibilidad para una interpretación musical[^12]
 
-### 5.3. La madurez interpretativa y la comprensión profunda de los textos musicales
+### La madurez interpretativa y la comprensión profunda de los textos musicales
 
 - La interpretación requiere tanto la comprensión perfecta del texto como una profunda técnica instrumental
 - La técnica al servicio de la autonomía debe superar la mera imitación. Si el alumno no desarrolla una técnica correcta, no podrá abordar por sí mismo nuevas partituras ni aplicar criterios y soluciones personales
@@ -130,7 +130,7 @@
 - **Emilio Molina**: «Los rasgos de personalidad interpretativa pueden darse a través de la intuición, el talento o la percepción sensorial, pero si se enseña interpretación sobre una base exclusivamente técnica —sin análisis, sin improvisación— se convertirá en un arte vacío. Una técnica de interpretación madura se beneficiará del conocimiento del análisis y la improvisación»[^13]
 - La educación integral del alumnado y el desarrollo de una autonomía efectiva implica la interrelación de todos los conocimientos al servicio de la interpretación musical
 
-### 5.4. Hábitos y procedimientos de estudio adecuados
+### Hábitos y procedimientos de estudio adecuados
 
 - La consecución de hábitos de estudio continuados y adecuados es una de las mayores preocupaciones de profesores, alumnado y familias
 - Incide directamente en la adquisición de la autonomía: solo cuando el alumno desarrolla el trabajo individual de manera adecuada consigue avanzar en el dominio técnico
@@ -138,7 +138,7 @@
   1. **Motivación**: necesaria para mantener el esfuerzo continuado. El profesorado debe articular estrategias de motivación durante las enseñanzas elementales
   2. **Parámetros adecuados**: el trabajo individual debe desarrollarse bajo condiciones provechosas. El profesor no solo enseña en clase, sino que da pautas precisas para que el trabajo sea fructífero
 
-## 6. Conclusiones
+## Conclusiones
 
 - Contribuir al desarrollo de la autonomía del alumnado implica un cambio profundo de las pedagogías tradicionales en los conservatorios. Así lo reconoce el RD 1577/2006
 - La educación actual busca dotar de competencias profesionales al alumnado para desarrollar una vida laboral y personal plena en una realidad social cambiante. La capacidad de «aprender a aprender» resulta esencial
@@ -149,7 +149,7 @@
 - Posibles dificultades: generar herramientas apropiadas de autoevaluación y autocontrol, acceso a fuentes de información, falta de apoyo familiar en las primeras etapas
 - El paradigma de aprender a aprender es irrenunciable en un mundo globalizado donde los conocimientos quedan obsoletos rápidamente
 
-## 7. Bibliografía #REVISAR_OPENCODE
+## Bibliografía #REVISAR_OPENCODE
 
 - *Competencias básicas* (s.f.). Ministerio de Educación
 - Fuentes, P. y Cervera, J. (1989). *Pedagogía y didáctica para músicos*. Valencia: Piles Editorial

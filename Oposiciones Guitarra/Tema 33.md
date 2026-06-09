@@ -2,20 +2,20 @@
 
 ## Índice
 
-1. [La música como patrimonio histórico-artístico cultural](#1.%20La%20música%20como%20patrimonio%20histórico-artístico%20cultural)
-2. [Relación de la música con las corrientes estéticas y las demás artes](#2.%20Relación%20de%20la%20música%20con%20las%20corrientes%20estéticas%20y%20las%20demás%20artes)
-	1. [Corrientes estéticas](#2.1.%20Corrientes%20estéticas)
-	2. [Literatura](#2.2.%20Literatura)
-	3. [Cine](#2.3.%20Cine)
-	4. [Artes plásticas](#2.4.%20Artes%20plásticas)
-3. [Responsabilidad docente en la valoración, preservación y transmisión](#3.%20Responsabilidad%20docente%20en%20la%20valoración%2C%20preservación%20y%20transmisión)
-	1. [Preservación en los conservatorios](#3.1.%20Preservación%20en%20los%20conservatorios)
-	2. [Investigación](#3.2.%20Investigación)
-4. [Conclusiones](#4.%20Conclusiones)
-5. [NOTAS](#5.%20NOTAS)
-6. [Bibliografía](#6.%20Bibliografía)
+1. [La música como patrimonio histórico-artístico cultural](#La%20música%20como%20patrimonio%20histórico-artístico%20cultural)
+2. [Relación de la música con las corrientes estéticas y las demás artes](#Relación%20de%20la%20música%20con%20las%20corrientes%20estéticas%20y%20las%20demás%20artes)
+	1. [Corrientes estéticas](#Corrientes%20estéticas)
+	2. [Literatura](#Literatura)
+	3. [Cine](#Cine)
+	4. [Artes plásticas](#Artes%20plásticas)
+3. [Responsabilidad docente en la valoración, preservación y transmisión](#Responsabilidad%20docente%20en%20la%20valoración%2C%20preservación%20y%20transmisión)
+	1. [Preservación en los conservatorios](#Preservación%20en%20los%20conservatorios)
+	2. [Investigación](#Investigación)
+4. [Conclusiones](#Conclusiones)
+5. [NOTAS](#NOTAS)
+6. [Bibliografía](#Bibliografía)
 
-## 1. La música como patrimonio histórico-artístico cultural
+## La música como patrimonio histórico-artístico cultural
 
 - El patrimonio histórico-artístico cultural es la herencia cultural y artística de un pueblo o de la humanidad, acumulada a través de la historia y transmitida entre generaciones, conformando la identidad compartida
 - El concepto ha evolucionado: en el s. XIX se centraba en bienes materiales tangibles (monumentos, obras de arte); en el s. XX se incorporó la cuestión inmaterial e intangible (costumbres, lenguas, música tradicional)
@@ -33,9 +33,9 @@
   - Promoción de la investigación entre el alumnado (búsqueda de información, documentación del repertorio, contexto histórico-artístico)
   - Organización de actividades divulgativas: audiciones, jornadas, asistencia a conciertos
 
-## 2. Relación de la música con las corrientes estéticas y las demás artes
+## Relación de la música con las corrientes estéticas y las demás artes
 
-### 2.1. Corrientes estéticas
+### Corrientes estéticas
 
 - La música nunca ha surgido de manera aislada; siempre ha nacido en consonancia con el contexto estético imperante, complementando el pensamiento filosófico de cada período histórico[^3]
 - Las «corrientes estéticas» del s. XX (vanguardias) comparten: lucha contra las tradiciones, libertad individual, innovación, experimentalismo. Principales «ismos»: futurismo, dadaísmo, cubismo, constructivismo, ultraísmo, surrealismo, suprematismo, rayonismo
@@ -43,7 +43,7 @@
 - Primeros ejemplos: Luigi Russolo y sus *Intonarumori*, experimentos dadaístas, surrealistas y situacionistas
 - **John Cage**: representante fundamental del arte sonoro y referente de la vanguardia contemporánea
 
-### 2.2. Literatura #REVISAR_OPENCODE
+### Literatura #REVISAR_OPENCODE
 
 - Música y literatura son los medios de expresión más primitivos del ser humano. Antropológicamente, lenguaje y música surgieron en un mismo estadio evolutivo
 - Inicialmente las artes tenían función pragmática (didáctica, religiosa). La poesía nació unida a la música; las canciones servían para grabar en la memoria valores morales y normas de convivencia
@@ -55,7 +55,7 @@
 
 ==**Literatura y guitarra:** la guitarra tiene un vínculo especialmente rico con la literatura. En el **género lírico**, el *lied* acompañado por guitarra fue práctica habitual en el s. XIX (Schubert, como guitarrista aficionado, compuso canciones que se interpretaban con guitarra en los salones vieneses). En la **música española**, la canción con acompañamiento de guitarra es un género central desde el s. XVII (tonos humanos, villancicos) hasta el s. XX (Falla, *Siete canciones populares españolas*; Lorca, *Canciones españolas antiguas*). Compositores y poetas colaboraron estrechamente: Federico García Lorca era también pianista y recopilador de canciones populares; Joaquín Rodrigo puso música a poemas de Lope de Vega, Garcilaso y Rosales en sus canciones para voz y guitarra. La **figura del guitarrista en la literatura** es también recurrente: desde el *Quijote* (donde se menciona la vihuela) hasta la novela contemporánea (Auster, *El libro de las ilusiones*). Trabajar estas conexiones en el aula permite al alumno comprender la guitarra como vehículo de expresión poética y narrativa a lo largo de la historia[^3].==
 
-### 2.3. Cine
+### Cine
 
 - Música e imágenes han estado vinculadas desde el teatro griego, evolucionando hacia el teatro musical (ópera, opereta, zarzuela)
 - El cine nace en Francia a finales del s. XIX. En el cine mudo, pianistas o pequeñas bandas de jazz improvisaban melodías, germen de las bandas sonoras
@@ -63,7 +63,7 @@
 - Algunas músicas de cine han adquirido más trascendencia que el propio film, independizándose como género con gran aceptación
 - **Videojuegos y multimedia**: la música en videojuegos ha adquirido prestigio. Compositores se implican en estos proyectos por su rentabilidad y oportunidad de promoción. Centros de educación superior incluyen especialidades relacionadas
 
-### 2.4. Artes plásticas #REVISAR_OPENCODE
+### Artes plásticas #REVISAR_OPENCODE
 
 - Fuerte relación histórica entre música y artes plásticas (pintura, escultura, arquitectura) por compartir un imaginario estético colectivo en cada período:
   - Románico → Ars Antiqua; Gótico → Ars Nova
@@ -74,9 +74,9 @@
 
 ==**La guitarra en las artes plásticas:** la guitarra es uno de los instrumentos más representados en la pintura y la escultura occidentales. En el **Renacimiento**, la vihuela aparece en retratos de la nobleza como símbolo de *sprezzatura* y refinamiento cortesano (Tiziano, *El caballero de la vihuela*; Caravaggio, *El tañedor de laúd*). En el **Barroco**, la guitarra de cinco órdenes protagoniza escenas de género y bodegones (Velázquez, *Tres músicos*; Vermeer, *La guitarrista*). En el **s. XIX**, la guitarra se asocia al romanticismo y al costumbrismo español (Goya, *El guitarrista ciego*; Picasso, *El viejo guitarrista ciego* del período azul). En el **s. XX**, Picasso y los cubistas fragmentan la forma de la guitarra como objeto en sus naturalezas muertas (Gris, *Guitarra y clarinete*; Braque, *Guitarra y frutero*). La escultura también ha incorporado la guitarra: véanse las *Guitarras* de Julio González en hierro forjado o las instalaciones de Arman con guitarras destruidas. El docente puede programar actividades interdisciplinares en las que los alumnos investiguen la representación de la guitarra en la pintura de cada período y la relacionen con el repertorio estudiado en clase[^3].==
 
-## 3. Responsabilidad docente en la valoración, preservación y transmisión
+## Responsabilidad docente en la valoración, preservación y transmisión
 
-### 3.1. Preservación en los conservatorios #REVISAR_OPENCODE
+### Preservación en los conservatorios #REVISAR_OPENCODE
 
 - El sistema educativo español asume un papel importante en la transmisión del patrimonio artístico y cultural
 - **LOE**[^4] (fines del sistema educativo): g) formación en respeto y reconocimiento de la pluralidad lingüística y cultural; h) adquisición de hábitos intelectuales y conocimientos científicos, técnicos, humanísticos, históricos y artísticos
@@ -101,7 +101,7 @@
 
 ==**Preservación del patrimonio guitarrístico:** el docente de guitarra tiene una responsabilidad específica en la preservación del patrimonio del instrumento. (a) **Recuperación de repertorio histórico**: muchas obras para guitarra de los s. XVIII y XIX permanecen inéditas en archivos y bibliotecas (manuscritos de Sor, Aguado, Giuliani). El profesor puede involucrar al alumnado en proyectos de transcripción y edición de estas obras, familiarizándolo con las fuentes originales. (b) **Repertorio local**: cada región cuenta con compositores y guitarristas que escribieron para el instrumento (p. ej., Vicente Gómez en Valencia, Antonio de Torres en Andalucía, Sainz de la Maza en Castilla). Programar sus obras en audiciones y conciertos contribuye a su difusión. (c) **Organología y lutería**: el conocimiento de la construcción de la guitarra (escuela de Torres, rama de luthiers actuales) forma parte del patrimonio material del instrumento. Visitas a talleres de luthiers y museos instrumentales (Museo de la Guitarra de Almería, Museu de la Música de Barcelona) sensibilizan al alumno sobre la evolución del instrumento. (d) **Guitarra flamenca**: patrimonio inmaterial reconocido por la UNESCO, la guitarra flamenca tiene un repertorio, una técnica y un contexto cultural propios que deben ser conocidos y valorados por los alumnos de guitarra clásica como parte de su herencia cultural[^1][^2].==
 
-### 3.2. Investigación
+### Investigación
 
 - La inclusión de las enseñanzas superiores de música en el ámbito de la educación superior ha impulsado proyectos de investigación
 - La obligatoriedad del trabajo final de grado superior familiariza al alumnado con metodologías de investigación
@@ -112,7 +112,7 @@
   - Organología (estudio de instrumentos musicales y su evolución)
   - Folklore y cultura tradicional de las distintas regiones
 
-## 4. Conclusiones
+## Conclusiones
 
 - El entorno de los conservatorios es un espacio clave para contribuir a la transmisión del patrimonio cultural y artístico
 - Las disposiciones normativas obligan al sistema educativo a colaborar en la valoración, concienciación y apreciación del patrimonio histórico

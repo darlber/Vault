@@ -2,26 +2,26 @@
 
 ## Índice
 
-1. [Introducción](#1.%20Introducción)
-	1. [Integración de las TIC en la enseñanza](#1.1.%20Integración%20de%20las%20TIC%20en%20la%20enseñanza)
-	2. [Las TIC y la educación musical](#1.2.%20Las%20TIC%20y%20la%20educación%20musical)
-2. [Metodologías TIC](#2.%20Metodologías%20TIC)
-3. [El uso de las TIC en la educación musical. Campos posibles de aplicación](#3.%20El%20uso%20de%20las%20TIC%20en%20la%20educación%20musical.%20Campos%20posibles%20de%20aplicación)
-	1. [Los programas de edición de partituras](#3.1.%20Los%20programas%20de%20edición%20de%20partituras)
-	2. [Secuenciadores y editores de audio](#3.2.%20Secuenciadores%20y%20editores%20de%20audio)
-4. [Recursos educativos en internet](#4.%20Recursos%20educativos%20en%20internet)
-	1. [Internet como recurso educativo para el alumnado y el profesorado](#4.1.%20Internet%20como%20recurso%20educativo%20para%20el%20alumnado%20y%20el%20profesorado)
-	2. [Las herramientas de búsqueda](#4.2.%20Las%20herramientas%20de%20búsqueda)
-	3. [Las redes sociales: principales redes sociales y usos pedagógicos](#4.3.%20Las%20redes%20sociales%3A%20principales%20redes%20sociales%20y%20usos%20pedagógicos)
-	4. [Blogs y otras fuentes de información/comunicación](#4.4.%20Blogs%20y%20otras%20fuentes%20de%20información%2Fcomunicación)
-	5. [Principales bancos de partituras](#4.5.%20Principales%20bancos%20de%20partituras)
-	6. [Recursos de audio y vídeo](#4.6.%20Recursos%20de%20audio%20y%20vídeo)
-	7. [Recursos de internet relacionados con la guitarra](#4.7.%20Recursos%20de%20internet%20relacionados%20con%20la%20guitarra)
-5. [Conclusiones](#5.%20Conclusiones)
-6. [NOTAS](#6.%20NOTAS)
-7. [Bibliografía](#7.%20Bibliografía)
+1. [Introducción](#Introducción)
+	1. [Integración de las TIC en la enseñanza](#Integración%20de%20las%20TIC%20en%20la%20enseñanza)
+	2. [Las TIC y la educación musical](#Las%20TIC%20y%20la%20educación%20musical)
+2. [Metodologías TIC](#Metodologías%20TIC)
+3. [El uso de las TIC en la educación musical. Campos posibles de aplicación](#El%20uso%20de%20las%20TIC%20en%20la%20educación%20musical.%20Campos%20posibles%20de%20aplicación)
+	1. [Los programas de edición de partituras](#Los%20programas%20de%20edición%20de%20partituras)
+	2. [Secuenciadores y editores de audio](#Secuenciadores%20y%20editores%20de%20audio)
+4. [Recursos educativos en internet](#Recursos%20educativos%20en%20internet)
+	1. [Internet como recurso educativo para el alumnado y el profesorado](#Internet%20como%20recurso%20educativo%20para%20el%20alumnado%20y%20el%20profesorado)
+	2. [Las herramientas de búsqueda](#Las%20herramientas%20de%20búsqueda)
+	3. [Las redes sociales: principales redes sociales y usos pedagógicos](#Las%20redes%20sociales%3A%20principales%20redes%20sociales%20y%20usos%20pedagógicos)
+	4. [Blogs y otras fuentes de información/comunicación](#Blogs%20y%20otras%20fuentes%20de%20información%2Fcomunicación)
+	5. [Principales bancos de partituras](#Principales%20bancos%20de%20partituras)
+	6. [Recursos de audio y vídeo](#Recursos%20de%20audio%20y%20vídeo)
+	7. [Recursos de internet relacionados con la guitarra](#Recursos%20de%20internet%20relacionados%20con%20la%20guitarra)
+5. [Conclusiones](#Conclusiones)
+6. [NOTAS](#NOTAS)
+7. [Bibliografía](#Bibliografía)
 
-## 1. Introducción
+## Introducción
 
 - En las últimas décadas del siglo pasado asistimos a una profunda innovación tecnológica en la que las TIC originaron transformaciones en nuestras vidas y en las relaciones sociales, provocando el inicio de una nueva etapa conocida como Sociedad de la Información
 - El motor que provoca estos cambios es la revolución digital: el conjunto de innovaciones que han hecho posible que la información (sonido, imagen, texto) se digitalice y se transmita a gran velocidad mediante combinaciones de ceros y unos integradas en un circuito electrónico
@@ -29,7 +29,7 @@
 - Terceiro (1996)[^1] analiza este fenómeno de transformación digital y sus implicaciones en el ámbito educativo
 - Los procesos de creación y consumo de información se han democratizado, permitiendo un acceso amplio y universalizado. Este cambio ha desencadenado una transformación de valores y actitudes sociales cuyo alcance es aún imprevisible
 
-### 1.1. Integración de las TIC en la enseñanza
+### Integración de las TIC en la enseñanza
 
 - Todas estas transformaciones afectan a la educación de múltiples formas
 - Una persona analfabeta tecnológicamente quedará al margen de la red comunicativa que ofrecen las nuevas tecnologías. Esta brecha digital provocará dificultades para acceder y promocionar en el mercado laboral, indefensión ante la manipulación informativa e incapacidad para utilizar los recursos digitales
@@ -38,7 +38,7 @@
 - Los centros educativos son eficaces en procesos de socialización, integración, educación afectiva y formación ética, pero los procesos, materiales y herramientas de aprendizaje aún pueden mejorarse para adaptarse a esta nueva situación
 - La escuela (y el modelo tradicional de conservatorio) necesita actualizar su metodología para afrontar este gran reto
 
-### 1.2. Las TIC y la educación musical
+### Las TIC y la educación musical
 
 - Estamos asistiendo a un proceso imparable que está generalizando el uso de las nuevas tecnologías en los conservatorios y en el conjunto de la educación musical
 - Lehmann (1993)[^2] ofrecía una panorámica de la educación musical que ya apuntaba la necesidad de integrar las tecnologías en la formación instrumental
@@ -57,7 +57,7 @@
 - Solo necesitamos iniciativa, imaginación y creatividad para expresarse libremente por medio de la música. Al ser trabajo colectivo, favorecemos el desarrollo de habilidades de cooperación y la necesidad de apreciar las contribuciones de los demás
 - Las nuevas tecnologías aplicadas al consumo musical ofrecen al alumnado la posibilidad de conocer y valorar la diversidad musical a su disposición a través de Internet, capacitándoles para ser autónomos en la selección musical
 
-## 2. Metodologías TIC #REVISAR_OPENCODE
+## Metodologías TIC #REVISAR_OPENCODE
 
 - Las metodologías y planes curriculares están centrados en el alumno, pero los alumnos han cambiado rápidamente y no nos hemos adaptado a ellos
 - Los estudiantes construyen su identidad con recursos propios de la cultura digital: son multitarea, viven en línea, buscan resultados inmediatos y aprenden por ensayo-error
@@ -69,11 +69,11 @@
 
 ==**Aplicaciones TIC en el aula de guitarra:** (a) **Flipped Classroom** — el profesor graba en vídeo la explicación de un pasaje técnico (p. ej., colocación de la mano derecha para el tremolo) y el alumno lo visualiza en casa; en clase se dedica el tiempo a practicar y corregir individualmente. (b) **EVA** — la plataforma Google Classroom o Moodle del conservatorio alberga los materiales del curso: partituras escaneadas, grabaciones de referencia, ejercicios de lectura a primera vista, enlaces a recursos externos. El alumno sube sus grabaciones semanales para que el profesor las evalúe de forma asíncrona. (c) **MOOC** — plataformas como Coursera o edX ofrecen cursos de guitarra clásica y teoría musical que complementan la formación reglada (p. ej., «Guitar Performance» de Berklee). (d) **Aplicaciones móviles** — apps como *Guitar Toolkit* (afinador, metrónomo, diccionario de acordes), *Yousician* (feedback en tiempo real sobre la precisión), *Soundbrenner* (metrónomo visual para ensembles) y *AmpliTube* (simulación de amplificadores y efectos) convierten el móvil en una herramienta pedagógica de primer orden. El profesor puede recomendar apps específicas según el nivel y los objetivos del alumno, integrando su uso en la rutina de estudio diaria[^3].==
 
-## 3. El uso de las TIC en la educación musical. Campos posibles de aplicación
+## El uso de las TIC en la educación musical. Campos posibles de aplicación
 
 - Fuertes (1998)[^4] analiza las aplicaciones de la tecnología informática en el ámbito musical, identificando campos como la edición de partituras, la secuenciación y la producción sonora
 
-### 3.1. Los programas de edición de partituras #REVISAR_OPENCODE
+### Los programas de edición de partituras #REVISAR_OPENCODE
 
 - Un editor de partituras permite al usuario realizar una partitura lo más perfecta posible. Su manejo es similar al de un procesador de texto, pero escribiendo grafías musicales (pentagramas, claves, notas, articulaciones, matices, casillas de repetición, etc.)
 - Los datos se introducen mediante teclado alfanumérico y ratón, o mediante un instrumento MIDI (teclado). También es posible introducir un fichero MIDI para que el editor lo convierta en partitura
@@ -89,7 +89,7 @@
 
 ==**Software específico para guitarra:** (a) **Editores de tablatura** — programas como **TuxGuitar** (libre, multiplataforma) o **Guitar Pro** (de pago) permiten escribir y reproducir música en tablatura y pentagrama simultáneamente, esenciales para el repertorio contemporáneo y popular. El alumno puede introducir una obra, escucharla a diferentes velocidades, aislar voces y modificar la digitación. (b) **Transcripción y análisis** — **Amazing Slow Downer** y **Transcribe!** permiten ralentizar grabaciones sin alterar el tono, facilitando la transcripción de obras complejas y el estudio de pasajes rápidos. (c) **Afinadores y metrónomos** — software como **PitchLab** (afinador cromático visual), **Pro Metronome** o **Soundcorset** ofrecen precisión profesional y funciones avanzadas (polirritmia, subdivisión de pulsos). (d) **Grabación multipista** — con **Audacity** o **GarageBand** el alumno puede grabarse en varias pistas (melodía, acompañamiento, bajo) y analizar su interpretación. (e) **IA aplicada** — herramientas emergentes como **Chordify** (reconocimiento automático de acordes a partir de audio) o **Moises.ai** (separación de pistas con IA) abren posibilidades para el análisis armónico y la práctica de improvisación. El profesor debe seleccionar y recomendar el software más adecuado según el nivel y los objetivos didácticos[^3].==
 
-### 3.2. Secuenciadores y editores de audio
+### Secuenciadores y editores de audio
 
 - Su ventaja es la versatilidad. Sirven como sistema virtual de grabación multipista (MIDI y audio), editor de partituras y sistema de sincronismo para coordinar instrumentos y trabajar bajo sincronía absoluta entre música e imagen
 - Con un secuenciador y un micrófono podemos hacer que los alumnos interpreten cada parte de una obra por separado y comprueben cómo suenan juntas: qué ocurre al variar la altura, el timbre, el tempo, los matices de intensidad
@@ -100,9 +100,9 @@
 - Software libre: **Ardour** (Linux y Macintosh), **Rosegarden**, secuenciadores MIDI como **ShakeTracker** o **Muse**
 - Edición de audio: **Audacity** — software multipistas de grabación y edición de sonidos fácil de usar, multiplataforma y traducido al castellano. Graba sonidos en directo (micrófono o mezclador) o digitaliza grabaciones de cintas, vinilos o minidisc. Cuenta con una amplia librería de efectos (plugins) y módulos de exportación para Ogg, MP3, WAV, etc.
 
-## 4. Recursos educativos en internet
+## Recursos educativos en internet
 
-### 4.1. Internet como recurso educativo para el alumnado y el profesorado
+### Internet como recurso educativo para el alumnado y el profesorado
 
 - Internet bien utilizado puede convertirse en una fuente inagotable de recursos para la clase de instrumento, permitiendo una manera eficaz y ágil de incrementar las actividades de enseñanza/aprendizaje
 - **Andrea Giráldez**[^3] (*Internet y educación musical*) establece los siguientes beneficios:
@@ -133,7 +133,7 @@
   - Seguir la trayectoria artística de grandes intérpretes internacionales
   - Difundir las actividades propias a través de canales y perfiles en redes sociales
 
-### 4.2. Las herramientas de búsqueda
+### Las herramientas de búsqueda
 
 - Internet ha configurado un nuevo panorama para la enseñanza y aprendizaje de la música, propiciando recursos impresionantes para el profesorado
 - Favorece un aprendizaje musical creativo y más significativo al servicio de la diversidad del alumnado
@@ -147,7 +147,7 @@
   - **Mundo clásico** (www.mundoclasico.com): diario de música clásica con noticias, artículos, críticas, foros de debate
   - **BIVEM** (www.bivem.net): biblioteca virtual de educación musical, primera en castellano con recursos para la educación musical
 
-### 4.3. Las redes sociales: principales redes sociales y usos pedagógicos
+### Las redes sociales: principales redes sociales y usos pedagógicos
 
 - Las comunidades virtuales (redes sociales online) son grupos de personas con intereses similares que se comunican a través de Internet y comparten información, colaborando en proyectos
 - Características de las comunidades virtuales:
@@ -162,7 +162,7 @@
   - **Redes de estudiantes**: el grupo de alumnos de una clase de instrumento puede constituirse en comunidad virtual de aprendizaje, multiplicando las oportunidades de aprendizaje
   - **Comunidades virtuales de profesores**: magnífico medio de formación continua y obtención de apoyos cognitivos y emotivos: compartir experiencias, problemas, buscar soluciones y recursos
 
-### 4.4. Blogs y otras fuentes de información/comunicación
+### Blogs y otras fuentes de información/comunicación
 
 - Aplicaciones docentes derivadas del uso de blogs y otras fuentes de información y comunicación multidireccional entre los integrantes de una comunidad educativa:
   - **Wiki docente** (similar a web docente): espacio donde el profesorado almacena y ordena materiales e informaciones de interés. Incluye: programa de asignaturas, apuntes, partituras, recursos didácticos, ejercicios, grabaciones, vídeos explicativos. Enlace al blog o wiki de la clase o listado de blogs de estudiantes para el seguimiento de tareas. También puede incluir enlace al blog-tablón de anuncios del profesor y al blog personal del profesor orientado a intercambiar opiniones con colegas
@@ -173,7 +173,7 @@
   - Creación de espacios interactivos entre profesor y alumno
   - Principales motores: **WordPress** y **Wikipedia**
 
-### 4.5. Principales bancos de partituras
+### Principales bancos de partituras
 
 - Las partituras son uno de los recursos más demandados por el profesorado, constituyendo un material fundamental para las clases de instrumento
 - Para referencias sobre música impresa: base de datos del **ISMN** (International Standard Music Number)
@@ -181,12 +181,12 @@
   - **IMSLP** (Biblioteca Internacional de Partituras Musicales): online desde febrero de 2006, cuenta con más de 97.000 partituras y 327.000 archivos de más de 13.000 compositores. Se puede buscar por compositor y obtener resultados con obras, scans y archivos para descargar
   - Otros bancos: **Mutopia**, **Freescores**, **Gutenberg Music**, etc.
 
-### 4.6. Recursos de audio y vídeo
+### Recursos de audio y vídeo
 
 - **a) Spotify (y similares) como herramienta pedagógica**: representan una potente herramienta educativa y un fondo de recursos sonoros. Colecciones ingentes con disponibilidad total sin tiempos de descarga ni almacenamiento. Permite la organización de actividades de audición al tener acceso a todas las grabaciones de las obras que se interpretan en clase
 - **b) YouTube (y similares) como herramienta pedagógica**: el vídeo, con los adelantos tecnológicos (CD, DVD), se hace cada vez más popular. Proporciona alternativas para favorecer las motivaciones de los alumnos y mejorar el aprendizaje colaborativo. El lenguaje audiovisual es uno de los más utilizados y puede convertirse en un buen método de aprendizaje. El vídeo, por sus posibilidades expresivas, ocasiona un alto grado de motivación. Permite adecuar el ritmo de visualización a las dificultades de comprensión o retención. En YouTube encontramos infinidad de vídeos musicales que mejoran el aprendizaje: obras para el instrumento, información de interés, etc.
 
-### 4.7. Recursos de internet relacionados con la guitarra #REVISAR_OPENCODE
+### Recursos de internet relacionados con la guitarra #REVISAR_OPENCODE
 
 ==**Generales:**
 - **Guitarraclasicayflamenca.com**: portal en español con partituras, grabaciones, artículos y foro para guitarra clásica y flamenca
@@ -218,7 +218,7 @@
 - **Yousician** (iOS/Android/PC): tutorial interactivo con feedback en tiempo real
 - **Complete Classical Guitar** (iOS/Android): método progresivo con partituras, ejercicios y grabaciones==
 
-## 5. Conclusiones
+## Conclusiones
 
 - No podemos seguir manteniendo conservatorios del siglo XIX, liderados por profesorado del siglo XX que atiende a un alumnado del siglo XXI
 - Es necesario realizar actuaciones para que los conservatorios y la enseñanza instrumental se adecúen a la nueva realidad de la sociedad del conocimiento y la información

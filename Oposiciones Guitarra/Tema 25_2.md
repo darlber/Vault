@@ -2,25 +2,25 @@
 
 ## Índice
 
-1. [Introducción: El concepto de metodología](#1.%20Introducción%3A%20El%20concepto%20de%20metodología)
-2. [Sistemas metodológicos de enseñanza musical](#2.%20Sistemas%20metodológicos%20de%20enseñanza%20musical)
-	1. [Clasificación histórica](#2.1.%20Clasificación%20histórica)
-	2. [Método Kodály](#2.2.%20Método%20Kodály)
-	3. [Método Orff-Schulwerk](#2.3.%20Método%20Orff-Schulwerk)
-	4. [Método Suzuki](#2.4.%20Método%20Suzuki)
-	5. [Método Jacques Dalcroze](#2.5.%20Método%20Jacques%20Dalcroze)
-	6. [Método Edgar Willems](#2.6.%20Método%20Edgar%20Willems)
-3. [Estudio comparado: sistema tradicional vs. sistema actual](#3.%20Estudio%20comparado%3A%20sistema%20tradicional%20vs.%20sistema%20actual)
-	1. [Sistema metodológico tradicional](#3.1.%20Sistema%20metodológico%20tradicional)
-	2. [Sistema metodológico actual](#3.2.%20Sistema%20metodológico%20actual)
-4. [Avances en la enseñanza de la técnica instrumental](#4.%20Avances%20en%20la%20enseñanza%20de%20la%20técnica%20instrumental)
-	1. [La respiración](#4.1.%20La%20respiración)
-	2. [La relajación](#4.2.%20La%20relajación)
-	3. [La flexibilidad](#4.3.%20La%20flexibilidad)
-5. [Criterios didácticos para la selección del repertorio inicial](#5.%20Criterios%20didácticos%20para%20la%20selección%20del%20repertorio%20inicial)
-6. [Bibliografía](#6.%20Bibliografía)
+1. [Introducción: El concepto de metodología](#Introducción%3A%20El%20concepto%20de%20metodología)
+2. [Sistemas metodológicos de enseñanza musical](#Sistemas%20metodológicos%20de%20enseñanza%20musical)
+	1. [Clasificación histórica](#Clasificación%20histórica)
+	2. [Método Kodály](#Método%20Kodály)
+	3. [Método Orff-Schulwerk](#Método%20Orff-Schulwerk)
+	4. [Método Suzuki](#Método%20Suzuki)
+	5. [Método Jacques Dalcroze](#Método%20Jacques%20Dalcroze)
+	6. [Método Edgar Willems](#Método%20Edgar%20Willems)
+3. [Estudio comparado: sistema tradicional vs. sistema actual](#Estudio%20comparado%3A%20sistema%20tradicional%20vs.%20sistema%20actual)
+	1. [Sistema metodológico tradicional](#Sistema%20metodológico%20tradicional)
+	2. [Sistema metodológico actual](#Sistema%20metodológico%20actual)
+4. [Avances en la enseñanza de la técnica instrumental](#Avances%20en%20la%20enseñanza%20de%20la%20técnica%20instrumental)
+	1. [La respiración](#La%20respiración)
+	2. [La relajación](#La%20relajación)
+	3. [La flexibilidad](#La%20flexibilidad)
+5. [Criterios didácticos para la selección del repertorio inicial](#Criterios%20didácticos%20para%20la%20selección%20del%20repertorio%20inicial)
+6. [Bibliografía](#Bibliografía)
 
-## 1. Introducción: El concepto de metodología
+## Introducción: El concepto de metodología
 
 - El diseño curricular, en sus diferentes niveles de concreción, responde a tres preguntas:
   - **Qué enseñar**: objetivos y contenidos del currículo
@@ -99,7 +99,7 @@
   2. La expansión de la educación y su obligatoriedad progresiva
   3. El gran desarrollo instrumental y técnico desde la segunda mitad del s. XIX, y la mala praxis pedagógica imperante
 
-### 2.1. Clasificación histórica
+### Clasificación histórica
 
 Según Hemsy de Gainza (2004):
 
@@ -110,7 +110,7 @@ Según Hemsy de Gainza (2004):
 - **Quinto período: transición (1980–1990)**: irrupción de la tecnología educativa musical, movimientos alternativos del arte, musicoterapia, práctica instrumental de grupo. Confluencia de corrientes sin predominancia clara
 - **Sexto período: nuevos paradigmas pedagógicos (1990–)**: se generalizan las regulaciones legislativas con fuerte impulso de la educación musical. La comunidad pedagógica publica adaptaciones a los nuevos marcos normativos, con TIC, transversalidad, práctica de conjunto e improvisación
 
-### 2.2. Método Kodály
+### Método Kodály
 
 - Zoltán Kodály (1882–1967), compositor, pedagogo, lingüista e investigador húngaro
 - Dedicó su esfuerzo a la educación musical del pueblo húngaro; su sistema fue adoptado oficialmente por el estado húngaro, creando una red de centros estatales de enseñanza musical
@@ -123,7 +123,7 @@ Según Hemsy de Gainza (2004):
   - **Solfeo relativo**: permite cantar a quien no conoce el lenguaje musical; los intervalos y distancias adoptan nomenclatura relativa
   - **Improvisación y creación**: los niños aprenden a crear música por sí mismos, desarrollando imaginación y espontaneidad
 
-### 2.3. Método Orff-Schulwerk
+### Método Orff-Schulwerk
 
 - Creado por Carl Orff y ampliado por Schulwerk; integra varias actividades artísticas donde la expresividad, la creatividad y la educación tienen un papel preponderante
 - «Mis ideas sobre la educación musical elemental no son nuevas; me limito a adaptar a nuestro tiempo los conceptos existentes dándoles nueva vida. Lo elemental significa siempre un comienzo; lo moderno se vuelve antiguo, lo elemental no tiene tiempo y existe en toda la tierra»
@@ -132,7 +132,7 @@ Según Hemsy de Gainza (2004):
 - Utiliza el cuerpo como instrumento principal (voz, manos, pies) e instrumentos de percusión de fácil manejo (xilófonos, metalófonos, etc.)
 - Gran importancia de la creatividad espontánea y la improvisación
 
-### 2.4. Método Suzuki
+### Método Suzuki
 
 - Considera la música como un lenguaje que puede enseñarse como la lengua materna
 - El papel de los padres es fundamental: participan en la enseñanza y el aprendizaje con la misma intensidad que en otras actividades formativas
@@ -140,7 +140,7 @@ Según Hemsy de Gainza (2004):
 - El aprendizaje se realiza a una edad muy temprana, con intervención directa e intensa de los padres (asisten a clase, aprenden y practican en casa)
 - El fracaso no se considera falta de talento, sino una relación inadecuada entre padres e hijos
 
-### 2.5. Método Jacques Dalcroze
+### Método Jacques Dalcroze
 
 - Jacques Dalcroze (1865–1950), profesor de solfeo en el Conservatorio de Ginebra, centró sus investigaciones en la importancia del ritmo para equilibrar y armonizar psicológicamente al individuo
 - Su máxima: «la finalidad de la rítmica consiste en colocar a sus adeptos, al acabar sus estudios, en situación de decir "yo siento" en vez de "yo sé"»
@@ -153,7 +153,7 @@ Según Hemsy de Gainza (2004):
   2. **6–14 años**: se combinan rítmica y solfeo
   3. **Mayores de 14 años**: se utiliza la improvisación
 
-### 2.6. Método Edgar Willems
+### Método Edgar Willems
 
 - Edgar Willems (1890–1950), autor de *Bases psicológicas de la educación musical*
 - La Educación Musical desarrolla las facultades humanas; la música forma parte del hombre y de la vida
@@ -167,9 +167,9 @@ Según Hemsy de Gainza (2004):
 - Este sistema ha influido en la reforma de las enseñanzas musicales en España: edad de inicio, práctica instrumental simultánea al lenguaje musical, presencia de la improvisación en el currículo
 - Otros investigadores: Violeta Hemsy de Gainza (modelo de estadios evolutivos inspirado en Piaget), Arlette Zenatti, Martenot
 
-## 3. Estudio comparado: sistema tradicional vs. sistema actual
+## Estudio comparado: sistema tradicional vs. sistema actual
 
-### 3.1. Sistema metodológico tradicional
+### Sistema metodológico tradicional
 
 - Transmisión de conocimientos musicales en los conservatorios de épocas anteriores, centrada en la transmisión de destrezas y habilidades del profesor al alumno
 - Objetivo: dominar la técnica musical, formar intérpretes que se incorporen a bandas y orquestas
@@ -186,7 +186,7 @@ Según Hemsy de Gainza (2004):
   - En muchos casos no existe relación entre la educación musical y el crecimiento intelectual
 - No obstante, ha cumplido una importante función social y ha formado a muchos profesionales con magníficos profesores
 
-### 3.2. Sistema metodológico actual
+### Sistema metodológico actual
 
 - Basado en el constructivismo y la psicología cognitiva: el aprendizaje significativo relaciona los nuevos conocimientos con los previos
 - El aprendizaje ha de ser progresivo en dificultad para establecer conexiones entre lo conocido y lo nuevo. Difiere del aprendizaje mecánico
@@ -200,9 +200,9 @@ Según Hemsy de Gainza (2004):
 - La metodología ha de ser evaluada continuamente, susceptible de mejora
 - Dificultades en su aplicación: exige formación permanente del profesorado y recursos importantes por parte de la Administración
 
-## 4. Avances en la enseñanza de la técnica instrumental
+## Avances en la enseñanza de la técnica instrumental
 
-### 4.1. La respiración
+### La respiración
 
 - A finales de los 70 y principios de los 80 se introdujo en España la enseñanza de la respiración diafragmática como elemento indispensable para la técnica de los instrumentos de viento
 - Técnica originada en intérpretes americanos de viento metal del jazz, sistematizada en EE. UU. por James Stamp y Thomas Stevens, introducida en Francia por P. Thibaud y M. Riquier
@@ -210,7 +210,7 @@ Según Hemsy de Gainza (2004):
 - Actualmente es aceptada casi unánimemente; los currículos reflejan contenidos como colocación abdominal del aire, formación de la columna de aire, presión abdominal
 - *Tratado de Pedagogía Instrumental* de Michel Riquier: gran aportación didáctica y metodológica
 
-### 4.2. La relajación
+### La relajación
 
 - Concepto originado en prácticas de filosofía oriental (yoga), en contraposición al estilo de vida occidental de prisas, tensiones y exceso de trabajo
 - Incluida obligatoriamente en los currículos de los conservatorios
@@ -221,7 +221,7 @@ Según Hemsy de Gainza (2004):
   - Flautistas: reducción de la tensión facial («sonrisas»)
 - Proliferación de actividades de relajación en todos los niveles; éxito de la técnica Alexander y la relajación progresiva
 
-### 4.3. La flexibilidad
+### La flexibilidad
 
 - Cualidad que añade versatilidad para superar y perfeccionar la afinación, la calidad del sonido y la homogeneización de los registros
 - Metodologías anteriores encontraban dificultades en los primeros niveles para el dominio rápido de los registros y la afinación
@@ -229,7 +229,7 @@ Según Hemsy de Gainza (2004):
 - Actualmente han perdido protagonismo en beneficio de ejercicios de relajación y escalas desarrolladas
 - Estos tres contenidos (respiración, relajación, flexibilidad), enseñados de manera relacionada, han cambiado el perfil de los instrumentistas, permitiendo mayor virtuosismo y la interpretación de todos los estilos musicales, incluida la música contemporánea
 
-## 5. Criterios didácticos para la selección del repertorio inicial
+## Criterios didácticos para la selección del repertorio inicial
 
 - El repertorio instrumental es el medio para trabajar los contenidos del currículo y alcanzar los objetivos, pero también es el fin artístico de la actividad interpretativa
 - Debe ser objeto de estudio específico en las programaciones de enseñanzas elementales y profesionales
@@ -259,7 +259,7 @@ Según Hemsy de Gainza (2004):
 - Conectado con los objetivos, contenidos y actividades programados en el nivel
 - Actualización continua para incorporar nuevos ejemplares de interés
 
-## 6. Bibliografía
+## Bibliografía
 
 - Decreto 158/2007 de 17 de agosto del Gobierno Valenciano, por el que se establece el currículo de las enseñanzas profesionales de música en la Comunitat Valenciana
 - *Música y Educación*. Revista trimestral de Pedagogía Musical. Madrid

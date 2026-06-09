@@ -2,30 +2,30 @@
 
 ## Índice
 
-1. [Introducción: El concepto de metodología](#1.%20Introducción%3A%20El%20concepto%20de%20metodología)
-2. [Descripción de los sistemas metodológicos más importantes](#2.%20Descripción%20de%20los%20sistemas%20metodológicos%20más%20importantes)
-	1. [Émile Jaques-Dalcroze](#2.1.%20Émile%20Jaques-Dalcroze)
-	2. [Zoltán Kodály](#2.2.%20Zoltán%20Kodály)
-	3. [Carl Orff](#2.3.%20Carl%20Orff)
-	4. [Edgar Willems](#2.4.%20Edgar%20Willems)
-	5. [Maurice Martenot](#2.5.%20Maurice%20Martenot)
-	6. [Leo Rinderer](#2.6.%20Leo%20Rinderer)
-	7. [Shinichi Suzuki](#2.7.%20Shinichi%20Suzuki)
-	8. [Laura Bassi](#2.8.%20Laura%20Bassi)
-	9. [Emilio Molina](#2.9.%20Emilio%20Molina)
-3. [Estudio comparado de los sistemas metodológicos](#3.%20Estudio%20comparado%20de%20los%20sistemas%20metodológicos)
-	1. [Clasificación histórica](#3.1.%20Clasificación%20histórica)
-	2. [Cuadro comparativo de los sistemas](#3.2.%20Cuadro%20comparativo%20de%20los%20sistemas)
-	3. [Sistema tradicional vs. sistema actual](#3.3.%20Sistema%20tradicional%20vs.%20sistema%20actual)
-4. [Criterios didácticos para la selección de repertorio a nivel inicial](#4.%20Criterios%20didácticos%20para%20la%20selección%20de%20repertorio%20a%20nivel%20inicial)
-	1. [Principios generales](#4.1.%20Principios%20generales)
-	2. [Marco legislativo](#4.2.%20Marco%20legislativo)
-	3. [Criterios de selección](#4.3.%20Criterios%20de%20selección)
-	4. [Aplicación práctica a la guitarra](#4.4.%20Aplicación%20práctica%20a%20la%20guitarra)
-	5. [Repertorio y métodos recomendados](#4.5.%20Repertorio%20y%20métodos%20recomendados)
-5. [Bibliografía](#5.%20Bibliografía)
+1. [Introducción: El concepto de metodología](#Introducción%3A%20El%20concepto%20de%20metodología)
+2. [Descripción de los sistemas metodológicos más importantes](#Descripción%20de%20los%20sistemas%20metodológicos%20más%20importantes)
+	1. [Émile Jaques-Dalcroze](#Émile%20Jaques-Dalcroze)
+	2. [Zoltán Kodály](#Zoltán%20Kodály)
+	3. [Carl Orff](#Carl%20Orff)
+	4. [Edgar Willems](#Edgar%20Willems)
+	5. [Maurice Martenot](#Maurice%20Martenot)
+	6. [Leo Rinderer](#Leo%20Rinderer)
+	7. [Shinichi Suzuki](#Shinichi%20Suzuki)
+	8. [Laura Bassi](#Laura%20Bassi)
+	9. [Emilio Molina](#Emilio%20Molina)
+3. [Estudio comparado de los sistemas metodológicos](#Estudio%20comparado%20de%20los%20sistemas%20metodológicos)
+	1. [Clasificación histórica](#Clasificación%20histórica)
+	2. [Cuadro comparativo de los sistemas](#Cuadro%20comparativo%20de%20los%20sistemas)
+	3. [Sistema tradicional vs. sistema actual](#Sistema%20tradicional%20vs.%20sistema%20actual)
+4. [Criterios didácticos para la selección de repertorio a nivel inicial](#Criterios%20didácticos%20para%20la%20selección%20de%20repertorio%20a%20nivel%20inicial)
+	1. [Principios generales](#Principios%20generales)
+	2. [Marco legislativo](#Marco%20legislativo)
+	3. [Criterios de selección](#Criterios%20de%20selección)
+	4. [Aplicación práctica a la guitarra](#Aplicación%20práctica%20a%20la%20guitarra)
+	5. [Repertorio y métodos recomendados](#Repertorio%20y%20métodos%20recomendados)
+5. [Bibliografía](#Bibliografía)
 
-## 1. Introducción: El concepto de metodología
+## Introducción: El concepto de metodología
 
 - El diseño curricular, en sus diferentes niveles de concreción, responde a tres preguntas:
   - **Qué enseñar**: objetivos y contenidos del currículo
@@ -53,9 +53,9 @@
 - **Creatividad**: abarca la inventiva artística como eje del desarrollo musical
 - **Internalización**: el alumno debe desencadenar procesos de manera autónoma
 
-## 2. Descripción de los sistemas metodológicos más importantes
+## Descripción de los sistemas metodológicos más importantes
 
-### 2.1. Émile Jaques-Dalcroze
+### Émile Jaques-Dalcroze
 
 - Nació en Viena en 1865, compositor y teórico. Estudió con Anton Bruckner y Robert Fuchs, después en París con Léo Delibes[^7][^8][^9]
 - En 1892 ingresó en el Conservatorio de Ginebra; en 1910 creó su propia escuela en Hellerau
@@ -75,7 +75,7 @@
   2. **6–14 años**: se combinan rítmica y solfeo
   3. **Mayores de 14 años**: se utiliza la improvisación
 
-### 2.2. Zoltán Kodály
+### Zoltán Kodály
 
 - Compositor, musicólogo, director de orquesta y crítico húngaro, nació en 1882 en Kecskemét
 - Estudió composición en la Academia Musical y Filología en la universidad
@@ -93,7 +93,7 @@
 - «La música es una parte indispensable de la cultura universal. Aquéllos que no poseen conocimientos musicales tienen un desarrollo intelectual imperfecto»
 - Su sistema fue adoptado oficialmente por el estado húngaro, creando una red de centros estatales de enseñanza musical
 
-### 2.3. Carl Orff
+### Carl Orff
 
 - Compositor alemán (Munich, 1895–1982), conocido por *Carmina Burana* y su método pedagógico *Schulwerk*[^10][^11][^12]
 - Su método se apoya en el ritmo, el movimiento corporal y la improvisación, continuando las ideas de Dalcroze
@@ -110,7 +110,7 @@
 - Utiliza el cuerpo como instrumento principal (voz, manos, pies) e instrumentos de percusión de fácil manejo (xilófonos, metalófonos, etc.)
 - «Lo elemental significa siempre un comienzo; lo moderno se vuelve antiguo, lo elemental no tiene tiempo y existe en toda la tierra»
 
-### 2.4. Edgar Willems
+### Edgar Willems
 
 - Nació en 1890 en Lanaken (Bélgica). Pedagogo, musicólogo e investigador
 - Se formó en Ginebra (1925) con Malan; fue profesor del Conservatorio de Ginebra
@@ -133,7 +133,7 @@
   - Afirmar que los acordes son superposiciones de terceras
   - Presentar la escala como constituida solo por tonos y semitonos
 
-### 2.5. Maurice Martenot
+### Maurice Martenot
 
 - Nació en 1898 en Francia; fue ingeniero, sargento, violonchelista y radiotelegrafista
 - Conocido por descubrir las Ondas Martenot (1928)
@@ -145,7 +145,7 @@
 - Utiliza la negra como unidad de tiempo, la relajación y los juegos en silencio
 - Gran importancia de la memoria rítmica y melódica, así como de la audición interior
 
-### 2.6. Leo Rinderer
+### Leo Rinderer
 
 - Una de las personas más influyentes en la educación musical de Austria
 - Su método es un compendio del método Dalcroze, los principios psicológicos de Lechner y las investigaciones sobre el canto popular de Jöde
@@ -153,7 +153,7 @@
 - Sostiene que si un niño de 6 años se familiariza con 96 signos alfabéticos, también se le puede introducir gradualmente a la lectura musical, separando al principio ritmo y melodía
 - Punto de partida: un breve motivo con el intervalo descendente de tercera menor (do-la), al que se le incorporan notas inferiores y superiores
 
-### 2.7. Shinichi Suzuki
+### Shinichi Suzuki
 
 - Nació en Nagoya el 15 de octubre de 1898, violinista y pedagogo
 - Su padre era lutier; creció rodeado de instrumentos
@@ -167,7 +167,7 @@
 - El papel de los padres es fundamental: participan en la enseñanza con la misma intensidad que en otras actividades formativas
 - El talento no es hereditario; se adquiere y desarrolla según las circunstancias de los primeros años de vida
 
-### 2.8. Laura Bassi
+### Laura Bassi
 
 - Nació en la provincia de Perugia en 1883. Deseaba ser actriz y bailarina, estudió en el Istituto Magistrale y también piano
 - Impartió clases en diversas escuelas de música en Italia
@@ -178,7 +178,7 @@
 - Fragmentos musicales propios y de autores clásicos y contemporáneos
 - Las experiencias vivenciadas llevan a comprender ritmos, figuras y notas musicales
 
-### 2.9. Emilio Molina
+### Emilio Molina
 
 - Figura pedagógica española fundamental en el ámbito de la improvisación
 - Su método se basa en la improvisación, promoviendo el desarrollo integral de la creatividad y la imaginación, usando la improvisación como control del lenguaje
@@ -190,9 +190,9 @@
 - Propone dos métodos paralelos: uno con la partitura como punto de partida y otro con la partitura como objetivo
 - Para guitarra, se han publicado trabajos con la colaboración de profesores como Miguel J. Ferrer
 
-## 3. Estudio comparado de los sistemas metodológicos
+## Estudio comparado de los sistemas metodológicos
 
-### 3.1. Clasificación histórica
+### Clasificación histórica
 
 Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis períodos históricos:
 
@@ -203,7 +203,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - **Quinto período: transición (1980–1990)**: irrupción de la tecnología educativa musical, musicoterapia, práctica instrumental de grupo
 - **Sexto período: nuevos paradigmas pedagógicos (1990–)**: se generalizan las regulaciones legislativas con fuerte impulso de la educación musical. TIC, transversalidad, práctica de conjunto e improvisación
 
-### 3.2. Cuadro comparativo de los sistemas
+### Cuadro comparativo de los sistemas
 
 | Aspecto | Dalcroze | Kodály | Orff | Willems | Martenot | Suzuki | Bassi | Molina |
 |---|---|---|---|---|---|---|---|---|
@@ -216,7 +216,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 | **Folklore** | No específico | Base del método | Fuente de inspiración | No específico | No específico | No específico | No específico | No específico |
 | **Aplicación instrumental** | Indirecta (base rítmica) | Indirecta (base vocal) | Directa (percusión) | Indirecta (base auditiva) | Directa (Ondas Martenot) | Directa (violín) | Indirecta | Directa (piano, guitarra) |
 
-### 3.3. Sistema tradicional vs. sistema actual
+### Sistema tradicional vs. sistema actual
 
 | Aspecto | Sistema tradicional | Sistema actual (pedagogías activas) |
 |---|---|---|
@@ -235,9 +235,9 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - La reforma educativa (LOGSE y sucesivas) ha modificado la metodología de los conservatorios[^16]: nueva mentalidad del profesorado, mayor preparación didáctica, modificación de las materias del currículo
 - No obstante, el sistema tradicional ha cumplido una importante función social y ha formado a muchos profesionales con magníficos profesores
 
-## 4. Criterios didácticos para la selección de repertorio a nivel inicial
+## Criterios didácticos para la selección de repertorio a nivel inicial
 
-### 4.1. Principios generales
+### Principios generales
 
 - La enseñanza instrumental debe ser personalizada, adaptándose a las capacidades de cada alumno
 - La motivación es vital para potenciar las experiencias y el avance del alumno
@@ -248,7 +248,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - El repertorio instrumental es el medio para trabajar los contenidos del currículo y alcanzar los objetivos, pero también es el fin artístico de la actividad interpretativa
 - Debe ser objeto de estudio específico en las programaciones de enseñanzas elementales y profesionales
 
-### 4.2. Marco legislativo
+### Marco legislativo
 
 **Decreto 159/2007 (EE. elementales, CV), Art. 4:**
 - Apreciar la importancia de la música como lenguaje artístico y medio de expresión cultural
@@ -260,7 +260,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - Analizar y valorar críticamente las diferentes manifestaciones y estilos musicales
 - Conocer y valorar el patrimonio musical como parte del patrimonio histórico y cultural
 
-### 4.3. Criterios de selección
+### Criterios de selección
 
 - Adecuar la dificultad de las obras, estudios y ejercicios al desarrollo evolutivo y capacidad física de cada alumno
 - Las dificultades serán progresivas para que el alumno las afronte con garantías de superación
@@ -277,7 +277,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - Métodos globales que vayan del todo a la parte
 - Importancia del aprendizaje significativo
 
-### 4.4. Aplicación práctica a la guitarra
+### Aplicación práctica a la guitarra
 
 **Capacidades rítmicas y psicomotrices:**
 - Aplicar juegos de Dalcroze y Bassi adaptados al instrumento (ej. percusión en la caja de la guitarra, movimiento mientras se mantiene la posición)
@@ -301,7 +301,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - Realización de audiciones o muestras públicas
 - Variedad de estilos, autores y épocas para adquirir conocimiento histórico del repertorio guitarrístico
 
-### 4.5. Repertorio y métodos recomendados
+### Repertorio y métodos recomendados
 
 - *La guitarra paso a paso* (Luisa Sanz)
 - *Guitar Fun* (books 1, 2, 3) (Leslie Searle)
@@ -318,7 +318,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - *Método de Guitarra* (Dionisio Aguado)
 - Métodos de Daniel Fortea
 
-## 5. Bibliografía
+## Bibliografía
 
 - Alsina, P. (1997). *El área de educación musical: Propuestas para aplicar en el aula*. Barcelona: Graó.
 - Banks, S. (1982). "Orff-Schulwerk Teaches Musical Responsiveness". *Music Educators Journal*, 68(7), 42-43.
