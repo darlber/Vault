@@ -1,4 +1,4 @@
-# Tema 29. Principios de improvisación en el instrumento: recursos, materiales y procedimientos. La improvisación dirigida o libre. Uso de nuevos lenguajes y notaciones en la improvisación.
+# Principios de improvisación en el instrumento: recursos, materiales y procedimientos. La improvisación dirigida o libre. Uso de nuevos lenguajes y notaciones en la improvisación.
 
 ## Índice
 
@@ -28,9 +28,9 @@
 
 ## 2. Definición y tipos de improvisación musical. Improvisación dirigida y libre
 
-- **Violeta Hemsy de Gainza (1983)**: «ejecución sonora instantánea producida por un individuo o grupo de individuos que abarca desde la libertad total hasta la sujeción a pautas estrictas, desde la situación espontánea hasta la participación de la conciencia mental»
-- **Pasqual Pastor (1997)**: «la forma que mejor representa el juego simbólico sonoro; nace de la curiosidad manipuladora sobre la sonoridad de los instrumentos musicales en la búsqueda de significatividad»
-- **Emilio Molina**: «la herramienta que nos ayuda a desarrollar la capacidad de hablar música libremente y, convenientemente orientada, permite al músico convertirse en un colaborador del compositor que controla y dirige el desarrollo de sus ideas musicales. La improvisación nos ayuda a interiorizar las reglas que rigen un sistema musical y a transmitir, mediante el instrumento, la expresión de nuestra sensibilidad»
+- **Violeta Hemsy de Gainza (1983)**: «ejecución sonora instantánea producida por un individuo o grupo de individuos que abarca desde la libertad total hasta la sujeción a pautas estrictas, desde la situación espontánea hasta la participación de la conciencia mental»[^1]
+- **Pasqual Pastor (1997)**: «la forma que mejor representa el juego simbólico sonoro; nace de la curiosidad manipuladora sobre la sonoridad de los instrumentos musicales en la búsqueda de significatividad»[^2]
+- **Emilio Molina**: «la herramienta que nos ayuda a desarrollar la capacidad de hablar música libremente y, convenientemente orientada, permite al músico convertirse en un colaborador del compositor que controla y dirige el desarrollo de sus ideas musicales. La improvisación nos ayuda a interiorizar las reglas que rigen un sistema musical y a transmitir, mediante el instrumento, la expresión de nuestra sensibilidad»[^3]
 
 ### Clasificación según la finalidad (Hemsy de Gainza)
 - **Improvisación recreativa**: actividad placentera del músico aficionado
@@ -55,8 +55,8 @@
 - La improvisación potencia la originalidad y espontaneidad innatas del alumnado
 - Es un elemento didáctico de gran importancia para el desarrollo cognitivo, afectivo y psicomotor, con beneficios extensibles a todas las áreas del currículo mediante actividades lúdicas
 - Permite expresar sentimientos, dinamiza el nivel cognitivo y la psicomotricidad, potencia la identidad y autonomía personal
-- **Alsina (1999)**: «Hacer música mediante la improvisación implica la intervención del cuerpo entero, el equilibrio, la coordinación audio-viso-corporal y el establecimiento de combinaciones espacio-temporales»
-- **Consuelo Arguedas Quesada**: «Al integrar la improvisación musical con el quehacer cotidiano escolar se desarrolla la atención, la memoria, el razonamiento, la imaginación, la expresión y la creatividad»
+- **Alsina (1999)**: «Hacer música mediante la improvisación implica la intervención del cuerpo entero, el equilibrio, la coordinación audio-viso-corporal y el establecimiento de combinaciones espacio-temporales»[^4]
+- **Consuelo Arguedas Quesada**: «Al integrar la improvisación musical con el quehacer cotidiano escolar se desarrolla la atención, la memoria, el razonamiento, la imaginación, la expresión y la creatividad»[^5]
 
 ## 4. Presencia de la improvisación en la historia de la música
 
@@ -69,7 +69,7 @@
 - **Principios del s. XX**: la improvisación decae en la música clásica europea. Se potencia la figura del intérprete con elevado nivel técnico, dedicación exclusiva, abandonando una formación musical más amplia
 - Los conservatorios decimonónicos se encargaron de esta nueva función: adiestramiento técnico, lecto-escritura musical, práctica de escalas, notas tenidas. La creatividad y la improvisación desaparecieron de las aulas, reservadas a los estudiantes de Composición
 - La irrupción del jazz revitalizó el arte de la improvisación
-- La revitalización pedagógica vino de la mano de los grandes pedagogos del s. XX (Willems, Hemsy de Gainza, Dalcroze, Orff), inicialmente centrados en la enseñanza general. En los últimos años estas metodologías están apareciendo lentamente en los conservatorios
+- La revitalización pedagógica vino de la mano de los grandes pedagogos del s. XX (Willems, Hemsy de Gainza, Dalcroze, Orff), inicialmente centrados en la enseñanza general. En los últimos años estas metodologías están apareciendo lentamente en los conservatorios[^6][^7]
 
 ## 5. Improvisación musical en la clase de instrumento
 
@@ -105,7 +105,7 @@
 
 ### 5.3. Metodología IEM (Emilio Molina)
 
-- El Instituto de Educación Musical (IEM) ha sistematizado la aplicación de la improvisación en conservatorios y escuelas de música
+- El Instituto de Educación Musical (IEM) ha sistematizado la aplicación de la improvisación en conservatorios y escuelas de música[^8]
 - Principios:
   1. La metodología IEM se basa en el **análisis** (proporciona conocimientos) y la **improvisación** (potencia la práctica y la interpretación a partir del análisis)
   2. La partitura es la fuente de conocimientos. El análisis proporciona información sobre frases, motivos, armonía, patrones, sintaxis, desarrollo
@@ -113,7 +113,7 @@
   4. La improvisación ayuda a extraer ejercicios aptos para cada nivel, ponerlos en práctica y asimilar las reglas del sistema musical
 - «Improvisar en música es lo más próximo al hablar en el lenguaje común. Ejecutar obras musicales equivale a recitar poesías u obras de teatro»
 - Objetivos de la improvisación: a) interiorizar reglas del lenguaje, b) aportar recursos de trabajo adaptables a cualquier alumno y nivel, c) desarrollar capacidad auditiva, memorización, interpretación, capacidad expresiva e imaginación creadora
-- Aportaciones de la metodología: globalización, aplicación de la improvisación como proceso inherente, incorporación temprana de la armonía, potenciación del análisis, desarrollo de la creatividad, articulación en unidades didácticas
+- Aportaciones de la metodología: globalización, aplicación de la improvisación como proceso inherente, incorporación temprana de la armonía, potenciación del análisis, desarrollo de la creatividad, articulación en unidades didácticas[^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20]
 
 ## 6. La improvisación en el jazz
 
@@ -125,7 +125,7 @@
 - Los solistas improvisan en orden establecido (líder, otros solistas, instrumento armónico, bajo, batería). Tras el último break, el grupo interpreta el head completo y una coda final
 - La improvisación también está presente en los elementos rítmicos y armónicos (piano, bajo, guitarra)
 - La partitura de jazz muestra una línea melódica con «cifrado americano», sin notas escritas para el acompañamiento
-- Lo único prefijado es la melodía, el arreglo, el orden de solos y la finalización; estos elementos pueden variar en cada interpretación
+- Lo único prefijado es la melodía, el arreglo, el orden de solos y la finalización; estos elementos pueden variar en cada interpretación[^21][^22]
 
 ### 6.2. Estrategias de improvisación
 
@@ -137,7 +137,7 @@
 - **Centros tonales**: organizar el solo a partir de las escalas diatónicas de las tonalidades, simplificando la improvisación. Originado con el Bebop y su carácter virtuosístico
 - La improvisación por escalas es más fácil para principiantes pero puede resultar mecánica si obvia los acordes
 - Escalas utilizadas: diatónicas, pentatónicas, hexágonas (sin semitonos), escalas alteradas
-- **Forma musical**: esquemas A-A', A-A-B, A-A-B-A. Es común organizar el solo desarrollando una misma idea durante un chorus completo o una sección
+- **Forma musical**: esquemas A-A', A-A-B, A-A-B-A. Es común organizar el solo desarrollando una misma idea durante un chorus completo o una sección[^23][^24][^25][^26]
 
 ## 7. Uso de nuevos lenguajes y notaciones en la improvisación
 
@@ -161,8 +161,8 @@
   - **Música electrónica**: realizada con sintetizadores y dispositivos electrónicos
   - **Música concreta**: utiliza sonidos grabados y manipulados electrónicamente
   - **Música electroacústica**: fusión de las corrientes electrónica y concreta
-- Cada compositor usa nuevos símbolos y formas de escritura (dibujos, fórmulas matemáticas, nuevas grafías) explicadas al inicio de la partitura
-- Estas nuevas grafías son el lenguaje de la improvisación musical en los siglos XX y XXI. El contacto con ellas es fundamental para los alumnos desde las primeras etapas educativas
+- Cada compositor usa nuevos símbolos y formas de escritura (dibujos, fórmulas matemáticas, nuevas grafías) explicadas al inicio de la partitura[^27][^28]
+- Estas nuevas grafías son el lenguaje de la improvisación musical en los siglos XX y XXI. El contacto con ellas es fundamental para los alumnos desde las primeras etapas educativas[^29]
 
 ## 8. Conclusiones
 
@@ -174,80 +174,92 @@
 
 ## 9. Bibliografía #REVISAR_OPENCODE
 
-- Contreras, A. de: *El «guitagrama»: un lenguaje para la composición musical dinámica*. Departamento de Estética e Historia de la Filosofía. Universidad de Sevilla, 2002
-- Crook, H.: *How to Improvise*. Advance Music. Rottenburg, 1991
-- Crook, H.: *Ready, Aim, Improvise!*. Advance Music. Rottenburg, 1999
-- Davis, M. y Troupe, Q.: *Miles, La Autobiografía*. Ediciones B. Barcelona, 1991
-- Gioia, T.: *Historia del Jazz*. Turner. Madrid, 2002
-- Levine, M.: *The Jazz Theory Book*. Sher Music Co. Petaluma, California, 1995
-- Molina, E. (1988): «Improvisación y educación musical profesional». *Música y Educación*, Vol. 1, 1, n.º 1, p. 33-55
-- Molina, E. (1994): «La improvisación. Aportaciones pedagógicas a la enseñanza musical». *Música*, n.º 1, RCSMM, Madrid
-- Molina, E. (1994): «La improvisación. Nueva metodología de enseñanza musical». *Revista galega do ensino*, n.º 2. La Coruña
-- Molina, E. (2003): «La lectura a primera vista análisis». *Música y Educación*, Vol. 16, 2, n.º 54, p. 73-90
-- Molina, E., Roca, A. D. y Roncero, M. A. (2004): «La Improvisación como sistema pedagógico». 26.º ISME World Conference. Tenerife
-- Molina, E. (2005): «La Improvisación en la Educación Musical (Metodología IEM)». *Alzapúa*, n.º 11
-- Molina, E. (2006): «Análisis, improvisación e interpretación». *Eufonía*, n.º 36
-- Molina, E. (2008): «Estudios de Chopin. Análisis y metodología de trabajo. Metodología IEM». Jornadas de Pedagogía. Barcelona
-- Molina, E. (2008): «Improvisación y educación musical. Breve historia, definición y aplicación pedagógica». X Congreso de la SIBE. Salamanca
-- Molina, E. (2008): «La improvisación como sistema pedagógico...». I Congreso de educación e investigación musical. Madrid
-- Molina, E. (2008): «La improvisación. Definiciones y puntos de vista». *Música y Educación*, Vol. 21, 3, n.º 75, p. 78-94
-- Molina, E. (2009): «La improvisación y el análisis como herramientas de creación musical en una orquesta de jóvenes». *Eufonía*, n.º 47
-- Molina, E. (2009): «Pirámide de Niveles de Síntesis...». Comunicación. Encuentro nacional de análisis. Las Palmas
-- Molina, E. (2011): «Hacer música para aprender a componer. Composición en grupo». *Eufonía*, n.º 51, p. 53-64
-- Monson, I.: *Saying Something (jazz improvisation and interaction)*. The University of Chicago Press, 1996
-- Nettl, B. y Russell, M.: *In the course of Performance*. The University of Chicago Press, 1998
-- Ryan, L. F.: *The Natural Classical Guitar*. The Bold Strummer, Ltd. Westport, Connecticut, 1991
-- Sadie, S. (Ed.): *The New Grove Dictionary of Music and Musicians*. Macmillan. London, 1980
-- Sloboda, J. A. (Ed.): *Generative Processes in Music*. Clarendon Press. Oxford, 1988
+- Alsina, P. (1999). *La música en la escuela infantil (0-6)*. Barcelona: Graó
+- Arguedas Quesada, C. (2003). «La improvisación musical y el currículo escolar». *Actualidades Investigativas en Educación*, 3(2). Universidad de Costa Rica
+- Contreras, A. de (2002). *El «guitagrama»: un lenguaje para la composición musical dinámica*. Sevilla: Universidad de Sevilla
+- Crook, H. (1991). *How to Improvise*. Rottenburg: Advance Music
+- Crook, H. (1999). *Ready, Aim, Improvise!*. Rottenburg: Advance Music
+- Davis, M. y Troupe, Q. (1991). *Miles, La Autobiografía*. Barcelona: Ediciones B
+- Gainza, V. H. de (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
+- Gioia, T. (2002). *Historia del Jazz*. Madrid: Turner
+- Levine, M. (1995). *The Jazz Theory Book*. Petaluma, CA: Sher Music
+- Molina, E. (1988). «Improvisación y educación musical profesional». *Música y Educación*, 1(1), 33-55
+- Molina, E. (1994). «La improvisación. Aportaciones pedagógicas a la enseñanza musical». *Música*, 1. Madrid: RCSMM
+- Molina, E. (1994). «La improvisación. Nueva metodología de enseñanza musical». *Revista galega do ensino*, 2
+- Molina, E. (2003). «La lectura a primera vista análisis». *Música y Educación*, 16(54), 73-90
+- Molina, E., Roca, A. D. y Roncero, M. A. (2004). «La Improvisación como sistema pedagógico». 26.º ISME World Conference. Tenerife
+- Molina, E. (2005). «La Improvisación en la Educación Musical (Metodología IEM)». *Alzapúa*, 11
+- Molina, E. (2006). «Análisis, improvisación e interpretación». *Eufonía*, 36
+- Molina, E. (2008). «Estudios de Chopin. Análisis y metodología de trabajo. Metodología IEM». Jornadas de Pedagogía. Barcelona
+- Molina, E. (2008). «Improvisación y educación musical. Breve historia, definición y aplicación pedagógica». X Congreso de la SIBE. Salamanca
+- Molina, E. (2008). «La improvisación como sistema pedagógico…». I Congreso de educación e investigación musical. Madrid
+- Molina, E. (2008). «La improvisación. Definiciones y puntos de vista». *Música y Educación*, 21(75), 78-94
+- Molina, E. (2009). «La improvisación y el análisis como herramientas de creación musical en una orquesta de jóvenes». *Eufonía*, 47
+- Molina, E. (2009). «Pirámide de Niveles de Síntesis…». Comunicación. Encuentro nacional de análisis. Las Palmas
+- Molina, E. (2011). «Hacer música para aprender a componer. Composición en grupo». *Eufonía*, 51, 53-64
+- Monson, I. (1996). *Saying Something (jazz improvisation and interaction)*. Chicago: The University of Chicago Press
+- Nettl, B. y Russell, M. (1998). *In the course of Performance*. Chicago: The University of Chicago Press
+- Pastor, P. (1997). «Creatividad/improvisación» (monografía). *Eufonía*, 8. Barcelona: Graó
+- Ryan, L. F. (1991). *The Natural Classical Guitar*. Westport, CT: The Bold Strummer
+- Sadie, S. (ed.) (1980). *The New Grove Dictionary of Music and Musicians*. London: Macmillan
+- Sloboda, J. A. (ed.) (1988). *Generative Processes in Music*. Oxford: Clarendon Press
 
 # NOTAS #REVISAR_OPENCODE
 
-[^1]: Contreras, A. de: *El «guitagrama»: un lenguaje para la composición musical dinámica*. Departamento de Estética e Historia de la Filosofía. Universidad de Sevilla, 2002
+[^1]: Gainza (1983). *La improvisación musical*
 
-[^2]: Crook, H.: *How to Improvise*. Advance Music. Rottenburg, 1991
+[^2]: Pastor (1997). «Creatividad/improvisación»
 
-[^3]: Crook, H.: *Ready, Aim, Improvise!*. Advance Music. Rottenburg, 1999
+[^3]: Molina (2006). «Análisis, improvisación e interpretación»
 
-[^4]: Davis, M. y Troupe, Q.: *Miles, La Autobiografía*. Ediciones B. Barcelona, 1991
+[^4]: Alsina (1999). *La música en la escuela infantil (0-6)*
 
-[^5]: Gioia, T.: *Historia del Jazz*. Turner. Madrid, 2002
+[^5]: Arguedas Quesada (2003). «La improvisación musical y el currículo escolar»
 
-[^6]: Levine, M.: *The Jazz Theory Book*. Sher Music Co. Petaluma, California, 1995
+[^6]: Sadie (ed.) (1980). *The New Grove Dictionary of Music and Musicians*
 
-[^7]: Molina, E. (1988): «Improvisación y educación musical profesional». *Música y Educación*, Vol. 1, 1, n.º 1, p. 33-55
+[^7]: Nettl y Russell (1998). *In the course of Performance*
 
-[^8]: Molina, E. (1994): «La improvisación. Aportaciones pedagógicas a la enseñanza musical». *Música*, n.º 1, RCSMM, Madrid
+[^8]: Molina (2005). «La Improvisación en la Educación Musical (Metodología IEM)»
 
-[^9]: Molina, E. (1994): «La improvisación. Nueva metodología de enseñanza musical». *Revista galega do ensino*, n.º 2. La Coruña
+[^9]: Molina (1988). «Improvisación y educación musical profesional»
 
-[^10]: Molina, E. (2003): «La lectura a primera vista análisis». *Música y Educación*, Vol. 16, 2, n.º 54, p. 73-90
+[^10]: Molina (1994). «La improvisación. Aportaciones pedagógicas…»
 
-[^11]: Molina, E., Roca, A. D. y Roncero, M. A. (2004): «La Improvisación como sistema pedagógico». 26.º ISME World Conference. Tenerife
+[^11]: Molina (1994). «La improvisación. Nueva metodología…»
 
-[^12]: Molina, E. (2005): «La Improvisación en la Educación Musical (Metodología IEM)». *Alzapúa*, n.º 11
+[^12]: Molina (2003). «La lectura a primera vista análisis»
 
-[^13]: Molina, E. (2006): «Análisis, improvisación e interpretación». *Eufonía*, n.º 36
+[^13]: Molina, Roca y Roncero (2004). «La Improvisación como sistema pedagógico»
 
-[^14]: Molina, E. (2008): «Estudios de Chopin. Análisis y metodología de trabajo. Metodología IEM». Jornadas de Pedagogía. Barcelona
+[^14]: Molina (2008). «Estudios de Chopin…»
 
-[^15]: Molina, E. (2008): «Improvisación y educación musical. Breve historia, definición y aplicación pedagógica». X Congreso de la SIBE. Salamanca
+[^15]: Molina (2008). «Improvisación y educación musical…»
 
-[^16]: Molina, E. (2008): «La improvisación como sistema pedagógico...». I Congreso de educación e investigación musical. Madrid
+[^16]: Molina (2008). «La improvisación como sistema pedagógico…»
 
-[^17]: Molina, E. (2008): «La improvisación. Definiciones y puntos de vista». *Música y Educación*, Vol. 21, 3, n.º 75, p. 78-94
+[^17]: Molina (2008). «La improvisación. Definiciones y puntos de vista»
 
-[^18]: Molina, E. (2009): «La improvisación y el análisis como herramientas de creación musical en una orquesta de jóvenes». *Eufonía*, n.º 47
+[^18]: Molina (2009). «La improvisación y el análisis…»
 
-[^19]: Molina, E. (2009): «Pirámide de Niveles de Síntesis...». Comunicación. Encuentro nacional de análisis. Las Palmas
+[^19]: Molina (2009). «Pirámide de Niveles de Síntesis…»
 
-[^20]: Molina, E. (2011): «Hacer música para aprender a componer. Composición en grupo». *Eufonía*, n.º 51, p. 53-64
+[^20]: Molina (2011). «Hacer música para aprender a componer…»
 
-[^21]: Monson, I.: *Saying Something (jazz improvisation and interaction)*. The University of Chicago Press, 1996
+[^21]: Gioia (2002). *Historia del Jazz*
 
-[^22]: Nettl, B. y Russell, M.: *In the course of Performance*. The University of Chicago Press, 1998
+[^22]: Levine (1995). *The Jazz Theory Book*
 
-[^23]: Ryan, L. F.: *The Natural Classical Guitar*. The Bold Strummer, Ltd. Westport, Connecticut, 1991
+[^23]: Crook (1991). *How to Improvise*
 
-[^24]: Sadie, S. (Ed.): *The New Grove Dictionary of Music and Musicians*. Macmillan. London, 1980
+[^24]: Crook (1999). *Ready, Aim, Improvise!*
 
-[^25]: Sloboda, J. A. (Ed.): *Generative Processes in Music*. Clarendon Press. Oxford, 1988
+[^25]: Monson (1996). *Saying Something*
+
+[^26]: Davis y Troupe (1991). *Miles, La Autobiografía*
+
+[^27]: Contreras (2002). *El «guitagrama»*
+
+[^28]: Ryan (1991). *The Natural Classical Guitar*
+
+[^29]: Sloboda (ed.) (1988). *Generative Processes in Music*
