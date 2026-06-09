@@ -6,7 +6,7 @@
 ---
 
 ## 1. Finalidad del documento
-- Objetivo del informe: Recopilación de información pública (OSINT pasivo) sobre rcsmm.eu — Real Conservatorio Superior de Música de Madrid (RCSMM)
+- Objetivo del informe: Recopilación de información pública (OSINT pasivo) sobre `rcsmm.eu` — Real Conservatorio Superior de Música de Madrid (RCSMM)
 - Alcance: Dominio principal, subdominios, infraestructura DNS, hosting, tecnologías, personal identificable, registros de seguridad email
 - Limitaciones: Solo fuentes públicas sin autenticación. Sin escaneo activo de puertos ni pruebas de intrusión. Sin acceso a WHOIS completo por protección GDPR del TLD .eu
 
@@ -31,7 +31,7 @@
 - Plataformas externas: CODEX (codex.pro — gestión académica y notas), WebUntis (rcsmm.webuntis.com — horarios públicos con nombres de profesores)
 
 ### 2.2 Apariciones destacadas en los medios
-- Noticias relevantes: Institución centenaria (1830), referente en enseñanza musical en España. Múltiples conciertos y masterclasses públicas publicadas en su web
+- Noticias relevantes: Institución centenaria (1830), referente en enseñanza musical en España. Múltiples conciertos y *masterclasses* públicas publicadas en su web
 - Entrevistas: No se detectaron entrevistas específicas en fuentes abiertas
 - Apariciones en prensa: Web incluye sección de prensa con manual de marca y logotipos descargables
 
