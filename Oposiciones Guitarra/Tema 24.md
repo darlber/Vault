@@ -1,4 +1,4 @@
-# Tema 24. La transcripción: Conceptos generales, antecedentes históricos, criterios sobre la interpretación de transcripciones. Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales.
+# La transcripción: Conceptos generales, antecedentes históricos, criterios sobre la interpretación de transcripciones. Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales.
 
 ## Índice
 
@@ -15,7 +15,7 @@ La definición de transcripción musical puede definirse de diferentes formas. U
 
 Sin embargo nosotros vamos a tratar la transcripción musical de una pieza escrita en notación mensural para un instrumento diferente de la guitarra, a este último. Generalmente las transcripciones para guitarra de música para otros instrumentos han sido consideradas retos técnicos para el guitarrista. Este hecho ha supuesto que algunas transcripciones hayan sido extremadamente complejas a la hora de ser ejecutadas y por tanto no respetasen el espíritu de la partitura original. Para hacer una transcripción hay que tener en cuenta que las dificultades técnicas que esta tiene que tener no debe ir más allá de las dificultades técnicas que plantea la obra original.
 
-La transcripción en guitarra toma fuerza a partir de la figura de Tárrega, que fue el primero en transcribir algunas obras de Albéniz para guitarra. Posteriormente se desarrolla un interés por la música antigua. Dicho interés es compartido por alumnos de Tárrega como Miguel Llobet, Emilio Pujol, Daniel Fortea, María Luisa Anido, Louise Walker, los cuales son conscientes de la necesidad de ampliar el repertorio para guitarra en un momento histórico en el que está en auge.
+La transcripción en guitarra toma fuerza a partir de la figura de Tárrega[^1], que fue el primero en transcribir algunas obras de Albéniz para guitarra. Posteriormente se desarrolla un interés por la música antigua. Dicho interés es compartido por alumnos de Tárrega como Miguel Llobet, Emilio Pujol, Daniel Fortea, María Luisa Anido, Louise Walker, los cuales son conscientes de la necesidad de ampliar el repertorio para guitarra en un momento histórico en el que está en auge.
 
 Pedrell favorece también el interés hacia la música antigua, consiguiendo que guitarristas como Emilio Pujol empiecen a realizar multitud de transcripciones de esta época. El repertorio de la música antigua está escrito en tablatura, lo que favorece un acercamiento a los guitarristas. Todo lo relativo a la transcripción de tablaturas se puede leer en los temas 9, 10, 11, 12, 13 y 14 de este temario. También se puede encontrar información en la *Escuela Razonada de la Guitarra* de Emilio Pujol, en el Capítulo IX «La Escritura para Guitarra».
 
@@ -48,7 +48,7 @@ Algunos de sus escritos musicales y de sus ediciones son los siguientes:
 
 Todas las transcripciones de música antigua española publicadas por Emilio Pujol conservadas en la Biblioteca Nacional de Madrid se recogen en el ANEXO II c.
 
-**Andrés Segovia (1893-1987).** Fue uno de los intérpretes más relevantes en el siglo XX, o quizá el más relevante. Realizó transcripciones de Bach o de Frescobaldi; sin embargo, solo realizó una transcripción de vihuela, y ninguna de guitarra barroca. La única pieza transcrita y editada fue: Mudarra, Alonso: *Romanesca* (London: Schotts & Co. Ltd., 1939; también en Mainz: B. Schotts Söhne, 1939).
+**Andrés Segovia (1893-1987).** Fue uno de los intérpretes más relevantes en el siglo XX, o quizá el más relevante[^2]. Realizó transcripciones de Bach o de Frescobaldi; sin embargo, solo realizó una transcripción de vihuela, y ninguna de guitarra barroca. La única pieza transcrita y editada fue: Mudarra, Alonso: *Romanesca* (London: Schotts & Co. Ltd., 1939; también en Mainz: B. Schotts Söhne, 1939).
 
 **Regino Sainz de la Maza (1896-1981).** Fue un intérprete cosmopolita el cual mantuvo una excelente relación con los artistas de su época, en concreto con los músicos de la generación del 27. Tuvo una gran relación con Joaquín Rodrigo, el cual le dedicó el *Concierto de Aranjuez*, y además fue nombrado Catedrático del Conservatorio de Música de Madrid en 1935. Sainz de la Maza se preocupa por investigar el repertorio de cuerda pulsada, sin embargo solo publica tres:
 - Gaspar Sanz, *Danzas Cervantinas*: 1. Folías; 2. Españoleta; 3. Marizápalos; Canarios; UME 20236, 1963.
@@ -57,11 +57,11 @@ Todas las transcripciones de música antigua española publicadas por Emilio Puj
 
 El 10 de Marzo de 1958, con motivo de su ingreso en la Real Academia de Bellas Artes de Madrid, realizó un discurso titulado *La música de laúd, vihuela y guitarra del Renacimiento al Barroco*. Ha realizado ensayos y libros sobre el tema entre los que destacamos: *La guitarra en la primitiva música de España*, en Revista Nacional de Educación 1 (1941/1942), n. 1, p. 71; *La guitarra y su historia*, Madrid, Ateneo, 1955; *La música de laúd, vihuela y guitarra de renacimiento al barroco*, discurso leído el día 10 de marzo de 1958, en su recepción pública, Madrid, Real Academia de Bellas Artes de San Fernando, 1958.
 
-**Narciso Yepes (1927-1999).** En 1947 interpreta con tan solo 20 años de edad el *Concierto de Aranjuez* bajo la dirección de Ataulfo Argenta, lo que le hizo mantener una estrecha relación con el compositor Joaquín Rodrigo. Es muy popular por la utilización desde 1964 de la guitarra de 10 cuerdas; en ella comenzará a tocar transcripciones de música antigua. Las principales transcripciones de música de cuerda pulsada que editará serán: *Seis pavanas* de Luis de Milán (SC, 1982), *Siete diferencias sobre «Guárdame las vacas»* de Luys de Narváez (MXE), *Suite Española* de Gaspar Sanz (UME, 1971).
+**Narciso Yepes (1927-1999).** En 1947 interpreta con tan solo 20 años de edad el *Concierto de Aranjuez* bajo la dirección de Ataulfo Argenta, lo que le hizo mantener una estrecha relación con el compositor Joaquín Rodrigo[^3]. Es muy popular por la utilización desde 1964 de la guitarra de 10 cuerdas; en ella comenzará a tocar transcripciones de música antigua. Las principales transcripciones de música de cuerda pulsada que editará serán: *Seis pavanas* de Luis de Milán (SC, 1982), *Siete diferencias sobre «Guárdame las vacas»* de Luys de Narváez (MXE), *Suite Española* de Gaspar Sanz (UME, 1971).
 
 ### Instrumentos de cuerda pulsada. Instrumentos derivados del laúd
 
-Para realizar transcripciones de instrumentos antiguos derivados del laúd, primero tendremos que conocer algunas de sus características.
+Para realizar transcripciones de instrumentos antiguos derivados del laúd, primero tendremos que conocer algunas de sus características[^4].
 
 **Archilaúd.** Este instrumento posee seis órdenes que tradicionalmente tenía el laúd, pero con la adición de un nuevo clavijero, elevado sobre el primero y en el que están situados los bordones, en el orden diatónico descendente. Alejandro Piccino se atribuye la invención de este instrumento; podemos leer en el documento *Instrumentos de cuerda frotada y pulsada*, de Cristóbal Vallés Soler: «y yo lo sé porque he sido el inventor de estos archilaúdes... que esto es cierto puede comprobarse porque el año 1594 fui a Padua, a la tienda de Cristóbal Haberle, el más importante fabricante de laúdes y le encargué me hiciera, para probarlo, un laúd que tuviese un cuerpo tan largo que sirviera para tocar los contrabajos». Por otro lado, existe otra teoría que habla sobre la autoría del instrumento por parte de G. Jerónimo Kapsberger.
 
@@ -86,7 +86,7 @@ Algunos de los compositores para mandolina son:
 
 ### Instrumentos derivados de la guitarra
 
-**Bandurria.** Aunque no existe mucha documentación acerca de este instrumento en el siglo XVI, sí que podemos conocer que fue pequeña, de tesitura y órdenes afinados en quintas, gracias a Bermudo. La bandurria adquirió cinco y seis órdenes dobles en los siglos XVII y XVIII. Comúnmente se tocaba con plectro.
+**Bandurria.**[^5] Aunque no existe mucha documentación acerca de este instrumento en el siglo XVI, sí que podemos conocer que fue pequeña, de tesitura y órdenes afinados en quintas, gracias a Bermudo. La bandurria adquirió cinco y seis órdenes dobles en los siglos XVII y XVIII. Comúnmente se tocaba con plectro.
 
 **Chitarra battente y Chitarriglia.** La primera tenía cinco órdenes de metal y se tocaba con plectro. Se puede intuir que el instrumento aparecería a mediados del siglo XVIII; no ha sobrevivido literatura escrita del instrumento, lo que nos hace pensar que pudo ser un instrumento utilizado para música popular. El segundo instrumento está afinado como la guitarra española pero en registro más agudo. Poseía cinco órdenes y sus referencias se pueden encontrar en libros como los de Pesori.
 
@@ -127,29 +127,29 @@ Andrés Segovia se da cuenta de las posibilidades que la música de Bach y de Sc
 
 > La ilusión polifónica es una de las más antiguas tradiciones del laúd y de la guitarra (...) no se pueden mantener las voces de forma escrita (...) una técnica basada en acordes arpegiados irregulares, ascendentes y descendentes tenía que ser desarrollada para dar la impresión de que las partes sonaban simultáneamente (...) Cualquiera que haya escuchado a Andrés Segovia sabe a lo que me refiero. La música de Scarlatti está a medio camino entre la polifonía real del órgano, con acordes y voces simultáneas, y la polifonía «impresionista» de la guitarra, con sus acordes arpegiados y voces sincopadas.
 
-En cuanto a las transcripciones de música de Bach, podemos encontrar mucha información en los artículos de Stanley Yates, donde podemos encontrar valiosa información para realizar nuestras transcripciones, tanto de la Suite de laúd como de violín o violonchelo. En general, hay que buscar la mejor conducción polifónica, así como la mejor disposición armónica en nuestra transcripción. Puede resultar más sencillo la transcripción de música para instrumentos de cuerda pulsada que tengan un número de órdenes similar a la guitarra.
+En cuanto a las transcripciones de música de Bach, podemos encontrar mucha información en los artículos de Stanley Yates[^6], donde podemos encontrar valiosa información para realizar nuestras transcripciones, tanto de la Suite de laúd como de violín o violonchelo. En general, hay que buscar la mejor conducción polifónica, así como la mejor disposición armónica en nuestra transcripción. Puede resultar más sencillo la transcripción de música para instrumentos de cuerda pulsada que tengan un número de órdenes similar a la guitarra.
 
 Este tema puede ser ampliado con los apartados de edición y transcripción de los temas del 9 al 14.
 
-## Bibliografía #REVISAR_OPENCODE
+## Bibliografía
 
-- Blanco Bohigas, Alberto: *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*.
-- Radole, Giuseppe: *Laúd, guitarra y vihuela* (1982)
-- Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
-- Tyler, James: *The Early Guitar* (1980)
-- Wade, Graham: *Traditions of the classical guitar* (1953)
-- Yates, Stanley: *Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar* (1998)
+- Blanco Bohigas, A. (2011). *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*. Trabajo de Investigación. Máster Universitario en Creación e Interpretación Musical. Universidad Rey Juan Carlos, Madrid.
+- Radole, G. (1979). *Liuto, chitarra e vihuela: storia e letteratura*. Milano: Suvini Zerboni. [Trad. esp.: *Laúd, guitarra y vihuela: historia y literatura*. Barcelona: Don Bosco, 1982.]
+- Turnbull, H. (1974). *The Guitar from the Renaissance to the Present Day*. London: Batsford.
+- Tyler, J. (1980). *The Early Guitar: A History and Handbook*. London: Oxford University Press.
+- Wade, G. (1980). *Traditions of the Classical Guitar*. London: John Calder.
+- Yates, S. (1998). "Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar". *Classical Guitar Magazine*, 17(3), 24-29; 17(4), 20-22; 17(5), 20-26; 17(6).
 
-# NOTAS #REVISAR_OPENCODE
+# NOTAS
 
-[^1]: Blanco Bohigas, Alberto: *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*.
+[^1]: Turnbull, H. (1974). *The Guitar from the Renaissance to the Present Day*. London: Batsford.
 
-[^2]: Radole, Giuseppe: *Laúd, guitarra y vihuela* (1982)
+[^2]: Wade, G. (1980). *Traditions of the Classical Guitar*. London: John Calder.
 
-[^3]: Turnbull, Harvey: *The Guitar from the Renaissance to the present* (1976)
+[^3]: Blanco Bohigas, A. (2011). *Influencia de la música de vihuela y guitarra barroca en la obra orquestal para guitarra de Joaquín Rodrigo: Fantasía para un Gentilhombre*. Trabajo de Investigación. Universidad Rey Juan Carlos, Madrid.
 
-[^4]: Tyler, James: *The Early Guitar* (1980)
+[^4]: Radole, G. (1979). *Liuto, chitarra e vihuela: storia e letteratura*. Milano: Suvini Zerboni. [Trad. esp.: *Laúd, guitarra y vihuela: historia y literatura*. Barcelona: Don Bosco, 1982.]
 
-[^5]: Wade, Graham: *Traditions of the classical guitar* (1953)
+[^5]: Tyler, J. (1980). *The Early Guitar: A History and Handbook*. London: Oxford University Press.
 
-[^6]: Yates, Stanley: *Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar* (1998)
+[^6]: Yates, S. (1998). "Bach's Unaccompanied String Music: A New (Historical) Approach to Stylistic and Idiomatic Transcription for the Guitar". *Classical Guitar Magazine*, 17(3), 24-29; 17(4), 20-22; 17(5), 20-26; 17(6).
