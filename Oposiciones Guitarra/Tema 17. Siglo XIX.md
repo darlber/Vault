@@ -103,7 +103,7 @@ Compuso unas veinte piezas para guitarra (fantasías, valses y otros) y desgraci
 
 ### Antonio Cano (1811-1897)
 
-Antonio Cano nació en Lorca (Murcia) en 1811 y fue uno de los guitarristas más importantes de esta segunda mitad de siglo. Estudió con Ayala, se perfeccionó con Indalecio Soriano Fuertes (Maestro de la Real Capilla y organista de la Colegiata de Santa María de Calatayud)[^17][^16] y estudió los métodos de Aguado (mientras aún vivía en Lorca). Se trasladó a Madrid a estudiar y allí se formó en Música y Cirugía.
+Antonio Cano nació en Lorca (Murcia) en 1811 y fue uno de los guitarristas más importantes de esta segunda mitad de siglo. Estudió con Ayala, se perfeccionó con Indalecio Soriano Fuertes (Maestro de la Real Capilla y organista de la Colegiata de Santa María de Calatayud)[^16][^17] y estudió los métodos de Aguado (mientras aún vivía en Lorca). Se trasladó a Madrid a estudiar y allí se formó en Música y Cirugía.
 
 Después ejerció como cirujano durante un tiempo en Lorca y volvió a Madrid, donde conoció a Aguado. Éste le animó a seguir con su carrera de guitarrista y así lo hizo, destacando como concertista en Francia, Portugal y en el Palacio Real de Madrid. De él decían que era muy limpio tocando, tenía muy buen gusto y hacía que la guitarra sonara como un arpa.
 
@@ -213,9 +213,9 @@ Pero no solamente interpretaba y componía bien, sino que incluso contribuyó en
 
 [^15]: Radomski, James. «Trinidad Huerta y Caturla: First Spanish Virtuoso Guitarist to Concertize in the United States.» *Inter-American Music Review* 15, n.º 2 (1996): 103-121.
 
-[^16]: B. Boils, Joan. «Cuatro palabras para un libro. La Historia de la música española de Mariano Soriano Fuertes, una fuente esencial en la historiografía de la música española del siglo XIX». Anexo IV, 2014.
+[^16]: Rubio Pérez-Caballero, Jerónimo. «Indalecio Soriano Fuertes y su significación en la música de su tiempo.» *Revista Teruel*, n.º 9 (1953): 157-175.
 
-[^17]: Rubio Pérez-Caballero, Jerónimo. «Indalecio Soriano Fuertes y su significación en la música de su tiempo.» *Revista Teruel*, n.º 9 (1953): 157-175.
+[^17]: B. Boils, Joan. «Cuatro palabras para un libro. La Historia de la música española de Mariano Soriano Fuertes, una fuente esencial en la historiografía de la música española del siglo XIX». Anexo IV, 2014.
 
 [^18]: Cano, Antonio. *Método completo de guitarra*. Madrid: Antonio Romero, 1868.
 
