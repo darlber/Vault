@@ -13,11 +13,12 @@
 > curl -sI https://moodle.rcsmm.eu/login/index.php
 > dig +short rcsmm.eu MX
 > dig +short rcsmm.eu TXT
-> # Subdominios: subfinder -d rcsmm.eu -silent; amass enum -passive -d rcsmm.eu; crt.sh
+> # Subdominios: subfinder -d rcsmm.eu -silent; amass enum -passive -d rcsmm.eu
 > # Whois .eu: whois rcsmm.eu (limitado por GDPR)
 > ```
 
-
+![](attachments/Pasted%20image%2020260609192703.png)
+![](attachments/{F9695896-56CD-46C5-ACDD-8FFCC32F2C0C}.png)
 ### 2.1 Introducción
 - Descripción general del objetivo: Real Conservatorio Superior de Música de Madrid (RCSMM) — principal centro público de educación musical superior de España, fundado en 1830 por la reina María Cristina
 - Actividad principal: Formación profesional de músicos (intérpretes, directores, compositores, musicólogos, pedagogos). Imparte Grado, Máster y Doctorado en el marco del EEES
