@@ -182,7 +182,7 @@ A continuación vamos a mostrar algunas de las representaciones gráficas más u
 
 ==La notación gráfica constituye otro de los rasgos distintivos del periodo. Junto a la notación tradicional, aparecen símbolos para indicar la presión del trémolo, la velocidad del rasgueado, la altura aproximada de los sonidos (notación aproximativa) y la duración relativa de los eventos. En las obras aleatorias, la partitura puede presentarse como un conjunto de módulos que el intérprete debe ordenar, o como una serie de instrucciones verbales que dejan un amplio margen a la improvisación. La obra *Temples* de Villa Rojo y *La Espiral eterna* de Brouwer ejemplifican esta tendencia hacia una notación más flexible y participativa[^3].==
 
-## Bibliografía
+## Bibliografía #REVISAR_OPENCODE
 
 - Gilardino, A. (1988). *Manuale di storia della chitarra*. Ancona: Bèrben.
 - Josel, S. F. y Tsao, M. (2014). *The Techniques of Guitar Playing*. Kassel: Bärenreiter.
@@ -191,7 +191,7 @@ A continuación vamos a mostrar algunas de las representaciones gráficas más u
 - Turnbull, H. (1974). *The Guitar from the Renaissance to the Present Day*. London: Batsford.
 - Wade, G. (1980). *Traditions of the Classical Guitar*. London: Calder.
 
-# NOTAS
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Gilardino (1988). *Manuale di storia della chitarra*.
 

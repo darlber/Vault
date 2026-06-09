@@ -194,7 +194,7 @@ También hay que señalar que gracias a pruebas documentales, Segovia trató en 
 
 Hasta el siglo XXI, en concreto 2001, no se pudo abrir las cajas con la música que Segovia había guardado cuidadosamente en su archivo. El elegido fue Angelo Gilardino, el cual narra que fue un momento muy emocionante. Aunque Segovia fue muy selectivo con la música que interpretaba, para la conservación de su biblioteca o archivo no ponía ningún filtro, recogiendo todo lo que le mandaban o daban y guardándolo. Algunas de las piezas que vieron la luz fueron: *Quatre pièces breves* de Frank Martin (1933), *Sonatina* de Cyril Scott, *Errimina* (1925) del Padre Donostia, *Homenaje a Manuel de Falla* de Tansman.
 
-## 4. Bibliografía
+## 4. Bibliografía #REVISAR_OPENCODE
 
 - Gilardino, A. (1988). *El Renacimiento de la Guitarra / Manuale di storia della chitarra, 2: La chitarra moderna e contemporanea*. 2ª ed. Ancona: Bèrben.
 - Gilardino, A. (2008). «Andrés Segovia y el repertorio de la guitarra del siglo XX». *Roseta*, 1, 58-67.
@@ -204,7 +204,7 @@ Hasta el siglo XXI, en concreto 2001, no se pudo abrir las cajas con la música 
 - *Nombres Propios de la guitarra: Antonio de Torres* (2008). Córdoba: Festival de la Guitarra de Córdoba.
 - Suárez Pajares, J. (1998). «Aquellos plateados años: la guitarra en el entorno del 27». En *La guitarra en la historia*, vol. 8. Córdoba: La Posada.
 
-# NOTAS
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: *Nombres Propios…: Antonio de Torres* (2008).
 

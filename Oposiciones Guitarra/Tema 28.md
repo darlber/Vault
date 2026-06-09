@@ -1,4 +1,4 @@
-# Tema 28. Métodos de trabajo y el desarrollo de la autonomía en el estudio. El desarrollo de la capacidad del alumno para que encuentre soluciones propias a las dificultades del texto musical. Estrategias adecuadas.
+# Métodos de trabajo y el desarrollo de la autonomía en el estudio. El desarrollo de la capacidad del alumno para que encuentre soluciones propias a las dificultades del texto musical. Estrategias adecuadas.
 
 ## Índice
 
@@ -19,10 +19,10 @@
 - Durante el s. XX se debatió si las instituciones educativas deben ser centros de transmisión de saberes o dar prioridad a la formación integral del alumnado (capacidades, competencias, habilidades). La tendencia actual insiste en la segunda opción
 - En la enseñanza musical tradicional, la pedagogía se entendía como transmitir la capacidad mecánica para interpretar obras seleccionadas del repertorio. El aprendizaje era un ejercicio repetitivo para solucionar dificultades mecánicas
 - El alumnado asumía una posición pasiva; el profesor modelaba al alumno a su «imagen y semejanza». Escaso lugar para la autonomía personal
-- **Elisa Roche** denominaba «carácter artesanal de la enseñanza musical»: saberes transmitidos como de maestro a aprendiz. El alumnado era una copia casi perfecta del profesor. Cualquier intento de desarrollar su personalidad se veía como desautorización
+- **Elisa Roche** denominaba «carácter artesanal de la enseñanza musical»: saberes transmitidos como de maestro a aprendiz. El alumnado era una copia casi perfecta del profesor. Cualquier intento de desarrollar su personalidad se veía como desautorización[^1]
 - Ejemplo: el alumno podía interpretar una obra trabajada en clase, pero tenía poca autonomía para abordar otra obra del mismo compositor sin recurrir al profesor o a una grabación
 - Los aspectos intelectuales y teóricos se percibían como secundarios; primaban las habilidades técnicas
-- Las reformas educativas y la inclusión de las enseñanzas musicales en el sistema educativo han modificado estos planteamientos
+- Las reformas educativas y la inclusión de las enseñanzas musicales en el sistema educativo han modificado estos planteamientos[^2]
 - **RD 1577/2006** incluye referencias a la autonomía en el estudio. Entre los objetivos específicos de las enseñanzas profesionales:
   - «Habituarse a escuchar música y establecer un concepto estético que les permita fundamentar y desarrollar los propios criterios interpretativos»
   - «Desarrollar la capacidad de lectura a primera vista y aplicar con autonomía progresivamente mayor los conocimientos musicales para la improvisación con el instrumento»
@@ -58,12 +58,12 @@
 - Estrategias: estudio, observación y registro sistemático, trabajo cooperativo y por proyectos, resolución de problemas, planificación y organización de actividades y tiempos, uso de recursos tecnológicos
 - Incluye: curiosidad, identificar y manejar la diversidad de respuestas posibles, toma de decisiones racional y crítica
 - Requiere: perseverancia, autoevaluación, autorregulación, responsabilidad, aceptar errores y aprender de los demás
-- En síntesis: ser autónomo y aprender a aprender implica la conciencia, gestión y control de las propias capacidades y conocimientos desde un sentimiento de competencia personal, pensamiento estratégico, cooperación, autoevaluación y manejo eficiente de recursos y técnicas de trabajo intelectual
+- En síntesis: ser autónomo y aprender a aprender implica la conciencia, gestión y control de las propias capacidades y conocimientos desde un sentimiento de competencia personal, pensamiento estratégico, cooperación, autoevaluación y manejo eficiente de recursos y técnicas de trabajo intelectual[^3]
 
 ## 3. Desarrollo en la programación didáctica de un nuevo marco para la autonomía en el aprendizaje
 
 - Las programaciones didácticas deben incluir progresivamente más decisiones del profesorado para avanzar en la autonomía del alumnado
-- Cambios necesarios en el aula de instrumento para superar el modelo tradicional transmisivo:
+- Cambios necesarios en el aula de instrumento para superar el modelo tradicional transmisivo[^4]:
   - El profesor debe ser también especialista en didáctica
   - Desarrollar motivación, adaptabilidad, orientación a la calidad interpretativa, iniciativa personal e interacción en grupo
   - El profesor actúa como guía/consejero que orienta, no adiestra
@@ -79,26 +79,26 @@
   - Situaciones de discusión y análisis (aprendizaje cooperativo)
   - Actividades que fomentan la autonomía: plantear varias posibilidades interpretativas, el alumno elige
   - Interpretación en grupo (clases colectivas, música de cámara, orquesta)
-  - Interpretación en público en varias formaciones (solista, cámara, orquesta)
+  - Interpretación en público en varias formaciones (solista, cámara, orquesta)[^5][^6]
 - La metodología se individualizará a las características y necesidades de cada alumno
 - Uso de nuevas tecnologías: acceso a información, partituras, grabaciones, videos; selección y comparación de fuentes
 - Feedback continuo del profesorado, cronograma de actividades conjuntas, acuerdos con el alumnado
-- Necesario superar el sistema tradicional unidireccional; la autonomía implica un cambio profundo de la didáctica y las prácticas docentes
+- Necesario superar el sistema tradicional unidireccional; la autonomía implica un cambio profundo de la didáctica y las prácticas docentes[^7]
 
 ## 4. El «aprender a aprender» en la enseñanza instrumental
 
-- Es importante desarrollar estrategias de autoaprendizaje para buscar y encontrar soluciones propias en la interpretación y ejecución musical
+- Es importante desarrollar estrategias de autoaprendizaje para buscar y encontrar soluciones propias en la interpretación y ejecución musical[^8]
 - El estudio de un instrumento exige muchas horas de estudio individual para adquirir destrezas técnicas y abordar con éxito la interpretación de una partitura
 - El estudiante debe prolongar su esfuerzo más allá de las clases presenciales. El marcado carácter procedimental de los contenidos exige dominar procedimientos básicos: agilidad mecánica, posición, respiración, etc.
 - La organización en clases individuales (una sesión semanal de una hora) obliga al profesorado a dar pautas para el trabajo individual del resto de la semana, fomentando la autonomía
 - Es fundamental que el alumno tenga una imagen ajustada de sí mismo, conozca sus capacidades, posibilidades y dificultades, y oriente su estudio para aprovechar el esfuerzo
 - Necesidad de gran motivación y confianza personal: la práctica instrumental exige fortaleza y motivación extraordinaria porque los resultados aparecen tarde
-- Peligro real de abandono si no hay motivación intrínseca y si el profesorado es incapaz de motivar con refuerzos positivos (motivación extrínseca)
+- Peligro real de abandono si no hay motivación intrínseca y si el profesorado es incapaz de motivar con refuerzos positivos (motivación extrínseca)[^9]
 - Herramientas para desarrollar «aprender a aprender»:
-  - Dotar al alumno de habilidades para hallar información por sí mismo (libros, internet, grabaciones)
+  - Dotar al alumno de habilidades para hallar información por sí mismo (libros, internet, grabaciones)[^10]
   - Desarrollar la autonomía: enseñarle a escucharse críticamente, autoevaluarse y autocorregirse
   - Conseguir que domine técnicas instrumentales de base: lectura a primera vista, improvisación, práctica de conjunto, técnica instrumental
-  - Ayudarle a desarrollar una actitud metodológica de descubrimiento: buscar información sobre obras, intérpretes, estilos
+  - Ayudarle a desarrollar una actitud metodológica de descubrimiento: buscar información sobre obras, intérpretes, estilos[^11]
   - Generar un entorno apropiado de aprendizaje: rutinas de estudio, objetivos realistas, secuenciación clara, evaluación integrada
   - Implicación de la familia, especialmente en las primeras etapas: seguimiento del trabajo en casa, valores como responsabilidad, compromiso y esfuerzo
 
@@ -116,7 +116,7 @@
 
 - La capacidad de interpretar a primera vista fragmentos musicales sin estudio previo es muy importante para la autonomía
 - Permite la integración en agrupaciones musicales (orquestas, bandas, grupos de cámara) con eficacia y eficiencia en el montaje del repertorio
-- La repentización consiste en adquirir reflejos para la lectura y análisis rápido de una partitura, el manejo de soluciones técnicas necesarias y la sensibilidad para una interpretación musical
+- La repentización consiste en adquirir reflejos para la lectura y análisis rápido de una partitura, el manejo de soluciones técnicas necesarias y la sensibilidad para una interpretación musical[^12]
 
 ### 5.3. La madurez interpretativa y la comprensión profunda de los textos musicales
 
@@ -127,7 +127,7 @@
   - Dominio y perfeccionamiento de la mecánica instrumental (agilidad, respiración, articulaciones, resistencia)
   - Conocimiento profundo del lenguaje musical (análisis)
   - Capacidad de hablar libremente con el lenguaje musical (improvisación) e interpretar de memoria
-- **Emilio Molina**: «Los rasgos de personalidad interpretativa pueden darse a través de la intuición, el talento o la percepción sensorial, pero si se enseña interpretación sobre una base exclusivamente técnica —sin análisis, sin improvisación— se convertirá en un arte vacío. Una técnica de interpretación madura se beneficiará del conocimiento del análisis y la improvisación»
+- **Emilio Molina**: «Los rasgos de personalidad interpretativa pueden darse a través de la intuición, el talento o la percepción sensorial, pero si se enseña interpretación sobre una base exclusivamente técnica —sin análisis, sin improvisación— se convertirá en un arte vacío. Una técnica de interpretación madura se beneficiará del conocimiento del análisis y la improvisación»[^13]
 - La educación integral del alumnado y el desarrollo de una autonomía efectiva implica la interrelación de todos los conocimientos al servicio de la interpretación musical
 
 ### 5.4. Hábitos y procedimientos de estudio adecuados
@@ -151,44 +151,44 @@
 
 ## 7. Bibliografía #REVISAR_OPENCODE
 
-- *Competencias básicas*. Ministerio de Educación
-- Fuentes, P. y Cervera, J. *Pedagogía y didáctica para músicos*. Editorial Piles
-- Gainza, V. H. (1977). *Valor de la Improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana
-- Gainza, V. H. (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
-- Gainza, V. H. (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*. Lumen
-- García Calero, P. y Estebaranz García, A. (2005). *Innovación y creatividad en la enseñanza musical*. Octaedro
-- Lago, P. *Música y creatividad*. Educación Musical
+- *Competencias básicas* (s.f.). Ministerio de Educación
+- Fuentes, P. y Cervera, J. (1989). *Pedagogía y didáctica para músicos*. Valencia: Piles Editorial
+- Gainza, V. H. de (1977). *Valor de la improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana
+- Gainza, V. H. de (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
+- Gainza, V. H. de (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*. Buenos Aires: Lumen
+- García Calero, P. y Estebaranz García, A. (2005). *Innovación y creatividad en la enseñanza musical*. Barcelona: Octaedro
+- Lago, P. (2006). «Música y creatividad». *Música y Educación*, 66, 15-32
 - Lavista, M. (1982). «Creatividad en el proceso de enseñanza/aprendizaje». En *Educación y expresión*. Buenos Aires: Plus Ultra
-- Molina, E. (2006). «Análisis, improvisación y autonomía». *Revista Eufonía*, n.º 36
-- *Revista Eufonía*. Editorial Graó
-- *Revista Música y Educación*. Ediciones Musicales
-- Rodríguez González, R. (2006). «Diseño de entornos para el desarrollo de la autonomía en el aprendizaje». *Aula Abierta*, n.º 87
-- Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Diputació de Barcelona
+- Molina, E. (2006). «Análisis, improvisación y autonomía». *Eufonía*, 36
+- *Revista Eufonía*. Barcelona: Editorial Graó
+- *Revista Música y Educación*. Madrid: Ediciones Musicales
+- Rodríguez González, R. (2006). «Diseño de entornos para el desarrollo de la autonomía en el aprendizaje». *Aula Abierta*, 87
+- Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Barcelona: Diputació de Barcelona
 
 # NOTAS #REVISAR_OPENCODE
 
-[^1]: *Competencias básicas*. Ministerio de Educación
+[^1]: Fuentes y Cervera (1989). *Pedagogía y didáctica para músicos*
 
-[^2]: Fuentes, P. y Cervera, J. *Pedagogía y didáctica para músicos*. Editorial Piles
+[^2]: García Calero y Estebaranz García (2005). *Innovación y creatividad en la enseñanza musical*
 
-[^3]: Gainza, V. H. (1977). *Valor de la Improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana
+[^3]: *Competencias básicas*. Ministerio de Educación
 
-[^4]: Gainza, V. H. (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
+[^4]: Rodríguez González (2006). «Diseño de entornos para el desarrollo de la autonomía en el aprendizaje»
 
-[^5]: Gainza, V. H. (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*. Lumen
+[^5]: *Revista Eufonía*. Barcelona: Graó
 
-[^6]: García Calero, P. y Estebaranz García, A. (2005). *Innovación y creatividad en la enseñanza musical*. Octaedro
+[^6]: *Revista Música y Educación*. Madrid: Ediciones Musicales
 
-[^7]: Lago, P. *Música y creatividad*. Educación Musical
+[^7]: Varios autores. *Escuelas Municipales de Música…*
 
-[^8]: Lavista, M. (1982). «Creatividad en el proceso de enseñanza/aprendizaje». En *Educación y expresión*. Buenos Aires: Plus Ultra
+[^8]: Lago (2006). «Música y creatividad»
 
-[^9]: Molina, E. (2006). «Análisis, improvisación y autonomía». *Revista Eufonía*, n.º 36
+[^9]: Lavista (1982). «Creatividad en el proceso de enseñanza/aprendizaje»
 
-[^10]: *Revista Eufonía*. Editorial Graó
+[^10]: Gainza (1977). *Valor de la improvisación en la pedagogía musical actual*
 
-[^11]: *Revista Música y Educación*. Ediciones Musicales
+[^11]: Gainza (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*
 
-[^12]: Rodríguez González, R. (2006). «Diseño de entornos para el desarrollo de la autonomía en el aprendizaje». *Aula Abierta*, n.º 87
+[^12]: Gainza (1983). *La improvisación musical*
 
-[^13]: Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Diputació de Barcelona
+[^13]: Molina (2006). «Análisis, improvisación y autonomía»

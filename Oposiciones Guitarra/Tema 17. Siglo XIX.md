@@ -157,7 +157,7 @@ Pero no solamente interpretaba y componía bien, sino que incluso contribuyó en
 
 ==En sus composiciones, Arcas cultiva preferentemente la fantasía sobre motivos de ópera (Rossini, Bellini, Verdi) y los aires andaluces. Estos últimos, como la *Serenata andaluza* y las *Variaciones sobre la Jota aragonesa*, integran el lenguaje flamenco dentro de las formas de la guitarra clásica, creando un modelo de escritura nacionalista que influirá directamente en Tárrega. Su programa de concierto, centrado en adaptaciones operísticas y obras originales de carácter español, refleja el gusto del público romántico por el virtuosismo y el color local[^11].==
 
-## Bibliografía
+## Bibliografía #REVISAR_OPENCODE
 
 - Annala, H. y Mätlik, H. (2007). *Handbook of Guitar and Lute Composers*. Pacific, MO: Mel Bay.
 - B. Boils, J. (2014). «Cuatro palabras para un libro…». Anexo IV.
@@ -181,7 +181,7 @@ Pero no solamente interpretaba y componía bien, sino que incluso contribuyó en
 - Viglietti, C. (1976). *Origen e historia de la guitarra*. Buenos Aires: Albatros.
 - Wade, G. (1980). *Traditions of the Classical Guitar*. London: Calder.
 
-# NOTAS
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: *Gaceta Musical de Madrid*, 6-IV-1856.
 

@@ -207,7 +207,7 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*)[^12], la
 - El desarrollo de la creatividad necesita actuaciones globales: nueva pedagogía, proyecto educativo abierto y organización del aula diferente
 - La práctica de la improvisación es un poderoso instrumento para conseguir estos objetivos
 
-## 8. Bibliografía
+## 8. Bibliografía #REVISAR_OPENCODE
 
 - Alemany, L., Marina, J. A. y Pérez Díaz-Pericles, J. M. (2013). *Aprender a emprender. Cómo educar el talento emprendedor*. Barcelona: AulaPLANETA
 - Fuentes, P. y Cervera, J. (1989). *Pedagogía y didáctica para músicos*. Valencia: Piles Editorial
@@ -223,7 +223,7 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*)[^12], la
 - Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Barcelona: Diputació de Barcelona
 - Varios autores. (2007). *La creatividad en la clase de música: componer y tocar*. Barcelona: Graó
 
-# NOTAS
+# NOTAS #REVISAR_OPENCODE
 
 [^1]: Fuentes y Cervera (1989). *Pedagogía y didáctica para músicos*
 
