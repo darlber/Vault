@@ -6,15 +6,15 @@
 2. [Concepto de creatividad](#2.%20Concepto%20de%20creatividad)
 3. [Creatividad musical en las diferentes etapas del desarrollo humano](#3.%20Creatividad%20musical%20en%20las%20diferentes%20etapas%20del%20desarrollo%20humano)
 4. [Desarrollo de la creatividad en los conservatorios de música](#4.%20Desarrollo%20de%20la%20creatividad%20en%20los%20conservatorios%20de%20música)
-	1. [4.1. Pedagogía que propicie la creatividad](#4.1.%20Pedagogía%20que%20propicie%20la%20creatividad)
-	2. [4.2. Creatividad y Proyecto Educativo de Centro](#4.2.%20Creatividad%20y%20Proyecto%20Educativo%20de%20Centro)
-	3. [4.3. Organización del aula, actitud del profesor y creatividad](#4.3.%20Organización%20del%20aula%2C%20actitud%20del%20profesor%20y%20creatividad)
+	1. [Pedagogía que propicie la creatividad](#4.1.%20Pedagogía%20que%20propicie%20la%20creatividad)
+	2. [Creatividad y Proyecto Educativo de Centro](#4.2.%20Creatividad%20y%20Proyecto%20Educativo%20de%20Centro)
+	3. [Organización del aula, actitud del profesor y creatividad](#4.3.%20Organización%20del%20aula%2C%20actitud%20del%20profesor%20y%20creatividad)
 5. [Creatividad y desarrollo instrumental y musical](#5.%20Creatividad%20y%20desarrollo%20instrumental%20y%20musical)
-	1. [5.1. Técnica, capacidad expresiva, inteligencia musical y personalidad artística](#5.1.%20Técnica%2C%20capacidad%20expresiva%2C%20inteligencia%20musical%20y%20personalidad%20artística)
-	2. [5.2. La improvisación musical como técnica pedagógica](#5.2.%20La%20improvisación%20musical%20como%20técnica%20pedagógica)
+	1. [Técnica, capacidad expresiva, inteligencia musical y personalidad artística](#5.1.%20Técnica%2C%20capacidad%20expresiva%2C%20inteligencia%20musical%20y%20personalidad%20artística)
+	2. [La improvisación musical como técnica pedagógica](#5.2.%20La%20improvisación%20musical%20como%20técnica%20pedagógica)
 6. [Desarrollo del espíritu emprendedor](#6.%20Desarrollo%20del%20espíritu%20emprendedor)
 7. [Conclusiones](#7.%20Conclusiones)
-8. [8. Bibliografía](#8.%20Bibliografía)
+8. [Bibliografía](#8.%20Bibliografía)
 
 ## 1. Introducción
 
@@ -199,7 +199,7 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*)[^12], la
 - Se está produciendo «la conversión de la vieja guardia»; más centros incluyen programas avanzados de emprendimiento
 - Cada año terminan sus estudios cientos de músicos con pocas posibilidades de lograr un puesto de trabajo; el emprendimiento mejora la empleabilidad
 
-## 7. Conclusiones
+## Conclusiones
 
 - Los conservatorios deben iniciar procesos de innovación que integren los avances pedagógicos del s. XX
 - Propiciar la creatividad es indispensable: el ser humano es creativo por naturaleza y el arte musical es un ejercicio de creación continuo
@@ -207,7 +207,7 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*)[^12], la
 - El desarrollo de la creatividad necesita actuaciones globales: nueva pedagogía, proyecto educativo abierto y organización del aula diferente
 - La práctica de la improvisación es un poderoso instrumento para conseguir estos objetivos
 
-## 8. Bibliografía #REVISAR_OPENCODE
+## Bibliografía #REVISAR_OPENCODE
 
 - Alemany, L., Marina, J. A. y Pérez Díaz-Pericles, J. M. (2013). *Aprender a emprender. Cómo educar el talento emprendedor*. Barcelona: AulaPLANETA
 - Fuentes, P. y Cervera, J. (1989). *Pedagogía y didáctica para músicos*. Valencia: Piles Editorial
