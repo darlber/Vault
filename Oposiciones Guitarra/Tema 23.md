@@ -10,7 +10,7 @@
 6. [Siglo XX](#siglo-xx)
 7. [Bibliografía](#bibliografía)
 
-Para este tema recorreremos época por época, viendo además autores que tuvieron en cuenta a la guitarra como instrumento acompañante.[^6][^12]4
+Para este tema recorreremos época por época, viendo además autores que tuvieron en cuenta a la guitarra como instrumento acompañante.[^1][^2]4
 
 ## Edad Media
 
@@ -20,17 +20,17 @@ En este período vemos cómo ya había una separación entre música popular y c
 
 En este siglo vemos cómo la guitarra sigue dividida en dos ámbitos: la guitarra como instrumento culto y como instrumento popular. Pero esto no impediría que fuera usada en muchas facetas de la música. De hecho, en la mayoría de obras juega el papel de acompañante, tanto con voz (ya desde las más antiguas publicaciones vemos que otros instrumentos de cuerda pulsada jugaban este papel) como canciones.
 
-España fue un lugar clave para su popularidad y desarrollo, ya que a finales de siglo estuvo «invadida por la guitarra»: calles, corrales de comedias (en los teatros llegó a ser imprescindible), plazas, ventas e incluso tuvo popularidad en palacio. Y todo esto lo sabemos gracias a las obras literarias de los españoles de la época, donde aparece mencionado constantemente este instrumento como principalmente popular e incluso como típico de ciertos oficios.[^12]1
+España fue un lugar clave para su popularidad y desarrollo, ya que a finales de siglo estuvo «invadida por la guitarra»: calles, corrales de comedias (en los teatros llegó a ser imprescindible), plazas, ventas e incluso tuvo popularidad en palacio. Y todo esto lo sabemos gracias a las obras literarias de los españoles de la época, donde aparece mencionado constantemente este instrumento como principalmente popular e incluso como típico de ciertos oficios.[^3]1
 
-Dentro de este siglo (1536) podemos encontrar el libro *El Maestro* de Luis de Milán,[^12]5[^12]0 en el cual, aparte de música para vihuela sola, encontramos también obras para voz y vihuela en las cuales la vihuela principalmente tiene el papel de acompañamiento. Pero seguiría existiendo esa doble vertiente de los instrumentos de cuerda pulsada, ya que vemos cómo después la vihuela se acercaría a la polifonía (considerada culta) y el mismo Milán en su libro *El Cortesano* nos comenta que incluso él cantaba y se acompañaba con su vihuela a la manera popular.
+Dentro de este siglo (1536) podemos encontrar el libro *El Maestro* de Luis de Milán,[^4][^5]50 en el cual, aparte de música para vihuela sola, encontramos también obras para voz y vihuela en las cuales la vihuela principalmente tiene el papel de acompañamiento. Pero seguiría existiendo esa doble vertiente de los instrumentos de cuerda pulsada, ya que vemos cómo después la vihuela se acercaría a la polifonía (considerada culta) y el mismo Milán en su libro *El Cortesano* nos comenta que incluso él cantaba y se acompañaba con su vihuela a la manera popular.
 
-Para esta vertiente popular en Europa escribió Juan Carlos Amat un libro, llamado *Guitarra Española y vandola en dos maneras de guitarra, castellana y cathalana de cinco órdenes*, en el cual explicaba gran cantidad de cosas relacionadas con el acompañamiento. El libro fue editado por primera vez en Barcelona en 1596. En su interior observamos explicaciones sobre la formación de acordes (los doce mayores y menores), a los cuales enumeraba con cifras arábigas del 1 al 12, cifra conocida como notación catalana. Pero también se ocupó del transporte, incluyendo una tabla muy ingeniosa para acompañar sobre el bajo, tomando como tónica cualquier nota de la escala cromática. Y de esta forma podemos constatar cómo comienzan a aparecer progresivamente más y más métodos para guitarra.[^12]
+Para esta vertiente popular en Europa escribió Juan Carlos Amat un libro, llamado *Guitarra Española y vandola en dos maneras de guitarra, castellana y cathalana de cinco órdenes*, en el cual explicaba gran cantidad de cosas relacionadas con el acompañamiento. El libro fue editado por primera vez en Barcelona en 1596. En su interior observamos explicaciones sobre la formación de acordes (los doce mayores y menores), a los cuales enumeraba con cifras arábigas del 1 al 12, cifra conocida como notación catalana. Pero también se ocupó del transporte, incluyendo una tabla muy ingeniosa para acompañar sobre el bajo, tomando como tónica cualquier nota de la escala cromática. Y de esta forma podemos constatar cómo comienzan a aparecer progresivamente más y más métodos para guitarra.[^6]
 
 ## Siglo XVII
 
 En este siglo cambió el estilo de acompañamiento, ya que anteriormente se usaba exclusivamente el rasgueado y ahora, por el contrario, también se punteaba. Por desgracia para nosotros, las fuentes de autores españoles (al contrario que las italianas) son muy reducidas en este periodo (en cuanto a la guitarra acompañante se refiere).
 
-Podremos observar en este periodo cómo la guitarra se une a instrumentos como el clave o el laúd para realizar acompañamientos semiimprovisados, que pasaron a llamarse «bajo continuo»[^13] (o «sopra la parte»). Pero esta forma de tañer no era sencilla, requería de unos conocimientos bastante amplios de música, para saber qué acorde podría encajar con las notas de la línea de bajo. Para ayudar en este sentido, a veces se podían encontrar números para indicar la armonía.
+Podremos observar en este periodo cómo la guitarra se une a instrumentos como el clave o el laúd para realizar acompañamientos semiimprovisados, que pasaron a llamarse «bajo continuo»[^7] (o «sopra la parte»). Pero esta forma de tañer no era sencilla, requería de unos conocimientos bastante amplios de música, para saber qué acorde podría encajar con las notas de la línea de bajo. Para ayudar en este sentido, a veces se podían encontrar números para indicar la armonía.
 
 Anteriormente decíamos que las fuentes españolas eran escasas, pero esto no ocurría en Italia, donde podemos encontrar cientos de documentos para voz acompañada de guitarra rasgueada. En España solamente sobrevivieron dos manuscritos: los Cancioneros de Olot y Casanatense, y el libro de Juan Arañés.
 
@@ -52,19 +52,19 @@ En cuanto a métodos se refiere, explicaremos los de Francesco Corbetta, Giovann
 
 **Juan Arañés:** *Libro segundo de tonos y villancicos a una, dos, tres y cuatro voces con la cifra de la guitarra española a la usanza romana*. Este libro es similar tanto al manuscrito de Palumbi como al libro de Briceño, pero en este caso hablamos de un libro escrito con la notación musical. Aparece en Roma en 1624 y se llama segundo de tonos y villancicos a una, dos, tres y cuatro voces con la cifra de la guitarra española a la usanza romana (del primer libro de Arañés únicamente se sabe que se perdió). Pero en este libro encontramos varios problemas en cuanto a realización se refiere, ya que en ninguna de las obras la notación concuerda con la habitual de guitarra, los acordes no coinciden a veces con las voces y el ritmo no siempre se indica.
 
-**Gaspar Sanz:** *Instrucción de música sobre la guitarra española*. De las obras aparecidas hasta entonces (1674), es la más completa.[^14] Esto es así porque en ella se tratan: consejos teóricos, obras musicales de rasgueado y punteado, numerosos pasacalles, el alfabeto italiano de la guitarra y lo que más nos interesa en este caso: doce reglas para acompañar, que puede ser un intento de fijar un sistema de acompañamiento en la guitarra.
+**Gaspar Sanz:** *Instrucción de música sobre la guitarra española*. De las obras aparecidas hasta entonces (1674), es la más completa.[^8] Esto es así porque en ella se tratan: consejos teóricos, obras musicales de rasgueado y punteado, numerosos pasacalles, el alfabeto italiano de la guitarra y lo que más nos interesa en este caso: doce reglas para acompañar, que puede ser un intento de fijar un sistema de acompañamiento en la guitarra.
 
 ## Siglo XVIII
 
 En este siglo vemos que cambia el repertorio con respecto al siglo anterior, ya que ahora tenemos una música más amable y desaparecen tanto las series de variaciones como las suites virtuosísticas. Durante estos años vemos cómo la guitarra se inclina hacia un papel acompañante de bailes y canciones más bien popular, que llegó a tener una enorme repercusión.
 
-Si nos vamos a mediados de siglo, observamos cómo la música que interpreta la guitarra imita canciones, estribillos y sonsonetes de los majos y majas, villanos, estudiantes y señores de las tonadillas. Estas tonadillas ya existían en España,[^12]3 y se trataba de canciones sueltas que eran cantadas en muchos ámbitos. Posteriormente se impusieron las canciones y los bailes de moda, como las seguidillas y boleros, tiranas, fandangos, contradanzas y minuetos, que divertían a todas las clases sociales.
+Si nos vamos a mediados de siglo, observamos cómo la música que interpreta la guitarra imita canciones, estribillos y sonsonetes de los majos y majas, villanos, estudiantes y señores de las tonadillas. Estas tonadillas ya existían en España,[^9]3 y se trataba de canciones sueltas que eran cantadas en muchos ámbitos. Posteriormente se impusieron las canciones y los bailes de moda, como las seguidillas y boleros, tiranas, fandangos, contradanzas y minuetos, que divertían a todas las clases sociales.
 
-Veamos ahora algunos de los métodos más importantes del siglo (en cuanto a acompañamiento se refiere),[^5] que son los de Santiago de Murcia, Federico Moretti y Fernando Ferandiere:
+Veamos ahora algunos de los métodos más importantes del siglo (en cuanto a acompañamiento se refiere),[^10] que son los de Santiago de Murcia, Federico Moretti y Fernando Ferandiere:
 
 **Santiago de Murcia:** *Resumen de acompañar la parte con guitarra*. En 1714 escribe esta obra y en ella sintetiza, usando ejemplos prácticos, los movimientos del bajo en los distintos tonos y la manera de acompañarlos. Se trata de una obra claramente práctica, con una breve introducción y multitud de ejemplos puramente musicales. En su interior también podemos encontrar el alfabeto, y en la música práctica algunos acordes de rasgueado. Pero en la parte del acompañamiento es exclusivo del estilo punteado a tres voces. También posee varias advertencias y ejemplos para acompañar los distintos compases. Murcia es considerado como el último tratadista en castellano de acompañamiento en la guitarra barroca.
 
-**Federico Moretti:** *Principios para tocar la guitarra de seis órdenes precedidos de los elementos generales de la música*. Para Moretti la guitarra es un instrumento mejor pensado para el acompañamiento que para el uso solístico, y en esta cita lo explica él mismo:[^12]2
+**Federico Moretti:** *Principios para tocar la guitarra de seis órdenes precedidos de los elementos generales de la música*. Para Moretti la guitarra es un instrumento mejor pensado para el acompañamiento que para el uso solístico, y en esta cita lo explica él mismo:[^11]2
 
 > Este modo de tocar [solista] es más propio del violín, flauta, clave, etc. que de la guitarra, por no poder combinar la mucha execución con la debida armonía; pues faltan dedos para la execución de las notas altas: y tocando a cuerda sola sin otros Baxos que los que suelen caer en las cuerdas vacías, aunque no pertenecen enteramente a la armonía; difícilmente podrá gustar por ser demasiado.
 
@@ -74,17 +74,17 @@ Y por esto, en el método lo que encontraremos son canciones en las cuales la gu
 
 ## Siglo XIX
 
-Lo que encontramos en este siglo, sobre todo a principios, es la divulgación de canciones populares, que más tarde serán usadas como inspiración para crear obras de «música culta» por grandes compositores e instrumentistas. Pero todo esto fue en gran parte gracias a la labor que realizó Felipe Pedrell, que comenzó a estudiar el folklore.[^11]
+Lo que encontramos en este siglo, sobre todo a principios, es la divulgación de canciones populares, que más tarde serán usadas como inspiración para crear obras de «música culta» por grandes compositores e instrumentistas. Pero todo esto fue en gran parte gracias a la labor que realizó Felipe Pedrell, que comenzó a estudiar el folklore.[^12]
 
 ## Siglo XX
 
 Durante el siglo XX la guitarra se expande hacia otros estilos denominados cultos, como el jazz o el blues, pero sin perder nunca su carácter popular. Nos encontramos, por tanto, una guitarra usada por aficionados y profesionales, tanto para acompañamiento como para interpretación solista.
 
-En cuanto a la interpretación solista, se siguen tocando obras de música culta tanto dedicadas a guitarra como transcripciones, que pueden ser de la época o anteriores. Y en lo que se refiere a acompañamiento, este es usado para todo tipo de menesteres, como por ejemplo acompañar a la voz, formar parte de agrupaciones instrumentales en las cuales el papel de la guitarra es únicamente acompañar. Sin embargo, se introduce también en el blues y el jazz,[^9] estilos que fuerzan que la guitarra tenga a la vez dos funciones: acompañante y solista. Acompañante porque siempre existe una (o varias) guitarra haciendo lo que se denomina *comping*, y solista porque en la mayoría de las piezas a interpretar, cada instrumento tiene su turno para improvisar.
+En cuanto a la interpretación solista, se siguen tocando obras de música culta tanto dedicadas a guitarra como transcripciones, que pueden ser de la época o anteriores. Y en lo que se refiere a acompañamiento, este es usado para todo tipo de menesteres, como por ejemplo acompañar a la voz, formar parte de agrupaciones instrumentales en las cuales el papel de la guitarra es únicamente acompañar. Sin embargo, se introduce también en el blues y el jazz,[^13] estilos que fuerzan que la guitarra tenga a la vez dos funciones: acompañante y solista. Acompañante porque siempre existe una (o varias) guitarra haciendo lo que se denomina *comping*, y solista porque en la mayoría de las piezas a interpretar, cada instrumento tiene su turno para improvisar.
 
-La guitarra también está presente en otros tipos de música popular en distintas partes del mundo. Según el tipo de música popular o folklórica en la que nos encontremos, la guitarra tendrá distintas funciones.[^2] En un tipo de músicas se usará como acompañamiento rítmico y armónico en grupos instrumentales, hará rasgueos y fórmulas de arpegios, también podrá actuar como solista, etc.
+La guitarra también está presente en otros tipos de música popular en distintas partes del mundo. Según el tipo de música popular o folklórica en la que nos encontremos, la guitarra tendrá distintas funciones.[^14] En un tipo de músicas se usará como acompañamiento rítmico y armónico en grupos instrumentales, hará rasgueos y fórmulas de arpegios, también podrá actuar como solista, etc.
 
-Un tipo de guitarra usada en el siglo XX es la guitarra acústica y se suele usar en música celta, jazz, etc. Este tipo de guitarra tiene las cuerdas de metal, la caja es más grande que la de la guitarra tradicional al igual que la boca.[^4] Su mástil es regulable en altura, clavijero tipo guitarra eléctrica, puente regulable, entre otras características. Esta guitarra es la preferida en la música folk, puede estar amplificada y sus órdenes varían entre 12 y 6.
+Un tipo de guitarra usada en el siglo XX es la guitarra acústica y se suele usar en música celta, jazz, etc. Este tipo de guitarra tiene las cuerdas de metal, la caja es más grande que la de la guitarra tradicional al igual que la boca.[^15] Su mástil es regulable en altura, clavijero tipo guitarra eléctrica, puente regulable, entre otras características. Esta guitarra es la preferida en la música folk, puede estar amplificada y sus órdenes varían entre 12 y 6.
 
 ## Bibliografía
 
@@ -120,34 +120,32 @@ Tyler, J. (1980). *The Early Guitar: A History and Handbook*. London: Oxford Uni
 
 # NOTAS
 
+[^1]: Pajares Alonso, R. L. (2010). *Historia de la música en 6 bloques*. Madrid: Vision Libros.
 
-[^6]: Pajares Alonso, R. L. (2010). *Historia de la música en 6 bloques*. Madrid: Vision Libros.
+[^2]: Turnbull, H. (1974). *The Guitar from the Renaissance to the Present Day*. London: Batsford.
 
-[^10]: Turnbull, H. (1974). *The Guitar from the Renaissance to the Present Day*. London: Batsford.
+[^3]: Salazar, A. (1953). *La música de España*. Buenos Aires: Espasa-Calpe.
 
-[^7]: Salazar, A. (1953). *La música de España*. Buenos Aires: Espasa-Calpe.
+[^4]: Tyler, J. (1980). *The Early Guitar: A History and Handbook*. London: Oxford University Press.
 
-[^15]: Tyler, J. (1980). *The Early Guitar: A History and Handbook*. London: Oxford University Press.
+[^5]: Radole, G. (1979). *Liuto, chitarra e vihuela: storia e letteratura*. Milano: Suvini Zerboni. [Trad. esp.: *Laúd, guitarra y vihuela: historia y literatura*. Barcelona: Don Bosco, 1982.]
 
-[^8]: Radole, G. (1979). *Liuto, chitarra e vihuela: storia e letteratura*. Milano: Suvini Zerboni. [Trad. esp.: *Laúd, guitarra y vihuela: historia y literatura*. Barcelona: Don Bosco, 1982.]
+[^6]: Amat, J. C. (1596). *Guitarra española y vandola en dos maneras de guitarra, castellana y cathalana de cinco órdenes*. Barcelona. [Ed. facsímil: Monaco: Chanterelle, 1980.]
 
-[^12]: Amat, J. C. (1596). *Guitarra española y vandola en dos maneras de guitarra, castellana y cathalana de cinco órdenes*. Barcelona. [Ed. facsímil: Monaco: Chanterelle, 1980.]
+[^7]: Bukofzer, M. (1947). *Music in the Baroque Era: From Monteverdi to Bach*. New York: W. W. Norton.
 
-[^13]: Bukofzer, M. (1947). *Music in the Baroque Era: From Monteverdi to Bach*. New York: W. W. Norton.
+[^8]: Alcaraz Iborra, M. y Díaz Soto, R. (2009). *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario (ECU).
 
-[^14]: Alcaraz Iborra, M. y Díaz Soto, R. (2009). *La guitarra: Historia, organología y repertorio*. Alicante: Editorial Club Universitario (ECU).
+[^9]: Subirá, J. (1933). *La tonadilla escénica: sus obras y sus autores*. Barcelona: Labor.
 
-[^1]: Subirá, J. (1933). *La tonadilla escénica: sus obras y sus autores*. Barcelona: Labor.
+[^10]: Boyd, M. y Carreras, J. J. (eds.) (2000). *La música en España en el siglo XVIII*. Madrid: Cambridge University Press.
 
-[^5]: Boyd, M. y Carreras, J. J. (eds.) (2000). *La música en España en el siglo XVIII*. Madrid: Cambridge University Press.
+[^11]: Scholes, P. A. (1964). *Diccionario Oxford de la Música*. Buenos Aires: Sudamericana.
 
-[^3]: Scholes, P. A. (1964). *Diccionario Oxford de la Música*. Buenos Aires: Sudamericana.
+[^12]: López Chavarri, E. (1927). *Música popular española*. Barcelona: Labor.
 
-[^11]: López Chavarri, E. (1927). *Música popular española*. Barcelona: Labor.
+[^13]: Ricart Matas, J. (1956). *Diccionario biográfico de la música*. Barcelona: Iberia.
 
-[^9]: Ricart Matas, J. (1956). *Diccionario biográfico de la música*. Barcelona: Iberia.
+[^14]: Molina, E. (1994). *Improvisación al piano: Desarrollo de estructuras armónicas*, vol. II. Madrid: Real Musical.
 
-[^2]: Molina, E. (1994). *Improvisación al piano: Desarrollo de estructuras armónicas*, vol. II. Madrid: Real Musical.
-
-[^4]: Clemente Buhlal, J. A. (2002). *El contenido melódico en la enseñanza de la guitarra*. Tesis doctoral. Universidad de Murcia.
-
+[^15]: Clemente Buhlal, J. A. (2002). *El contenido melódico en la enseñanza de la guitarra*. Tesis doctoral. Universidad de Murcia.
