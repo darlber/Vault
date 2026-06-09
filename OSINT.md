@@ -80,10 +80,10 @@
 > ```
 
 ### 4.1 Direcciones IP
-- IP principal del dominio: `62.97.84.197` (web pública rcsmm.eu) ==(confirmado por 00_osint_pasivo)==
+- IP principal del dominio: `62.97.84.197` (web pública rcsmm.eu) 
 - IPs asociadas: `213.172.39.24` (servicios internos: mail, moodle, intranet, ftp, webmail)
 - IP dominio secundario: `81.169.145.158` (rcsmm.es — email profesorado, Strato AG, Alemania)
-- Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026) ==(confirmado: ns1.servytec.es hostmaster.servytec.es 2026031201)==
+- Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026) 
 - Dominio secundario `rcsmm.es`: Nameservers `docks10.rzone.de` / `shades03.rzone.de` (Strato)
 
 ### 4.2 Servidor
@@ -99,10 +99,10 @@
 #### 4.2.1 Máquina virtual
 - Indicios de uso: No confirmado, pero la segmentación de IPs sugiere infraestructura virtualizada
 - Proveedor cloud (si se detecta): Servytec Networks S.L. — CPD propio en Madrid
-- Subdominios confirmados por DNS pasivo (00_osint_pasivo): ==pendiente completar enumeración (script requiere directorio resultados)==
+- Subdominios confirmados por DNS pasivo:
 
 #### 4.2.2 Servidor
-- Hosting: Servytec Networks S.L. (AS196713) para servicios (213.172.39.24) / COLT Technology Services (AS8220) para web pública (62.97.84.197) ==(IP principal confirmada)==
+- Hosting: Servytec Networks S.L. (AS196713) para servicios (213.172.39.24) / COLT Technology Services (AS8220) para web pública (62.97.84.197)
 - Hosting secundario: Strato AG (81.169.145.158) para rcsmm.es (email profesorado)
 - Ubicación aproximada: Madrid, España / Frankfurt, Alemania (rcsmm.es)
 
@@ -125,7 +125,7 @@
   - **Debian 8 Jessie** (EOL jun 2020) — Sin parches de seguridad del sistema desde 2020
   - **Drupal 9** (EOL nov 2023) — Sin parches de seguridad desde 2023
   - **DKIM configurado** (4 selectors detectados) — Spoofing mitigado parcialmente
-  - **DMARC en quarantine** (no reject) ==(p=quarantine confirmado)== — Correos suplantados no se rechazan
+  - **DMARC en quarantine** (no reject)  — Correos suplantados no se rechazan
   - **FTP e Intranet expuestos** sin restricción de IP visible
   - **Sin registro CAA** — Cualquier CA puede emitir certificados
 - Referencias:
@@ -293,7 +293,7 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
   **Definición**: El registro DMARC (Domain-based Message Authentication Reporting) establece cómo los mensajes fallan en verificaciones SPF/DKIM y quién recibe informes
 - Microsoft verification: `MS=ms13757792` (en rcsmm.eu)
   **Definición**: El token de verificación de Microsoft confirma propiedad del dominio para servicios de Microsoft 365
-- DKIM selectors detectados: `_j086yc6fkdff4hfxni3svuz2k437bxd`, `_2t2d9xz3ow186tdizt6vge7kenyxfoc`, `ls86y0hdz3l881ws89g4592m4qc52s6w`, `8lrtrcstkqy8dx7zw3fkzy3n29hc9wf9` ==(DKIM SÍ existe, contrario a nota anterior)==
+- DKIM selectors detectados: `_j086yc6fkdff4hfxni3svuz2k437bxd`, `_2t2d9xz3ow186tdizt6vge7kenyxfoc`, `ls86y0hdz3l881ws89g4592m4qc52s6w`, `8lrtrcstkqy8dx7zw3fkzy3n29hc9wf9` 
   **Definición**: Los selectores DKIM (DomainKeys Identified Mail) son claves criptográficas usadas para firmar y verificar la autenticidad de los correos salientes
 
 ### 6.1.2 Dominio secundario identificado
