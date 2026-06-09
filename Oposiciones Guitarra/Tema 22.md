@@ -362,26 +362,25 @@ Solo desde esta comprensión global se podrá llevar a cabo la impartición de e
 
 # NOTAS
 
-
-[^7]: Coll, C. (1991). *Psicología y Currículum*. Barcelona: Paidós.
+[^1]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas en la LOE 2/2006, de 3 de mayo, de Educación.
 
 [^2]: Decreto 158/2007, por el que se establece el currículum de las enseñanzas profesionales de música en la Comunitat Valenciana.
 
-[^4]: *Ensenyaments Musicals IV*. Generalitat de Catalunya. Departament d'Ensenyament.
-
-[^9]: *Eufonía. Revista de Didáctica Musical*, n.º 32. Barcelona: Graó.
-
-[^8]: Tranchefort, F. R. (dir.) (1995). *Guía de la música de cámara*. Madrid: Alianza Editorial.
-
 [^3]: Gómez Albaladejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Master Oposiciones.
+
+[^4]: *Ensenyaments Musicals IV*. Generalitat de Catalunya. Departament d'Ensenyament.
 
 [^5]: *Música y Educación. Revista trimestral de Pedagogía Musical*, n.º 40. Madrid: Musicalis.
 
-[^10]: Payas Magraner, J. (2005). *Programación didáctica*. Manuscrito del autor.
-
 [^6]: Pliego de Andrés (1998). *Temas pedagógicos para la oposición de conservatorios*. Editorial Musicalis.
 
-[^1]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas en la LOE 2/2006, de 3 de mayo, de Educación.
+[^7]: Coll, C. (1991). *Psicología y Currículum*. Barcelona: Paidós.
+
+[^8]: Tranchefort, F. R. (dir.) (1995). *Guía de la música de cámara*. Madrid: Alianza Editorial.
+
+[^9]: *Eufonía. Revista de Didáctica Musical*, n.º 32. Barcelona: Graó.
+
+[^10]: Payas Magraner, J. (2005). *Programación didáctica*. Manuscrito del autor.
 
 [^11]: Sanjosé Huguet, V. (1997). *Didáctica de la Expresión Musical para Maestros*. Piles.
 

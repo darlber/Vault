@@ -1,4 +1,4 @@
-﻿# La guitarra como instrumento acompañante, tanto en las tradiciones populares como en la música culta. Características del repertorio y su interpretación.
+# La guitarra como instrumento acompañante, tanto en las tradiciones populares como en la música culta. Características del repertorio y su interpretación.
 
 ## Índice
 

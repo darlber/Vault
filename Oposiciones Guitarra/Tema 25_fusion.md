@@ -1,4 +1,4 @@
-# Tema 25. Descripción y estudio comparado de los sistemas metodológicos más importantes de iniciación al instrumento. Criterios didácticos para la selección de repertorio a nivel inicial.
+# Descripción y estudio comparado de los sistemas metodológicos más importantes de iniciación al instrumento. Criterios didácticos para la selección de repertorio a nivel inicial.
 
 ## Índice
 
