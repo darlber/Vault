@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46692576a451e0f3",
+        "id": "5638e3999ca1f7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "981ee0b89fa67119",
+            "id": "447c60c6f620624e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,10 +209,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "981ee0b89fa67119",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
-    "OSINT_rcsmm.eu.md",
     "OSINT.md",
+    "OSINT.md",
+    "OSINT_rcsmm.eu.md",
     "OSINT 1.md",
     "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
     "sh_scripts/07_datoscif.sh",
@@ -252,7 +253,6 @@
     "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleado Público y demás normativa de aplicación.md",
     "Oposiciones TAI/Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
     "Oposiciones TAI/Flashcards - Tema 13.md",
-    "Oposiciones Guitarra/0. Temas Oposiciones.md",
     "Oposiciones Guitarra/TEMA 33 y 34.pdf",
     "Oposiciones Guitarra/TEMA 31 y 32.pdf",
     "Oposiciones TAI/attachments/{05231866-9EA1-4B81-AC42-B1D799FC06CE}.png",

@@ -7,6 +7,18 @@
 
 ## 2. Información del objetivo
 
+> **Comandos utilizados:**
+> ```bash
+> curl -s https://rcsmm.eu | grep -i "generator\|Drupal"
+> curl -sI https://moodle.rcsmm.eu/login/index.php
+> dig +short rcsmm.eu MX
+> dig +short rcsmm.eu TXT
+> # Subdominios: subfinder -d rcsmm.eu -silent; amass enum -passive -d rcsmm.eu; crt.sh
+> # Whois .eu: whois rcsmm.eu (limitado por GDPR)
+> ```
+
+
+
 ### 2.1 Introducción
 - Descripción general del objetivo: Real Conservatorio Superior de Música de Madrid (RCSMM) — principal centro público de educación musical superior de España, fundado en 1830 por la reina María Cristina
 - Actividad principal: Formación profesional de músicos (intérpretes, directores, compositores, musicólogos, pedagogos). Imparte Grado, Máster y Doctorado en el marco del EEES
@@ -28,7 +40,7 @@
   - Facebook: https://www.facebook.com/RealConservatorioSuperiordeMusicadeMadrid/
 - Otros canales: Webmail (webmail.rcsmm.eu), Campus Virtual Moodle (moodle.rcsmm.eu), Gestor de Citas (rcsmm_citas.scncloud.com), Registro de Trabajos de Alumnos (rta.rcsmm.eu)
 - Plataformas externas:
-  - **CODEX** (https://www.codex.pro/) — Gestión académica y calificaciones de alumnos. Plataforma externa de la empresa valenciana Codex (C/ Palleter 11, 46008 Valencia). Sistema SaaS con login. #error: los datos son de codex.es. codexpro: Desarrollado por [Dial S.L.](http://www.dialsl.es/) 
+  - **CODEX** (https://www.codex.pro/) — Gestión académica y calificaciones de alumnos. Plataforma externa desarrollada por Dial S.L. (http://www.dialsl.es/). Sistema SaaS con login. 
   - **WebUntis** (https://rcsmm.webuntis.com/) — Horario público. Sin autenticación lista horarios completos con nombres de profesores, asignaturas, aulas y grupos.
 - Teléfono: +34 91 539 29 01 | Fax: +34 91 527 52 22
 
@@ -56,23 +68,55 @@
 
 ## 4. Información técnica
 
+> **Comandos utilizados:**
+> ```bash
+> dig +short rcsmm.eu A
+> dig +short rcsmm.eu NS
+> dig +short rcsmm.eu SOA
+> # Subdominios detectados via subfinder/amass/crt.sh:
+> # subfinder -d rcsmm.eu -silent
+> # amass enum -passive -d rcsmm.eu
+> # curl -s "https://crt.sh/?q=%25.rcsmm.eu&output=json" | jq -r '.[].name_value'
+> ```
+
 ### 4.1 Direcciones IP
-- IP principal del dominio: `62.97.84.197` (web pública rcsmm.eu)
+- IP principal del dominio: `62.97.84.197` (web pública rcsmm.eu) ==(confirmado por 00_osint_pasivo)==
 - IPs asociadas: `213.172.39.24` (servicios internos: mail, moodle, intranet, ftp, webmail)
 - IP dominio secundario: `81.169.145.158` (rcsmm.es — email profesorado, Strato AG, Alemania)
-- Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026)
+- Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026) ==(confirmado: ns1.servytec.es hostmaster.servytec.es 2026031201)==
 - Dominio secundario `rcsmm.es`: Nameservers `docks10.rzone.de` / `shades03.rzone.de` (Strato)
 
 ### 4.2 Servidor
 
+> **Comandos utilizados:**
+> ```bash
+> curl -sI https://rcsmm.eu  # Cabeceras HTTP
+> curl -sI https://moodle.rcsmm.eu/login/index.php
+> # Cabeceras: Server, X-Powered-By, X-Generator, X-Drupal-Cache
+> curl -s https://rcsmm.eu/authorize.php | grep -oE 'v=[0-9.]+'  # Fingerprint Drupal
+> ```
+
 #### 4.2.1 Máquina virtual
 - Indicios de uso: No confirmado, pero la segmentación de IPs sugiere infraestructura virtualizada
 - Proveedor cloud (si se detecta): Servytec Networks S.L. — CPD propio en Madrid
+- Subdominios confirmados por DNS pasivo (00_osint_pasivo): ==pendiente completar enumeración (script requiere directorio resultados)==
 
 #### 4.2.2 Servidor
-- Hosting: Servytec Networks S.L. (AS196713) para servicios (213.172.39.24) / COLT Technology Services (AS8220) para web pública (62.97.84.197)
+- Hosting: Servytec Networks S.L. (AS196713) para servicios (213.172.39.24) / COLT Technology Services (AS8220) para web pública (62.97.84.197) ==(IP principal confirmada)==
 - Hosting secundario: Strato AG (81.169.145.158) para rcsmm.es (email profesorado)
 - Ubicación aproximada: Madrid, España / Frankfurt, Alemania (rcsmm.es)
+
+> **Comandos utilizados:**
+> ```bash
+> curl -sI https://rcsmm.eu  # Server, X-Generator: Drupal 9
+> curl -sI https://moodle.rcsmm.eu/login/index.php  # X-Powered-By: PHP/5.6.38
+> curl -s https://rcsmm.eu/authorize.php | grep -oE 'v=[0-9.]+'  # v=9.5.11
+> curl -s https://rcsmm.eu/robots.txt
+> curl -s https://rcsmm.eu/update.php
+> curl -sI https://rcsmm.eu/user/login  # ¿Registro abierto?
+> curl -s https://moodle.rcsmm.eu/admin/index.php  # ¿Instalador accesible?
+> # Búsqueda CVEs: nvd.nist.gov, osv.dev, packetstormsecurity.com, exploit-db.com
+> ```
 
 #### 4.2.3 Vulnerabilidades
 - Solo fuentes públicas (CVE, informes, etc.):
@@ -80,8 +124,8 @@
   - **PHP 5.6.38** (EOL dic 2018) — Múltiples RCE por deserialización: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768, CVE-2016-5773 (todos CVSS 9.8); inyección comandos CVE-2018-19518 (CVSS 9.8)
   - **Debian 8 Jessie** (EOL jun 2020) — Sin parches de seguridad del sistema desde 2020
   - **Drupal 9** (EOL nov 2023) — Sin parches de seguridad desde 2023
-  - **Sin DKIM** — Spoofing de correo viable
-  - **DMARC en quarantine** (no reject) — Correos suplantados no se rechazan
+  - **DKIM configurado** (4 selectors detectados) ==(00_osint_pasivo confirmó DKIM activo)== — Spoofing mitigado parcialmente
+  - **DMARC en quarantine** (no reject) ==(p=quarantine confirmado)== — Correos suplantados no se rechazan
   - **FTP e Intranet expuestos** sin restricción de IP visible
   - **Sin registro CAA** — Cualquier CA puede emitir certificados
 - Referencias:
@@ -91,6 +135,27 @@
   - Wikipedia: https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
 
 #### 4.2.4 Análisis de vectores de explotación (defacement)
+
+> **Comandos y metodología:**
+> ```bash
+> # Fingerprint de versiones exactas
+> curl -sI https://moodle.rcsmm.eu/login/index.php
+> # → X-Powered-By: PHP/5.6.38-0+deb8u1  (Debian 8 + PHP 5.6 EOL)
+> # → MoodleSession cookie confirma Moodle activo
+>
+> curl -s https://rcsmm.eu/authorize.php
+> # → eu_cookie_compliance.min.js?v=9.5.11  → Drupal 9.5.11 (EOL nov 2023)
+>
+> curl -sI https://rcsmm.eu/user/register
+> # → 200 OK → registro de usuarios abierto
+>
+> curl -s https://rcsmm.eu/user/login
+> # → formulario login presente
+>
+> # Búsqueda exploits públicos:
+> # Google: "Moodle 2.7 RCE exploit", "Drupal 9 RCE gadget chain",
+> # "PHP 5.6 rce exploit", "Debian 8 local privilege escalation"
+> ```
 
 ##### Vía 1: Moodle 2.7 (moodle.rcsmm.eu) — CRÍTICO
 
@@ -157,6 +222,15 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 
 ## 5. Información corporativa
 
+> **Fuentes utilizadas:**
+> ```bash
+> curl -s https://rcsmm.eu/nuestro-centro | grep -i "Director\|Directora"
+> curl -s https://rcsmm.eu/departamento-cuerda  # Listado profesorado
+> curl -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM  # Horarios con nombres
+> # Búsqueda en Google: "rcsmm directora", "Real Conservatorio Superior de Música equipo"
+> # Wikipedia: https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
+> ```
+
 ### 5.1 Equipo directivo
 - Nombres públicos:
   - Consuelo de la Vega Sestelo — Directora (2020–presente), catedrática de Pedagogía
@@ -188,6 +262,19 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 
 ## 6. Otra información
 
+> **Comandos utilizados:**
+> ```bash
+> dig +short rcsmm.eu MX  # pop3.rcsmm.eu, mail.rcsmm.eu, smtp.rcsmm.eu, imap.rcsmm.eu (priority 10)
+> dig +short rcsmm.eu TXT  # SPF, DMARC, DKIM
+> dig +short _dmarc.rcsmm.eu TXT  # DMARC record
+> dig +short default._domainkey.rcsmm.eu TXT  # DKIM selectors
+> dig +short rcsmm.es TXT  # SPF incluye protection.outlook.com
+> # Extracción de emails del HTML:
+> curl -s https://rcsmm.eu | grep -oE '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+> curl -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM | grep -oE '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+> curl -s https://rcsmm.eu/authorize.php | grep -oE '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+> ```
+
 ### 6.1 Emails recopilados
 
 #### 6.1.1 Emails corporativos
@@ -199,6 +286,12 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
   - `dmarc-forensics@rcsmm.eu` — Informes forenses DMARC (RUF)
 - Formatos detectados: `nombre@rcsmm.eu` (administrativo) / `nombre.apellido@rcsmm.es` (profesorado, sobre Office 365 / Exchange Online)
 
+### 6.1.4 Registros TXT confirmados (00_osint_pasivo)
+- SPF: `v=spf1 ip4:213.172.39.16/28 ip4:217.172.77.96/27 ip6:2a11:1f40::/29 -all`
+- DMARC: `_dmarc.rcsmm.eu` → `v=DMARC1; p=quarantine; rua=mailto:dmarc-analysis@rcsmm.eu; ruf=mailto:dmarc-forensics@rcsmm.eu`
+- Microsoft verification: `MS=ms13757792` (en rcsmm.eu)
+- DKIM selectors detectados: `_j086yc6fkdff4hfxni3svuz2k437bxd`, `_2t2d9xz3ow186tdizt6vge7kenyxfoc`, `ls86y0hdz3l881ws89g4592m4qc52s6w`, `8lrtrcstkqy8dx7zw3fkzy3n29hc9wf9` ==(DKIM SÍ existe, contrario a nota anterior)==
+
 ### 6.1.2 Dominio secundario identificado
 - `rcsmm.es` — Dominio separado para email del profesorado
 - Patrón de correo: `nombre.apellido@rcsmm.es` (ej: Javier Somoza → `javier.somozadepablo@rcsmm.es`)
@@ -206,6 +299,13 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 - SPF: `v=spf1 include:spf.protection.outlook.com -all`
 - Verificación Microsoft: `MS=ms87766292`
 - **Implicación OSINT**: Conociendo la lista de profesores (25+ nombres del Departamento de Cuerda), se puede inferir el correo de cualquier docente del centro.
+
+### 6.1.3 Registros MX confirmados (00_osint_pasivo)
+- `pop3.rcsmm.eu` (priority 10)
+- `mail.rcsmm.eu` (priority 10)
+- `smtp.rcsmm.eu` (priority 10)
+- `imap.rcsmm.eu` (priority 10)
+- Todos resuelven a `213.172.39.24`
 
 ### 6.2 Metadatos
 - Documentos analizados: No se descargaron documentos para análisis de metadatos
@@ -234,11 +334,13 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
   - WebUntis público expone horarios completos de todos los profesores, aulas y grupos sin autenticación
   - Patrón de correo `nombre.apellido@rcsmm.es` permite enumerar emails de cualquier docente del centro fácilmente
   - Dos dominios separados (rcsmm.eu / rcsmm.es) con infraestructura diferente y sin coordinación de seguridad visible
+  - **DKIM activo** (mitiga spoofing) pero DMARC en quarantine no reject
 
 - Buenas prácticas detectadas:
   - HSTS activo con `max-age=63072000` (2 años)
   - SPF restrictivo con `-all`
   - DMARC implementado (aunque en modo quarantine y no reject)
+  - **DKIM configurado** (4 selectors activos) ==(00_osint_pasivo confirmado)==
   - HTTPS nativo sin redirección HTTP (seguro por defecto)
   - Cabecera `X-Frame-Options: SAMEORIGIN` (protección anti-clickjacking)
   - `X-Content-Type-Options: nosniff` activo
