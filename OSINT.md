@@ -9,12 +9,10 @@
 
 > **Comandos utilizados:**
 > ```bash
-> curl -s https://rcsmm.eu | grep -i "generator\|Drupal"
+> curl -s https://rcsmm.eu
 > curl -sI https://moodle.rcsmm.eu/login/index.php
-> dig +short rcsmm.eu MX
-> dig +short rcsmm.eu TXT
-> # Subdominios: subfinder -d rcsmm.eu -silent; amass enum -passive -d rcsmm.eu
-> # Whois .eu: whois rcsmm.eu (limitado por GDPR)
+> dig +short rcsmm.eu MX TXT
+> subfinder -d rcsmm.eu -silent
 > ```
 
 ![](attachments/Pasted%20image%2020260609192703.png)
@@ -47,11 +45,9 @@
 ## 3. Información administrativa
 
 > **Comandos y fuentes:**
-> ```powershell
-> curl.exe -s https://rcsmm.eu/aviso-legal
-> curl.exe -s https://rcsmm.eu/politica-privacidad
-> # Google Maps para dirección física
-> # Búsqueda AEC (Association Européenne des Conservatoires) para afiliaciones
+> ```bash
+> curl -s https://rcsmm.eu/aviso-legal
+> curl -s https://rcsmm.eu/politica-privacidad
 > ```
 
 ### 3.1 Datos fiscales
@@ -70,13 +66,10 @@
 
 > **Comandos utilizados:**
 > ```bash
-> dig +short rcsmm.eu A
-> dig +short rcsmm.eu NS
-> dig +short rcsmm.eu SOA
-> # Subdominios detectados via subfinder/amass/crt.sh:
-> # subfinder -d rcsmm.eu -silent
-> # amass enum -passive -d rcsmm.eu
-> # curl -s "https://crt.sh/?q=%25.rcsmm.eu&output=json" | jq -r '.[].name_value'
+> dig +short rcsmm.eu A NS SOA
+> dig +short moodle.rcsmm.eu A intranet.rcsmm.eu A webmail.rcsmm.eu A ftp.rcsmm.eu A
+> dig +short rcsmm.es A NS
+> curl -s "https://crt.sh/?q=%25.rcsmm.eu&output=json" | jq -r '.[].name_value'
 > ```
 
 ### 4.1 Direcciones IP
