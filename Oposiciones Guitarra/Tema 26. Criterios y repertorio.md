@@ -9,8 +9,7 @@
 5. [Criterios didácticos para enseñanzas profesionales](#Criterios%20didácticos%20para%20enseñanzas%20profesionales)
 6. [Aplicación práctica a la guitarra](#Aplicación%20práctica%20a%20la%20guitarra)
 7. [Conclusiones](#Conclusiones)
-8. [NOTAS](#NOTAS)
-9. [Bibliografía](#Bibliografía)
+8. [Bibliografía](#Bibliografía)
 
 ## Introducción
 

@@ -18,8 +18,7 @@
 	6. [Recursos de audio y vídeo](#Recursos%20de%20audio%20y%20vídeo)
 	7. [Recursos de internet relacionados con la guitarra](#Recursos%20de%20internet%20relacionados%20con%20la%20guitarra)
 5. [Conclusiones](#Conclusiones)
-6. [NOTAS](#NOTAS)
-7. [Bibliografía](#Bibliografía)
+6. [Bibliografía](#Bibliografía)
 
 ## Introducción
 

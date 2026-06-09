@@ -9,8 +9,7 @@
 	2. [Enseñanzas Profesionales](#Enseñanzas%20Profesionales)
 4. [Desarrollo de las competencias como vía integradora](#Desarrollo%20de%20las%20competencias%20como%20vía%20integradora)
 5. [Conclusiones](#Conclusiones)
-6. [NOTAS](#NOTAS)
-7. [Bibliografía](#Bibliografía)
+6. [Bibliografía](#Bibliografía)
 
 ## Introducción
 

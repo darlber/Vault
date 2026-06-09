@@ -12,8 +12,7 @@
 	1. [Preservación en los conservatorios](#Preservación%20en%20los%20conservatorios)
 	2. [Investigación](#Investigación)
 4. [Conclusiones](#Conclusiones)
-5. [NOTAS](#NOTAS)
-6. [Bibliografía](#Bibliografía)
+5. [Bibliografía](#Bibliografía)
 
 ## La música como patrimonio histórico-artístico cultural
 

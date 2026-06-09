@@ -18,8 +18,7 @@
 7. [Técnicas de memorización](#Técnicas%20de%20memorización)
 8. [El trabajo de la memoria como unidad didáctica](#El%20trabajo%20de%20la%20memoria%20como%20unidad%20didáctica)
 9. [Conclusiones](#Conclusiones)
-10. [NOTAS](#NOTAS)
-11. [Bibliografía](#Bibliografía)
+10. [Bibliografía](#Bibliografía)
 
 ## Introducción
 

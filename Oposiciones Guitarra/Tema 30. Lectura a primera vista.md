@@ -16,8 +16,7 @@
 	1. [Enseñanzas elementales](#Enseñanzas%20elementales)
 	2. [Enseñanzas profesionales](#Enseñanzas%20profesionales)
 6. [Conclusiones](#Conclusiones)
-7. [NOTAS](#NOTAS)
-8. [Bibliografía](#Bibliografía)
+7. [Bibliografía](#Bibliografía)
 
 ## Introducción
 
