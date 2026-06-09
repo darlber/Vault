@@ -1,4 +1,4 @@
-# Tema 32. Interdisciplinariedad en los estudios. La relación que conforman entre sí las diferentes asignaturas del currículo.
+# Interdisciplinariedad en los estudios. La relación que conforman entre sí las diferentes asignaturas del currículo.
 
 ## Índice
 
@@ -16,7 +16,7 @@
 
 - En el pasado, las enseñanzas musicales se caracterizaron por un individualismo generalizado. Las clases de instrumento eran (y son) individuales y la práctica en grupo era casi testimonial. En el Plan 66 solo había dos asignaturas de grupo: Música de cámara y Conjunto instrumental
 - No existía la obligación de articular un proyecto educativo ni de trabajar en equipo. Las metodologías exigían largas jornadas de estudio individual, fomentando un espíritu individualista reñido con el carácter colectivo de la música
-- Las competencias docentes no contemplaban formación pedagógica ni capacidad de consensuar un proyecto común. **Elisa Roche**[^7] lo denominó el «profesor artista»
+- Las competencias docentes no contemplaban formación pedagógica ni capacidad de consensuar un proyecto común. **Elisa Roche**[^1] lo denominó el «profesor artista»
 - Las reformas desde los años 90 han intentado superar esta situación integrando las enseñanzas musicales en el sistema educativo
 - El desarrollo artístico y tecnológico demanda la integración de saberes. La interdisciplinariedad es un tema obligado en la comunidad pedagógica
 - La formación musical no debe limitarse a la práctica instrumental: debe propiciar la formación integral equilibrando conocimiento teórico, destrezas instrumentales y principios estéticos
@@ -41,7 +41,7 @@
 - Objetivo: apreciar cada campo pero ver más allá de sus barreras y límites convencionales
 - En la enseñanza instrumental, la interdisciplinariedad y transdisciplinariedad son necesarias para un aprendizaje significativo y la adquisición de competencias. Los conocimientos teóricos deben conectarse con su utilidad práctica en el instrumento
 
-==**Ejemplos musicales de cada concepto:** **Multidisciplinariedad** — un alumno cursa simultáneamente Instrumento, Armonía e Historia, pero estudia cada asignatura sin establecer conexiones; aprende una fuga de Bach en guitarra, analiza acordes en Armonía y estudia el Barroco en Historia, pero no relaciona estos saberes. **Interdisciplinariedad** — los profesores de Guitarra, Análisis e Historia acuerdan trabajar la misma fuga de Bach: el guitarrista la interpreta analizando la conducción de voces, el profesor de Análisis estudia la estructura contrapuntística y el de Historia contextualiza la obra en el Barroco tardío; el alumno percibe la obra como un objeto de estudio unitario. **Transdisciplinariedad** — el alumno, a partir del estudio de la fuga, investiga por su cuenta la retórica musical barroca (*Figurenlehre*), la simbología numérica en Bach y la relación entre música y predicación luterana; trasciende las fronteras disciplinares y construye un conocimiento holístico que integra música, historia, teología y estética[^8].==
+==**Ejemplos musicales de cada concepto:** **Multidisciplinariedad** — un alumno cursa simultáneamente Instrumento, Armonía e Historia, pero estudia cada asignatura sin establecer conexiones; aprende una fuga de Bach en guitarra, analiza acordes en Armonía y estudia el Barroco en Historia, pero no relaciona estos saberes. **Interdisciplinariedad** — los profesores de Guitarra, Análisis e Historia acuerdan trabajar la misma fuga de Bach: el guitarrista la interpreta analizando la conducción de voces, el profesor de Análisis estudia la estructura contrapuntística y el de Historia contextualiza la obra en el Barroco tardío; el alumno percibe la obra como un objeto de estudio unitario. **Transdisciplinariedad** — el alumno, a partir del estudio de la fuga, investiga por su cuenta la retórica musical barroca (*Figurenlehre*), la simbología numérica en Bach y la relación entre música y predicación luterana; trasciende las fronteras disciplinares y construye un conocimiento holístico que integra música, historia, teología y estética[^2].==
 
 ## 3. Relación entre las asignaturas del currículo
 
@@ -75,7 +75,7 @@
 
 ### 3.2. Enseñanzas Profesionales #REVISAR_OPENCODE
 
-- Regulación compartida entre Estado y CC. AA. (**RD 1577/2006**[^5]: 65% del horario lectivo estatal, 55% en CC. AA. con lengua propia)
+- Regulación compartida entre Estado y CC. AA. (**RD 1577/2006**[^3]: 65% del horario lectivo estatal, 55% en CC. AA. con lengua propia)
 - Tres grupos de asignaturas:
   1. **Instrumentales individuales**: Instrumento/Canto, Piano complementario, Acompañamiento
   2. **Instrumentales en grupo**: Orquesta/Banda/Conjunto, Coro, Música de cámara, Big band
@@ -101,14 +101,15 @@
 - **Evaluación**: mostrar autonomía, demostrar interés y colaboración. Procedimientos: observación sistemática, audiciones, controles escritos
 - **Recursos**: aula de orquesta, sala de conciertos, partituras y particellas, bibliografía, equipo audiovisual
 
-==**Ejemplo de unidad didáctica interdisciplinar para guitarra:** **Título**: «La guitarra en el Clasicismo: Sor y la sonata clásica». **Curso**: 4.º de EP. **Temporalización**: 6 semanas. **Asignaturas implicadas**: Guitarra, Análisis, Historia de la Música, Música de Cámara. **Objetivos**: interpretar una sonata de Sor con criterio histórico; analizar la forma sonata en la guitarra; contextualizar la obra en el Clasicismo tardío; coordinar la parte solista con el acompañamiento de cámara. **Actividades**: (a) en Guitarra — estudio técnico e interpretación de la *Sonata op. 15* de Sor, con atención a la articulación clásica y las ornamentaciones; (b) en Análisis — análisis formal (exposición, desarrollo, reexposición) y armónico de la obra; (c) en Historia — estudio de la guitarra en la Viena clásica, el mecenazgo y la figura de Sor como compositor-intérprete; (d) en Música de Cámara — ensayo del dúo de guitarras o de la versión con cuarteto de cuerdas. **Evaluación conjunta**: los profesores consensúan una rúbrica común que valora la precisión histórica, la corrección analítica y la calidad interpretativa. Este modelo interdisciplinar puede replicarse con otros períodos (Renacimiento con Milán y Narváez, Impresionismo con obras de Mompou o Falla transcritas)[^5][^8].==
+==**Ejemplo de unidad didáctica interdisciplinar para guitarra:** **Título**: «La guitarra en el Clasicismo: Sor y la sonata clásica». **Curso**: 4.º de EP. **Temporalización**: 6 semanas. **Asignaturas implicadas**: Guitarra, Análisis, Historia de la Música, Música de Cámara. **Objetivos**: interpretar una sonata de Sor con criterio histórico; analizar la forma sonata en la guitarra; contextualizar la obra en el Clasicismo tardío; coordinar la parte solista con el acompañamiento de cámara. **Actividades**: (a) en Guitarra — estudio técnico e interpretación de la *Sonata op. 15* de Sor, con atención a la articulación clásica y las ornamentaciones; (b) en Análisis — análisis formal (exposición, desarrollo, reexposición) y armónico de la obra; (c) en Historia — estudio de la guitarra en la Viena clásica, el mecenazgo y la figura de Sor como compositor-intérprete; (d) en Música de Cámara — ensayo del dúo de guitarras o de la versión con cuarteto de cuerdas. **Evaluación conjunta**: los profesores consensúan una rúbrica común que valora la precisión histórica, la corrección analítica y la calidad interpretativa. Este modelo interdisciplinar puede replicarse con otros períodos (Renacimiento con Milán y Narváez, Impresionismo con obras de Mompou o Falla transcritas)[^3][^2].==
 
 ## 4. Desarrollo de las competencias como vía integradora
 
 ### 4.1. Introducción
-- La LOE (mantenida por la LOMCE)[^3] introdujo las competencias básicas o clave como nuevo elemento curricular: 8 iniciales, ahora 7
+- La LOE (mantenida por la LOMCE)[^4] introdujo las competencias básicas o clave como nuevo elemento curricular: 8 iniciales, ahora 7
 - El RD 1577/2006 no las menciona, pero algunas CC. AA. las han incorporado
 - Las competencias clave suponen un enfoque transdisciplinar: deben adquirirse desde todas las materias, exigiendo puentes entre ellas para una integración significativa
+- Cano (2005)[^5] propone estrategias para que el profesorado desarrolle las competencias docentes necesarias para articular este enfoque integrador
 
 ### 4.2. ¿Qué son las competencias clave?
 - No están vinculadas a una materia determinada, sino a todas
@@ -121,8 +122,11 @@
 - **Conocimientos**: convenciones, materiales, técnicas y recursos de los lenguajes artísticos; obras y manifestaciones del patrimonio cultural; evolución de las corrientes estéticas
 - **Destrezas**: apreciar y disfrutar con obras de arte; uso básico de medios de expresión artística para creaciones propias
 - **Actitudes**: valoración de la experiencia sensorial, actitud abierta y respetuosa, deseo de cultivar la capacidad estética
+- Cook McNeil (2003)[^6] vincula la educación artística con la formación estética, fundamentando la necesidad de desarrollar esta competencia desde la enseñanza musical
 
 ### 4.4. Competencias clave y Enseñanzas Profesionales de Música #REVISAR_OPENCODE
+
+El monográfico de *Eufonía* n.º 41 (2007)[^7] analiza el desarrollo de las competencias clave específicamente en el aula de música:
 
 **Aprender a aprender**: desarrollar la capacidad de autoaprendizaje y resolución autónoma de problemas interpretativos. La clase instrumental (una sesión semanal) obliga al desarrollo de la autonomía. Objetivos curriculares relacionados: «Conocer los valores de la música», «Adquirir y demostrar los reflejos necesarios para resolver eventualidades», «Actuar en público con autocontrol, dominio de la memoria y capacidad comunicativa», «Aplicar con autonomía progresivamente mayor los conocimientos musicales»
 
@@ -136,7 +140,7 @@
 
 **Sentido de la iniciativa y espíritu emprendedor**: habilidades para convertir ideas en actos (creatividad, asumir riesgos, planificar y gestionar proyectos). En música, vinculada al desarrollo profesional y a la autogestión de la carrera artística
 
-==**Aplicación a la guitarra de cada competencia:** la interdisciplinariedad permite que cada competencia clave se desarrolle desde la asignatura de Guitarra en conexión con las demás materias. **Aprender a aprender** — el alumno elabora un plan de estudio semanal para una obra nueva, fijando objetivos por días y autoevaluándose al final de la semana; el tutor de guitarra revisa el plan y sugiere ajustes. **Competencia digital** — el alumno utiliza software de edición de partituras (MuseScore, Sibelius) para transcribir una obra renacentista de tablatura a notación moderna, grabándose con el móvil para escuchar críticamente su interpretación. **Comunicación lingüística** — el alumno redacta un programa de mano para la audición trimestral, investigando sobre el compositor y la obra, y lo expone oralmente antes de tocar. **Matemática y competencias científicas** — el alumno estudia la serie de armónicos naturales en la guitarra, calcula la relación entre la longitud de la cuerda y la frecuencia, y comprende físicamente por qué el traste XII divide la cuerda a la mitad. **Sociales y cívicas** — el alumno participa en un ensemble de guitarras donde debe negociar las entradas, los planos dinámicos y las respiraciones colectivas, desarrollando empatía y responsabilidad grupal. **Sentido de la iniciativa** — el alumno organiza un micro-recital de 10 minutos para la clase colectiva: elige el repertorio, decide el orden de las obras y presenta oralmente cada pieza. **Conciencia y expresiones culturales** — el alumno asiste a un concierto de guitarra profesional y redacta una crítica comparando la interpretación con su propio estudio de las mismas obras. Estas actividades integran las competencias en la práctica cotidiana del aula de guitarra[^3][^4].==
+==**Aplicación a la guitarra de cada competencia:** la interdisciplinariedad permite que cada competencia clave se desarrolle desde la asignatura de Guitarra en conexión con las demás materias. **Aprender a aprender** — el alumno elabora un plan de estudio semanal para una obra nueva, fijando objetivos por días y autoevaluándose al final de la semana; el tutor de guitarra revisa el plan y sugiere ajustes. **Competencia digital** — el alumno utiliza software de edición de partituras (MuseScore, Sibelius) para transcribir una obra renacentista de tablatura a notación moderna, grabándose con el móvil para escuchar críticamente su interpretación. **Comunicación lingüística** — el alumno redacta un programa de mano para la audición trimestral, investigando sobre el compositor y la obra, y lo expone oralmente antes de tocar. **Matemática y competencias científicas** — el alumno estudia la serie de armónicos naturales en la guitarra, calcula la relación entre la longitud de la cuerda y la frecuencia, y comprende físicamente por qué el traste XII divide la cuerda a la mitad. **Sociales y cívicas** — el alumno participa en un ensemble de guitarras donde debe negociar las entradas, los planos dinámicos y las respiraciones colectivas, desarrollando empatía y responsabilidad grupal. **Sentido de la iniciativa** — el alumno organiza un micro-recital de 10 minutos para la clase colectiva: elige el repertorio, decide el orden de las obras y presenta oralmente cada pieza. **Conciencia y expresiones culturales** — el alumno asiste a un concierto de guitarra profesional y redacta una crítica comparando la interpretación con su propio estudio de las mismas obras. Estas actividades integran las competencias en la práctica cotidiana del aula de guitarra[^4][^8].==
 
 ## 5. Conclusiones
 
@@ -144,7 +148,25 @@
 - Es necesario superar prácticas del pasado como el excesivo individualismo
 - La interdisciplinariedad y la transdisciplinariedad son irrenunciables para propiciar aprendizajes más funcionales, significativos, holísticos e integrados
 
-## 7. Bibliografía #REVISAR_OPENCODE
+# NOTAS #REVISAR_OPENCODE
+
+[^1]: Roche, E. «El profesor artista». En *La enseñanza musical: reflexiones y propuestas*, 67–84. Madrid: Música y Educación, 1990.
+
+[^2]: Torres Santomé, J. *Globalización e interdisciplinariedad: el currículo integral*. Madrid: Morata, 1994.
+
+[^3]: RD 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *BOE*, 8 de enero de 2007.
+
+[^4]: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). *BOE*, 4 de mayo de 2006.
+
+[^5]: Cano, E. *Cómo mejorar las competencias de los docentes*. Barcelona: Graó, 2005.
+
+[^6]: Cook McNeil, L. O. «La Educación artística: vía fundamental para la educación estética». *Opuntia Brava* 4, n.º 3 (2003): 45–52.
+
+[^7]: *Revista Eufonía*, n.º 41, «Competencias en educación musical» (2007).
+
+[^8]: Perrenoud, P. *Diez nuevas competencias para enseñar*. Barcelona: Graó, 2000.
+
+# Bibliografía #REVISAR_OPENCODE
 
 - Cano, Elena. *Cómo mejorar las competencias de los docentes*. Barcelona: Graó, 2005.
 - Cook McNeil, L. O. «La Educación artística: vía fundamental para la educación estética». *Opuntia Brava* 4, n.º 3 (2003): 45–52.
@@ -154,21 +176,3 @@
 - *Revista Eufonía*, n.º 41, «Competencias en educación musical» (2007).
 - Roche, Elisa. «El profesor artista». En *La enseñanza musical: reflexiones y propuestas*, 67–84. Madrid: Música y Educación, 1990.
 - Torres Santomé, Jurjo. *Globalización e interdisciplinariedad: el currículo integral*. Madrid: Morata, 1994.
-
-# NOTAS #REVISAR_OPENCODE
-
-[^1]: Cano, Elena. *Cómo mejorar las competencias de los docentes*. Barcelona: Graó, 2005.
-
-[^2]: Cook McNeil, L. O. «La Educación artística: vía fundamental para la educación estética». *Opuntia Brava* 4, n.º 3 (2003): 45–52.
-
-[^3]: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). *BOE*, 4 de mayo de 2006.
-
-[^4]: Perrenoud, Philippe. *Diez nuevas competencias para enseñar*. Barcelona: Graó, 2000.
-
-[^5]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música. *Boletín Oficial del Estado*, 8 de enero de 2007.
-
-[^6]: *Revista Eufonía*, n.º 41, «Competencias en educación musical» (2007).
-
-[^7]: Roche, Elisa. «El profesor artista». En *La enseñanza musical: reflexiones y propuestas*, 67–84. Madrid: Música y Educación, 1990.
-
-[^8]: Torres Santomé, Jurjo. *Globalización e interdisciplinariedad: el currículo integral*. Madrid: Morata, 1994.
