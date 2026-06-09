@@ -33,17 +33,17 @@
   - **Cómo enseñar**: metodología, que define cómo conseguir los objetivos mediante actividades de enseñanza-aprendizaje adecuadas
 - Estos tres aspectos están interrelacionados; las opciones sobre el cómo enseñar impregnan todo el proceso de elaboración curricular
 - Definición: la metodología educativa explica el modo de enseñar, la aplicación coherente de un sistema ordenado para llegar a un fin educativo
-- Las metodologías educativas giran en torno a teorías del aprendizaje psicopedagógicas: conductismo, cognitivismo, constructivismo y conectivismo
+- Las metodologías educativas giran en torno a teorías del aprendizaje psicopedagógicas: conductismo, cognitivismo, constructivismo y conectivismo[^1]
 - No debe confundirse metodología con libros de estudios o ejercicios («métodos»). La metodología es un concepto más amplio que abarca la manera de proceder de un profesor y de un centro
 - Durante años, las corrientes que defienden un aprendizaje mediante la experiencia se han considerado las más adecuadas para el aprendizaje musical
 - Estas corrientes tratan primero la vivencia y el descubrimiento, y posteriormente abordan la teoría en la que se asientan dichas experiencias
 - Rousseau fue uno de los primeros defensores de este enfoque; a finales del s. XIX apareció la «Escuela activa», cuyo representante máximo fue Dewey, que promovió este movimiento pedagógico
 - A finales del s. XIX y comienzos del XX surge el movimiento de la Nueva Escuela, que sitúa al alumno como centro del proceso de aprendizaje
-- El s. XX ha sido el siglo de los grandes métodos de iniciación musical, propiciado por:
+- El s. XX ha sido el siglo de los grandes métodos de iniciación musical[^3][^4][^5][^6], propiciado por:
   1. El auge de las ciencias sobre la conducta humana (psicología y pedagogía)
   2. La expansión de la educación y su obligatoriedad progresiva
   3. El gran desarrollo instrumental y técnico desde la segunda mitad del s. XIX, y la mala praxis pedagógica imperante
-- Muchos de estos sistemas se han inspirado en J. Piaget y la Psicología Cognitiva, el constructivismo y los estadios psico-evolutivos
+- Muchos de estos sistemas se han inspirado en J. Piaget y la Psicología Cognitiva, el constructivismo y los estadios psico-evolutivos[^2]
 
 ### Principios metodológicos comunes
 - **Intuición**: la enseñanza, sobre todo en primeras edades, ha de tener base intuitiva
@@ -57,7 +57,7 @@
 
 ### 2.1. Émile Jaques-Dalcroze
 
-- Nació en Viena en 1865, compositor y teórico. Estudió con Anton Bruckner y Robert Fuchs, después en París con Léo Delibes
+- Nació en Viena en 1865, compositor y teórico. Estudió con Anton Bruckner y Robert Fuchs, después en París con Léo Delibes[^7][^8][^9]
 - En 1892 ingresó en el Conservatorio de Ginebra; en 1910 creó su propia escuela en Hellerau
 - Su método se basa en el movimiento y el ritmo como eje del aprendizaje musical
 - El niño, tras la práctica de movimientos y actividades como danza rítmica, marcha, carrera, etc., desarrolla su creatividad para la posterior práctica musical
@@ -95,7 +95,7 @@
 
 ### 2.3. Carl Orff
 
-- Compositor alemán (Munich, 1895–1982), conocido por *Carmina Burana* y su método pedagógico *Schulwerk*
+- Compositor alemán (Munich, 1895–1982), conocido por *Carmina Burana* y su método pedagógico *Schulwerk*[^10][^11][^12]
 - Su método se apoya en el ritmo, el movimiento corporal y la improvisación, continuando las ideas de Dalcroze
 - Principios pedagógicos:
   - La actividad como eje del aprendizaje
@@ -114,7 +114,7 @@
 
 - Nació en 1890 en Lanaken (Bélgica). Pedagogo, musicólogo e investigador
 - Se formó en Ginebra (1925) con Malan; fue profesor del Conservatorio de Ginebra
-- Investigó sobre la sensorialidad auditiva infantil; en 1949 fundó la editorial Pro Música en Fribourg
+- Investigó sobre la sensorialidad auditiva infantil; en 1949 fundó la editorial Pro Música en Fribourg[^13][^14][^15]
 - Seguidor de Dalcroze, se centró en desarrollar las carencias que este había reconocido, especialmente el desarrollo del oído musical
 - El oído musical se compone de tres elementos:
   - Sensorial (oír)
@@ -232,7 +232,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 | **Contexto** | Conservatorio aislado | Interdisciplinariedad, conexión con la vida |
 
 - El modelo actual, impulsado por los métodos activos del s. XX, busca el desarrollo integral del alumno, superando el carácter exclusivamente técnico y mecánico de la enseñanza musical tradicional
-- La reforma educativa (LOGSE y sucesivas) ha modificado la metodología de los conservatorios: nueva mentalidad del profesorado, mayor preparación didáctica, modificación de las materias del currículo
+- La reforma educativa (LOGSE y sucesivas) ha modificado la metodología de los conservatorios[^16]: nueva mentalidad del profesorado, mayor preparación didáctica, modificación de las materias del currículo
 - No obstante, el sistema tradicional ha cumplido una importante función social y ha formado a muchos profesionales con magníficos profesores
 
 ## 4. Criterios didácticos para la selección de repertorio a nivel inicial
@@ -255,7 +255,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - Adquirir y desarrollar la sensibilidad musical a través de la interpretación de diferentes épocas, géneros y estilos
 - Conocer y aplicar las técnicas del instrumento según las exigencias de las obras
 
-**Decreto 158/2007 (EE. profesionales, CV), Art. 4:**
+**Decreto 158/2007 (EE. profesionales, CV), Art. 4:**[^17]
 - Fomentar la audición de música y desarrollar criterios interpretativos individuales
 - Analizar y valorar críticamente las diferentes manifestaciones y estilos musicales
 - Conocer y valorar el patrimonio musical como parte del patrimonio histórico y cultural
@@ -270,7 +270,7 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - El repertorio será estimulante y variado para mantener el interés del alumno
 - Equilibrio entre ejercicios de mecanismo y obras de interpretación musical (técnica al servicio de la interpretación)
 - De fácil acceso para los alumnos y sus familias (difusión comercial o disponibilidad en el centro)
-- Conectado con los objetivos, contenidos y actividades programados en el nivel
+- Conectado con los objetivos, contenidos y actividades programados en el nivel[^18]
 - Actualización continua para incorporar nuevos ejemplares de interés
 - Métodos basados en la experiencia musical y el papel activo del alumno
 - Que potencien la creatividad y el aprendizaje por descubrimiento
@@ -318,61 +318,61 @@ Según Hemsy de Gainza (2004), los métodos pueden clasificarse en seis período
 - *Método de Guitarra* (Dionisio Aguado)
 - Métodos de Daniel Fortea
 
-## 5. Bibliografía #REVISAR_OPENCODE
+## 5. Bibliografía
 
-- Alsina, Pep: *El área de educación musical* (1997)
-- Banks, Susan: *Orff Schulwerk Teaches Musical Responsiveness* (1982)
-- Bitcon, Carol: *Alike and Different: The Clinical and Educational Use of Orff Schulwerk* (1976)
-- Coll, C. (1987). *Psicología y Currículum*. Paidós
-- Decreto 158/2007 de 17 de agosto del Gobierno Valenciano
-- Gersdorf, Lilo: *Carl Orff* (2002)
-- Gómez Albadalejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos*
-- Hoge Mead, Virginia: *More than Mere Movement: Dalcroze Eurhythmics* (1986)
-- Jaques-Dalcroze, Émile: *Méthode Jaques-Dalcroze* (1907-1914)
-- Jaques-Dalcroze, Émile: *Rhythm, Music and Education* (1922)
-- Muñoz, A. y Noriega, J.: *Técnicas Básicas de Programación*. Escuela Española
-- Pliego de Andrés, Víctor: *Temas Pedagógicos para la oposición de conservatorios* (1998)
-- Sanjosé Huguet, V. (1997): *Didáctica de la Expresión Musical para Maestros*. Piles
-- Swanwick, Keith: *Música, pensamiento y educación* (1991)
-- Willems, Edgar: *El oído musical. La preparación auditiva del niño* (2001)
-- Willems, Edgar: *La preparación musical de los más pequeños* (1976)
-- Willems, Edgar: *Las bases psicológicas de la educación musical* (1984)
-- Zaldivar, Álvaro: *La Logse en los conservatorios* (1992)
+- Alsina, P. (1997). *El área de educación musical: Propuestas para aplicar en el aula*. Barcelona: Graó.
+- Banks, S. (1982). "Orff-Schulwerk Teaches Musical Responsiveness". *Music Educators Journal*, 68(7), 42-43.
+- Bitcon, C. H. (1976). *Alike and Different: The Clinical and Educational Use of Orff Schulwerk*. Santa Ana, CA: Rosha Press.
+- Coll, C. (1987). *Psicología y Currículum*. Barcelona: Paidós.
+- Decreto 158/2007, de 17 de agosto, del Gobierno Valenciano, por el que se establece el currículo de las enseñanzas profesionales de música en la Comunitat Valenciana.
+- Gersdorf, L. (1981). *Carl Orff*. Reinbek bei Hamburg: Rowohlt.
+- Gómez Albadalejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Madrid: Master Oposiciones.
+- Hoge Mead, V. (1986). "More than Mere Movement: Dalcroze Eurhythmics". *Music Educators Journal*, 72(6), 42-46.
+- Jaques-Dalcroze, É. (1906-1907). *Méthode Jaques-Dalcroze*. Neuchatel: Sandoz, Jobin & Cie.
+- Jaques-Dalcroze, É. (1921). *Rhythm, Music and Education*. London: Chatto & Windus.
+- Muñoz, A. y Noriega, J. (1996). *Técnicas básicas de programación*. Madrid: Escuela Española.
+- Pliego de Andrés, V. (1998). *Temas pedagógicos para la oposición de conservatorios*. Madrid: Musicalis.
+- Sanjosé Huguet, V. (1997). *Didáctica de la Expresión Musical para Maestros*. Valencia: Piles.
+- Swanwick, K. (1991). *Música, pensamiento y educación*. Madrid: Ediciones Morata / Ministerio de Educación y Ciencia.
+- Willems, E. (1976). *La preparación musical de los más pequeños*. Buenos Aires: Eudeba.
+- Willems, E. (1984). *Las bases psicológicas de la educación musical*. Buenos Aires: Eudeba.
+- Willems, E. (2001). *El oído musical: La preparación auditiva del niño*. Barcelona: Paidós.
+- Zaldívar, Á. (1992). *La LOGSE en los conservatorios: Normativa básica de las Enseñanzas Musicales*. Madrid: Real Musical / Asociación Estatal de Conservatorios Privados.
 
-# NOTAS #REVISAR_OPENCODE
+# NOTAS
 
-[^1]: Alsina, Pep: *El área de educación musical* (1997)
+[^1]: Sanjosé Huguet, V. (1997). *Didáctica de la Expresión Musical para Maestros*. Valencia: Piles.
 
-[^2]: Banks, Susan: *Orff Schulwerk Teaches Musical Responsiveness* (1982)
+[^2]: Coll, C. (1987). *Psicología y Currículum*. Barcelona: Paidós.
 
-[^3]: Bitcon, Carol: *Alike and Different: The Clinical and Educational Use of Orff Schulwerk* (1976)
+[^3]: Swanwick, K. (1991). *Música, pensamiento y educación*. Madrid: Morata / MEC.
 
-[^4]: Coll, C. (1987). *Psicología y Currículum*. Paidós
+[^4]: Alsina, P. (1997). *El área de educación musical*. Barcelona: Graó.
 
-[^5]: Decreto 158/2007 de 17 de agosto del Gobierno Valenciano
+[^5]: Gómez Albadalejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Madrid: Master Oposiciones.
 
-[^6]: Gersdorf, Lilo: *Carl Orff* (2002)
+[^6]: Pliego de Andrés, V. (1998). *Temas pedagógicos para la oposición de conservatorios*. Madrid: Musicalis.
 
-[^7]: Gómez Albadalejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos*
+[^7]: Jaques-Dalcroze, É. (1906-1907). *Méthode Jaques-Dalcroze*. Neuchatel: Sandoz, Jobin & Cie.
 
-[^8]: Hoge Mead, Virginia: *More than Mere Movement: Dalcroze Eurhythmics* (1986)
+[^8]: Hoge Mead, V. (1986). "More than Mere Movement: Dalcroze Eurhythmics". *Music Educators Journal*, 72(6), 42-46.
 
-[^9]: Jaques-Dalcroze, Émile: *Méthode Jaques-Dalcroze* (1907-1914)
+[^9]: Jaques-Dalcroze, É. (1921). *Rhythm, Music and Education*. London: Chatto & Windus.
 
-[^10]: Jaques-Dalcroze, Émile: *Rhythm, Music and Education* (1922)
+[^10]: Gersdorf, L. (1981). *Carl Orff*. Reinbek bei Hamburg: Rowohlt.
 
-[^11]: Muñoz, A. y Noriega, J.: *Técnicas Básicas de Programación*. Escuela Española
+[^11]: Banks, S. (1982). "Orff-Schulwerk Teaches Musical Responsiveness". *Music Educators Journal*, 68(7), 42-43.
 
-[^12]: Pliego de Andrés, Víctor: *Temas Pedagógicos para la oposición de conservatorios* (1998)
+[^12]: Bitcon, C. H. (1976). *Alike and Different: The Clinical and Educational Use of Orff Schulwerk*. Santa Ana, CA: Rosha Press.
 
-[^13]: Sanjosé Huguet, V. (1997): *Didáctica de la Expresión Musical para Maestros*. Piles
+[^13]: Willems, E. (2001). *El oído musical: La preparación auditiva del niño*. Barcelona: Paidós.
 
-[^14]: Swanwick, Keith: *Música, pensamiento y educación* (1991)
+[^14]: Willems, E. (1976). *La preparación musical de los más pequeños*. Buenos Aires: Eudeba.
 
-[^15]: Willems, Edgar: *El oído musical. La preparación auditiva del niño* (2001)
+[^15]: Willems, E. (1984). *Las bases psicológicas de la educación musical*. Buenos Aires: Eudeba.
 
-[^16]: Willems, Edgar: *La preparación musical de los más pequeños* (1976)
+[^16]: Zaldívar, Á. (1992). *La LOGSE en los conservatorios*. Madrid: Real Musical.
 
-[^17]: Willems, Edgar: *Las bases psicológicas de la educación musical* (1984)
+[^17]: Decreto 158/2007, de 17 de agosto, del Gobierno Valenciano.
 
-[^18]: Zaldivar, Álvaro: *La Logse en los conservatorios* (1992)
+[^18]: Muñoz, A. y Noriega, J. (1996). *Técnicas básicas de programación*. Madrid: Escuela Española.
