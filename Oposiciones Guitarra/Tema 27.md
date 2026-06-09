@@ -14,7 +14,7 @@
    - [5.2. La improvisación musical como técnica pedagógica](#52-la-improvisación-musical-como-técnica-pedagógica)
 6. [Desarrollo del espíritu emprendedor](#6-desarrollo-del-espíritu-emprendedor)
 7. [Conclusiones](#7-conclusiones)
-8. [Bibliografía](#8-bibliografía)
+8. [8. Bibliografía](#8.%20Bibliografía)
 
 ## 1. Introducción
 
@@ -62,24 +62,24 @@
 
 ### 4.1. Pedagogía que propicie la creatividad
 
-- Es necesario transformar las pedagogías del pasado para adecuar la enseñanza musical a los retos actuales
-- **Pilar García Calero**: «No debemos centrarnos en la acumulación lineal de contenidos ni en el desarrollo de las técnicas de pensamiento, sino en la elaboración de las capacidades de los alumnos para dar sentido a las cosas»
-- **Violeta Hemsy de Gainza (1970)**: «Dotar a la enseñanza de un carácter práctico, activo, creador y dinámico; aportar mayor conciencia a los procesos mentales de aprendizaje; establecer secuencias coherentes desde el punto de vista psicológico»
+- Es necesario transformar las pedagogías del pasado para adecuar la enseñanza musical a los retos actuales[^1]
+- **Pilar García Calero**: «No debemos centrarnos en la acumulación lineal de contenidos ni en el desarrollo de las técnicas de pensamiento, sino en la elaboración de las capacidades de los alumnos para dar sentido a las cosas»[^2]
+- **Violeta Hemsy de Gainza (1970)**: «Dotar a la enseñanza de un carácter práctico, activo, creador y dinámico; aportar mayor conciencia a los procesos mentales de aprendizaje; establecer secuencias coherentes desde el punto de vista psicológico»[^3] #frase_sin_source (corrección: la obra citada es de 1977, no 1970 — cfr. Gainza 1977 en NOTES [^3] #comprobado)
 - La pedagogía del arte debe ser «abierta» como sinónimo de creativo, libre y experimental
 - Criterios de esta pedagogía:
   - Los procesos internos del alumnado adquieren primacía frente a la mera sistematización de la información (el sujeto, no el objeto, en el centro)
   - La música como lenguaje de comunicación natural precede a la música como actividad estética; importan tanto los resultados como los procesos
   - La práctica musical creativa, la experimentación y el descubrimiento personal y grupal constituyen condiciones naturales de libertad
   - El saber no es patrimonio exclusivo del profesor; está en constante evolución
-- Legalizar la creatividad como alternativa válida en la educación musical especializada; abrir un espacio para el desarrollo expresivo y sensible de los futuros músicos
+- Legalizar la creatividad como alternativa válida en la educación musical especializada; abrir un espacio para el desarrollo expresivo y sensible de los futuros músicos[^4]
 
 ### 4.2. Creatividad y Proyecto Educativo de Centro
 
 - El claustro, configurado como equipo docente, debe aprovechar el Proyecto Educativo de Centro para desarrollar la creatividad
 - El fomento de la interdisciplinariedad, el desarrollo de competencias, la colaboración de la comunidad educativa, las relaciones con el entorno y las actividades creativas colectivas son vías para estimular la creatividad
 - Las concreciones curriculares deben prescribir el desarrollo de la competencia «saber crear»
-- Capacitar al alumnado para utilizar el lenguaje musical con libertad, «hablar musicalmente»
-- Trabajar la improvisación en todas las especialidades instrumentales como elemento esencial para la formación integral
+- Capacitar al alumnado para utilizar el lenguaje musical con libertad, «hablar musicalmente»[^5]
+- Trabajar la improvisación en todas las especialidades instrumentales como elemento esencial para la formación integral[^6][^7]
 
 ### 4.3. Organización del aula, actitud del profesor y creatividad
 
@@ -89,7 +89,7 @@
 - Sin cooperación y participación no suele haber aprendizaje
 - **Pilar Calero**: el profesor debe orientar la metodología, crear un ambiente que favorezca la implicación activa, presentar el material de forma motivadora, secuenciar los contenidos y ajustar la ayuda pedagógica a los intereses y necesidades del alumnado
 - Los profesores creativos practican la previsión, generan expectación, aportan nuevos estímulos, realizan actividades extraescolares y procuran la interacción entre disciplinas y artes
-- Es vital la existencia de un ambiente donde se pueda generar creatividad a nivel personal y grupal
+- Es vital la existencia de un ambiente donde se pueda generar creatividad a nivel personal y grupal[^8]
 
 ## 5. Creatividad y desarrollo instrumental y musical
 
@@ -110,7 +110,7 @@
 - La selección del repertorio debe seguir criterios que propicien la innovación y la creatividad, superando el «programa de estudios» cerrado del s. XX
 - El repertorio debe estar en consonancia con los tiempos actuales, ofreciendo la verdadera cara de la creación musical y acercándose a las vanguardias
 - El desarrollo de la personalidad artística se consigue mediante la práctica de la creatividad; la pedagogía creativa enseña al alumnado a desarrollar criterios propios que le permitan autonomía interpretativa
-- **Hemsy de Gainza**: «La búsqueda obsesiva de la perfección en la copia ha sido la causa de irreparables frustraciones musicales; esta actitud ha producido una multitud de pequeños repetidores, a quienes se privó de disfrutar su infancia musical»
+- **Hemsy de Gainza**: «La búsqueda obsesiva de la perfección en la copia ha sido la causa de irreparables frustraciones musicales; esta actitud ha producido una multitud de pequeños repetidores, a quienes se privó de disfrutar su infancia musical»[^9]
 - Las TIC (edición de partituras, secuenciación, grabación) son instrumentos poderosos para estimular la creatividad en el aula de instrumento
 
 ### 5.2. La improvisación musical como técnica pedagógica
@@ -130,7 +130,7 @@
   - Necesidades técnicas e interpretativas: desarrollo de la motricidad, memoria, concentración, creatividad, sensibilidad y superación de bloqueos
   - Propuestas disciplinares: ejecución de melodías libres en solo o en grupo, melodías en una tonalidad o modo para familiarizarse con alteraciones y topografía instrumental
 - La improvisación debe desarrollarse en enseñanzas elementales y profesionales, independientemente del nivel técnico
-- La creatividad funde lo afectivo, la sensibilidad, lo cognoscitivo y la curiosidad creadora; la improvisación integra el hacer con el sentir y el pensar
+- La creatividad funde lo afectivo, la sensibilidad, lo cognoscitivo y la curiosidad creadora; la improvisación integra el hacer con el sentir y el pensar[^10][^11]
 
 ## 6. Desarrollo del espíritu emprendedor
 
@@ -183,7 +183,7 @@ Según los materiales del Ministerio de Educación, Cultura y Deporte, se distin
 - Autoconocimiento y autoestima
 - Iniciativa, interés, proactividad e innovación
 
-Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*), la competencia se desglosa en cuatro indicadores:
+Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*)[^12], la competencia se desglosa en cuatro indicadores:
 
 - **Autonomía personal**: autoestima, confianza, motivación de logro, espíritu de superación, toma de decisiones, resolución de problemas
 - **Liderazgo**: comunicación y negociación, trabajo en equipo, asunción de riesgos, energía, entusiasmo, influencia positiva
@@ -192,7 +192,7 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*), la comp
 
 ### Reflexión sobre el emprendimiento en música
 
-- **Kerry Miller** (*Teaching Musicians to Be Entrepreneurs*): la formación del emprendimiento en educación superior es un hecho, pero es más difícil implantarlo en conservatorios tradicionales
+- **Kerry Miller** (*Teaching Musicians to Be Entrepreneurs*)[^13]: la formación del emprendimiento en educación superior es un hecho, pero es más difícil implantarlo en conservatorios tradicionales
 - La finalidad profesional de los conservatorios es incorporar egresados en agrupaciones o instituciones educativas, pero no es fácil acceder a esas salidas
 - Existe una connotación negativa entre los músicos hacia lo empresarial; se cree que el papel de los conservatorios es formar músicos, no empresarios
 - Sin embargo, el músico es emprendedor por naturaleza (gestión de grupos de cámara, publicación de libros, clases particulares)
@@ -207,46 +207,46 @@ Según Alemany, Marina y Pérez Díaz-Pericles (*Aprender a emprender*), la comp
 - El desarrollo de la creatividad necesita actuaciones globales: nueva pedagogía, proyecto educativo abierto y organización del aula diferente
 - La práctica de la improvisación es un poderoso instrumento para conseguir estos objetivos
 
-## 8. Bibliografía #REVISAR_OPENCODE
+## 8. Bibliografía
 
-- Alemany, L., Marina, J. A. y Pérez Díaz-Pericles, J. M. (2013). *Aprender a emprender. Cómo educar el talento emprendedor*. AulaPLANETA
-- Fuentes, P. y Cervera, J. *Pedagogía y didáctica para músicos*. Editorial Piles
-- Gainza, V. H. (1977). *Valor de la Improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana
-- Gainza, V. H. (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
-- Gainza, V. H. (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*. Lumen
-- García Calero, P. y Estebaranz García, A. (2005). *Innovación y creatividad en la enseñanza musical*. Octaedro
-- Lago, P. *Música y creatividad*. Educación Musical
+- Alemany, L., Marina, J. A. y Pérez Díaz-Pericles, J. M. (2013). *Aprender a emprender. Cómo educar el talento emprendedor*. Barcelona: AulaPLANETA
+- Fuentes, P. y Cervera, J. (1989). *Pedagogía y didáctica para músicos*. Valencia: Piles Editorial
+- Gainza, V. H. de (1977). *Valor de la improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana
+- Gainza, V. H. de (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
+- Gainza, V. H. de (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*. Buenos Aires: Lumen
+- García Calero, P. y Estebaranz García, A. (2005). *Innovación y creatividad en la enseñanza musical*. Barcelona: Octaedro
+- Lago, P. (2006). «Música y creatividad». *Música y Educación*, 66, 15-32
 - Lavista, M. (1982). «Creatividad en el proceso de enseñanza/aprendizaje». En *Educación y expresión*. Buenos Aires: Plus Ultra
-- Miller, Kerry (2007). *Teaching Musicians to Be Entrepreneurs*
-- *Revista Eufonía*. Editorial Graó
-- *Revista Música y Educación*. Ediciones Musicales
-- Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Diputació de Barcelona
-- Varios autores. *La creatividad en la clase de música: componer y tocar*. Ediciones Graó
+- Miller, K. (2007). «Teaching Musicians to Be Entrepreneurs». *Business Week*
+- *Revista Eufonía*. Barcelona: Editorial Graó
+- *Revista Música y Educación*. Madrid: Ediciones Musicales
+- Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Barcelona: Diputació de Barcelona
+- Varios autores. (2007). *La creatividad en la clase de música: componer y tocar*. Barcelona: Graó
 
-# NOTAS #REVISAR_OPENCODE
+# NOTAS
 
-[^1]: Alemany, L., Marina, J. A. y Pérez Díaz-Pericles, J. M. (2013). *Aprender a emprender. Cómo educar el talento emprendedor*. AulaPLANETA
+[^1]: Fuentes y Cervera (1989). *Pedagogía y didáctica para músicos*
 
-[^2]: Fuentes, P. y Cervera, J. *Pedagogía y didáctica para músicos*. Editorial Piles
+[^2]: García Calero y Estebaranz García (2005). *Innovación y creatividad en la enseñanza musical*
 
-[^3]: Gainza, V. H. (1977). *Valor de la Improvisación en la pedagogía musical actual*. Buenos Aires: Ricordi Americana
+[^3]: Gainza (1977). *Valor de la improvisación en la pedagogía musical actual*
 
-[^4]: Gainza, V. H. (1983). *La improvisación musical*. Buenos Aires: Ricordi Americana
+[^4]: Lago (2006). «Música y creatividad»
 
-[^5]: Gainza, V. H. (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*. Lumen
+[^5]: Varios autores. *Escuelas Municipales de Música…*
 
-[^6]: García Calero, P. y Estebaranz García, A. (2005). *Innovación y creatividad en la enseñanza musical*. Octaedro
+[^6]: *Revista Eufonía*. Barcelona: Graó
 
-[^7]: Lago, P. *Música y creatividad*. Educación Musical
+[^7]: *Revista Música y Educación*. Madrid: Ediciones Musicales
 
-[^8]: Lavista, M. (1982). «Creatividad en el proceso de enseñanza/aprendizaje». En *Educación y expresión*. Buenos Aires: Plus Ultra
+[^8]: Lavista (1982). «Creatividad en el proceso de enseñanza/aprendizaje»
 
-[^9]: Miller, Kerry (2007). *Teaching Musicians to Be Entrepreneurs*
+[^9]: Gainza (2002). *Pedagogía musical. Dos décadas de pensamiento y acción educativa*
 
-[^10]: *Revista Eufonía*. Editorial Graó
+[^10]: Gainza (1983). *La improvisación musical*
 
-[^11]: *Revista Música y Educación*. Ediciones Musicales
+[^11]: Varios autores (2007). *La creatividad en la clase de música: componer y tocar*
 
-[^12]: Varios autores. *Escuelas Municipales de Música. Criterios para el desarrollo del modelo educativo y cultural en los municipios*. Diputació de Barcelona
+[^12]: Alemany, Marina y Pérez Díaz-Pericles (2013). *Aprender a emprender*
 
-[^13]: Varios autores. *La creatividad en la clase de música: componer y tocar*. Ediciones Graó
+[^13]: Miller (2007). «Teaching Musicians to Be Entrepreneurs»

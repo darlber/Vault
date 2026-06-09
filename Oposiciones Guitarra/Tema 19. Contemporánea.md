@@ -182,25 +182,25 @@ A continuación vamos a mostrar algunas de las representaciones gráficas más u
 
 ==La notación gráfica constituye otro de los rasgos distintivos del periodo. Junto a la notación tradicional, aparecen símbolos para indicar la presión del trémolo, la velocidad del rasgueado, la altura aproximada de los sonidos (notación aproximativa) y la duración relativa de los eventos. En las obras aleatorias, la partitura puede presentarse como un conjunto de módulos que el intérprete debe ordenar, o como una serie de instrucciones verbales que dejan un amplio margen a la improvisación. La obra *Temples* de Villa Rojo y *La Espiral eterna* de Brouwer ejemplifican esta tendencia hacia una notación más flexible y participativa[^3].==
 
-## Bibliografía #REVISAR_OPENCODE
+## Bibliografía
 
-- Gilardino, Angelo. *Manuale di storia della chitarra*. Ancona: Bèrben, 1988.
-- Josel, Seth F. y Ming Tsao. *The Techniques of Guitar Playing*. Kassel: Bärenreiter, 2014.
-- Lunn, Robert Allan. *Extended Techniques for the Classical Guitar: A Guide for Composers*. Tesis doctoral, Ohio State University, 2010.
-- Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
-- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
-- Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+- Gilardino, A. (1988). *Manuale di storia della chitarra*. Ancona: Bèrben.
+- Josel, S. F. y Tsao, M. (2014). *The Techniques of Guitar Playing*. Kassel: Bärenreiter.
+- Lunn, R. A. (2010). *Extended Techniques for the Classical Guitar: A Guide for Composers*. Tesis doctoral, Ohio State University.
+- Ramos Altamira, I. (2005). *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario.
+- Turnbull, H. (1974). *The Guitar from the Renaissance to the Present Day*. London: Batsford.
+- Wade, G. (1980). *Traditions of the Classical Guitar*. London: Calder.
 
-# NOTAS #REVISAR_OPENCODE
+# NOTAS
 
-[^1]: Gilardino, Angelo. *Manuale di storia della chitarra*. Ancona: Bèrben, 1988.
+[^1]: Gilardino (1988). *Manuale di storia della chitarra*.
 
-[^2]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
+[^2]: Ramos Altamira (2005). *Historia de la guitarra y los guitarristas españoles*.
 
-[^3]: Lunn, Robert Allan. *Extended Techniques for the Classical Guitar: A Guide for Composers*. Tesis doctoral, Ohio State University, 2010.
+[^3]: Lunn (2010). *Extended Techniques for the Classical Guitar*.
 
-[^4]: Josel, Seth F. y Ming Tsao. *The Techniques of Guitar Playing*. Kassel: Bärenreiter, 2014.
+[^4]: Josel y Tsao (2014). *The Techniques of Guitar Playing*.
 
-[^5]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+[^5]: Turnbull (1974). *The Guitar from the Renaissance to the Present Day*.
 
-[^6]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+[^6]: Wade (1980). *Traditions of the Classical Guitar*.

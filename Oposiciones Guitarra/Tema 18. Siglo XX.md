@@ -194,28 +194,28 @@ También hay que señalar que gracias a pruebas documentales, Segovia trató en 
 
 Hasta el siglo XXI, en concreto 2001, no se pudo abrir las cajas con la música que Segovia había guardado cuidadosamente en su archivo. El elegido fue Angelo Gilardino, el cual narra que fue un momento muy emocionante. Aunque Segovia fue muy selectivo con la música que interpretaba, para la conservación de su biblioteca o archivo no ponía ningún filtro, recogiendo todo lo que le mandaban o daban y guardándolo. Algunas de las piezas que vieron la luz fueron: *Quatre pièces breves* de Frank Martin (1933), *Sonatina* de Cyril Scott, *Errimina* (1925) del Padre Donostia, *Homenaje a Manuel de Falla* de Tansman.
 
-## 4. Bibliografía #REVISAR_OPENCODE
+## 4. Bibliografía
 
-- Gilardino, Angelo. «Andrés Segovia y el repertorio de la guitarra del siglo XX.» *Roseta*, n.º 1 (2008): 58-67.
-- Gilardino, Angelo. *El Renacimiento de la Guitarra / Manuale di storia della chitarra, 2: La chitarra moderna e contemporanea*. 2ª ed. Ancona: Bèrben, 1988.
-- Gimeno, Julio. «La escuela Tárrega según los métodos de Pascual Roch y Emilio Pujol.» En *Francisco Tárrega y su época*, editado por Carlos González. Córdoba: La Posada, 2003.
-- Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
-- *Nombres Propios de la Guitarra: Angelo Gilardino*. Córdoba: Festival de la Guitarra de Córdoba, 2012.
-- *Nombres Propios de la guitarra: Antonio de Torres*. Córdoba: Festival de la Guitarra de Córdoba, 2008.
-- Suárez Pajares, Javier. «Aquellos plateados años: la guitarra en el entorno del 27.» En *La guitarra en la historia*, vol. 8. Córdoba: La Posada, 1998.
+- Gilardino, A. (1988). *El Renacimiento de la Guitarra / Manuale di storia della chitarra, 2: La chitarra moderna e contemporanea*. 2ª ed. Ancona: Bèrben.
+- Gilardino, A. (2008). «Andrés Segovia y el repertorio de la guitarra del siglo XX». *Roseta*, 1, 58-67.
+- Gimeno, J. (2003). «La escuela Tárrega según los métodos de Pascual Roch y Emilio Pujol». En C. González (ed.), *Francisco Tárrega y su época*. Córdoba: La Posada.
+- Gómez Amat, C. (2004). *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial.
+- *Nombres Propios de la Guitarra: Angelo Gilardino* (2012). Córdoba: Festival de la Guitarra de Córdoba.
+- *Nombres Propios de la guitarra: Antonio de Torres* (2008). Córdoba: Festival de la Guitarra de Córdoba.
+- Suárez Pajares, J. (1998). «Aquellos plateados años: la guitarra en el entorno del 27». En *La guitarra en la historia*, vol. 8. Córdoba: La Posada.
 
-# NOTAS #REVISAR_OPENCODE
+# NOTAS
 
-[^1]: *Nombres Propios de la guitarra: Antonio de Torres*. Córdoba: Festival de la Guitarra de Córdoba, 2008.
+[^1]: *Nombres Propios…: Antonio de Torres* (2008).
 
-[^2]: Gilardino, Angelo. *El Renacimiento de la Guitarra / Manuale di storia della chitarra, 2: La chitarra moderna e contemporanea*. Ancona: Bèrben, 1988.
+[^2]: Gilardino (1988). *El Renacimiento de la Guitarra / Manuale di storia della chitarra, 2*.
 
-[^3]: Gilardino, Angelo. «Andrés Segovia y el repertorio de la guitarra del siglo XX.» *Roseta*, n.º 1 (2008): 58-67.
+[^3]: Gilardino (2008). «Andrés Segovia y el repertorio de la guitarra del siglo XX».
 
-[^4]: Suárez Pajares, Javier. «Aquellos plateados años: la guitarra en el entorno del 27.» En *La guitarra en la historia*, vol. 8. Córdoba: La Posada, 1998.
+[^4]: Suárez Pajares (1998). «Aquellos plateados años…».
 
-[^5]: *Nombres Propios de la Guitarra: Angelo Gilardino*. Córdoba: Festival de la Guitarra de Córdoba, 2012.
+[^5]: *Nombres Propios…: Angelo Gilardino* (2012).
 
-[^6]: Gómez Amat, Carlos. *Historia de la música española, 5: Siglo XIX*. Madrid: Alianza Editorial, 2004.
+[^6]: Gómez Amat (2004). *Historia de la música española, 5*.
 
-[^7]: Gimeno, Julio. «La escuela Tárrega según los métodos de Pascual Roch y Emilio Pujol.» En *Francisco Tárrega y su época*, editado por Carlos González. Córdoba: La Posada, 2003.
+[^7]: Gimeno (2003). «La escuela Tárrega según los métodos de Pascual Roch y Emilio Pujol».

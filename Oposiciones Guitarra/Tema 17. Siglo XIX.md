@@ -1,4 +1,4 @@
-# Tema 17. Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XIX
+# Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XIX
 ## Índice
 
 1. [Evolución del estilo y de la escritura instrumental](#evolución-del-estilo-y-de-la-escritura-instrumental)
@@ -157,70 +157,70 @@ Pero no solamente interpretaba y componía bien, sino que incluso contribuyó en
 
 ==En sus composiciones, Arcas cultiva preferentemente la fantasía sobre motivos de ópera (Rossini, Bellini, Verdi) y los aires andaluces. Estos últimos, como la *Serenata andaluza* y las *Variaciones sobre la Jota aragonesa*, integran el lenguaje flamenco dentro de las formas de la guitarra clásica, creando un modelo de escritura nacionalista que influirá directamente en Tárrega. Su programa de concierto, centrado en adaptaciones operísticas y obras originales de carácter español, refleja el gusto del público romántico por el virtuosismo y el color local[^11].==
 
-## Bibliografía #REVISAR_OPENCODE
+## Bibliografía
 
-- Annala, Hannu y Heiki Mätlik. *Handbook of Guitar and Lute Composers*. Pacific, MO: Mel Bay, 2007.
-- B. Boils, Joan. «Cuatro palabras para un libro. La Historia de la música española de Mariano Soriano Fuertes, una fuente esencial en la historiografía de la música española del siglo XIX». Anexo IV, 2014.
-- Cano, Antonio. *Método abreviado de guitarra*. Madrid, 1891.
-- Cano, Antonio. *Método completo de guitarra*. Madrid: Antonio Romero, 1868.
-- Casares Rodicio, Emilio y Celsa Alonso. *La música española en el siglo XIX*. Oviedo: Universidad de Oviedo, 1995.
+- Annala, H. y Mätlik, H. (2007). *Handbook of Guitar and Lute Composers*. Pacific, MO: Mel Bay.
+- B. Boils, J. (2014). «Cuatro palabras para un libro…». Anexo IV.
+- Cano, A. (1868). *Método completo de guitarra*. Madrid: Antonio Romero.
+- Cano, A. (1891). *Método abreviado de guitarra*. Madrid.
+- Casares Rodicio, E. y Alonso, C. (1995). *La música española en el siglo XIX*. Oviedo: Universidad de Oviedo.
 - *Gaceta Musical de Madrid*, n.º 14, año II, Madrid, 6 de abril de 1856.
-- Gilardino, Angelo. *Manuale di storia della chitarra, 2: La chitarra moderna e contemporanea*. 2ª ed. Ancona: Bèrben, 1988.
-- Gómez, Pedro Jesús. *D. Robustiano Hernández y el fondo de música para guitarra de Tobarra*. Albacete: Instituto de Estudios Albacetenses, 2010.
-- Guestrin, Néstor. «La guitarra en la música sudamericana.» *Revista Musical de Venezuela* 8, n.º 19 (2015): 1-109.
-- López, Trinitario, Agustín y Javier Suárez-Pajares. *A. T. Huerta (1800-1874) Life and Works*. 2009.
-- Macías Mora, Ramón. *Las Seis Cuerdas de la Guitarra*. Guadalajara, Jalisco: Secretaría de Cultura de Jalisco, 2002.
-- Prat, Domingo. *Diccionario de guitarristas*. Buenos Aires: Romero y Fernández, 1934.
-- Pujol, Emilio. *Tárrega (Ensayo biográfico)*. Valencia: s.n., 1978.
-- Radole, Giuseppe. *Laúd, guitarra y vihuela*. Barcelona: EDB, 1982.
-- Radomski, James. «Trinidad Huerta y Caturla: First Spanish Virtuoso Guitarist to Concertize in the United States.» *Inter-American Music Review* 15, n.º 2 (1996): 103-121.
-- Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
-- Ramos Altamira, Ignacio. «Una biografía inédita de Antonio Jiménez Manjón.» *Roseta*, n.º 1 (2008): 44-56.
-- Rubio Pérez-Caballero, Jerónimo. «Indalecio Soriano Fuertes y su significación en la música de su tiempo.» *Revista Teruel*, n.º 9 (1953): 157-175.
-- Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
-- Viglietti, Cedar. *Origen e historia de la guitarra*. Buenos Aires: Albatros, 1976.
-- Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+- Gilardino, A. (1988). *Manuale di storia della chitarra, 2: La chitarra moderna e contemporanea*. 2ª ed. Ancona: Bèrben.
+- Gómez, P. J. (2010). *D. Robustiano Hernández y el fondo de música para guitarra de Tobarra*. Albacete: Instituto de Estudios Albacetenses.
+- Guestrin, N. (2015). «La guitarra en la música sudamericana». *Revista Musical de Venezuela*, 8(19), 1-109.
+- López, T., Suárez-Pajares, J. (2009). *A. T. Huerta (1800-1874) Life and Works*.
+- Macías Mora, R. (2002). *Las Seis Cuerdas de la Guitarra*. Guadalajara, Jalisco: Secretaría de Cultura de Jalisco.
+- Prat, D. (1934). *Diccionario de guitarristas*. Buenos Aires: Romero y Fernández.
+- Pujol, E. (1978). *Tárrega (Ensayo biográfico)*. Valencia.
+- Radole, G. (1982). *Laúd, guitarra y vihuela*. Barcelona: EDB.
+- Radomski, J. (1996). «Trinidad Huerta y Caturla…». *Inter-American Music Review*, 15(2), 103-121.
+- Ramos Altamira, I. (2005). *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario.
+- Ramos Altamira, I. (2008). «Una biografía inédita de Antonio Jiménez Manjón». *Roseta*, 1, 44-56.
+- Rubio Pérez-Caballero, J. (1953). «Indalecio Soriano Fuertes…». *Revista Teruel*, 9, 157-175.
+- Turnbull, H. (1974). *The Guitar from the Renaissance to the Present Day*. London: Batsford.
+- Viglietti, C. (1976). *Origen e historia de la guitarra*. Buenos Aires: Albatros.
+- Wade, G. (1980). *Traditions of the Classical Guitar*. London: Calder.
 
-# NOTAS #REVISAR_OPENCODE
+# NOTAS
 
-[^1]: *Gaceta Musical de Madrid*, n.º 14, año II, Madrid, 6 de abril de 1856.
+[^1]: *Gaceta Musical de Madrid*, 6-IV-1856.
 
-[^2]: Annala, Hannu y Heiki Mätlik. *Handbook of Guitar and Lute Composers*. Pacific, MO: Mel Bay, 2007.
+[^2]: Annala y Mätlik (2007). *Handbook of Guitar and Lute Composers*.
 
-[^3]: Radole, Giuseppe. *Laúd, guitarra y vihuela*. Barcelona: EDB, 1982.
+[^3]: Radole (1982). *Laúd, guitarra y vihuela*.
 
-[^4]: Macías Mora, Ramón. *Las Seis Cuerdas de la Guitarra*. Guadalajara, Jalisco: Secretaría de Cultura de Jalisco, 2002.
+[^4]: Macías Mora (2002). *Las Seis Cuerdas de la Guitarra*.
 
-[^5]: Viglietti, Cedar. *Origen e historia de la guitarra*. Buenos Aires: Albatros, 1976.
+[^5]: Viglietti (1976). *Origen e historia de la guitarra*.
 
-[^6]: Pujol, Emilio. *Tárrega (Ensayo biográfico)*. Valencia: s.n., 1978.
+[^6]: Pujol (1978). *Tárrega (Ensayo biográfico)*.
 
-[^7]: Turnbull, Harvey. *The Guitar from the Renaissance to the Present Day*. London: Batsford, 1974.
+[^7]: Turnbull (1974). *The Guitar from the Renaissance to the Present Day*.
 
-[^8]: Wade, Graham. *Traditions of the Classical Guitar*. London: Calder, 1980.
+[^8]: Wade (1980). *Traditions of the Classical Guitar*.
 
-[^9]: Ramos Altamira, Ignacio. *Historia de la guitarra y los guitarristas españoles*. Alicante: Editorial Club Universitario, 2005.
+[^9]: Ramos Altamira (2005). *Historia de la guitarra y los guitarristas españoles*.
 
-[^10]: Gilardino, Angelo. *Manuale di storia della chitarra, 2: La chitarra moderna e contemporanea*. Ancona: Bèrben, 1988.
+[^10]: Gilardino (1988). *Manuale di storia della chitarra, 2*.
 
-[^11]: Casares Rodicio, Emilio y Celsa Alonso. *La música española en el siglo XIX*. Oviedo: Universidad de Oviedo, 1995.
+[^11]: Casares Rodicio y Alonso (1995). *La música española en el siglo XIX*.
 
-[^12]: Ramos Altamira, Ignacio. «Una biografía inédita de Antonio Jiménez Manjón.» *Roseta*, n.º 1 (2008): 44-56.
+[^12]: Ramos Altamira (2008). «Una biografía inédita de Antonio Jiménez Manjón».
 
-[^13]: Gómez, Pedro Jesús. *D. Robustiano Hernández y el fondo de música para guitarra de Tobarra*. Albacete: Instituto de Estudios Albacetenses, 2010.
+[^13]: Gómez (2010). *D. Robustiano Hernández y el fondo de música para guitarra de Tobarra*.
 
-[^14]: López, Trinitario, Agustín y Javier Suárez-Pajares. *A. T. Huerta (1800-1874) Life and Works*. 2009.
+[^14]: López y Suárez-Pajares (2009). *A. T. Huerta (1800-1874) Life and Works*.
 
-[^15]: Radomski, James. «Trinidad Huerta y Caturla: First Spanish Virtuoso Guitarist to Concertize in the United States.» *Inter-American Music Review* 15, n.º 2 (1996): 103-121.
+[^15]: Radomski (1996). «Trinidad Huerta y Caturla…».
 
-[^16]: Rubio Pérez-Caballero, Jerónimo. «Indalecio Soriano Fuertes y su significación en la música de su tiempo.» *Revista Teruel*, n.º 9 (1953): 157-175.
+[^16]: Rubio Pérez-Caballero (1953). «Indalecio Soriano Fuertes…».
 
-[^17]: B. Boils, Joan. «Cuatro palabras para un libro. La Historia de la música española de Mariano Soriano Fuertes, una fuente esencial en la historiografía de la música española del siglo XIX». Anexo IV, 2014.
+[^17]: B. Boils (2014). «Cuatro palabras para un libro…».
 
-[^18]: Cano, Antonio. *Método completo de guitarra*. Madrid: Antonio Romero, 1868.
+[^18]: Cano (1868). *Método completo de guitarra*.
 
-[^19]: Cano, Antonio. *Método abreviado de guitarra*. Madrid, 1891.
+[^19]: Cano (1891). *Método abreviado de guitarra*.
 
-[^20]: Prat, Domingo. *Diccionario de guitarristas*. Buenos Aires: Romero y Fernández, 1934.
+[^20]: Prat (1934). *Diccionario de guitarristas*.
 
-[^21]: Guestrin, Néstor. «La guitarra en la música sudamericana.» *Revista Musical de Venezuela* 8, n.º 19 (2015): 1-109.
+[^21]: Guestrin (2015). «La guitarra en la música sudamericana».
