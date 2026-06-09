@@ -1,4 +1,4 @@
-# Tema 22. La música de cámara en las enseñanzas profesionales. Programación de esta asignatura: repertorio, análisis, técnica de interpretación en grupo, audición, improvisación, lectura a primera vista y otros. Criterios pedagógicos para la elección del repertorio.
+# La música de cámara en las enseñanzas profesionales. Programación de esta asignatura: repertorio, análisis, técnica de interpretación en grupo, audición, improvisación, lectura a primera vista y otros. Criterios pedagógicos para la elección del repertorio.
 
 ## Índice
 
@@ -15,13 +15,13 @@
 
 ## Justificación y organización de la asignatura de música de cámara
 
-El Real Decreto 1577/2006 por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música justifica y regula la presencia de la música de cámara en los conservatorios españoles. En este texto la Música de Cámara tiene la consideración de «Asignatura propia de la especialidad».
+El Real Decreto 1577/2006[^1] por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música justifica y regula la presencia de la música de cámara en los conservatorios españoles. En este texto la Música de Cámara tiene la consideración de «Asignatura propia de la especialidad».
 
-De manera general en todo el territorio español, como mínimo, las Comunidades Autónomas deben establecer en sus decretos autonómicos 340 horas para las asignaturas de conjunto (Orquesta/banda/música de cámara) especificando que la Música de cámara se impartirá un mínimo de dos cursos académicos. A partir de aquí, las CCAA han programado cuatro cursos de Música de Cámara en las enseñanzas profesionales de música, en los cursos que van de tercero a sexto con una hora semanal de clase.
+De manera general en todo el territorio español, como mínimo, las Comunidades Autónomas deben establecer en sus decretos autonómicos[^2] 340 horas para las asignaturas de conjunto (Orquesta/banda/música de cámara) especificando que la Música de cámara se impartirá un mínimo de dos cursos académicos. A partir de aquí, las CCAA han programado cuatro cursos de Música de Cámara en las enseñanzas profesionales de música, en los cursos que van de tercero a sexto con una hora semanal de clase.
 
 Respecto a la atribución docente, el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas encarga la impartición de la asignatura de música de cámara al profesorado de las diferentes especialidades instrumentales. Esta decisión es una consecuencia lógica después de la desaparición de la Música de Cámara como especialidad y también de la supresión del título de Profesor Superior de Música de Cámara que aparecía en el artículo once del Decreto 2618/1966 de 10 de Septiembre sobre Reglamentación general de los Conservatorios de Música.
 
-Por este motivo cualquier profesor de instrumento puede impartir la asignatura de música de cámara a cualquier alumno de cualquier especialidad instrumental. Esto nos obliga a formarnos adecuadamente para ejercer esta atribución con la máxima calidad y formación.
+Por este motivo cualquier profesor de instrumento puede impartir la asignatura de música de cámara a cualquier alumno de cualquier especialidad instrumental. Esto nos obliga a formarnos adecuadamente[^3] para ejercer esta atribución con la máxima calidad y formación.
 
 A continuación ofrecemos la justificación de la asignatura que aparece en el Real Decreto, que es la que sustenta la necesidad e idoneidad de impartir la asignatura:
 
@@ -295,10 +295,10 @@ En este tercer curso abandonaríamos definitivamente el repertorio Barroco para 
 - **Instrumentos de percusión**: se intentará introducir dentro del programa repertorio original, sin importarnos el estilo.
 
 **Metodología:**
-Los principios metodológicos que seguiremos en la clase de cámara serán los mismos que inspiran la programación de las especialidades instrumentales:
-- **Activa**: el alumno es el protagonista de su propio aprendizaje, observando, experimentando por sí mismo. El profesor toma el papel de guía-orientador.
-- **Integradora**: no solo abarcará el ámbito del estudio del repertorio camerístico, sino que la haremos extensible a todos los aspectos relacionados con la educación musical.
-- **Progresiva**: la programación ha de ajustarse al nivel real de los alumnos. Es necesario que las dificultades estén bien dosificadas para mantener la ilusión y ánimo de aprender.
+Los principios metodológicos que seguiremos en la clase de cámara serán los mismos que inspiran la programación de las especialidades instrumentales:[^4][^5][^6]
+- **Activa**: el alumno es el protagonista de su propio aprendizaje,[^7] observando, experimentando por sí mismo. El profesor toma el papel de guía-orientador.
+- **Integradora**: no solo abarcará el ámbito del estudio del repertorio camerístico, sino que la haremos extensible a todos los aspectos relacionados con la educación musical.[^5]
+- **Progresiva**: la programación ha de ajustarse al nivel real de los alumnos. Es necesario que las dificultades estén bien dosificadas para mantener la ilusión y ánimo de aprender.[^6]
 - **Motivadora**: programando actividades que le resulten atractivas y plenamente satisfactorias al alumno y que le animen a continuar avanzando.
 
 **La evaluación:**
@@ -331,7 +331,7 @@ En el apartado anterior hemos descrito las líneas generales de una programació
 
 En todo caso, queremos especificar más y relacionar estos aspectos con las competencias que debe adquirir el alumnado.
 
-Respecto al **repertorio**, en el apartado anterior aparece definidas las formaciones camerísticas más importantes, pero es necesario advertir de la flexibilidad en la programación del repertorio pues los diferentes ritmos de aprendizaje del alumnado hacen muy difícil tomar decisiones a priori. Este repertorio tiene mucho interés porque el alumnado no tendrá la ocasión de conocerlo en la clase individual de instrumento.
+Respecto al **repertorio**,[^8] en el apartado anterior aparece definidas las formaciones camerísticas más importantes, pero es necesario advertir de la flexibilidad en la programación del repertorio pues los diferentes ritmos de aprendizaje del alumnado hacen muy difícil tomar decisiones a priori. Este repertorio tiene mucho interés porque el alumnado no tendrá la ocasión de conocerlo en la clase individual de instrumento.
 
 Respecto a la **técnica instrumental**, la Música de Cámara adquiere un protagonismo pedagógico y didáctico muy relevante, pues tenemos la oportunidad de abordar contenidos más difíciles de trabajar en las clases individuales. La Música de Cámara es una disciplina de música de conjunto, pero con la particularidad, a diferencia de la Banda y Orquesta, de que no hay un director que marque la pauta. Esto implica la adquisición de unas competencias técnicas, artísticas y sobre todo de actitud muy importantes y que se deben enseñar en esta asignatura. Respecto a aspectos técnicos propiamente dichos, es importante adquirir progresivamente: a) la afinación en grupo con otros instrumentos alejados tímbricamente entre sí; b) el mantenimiento de tempos estables de una pieza interpretada en grupo; c) la precisión en las emisiones del sonido y de los ataques de las notas; d) equilibrio de los planos sonoros y equilibrio en el protagonismo de las diferentes voces.
 
@@ -341,11 +341,11 @@ El **análisis** es la herramienta fundamental de un músico ante una partitura.
 
 La práctica de la **lectura a primera vista** es una actividad obligatoria cada día en la clase de música de cámara. El desarrollo de esta destreza dota de autonomía al alumnado y mejora su capacidad técnica. Los grupos camerísticos cuyos componentes leen a primera vista bien tienen más opciones de mejorar sus interpretaciones.
 
-La **improvisación musical** es uno de los aspectos más relevantes en la pedagogía musical actual, pues incide directamente en el desarrollo de la creatividad y mejora la comprensión global del hecho musical. Antes identificada exclusivamente con el jazz, su presencia en los conservatorios va en aumento. A ello se debe el desarrollo de metodologías específicas que están poniendo en valor sus beneficios didácticos. La clase de música de cámara representa una buena oportunidad para trabajar este contenido. Estaríamos hablando de desarrollar improvisaciones en grupo y sobre todo intentar que el alumnado realice variaciones y nuevas creaciones a partir del material temático de las obras que interpreta en clase. De esta manera la creatividad de todos ellos aumentará y llegarán a un mejor conocimiento de los diferentes estilos y de las técnicas compositivas de cada autor.
+La **improvisación musical** es uno de los aspectos más relevantes en la pedagogía musical actual, pues incide directamente en el desarrollo de la creatividad y mejora la comprensión global del hecho musical.[^9] Antes identificada exclusivamente con el jazz, su presencia en los conservatorios va en aumento. A ello se debe el desarrollo de metodologías específicas que están poniendo en valor sus beneficios didácticos. La clase de música de cámara representa una buena oportunidad para trabajar este contenido. Estaríamos hablando de desarrollar improvisaciones en grupo y sobre todo intentar que el alumnado realice variaciones y nuevas creaciones a partir del material temático de las obras que interpreta en clase. De esta manera la creatividad de todos ellos aumentará y llegarán a un mejor conocimiento de los diferentes estilos y de las técnicas compositivas de cada autor.
 
 ## Criterios pedagógicos para la elección del repertorio
 
-En el apartado anterior hemos establecido los criterios técnicos y epistemológicos para decidir el repertorio de la asignatura durante todas las enseñanzas. A continuación estableceremos los criterios pedagógicos para la elección del repertorio de la asignatura de cámara:
+En el apartado anterior hemos establecido los criterios técnicos y epistemológicos para decidir el repertorio de la asignatura durante todas las enseñanzas. A continuación estableceremos los criterios pedagógicos[^10] para la elección del repertorio de la asignatura de cámara:
 
 - La dificultad de las obras del repertorio estará en consonancia con los contenidos programados en la asignatura de instrumento en cada uno de los cursos, y será un poco menor. De este modo el alumnado no afrontará dificultades excesivas que puedan provocar desmotivación y esfuerzos innecesarios. Será necesario utilizar repertorio con interés didáctico aunque no tenga un valor artístico elevado, para aumentar la motivación y la eficacia de los aprendizajes.
 - El alumnado interpretará obras y repertorio para diferentes grupos y formaciones de música de cámara, de manera que pueda conocer las más importantes composiciones relacionadas con la literatura del instrumento.
@@ -354,49 +354,37 @@ En el apartado anterior hemos establecido los criterios técnicos y epistemológ
 
 ## Conclusión
 
-Todos los profesores de las distintas especialidades instrumentales pueden ser profesores de cámara, en función del reparto de horarios que se haga en cada conservatorio. Por eso es necesario que todo el profesorado tenga el conocimiento específico de la materia y las herramientas necesarias para poder realizar una programación de la asignatura eficaz y ajustada a los alumnos a los que va dirigida.
+Todos los profesores de las distintas especialidades instrumentales pueden ser profesores de cámara, en función del reparto de horarios que se haga en cada conservatorio. Por eso es necesario que todo el profesorado tenga el conocimiento específico[^11] de la materia y las herramientas necesarias para poder realizar una programación de la asignatura eficaz[^12] y ajustada a los alumnos a los que va dirigida.
 
 Es necesario, entonces, tener un conocimiento adecuado de los distintos tipos de agrupaciones que pueden darse así como del repertorio que se ha escrito a lo largo de la Historia de la Música. Pero sobre todo es necesario conocer cuál es el interés pedagógico que justifica la existencia de esta asignatura en el currículo de música y cuál es todo el valor y potencial didáctico que encierra para la formación integral de un músico.
 
 Solo desde esta comprensión global se podrá llevar a cabo la impartición de esta asignatura que constituirá el ensayo de una de las principales actividades que los alumnos tendrán que realizar como músicos en el futuro: interpretar música en grupo.
 
-## Bibliografía #REVISAR_OPENCODE
+# NOTAS
 
-- Coll, C. (1987). *Psicología y Currículum*. Paidós.
-- Decreto 158/2007, por el que se establece el currículum de las enseñanzas profesionales de música en la Comunitat Valenciana.
-- *Ensenyaments Musicals IV*. Generalitat de Catalunya. Departament d'Ensenyament.
-- *Eufonía. Revista de Didáctica Musical*. Ediciones Graó.
-- Franchefort, F. R. *Guía de la música de Cámara*. Alianza Editorial.
-- Gómez Albaladejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Master Oposiciones.
-- *Música y Educación. Revista trimestral de Pedagogía Musical*. Madrid.
-- Payas Magraner, Javier. *Programación Didáctica*. Manuscrito del Autor.
-- Pliego de Andrés (1998). *Temas pedagógicos para la oposición de conservatorios*. Editorial Musicalis.
-- Real Decreto 1577/2006, de 1 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas en la LOE 2/2006, de 3 de mayo, de Educación.
-- Sanjosé Huguet, V. (1997). *Didáctica de la Expresión Musical para Maestros*. Piles.
-- Varios autores (1981). *La Educación Musical en Hungría*. Real Musical.
 
-# NOTAS #REVISAR_OPENCODE
-
-[^1]: Coll, C. (1987). *Psicología y Currículum*. Paidós.
+[^7]: Coll, C. (1991). *Psicología y Currículum*. Barcelona: Paidós.
 
 [^2]: Decreto 158/2007, por el que se establece el currículum de las enseñanzas profesionales de música en la Comunitat Valenciana.
 
-[^3]: *Ensenyaments Musicals IV*. Generalitat de Catalunya. Departament d'Ensenyament.
+[^4]: *Ensenyaments Musicals IV*. Generalitat de Catalunya. Departament d'Ensenyament.
 
-[^4]: *Eufonía. Revista de Didáctica Musical*. Ediciones Graó.
+[^9]: *Eufonía. Revista de Didáctica Musical*, n.º 32. Barcelona: Graó.
 
-[^5]: Franchefort, F. R. *Guía de la música de Cámara*. Alianza Editorial.
+[^8]: Tranchefort, F. R. (dir.) (1995). *Guía de la música de cámara*. Madrid: Alianza Editorial.
 
-[^6]: Gómez Albaladejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Master Oposiciones.
+[^3]: Gómez Albaladejo, A. y De Nicolás Carrillo, J. (1999). *Aspectos curriculares, psicopedagógicos y didácticos de las enseñanzas profesionales de la música*. Master Oposiciones.
 
-[^7]: *Música y Educación. Revista trimestral de Pedagogía Musical*. Madrid.
+[^5]: *Música y Educación. Revista trimestral de Pedagogía Musical*, n.º 40. Madrid: Musicalis.
 
-[^8]: Payas Magraner, Javier. *Programación Didáctica*. Manuscrito del Autor.
+[^10]: Payas Magraner, J. (2005). *Programación didáctica*. Manuscrito del autor.
 
-[^9]: Pliego de Andrés (1998). *Temas pedagógicos para la oposición de conservatorios*. Editorial Musicalis.
+[^6]: Pliego de Andrés (1998). *Temas pedagógicos para la oposición de conservatorios*. Editorial Musicalis.
 
-[^10]: Real Decreto 1577/2006, de 1 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas en la LOE 2/2006, de 3 de mayo, de Educación.
+[^1]: Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas en la LOE 2/2006, de 3 de mayo, de Educación.
 
 [^11]: Sanjosé Huguet, V. (1997). *Didáctica de la Expresión Musical para Maestros*. Piles.
 
 [^12]: Varios autores (1981). *La Educación Musical en Hungría*. Real Musical.
+
+
