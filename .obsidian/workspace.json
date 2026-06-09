@@ -11,14 +11,15 @@
             "id": "447c60c6f620624e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "OSINT.md",
-                "bFile": "OSINT.md",
-                "aRef": ""
+                "file": "OSINT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: OSINT  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "OSINT"
             }
           }
         ]
@@ -132,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OSINT.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OSINT"
             }
           },
           {
@@ -187,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,7 +209,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "447c60c6f620624e",
+  "active": "30c66a756c80d7ae",
   "lastOpenFiles": [
     "OSINT.md",
     "Informe.md",
