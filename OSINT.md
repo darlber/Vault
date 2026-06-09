@@ -7,16 +7,6 @@
 
 ## 2. Información del objetivo
 
-> **Comandos utilizados:**
-> ```powershell
-> curl.exe -s https://rcsmm.eu | Select-String -Pattern "generator|Drupal"
-> curl.exe -sI https://moodle.rcsmm.eu/login/index.php
-> Resolve-DnsName -Name rcsmm.eu -Type MX | fl
-> Resolve-DnsName -Name rcsmm.eu -Type TXT | fl
-> # Subdominios: dnsdumpster.com, crt.sh, securitytrails.com
-> # Whois .eu: whois.eu (limitado por GDPR)
-> ```
-
 ### 2.1 Introducción
 - Descripción general del objetivo: Real Conservatorio Superior de Música de Madrid (RCSMM) — principal centro público de educación musical superior de España, fundado en 1830 por la reina María Cristina
 - Actividad principal: Formación profesional de músicos (intérpretes, directores, compositores, musicólogos, pedagogos). Imparte Grado, Máster y Doctorado en el marco del EEES
@@ -66,17 +56,6 @@
 
 ## 4. Información técnica
 
-> **Comandos utilizados:**
-> ```powershell
-> Resolve-DnsName -Name rcsmm.eu -Type A
-> Resolve-DnsName -Name rcsmm.eu -Type NS
-> Resolve-DnsName -Name rcsmm.eu -Type SOA
-> # Subdominios detectados via dnsdumpster.com:
-> # moodle.rcsmm.eu, intranet.rcsmm.eu, webmail.rcsmm.eu,
-> # ftp.rcsmm.eu, rta.rcsmm.eu, citas.rcsmm.eu,
-> # rcsmm_citas.scncloud.com, codex.pro
-> ```
-
 ### 4.1 Direcciones IP
 - IP principal del dominio: `62.97.84.197` (web pública rcsmm.eu)
 - IPs asociadas: `213.172.39.24` (servicios internos: mail, moodle, intranet, ftp, webmail)
@@ -86,14 +65,6 @@
 
 ### 4.2 Servidor
 
-> **Comandos utilizados:**
-> ```powershell
-> curl.exe -sI https://rcsmm.eu  # Cabeceras HTTP
-> curl.exe -sI https://moodle.rcsmm.eu/login/index.php
-> # Cabeceras: Server, X-Powered-By, X-Generator, X-Drupal-Cache
-> curl.exe -s https://rcsmm.eu/authorize.php | Select-String -Pattern "v="  # Fingerprint Drupal
-> ```
-
 #### 4.2.1 Máquina virtual
 - Indicios de uso: No confirmado, pero la segmentación de IPs sugiere infraestructura virtualizada
 - Proveedor cloud (si se detecta): Servytec Networks S.L. — CPD propio en Madrid
@@ -102,18 +73,6 @@
 - Hosting: Servytec Networks S.L. (AS196713) para servicios (213.172.39.24) / COLT Technology Services (AS8220) para web pública (62.97.84.197)
 - Hosting secundario: Strato AG (81.169.145.158) para rcsmm.es (email profesorado)
 - Ubicación aproximada: Madrid, España / Frankfurt, Alemania (rcsmm.es)
-
-> **Comandos utilizados:**
-> ```powershell
-> curl.exe -sI https://rcsmm.eu  # Server, X-Generator: Drupal 9
-> curl.exe -sI https://moodle.rcsmm.eu/login/index.php  # X-Powered-By: PHP/5.6.38
-> curl.exe -s https://rcsmm.eu/authorize.php | Select-String -Pattern "v=([0-9.]+)"  # v=9.5.11
-> curl.exe -s https://rcsmm.eu/robots.txt
-> curl.exe -s https://rcsmm.eu/update.php
-> curl.exe -sI https://rcsmm.eu/user/login  # ¿Registro abierto?
-> curl.exe -s https://moodle.rcsmm.eu/admin/index.php  # ¿Instalador accesible?
-> # Búsqueda CVEs: nvd.nist.gov, osv.dev, packetstormsecurity.com, exploit-db.com
-> ```
 
 #### 4.2.3 Vulnerabilidades
 - Solo fuentes públicas (CVE, informes, etc.):
@@ -132,27 +91,6 @@
   - Wikipedia: https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
 
 #### 4.2.4 Análisis de vectores de explotación (defacement)
-
-> **Comandos y metodología:**
-> ```powershell
-> # Fingerprint de versiones exactas
-> curl.exe -sI https://moodle.rcsmm.eu/login/index.php
-> # → X-Powered-By: PHP/5.6.38-0+deb8u1  (Debian 8 + PHP 5.6 EOL)
-> # → MoodleSession cookie confirma Moodle activo
->
-> curl.exe -s https://rcsmm.eu/authorize.php
-> # → eu_cookie_compliance.min.js?v=9.5.11  → Drupal 9.5.11 (EOL nov 2023)
->
-> curl.exe -sI https://rcsmm.eu/user/register
-> # → 200 OK → registro de usuarios abierto
->
-> curl.exe -s https://rcsmm.eu/user/login
-> # → formulario login presente
->
-> # Búsqueda exploits públicos:
-> # Google: "Moodle 2.7 RCE exploit", "Drupal 9 RCE gadget chain",
-> # "PHP 5.6 rce exploit", "Debian 8 local privilege escalation"
-> ```
 
 ##### Vía 1: Moodle 2.7 (moodle.rcsmm.eu) — CRÍTICO
 
@@ -219,15 +157,6 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 
 ## 5. Información corporativa
 
-> **Fuentes utilizadas:**
-> ```powershell
-> curl.exe -s https://rcsmm.eu/nuestro-centro | Select-String -Pattern "Director|Directora"
-> curl.exe -s https://rcsmm.eu/departamento-cuerda  # Listado profesorado
-> curl.exe -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM  # Horarios con nombres
-> # Búsqueda en Google: "rcsmm directora", "Real Conservatorio Superior de Música equipo"
-> # Wikipedia: https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
-> ```
-
 ### 5.1 Equipo directivo
 - Nombres públicos:
   - Consuelo de la Vega Sestelo — Directora (2020–presente), catedrática de Pedagogía
@@ -258,19 +187,6 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 - Conferencias: No detectadas
 
 ## 6. Otra información
-
-> **Comandos utilizados:**
-> ```powershell
-> Resolve-DnsName -Name rcsmm.eu -Type MX  # mx1.servytec.es, mx2.servytec.es
-> Resolve-DnsName -Name rcsmm.eu -Type TXT  # SPF, DMARC, DKIM
-> Resolve-DnsName -Name _dmarc.rcsmm.eu -Type TXT  # DMARC record
-> Resolve-DnsName -Name default._domainkey.rcsmm.eu -Type TXT  # DKIM (no existe)
-> Resolve-DnsName -Name rcsmm.es -Type TXT  # SPF incluye protection.outlook.com
-> # Extracción de emails del HTML:
-> curl.exe -s https://rcsmm.eu | Select-String -Pattern "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
-> curl.exe -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM | Select-String -Pattern "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
-> curl.exe -s https://rcsmm.eu/authorize.php | Select-String -Pattern "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
-> ```
 
 ### 6.1 Emails recopilados
 
@@ -327,3 +243,17 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
   - Cabecera `X-Frame-Options: SAMEORIGIN` (protección anti-clickjacking)
   - `X-Content-Type-Options: nosniff` activo
   - Nameservers redundantes (4 servidores DNS)
+### 8. CVEs críticos específicos del stack Moodle
+
+| CVE | Componente | CVSS | Descripción |
+|---|---|---|---|
+| **CVE-2017-2641** | Moodle 2.x/3.x | **9.8** | SQL injection vía preferencias de usuario. RCE potencial. |
+| **CVE-2016-7124** | PHP 5.6.x < 5.6.25 | **9.8** | Use-after-free en `unserialize()`. RCE remoto sin autenticar. |
+| **CVE-2016-5771** | PHP 5.6.x < 5.6.23 | **9.8** | Use-after-free en SPL `unserialize()`. RCE remoto. |
+| **CVE-2016-5768** | PHP 5.6.x < 5.6.23 | **9.8** | Doble liberación en mbstring. RCE remoto. |
+| **CVE-2016-5773** | PHP 5.6.x < 5.6.23 | **9.8** | Use-after-free en zip `unserialize()`. RCE remoto. |
+| **CVE-2018-19518** | PHP 5.6.x < 5.6.39 | **9.8** | Inyección de comandos vía `imap_open()`. RCE remoto. |
+| **CVE-2016-4538** | PHP 5.6.x < 5.6.21 | **9.8** | Modificación de estructuras en `bcpowmod()`. RCE potencial. |
+| **CVE-2015-6836** | PHP 5.6.x < 5.6.13 | **9.8** | Type confusion en `SoapClient`. RCE vía serialización. |
+| CVE-2015-5266 | Moodle 2.7.x < 2.7.10 | 8.8 | SQL injection en meta enrolment. Escalada a manager. |
+| CVE-2016-2192 | Moodle 2.7.x < 2.7.12 | 8.1 | Escalada de privilegios por validación incorrecta de capabilities. |
