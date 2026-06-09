@@ -83,10 +83,9 @@
 
 > **Comandos utilizados:**
 > ```bash
-> curl -sI https://rcsmm.eu  # Cabeceras HTTP
+> curl -sI https://rcsmm.eu
 > curl -sI https://moodle.rcsmm.eu/login/index.php
-> # Cabeceras: Server, X-Powered-By, X-Generator, X-Drupal-Cache
-> curl -s https://rcsmm.eu/authorize.php | grep -oE 'v=[0-9.]+'  # Fingerprint Drupal
+> curl -s https://rcsmm.eu/authorize.php | grep -oE 'v=[0-9.]+'
 > ```
 
 #### 4.2.1 Máquina virtual
@@ -101,14 +100,12 @@
 
 > **Comandos utilizados:**
 > ```bash
-> curl -sI https://rcsmm.eu  # Server, X-Generator: Drupal 9
-> curl -sI https://moodle.rcsmm.eu/login/index.php  # X-Powered-By: PHP/5.6.38
-> curl -s https://rcsmm.eu/authorize.php | grep -oE 'v=[0-9.]+'  # v=9.5.11
+> curl -sI https://rcsmm.eu
+> curl -sI https://moodle.rcsmm.eu/login/index.php
+> curl -s https://rcsmm.eu/authorize.php | grep -oE 'v=[0-9.]+'
 > curl -s https://rcsmm.eu/robots.txt
-> curl -s https://rcsmm.eu/update.php
-> curl -sI https://rcsmm.eu/user/login  # ¿Registro abierto?
-> curl -s https://moodle.rcsmm.eu/admin/index.php  # ¿Instalador accesible?
-> # Búsqueda CVEs: nvd.nist.gov, osv.dev, packetstormsecurity.com, exploit-db.com
+> curl -sI https://rcsmm.eu/user/register
+> curl -s https://rcsmm.eu/user/login
 > ```
 
 #### 4.2.3 Vulnerabilidades
@@ -131,22 +128,10 @@
 
 > **Comandos y metodología:**
 > ```bash
-> # Fingerprint de versiones exactas
 > curl -sI https://moodle.rcsmm.eu/login/index.php
-> # → X-Powered-By: PHP/5.6.38-0+deb8u1  (Debian 8 + PHP 5.6 EOL)
-> # → MoodleSession cookie confirma Moodle activo
-> >
-> curl -s https://rcsmm.eu/authorize.php
-> # → eu_cookie_compliance.min.js?v=9.5.11  → Drupal 9.5.11 (EOL nov 2023)
-> >
+> curl -s https://rcsmm.eu/authorize.php | grep -oE 'v=[0-9.]+'
 > curl -sI https://rcsmm.eu/user/register
-> # → 403 Forbidden → registro de usuarios NO abierto
-> >
 > curl -s https://rcsmm.eu/user/login
-> # → formulario login presente
-> >
-> # Búsqueda exploits públicos:
-> # Google: "Drupal 9 RCE gadget chain", "PHP 5.6 rce exploit", "Debian 8 local privilege escalation"
 > ```
 
 ### Vía 1: Stack Moodle antiguo (moodle.rcsmm.eu) — CRÍTICO
@@ -216,11 +201,9 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 
 > **Fuentes utilizadas:**
 > ```bash
-> curl -s https://rcsmm.eu/nuestro-centro | grep -i "Director\|Directora"
-> curl -s https://rcsmm.eu/departamento-cuerda  # Listado profesorado
-> curl -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM  # Horarios con nombres
-> # Búsqueda en Google: "rcsmm directora", "Real Conservatorio Superior de Música equipo"
-> # Wikipedia: https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
+> curl -s https://rcsmm.eu/nuestro-centro
+> curl -s https://rcsmm.eu/departamento-cuerda
+> curl -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM
 > ```
 
 ### 5.1 Equipo directivo
@@ -256,15 +239,11 @@ Si FTP permite acceso anónimo, se puede reemplazar el `index.html` o subir arch
 
 > **Comandos utilizados:**
 > ```bash
-> dig +short rcsmm.eu MX  # pop3.rcsmm.eu, mail.rcsmm.eu, smtp.rcsmm.eu, imap.rcsmm.eu (priority 10)
-> dig +short rcsmm.eu TXT  # SPF, DMARC, DKIM
-> dig +short _dmarc.rcsmm.eu TXT  # DMARC record
-> dig +short default._domainkey.rcsmm.eu TXT  # DKIM selectors
-> dig +short rcsmm.es TXT  # SPF incluye protection.outlook.com
-> # Extracción de emails del HTML:
+> dig +short rcsmm.eu MX TXT
+> dig +short _dmarc.rcsmm.eu TXT
+> dig +short rcsmm.es TXT
 > curl -s https://rcsmm.eu | grep -oE '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
 > curl -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM | grep -oE '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
-> curl -s https://rcsmm.eu/authorize.php | grep -oE '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
 > ```
 
 ### 6.1 Emails recopilados
