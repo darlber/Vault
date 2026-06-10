@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -209,10 +209,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "74e6a2710cd0eafa",
   "lastOpenFiles": [
-    "attachments/{F9695896-56CD-46C5-ACDD-8FFCC32F2C0C}.png",
     "README.md",
+    "attachments/{F9695896-56CD-46C5-ACDD-8FFCC32F2C0C}.png",
     "OSINT.md",
     "Informe.md",
     "test.txt",
