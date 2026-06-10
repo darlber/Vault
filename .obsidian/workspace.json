@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OSINT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "OSINT"
             }
           }
         ]
@@ -209,11 +209,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "74e6a2710cd0eafa",
+  "active": "447c60c6f620624e",
   "lastOpenFiles": [
     "README.md",
-    "attachments/{F9695896-56CD-46C5-ACDD-8FFCC32F2C0C}.png",
     "OSINT.md",
+    "attachments/{F9695896-56CD-46C5-ACDD-8FFCC32F2C0C}.png",
     "Informe.md",
     "test.txt",
     "attachments/Pasted image 20260609192703.png",
