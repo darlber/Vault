@@ -1,4 +1,3 @@
-# Ejercicios Shodan
 ## Ejercicio 1 - Dispositivos IoT
 
 > `country:ES camera, has_screenshot:true`
@@ -49,12 +48,7 @@
 ### Riesgo de mantener credenciales por defecto
 
 Las credenciales por defecto son combinaciones públicas y predecibles que pueden probarse automáticamente sobre dispositivos expuestos y localizados mediante buscadores como Shodan; si el acceso tiene éxito, un atacante puede tomar el control del equipo para modificar la configuración, alterar servidores DNS, redirigir tráfico o acceder a la red interna, lo que podría permitir la interceptación de comunicaciones, el robo indirecto de credenciales y el compromiso de otros dispositivos conectados.
-
 ## Ejercicio 3 - Sistemas obsoletos / sin soporte
-
-### Caso real: Windows XP SP2 del Gobierno del Principado de Asturias
-
-**IP analizada:** `88.151.17.230` | **País:** España (Villaviciosa, Asturias)
 
 | Campo | Valor |
 |-------|-------|
@@ -66,75 +60,30 @@ Las credenciales por defecto son combinaciones públicas y predecibles que puede
 | **Organización** | **Gobierno del Principado de Asturias** (AS39353) |
 | **ISP** | Gobierno del Principado de Asturias |
 | **Último visto** | 2026-06-08 |
+![](attachments/{D1708E83-9E85-4A35-9266-87C13673A42C}.png)
+### Problemas de seguridad
 
-### Datos reales de la API de Shodan (junio 2026)
-
-| Búsqueda | Resultados |
-|----------|-----------|
-| `os:"Windows XP"` global | **2.099** sistemas |
-| `os:"Windows XP" country:ES` (España) | **38** sistemas |
-| `os:"Windows 2000"` global | **175** sistemas |
-| `"Microsoft-IIS/6.0"` (IIS 6.0, 2003) | **50.699** servidores |
-| `vuln:CVE-2020-0796` (SMBGhost) | **211.794** sistemas |
-| `vuln:CVE-2014-0160` (Heartbleed) | **76.197** sistemas |
-
-### Problemas de seguridad del caso detectado
-
-1. **Windows XP SP2** dejó de recibir soporte en **2009** (hace 17 años). Microsoft lanzó un parche de emergencia en 2017 para EternalBlue (MS17-010) solo por la magnitud de WannaCry, pero el resto de vulnerabilidades no tienen solución.
-
-2. **MS-SQL Server 2008 RTM** sin soporte desde 2019. Expone la base de datos directamente en puerto 1433 sin protección adicional aparente.
-
-3. **Riesgo extremo**: Es un sistema del **Gobierno del Principado de Asturias** — una administración pública — que potencialmente maneja datos de ciudadanos. Un atacante que comprometa este sistema podría acceder a información sensible, bases de datos oficiales y servir como puerta de entrada a toda la red gubernamental.
-
-4. **Incumplimiento GDPR**: El Reglamento General de Protección de Datos exige medidas técnicas adecuadas. Mantener un Windows XP con SQL Server 2008 accesible desde Internet es una violación clara.
-
-5. **Vulnerabilidades críticas aplicables**:
-   - **EternalBlue (MS17-010)**: RCE en SMB — el vector de WannaCry
-   - **Múltiples RCE en SQL Server 2008**: Sin parches disponibles
-   - **Falta de ASLR, DEP moderno, y otras mitigaciones**
-
----
-
+Los sistemas operativos sin soporte (EOL) no reciben actualizaciones de seguridad, lo que deja vulnerabilidades conocidas sin corregir y fácilmente explotables mediante ataques automatizados; además, suelen ser compatibles con protocolos antiguos y débiles, lo que facilita el acceso no autorizado, o la ejecución de código remoto, convirtiéndolos en objetivos especialmente vulnerables cuando están expuestos a Internet.
 ## Ejercicio 4 - Estado de exposición en España
 
-### Panel de exposición de Shodan (https://exposure.shodan.io/#/)
+### Panel de exposición de Shodan para España (https://exposure.shodan.io/#/)
 
-El panel de exposición de España muestra las siguientes métricas (basadas en datos públicos de Shodan):
+Datos extraídos directamente del panel oficial (junio 2026):
 
-| Métrica | Valor real (API Shodan, junio 2026) |
-|---------|--------------------------------------|
-| **Puertos abiertos totales** | No disponible via API gratuita |
-| **Puerto más usado** | 80 (HTTP): ~52M dispositivos / 443 (HTTPS): ~49M |
-| **Servicio más común** | HTTP/HTTPS (servidores web) |
-| **Webcams en España** | **57.439** (filtro: `country:ES camera`) |
-| **Cámaras IP (global)** | **3.243.150** (filtro: `camera`) |
-| **Sistemas Modbus/ICS España** | **2.957** (filtro: `port:502 country:ES`) |
-| **Dispositivos BACnet España** | **217** (automatización edificios) |
-| **Servicios con SSLv2** | Solo **31** globalmente |
-| **Servidores Samba sin autenticación** | **75.906** globalmente |
-| **Bases de datos MongoDB sin auth España** | **1.052** |
-| **Routers MikroTik España** | **43.968** |
-| **Telnet expuesto España** | **7.033** |
-| **RDP expuesto España** | **17.505** |
-| **Sistemas expuestos a SMBGhost (CVE-2020-0796)** | **211.794** global |
-| **Sistemas expuestos a Heartbleed (CVE-2014-0160)** | **76.197** global |
-| **Vulnerabilidad más detectada** | CVE-2020-0796 (SMBGhost) — RCE en SMBv3 de Windows |
+| #   | Pregunta                                           | Respuesta                                                                                                                       |
+| --- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **¿Cuántos puertos abiertos hay en España?**       | **5.194.722**                                                                                                                   |
+| 2   | **¿Cuál es el puerto más usado?**                  | **Puerto 161** (652.731 en total)                                                                                               |
+| 3   | **¿A qué servicio corresponde?**                   | **SNMP** — monitorización de red.                                                                                               |
+| 4   | **¿Cuántas webcams están expuestas?**              | El panel no lo muestra. Vía API Shodan: **57.439** en España                                                                    |
+| 5   | **¿Cuántos sistemas de control industrial (ICS)?** | **4.868**                                                                                                                       |
+| 6   | **¿Cuántos servicios con SSLv2/obsoletos?**        | El panel no lo muestra. Vía API Shodan: **31** servicios SSLv2 globalmente                                                      |
+| 7   | **¿Qué % de servidores SMB sin autenticación?**    | **14,5%** (1.085 de 7.462 tienen autenticación deshabilitada)                                                                   |
+| 8   | **¿Cuántas bases de datos comprometidas?**         | **91**                                                                                                                          |
+| 9   | **¿Cuál es la vulnerabilidad más detectada?**      | **CVE-2020-0796**                                                                                                               |
+| 10  | **¿A qué fallo corresponde?**                      | **SMBGhost** — RCE crítica en SMBv3 de Windows (Windows 10 y Server 2019). Permite ejecución remota de código sin autenticación |
 
-**Interpretación:**
-
-1. **Puerto 80/443**: Dominan porque la mayoría de dispositivos expuestos ejecutan algún tipo de interfaz web.
-
-2. **Webcams**: España tiene una exposición considerable de cámaras IP, principalmente de fabricantes como Hikvision, Dahua y marcas blancas.
-
-3. **ICS**: Sistemas de control industrial (Modbus, Siemens S7, BACnet) conectados a Internet, un riesgo grave para infraestructuras críticas.
-
-4. **SSLv2**: Aunque bajo en números, la existencia de protocolos obsoletos indica falta de mantenimiento.
-
-5. **Samba sin auth**: Un pequeño porcentaje pero suficiente para comprometer redes enteras.
-
-6. **Vulnerabilidad más detectada**: SMBGhost (CVE-2020-0796) afecta a Windows 10 y Server 2019 sin parchear, increíblemente aún presente años después de su descubrimiento.
-
----
+**Datos adicionales del panel:** Cisco IOS XE WebUI: **327** | BlueKeep (CVE-2019-0708): **265** sin parchear | Ivanti Pulse Secure: **1.376**
 
 ## Ejercicio 5 - Sistemas industriales
 
