@@ -52,23 +52,46 @@ Las credenciales por defecto son combinaciones públicas y predecibles que puede
 
 ## Ejercicio 3 - Sistemas obsoletos / sin soporte
 
-> `os:"Windows XP" country:ES`
+### Caso real: Windows XP SP2 del Gobierno del Principado de Asturias
 
-1. **Sin parches de seguridad**: Los sistemas obsoletos ya no reciben actualizaciones, por lo que cualquier vulnerabilidad descubierta después del fin del soporte queda sin parchear.
+**IP analizada:** `88.151.17.230` | **País:** España (Villaviciosa, Asturias)
 
-2. **Vulnerabilidades críticas conocidas**:
-   - **Windows XP**: EternalBlue (MS17-010) - usado por WannaCry
-   - **IIS 6.0**: Múltiples RCE (CVE-2017-7269, etc.)
-   - **Windows Server 2003**: Vulnerabilidades SMB, RDP
-   - **SSLv2/3 en sistemas antiguos**: DROWN, POODLE, BEAST
+| Campo | Valor |
+|-------|-------|
+| **IP** | `88.151.17.230` |
+| **Sistema operativo** | **Windows XP SP2** (build 5.1.2600) |
+| **Tags Shodan** | **`eol-os`** (end-of-life OS), `database` |
+| **Puertos abiertos** | **80** (HTTP - "Administrative Quarantine") + **1433** (MS-SQL) |
+| **Base de datos** | **MS-SQL Server 2008 RTM** (v10.0.1600.0) |
+| **Organización** | **Gobierno del Principado de Asturias** (AS39353) |
+| **ISP** | Gobierno del Principado de Asturias |
+| **Último visto** | 2026-06-08 |
 
-3. **Falta de mitigaciones modernas**:
-   - Sin DEP, ASLR avanzado, o protección contra exploits moderna
-   - Sin soporte para TLS 1.2/1.3
+### Datos reales de la API de Shodan (junio 2026)
 
-4. **Riesgo para la red**: Un sistema obsoleto comprometido puede servir como puerta de entrada al resto de la red corporativa.
+| Búsqueda | Resultados |
+|----------|-----------|
+| `os:"Windows XP"` global | **2.099** sistemas |
+| `os:"Windows XP" country:ES` (España) | **38** sistemas |
+| `os:"Windows 2000"` global | **175** sistemas |
+| `"Microsoft-IIS/6.0"` (IIS 6.0, 2003) | **50.699** servidores |
+| `vuln:CVE-2020-0796` (SMBGhost) | **211.794** sistemas |
+| `vuln:CVE-2014-0160` (Heartbleed) | **76.197** sistemas |
 
-5. **Cumplimiento normativo**: Incumplimiento de regulaciones como GDPR, PCI-DSS, ISO 27001.
+### Problemas de seguridad del caso detectado
+
+1. **Windows XP SP2** dejó de recibir soporte en **2009** (hace 17 años). Microsoft lanzó un parche de emergencia en 2017 para EternalBlue (MS17-010) solo por la magnitud de WannaCry, pero el resto de vulnerabilidades no tienen solución.
+
+2. **MS-SQL Server 2008 RTM** sin soporte desde 2019. Expone la base de datos directamente en puerto 1433 sin protección adicional aparente.
+
+3. **Riesgo extremo**: Es un sistema del **Gobierno del Principado de Asturias** — una administración pública — que potencialmente maneja datos de ciudadanos. Un atacante que comprometa este sistema podría acceder a información sensible, bases de datos oficiales y servir como puerta de entrada a toda la red gubernamental.
+
+4. **Incumplimiento GDPR**: El Reglamento General de Protección de Datos exige medidas técnicas adecuadas. Mantener un Windows XP con SQL Server 2008 accesible desde Internet es una violación clara.
+
+5. **Vulnerabilidades críticas aplicables**:
+   - **EternalBlue (MS17-010)**: RCE en SMB — el vector de WannaCry
+   - **Múltiples RCE en SQL Server 2008**: Sin parches disponibles
+   - **Falta de ASLR, DEP moderno, y otras mitigaciones**
 
 ---
 
