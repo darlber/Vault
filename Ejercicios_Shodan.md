@@ -17,19 +17,25 @@
 
 ## Ejercicio 2 - Routers
 
-### Caso real analizado en Shodan: `212.227.144.67`
+### Datos reales de routers expuestos desde la API de Shodan (junio 2026)
 
-| Campo                             | Valor                                                         |
-| --------------------------------- | ------------------------------------------------------------- |
-| **IP**                            | `212.227.144.67`                                              |
-| **Hostnames**                     | `cain-dev.es`, `ip212-227-144-67.pbiaas.com`                  |
-| **País / Ciudad**                 | España, Madrid                                                |
-| **Organización**                  | IONOS SE (AS8560)                                             |
-| **Tag Shodan**                    | **`eol-product`** — producto con fin de vida útil             |
-| **Puertos abiertos**              | 22 (SSH), 443 (HTTPS), 8888 (HTTP)                            |
-| **Servicios detectados**          | OpenSSH 9.6p1, nginx 1.28.0, Apache httpd 2.4.66 + phpMyAdmin |
-| **Vulnerabilidades (InternetDB)** | 22 CVEs detectadas                                            |
-| **Último visto**                  | 2026-06-11                                                    |
+| Búsqueda                                         | Resultados en España    |
+| ------------------------------------------------ | ----------------------- |
+| `"MikroTik" country:ES` (routers MikroTik)       | **43.968** dispositivos |
+| `"MikroTik RouterOS" country:ES`                 | **8.848**               |
+| `port:8291 country:ES` (Winbox - admin MikroTik) | **29.266**              |
+| `"D-Link" country:ES`                            | **859**                 |
+| `"TP-Link" country:ES`                           | **11**                  |
+| `"Cisco" router country:ES`                      | **190**                 |
+| `port:23 country:ES` (Telnet expuesto)           | **7.033**               |
+
+Un router MikroTik expuesto en Shodan muestra información como:
+- **IP pública** y **geolocalización**
+- **Puertos abiertos**: 8291 (Winbox), 22 (SSH), 23 (Telnet), 80/443 (WebFig)
+- **Versión de RouterOS / firmware**
+- **ISP** y **organización**
+- **Nombre de host** y **título de la página de login**
+- **Tag de Shodan** (ej. `eol-product` para productos obsoletos)
 
 ### Información pública que aparece en Shodan para routers/equipos de red
 
@@ -51,15 +57,8 @@ country:ES router
 http.title:"Router" country:ES
 "TP-Link" country:ES
 "MikroTik" country:ES
-"eol-product" country:ES
+port:8291 country:ES
 ```
-
-**Datos reales de la API (junio 2026):**
-- Routers MikroTik expuestos en España: **43.968**
-- Puertos 80 (HTTP admin) globalmente: **52.407.218**
-- Puertos 443 (HTTPS admin) globalmente: **48.820.502**
-- Puertos 23 (Telnet) expuestos en España: **7.033**
-- Puertos 22 (SSH) expuestos globalmente: **17.784.953**
 
 ### Riesgo de mantener credenciales por defecto
 
@@ -87,7 +86,7 @@ http.title:"Router" country:ES
    - **Mirai botnet** (2016): Infectó cientos de miles de routers y dispositivos IoT usando credenciales por defecto
    - **VPNFilter malware**: Afectó a routers Linksys, MikroTik, Netgear, TP-Link, entre otros
 
-6. **Caso concreto analizado**: El host `212.227.144.67` tiene marcado con tag `eol-product` y expone phpMyAdmin sin protección adicional en puerto 8888, con 22 CVEs detectadas (varias de 2026), lo que demuestra la peligrosidad de mantener servicios con software desactualizado o configuraciones por defecto accesibles desde Internet.
+6. **Ejemplo real: MikroTik routers en España** — Con **43.968** dispositivos detectados y **29.266** con el puerto Winbox (8291) expuesto directamente a Internet, estos routers son un objetivo perfecto para escaneo automatizado. Si además mantienen credenciales por defecto o versiones de RouterOS sin parchear, un atacante puede tomar el control completo del dispositivo y la red local.
 
 ---
 
