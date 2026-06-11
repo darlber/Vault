@@ -52,7 +52,7 @@ Las credenciales por defecto son combinaciones públicas y predecibles que puede
 
 ## Ejercicio 3 - Sistemas obsoletos / sin soporte
 
-> `os:"Windows XP" OR os:"Windows Server 2003" OR os:"Windows Server 2008" OR "Ubuntu 12.04" OR "Debian 7" OR "CentOS 6" OR "end of life" OR "EOL"`
+> `os:"Windows XP" country:ES`
 
 1. **Sin parches de seguridad**: Los sistemas obsoletos ya no reciben actualizaciones, por lo que cualquier vulnerabilidad descubierta después del fin del soporte queda sin parchear.
 
