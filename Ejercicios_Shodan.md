@@ -198,7 +198,7 @@ curl -v https://ejemplo.com 2>&1 | grep -i "< Server\|< X-Powered\|< X-AspNet"
 
 ### Cómo localizar puertos con SSL/TLS
 
-Se identifican buscando servicios en puertos típicos cifrados como 443 (HTTPS), 8443, 993 (IMAPS), 465 (SMTPS) o mediante escaneo de certificados.
+Se identifican buscando servicios en puertos típicos cifrados como 443 (HTTPS), 8443, 993 (IMAPS), 465 (SMTPS) o mediante escaneo de certificados.[^2]
 
 ```
 # Todos los servicios HTTPS
@@ -207,52 +207,37 @@ port:443
 # Servicios con SSL/TLS en cualquier puerto
 ssl:true
 
-# Versiones específicas de TLS
-"TLSv1" port:443
-"TLSv1.1" port:443
-"TLSv1.2" port:443
-"TLSv1.3" port:443
-
-# Versiones obsoletas de SSL
-"SSLv2" port:443
-"SSLv3" port:443
-
-# Buscar cifrados débiles específicos
-"RC4" ssl:true
-"DES" ssl:true
-"3DES" ssl:true
-"NULL" ssl:true
-"EXPORT" ssl:true
+# Versiones de TLS  
+ssl.version:tlsv1  
+ssl.version:tlsv1.1  
+ssl.version:tlsv1.2  
+ssl.version:tlsv1.3  
+  
+# Versiones inseguras  
+ssl.version:sslv2  
+ssl.version:sslv3  
+  
+# Cifrados débiles (si están expuestos en banner)  
+ssl.cipher:rc4  
+ssl.cipher:des  
+ssl.cipher:3des  
+ssl.cipher:null  
+ssl.cipher:export
 ```
 
 ![](attachments/{267A7CA3-AD75-4F11-90A4-817D48A29BB3}.png)
 ![](attachments/{A41347CA-7735-42B5-AA47-D952F3777A3A}.png)
-Además de HTTPS (443), otros servicios con SSL/TLS:
-
-| Puerto | Servicio |
-|--------|----------|
-| 443 | HTTPS |
-| 465 | SMTPS (SMTP over SSL) |
-| 636 | LDAPS |
-| 990 | FTPS |
-| 992 | Telnet over SSL |
-| 993 | IMAPS |
-| 995 | POP3S |
-| 8443 | HTTPS alternativo |
-| 5061 | SIP over TLS |
-
+![](attachments/{34103A0B-D334-4D7B-BD42-C8432CA58535}.png)
 ### Cómo distinguir versiones inseguras
 
-#### Protocolos obsoletos y sus problemas
-
-| Versión | Estado | Vulnerabilidades principales |
-|---------|--------|------------------------------|
-| **SSLv2** | Prohibido (RFC 6176) | DROWN (CVE-2016-0800), cifrado export débil |
-| **SSLv3** | Prohibido (RFC 7568) | POODLE (CVE-2014-3566), CBC débil |
-| **TLS 1.0** | Deprecado (PCI-DSS, RFC 8996) | BEAST, Lucky13, POODLE-TLS |
-| **TLS 1.1** | Deprecado (RFC 8996) | Debilidades en CBC |
-| **TLS 1.2** | Recomendado (mínimo actual) | Seguro si se usan cifrados AEAD |
-| **TLS 1.3** | Estado del arte | Seguro, elimina cifrados inseguros |
+| Versión     | Estado                        | Vulnerabilidades principales                |
+| ----------- | ----------------------------- | ------------------------------------------- |
+| **SSLv2**   | Prohibido (RFC 6176)          | DROWN (CVE-2016-0800), cifrado export débil |
+| **SSLv3**   | Prohibido (RFC 7568)          | POODLE (CVE-2014-3566), CBC débil           |
+| **TLS 1.0** | Deprecado (PCI-DSS, RFC 8996) | BEAST, Lucky13, POODLE-TLS                  |
+| **TLS 1.1** | Deprecado (RFC 8996)          | Debilidades en CBC                          |
+| **TLS 1.2** | Recomendado (mínimo actual)   | Seguro si se usan cifrados AEAD             |
+| **TLS 1.3** | Estado del arte               | Seguro, elimina cifrados inseguros          |
 
 ### Señales de cifrado débil
 
@@ -307,6 +292,7 @@ ssl_ecdh_curve secp384r1;
 
 7. **Usar certificados con**: Clave RSA ≥ 2048 bits (o ECDSA ≥ 256 bits), algoritmo SHA-256 o superior, cadena de confianza completa.
 
----
 
 [^1]: https://github.com/Ilias1988/Hacking-Cheatsheets/blob/main/Shodan/README.md
+
+[^2]: https://www.cyberly.org/en/can-shodan-help-identify-devices-with-outdated-ssl-tls-configurations/index.html
