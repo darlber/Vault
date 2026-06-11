@@ -18,13 +18,17 @@ country:ES port:554               (RTSP - protocolo de streaming)
 has_screenshot:true country:ES camera
 ```
 
-| Campo | Valor |
-|-------|-------|
-| **IP** | Varias. Ejemplo consultado via InternetDB: `81.45.0.1` (española) |
-| **País** | España (ES) |
-| **Proveedor Internet** | RIMA-TDE (Telefónica) — `1.red-81-45-0.staticip.rima-tde.net` |
-| **Puerto** | 80 (HTTP) / 554 (RTSP) / 8080 (HTTP alternativo) |
-| **Servicio** | HTTP - Cámara IP (ej. Hikvision, Dahua, Axis) |
+| Campo | Valor del ejemplo real `2.136.175.98` |
+|-------|--------------------------------------|
+| **IP** | `2.136.175.98` |
+| **País** | España (Valencia) |
+| **Proveedor Internet** | TELEFONICA DE ESPANA S.A.U. (AS3352) |
+| **Hostname** | `98.red-2-136-175.staticip.rima-tde.net` |
+| **Puertos** | `8001/tcp` y `8003/tcp` |
+| **Servicio** | **Wireless Network Camera** (cámara IP inalámbrica) |
+| **Banner HTTP** | `Server: Wireless Network Camera` |
+| **Autenticación** | Puerto 8003: `401 Unauthorized` con realm `"Wireless Network Camera"` (Basic auth) |
+| **Última vez visto** | 2026-05-31 |
 
 ### APIs gratuitas de Shodan verificadas
 
