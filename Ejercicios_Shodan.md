@@ -152,7 +152,6 @@ tag:ics
    - **Colonial Pipeline** (2021): Aunque fue ransomware IT, el ICS se paró preventivamente
    - **Oldsmar water treatment** (2021): Atacante intentó envenenar agua potable vía sistema de control remoto
 
----
 
 ## Ejercicio 6 - Identificación de software web
 
