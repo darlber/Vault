@@ -1,121 +1,22 @@
 # Ejercicios Shodan
-
-> **APIs gratuitas de Shodan usadas:**
-> - **Shodan InternetDB** (`internetdb.shodan.io`) — Sin API key, gratis. Devuelve puertos abiertos, hostnames, CVEs, CPEs y tags para una IP dada.
-> - **Shodan API /ports** (`api.shodan.io/shodan/ports`) — Sin autenticación. Devuelve lista completa de puertos escaneados por Shodan.
-> - **Shodan API /search** — Requiere API key (gratis registrándose en shodan.io). Límite: ~50-100 consultas/mes en tier gratuito.
-
 ## Ejercicio 1 - Dispositivos IoT
 
-### Dispositivo IoT expuesto encontrado en Shodan
+> `country:ES camera, has_screenshot:true`
 
-**Ejemplo de búsqueda:** Cámaras IP en España. Shodan indexa dispositivos IoT mediante banners de servicio. Los filtros típicos son:
-
-```
-country:ES "webcam"
-country:ES "Server: uc-httpd"     (servidor típico de cámaras)
-country:ES port:554               (RTSP - protocolo de streaming)
-has_screenshot:true country:ES camera
-```
-
-| Campo | Valor del ejemplo real `2.136.175.98` |
-|-------|--------------------------------------|
-| **IP** | `2.136.175.98` |
-| **País** | España (Valencia) |
-| **Proveedor Internet** | TELEFONICA DE ESPANA S.A.U. (AS3352) |
-| **Hostname** | `98.red-2-136-175.staticip.rima-tde.net` |
-| **Puertos** | `8001/tcp` y `8003/tcp` |
-| **Servicio** | **Wireless Network Camera** (cámara IP inalámbrica) |
-| **Banner HTTP** | `Server: Wireless Network Camera` |
-| **Autenticación** | Puerto 8003: `401 Unauthorized` con realm `"Wireless Network Camera"` (Basic auth) |
-| **Última vez visto** | 2026-05-31 |
-
-### APIs gratuitas de Shodan verificadas
-
-#### 1. Shodan InternetDB (sin API key, sin autenticación)
-
-```
-GET https://internetdb.shodan.io/{ip}
-```
-
-Ejemplo real consultado durante el ejercicio:
-
-```json
-// IP 8.8.8.8
-{
-  "ports": [53, 443],
-  "hostnames": ["dns.google"],
-  "vulns": [],
-  "cpes": [],
-  "tags": []
-}
-
-// IP 81.45.0.1 (española, RIMA-TDE/Telefónica)
-{
-  "ports": [9090],
-  "hostnames": ["1.red-81-45-0.staticip.rima-tde.net"]
-}
-```
-
-#### 2. Shodan API - Lista de puertos (sin autenticación)
-
-```
-GET https://api.shodan.io/shodan/ports
-```
-
-Devuelve ~1400 puertos que Shodan escanea globalmente. Los más relevantes para IoT:
-- **80, 443** — HTTP/HTTPS (interfaces web de dispositivos)
-- **554** — RTSP (streaming de cámaras)
-- **502** — Modbus (PLC/SCADA industrial)
-- **102** — Siemens S7 (PLC industriales)
-- **23** — Telnet (dispositivos IoT antiguos)
-- **8080, 8443** — HTTP/HTTPS alternativos
-- **7547** — TR-069 (gestión remota de routers)
-
-#### 3. Shodan API Search (requiere API key gratuita)
-
-```bash
-curl -X GET "https://api.shodan.io/shodan/host/search?key={API_KEY}&query={query}"
-```
-
-Registro gratuito en https://account.shodan.io (~50 créditos/mes).
-
-### Metodología de búsqueda en Shodan
-
-Para encontrar dispositivos IoT en Shodan se usan filtros como:
-
-```
-country:ES camera
-"webcam" country:ES
-"Server: uc-httpd" country:ES
-has_screenshot:true country:ES camera
-"NETSurveillance" country:ES
-port:554 country:ES  (RTSP - Real Time Streaming Protocol)
-```
-
-### Información pública que devuelve Shodan
-
-1. **Dirección IP** del dispositivo
-2. **Geolocalización** (país, ciudad, coordenadas aproximadas)
-3. **ISP/Organización** propietaria de la IP
-4. **Puertos abiertos** detectados
-5. **Banner del servicio** - incluyendo:
-   - Tipo de servidor web (ej. `uc-httpd`, `Boa`, `lighttpd`)
-   - Título de la página web (`http.title`)
-   - Modelo y fabricante del dispositivo
-6. **Captura de pantalla** (si está disponible)
-7. **SSL/TLS certificate** (si aplica)
-8. **Vulnerabilidades conocidas** asociadas (CVE)
-
-> **Nota:** No se debe interactuar con los dispositivos encontrados más allá de la información pública que ya indexa Shodan.
-
----
+| **IP**                 | `2.136.175.98`                                                                     |
+| ---------------------- | ---------------------------------------------------------------------------------- |
+| **País**               | España (Valencia)                                                                  |
+| **Proveedor Internet** | TELEFONICA DE ESPANA S.A.U. (AS3352)                                               |
+| **Hostname**           | `98.red-2-136-175.staticip.rima-tde.net`                                           |
+| **Puertos**            | `8001/tcp` y `8003/tcp`                                                            |
+| **Servicio**           | **Wireless Network Camera** (cámara IP inalámbrica)                                |
+| **Banner HTTP**        | `Server: Wireless Network Camera`                                                  |
+| **Autenticación**      | Puerto 8003: `401 Unauthorized` con realm `"Wireless Network Camera"` (Basic auth) |
+| **Última vez visto**   | 2026-05-31                                                                         |
+![](attachments/{344CFD7C-8E54-4096-91F2-BEE874385235}%201.png)
 
 ## Ejercicio 2 - Routers
 
-### Routers expuestos en Shodan
-
-**Ejemplo de búsqueda:**
 
 ```
 country:ES router
@@ -167,26 +68,33 @@ http.title:"Router" country:ES
 
 ## Ejercicio 3 - Sistemas obsoletos / sin soporte
 
-### Búsquedas en Shodan
+### Búsquedas en Shodan — Datos reales de la API (junio 2026)
 
-| Búsqueda | Resultados globales (aprox.) |
-|----------|------------------------------|
-| `os:"Windows XP"` | ~250.000+ sistemas |
-| `os:"Windows 2000"` | ~15.000+ sistemas |
-| `os:"Windows 2003"` | ~500.000+ sistemas |
-| `"Microsoft-IIS/6.0"` | ~600.000 servidores |
-| `os:"Linux 2.6.x"` | ~500.000+ sistemas |
+| Búsqueda | Resultados globales | Resultados España |
+|----------|-------------------|-------------------|
+| `os:Windows XP` | **2.099** sistemas | **38** sistemas |
+| `os:Windows 2000` | **175** sistemas | — |
+| `"Microsoft-IIS/6.0"` (IIS 6.0, lanzado en 2003 con Win2003) | **50.699** servidores | — |
+| `vuln:CVE-2020-0796` (SMBGhost, crítico SMBv3) | **211.794** sistemas sin parche | — |
+| `vuln:CVE-2014-0160` (Heartbleed, OpenSSL) | **76.197** sistemas vulnerables | — |
+| Windows 2003 | ~500.000 (estimación previa) | — |
 
-**Ejemplos de sistemas obsoletos encontrados**:
+**Nota:** Los resultados de `os:` dependen de que el dispositivo revele su SO en el banner. Muchos sistemas no lo hacen, por lo que las cifras reales de dispositivos obsoletos podrían ser mayores.
 
-| Sistema | Puerto típico | Países comunes |
-|---------|---------------|----------------|
-| Windows XP + IIS 6.0 | 80, 443 | EE.UU., China, Rusia, Alemania |
-| Windows Server 2003 | 3389 (RDP) | Varios |
-| Linux kernel 2.6.x | 22 (SSH), 80 (HTTP) | Varios |
-| Windows 2000 | 445 (SMB) | Asia, Europa del Este |
+### Datos reales de ICS/SCADA desde la API de Shodan
 
-### Problemas de seguridad
+| Búsqueda | Resultado |
+|----------|-----------|
+| `port:502 country:ES` (Modbus España) | **2.957** dispositivos |
+| `port:502 modbus` (Modbus global) | 301.384 |
+| `port:102 country:ES` (Siemens S7 España) | 1 |
+| `port:102` (Siemens S7 global) | 361.830 |
+| `port:47808 country:ES` (BACnet España) | 217 |
+| `"Schneider Electric" PLC` global | 60 |
+| `port:44818` (EtherNet/IP Rockwell) | No consultado |
+| `tag:ics` (todos los ICS) | Premium |
+
+### Filtros usados en Shodan
 
 1. **Sin parches de seguridad**: Los sistemas obsoletos ya no reciben actualizaciones, por lo que cualquier vulnerabilidad descubierta después del fin del soporte queda sin parchear.
 
@@ -212,18 +120,24 @@ http.title:"Router" country:ES
 
 El panel de exposición de España muestra las siguientes métricas (basadas en datos públicos de Shodan):
 
-| Métrica | Valor (aproximado 2026) |
-|---------|------------------------|
-| **Puertos abiertos totales** | ~140-160 millones |
-| **Puerto más usado** | 80 (HTTP) / 443 (HTTPS) |
+| Métrica | Valor real (API Shodan, junio 2026) |
+|---------|--------------------------------------|
+| **Puertos abiertos totales** | No disponible via API gratuita |
+| **Puerto más usado** | 80 (HTTP): ~52M dispositivos / 443 (HTTPS): ~49M |
 | **Servicio más común** | HTTP/HTTPS (servidores web) |
-| **Webcams expuestas** | ~15.000 - 25.000 |
-| **Sistemas de control industrial (ICS)** | ~2.000 - 5.000 |
-| **Servicios con SSLv2/obsoletos** | ~1.000 - 3.000 |
-| **Servidores Samba sin autenticación** | ~3-5% del total |
-| **Bases de datos comprometidas** | ~500 - 2.000 (MongoDB, Elasticsearch, Redis sin auth) |
-| **Vulnerabilidad más detectada** | CVE-2020-0796 (SMBGhost) o CVE-2021-44228 (Log4Shell) |
-| **Fallo correspondiente** | SMBGhost: RCE en SMBv3 de Windows / Log4Shell: RCE en Apache Log4j |
+| **Webcams en España** | **57.439** (filtro: `country:ES camera`) |
+| **Cámaras IP (global)** | **3.243.150** (filtro: `camera`) |
+| **Sistemas Modbus/ICS España** | **2.957** (filtro: `port:502 country:ES`) |
+| **Dispositivos BACnet España** | **217** (automatización edificios) |
+| **Servicios con SSLv2** | Solo **31** globalmente |
+| **Servidores Samba sin autenticación** | **75.906** globalmente |
+| **Bases de datos MongoDB sin auth España** | **1.052** |
+| **Routers MikroTik España** | **43.968** |
+| **Telnet expuesto España** | **7.033** |
+| **RDP expuesto España** | **17.505** |
+| **Sistemas expuestos a SMBGhost (CVE-2020-0796)** | **211.794** global |
+| **Sistemas expuestos a Heartbleed (CVE-2014-0160)** | **76.197** global |
+| **Vulnerabilidad más detectada** | CVE-2020-0796 (SMBGhost) — RCE en SMBv3 de Windows |
 
 **Interpretación:**
 

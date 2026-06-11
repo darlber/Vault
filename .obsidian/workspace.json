@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.51103591918945
+    "width": 292.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -189,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,8 +210,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "447c60c6f620624e",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
+    "attachments/{344CFD7C-8E54-4096-91F2-BEE874385235} 1.png",
+    "attachments/{344CFD7C-8E54-4096-91F2-BEE874385235}.png",
+    "attachments",
     "OSINT.md",
     "Ejercicios_Shodan.md",
     "README.md",
@@ -218,7 +222,6 @@
     "Informe.md",
     "test.txt",
     "attachments/Pasted image 20260609192703.png",
-    "attachments",
     "OSINT_rcsmm.eu.md",
     "OSINT 1.md",
     "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
@@ -240,7 +243,6 @@
     "Oposiciones Guitarra/attachments/{F00AF04A-3884-4743-88C1-29EC3EDB70D1}.png",
     "Oposiciones Guitarra/attachments/{74EB0B94-1C8F-41BC-9E82-EC6496B9C30F}.png",
     "Oposiciones Guitarra/attachments/{42A71911-872D-42BB-B355-059C98BE1EC3}.png",
-    "Oposiciones Guitarra/attachments/{1FC9E565-82D8-4A1A-9907-B2622D1C1898}.png",
     "Oposiciones Guitarra/Programación Didáctica.md",
     "Oposiciones Guitarra/Tema 34. TIC.md",
     "Oposiciones TAI/Flashcards - Tema 11.md",
@@ -256,7 +258,6 @@
     "Oposiciones TAI/Tema 6. La sociedad de la información. Identidad y firma electrónica, régimen jurídico. El DNI electrónico. La Agenda Digital para España.md",
     "Oposiciones TAI/Flashcards - Tema 2.md",
     "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
-    "Oposiciones TAI/Tema 4. El texto refundido del Estatuto Básico del Empleado Público y demás normativa de aplicación.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
