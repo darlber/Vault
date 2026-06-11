@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones TAI/Índice.md",
+                "file": "Oposiciones TAI/Tema 00. Rango de ley y Jerarquía leyes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Índice"
+              "title": "Tema 00. Rango de ley y Jerarquía leyes"
             }
           }
         ]
@@ -209,9 +209,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "74e6a2710cd0eafa",
+  "active": "447c60c6f620624e",
   "lastOpenFiles": [
     "Oposiciones TAI/Índice.md",
+    "Oposiciones TAI/Tema 00. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
     "Oposiciones TAI/Tema 23. Repositorios, control de versiones, metodologías y pruebas.md",
     "Oposiciones TAI/Tema 22. Accesibilidad, diseño universal y usabilidad. Seguridad en el desarrollo de sistemas.md",
@@ -225,7 +226,6 @@
     "Oposiciones TAI/Tema 19. Arquitectura Java EE y plataforma .NET.md",
     "Oposiciones TAI/Tema 18. Diseño y programación orientada a objetos.md",
     "Oposiciones TAI/Flashcards/Flashcards - Tema 20.md",
-    "Oposiciones TAI/Tema 00. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
     "Oposiciones TAI/Flashcards/Flashcards - Tema 19.md",
     "Oposiciones TAI/Flashcards/Flashcards - Tema 18.md",

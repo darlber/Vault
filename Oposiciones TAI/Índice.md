@@ -3,6 +3,7 @@
 
 [Tema 0. Rango de ley y Jerarquía leyes](Tema%200.%20Rango%20de%20ley%20y%20Jerarquía%20leyes.md)
 ## [Tema 1. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey](Tema%201.%20La%20Constitución%20Española%20de%201978.%20Derechos%20y%20deberes%20fundamentales.%20Su%20garantía%20y%20suspensión.%20La%20Corona,%20funciones%20constitucionales%20del%20Rey.md)
+
 ## [Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado. El Tribunal Constitucional, composición y atribuciones. El Defensor del Pueblo](Tema%202.%20Las%20Cortes%20Generales,%20atribuciones%20del%20Congreso%20de%20los%20Diputados%20y%20del%20Senado..md)
 ## [Tema 3. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales](Tema%203.%20El%20Gobierno,%20composición,%20nombramiento%20y%20cese.%20Las%20funciones%20del%20Gobierno.%20Relaciones%20entre%20el%20Gobierno%20y%20las%20Cortes%20Generales.md) 
 ## [Tema 4. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación, derechos y deberes, formas de provisión de puestos, promoción interna y carrera profesional, situaciones administrativas, incompatibilidades y régimen sancionador. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. La Agenda 2030 y los Objetivos de Desarrollo Sostenible](Tema%204.%20El%20texto%20refundido%20del%20Estatuto%20Básico%20del%20Empleo%20Público%20y%20demás%20normativa%20de%20aplicación.md)
@@ -14,6 +15,7 @@
 ## [Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas: sedes electrónicas, canales y puntos de acceso, identificación y autenticación. Infraestructuras y servicios comunes en materia de administración electrónica](Tema%209.%20Instrumentos%20para%20el%20acceso%20electrónico%20a%20las%20Administraciones%20públicas.md)
 
 # II. Tecnología básica 
+
 ## [Tema 10. Informática básica. Representación y comunicación de la información: elementos constitutivos de un sistema de información. Características y funciones. Arquitectura de ordenadores. Componentes internos de los equipos microinformáticos](Tema%2010.%20Informática%20básica.md)
 ## [Tema 11. Periféricos: conectividad y administración. Elementos de impresión. Elementos de almacenamiento. Elementos de visualización y digitalización](Tema%2011.%20Periféricos.md)
 ## [Tema 12. Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros](Tema%2012.%20Tipos%20abstractos%20y%20Estructuras%20de%20datos.md)
@@ -41,4 +43,5 @@
 ## Tema 30. El modelo TCP/IP y el modelo de referencia de interconexión de sistemas abiertos (OSI) de ISO. Protocolos TCP/IP
 ## Tema 31. Internet: arquitectura de red. Origen, evolución y estado actual. Principales servicios. Protocolos HTTP, HTTPS y SSL/TLS
 ## Tema 32. Seguridad y protección en redes de comunicaciones. Seguridad perimetral. Acceso remoto seguro a redes. Redes privadas virtuales (VPN). Seguridad en el puesto del usuario
+
 ## Tema 33. Redes locales. Tipología. Técnicas de transmisión. Métodos de acceso. Dispositivos de interconexión
