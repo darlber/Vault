@@ -17,26 +17,49 @@
 
 ## Ejercicio 2 - Routers
 
+### Caso real analizado en Shodan: `212.227.144.67`
+
+| Campo                             | Valor                                                         |
+| --------------------------------- | ------------------------------------------------------------- |
+| **IP**                            | `212.227.144.67`                                              |
+| **Hostnames**                     | `cain-dev.es`, `ip212-227-144-67.pbiaas.com`                  |
+| **País / Ciudad**                 | España, Madrid                                                |
+| **Organización**                  | IONOS SE (AS8560)                                             |
+| **Tag Shodan**                    | **`eol-product`** — producto con fin de vida útil             |
+| **Puertos abiertos**              | 22 (SSH), 443 (HTTPS), 8888 (HTTP)                            |
+| **Servicios detectados**          | OpenSSH 9.6p1, nginx 1.28.0, Apache httpd 2.4.66 + phpMyAdmin |
+| **Vulnerabilidades (InternetDB)** | 22 CVEs detectadas                                            |
+| **Último visto**                  | 2026-06-11                                                    |
+
+### Información pública que aparece en Shodan para routers/equipos de red
+
+- **IP pública** del equipo
+- **Marca y modelo** (TP-Link, D-Link, Linksys, MikroTik, ASUS, Cisco, etc.)
+- **Versión de firmware / SO**
+- **Puertos abiertos**: 80 (HTTP admin), 443 (HTTPS), 22 (SSH), 23 (Telnet), 8291 (Winbox - MikroTik)
+- **ISP** que provee la conexión
+- **Ubicación geográfica** (país, ciudad, coordenadas)
+- **Nombre de host** (si está configurado)
+- **Título de la página de login**
+- **Certificado SSL** (si aplica)
+- **Tag de Shodan** (ej. `eol-product` para productos obsoletos)
+
+### Ejemplos de búsqueda en Shodan
 
 ```
 country:ES router
 http.title:"Router" country:ES
 "TP-Link" country:ES
-"d-link" country:ES
 "MikroTik" country:ES
-"ASUS" country:ES
+"eol-product" country:ES
 ```
 
-### Información pública que aparece
-
-- **IP pública** del router
-- **Marca y modelo** (TP-Link, D-Link, Linksys, MikroTik, ASUS, etc.)
-- **Versión de firmware**
-- **Puertos abiertos**: 80 (HTTP admin), 443 (HTTPS), 22 (SSH), 23 (Telnet), 8291 (Winbox - MikroTik)
-- **ISP** que provee la conexión
-- **Ubicación geográfica**
-- **Nombre de host** (si está configurado)
-- **Título de la página de login**
+**Datos reales de la API (junio 2026):**
+- Routers MikroTik expuestos en España: **43.968**
+- Puertos 80 (HTTP admin) globalmente: **52.407.218**
+- Puertos 443 (HTTPS admin) globalmente: **48.820.502**
+- Puertos 23 (Telnet) expuestos en España: **7.033**
+- Puertos 22 (SSH) expuestos globalmente: **17.784.953**
 
 ### Riesgo de mantener credenciales por defecto
 
@@ -63,6 +86,8 @@ http.title:"Router" country:ES
 5. **Ejemplos reales**:
    - **Mirai botnet** (2016): Infectó cientos de miles de routers y dispositivos IoT usando credenciales por defecto
    - **VPNFilter malware**: Afectó a routers Linksys, MikroTik, Netgear, TP-Link, entre otros
+
+6. **Caso concreto analizado**: El host `212.227.144.67` tiene marcado con tag `eol-product` y expone phpMyAdmin sin protección adicional en puerto 8888, con 22 CVEs detectadas (varias de 2026), lo que demuestra la peligrosidad de mantener servicios con software desactualizado o configuraciones por defecto accesibles desde Internet.
 
 ---
 
