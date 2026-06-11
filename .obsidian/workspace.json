@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT.md",
+                "file": "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "OSINT"
+              "title": "Tema 16. Lenguajes de programación"
             }
           }
         ]
@@ -133,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tema 16. Lenguajes de programación"
             }
           },
           {
@@ -208,8 +209,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "74e6a2710cd0eafa",
+  "active": "447c60c6f620624e",
   "lastOpenFiles": [
+    "Oposiciones TAI/Flashcards - Tema 17.md",
+    "Oposiciones TAI/Tema 17. Lenguajes de interrogación de bases de datos. Estándar ANSI SQL. Procedimientos almacenados. Eventos y disparadores.md",
     "OSINT.md",
     "Ejercicios_Shodan.md",
     "attachments/{7A539DF8-52DA-4DEC-B0A5-AA97E8742690}.png",
@@ -254,7 +257,6 @@
     "Oposiciones TAI/Flashcards - Tema 4.md",
     "Oposiciones TAI/Tema 6. La sociedad de la información. Identidad y firma electrónica, régimen jurídico. El DNI electrónico. La Agenda Digital para España.md",
     "Oposiciones TAI/Flashcards - Tema 2.md",
-    "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
