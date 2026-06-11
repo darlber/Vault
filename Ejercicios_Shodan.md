@@ -168,30 +168,16 @@ Server: lighttpd/1.4.55
 Server: Express
 X-Powered-By: Express
 ```
-
-#### 2. Otras pistas en cabeceras
-
-```http
-# Apache - suele incluir módulos
-Server: Apache/2.4.51 (Unix) PHP/7.4.26
-X-Powered-By: PHP/7.4.26
-
-# IIS - cabeceras específicas
-X-AspNet-Version: 4.0.30319
-X-Powered-By: ASP.NET
-
-# Nginx - cabeceras más limpias (no revela tanto)
-Server: nginx
-```
-
-#### 3. Páginas de error personalizadas
+![](attachments/{4EBFB70E-B188-47DB-8054-165B97462FB7}.png)
+![](attachments/{D354030E-6339-4287-BC26-F3B4050768FF}.png)
+#### 2. Páginas de error personalizadas
 
 - **Apache 404**: Página con "Apache/2.4.41 (Ubuntu) Server at example.com Port 80"
 - **IIS 404**: "Internet Information Services 10.0" con icono característico
 - **Nginx 404**: Página simple "nginx/1.18.0"
 - **Tomcat 404**: Apache Tomcat/9.0.53
 
-#### 4. Comandos para identificar
+#### 3. Comandos para identificar versiones
 
 ```bash
 # Ver cabeceras HTTP
@@ -202,28 +188,17 @@ curl -v https://ejemplo.com 2>&1 | grep -i "< Server\|< X-Powered\|< X-AspNet"
 
 # Navegador: F12 → Network → Response Headers → "Server"
 ```
-
-#### 5. Herramientas especializadas
+![](attachments/{2F0D3DE8-8AD9-42F4-A183-D6E9B23C3705}.png)
+#### 4. Herramientas especializadas
 
 `WhatWeb, Wappalyzer, BuiltWith,` o `whatruns.net`
+
 ![](attachments/{4ED22475-EF29-483D-AE5E-98090355ADB7}.png)
-#### Resumen de pistas por servidor
-
-| Servidor | Cabecera Server | Otras pistas | Página error 404 |
-|----------|-----------------|-------------|------------------|
-| **Apache** | `Apache/X.X.XX` | `X-Powered-By: PHP` | Pie con versión Apache |
-| **Nginx** | `nginx/X.XX.X` | Mínimas cabeceras | Simple, sin iconos |
-| **IIS** | `Microsoft-IIS/X.X` | `X-AspNet-Version`, `X-Powered-By: ASP.NET` | Icono IIS, ASP.NET |
-| **Tomcat** | `Apache-Coyote/X.X` | `X-Powered-By: Servlet` | Página Tomcat |
-| **lighttpd** | `lighttpd/X.XX` | Mínimas | Simple |
-
----
-
 ## Ejercicio 7 - SSL y TLS
 
 ### Cómo localizar puertos con SSL/TLS
 
-En Shodan, los servicios SSL/TLS se pueden buscar con:
+Se identifican buscando servicios en puertos típicos cifrados como 443 (HTTPS), 8443, 993 (IMAPS), 465 (SMTPS) o mediante escaneo de certificados.
 
 ```
 # Todos los servicios HTTPS
@@ -250,6 +225,8 @@ ssl:true
 "EXPORT" ssl:true
 ```
 
+![](attachments/{267A7CA3-AD75-4F11-90A4-817D48A29BB3}.png)
+![](attachments/{A41347CA-7735-42B5-AA47-D952F3777A3A}.png)
 Además de HTTPS (443), otros servicios con SSL/TLS:
 
 | Puerto | Servicio |
