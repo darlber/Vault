@@ -14,111 +14,45 @@
 | **Autenticación**      | Puerto 8003: `401 Unauthorized` con realm `"Wireless Network Camera"` (Basic auth) |
 | **Última vez visto**   | 2026-05-31                                                                         |
 ![](attachments/{344CFD7C-8E54-4096-91F2-BEE874385235}%201.png)
-
 ## Ejercicio 2 - Routers
 
-### Datos reales de routers expuestos desde la API de Shodan (junio 2026)
+> `product:"router" country:ES`
 
-| Búsqueda                                         | Resultados en España    |
-| ------------------------------------------------ | ----------------------- |
-| `"MikroTik" country:ES` (routers MikroTik)       | **43.968** dispositivos |
-| `"MikroTik RouterOS" country:ES`                 | **8.848**               |
-| `port:8291 country:ES` (Winbox - admin MikroTik) | **29.266**              |
-| `"D-Link" country:ES`                            | **859**                 |
-| `"TP-Link" country:ES`                           | **11**                  |
-| `"Cisco" router country:ES`                      | **190**                 |
-| `port:23 country:ES` (Telnet expuesto)           | **7.033**               |
+**IP :** `185.131.186.234` | **País:** España (San Vicente de Alcántara, Badajoz)
 
-Un router MikroTik expuesto en Shodan muestra información como:
-- **IP pública** y **geolocalización**
-- **Puertos abiertos**: 8291 (Winbox), 22 (SSH), 23 (Telnet), 80/443 (WebFig)
-- **Versión de RouterOS / firmware**
-- **ISP** y **organización**
-- **Nombre de host** y **título de la página de login**
-- **Tag de Shodan** (ej. `eol-product` para productos obsoletos)
+| Campo                 | Valor                                                    |
+| --------------------- | -------------------------------------------------------- |
+| **Hostname**          | `router.asus.com`                                        |
+| **Modelo**            | **ASUS Wireless Router RT-AC1200G+**                     |
+| **Sistema operativo** | **ASUSWRT**                                              |
+| **ISP/Organización**  | AVATEL TELECOM, SA / WIFI Y FIBRA CONECTA 2 (AS200845)   |
+| **Puertos abiertos**  | **1723** (PPTP VPN) + **8443** (HTTPS admin)             |
+| **Servidor web**      | `httpd/2.0`                                              |
+| **Tags Shodan**       | `self-signedvpn`                                         |
+| **Certificado SSL**   | **Autofirmado** (`CN=router.asus.com`), válido 2018-2028 |
+| **Último visto**      | 2026-06-11                                               |
+![](attachments/{3590612F-29A5-4806-80C2-FAC474D138A7}.png)
+### Información pública que puede aparecer en Shodan para routers y equipos de red
 
-### Información pública que aparece en Shodan para routers/equipos de red
-
-- **IP pública** del equipo
-- **Marca y modelo** (TP-Link, D-Link, Linksys, MikroTik, ASUS, Cisco, etc.)
-- **Versión de firmware / SO**
-- **Puertos abiertos**: 80 (HTTP admin), 443 (HTTPS), 22 (SSH), 23 (Telnet), 8291 (Winbox - MikroTik)
-- **ISP** que provee la conexión
-- **Ubicación geográfica** (país, ciudad, coordenadas)
-- **Nombre de host** (si está configurado)
-- **Título de la página de login**
-- **Certificado SSL** (si aplica)
-- **Tag de Shodan** (ej. `eol-product` para productos obsoletos)
-
-### Ejemplos de búsqueda en Shodan
-
-```
-country:ES router
-http.title:"Router" country:ES
-"TP-Link" country:ES
-"MikroTik" country:ES
-port:8291 country:ES
-```
-
+* **Dirección IP pública** del dispositivo
+* **Marca, modelo y tipo de dispositivo** (ej. router ASUS RT-AC1200G+)
+* **Sistema operativo o firmware detectado** (ej. ASUSWRT)
+* **Puertos y servicios expuestos** (ej. 1723/PPTP, 8443/HTTPS, 22/SSH, 23/Telnet, 8291/Winbox)
+* **Banners y cabeceras de respuesta** del servicio (HTTP, SSH, VPN, etc.)
+* **Proveedor de Internet (ISP), organización y ASN**
+* **Ubicación aproximada** (país y ciudad)
+* **Hostname y dominios asociados**
+* **Tecnologías detectadas** (servidor web, software, protocolos)
+* **Información del certificado TLS/SSL** (emisor, fechas de validez, CN, SAN, tipo de cifrado)
+* **Fecha del último escaneo** (*Last Seen*)
+* **Etiquetas generadas por Shodan** (ej. `self-signedvpn`, `eol-product`, `honeypot`)
 ### Riesgo de mantener credenciales por defecto
 
-**¿Por qué es un riesgo?**
-
-1. **Credenciales predecibles**: La mayoría de los fabricantes usan combinaciones conocidas:
-   - `admin` / `admin`
-   - `admin` / `password`
-   - `admin` / `1234`
-   - `root` / `root`
-
-2. **Bases de datos públicas**: Existen listas públicas con todas las credenciales por defecto de cada fabricante y modelo (routerpasswords.com, CIRT.net, etc.).
-
-3. **Escaneo automatizado**: Los atacantes usan Shodan para encontrar routers expuestos y luego automatizan ataques de fuerza bruta con las credenciales por defecto.
-
-4. **Consecuencias**:
-   - Secuestro del router (DNS hijacking)
-   - Redirigir tráfico a sitios maliciosos
-   - Robo de credenciales bancarias
-   - Incorporación a botnets (Mirai, etc.)
-   - Acceso a la red interna
-   - Modificación de configuraciones de red
-
-5. **Ejemplos reales**:
-   - **Mirai botnet** (2016): Infectó cientos de miles de routers y dispositivos IoT usando credenciales por defecto
-   - **VPNFilter malware**: Afectó a routers Linksys, MikroTik, Netgear, TP-Link, entre otros
-
-6. **Ejemplo real: MikroTik routers en España** — Con **43.968** dispositivos detectados y **29.266** con el puerto Winbox (8291) expuesto directamente a Internet, estos routers son un objetivo perfecto para escaneo automatizado. Si además mantienen credenciales por defecto o versiones de RouterOS sin parchear, un atacante puede tomar el control completo del dispositivo y la red local.
-
----
+Las credenciales por defecto son combinaciones públicas y predecibles que pueden probarse automáticamente sobre dispositivos expuestos y localizados mediante buscadores como Shodan; si el acceso tiene éxito, un atacante puede tomar el control del equipo para modificar la configuración, alterar servidores DNS, redirigir tráfico o acceder a la red interna, lo que podría permitir la interceptación de comunicaciones, el robo indirecto de credenciales y el compromiso de otros dispositivos conectados.
 
 ## Ejercicio 3 - Sistemas obsoletos / sin soporte
 
-### Búsquedas en Shodan — Datos reales de la API (junio 2026)
-
-| Búsqueda | Resultados globales | Resultados España |
-|----------|-------------------|-------------------|
-| `os:Windows XP` | **2.099** sistemas | **38** sistemas |
-| `os:Windows 2000` | **175** sistemas | — |
-| `"Microsoft-IIS/6.0"` (IIS 6.0, lanzado en 2003 con Win2003) | **50.699** servidores | — |
-| `vuln:CVE-2020-0796` (SMBGhost, crítico SMBv3) | **211.794** sistemas sin parche | — |
-| `vuln:CVE-2014-0160` (Heartbleed, OpenSSL) | **76.197** sistemas vulnerables | — |
-| Windows 2003 | ~500.000 (estimación previa) | — |
-
-**Nota:** Los resultados de `os:` dependen de que el dispositivo revele su SO en el banner. Muchos sistemas no lo hacen, por lo que las cifras reales de dispositivos obsoletos podrían ser mayores.
-
-### Datos reales de ICS/SCADA desde la API de Shodan
-
-| Búsqueda | Resultado |
-|----------|-----------|
-| `port:502 country:ES` (Modbus España) | **2.957** dispositivos |
-| `port:502 modbus` (Modbus global) | 301.384 |
-| `port:102 country:ES` (Siemens S7 España) | 1 |
-| `port:102` (Siemens S7 global) | 361.830 |
-| `port:47808 country:ES` (BACnet España) | 217 |
-| `"Schneider Electric" PLC` global | 60 |
-| `port:44818` (EtherNet/IP Rockwell) | No consultado |
-| `tag:ics` (todos los ICS) | Premium |
-
-### Filtros usados en Shodan
+> `os:"Windows XP" OR os:"Windows Server 2003" OR os:"Windows Server 2008" OR "Ubuntu 12.04" OR "Debian 7" OR "CentOS 6" OR "end of life" OR "EOL"`
 
 1. **Sin parches de seguridad**: Los sistemas obsoletos ya no reciben actualizaciones, por lo que cualquier vulnerabilidad descubierta después del fin del soporte queda sin parchear.
 
