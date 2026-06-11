@@ -86,30 +86,32 @@ Los sistemas operativos sin soporte (EOL) no reciben actualizaciones de segurida
 | 10  | **¿A qué fallo corresponde?**                      | **SMBGhost** — RCE crítica en SMBv3 de Windows (Windows 10 y Server 2019). Permite ejecución remota de código sin autenticación |
 ## Ejercicio 5 - Sistemas industriales
 
-### Consulta usada en Google
+### Consulta usada en Google 
 
 ```
-site:shodan.io "PLC" OR "SCADA" OR "Modbus" OR "HMI" industrial control systems exposed
-shodan search filters industrial control systems 2026
-"programmable logic controller" internet exposed shodan
+intitle:SCADA login
+inurl:"/hmi"
+intitle:"Siemens" "login"
 ```
 
-### Filtros usados en Shodan
+```
+intitle:SCADA login
+```
+![](attachments/{77B24635-5703-4E79-8AEA-98EBE410377E}.png)
+
+### Filtros usados en Shodan [^1]
 
 ```
-# Modbus (protocolo industrial más común)
+# Modbus 
 port:502 "Modbus"
 
 # Siemens S7 PLCs
 port:102 "Siemens" "S7"
 
-# BACnet (automatización edificios)
+# BACnet
 port:47808 "BACnet"
 
-# EtherNet/IP (Rockwell Automation)
-port:44818
-
-# Tag genérico ICS de Shodan
+# Tag genérico ICS de Shodan (solo si tienes cuenta Enterprise)
 tag:ics
 
 # Sistemas SCADA específicos
@@ -118,41 +120,29 @@ tag:ics
 "Rockwell Automation"
 "ABB"
 ```
+![](attachments/{3DA59EC5-4AF3-45BC-BD3E-5749EE9587F0}.png)
+![](attachments/{A809AA9A-19FA-4BBF-B552-B32B532BF0D7}.png)
+![](attachments/{6FCB429B-065D-4044-8B2F-BF4947BAE405}.png)
+![](attachments/{0E770A39-1DA0-4FE2-AF0C-24B06879BAC7}.png)
+### Información obtenible sin interactuar
 
-### Información pública obtenible (sin interactuar)
+**IP analizada:** `149.12.67.203` — San Sebastián de los Reyes (Madrid) — Tag Shodan: `ics`
 
-1. **Dirección IP** y ubicación geográfica
-2. **Fabricante y modelo** del PLC/HMI/RTU
-3. **Versión de firmware**
-4. **Nombre del proyecto o planta** (a veces aparece en banners)
-5. **Puertos abiertos** y protocolos industriales detectados
-6. **Número de serie** del dispositivo
-7. **Estado operativo** (RUN/STOP en algunos PLCs Siemens)
-8. **Tipo de dispositivo** (PLC, RTU, HMI, gateway)
-9. **Red a la que pertenece** (nombre de organización)
-
+| #   | Información pública obtenida            | Dato real del dispositivo                                                                                    |
+| --- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1   | **Dirección IP** y ubicación geográfica | `149.12.67.203` — San Sebastián de los Reyes, Madrid, España                                                 |
+| 2   | **Fabricante y modelo**                 | **Schneider Electric PM710 PowerMeter** (medidor de potencia eléctrica)                                      |
+| 3   | **Versión de firmware**                 | `MODBUS-001 01.00`                                                                                           |
+| 4   | **Nombre del proyecto o planta**        | No visible en este caso                                                                                      |
+| 5   | **Puertos y protocolos industriales**   | **502** (Modbus), 21 (FTP), 22 (SSH), 80/443 (HTTP), 445 (SMB), 2222 (SSH), 5555 (Android Debug), 8080, etc. |
+| 6   | **Número de serie**                     | No visible directamente                                                                                      |
+| 7   | **Estado operativo**                    | **Unit IDs activos**: 0, 1 y 255 respondiendo en Modbus. `PM710PowerMeter` y `ModbusRTUDevice` detectados    |
+| 8   | **Tipo de dispositivo**                 | **PowerMeter** (medidor de energía eléctrica industrial)                                                     |
+| 9   | **Red / Organización**                  | Cogent Communications (AS174) — red de tránsitor internacional                                               |
+![](attachments/{CDB125BF-CB89-4B82-B6D8-29B2B6E907AE}.png)
 ### ¿Por qué requieren especial protección?
 
-1. **Críticos para infraestructuras**: Controlan procesos de plantas eléctricas, agua potable, refinerías, fábricas, transporte.
-
-2. **Diseñados sin seguridad**: Originalmente creados para redes aisladas (air-gapped), sin autenticación ni cifrado.
-
-3. **Protocolos inseguros**: Modbus, DNP3, etc. no tienen cifrado ni autenticación por diseño. Conectarse a un puerto Modbus 502 permite leer y escribir en registros sin credenciales.
-
-4. **Consecuencias de un ataque**:
-   - Parada de producción
-   - Daños físicos a equipos
-   - Vertidos químicos/ambientales
-   - Corte de suministro eléctrico
-   - Riesgo para vidas humanas
-
-5. **Ejemplos reales**:
-   - **Stuxnet** (2010): Atacó centrifugadoras nucleares iraníes vía PLCs Siemens S7
-   - **Ukraine power grid** (2015/2016): APT atacó SCADA dejando sin luz a cientos de miles
-   - **Colonial Pipeline** (2021): Aunque fue ransomware IT, el ICS se paró preventivamente
-   - **Oldsmar water treatment** (2021): Atacante intentó envenenar agua potable vía sistema de control remoto
-
-
+Controlan infraestructuras críticas como energía, agua, transporte o producción industrial, y fueron diseñados originalmente para entornos aislados sin medidas de seguridad modernas, lo que permitiría manipular procesos si se accede al puerto o interfaz expuesta; un compromiso de estos sistemas puede provocar paradas de servicio, daños físicos en equipos, impactos ambientales o incluso riesgos para la seguridad de las personas, como el ataque a Stuxnet o redes eléctricas en Ucrania.
 ## Ejercicio 6 - Identificación de software web
 
 ### Cómo identificar el software de servidor web
@@ -215,11 +205,8 @@ curl -v https://ejemplo.com 2>&1 | grep -i "< Server\|< X-Powered\|< X-AspNet"
 
 #### 5. Herramientas especializadas
 
-- **WhatWeb**: `whatweb ejemplo.com`
-- **Wappalyzer**: Extensión de navegador
-- **BuiltWith**: Análisis online de tecnologías web
-- **Netcraft**: whatruns.net
-
+`WhatWeb, Wappalyzer, BuiltWith,` o `whatruns.net`
+![](attachments/{4ED22475-EF29-483D-AE5E-98090355ADB7}.png)
 #### Resumen de pistas por servidor
 
 | Servidor | Cabecera Server | Otras pistas | Página error 404 |
@@ -344,3 +331,5 @@ ssl_ecdh_curve secp384r1;
 7. **Usar certificados con**: Clave RSA ≥ 2048 bits (o ECDSA ≥ 256 bits), algoritmo SHA-256 o superior, cadena de confianza completa.
 
 ---
+
+[^1]: https://github.com/Ilias1988/Hacking-Cheatsheets/blob/main/Shodan/README.md
