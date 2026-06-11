@@ -230,14 +230,14 @@ ssl.cipher:export
 ![](attachments/{34103A0B-D334-4D7B-BD42-C8432CA58535}.png)
 ### Cómo distinguir versiones inseguras
 
-| Versión     | Estado                        | Vulnerabilidades principales                |
-| ----------- | ----------------------------- | ------------------------------------------- |
-| **SSLv2**   | Prohibido[^3]                 | DROWN[^4], cifrado export débil             |
-| **SSLv3**   | Prohibido[^5]                 | POODLE[^6], CBC débil                       |
-| **TLS 1.0** | Deprecado[^7][^14]            | BEAST[^8], Lucky13[^9], POODLE-TLS[^6]     |
-| **TLS 1.1** | Deprecado[^7]                 | Debilidades en CBC                          |
-| **TLS 1.2** | Recomendado (mínimo actual)[^10] | Seguro si se usan cifrados AEAD          |
-| **TLS 1.3** | Estado del arte[^11]          | Seguro, elimina cifrados inseguros          |
+| Versión     | Estado                           | Vulnerabilidades principales           |
+| ----------- | -------------------------------- | -------------------------------------- |
+| **SSLv2**   | Prohibido[^3]                    | DROWN[^4], cifrado export débil        |
+| **SSLv3**   | Prohibido[^5]                    | POODLE[^6], CBC débil                  |
+| **TLS 1.0** | Deprecado[^7][^14]               | BEAST[^8], Lucky13[^9], POODLE-TLS[^6] |
+| **TLS 1.1** | Deprecado[^7]                    | Debilidades en CBC                     |
+| **TLS 1.2** | Recomendado (mínimo actual)[^10] | Seguro si se usan cifrados AEAD        |
+| **TLS 1.3** | Estado del arte[^11]             | Seguro, elimina cifrados inseguros     |
 
 ### Señales de cifrado débil
 
@@ -317,7 +317,7 @@ ssl_ecdh_curve secp384r1;
 
 [^11]: RFC 8446 - *The Transport Layer Security (TLS) Protocol Version 1.3*. IETF. https://datatracker.ietf.org/doc/html/rfc8446
 
-[^12]: OWASP. *Transport Layer Protection Cheat Sheet*. https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html
+[^12]: OWASP. *Transport Layer Security Cheat Sheet*. [https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Security_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Security_Cheat_Sheet.html)
 
 [^13]: Sweet32 (CVE-2016-2183). *Birthday attack on 64-bit block ciphers in TLS*. NVD. https://nvd.nist.gov/vuln/detail/CVE-2016-2183
 
