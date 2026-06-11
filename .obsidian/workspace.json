@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones TAI/Índice.md",
+                "file": "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Índice"
+              "title": "Tema 16. Lenguajes de programación"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones TAI/Índice.md",
+                "file": "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Índice"
+              "title": "Outline of Tema 16. Lenguajes de programación"
             }
           },
           {
@@ -211,8 +211,10 @@
   },
   "active": "447c60c6f620624e",
   "lastOpenFiles": [
-    "Oposiciones TAI/Tema 18. Diseño y programación orientada a objetos.md",
+    "Oposiciones TAI/Flashcards - Tema 19.md",
+    "Oposiciones TAI/Tema 19. Arquitectura Java EE y plataforma .NET.md",
     "Oposiciones TAI/Índice.md",
+    "Oposiciones TAI/Tema 18. Diseño y programación orientada a objetos.md",
     "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
     "Oposiciones TAI/Flashcards - Tema 18.md",
     "Oposiciones TAI/Flashcards - Tema 17.md",
@@ -255,8 +257,6 @@
     "Oposiciones TAI/Flashcards - Tema 7.md",
     "Oposiciones TAI/Flashcards - Tema 6.md",
     "Oposiciones TAI/Flashcards - Tema 3.md",
-    "Oposiciones TAI/Tema 7. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
-    "Oposiciones TAI/Flashcards - Tema 5.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
