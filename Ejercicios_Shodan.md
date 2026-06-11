@@ -1,6 +1,7 @@
 ## Ejercicio 1 - Dispositivos IoT
 
-> `country:ES camera, has_screenshot:true`
+>[!INFO] Query
+`country:ES camera, has_screenshot:true`
 
 | **IP**                 | `2.136.175.98`                                                                     |
 | ---------------------- | ---------------------------------------------------------------------------------- |
@@ -15,6 +16,7 @@
 ![](attachments/{344CFD7C-8E54-4096-91F2-BEE874385235}%201.png)
 ## Ejercicio 2 - Routers
 
+>[!INFO] Query
 > `product:"router" country:ES`
 
 **IP :** `185.131.186.234` | **País:** España (San Vicente de Alcántara, Badajoz)
@@ -66,25 +68,22 @@ Las credenciales por defecto son combinaciones públicas y predecibles que puede
 Los sistemas operativos sin soporte (EOL) no reciben actualizaciones de seguridad, lo que deja vulnerabilidades conocidas sin corregir y fácilmente explotables mediante ataques automatizados; además, suelen ser compatibles con protocolos antiguos y débiles, lo que facilita el acceso no autorizado, o la ejecución de código remoto, convirtiéndolos en objetivos especialmente vulnerables cuando están expuestos a Internet.
 ## Ejercicio 4 - Estado de exposición en España
 
-### Panel de exposición de Shodan para España (https://exposure.shodan.io/#/)
-
-Datos extraídos directamente del panel oficial (junio 2026):
+>[!INFO] Query
+> `camera country:ES`
+> `"SSLv2"`
 
 | #   | Pregunta                                           | Respuesta                                                                                                                       |
 | --- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **¿Cuántos puertos abiertos hay en España?**       | **5.194.722**                                                                                                                   |
 | 2   | **¿Cuál es el puerto más usado?**                  | **Puerto 161** (652.731 en total)                                                                                               |
 | 3   | **¿A qué servicio corresponde?**                   | **SNMP** — monitorización de red.                                                                                               |
-| 4   | **¿Cuántas webcams están expuestas?**              | El panel no lo muestra. Vía API Shodan: **57.439** en España                                                                    |
+| 4   | **¿Cuántas webcams están expuestas?**              | 57.439 en España                                                                                                                |
 | 5   | **¿Cuántos sistemas de control industrial (ICS)?** | **4.868**                                                                                                                       |
-| 6   | **¿Cuántos servicios con SSLv2/obsoletos?**        | El panel no lo muestra. Vía API Shodan: **31** servicios SSLv2 globalmente                                                      |
+| 6   | **¿Cuántos servicios con SSLv2/obsoletos?**        | 80 servicios SSLv2 globalmente. 0 si buscamos como `country:ES`                                                                 |
 | 7   | **¿Qué % de servidores SMB sin autenticación?**    | **14,5%** (1.085 de 7.462 tienen autenticación deshabilitada)                                                                   |
 | 8   | **¿Cuántas bases de datos comprometidas?**         | **91**                                                                                                                          |
 | 9   | **¿Cuál es la vulnerabilidad más detectada?**      | **CVE-2020-0796**                                                                                                               |
 | 10  | **¿A qué fallo corresponde?**                      | **SMBGhost** — RCE crítica en SMBv3 de Windows (Windows 10 y Server 2019). Permite ejecución remota de código sin autenticación |
-
-**Datos adicionales del panel:** Cisco IOS XE WebUI: **327** | BlueKeep (CVE-2019-0708): **265** sin parchear | Ivanti Pulse Secure: **1.376**
-
 ## Ejercicio 5 - Sistemas industriales
 
 ### Consulta usada en Google
