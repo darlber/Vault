@@ -1,6 +1,6 @@
 # TAI C1 (Turno Libre) — Preguntas Reales por Tema
 
-## TE MA 3: El Gobierno (CE arts. 97-107) — Composición, nombramiento, cese, funciones, relaciones con Cortes Generales
+## TEMA 3: El Gobierno (CE arts. 97-107) — Composición, nombramiento, cese, funciones, relaciones con Cortes Generales
 
 ### Grupo A: Composición del Gobierno
 

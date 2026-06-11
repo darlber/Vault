@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
+                "file": "Oposiciones TAI/Índice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 16. Lenguajes de programación"
+              "title": "Índice"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
+                "file": "Oposiciones TAI/Índice.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 16. Lenguajes de programación"
+              "title": "Outline of Índice"
             }
           },
           {
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,15 +209,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "447c60c6f620624e",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
-    "Oposiciones TAI/Flashcards - Tema 19.md",
-    "Oposiciones TAI/Tema 19. Arquitectura Java EE y plataforma .NET.md",
+    "Oposiciones TAI/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
     "Oposiciones TAI/Índice.md",
+    "Oposiciones TAI/Tema 23. Repositorios, control de versiones, metodologías y pruebas.md",
+    "Oposiciones TAI/Tema 22. Accesibilidad, diseño universal y usabilidad. Seguridad en el desarrollo de sistemas.md",
+    "Oposiciones TAI/Flashcards - Tema 23.md",
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 1.md",
+    "Oposiciones TAI/Flashcards",
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 22.md",
+    "Oposiciones TAI/Tema 20. Arquitectura de sistemas cliente-servidor y multicapas.md",
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 21.md",
+    "Oposiciones TAI/Tema 21. Aplicaciones web. Desarrollo web front-end y en servidor.md",
+    "Oposiciones TAI/Tema 19. Arquitectura Java EE y plataforma .NET.md",
     "Oposiciones TAI/Tema 18. Diseño y programación orientada a objetos.md",
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 20.md",
+    "Oposiciones TAI/Tema 00. Rango de ley y Jerarquía leyes.md",
     "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
-    "Oposiciones TAI/Flashcards - Tema 18.md",
-    "Oposiciones TAI/Flashcards - Tema 17.md",
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 19.md",
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 18.md",
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 17.md",
     "Oposiciones TAI/Tema 17. Lenguajes de interrogación de bases de datos. Estándar ANSI SQL. Procedimientos almacenados. Eventos y disparadores.md",
     "OSINT.md",
     "Ejercicios_Shodan.md",
@@ -244,19 +256,7 @@
     "sh_scripts/04_service_enum.sh",
     "sh_scripts/03_web_app_scan.sh",
     "sh_scripts/02_nmap_port_scan.sh",
-    "sh_scripts/01_dns_subdomain_enum.sh",
     "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
-    "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
-    "Oposiciones TAI/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
-    "Oposiciones Guitarra/Programación Didáctica.md",
-    "Oposiciones Guitarra/Tema 34. TIC.md",
-    "Oposiciones TAI/Flashcards - Tema 11.md",
-    "Oposiciones TAI/Flashcards - Tema 10.md",
-    "Oposiciones TAI/Flashcards - Tema 9.md",
-    "Oposiciones TAI/Flashcards - Tema 8.md",
-    "Oposiciones TAI/Flashcards - Tema 7.md",
-    "Oposiciones TAI/Flashcards - Tema 6.md",
-    "Oposiciones TAI/Flashcards - Tema 3.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
