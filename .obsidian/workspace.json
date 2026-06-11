@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "OSINT.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of OSINT"
             }
           },
           {
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -211,6 +211,7 @@
   },
   "active": "447c60c6f620624e",
   "lastOpenFiles": [
+    "Ejercicios_Shodan.md",
     "README.md",
     "OSINT.md",
     "attachments/{F9695896-56CD-46C5-ACDD-8FFCC32F2C0C}.png",

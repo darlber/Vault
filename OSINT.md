@@ -45,7 +45,6 @@
   - Twitter/X: https://x.com/RCSMM_oficial — Perfil oficial verificado (@RCSMM_oficial)
   - Instagram: https://www.instagram.com/conservatorio_superior_madrid — Perfil oficial
   - YouTube: https://www.youtube.com/channel/UCBGKPm5YfetqA73juM7jVBg — Canal oficial
-  - LinkedIn: No detectado
   - Facebook: https://www.facebook.com/RealConservatorioSuperiordeMusicadeMadrid/
 - Otros canales: Webmail (webmail.rcsmm.eu), Campus Virtual Moodle (moodle.rcsmm.eu), Gestor de Citas (rcsmm_citas.scncloud.com), Registro de Trabajos de Alumnos (rta.rcsmm.eu)
 - Correos electrónicos adicionales: `biblioteca@rcsmm.eu` — Biblioteca del centro
@@ -79,9 +78,11 @@
 - **Búsquedas realizadas sin resultados relevantes**: libreborme.com, infocif.es (organismo público, no sociedad mercantil)
 
 ### 3.3 Metadatos de documentos públicos
-- PDFs publicados en rcsmm.eu/sites/default/files/ contienen metadatos:
+- PDFs publicados en `rcsmm.eu/sites/default/files/` contienen metadatos verificables:
   - **Autor**: Patricia Arbolí (Secretaría del centro)
-  - **Software**: Probablemente Microsoft Office o similar (no se detectó herramienta específica)
+  - **Software**: Microsoft Word 2019 (Creator y Producer)
+  - **Fecha de creación**: 2023-07-13
+  - Fuente: `curl.exe -s -k "https://rcsmm.eu/sites/default/files/2023-11/23.pdf"` → extracción de metadatos vía cadena `/Author()`
 
 ## 4. Información técnica
 
