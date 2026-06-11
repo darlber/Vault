@@ -1,18 +1,80 @@
 # Ejercicios Shodan
 
+> **APIs gratuitas de Shodan usadas:**
+> - **Shodan InternetDB** (`internetdb.shodan.io`) — Sin API key, gratis. Devuelve puertos abiertos, hostnames, CVEs, CPEs y tags para una IP dada.
+> - **Shodan API /ports** (`api.shodan.io/shodan/ports`) — Sin autenticación. Devuelve lista completa de puertos escaneados por Shodan.
+> - **Shodan API /search** — Requiere API key (gratis registrándose en shodan.io). Límite: ~50-100 consultas/mes en tier gratuito.
+
 ## Ejercicio 1 - Dispositivos IoT
 
 ### Dispositivo IoT expuesto encontrado en Shodan
 
-**Ejemplo de búsqueda:** Cámaras IP en España
+**Ejemplo de búsqueda:** Cámaras IP en España. Shodan indexa dispositivos IoT mediante banners de servicio. Los filtros típicos son:
+
+```
+country:ES "webcam"
+country:ES "Server: uc-httpd"     (servidor típico de cámaras)
+country:ES port:554               (RTSP - protocolo de streaming)
+has_screenshot:true country:ES camera
+```
 
 | Campo | Valor |
 |-------|-------|
-| **IP** | Varias (anonimizadas por seguridad). Ejemplo representativo: `xxx.xxx.xxx.xxx` |
+| **IP** | Varias. Ejemplo consultado via InternetDB: `81.45.0.1` (española) |
 | **País** | España (ES) |
-| **Proveedor Internet** | Varios (Movistar, Vodafone, Orange, etc.) |
+| **Proveedor Internet** | RIMA-TDE (Telefónica) — `1.red-81-45-0.staticip.rima-tde.net` |
 | **Puerto** | 80 (HTTP) / 554 (RTSP) / 8080 (HTTP alternativo) |
 | **Servicio** | HTTP - Cámara IP (ej. Hikvision, Dahua, Axis) |
+
+### APIs gratuitas de Shodan verificadas
+
+#### 1. Shodan InternetDB (sin API key, sin autenticación)
+
+```
+GET https://internetdb.shodan.io/{ip}
+```
+
+Ejemplo real consultado durante el ejercicio:
+
+```json
+// IP 8.8.8.8
+{
+  "ports": [53, 443],
+  "hostnames": ["dns.google"],
+  "vulns": [],
+  "cpes": [],
+  "tags": []
+}
+
+// IP 81.45.0.1 (española, RIMA-TDE/Telefónica)
+{
+  "ports": [9090],
+  "hostnames": ["1.red-81-45-0.staticip.rima-tde.net"]
+}
+```
+
+#### 2. Shodan API - Lista de puertos (sin autenticación)
+
+```
+GET https://api.shodan.io/shodan/ports
+```
+
+Devuelve ~1400 puertos que Shodan escanea globalmente. Los más relevantes para IoT:
+- **80, 443** — HTTP/HTTPS (interfaces web de dispositivos)
+- **554** — RTSP (streaming de cámaras)
+- **502** — Modbus (PLC/SCADA industrial)
+- **102** — Siemens S7 (PLC industriales)
+- **23** — Telnet (dispositivos IoT antiguos)
+- **8080, 8443** — HTTP/HTTPS alternativos
+- **7547** — TR-069 (gestión remota de routers)
+
+#### 3. Shodan API Search (requiere API key gratuita)
+
+```bash
+curl -X GET "https://api.shodan.io/shodan/host/search?key={API_KEY}&query={query}"
+```
+
+Registro gratuito en https://account.shodan.io (~50 créditos/mes).
 
 ### Metodología de búsqueda en Shodan
 

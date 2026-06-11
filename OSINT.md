@@ -400,3 +400,65 @@ Además, la **exposición de datos personales** (listados públicos de profesora
 | **CVE-2015-6836**  | PHP 5.6.x < 5.6.13 | **9.8** | Type confusion en `SoapClient`. RCE vía serialización.        |
 | **CVE-2024-55638** | Drupal 8.9.6–9.4.9 | **9.8** | Cadena de gadgets (PHPGGC). RCE si `unserialize()` expuesto.  |
 | **CVE-2025-31674** | Drupal 9.x         | 7.5     | Object Injection. Requiere autenticación.                     |
+
+## 9. Listado de capturas recomendadas
+
+Para respaldar visualmente la información del informe, se recomienda incluir las siguientes capturas de pantalla:
+
+### §2 Información del objetivo
+| # | Captura | Propósito |
+|---|---------|-----------|
+| 1 | Resultados de Google dorking: `site:rcsmm.eu filetype:pdf` | Mostrar PDFs públicos indexados |
+| 2 | Wikipedia: Madrid Royal Conservatory | Fuente histórica del centro |
+| 3 | Titular El Mundo (26/11/2025) — protesta Santa Cecilia | Caso de acoso: contexto mediático |
+| 4 | Titular El Mundo (10/12/2025) — carta alumnos Consejería | Caso de acoso: evolución |
+| 5 | Perfil de Twitter/X @RCSMM_oficial | Verificación de presencia en redes |
+| 6 | Perfil de Instagram @conservatorio_superior_madrid | Verificación de presencia en redes |
+| 7 | Canal de YouTube del RCSMM | Verificación de presencia en redes |
+| 8 | Página de Facebook oficial | Verificación de presencia en redes |
+
+### §3 Información administrativa
+| # | Captura | Propósito |
+|---|---------|-----------|
+| 9 | Página `/aviso-legal` con NIF Q2868055A | Datos fiscales |
+| 10 | Página `/politica-privacidad` | Cumplimiento legal |
+| 11 | Página `/preguntas-frecuentes` con tabla de precios | Datos económicos (12.985 €/curso) |
+| 12 | Página `/portal-transparencia` mostrando "En construcción" | Ausencia de transparencia |
+| 13 | Terminal con `Select-String` extrayendo `/Author(Patricia Arbolí)` del PDF | Metadatos de documentos |
+
+### §4 Información técnica
+| # | Captura | Propósito |
+|---|---------|-----------|
+| 14 | Terminal: `Resolve-DnsName rcsmm.eu -Type A,NS,SOA` | IP principal y nameservers |
+| 15 | Terminal: `Resolve-DnsName` para moodle, intranet, webmail, ftp | IPs de subdominios |
+| 16 | Terminal: `Resolve-DnsName` PTR para `62.97.84.197` → `arvy.futurvia.net` | Hostname real del servidor web |
+| 17 | Terminal: `Resolve-DnsName` PTR para `213.172.39.24` → `orfeo.servytec.es` | Hostname real del servidor interno |
+| 18 | crt.sh mostrando subdominios de `%.rcsmm.eu` | Subdominios por CT logs |
+| 19 | Censys / Shodan: panel SNPanel en `213.172.39.24:12000` | Panel de gestión expuesto |
+| 20 | Terminal: `curl -sI https://rcsmm.eu` — cabecera `X-Generator: Drupal 9` | CMS y versión |
+| 21 | Terminal: `curl -sI https://moodle.rcsmm.eu/login/index.php` — `X-Powered-By: PHP/5.6.38-0+deb8u1` | Versión PHP y SO |
+| 22 | Terminal: `curl -s https://rcsmm.eu/robots.txt` | Archivo robots.txt completo |
+| 23 | Terminal: `curl -sI https://rcsmm.eu/user/register` — respuesta 403 | Registro cerrado |
+
+### §5 Información corporativa
+| # | Captura | Propósito |
+|---|---------|-----------|
+| 24 | Página `/equipo-directivo` con organigrama | Directivos del centro |
+| 25 | Página `/departamento-cuerda` con listado de profesores | Personal identificable |
+| 26 | WebUntis público `rcsmm.webuntis.com` con horarios | Exposición de datos personales |
+
+### §6 Otra información
+| # | Captura | Propósito |
+|---|---------|-----------|
+| 27 | Terminal: `Resolve-DnsName rcsmm.eu -Type MX,TXT` | Registros MX y TXT |
+| 28 | Terminal: `Resolve-DnsName _dmarc.rcsmm.eu -Type TXT` | Política DMARC |
+| 29 | Terminal: `Resolve-DnsName rcsmm.es -Type TXT` | SPF de Outlook y MS verify |
+| 30 | Terminal: extracción de emails con `Select-String` del HTML | Emails corporativos |
+| 31 | Página `/informacion` mostrando `biblioteca@rcsmm.eu` | Email de biblioteca |
+| 32 | Cabeceras HTTP completas de rcsmm.eu y moodle.rcsmm.eu | HSTS, X-Frame-Options, etc. |
+
+### Notas para las capturas
+- Todas las capturas deben incluir la **URL completa** en la barra de direcciones o la **línea de comandos** ejecutada
+- Las capturas de terminal deben mostrar el **comando y su salida** para trazabilidad
+- Fecha de las capturas: coincidente con la fecha del informe
+- Si alguna fuente no está accesible en el momento de la captura, indicar "No accesible" en el pie de foto
