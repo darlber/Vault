@@ -14,12 +14,30 @@
               "type": "markdown",
               "state": {
                 "file": "Ejercicios_Shodan.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Ejercicios_Shodan"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7ac17a4f60fbb4c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dfb8de7963ede73",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/{7A539DF8-52DA-4DEC-B0A5-AA97E8742690}.png"
+              },
+              "icon": "lucide-image",
+              "title": "{7A539DF8-52DA-4DEC-B0A5-AA97E8742690}"
             }
           }
         ]
@@ -69,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.51103591918945,
-    "collapsed": true
+    "width": 292.51103591918945
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -213,20 +230,19 @@
   },
   "active": "447c60c6f620624e",
   "lastOpenFiles": [
-    "attachments/{34103A0B-D334-4D7B-BD42-C8432CA58535}.png",
-    "attachments/{A41347CA-7735-42B5-AA47-D952F3777A3A}.png",
-    "attachments/{267A7CA3-AD75-4F11-90A4-817D48A29BB3}.png",
-    "attachments/{2F0D3DE8-8AD9-42F4-A183-D6E9B23C3705}.png",
-    "attachments/{D354030E-6339-4287-BC26-F3B4050768FF}.png",
-    "attachments/{4EBFB70E-B188-47DB-8054-165B97462FB7}.png",
-    "attachments/{4ED22475-EF29-483D-AE5E-98090355ADB7}.png",
-    "attachments/{CDB125BF-CB89-4B82-B6D8-29B2B6E907AE}.png",
-    "attachments/{77B24635-5703-4E79-8AEA-98EBE410377E}.png",
-    "attachments/{0E770A39-1DA0-4FE2-AF0C-24B06879BAC7}.png",
+    "attachments/{7A539DF8-52DA-4DEC-B0A5-AA97E8742690}.png",
+    "Ejercicios_Shodan.md",
     "attachments/{6FCB429B-065D-4044-8B2F-BF4947BAE405}.png",
+    "attachments/{77B24635-5703-4E79-8AEA-98EBE410377E}.png",
+    "attachments/{267A7CA3-AD75-4F11-90A4-817D48A29BB3}.png",
+    "attachments/{344CFD7C-8E54-4096-91F2-BEE874385235}.png",
+    "attachments/{344CFD7C-8E54-4096-91F2-BEE874385235} 1.png",
+    "attachments/{34103A0B-D334-4D7B-BD42-C8432CA58535}.png",
+    "attachments/{3590612F-29A5-4806-80C2-FAC474D138A7}.png",
+    "attachments/{A809AA9A-19FA-4BBF-B552-B32B532BF0D7}.png",
+    "attachments/{A41347CA-7735-42B5-AA47-D952F3777A3A}.png",
     "attachments",
     "OSINT.md",
-    "Ejercicios_Shodan.md",
     "README.md",
     "Informe.md",
     "test.txt",

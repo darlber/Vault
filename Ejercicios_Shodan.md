@@ -52,16 +52,16 @@
 Las credenciales por defecto son combinaciones públicas y predecibles que pueden probarse automáticamente sobre dispositivos expuestos y localizados mediante buscadores como Shodan; si el acceso tiene éxito, un atacante puede tomar el control del equipo para modificar la configuración, alterar servidores DNS, redirigir tráfico o acceder a la red interna, lo que podría permitir la interceptación de comunicaciones, el robo indirecto de credenciales y el compromiso de otros dispositivos conectados.
 ## Ejercicio 3 - Sistemas obsoletos / sin soporte
 
-| Campo | Valor |
-|-------|-------|
-| **IP** | `88.151.17.230` |
-| **Sistema operativo** | **Windows XP SP2** (build 5.1.2600) |
-| **Tags Shodan** | **`eol-os`** (end-of-life OS), `database` |
-| **Puertos abiertos** | **80** (HTTP - "Administrative Quarantine") + **1433** (MS-SQL) |
-| **Base de datos** | **MS-SQL Server 2008 RTM** (v10.0.1600.0) |
-| **Organización** | **Gobierno del Principado de Asturias** (AS39353) |
-| **ISP** | Gobierno del Principado de Asturias |
-| **Último visto** | 2026-06-08 |
+| Campo                 | Valor                                                           |
+| --------------------- | --------------------------------------------------------------- |
+| **IP**                | `88.151.17.230`                                                 |
+| **Sistema operativo** | **Windows XP SP2** (build 5.1.2600)                             |
+| **Tags Shodan**       | **`eol-os`** (end-of-life OS), `database`                       |
+| **Puertos abiertos**  | **80** (HTTP - "Administrative Quarantine") + **1433** (MS-SQL) |
+| **Base de datos**     | **MS-SQL Server 2008 RTM** (v10.0.1600.0)                       |
+| **Organización**      | **Gobierno del Principado de Asturias** (AS39353)               |
+| **ISP**               | Gobierno del Principado de Asturias                             |
+| **Último visto**      | 2026-06-08                                                      |
 ![](attachments/{D1708E83-9E85-4A35-9266-87C13673A42C}.png)
 ### Problemas de seguridad
 
@@ -84,6 +84,7 @@ Los sistemas operativos sin soporte (EOL) no reciben actualizaciones de segurida
 | 8   | **¿Cuántas bases de datos comprometidas?**         | **91**                                                                                                                          |
 | 9   | **¿Cuál es la vulnerabilidad más detectada?**      | **CVE-2020-0796**                                                                                                               |
 | 10  | **¿A qué fallo corresponde?**                      | **SMBGhost** — RCE crítica en SMBv3 de Windows (Windows 10 y Server 2019). Permite ejecución remota de código sin autenticación |
+![](attachments/{7A539DF8-52DA-4DEC-B0A5-AA97E8742690}.png)
 ## Ejercicio 5 - Sistemas industriales
 
 ### Consulta usada en Google 
@@ -131,14 +132,13 @@ tag:ics
 | #   | Información pública obtenida            | Dato real del dispositivo                                                                                    |
 | --- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 1   | **Dirección IP** y ubicación geográfica | `149.12.67.203` — San Sebastián de los Reyes, Madrid, España                                                 |
-| 2   | **Fabricante y modelo**                 | **Schneider Electric PM710 PowerMeter** (medidor de potencia eléctrica)                                      |
+| 2   | **Fabricante y modelo**                 | **Schneider Electric PM710 PowerMeter**                                                                      |
 | 3   | **Versión de firmware**                 | `MODBUS-001 01.00`                                                                                           |
 | 4   | **Nombre del proyecto o planta**        | No visible en este caso                                                                                      |
 | 5   | **Puertos y protocolos industriales**   | **502** (Modbus), 21 (FTP), 22 (SSH), 80/443 (HTTP), 445 (SMB), 2222 (SSH), 5555 (Android Debug), 8080, etc. |
-| 6   | **Número de serie**                     | No visible directamente                                                                                      |
-| 7   | **Estado operativo**                    | **Unit IDs activos**: 0, 1 y 255 respondiendo en Modbus. `PM710PowerMeter` y `ModbusRTUDevice` detectados    |
-| 8   | **Tipo de dispositivo**                 | **PowerMeter** (medidor de energía eléctrica industrial)                                                     |
-| 9   | **Red / Organización**                  | Cogent Communications (AS174) — red de tránsitor internacional                                               |
+| 6   | **Estado operativo**                    | **Unit IDs activos**: 0, 1 y 255 respondiendo en Modbus. `PM710PowerMeter` y `ModbusRTUDevice` detectados    |
+| 7   | **Tipo de dispositivo**                 | **PowerMeter**                                                                                               |
+| 8   | **Red / Organización**                  | Cogent Communications (AS174)                                                                                |
 ![](attachments/{CDB125BF-CB89-4B82-B6D8-29B2B6E907AE}.png)
 ### ¿Por qué requieren especial protección?
 
