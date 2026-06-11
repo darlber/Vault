@@ -232,30 +232,30 @@ ssl.cipher:export
 
 | Versión     | Estado                        | Vulnerabilidades principales                |
 | ----------- | ----------------------------- | ------------------------------------------- |
-| **SSLv2**   | Prohibido (RFC 6176)          | DROWN (CVE-2016-0800), cifrado export débil |
-| **SSLv3**   | Prohibido (RFC 7568)          | POODLE (CVE-2014-3566), CBC débil           |
-| **TLS 1.0** | Deprecado (PCI-DSS, RFC 8996) | BEAST, Lucky13, POODLE-TLS                  |
-| **TLS 1.1** | Deprecado (RFC 8996)          | Debilidades en CBC                          |
-| **TLS 1.2** | Recomendado (mínimo actual)   | Seguro si se usan cifrados AEAD             |
-| **TLS 1.3** | Estado del arte               | Seguro, elimina cifrados inseguros          |
+| **SSLv2**   | Prohibido[^3]                 | DROWN[^4], cifrado export débil             |
+| **SSLv3**   | Prohibido[^5]                 | POODLE[^6], CBC débil                       |
+| **TLS 1.0** | Deprecado[^7][^14]            | BEAST[^8], Lucky13[^9], POODLE-TLS[^6]     |
+| **TLS 1.1** | Deprecado[^7]                 | Debilidades en CBC                          |
+| **TLS 1.2** | Recomendado (mínimo actual)[^10] | Seguro si se usan cifrados AEAD          |
+| **TLS 1.3** | Estado del arte[^11]          | Seguro, elimina cifrados inseguros          |
 
 ### Señales de cifrado débil
 
-1. **Cifrados NULL**: No cifran la comunicación (`TLS_NULL_WITH_NULL_NULL`)
+1. **Cifrados NULL**:[^12] No cifran la comunicación (`TLS_NULL_WITH_NULL_NULL`)
 
-2. **Cifrados EXPORT**: Debilitados intencionadamente para cumplir regulaciones históricas de EE.UU. (clave RSA de 512 bits o menos)
+2. **Cifrados EXPORT**:[^12] Debilitados intencionadamente para cumplir regulaciones históricas de EE.UU. (clave RSA de 512 bits o menos)
 
-3. **Cifrados RC4**: Completamente roto, permite descifrado estadístico del tráfico
+3. **Cifrados RC4**:[^12] Completamente roto, permite descifrado estadístico del tráfico
 
-4. **Cifrados DES/3DES**: DES tiene clave de 56 bits (brute-forzable); 3DES es lento y vulnerable a Sweet32
+4. **Cifrados DES/3DES**:[^12] DES tiene clave de 56 bits (brute-forzable); 3DES es lento y vulnerable a Sweet32[^13]
 
-5. **Cifrados CBC sin protección**: Vulnerables a BEAST, Lucky13, POODLE
+5. **Cifrados CBC sin protección**:[^12] Vulnerables a BEAST[^8], Lucky13[^9], POODLE[^6]
 
-6. **Intercambio de claves RSA sin Forward Secrecy**: Si la clave privada se compromete, todo el tráfico grabado puede descifrarse
+6. **Intercambio de claves RSA sin Forward Secrecy**:[^12] Si la clave privada se compromete, todo el tráfico grabado puede descifrarse
 
-7. **Certificados con SHA-1**: Algoritmo de hash debilitado, permite colisiones
+7. **Certificados con SHA-1**:[^12] Algoritmo de hash debilitado, permite colisiones
 
-8. **Claves RSA < 2048 bits**: Insuficientes para seguridad moderna
+8. **Claves RSA < 2048 bits**:[^12] Insuficientes para seguridad moderna
 
 ### Recomendaciones de endurecimiento
 
@@ -292,7 +292,37 @@ ssl_ecdh_curve secp384r1;
 
 7. **Usar certificados con**: Clave RSA ≥ 2048 bits (o ECDSA ≥ 256 bits), algoritmo SHA-256 o superior, cadena de confianza completa.
 
+8. **Configuraciones de referencia**: Mozilla SSL Configuration Generator[^15], OWASP TLS Cheat Sheet[^12], guía CISA[^16].
 
-[^1]: https://github.com/Ilias1988/Hacking-Cheatsheets/blob/main/Shodan/README.md
 
-[^2]: https://www.cyberly.org/en/can-shodan-help-identify-devices-with-outdated-ssl-tls-configurations/index.html
+[^1]: Ilias1988. *Hacking Cheatsheets – Shodan*. GitHub. https://github.com/Ilias1988/Hacking-Cheatsheets/blob/main/Shodan/README.md
+
+[^2]: Cyberly. *Can Shodan Help Identify Devices with Outdated SSL/TLS Configurations?* https://www.cyberly.org/en/can-shodan-help-identify-devices-with-outdated-ssl-tls-configurations/index.html
+
+[^3]: RFC 6176 - *Prohibiting SSLv2*. IETF. https://datatracker.ietf.org/doc/html/rfc6176
+
+[^4]: DROWN (CVE-2016-0800). *Decrypting RSA with Obsolete and Weakened eNcryption*. NVD. https://nvd.nist.gov/vuln/detail/CVE-2016-0800
+
+[^5]: RFC 7568 - *Deprecating Secure Sockets Layer Version 3.0*. IETF. https://datatracker.ietf.org/doc/html/rfc7568
+
+[^6]: POODLE (CVE-2014-3566). *Padding Oracle On Downgraded Legacy Encryption*. NVD. https://nvd.nist.gov/vuln/detail/CVE-2014-3566
+
+[^7]: RFC 8996 - *Deprecating TLS 1.0 and TLS 1.1*. IETF. https://datatracker.ietf.org/doc/html/rfc8996
+
+[^8]: BEAST (CVE-2011-3389). *Browser Exploit Against SSL/TLS*. NVD. https://nvd.nist.gov/vuln/detail/CVE-2011-3389
+
+[^9]: Lucky13 (CVE-2013-0169). *Padding oracle attack on TLS-CBC*. NVD. https://nvd.nist.gov/vuln/detail/CVE-2013-0169
+
+[^10]: RFC 5246 - *The Transport Layer Security (TLS) Protocol Version 1.2*. IETF. https://datatracker.ietf.org/doc/html/rfc5246
+
+[^11]: RFC 8446 - *The Transport Layer Security (TLS) Protocol Version 1.3*. IETF. https://datatracker.ietf.org/doc/html/rfc8446
+
+[^12]: OWASP. *Transport Layer Protection Cheat Sheet*. https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html
+
+[^13]: Sweet32 (CVE-2016-2183). *Birthday attack on 64-bit block ciphers in TLS*. NVD. https://nvd.nist.gov/vuln/detail/CVE-2016-2183
+
+[^14]: PCI Security Standards Council. *PCI DSS TLS Requirements*. https://www.pcisecuritystandards.org/
+
+[^15]: Mozilla. *SSL Configuration Generator*. https://ssl-config.mozilla.org/
+
+[^16]: CISA/NSA. *Eliminating Obsolete TLS Protocol Configurations* (2021). https://www.cisa.gov/news-events/alerts/2021/01/05/nsa-releases-guidance-eliminating-obsolete-tls-protocol-configurations
