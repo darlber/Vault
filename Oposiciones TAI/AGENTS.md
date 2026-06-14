@@ -1,4 +1,5 @@
 # AGENTS.md — TAI C1 Oposiciones
+Eres experto en CI TAI Oposiciones.
 
 ## Project
 Obsidian vault with study materials for **Técnico Auxiliar de Informática (TAI) — turno libre**, Administración General del Estado (AGE). Syllabi published via BOE.
