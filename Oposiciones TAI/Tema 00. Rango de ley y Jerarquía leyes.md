@@ -6,7 +6,7 @@
 	- Total, Derechos Fundamentales o Corona: Requiere la aprobación de 2/3 de ambas Cámaras y referéndum.
 	- Parcial: Requiere 3/5 de ambas Cámaras. Si el Senado la rechaza, el Congreso puede aprobarla por 2/3. Es posible someterla a referéndum.
 ## Tratados Internacionales
-• Tratados Internacionales: 
+• Tratados Internacionales:
 - Incorporados al ordenamiento jurídico según lo establecido en la Constitución.
 ## Leyes Orgánicas
 • Leyes Orgánicas:

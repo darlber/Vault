@@ -11,15 +11,10 @@
             "id": "447c60c6f620624e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oposiciones TAI/Tema 10. Informática básica.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tema 10. Informática básica"
+              "title": "New tab"
             }
           }
         ]
@@ -133,13 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones TAI/Índice.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Índice"
+              "title": "Outline"
             }
           },
           {
@@ -209,35 +203,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "447c60c6f620624e",
+  "active": "74e6a2710cd0eafa",
   "lastOpenFiles": [
-    "Oposiciones TAI/Tema 08. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
-    "Oposiciones TAI/Tema 09. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
-    "Oposiciones TAI/Tema 05. Políticas de igualdad y contra la violencia de género.md",
-    "Oposiciones TAI/Tema 04. El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación.md",
-    "Oposiciones TAI/Tema 03. El Gobierno, composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.md",
-    "Oposiciones TAI/Tema 02. Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado..md",
-    "Oposiciones TAI/Tema 01. La Constitución Española de 1978. Derechos y deberes fundamentales. Su garantía y suspensión. La Corona, funciones constitucionales del Rey.md",
-    "Oposiciones TAI/Tema 00. Rango de ley y Jerarquía leyes.md",
-    "Oposiciones TAI/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
-    "Oposiciones TAI/Índice.md",
-    "Oposiciones TAI/Tema 23. Repositorios, control de versiones, metodologías y pruebas.md",
-    "Oposiciones TAI/Tema 22. Accesibilidad, diseño universal y usabilidad. Seguridad en el desarrollo de sistemas.md",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 23.md",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 1.md",
-    "Oposiciones TAI/Flashcards",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 22.md",
-    "Oposiciones TAI/Tema 20. Arquitectura de sistemas cliente-servidor y multicapas.md",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 21.md",
-    "Oposiciones TAI/Tema 21. Aplicaciones web. Desarrollo web front-end y en servidor.md",
-    "Oposiciones TAI/Tema 19. Arquitectura Java EE y plataforma .NET.md",
-    "Oposiciones TAI/Tema 18. Diseño y programación orientada a objetos.md",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 20.md",
-    "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 19.md",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 18.md",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 17.md",
-    "Oposiciones TAI/Tema 17. Lenguajes de interrogación de bases de datos. Estándar ANSI SQL. Procedimientos almacenados. Eventos y disparadores.md",
+    "Ejercicios_Shodan.md",
     "attachments/{7A539DF8-52DA-4DEC-B0A5-AA97E8742690}.png",
     "attachments/{6FCB429B-065D-4044-8B2F-BF4947BAE405}.png",
     "attachments/{77B24635-5703-4E79-8AEA-98EBE410377E}.png",
@@ -249,7 +217,13 @@
     "attachments/{A809AA9A-19FA-4BBF-B552-B32B532BF0D7}.png",
     "attachments/{A41347CA-7735-42B5-AA47-D952F3777A3A}.png",
     "attachments",
+    "OSINT.md",
+    "README.md",
+    "Informe.md",
     "test.txt",
+    "OSINT_rcsmm.eu.md",
+    "OSINT 1.md",
+    "Oposiciones TAI/Tema 16. Lenguajes de programación.md",
     "sh_scripts/07_datoscif.sh",
     "sh_scripts/run_all.sh",
     "sh_scripts/06_vulns_exploit.sh",
@@ -257,6 +231,25 @@
     "sh_scripts/04_service_enum.sh",
     "sh_scripts/03_web_app_scan.sh",
     "sh_scripts/02_nmap_port_scan.sh",
+    "sh_scripts/01_dns_subdomain_enum.sh",
+    "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
+    "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
+    "Oposiciones TAI/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
+    "Oposiciones Guitarra/Programación Didáctica.md",
+    "Oposiciones Guitarra/Tema 34. TIC.md",
+    "Oposiciones TAI/Flashcards - Tema 11.md",
+    "Oposiciones TAI/Flashcards - Tema 10.md",
+    "Oposiciones TAI/Flashcards - Tema 9.md",
+    "Oposiciones TAI/Flashcards - Tema 8.md",
+    "Oposiciones TAI/Flashcards - Tema 7.md",
+    "Oposiciones TAI/Flashcards - Tema 6.md",
+    "Oposiciones TAI/Flashcards - Tema 3.md",
+    "Oposiciones TAI/Tema 7. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
+    "Oposiciones TAI/Flashcards - Tema 5.md",
+    "Oposiciones TAI/Flashcards - Tema 4.md",
+    "Oposiciones TAI/Tema 6. La sociedad de la información. Identidad y firma electrónica, régimen jurídico. El DNI electrónico. La Agenda Digital para España.md",
+    "Oposiciones TAI/Flashcards - Tema 2.md",
+    "Oposiciones TAI/Tema 5. Políticas de igualdad y contra la violencia de género.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
