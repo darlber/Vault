@@ -133,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OSINT.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OSINT"
             }
           },
           {
@@ -188,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,9 +209,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "74e6a2710cd0eafa",
+  "active": "447c60c6f620624e",
   "lastOpenFiles": [
+    "annexes/exhibit_01.png",
     "OSINT.md",
+    "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
+    "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
+    "annexes",
     "CyberTesting/XXE.md",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/OSSTMM.3.pdf",
@@ -227,8 +232,6 @@
     "attachments/{344CFD7C-8E54-4096-91F2-BEE874385235} 1.png",
     "attachments/{34103A0B-D334-4D7B-BD42-C8432CA58535}.png",
     "attachments/{3590612F-29A5-4806-80C2-FAC474D138A7}.png",
-    "attachments/{A809AA9A-19FA-4BBF-B552-B32B532BF0D7}.png",
-    "attachments/{A41347CA-7735-42B5-AA47-D952F3777A3A}.png",
     "attachments",
     "README.md",
     "Informe.md",
@@ -242,7 +245,6 @@
     "sh_scripts/05_shodan_osint.sh",
     "sh_scripts/04_service_enum.sh",
     "sh_scripts/03_web_app_scan.sh",
-    "sh_scripts/02_nmap_port_scan.sh",
     "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
     "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
     "Oposiciones TAI/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
@@ -254,8 +256,6 @@
     "Oposiciones TAI/Flashcards - Tema 8.md",
     "Oposiciones TAI/Flashcards - Tema 7.md",
     "Oposiciones TAI/Flashcards - Tema 6.md",
-    "Oposiciones TAI/Flashcards - Tema 3.md",
-    "Oposiciones TAI/Tema 7. La protección de datos personales y su régimen jurídico, principios, derechos y obligaciones. Derechos digitales.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
