@@ -118,7 +118,7 @@ dig rcsmm.eu SOA
 for s in moodle intranet webmail ftp; do dig $s.rcsmm.eu A +short; done
 ```
 **Captura**: Los 4 devuelven 213.172.39.24.
-![](attachments/Pasted%20image%2020260616194438.png)
+![](attachments/Pasted%20image%2020260616195148.png)
 ---
 
 ## Exhibit 16 — PTR servidor web
@@ -126,7 +126,7 @@ for s in moodle intranet webmail ftp; do dig $s.rcsmm.eu A +short; done
 dig -x 62.97.84.197 +short
 ```
 **Captura**: `arvy.futurvia.net`
-![16](attachments/Pasted%20image%2020260616194321.png)
+![](attachments/{D80D63A7-6144-4C0E-97A0-2E05C2660D3E}.png)
 ---
 
 ## Exhibit 17 — PTR servidor interno
@@ -134,7 +134,7 @@ dig -x 62.97.84.197 +short
 dig -x 213.172.39.24 +short
 ```
 **Captura**: `orfeo.servytec.es`
-
+![](attachments/{7A33C63D-0099-42CA-9639-7B8EA2E61848}.png)
 ---
 
 ## Exhibit 18 — CAA (ausencia)
@@ -142,7 +142,7 @@ dig -x 213.172.39.24 +short
 dig rcsmm.eu CAA +short
 ```
 **Captura**: **Sin salida** (vacío) — confirma que no hay registro CAA.
-
+![](attachments/{02E836A1-60C5-4484-9E57-4B90622688C9}.png)
 ---
 
 ## Exhibit 19 — Subdominios por crt.sh
@@ -150,7 +150,7 @@ dig rcsmm.eu CAA +short
 curl -s "https://crt.sh/?q=%25.rcsmm.eu&output=json" | jq -r '.[].name_value | split("\n") | .[]' | sort -u | sed 's/^\*\.//'
 ```
 **Captura**: Listado completo de subdominios.
-
+![](attachments/{DF8DB81F-D572-4710-8BA9-3DA26B56475B}.png)
 ---
 
 ## Exhibit 20 — SNPanel en Censys/Shodan
@@ -160,7 +160,7 @@ https://search.censys.io/
 ```
 Buscar `213.172.39.24` → puerto 12000/tcp.
 **Captura**: Panel SNPanel detectado.
-
+![](attachments/{3310669E-1963-4906-BBFC-387C8FCDE6A1}.png)
 ---
 
 ## Exhibit 21 — Detección de tecnologías (whatweb)
