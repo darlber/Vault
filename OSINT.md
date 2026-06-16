@@ -136,11 +136,11 @@
 
 ### 4.1 Direcciones IP y geolocalización [^exhibit-14] [^exhibit-15] [^exhibit-16] [^exhibit-17]
 
-| IP | Hostname (PTR) | Geolocalización | Proveedor |
-|---|---|---|---|
-| `62.97.84.197` | `arvy.futurvia.net` | Madrid, España | COLT Technology Services (AS8220) |
-| `213.172.39.24` | `orfeo.servytec.es` | Madrid, España | Servytec Networks (AS196713) |
-| `81.169.145.158` | *(rzone)* | Frankfurt, Alemania | Strato AG |
+| IP                                | Hostname (PTR)      | Geolocalización     | Proveedor                         |
+| --------------------------------- | ------------------- | ------------------- | --------------------------------- |
+| `62.97.84.197` (rcsmm.eu)         | `arvy.futurvia.net` | Madrid, España      | COLT Technology Services (AS8220) |
+| `213.172.39.24` (moodle.rcsmm.eu) | `orfeo.servytec.es` | Madrid, España      | Servytec Networks (AS196713)      |
+| `81.169.145.158` (rcsmm.es)       | *(rzone)*           | Frankfurt, Alemania | Strato AG                         |
 
 - Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026)
 - Dominio secundario `rcsmm.es`: Nameservers `docks10.rzone.de` / `shades03.rzone.de` (Strato)
