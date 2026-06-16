@@ -399,7 +399,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 - Todos resuelven a `213.172.39.24`
 
 ### 6.2 Metadatos
-- Documentos analizados: PDFs públicos del sitio (ver [3.3 Metadatos de documentos públicos](#33-metadatos-de-documentos-públicos)). No se descargaron documentos adicionales para análisis de metadatos
+- Documentos analizados: PDFs públicos del sitio (ver [3.3 Metadatos de documentos públicos [^exhibit-13]](#3.3%20Metadatos%20de%20documentos%20públicos%20[%20exhibit-13])). No se descargaron documentos adicionales para análisis de metadatos
 - Información extraída: Autor "Patricia Arbolí" detectado en múltiples PDFs de Secretaría publicados en `/sites/default/files/`
 
 ### 6.3 Exposición de datos en Wayback Machine [^exhibit-40]
