@@ -169,6 +169,11 @@ whatweb rcsmm.eu
 whatweb moodle.rcsmm.eu
 ```
 **Captura**: Salida mostrando Drupal 9, Apache, PHP, etc.
+rcsmm.eu:
+![](attachments/{6C755F36-FA63-4E0E-B634-D6D153FAD2CE}.png)
+moodle:
+![](attachments/{A5495E3B-C853-4F46-B916-D77C56C06239}.png)
+
 
 ---
 
@@ -177,7 +182,7 @@ whatweb moodle.rcsmm.eu
 curl -sI https://rcsmm.eu | grep -i "x-generator\|server\|x-powered-by"
 ```
 **Captura**: `X-Generator: Drupal 9 (https://www.drupal.org)`.
-
+![](attachments/{D350AF85-B7DF-4362-86E3-DE8CEF1A0259}.png)
 ---
 
 ## Exhibit 23 — Cabeceras Moodle (PHP version)
@@ -185,7 +190,7 @@ curl -sI https://rcsmm.eu | grep -i "x-generator\|server\|x-powered-by"
 curl -sI https://moodle.rcsmm.eu/login/index.php | grep -i "x-powered-by\|server"
 ```
 **Captura**: `X-Powered-By: PHP/5.6.38-0+deb8u1`.
-
+![](attachments/{B5CCEF30-71CE-4708-A5B0-B7502BE93BE4}.png)
 ---
 
 ## Exhibit 24 — robots.txt
@@ -193,7 +198,7 @@ curl -sI https://moodle.rcsmm.eu/login/index.php | grep -i "x-powered-by\|server
 curl -s https://rcsmm.eu/robots.txt
 ```
 **Captura**: Archivo completo.
-
+![](attachments/{F3A85994-CA98-42DE-BC4A-98D87D5A0000}.png)
 ---
 
 ## Exhibit 25 — Register 403
@@ -201,7 +206,7 @@ curl -s https://rcsmm.eu/robots.txt
 curl -sI https://rcsmm.eu/user/register
 ```
 **Captura**: Respuesta `403 Forbidden`.
-
+![](attachments/{FBB3AAA6-C4FE-4828-9F6E-E70DCC52F6D7}.png)
 ---
 
 ## Exhibit 26 — Certificado SSL/TLS
@@ -209,7 +214,7 @@ curl -sI https://rcsmm.eu/user/register
 openssl s_client -connect rcsmm.eu:443 -servername rcsmm.eu 2>/dev/null | openssl x509 -text -noout 2>/dev/null | head -30
 ```
 **Captura**: Emisor, validez, SANs.
-
+![](attachments/{5E2202E6-F228-461F-AB37-26B22E9DB061}.png)
 ---
 
 ## Exhibit 27 — Equipo directivo
@@ -217,7 +222,7 @@ openssl s_client -connect rcsmm.eu:443 -servername rcsmm.eu 2>/dev/null | openss
 https://rcsmm.eu/equipo-directivo
 ```
 **Captura**: Organigrama con Consuelo de la Vega, etc.
-
+![](attachments/{DAAB5828-5D92-419F-A4BF-77E786401D1C}.png)
 ---
 
 ## Exhibit 28 — Profesores Departamento de Cuerda
@@ -225,7 +230,7 @@ https://rcsmm.eu/equipo-directivo
 https://rcsmm.eu/departamento-cuerda
 ```
 **Captura**: Listado de 25+ profesores con nombre y especialidad.
-
+![](attachments/{B8C3EDD3-061B-4242-9EDA-DC8547741381}.png)
 ---
 
 ## Exhibit 29 — Extracción de nombres (terminal)
