@@ -233,7 +233,7 @@ https://rcsmm.eu/departamento-cuerda
 ![](attachments/{B8C3EDD3-061B-4242-9EDA-DC8547741381}.png)
 ---
 
-## Exhibit 29 — Extracción de nombres (terminal)
+## Exhibit 29 — Extracción de nombres (terminal) NO ES NECESARIO BORRAR
 ```bash
 curl -s https://rcsmm.eu/departamento-cuerda | grep -oP '(?<=<h3 class="field-content">)[^<]+'
 ```
@@ -246,7 +246,7 @@ curl -s https://rcsmm.eu/departamento-cuerda | grep -oP '(?<=<h3 class="field-co
 https://rcsmm.webuntis.com/WebUntis/?school=RCSMM
 ```
 **Captura**: Horario público con nombres de profesores, asignaturas, aulas.
-
+![](attachments/{7F201610-F9A9-46EA-98BE-D8002C4FDC28}.png)
 ---
 
 ## Exhibit 31 — Registros MX y TXT
@@ -255,7 +255,7 @@ dig rcsmm.eu MX +short
 dig rcsmm.eu TXT +short
 ```
 **Captura**: smtp, mail, imap, pop3 + SPF, MS verify.
-
+![](attachments/{672B4B1A-45B5-4356-BB95-6FCDF7DA5D8E}.png)
 ---
 
 ## Exhibit 32 — SPF rcsmm.eu
@@ -263,7 +263,7 @@ dig rcsmm.eu TXT +short
 dig rcsmm.eu TXT +short | grep "v=spf1"
 ```
 **Captura**: `v=spf1 ip4:213.172.39.16/28 ... -all`
-
+![](attachments/{92F048EF-8E0F-4899-AD6D-AED7ABF949FB}.png)
 ---
 
 ## Exhibit 33 — DMARC rcsmm.eu
@@ -271,7 +271,7 @@ dig rcsmm.eu TXT +short | grep "v=spf1"
 dig _dmarc.rcsmm.eu TXT +short
 ```
 **Captura**: `v=DMARC1; p=quarantine; rua=mailto:dmarc-analysis@rcsmm.eu; ...`
-
+![](attachments/{15DE9F68-D9FF-4F19-8D4E-1AFB005A5565}.png)
 ---
 
 ## Exhibit 34 — DMARC rcsmm.es
@@ -279,7 +279,7 @@ dig _dmarc.rcsmm.eu TXT +short
 dig _dmarc.rcsmm.es TXT +short
 ```
 **Captura**: Política DMARC del dominio secundario.
-
+![](attachments/{C433EC46-621F-4BEB-BD15-53B3C497AB9B}.png)
 ---
 
 ## Exhibit 35 — SPF rcsmm.es + MS verify
@@ -287,10 +287,10 @@ dig _dmarc.rcsmm.es TXT +short
 dig rcsmm.es TXT +short
 ```
 **Captura**: `v=spf1 include:spf.protection.outlook.com -all` + `MS=ms87766292`.
-
+![](attachments/{6C5BFE0A-1C10-4219-A26E-36C3CD6B220C}.png)
 ---
 
-## Exhibit 36 — DKIM (_domainkey)
+## Exhibit 36 — DKIM (_domainkey) BORRAR, NO DEVUELVE NADA, SI NO BORRAR, REVISAR COMANDOS
 ```bash
 dig _domainkey.rcsmm.eu TXT +short
 dig selector1._domainkey.rcsmm.eu TXT +short
@@ -300,7 +300,7 @@ dig selector2._domainkey.rcsmm.eu TXT +short
 
 ---
 
-## Exhibit 37 — Emails extraídos del HTML
+## Exhibit 37 — Emails extraídos del HTML BORRAR O RETOCAR , SOLO DEUVELVE INFOSECRE
 ```bash
 curl -s https://rcsmm.eu | grep -oP '[a-zA-Z0-9._%+-]+@rcsmm\.(eu|es)'
 ```
@@ -308,7 +308,7 @@ curl -s https://rcsmm.eu | grep -oP '[a-zA-Z0-9._%+-]+@rcsmm\.(eu|es)'
 
 ---
 
-## Exhibit 38 — Biblioteca email
+## Exhibit 38 — Biblioteca email BORRAR, NO ES NECESARIO
 ```
 https://rcsmm.eu/informacion
 ```
@@ -322,9 +322,11 @@ curl -sI https://rcsmm.eu
 curl -sI https://moodle.rcsmm.eu/login/index.php
 ```
 **Captura**: HSTS, X-Frame-Options: SAMEORIGIN, X-Content-Type-Options: nosniff.
+![](attachments/{767F694C-A73F-46DD-8267-7726CD3F555E}.png)
 
 ---
 
 ## Exhibit 40 — Tabla de medios
 Abrir el informe `OSINT.md` en Obsidian, sección §2.2 "Otras apariciones en medios".
 **Captura**: La tabla completa con los 13 medios.
+#opencode no se exactamente que me pides
