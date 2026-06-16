@@ -202,15 +202,15 @@
 
 **Resumen por criticidad:**
 
-| Criticidad | Hallazgo | Componente |
-|---|---|---|
-| 🔴 **CRÍTICA** | PHP 5.6.38 EOL — Múltiples RCE (CVSS 9.8) | Moodle / Stack completo |
-| 🔴 **CRÍTICA** | Debian 8 Jessie EOL — Sin parches desde 2020 | Moodle |
-| 🔴 **CRÍTICA** | Drupal 9.5.11 EOL — Sin parches desde 2023 | Web principal |
-| 🟠 **ALTA** | DMARC en quarantine (no reject) | Correo |
-| 🟠 **ALTA** | FTP e Intranet expuestos sin restricción | Red interna |
-| 🟡 **MEDIA** | Sin registro CAA | DNS |
-| 🟢 **BAJA** | Versión Apache expuesta | Servidor web |
+| Criticidad     | Hallazgo                                     | Componente              |
+| -------------- | -------------------------------------------- | ----------------------- |
+| 🔴 **CRÍTICA** | PHP 5.6.38 EOL — Múltiples RCE (CVSS 9.8)    | Moodle / Stack completo |
+| 🔴 **CRÍTICA** | Debian 8 Jessie EOL — Sin parches desde 2020 | Moodle                  |
+| 🔴 **CRÍTICA** | Drupal 9.5.11 EOL — Sin parches desde 2023   | Web principal           |
+| 🟠 **ALTA**    | DMARC en quarantine (no reject)              | Correo                  |
+| 🟠 **ALTA**    | FTP e Intranet expuestos sin restricción     | Red interna             |
+| 🟡 **MEDIA**   | Sin registro CAA                             | DNS                     |
+| 🟢 **BAJA**    | Versión Apache expuesta                      | Servidor web            |
 
 **Detalle:**
   - **PHP 5.6.38** (EOL dic 2018, confirmado por cabecera `X-Powered-By`) — Múltiples RCE por deserialización: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768, CVE-2016-5773 (todos CVSS 9.8); inyección comandos CVE-2018-19518 (CVSS 9.8)
@@ -402,7 +402,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 - Documentos analizados: PDFs públicos del sitio (ver §3.3). No se descargaron documentos adicionales para análisis de metadatos
 - Información extraída: Autor "Patricia Arbolí" detectado en múltiples PDFs de Secretaría publicados en `/sites/default/files/`
 
-### 6.3 Exposición histórica de datos en Wayback Machine [^exhibit-40]
+### 6.3 Exposición de datos en Wayback Machine [^exhibit-40]
 
 Se ha identificado una exposición masiva de datos personales a través del **Internet Archive Wayback Machine**. El sitio `rcsmm.eu` utilizaba un script `download.php?table=sn_repositorio&id=XXX` que servía PDFs públicos almacenados en la base de datos (tabla `sn_repositorio`). Aunque el script ya no está accesible en el sitio actual, Wayback Machine conservó **decenas de PDFs** con IDs entre 118 y 1189.
 
