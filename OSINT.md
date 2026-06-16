@@ -100,16 +100,38 @@
   - **Autor**: Patricia Arbolí (Secretaría del centro)
   - **Software**: Microsoft Word 2019 (Creator y Producer)
   - **Fecha de creación**: 2023-07-13
-  - Fuente: `curl.exe -s -k "https://rcsmm.eu/sites/default/files/2023-11/23.pdf"` → extracción de metadatos vía cadena `/Author()`
+  - Fuente: descarga del PDF + extracción de metadatos:
+    ```bash
+    curl -s -k -o /tmp/23.pdf "https://rcsmm.eu/sites/default/files/2023-11/23.pdf"
+    pdfinfo /tmp/23.pdf
+    ```
 
 ## 4. Información técnica
 
-> **Comandos utilizados (PowerShell):**
-> ```powershell
-> Resolve-DnsName rcsmm.eu -Type A,NS,SOA
-> @("moodle.rcsmm.eu","intranet.rcsmm.eu","webmail.rcsmm.eu","ftp.rcsmm.eu") | ForEach-Object { Resolve-DnsName $_ -Type A }
-> Resolve-DnsName rcsmm.es -Type A,NS
-> curl.exe -s "https://crt.sh/?q=%25.rcsmm.eu&output=json" | ConvertFrom-Json | Select-Object -ExpandProperty name_value -Unique
+> **Comandos utilizados (Kali Linux):**
+> ```bash
+> # DNS básico
+> dig rcsmm.eu A +short
+> dig rcsmm.eu NS +short
+> dig rcsmm.eu SOA
+> # Subdominios
+> for s in moodle intranet webmail ftp; do dig $s.rcsmm.eu A +short; done
+> # Dominio secundario
+> dig rcsmm.es A +short && dig rcsmm.es NS +short
+> # PTR (resolución inversa)
+> dig -x 62.97.84.197 +short
+> dig -x 213.172.39.24 +short
+> # CAA (requiere dig con soporte → Kali sí, Windows no)
+> dig rcsmm.eu CAA +short
+> # crt.sh → subdominios por CT logs
+> curl -s "https://crt.sh/?q=%25.rcsmm.eu&output=json" | jq -r '.[].name_value | split("\n") | .[]' | sort -u | sed 's/^\*\.//'
+> # DKIM (posibles selectores)
+> dig _domainkey.rcsmm.eu TXT +short
+> dig selector1._domainkey.rcsmm.eu TXT +short
+> dig selector2._domainkey.rcsmm.eu TXT +short
+> # DMARC
+> dig _dmarc.rcsmm.eu TXT +short
+> dig _dmarc.rcsmm.es TXT +short
 > ```
 
 ### 4.1 Direcciones IP y geolocalización
@@ -153,13 +175,19 @@
 - Hosting secundario: Strato AG (81.169.145.158) para rcsmm.es (email profesorado)
 - Ubicación aproximada: Madrid, España / Frankfurt, Alemania (rcsmm.es)
 
-> **Comandos utilizados:**
+> **Comandos utilizados (Kali Linux):**
 > ```bash
+> # Cabeceras HTTP
 > curl -sI https://rcsmm.eu
 > curl -sI https://moodle.rcsmm.eu/login/index.php
 > curl -s https://rcsmm.eu/robots.txt
 > curl -sI https://rcsmm.eu/user/register
 > curl -s https://rcsmm.eu/user/login
+> # Detección de tecnologías (whatweb)
+> whatweb rcsmm.eu
+> whatweb moodle.rcsmm.eu
+> # SSL/TLS
+> openssl s_client -connect rcsmm.eu:443 -servername rcsmm.eu 2>/dev/null | openssl x509 -text -noout 2>/dev/null | head -30
 > ```
 > 
 > **robots.txt** — Archivo estándar de Drupal que bloquea el rastreo de:
@@ -191,7 +219,7 @@
   - **DKIM configurado** (4 posibles selectores detectados en TXT) — Spoofing mitigado parcialmente
   - **DMARC en quarantine** (no reject)  — Correos suplantados no se rechazan
   - **FTP e Intranet expuestos** (DNS confirma subdominios ftp.rcsmm.eu e intranet.rcsmm.eu en 213.172.39.24)
-  - **Sin registro CAA** — Cualquier CA puede emitir certificados
+  - **Sin registro CAA** — Cualquier CA puede emitir certificados (confirmado con `dig rcsmm.eu CAA +short` → sin salida en Kali)
 - Referencias:
   - Tenable: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768
   - NVD: CVE-2018-19518, CVE-2015-6836, CVE-2016-4538
@@ -265,11 +293,15 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 
 ## 5. Información corporativa
 
-> **Fuentes utilizadas:**
+> **Fuentes utilizadas (Kali Linux):**
 > ```bash
 > curl -s https://rcsmm.eu/nuestro-centro
 > curl -s https://rcsmm.eu/departamento-cuerda
 > curl -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM
+> # Extracción de profesores del HTML
+> curl -s https://rcsmm.eu/departamento-cuerda | grep -oP '(?<=<h3 class="field-content">)[^<]+'
+> # Horarios públicos (WebUntis)
+> curl -s "https://rcsmm.webuntis.com/WebUntis/?school=RCSMM" | grep -oP '[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+ [A-ZÁÉÍÓÚÑ][a-záéíóúñ]+'
 > ```
 
 ### 5.1 Equipo directivo
@@ -303,13 +335,23 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 
 ## 6. Otra información
 
-> **Comandos utilizados (PowerShell):**
-> ```powershell
-> Resolve-DnsName rcsmm.eu -Type MX,TXT
-> Resolve-DnsName _dmarc.rcsmm.eu -Type TXT
-> Resolve-DnsName rcsmm.es -Type TXT
-> curl.exe -s https://rcsmm.eu | Select-String -Pattern '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
-> curl.exe -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM | Select-String -Pattern '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+> **Comandos utilizados (Kali Linux):**
+> ```bash
+> # Registros MX y TXT
+> dig rcsmm.eu MX +short
+> dig rcsmm.eu TXT +short
+> dig _dmarc.rcsmm.eu TXT +short
+> dig rcsmm.es TXT +short
+> dig rcsmm.es MX +short
+> # Extracción de emails del HTML
+> curl -s https://rcsmm.eu | grep -oP '[a-zA-Z0-9._%+-]+@rcsmm\.(eu|es)'
+> curl -s https://rcsmm.webuntis.com/WebUntis/?school=RCSMM | grep -oP '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+> # SPF completo
+> dig rcsmm.eu TXT +short | grep "v=spf1"
+> dig rcsmm.es TXT +short | grep "v=spf1"
+> # DMARC
+> dig _dmarc.rcsmm.eu TXT +short
+> dig _dmarc.rcsmm.es TXT +short
 > ```
 
 ### 6.1 Emails recopilados
@@ -421,7 +463,7 @@ Además, la **exposición de datos personales** (listados públicos de profesora
 
 ## 9. Listado de capturas recomendadas
 
-Para respaldar visualmente la información del informe, se recomienda incluir las siguientes capturas de pantalla:
+Para respaldar visualmente la información del informe, se recomienda incluir las siguientes capturas de pantalla. Todas las capturas de terminal deben ejecutarse en **Kali Linux** o distribución con `dig`, `curl`, `jq` y `whatweb`.
 
 ### §2 Información del objetivo
 | # | Captura | Propósito |
@@ -442,41 +484,50 @@ Para respaldar visualmente la información del informe, se recomienda incluir la
 | 10 | Página `/politica-privacidad` | Cumplimiento legal |
 | 11 | Página `/preguntas-frecuentes` con tabla de precios | Datos económicos (12.985 €/curso) |
 | 12 | Página `/portal-transparencia` mostrando "En construcción" | Ausencia de transparencia |
-| 13 | Terminal con `Select-String` extrayendo `/Author(Patricia Arbolí)` del PDF | Metadatos de documentos |
+| 13 | Terminal: `pdfinfo /tmp/23.pdf` — metadatos del PDF: Author, Creator (Word 2019), fechas | Metadatos de documentos |
 
 ### §4 Información técnica
 | # | Captura | Propósito |
 |---|---------|-----------|
-| 14 | Terminal: `Resolve-DnsName rcsmm.eu -Type A,NS,SOA` | IP principal y nameservers |
-| 15 | Terminal: `Resolve-DnsName` para moodle, intranet, webmail, ftp | IPs de subdominios |
-| 16 | Terminal: `Resolve-DnsName` PTR para `62.97.84.197` → `arvy.futurvia.net` | Hostname real del servidor web |
-| 17 | Terminal: `Resolve-DnsName` PTR para `213.172.39.24` → `orfeo.servytec.es` | Hostname real del servidor interno |
-| 18 | crt.sh mostrando subdominios de `%.rcsmm.eu` | Subdominios por CT logs |
-| 19 | Censys / Shodan: panel SNPanel en `213.172.39.24:12000` | Panel de gestión expuesto |
-| 20 | Terminal: `curl -sI https://rcsmm.eu` — cabecera `X-Generator: Drupal 9` | CMS y versión |
-| 21 | Terminal: `curl -sI https://moodle.rcsmm.eu/login/index.php` — `X-Powered-By: PHP/5.6.38-0+deb8u1` | Versión PHP y SO |
-| 22 | Terminal: `curl -s https://rcsmm.eu/robots.txt` | Archivo robots.txt completo |
-| 23 | Terminal: `curl -sI https://rcsmm.eu/user/register` — respuesta 403 | Registro cerrado |
+| 14 | Terminal: `dig rcsmm.eu A +short` + `dig rcsmm.eu NS +short` + `dig rcsmm.eu SOA` | IP principal, nameservers y SOA |
+| 15 | Terminal: `for s in moodle intranet webmail ftp; do dig $s.rcsmm.eu A +short; done` | IPs de subdominios |
+| 16 | Terminal: `dig -x 62.97.84.197 +short` → `arvy.futurvia.net` | Hostname real del servidor web |
+| 17 | Terminal: `dig -x 213.172.39.24 +short` → `orfeo.servytec.es` | Hostname real del servidor interno |
+| 18 | Terminal: `dig rcsmm.eu CAA +short` (sin salida = sin CAA) | Confirmar ausencia de CAA |
+| 19 | Terminal: `curl -s "https://crt.sh/?q=%25.rcsmm.eu&output=json" \| jq -r '.[].name_value' \| sort -u` | Subdominios por CT logs |
+| 20 | Censys / Shodan: panel SNPanel en `213.172.39.24:12000` | Panel de gestión expuesto |
+| 21 | Terminal: `whatweb rcsmm.eu` | Detección completa de tecnologías web |
+| 22 | Terminal: `curl -sI https://rcsmm.eu` — cabecera `X-Generator: Drupal 9` | CMS y versión |
+| 23 | Terminal: `curl -sI https://moodle.rcsmm.eu/login/index.php` — `X-Powered-By: PHP/5.6.38-0+deb8u1` | Versión PHP y SO |
+| 24 | Terminal: `curl -s https://rcsmm.eu/robots.txt` | Archivo robots.txt completo |
+| 25 | Terminal: `curl -sI https://rcsmm.eu/user/register` — respuesta 403 | Registro cerrado |
+| 26 | Terminal: `openssl s_client -connect rcsmm.eu:443 -servername rcsmm.eu 2>/dev/null \| openssl x509 -text -noout \| head -30` | Certificado SSL/TLS |
 
 ### §5 Información corporativa
 | # | Captura | Propósito |
 |---|---------|-----------|
-| 24 | Página `/equipo-directivo` con organigrama | Directivos del centro |
-| 25 | Página `/departamento-cuerda` con listado de profesores | Personal identificable |
-| 26 | WebUntis público `rcsmm.webuntis.com` con horarios | Exposición de datos personales |
+| 27 | Página `/equipo-directivo` con organigrama | Directivos del centro |
+| 28 | Página `/departamento-cuerda` con listado de profesores | Personal identificable |
+| 29 | Terminal: `curl -s https://rcsmm.eu/departamento-cuerda \| grep -oP '(?<=<h3 class="field-content">)[^<]+'` | Extracción de nombres de profesores |
+| 30 | WebUntis público `rcsmm.webuntis.com` con horarios | Exposición de datos personales |
 
 ### §6 Otra información
 | # | Captura | Propósito |
 |---|---------|-----------|
-| 27 | Terminal: `Resolve-DnsName rcsmm.eu -Type MX,TXT` | Registros MX y TXT |
-| 28 | Terminal: `Resolve-DnsName _dmarc.rcsmm.eu -Type TXT` | Política DMARC |
-| 29 | Terminal: `Resolve-DnsName rcsmm.es -Type TXT` | SPF de Outlook y MS verify |
-| 30 | Terminal: extracción de emails con `Select-String` del HTML | Emails corporativos |
-| 31 | Página `/informacion` mostrando `biblioteca@rcsmm.eu` | Email de biblioteca |
-| 32 | Cabeceras HTTP completas de rcsmm.eu y moodle.rcsmm.eu | HSTS, X-Frame-Options, etc. |
+| 31 | Terminal: `dig rcsmm.eu MX +short` + `dig rcsmm.eu TXT +short` | Registros MX y TXT |
+| 32 | Terminal: `dig rcsmm.eu TXT +short \| grep "v=spf1"` | Política SPF completa |
+| 33 | Terminal: `dig _dmarc.rcsmm.eu TXT +short` | Política DMARC |
+| 34 | Terminal: `dig _dmarc.rcsmm.es TXT +short` | DMARC del dominio secundario |
+| 35 | Terminal: `dig rcsmm.es TXT +short` | SPF de Outlook y MS verify |
+| 36 | Terminal: `dig _domainkey.rcsmm.eu TXT +short` + `dig selector1._domainkey.rcsmm.eu TXT +short` | Intentar resolución DKIM |
+| 37 | Terminal: `curl -s https://rcsmm.eu \| grep -oP '[a-zA-Z0-9._%+-]+@rcsmm\.(eu\|es)'` | Emails corporativos extraídos del HTML |
+| 38 | Página `/informacion` mostrando `biblioteca@rcsmm.eu` | Email de biblioteca |
+| 39 | Terminal: `curl -sI https://rcsmm.eu` + `curl -sI https://moodle.rcsmm.eu` (salida completa) | HSTS, X-Frame-Options, X-Content-Type-Options |
+| 40 | Captura de §2.2 "Otras apariciones en medios" (scroll hasta la tabla) | Visibilidad mediática general del centro |
 
 ### Notas para las capturas
 - Todas las capturas deben incluir la **URL completa** en la barra de direcciones o la **línea de comandos** ejecutada
-- Las capturas de terminal deben mostrar el **comando y su salida** para trazabilidad
+- Las capturas de terminal deben mostrar el **comando y su salida** en la misma ventana para trazabilidad
 - Fecha de las capturas: coincidente con la fecha del informe
+- Sistema recomendado: **Kali Linux** (o cualquier distro con `dig`, `curl`, `jq`, `whatweb`, `pdfinfo`, `openssl`)
 - Si alguna fuente no está accesible en el momento de la captura, indicar "No accesible" en el pie de foto
