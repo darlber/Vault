@@ -412,10 +412,10 @@ Según la muestra analizada, estos PDFs contienen **DNI/NIF de aspirantes a prue
 
 **Alcance estimado**: ~90+ PDFs con documentos de aspirantes a pruebas de acceso, fechados entre 2014 y 2023.
 
-**Comando de búsqueda** (desde Kali Linux):
+**Comando de búsqueda**:
 ```bash
-# Consulta CDX API de Wayback Machine para listar PDFs expuestos
-curl -s "https://web.archive.org/cdx/search/cdx?url=rcsmm.eu/download.php*&output=json&limit=200" | jq -r '.[] | select(.[4] == "application/pdf") | "\(.[1]) | \(.[2]) | \(.[6])"'
+curl -s "https://web.archive.org/cdx/search/cdx?url=rcsmm.eu/download.php*&output=json&limit=200" \
+| jq -r '.[] | select(.[2] | test("\\.pdf|id=")) | "https://web.archive.org/web/\(.[1])/\(.[2])"'
 ```
 
 ## 7. Recomendaciones
