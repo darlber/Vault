@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT.md",
+                "file": "listado.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "OSINT"
+              "title": "listado"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT.md",
+                "file": "listado.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OSINT"
+              "title": "Outline of listado"
             }
           },
           {
@@ -211,8 +211,11 @@
   },
   "active": "447c60c6f620624e",
   "lastOpenFiles": [
-    "annexes/exhibit_01.png",
+    "attachments/{0EC043C5-6138-4214-BF9C-D1AE2AAC3E4F}.png",
+    "attachments",
     "OSINT.md",
+    "listado.md",
+    "annexes/exhibit_01.png",
     "Chemistry/attachments/Periodic_Table_of_Elements_w_Oxidation_States_PubChem.png",
     "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
     "annexes",
@@ -232,7 +235,6 @@
     "attachments/{344CFD7C-8E54-4096-91F2-BEE874385235} 1.png",
     "attachments/{34103A0B-D334-4D7B-BD42-C8432CA58535}.png",
     "attachments/{3590612F-29A5-4806-80C2-FAC474D138A7}.png",
-    "attachments",
     "README.md",
     "Informe.md",
     "test.txt",
@@ -255,7 +257,6 @@
     "Oposiciones TAI/Flashcards - Tema 9.md",
     "Oposiciones TAI/Flashcards - Tema 8.md",
     "Oposiciones TAI/Flashcards - Tema 7.md",
-    "Oposiciones TAI/Flashcards - Tema 6.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
