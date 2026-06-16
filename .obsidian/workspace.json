@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "serradilla_alberto_ejercicioOSINT.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "serradilla_alberto_ejercicioOSINT"
+              "title": "README"
             }
           }
         ]
@@ -209,13 +209,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "666427ab929da33d",
   "lastOpenFiles": [
+    "listado.md",
+    "README.md",
     "serradilla_alberto_ejercicioOSINT.md",
     "annexes/exhibit_41.png",
     "attachments",
     "annexes/exhibit_40.png",
-    "listado.md",
     "annexes/exhibit_31.png",
     "annexes/exhibit_19.png",
     "annexes/exhibit_12.png",
@@ -234,7 +235,6 @@
     "CyberTesting/Linux Privilege Scalation.md",
     "Oposiciones TAI/AGENTS.md",
     "Ejercicios_Shodan.md",
-    "README.md",
     "Informe.md",
     "test.txt",
     "OSINT_rcsmm.eu.md",
