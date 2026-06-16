@@ -144,7 +144,7 @@
 
 - Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026)
 - Dominio secundario `rcsmm.es`: Nameservers `docks10.rzone.de` / `shades03.rzone.de` (Strato)
-- **Shodan / Censys ** La IP `213.172.39.24` expone **12 puertos** (21/FTP, 25/SMTP, 53/DNS, 80/HTTP, 110/POP3, 143/IMAP, 443/HTTPS, 465/SMTPS, 587/SUBMISSION, 993/IMAPS, 31337/desconocido). Shodan detecta Pure-FTPd, Postfix, Apache HTTP, **PHP 5.6.38 (EOL)** y Dovecot. Acumula **27+ CVEs activos**. La IP `62.97.84.197` solo expone 80/443 (Apache, sin CVEs activos). `81.169.145.158` (Strato) expone puertos FTP/HTTP/HTTPS/8080 con Apache 2.4.68. [^e]
+- **Shodan / Censys ** La IP `213.172.39.24` expone **12 puertos** (21/FTP, 25/SMTP, 53/DNS, 80/HTTP, 110/POP3, 143/IMAP, 443/HTTPS, 465/SMTPS, 587/SUBMISSION, 993/IMAPS, 31337/desconocido). Shodan detecta Pure-FTPd, Postfix, Apache HTTP, **PHP 5.6.38 (EOL)** y Dovecot. Acumula **27+ CVEs activos**. La IP `62.97.84.197` solo expone 80/443 (Apache, sin CVEs activos). `81.169.145.158` (Strato) expone puertos FTP/HTTP/HTTPS/8080 con Apache 2.4.68. [^exhibit-41]
 - **Registro CAA**: No encontrado (`dig rcsmm.eu CAA +short` → sin salida) [^exhibit-18]
 
 ### 4.2 Servidor
@@ -513,4 +513,4 @@ El RCSMM presenta **tres prioridades críticas de mitigación** ordenadas por im
 [^exhibit-35]: **TXT rcsmm.es** — Verificación Microsoft 365. ![](annexes/exhibit_35.png)
 [^exhibit-39]: **Cabeceras HTTP** — HSTS, X-Frame-Options, etc. ![](annexes/exhibit_39.png)
 [^exhibit-40]: **Wayback Machine** — ~90 PDFs con DNIs de aspirantes expuestos. ![](annexes/exhibit_40.png)
-![](annexes/exhibit_41.png)
+[^exhibit-41] ![](annexes/exhibit_41.png)
