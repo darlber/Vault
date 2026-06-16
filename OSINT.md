@@ -27,16 +27,34 @@
 - Plataformas externas: CODEX (codex.pro — gestión académica y notas), WebUntis (rcsmm.webuntis.com — horarios públicos con nombres de profesores)
 
 ### 2.2 Apariciones destacadas en los medios
-- Noticias relevantes: Institución centenaria (1830), referente en enseñanza musical en España. Múltiples conciertos y *masterclasses* públicas publicadas en su web
-- **Caso de acoso (2025)**: En nov-dic 2025, varios medios nacionales cubrieron denuncias de alumnas por presuntos abusos sexuales y acoso por parte del catedrático de clarinete Pedro Garbajosa. La Policía Nacional abrió investigación de oficio. El centro se remitió al expediente abierto desde hacía año y medio. Relevante para evaluación de reputación institucional.
+
+#### Caso de acoso (2025)
+- En nov-dic 2025, varios medios nacionales cubrieron denuncias de alumnas por presuntos abusos sexuales y acoso por parte del catedrático de clarinete Pedro Garbajosa. La Policía Nacional abrió investigación de oficio. El centro se remitió al expediente abierto desde hacía año y medio.
   - El Mundo (26/11/2025): https://www.elmundo.es/cultura/2025/11/26/69272c5fe4d4d89f458b4585.html
   - El Mundo (10/12/2025): https://www.elmundo.es/cultura/2025/12/10/69399676e85eceb4778b4584.html
   - El Mundo (11/12/2025): https://www.elmundo.es/cultura/2025/12/11/693ae9b9e85ece374c8b4575.html
+  - Telemadrid (27/11/2025): https://www.telemadrid.es/programas/telenoticias-1/Protesta-contra-un-profesor-denunciado-por-acoso-en-el-Real-Conservatorio-de-Madrid-2-2838336157--20251127025232.html
   - Cadena SER (27/11/2025): https://cadenaser.com/cmadrid/2025/11/27/investigan-las-denuncias-por-acoso-a-un-profesor-del-real-conservatorio-de-musica-de-madrid-radio-madrid/
   - 20minutos (27/11/2025): https://www.20minutos.es/madrid/investigan-un-profesor-clarinete-conservatorio-superior-musica-madrid-por-acoso-alumnas_6903689_0.html
+  - 20minutos (29/11/2025): https://www.20minutos.es/madrid/alumnas-real-conservatorio-madrid-denuncian-anos-abusos-un-profesor-te-tocaba-con-excusa-ensenarte-respirar_6904016_0.html
   - La Vanguardia (12/12/2025): https://www.lavanguardia.com/local/madrid/20251212/11355942/policia-investiga-acusaciones-abusos-sexuales-profesor-clarinete-conservatorio-musica-madrid.html
-- Entrevistas: No se detectaron entrevistas específicas en fuentes abiertas
-- Apariciones en prensa: Web incluye sección de prensa con manual de marca y logotipos descargables
+
+#### Otras apariciones en medios
+| Medio | Fecha | Título / Evento | Enlace |
+|-------|-------|----------------|--------|
+| RTVE | 11/06/2026 | Clausura III edición Máster Interpretación Sinfónica (OCRTVE + RCSMM). Padrino: Josu de Solaun | https://www.rtve.es/rtve/20260611/clausura-iii-edicion-del-master-interpretacion-sinfonica-orquesta-coro-rtve-rcsmm/17110576.shtml |
+| Europa Press | 16/02/2026 | Díaz Ayuso reconoce a los 25 centros de Enseñanzas Artísticas; cita RCSMM como "matriz de todos los conservatorios" y anuncia nueva sede en Las Tablas | https://www.europapress.es/madrid/noticia-madrid-reconoce-25-centros-ensenanzas-artisticas-regionales-labor-puerta-mundo-profesional-20260216122442.html |
+| Doce Notas | 13/04/2026 | Alumnos de Sonología del RCSMM presentan trabajos finales en Sala Berlanga (Fundación SGAE) | https://www.docenotas.com/184014/los-alumnos-de-sonologia-del-rcsmm-presentan-sus-trabajos-finales-en-la-sala-berlanga/ |
+| Toda la Música | 26/01/2026 | II Encuentros Orquestales RCSMM en Museo del Prado, Auditorio Nacional, Teatro Monumental y Escuela Superior de Canto | https://www.todalamusica.es/el-real-conservatorio-superior-de-musica-de-madrid-celebra-los-segundos-encuentros-orquestales/ |
+| RTVE | 11/06/2025 | Clausura II edición Máster Interpretación Sinfónica (OCRTVE + RCSMM) | https://www.rtve.es/rtve/20250611/orquesta-coro-rtve-real-conservatorio-superior-musica-madrid-clausuran-ii-edicion-master-interpretacion-sinfonica/16620413.shtml |
+| Juventudes Musicales España | 25/06/2025 | 112º Concurso Nacional de Jóvenes Intérpretes (Canto y Música de Cámara) celebrado en el RCSMM | https://www.jmspain.org/es/actualidad/158-juventudes-musicales-de-espana-celebra-el-112.html |
+| Ayuntamiento Madrid | 03/06/2025 | Piano City Madrid 2025: RCSMM selecciona pianistas emergentes y encarga obras al Dpto. de Composición | https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Piano-City-Madrid-2025-convierte-la-ciudad-en-un-gran-escenario-a-pie-de-calle/ |
+| 20minutos | 31/03/2025 | Campaña CAM para Enseñanzas Artísticas: 3.000 plazas en 25 centros, RCSMM como centro de referencia | https://www.20minutos.es/noticia/5696287/0/los-alumnos-de-ensenanzas-artisticas-de-madrid-podran-matricularse-en-una-de-las-3-000-plazas-el-7-de-abril/ |
+| Comunidad de Madrid | 31/07/2024 | Ampliación oferta educativa RCSMM: nueva Especialidad de Producción y Gestión | https://www.comunidad.madrid/noticias/2024/07/31/comunidad-madrid-amplia-oferta-educativa-real-conservatorio-superior-musica-madrid |
+| Toda la Música | 26/06/2024 | Clausura I edición Máster Interpretación Orquestal (OCRTVE + RCSMM) | https://www.todalamusica.es/la-ocrtve-y-el-rcsmm-clausuran-la-i-edicion-del-master-en-ensenanzas-artisticas-en-interpretacion-orquestal/ |
+| RTVE | 26/06/2024 | Clausura I edición Máster Interpretación Orquestal. Lección magistral de Federico Jusid | https://www.rtve.es/rtve/20240626/orquesta-sinfonica-coro-rtve-real-conservatorio-musica-madrid-clausuran-i-edicion-master-interpretacion-ensenanzas-artisticas-orquestal/16163634.shtml |
+| Fundación SGAE-CNDM | 2025 | Andrés Poncela (formado en RCSMM) gana 36º Premio Jóvenes Compositores | https://cndm.inaem.gob.es/node/23750 |
+| Bulletin of Spanish Studies | 17/02/2026 | Artículo académico "Legado de Francisco Frontera de Valldemosa en el RCSMM" (Sara Navarro Lalanda) | https://www.tandfonline.com/doi/abs/10.1080/14753820.2025.2600220 |
 
 ### 2.3 Contacto y redes sociales
 
