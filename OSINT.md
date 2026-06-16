@@ -361,7 +361,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 
 ### 6.1 Emails recopilados
 
-#### 6.1.1 Emails corporativos [Exhibit 37]
+#### 6.1.1 Emails corporativos
 - Correos publicados en web oficial (extraídos mediante `curl + greP -oP` del HTML y de registros DNS DMARC):
   - `infosecre@rcsmm.eu` — Secretaría académica / contacto general
   - `info@rcsmm.eu` — Contacto general (según AEC)
@@ -401,6 +401,22 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 ### 6.2 Metadatos
 - Documentos analizados: PDFs públicos del sitio (ver §3.3). No se descargaron documentos adicionales para análisis de metadatos
 - Información extraída: Autor "Patricia Arbolí" detectado en múltiples PDFs de Secretaría publicados en `/sites/default/files/`
+
+### 6.3 Exposición histórica de datos en Wayback Machine [Exhibit 40]
+
+Se ha identificado una exposición masiva de datos personales a través del **Internet Archive Wayback Machine**. El sitio `rcsmm.eu` utilizaba un script `download.php?table=sn_repositorio&id=XXX` que servía PDFs públicos almacenados en la base de datos (tabla `sn_repositorio`). Aunque el script ya no está accesible en el sitio actual, Wayback Machine conservó **decenas de PDFs** con IDs entre 118 y 1189.
+
+Según la muestra analizada, estos PDFs contienen **DNI/NIF de aspirantes a pruebas de acceso** del conservatorio. Cualquier persona con acceso a Wayback Machine podía —y puede— descargar estos documentos.
+
+**Implicación legal**: Esta exposición constituye una violación del **RGPD** (Reglamento General de Protección de Datos, art. 32: seguridad del tratamiento) y de la **LOPDGDD** (Ley Orgánica 3/2018, art. 19: medidas de seguridad). La publicacíón de datos identificativos de aspirantes sin seudonimización ni control de acceso expone al RCSMM a posibles sanciones.
+
+**Alcance estimado**: ~90+ PDFs con documentos de aspirantes a pruebas de acceso, fechados entre 2014 y 2023.
+
+**Comando de búsqueda** (desde Kali Linux):
+```bash
+# Consulta CDX API de Wayback Machine para listar PDFs expuestos
+curl -s "https://web.archive.org/cdx/search/cdx?url=rcsmm.eu/download.php*&output=json&limit=200" | jq -r '.[] | select(.[4] == "application/pdf") | "\(.[1]) | \(.[2]) | \(.[6])"'
+```
 
 ## 7. Recomendaciones
 
@@ -514,8 +530,8 @@ Para respaldar visualmente la información del informe, se incluyen los siguient
 - **Exhibit 33**: ![Terminal: dig _dmarc.rcsmm.eu TXT +short](annexes/exhibit_33.png)
 - **Exhibit 34**: ![Terminal: dig _dmarc.rcsmm.es TXT +short](annexes/exhibit_34.png)
 - **Exhibit 35**: ![Terminal: dig rcsmm.es TXT +short](annexes/exhibit_35.png)
-- **Exhibit 37**: ![Terminal: curl + grep -oP extracción de emails del HTML (home + /informacion + /contacto)](annexes/exhibit_37.png)
 - **Exhibit 39**: ![Terminal: curl -sI cabeceras HTTP completas](annexes/exhibit_39.png)
+- **Exhibit 40**: ![Terminal: curl + jq en CDX API de Wayback — PDFs expuestos con DNIs de aspirantes](annexes/exhibit_40.png)
 
 ### Notas
 - Todas las capturas de terminal deben mostrar el **comando y su salida** en la misma ventana para trazabilidad
