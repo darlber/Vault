@@ -306,6 +306,6 @@ curl -sI https://moodle.rcsmm.eu/login/index.php
 
 ---
 
-## Exhibit 40 — Tabla de medios **RETOCADO**
+## Exhibit 40 — Tabla de medios BORRAR, NO HACE FALTA
 Abrir `OSINT.md` en Obsidian, sección §2.2 > "Otras apariciones en medios". Hacer scroll hasta la tabla.
 **Captura**: La tabla completa con los 13 medios (RTVE, Europa Press, Doce Notas, etc.).
