@@ -20,15 +20,15 @@
 > youtube.com/channel/UCBGKPm5YfetqA73juM7jVBg
 > ```
 
-### 2.1 Introducción [Exhibit 1] [Exhibit 2]
+### 2.1 Introducción [^exhibit-1] [^exhibit-2]
 - Descripción general del objetivo: Real Conservatorio Superior de Música de Madrid (RCSMM) — principal centro público de educación musical superior de España, fundado en 1830 por la reina María Cristina
 - Actividad principal: Formación profesional de músicos (intérpretes, directores, compositores, musicólogos, pedagogos). Imparte Grado, Máster y Doctorado en el marco del EEES
 - Presencia online: Web principal (rcsmm.eu), Campus Virtual Moodle (moodle.rcsmm.eu), Intranet corporativa (intranet.rcsmm.eu), Webmail (webmail.rcsmm.eu)
-- Plataformas externas: CODEX (codex.pro — gestión académica y notas), WebUntis [Exhibit 30] (rcsmm.webuntis.com — horarios públicos con nombres de profesores)
+- Plataformas externas: CODEX (codex.pro — gestión académica y notas), WebUntis [^exhibit-30] (rcsmm.webuntis.com — horarios públicos con nombres de profesores)
 
 ### 2.2 Apariciones destacadas en los medios
 
-#### Caso de acoso (2025) [Exhibit 3]
+#### Caso de acoso (2025) [^exhibit-3]
 - En nov-dic 2025, varios medios nacionales cubrieron denuncias de alumnas por presuntos abusos sexuales y acoso por parte del catedrático de clarinete Pedro Garbajosa. La Policía Nacional abrió investigación de oficio. El centro se remitió al expediente abierto desde hacía año y medio.
   - El Mundo (26/11/2025): https://www.elmundo.es/cultura/2025/11/26/69272c5fe4d4d89f458b4585.html
   - El Mundo (10/12/2025): https://www.elmundo.es/cultura/2025/12/10/69399676e85eceb4778b4584.html
@@ -59,7 +59,7 @@
 ### 2.3 Contacto y redes sociales
 
 - Página web oficial: https://rcsmm.eu
-- Redes sociales: [Exhibit 5] [Exhibit 7]
+- Redes sociales: [^exhibit-5] [^exhibit-7]
   - Twitter/X: https://x.com/RCSMM_oficial — Perfil oficial verificado (@RCSMM_oficial)
   - Instagram: https://www.instagram.com/conservatorio_superior_madrid — Perfil oficial
   - YouTube: https://www.youtube.com/channel/UCBGKPm5YfetqA73juM7jVBg — Canal oficial
@@ -80,22 +80,22 @@
 > # https://ror.org/02w65pw28
 > ```
 
-### 3.1 Datos fiscales [Exhibit 9]
+### 3.1 Datos fiscales [^exhibit-9]
 - Razón social: Real Conservatorio Superior de Música de Madrid (RCSMM)
 - NIF : Q2868055A
 - Dirección fiscal: C/ Doctor Mata 2, 28012 Madrid, España
 - Registro mercantil (si aplica): No aplica (organismo público)
 
-### 3.2 Datos económicos [Exhibit 11]
+### 3.2 Datos económicos [^exhibit-11]
 - Información financiera pública: Centro público sostenido por fondos públicos (Comunidad de Madrid). Menciona cofinanciación de la Unión Europea y del SEPIE para programas Erasmus+
 - Precios públicos (curso 2025-26): Matrícula por crédito 216,10 €; curso completo (60 ECTS) ≈ 12.985 €, con bonificaciones de hasta 95 % según renta. Prueba de acceso: 49 €. Fuente: preguntas-frecuentes
-- Portal de Transparencia: https://rcsmm.eu/portal-transparencia — **"En construcción"** (sin datos publicados a fecha del informe) [Exhibit 12]
+- Portal de Transparencia: https://rcsmm.eu/portal-transparencia — **"En construcción"** (sin datos publicados a fecha del informe) [^exhibit-12]
 - Informes anuales: No localizados en fuentes abiertas
 - Subvenciones / ayudas (si aplica): Participa en programas Erasmus+ (Erasmus Charter for Higher Education). Fondo Social Europeo mencionado en web
 - Afiliaciones: Miembro de AEC (Association Européenne des Conservatoires)
 - **Búsquedas realizadas sin resultados relevantes**: libreborme.com, infocif.es (organismo público, no sociedad mercantil)
 
-### 3.3 Metadatos de documentos públicos [Exhibit 13]
+### 3.3 Metadatos de documentos públicos [^exhibit-13]
 - PDFs publicados en `rcsmm.eu/sites/default/files/` contienen metadatos verificables:
   - **Autor**: Patricia Arbolí (Secretaría del centro)
   - **Software**: Microsoft Word 2019 (Creator y Producer)
@@ -134,7 +134,7 @@
 > dig _dmarc.rcsmm.es TXT +short
 > ```
 
-### 4.1 Direcciones IP y geolocalización [Exhibit 14] [Exhibit 15] [Exhibit 16] [Exhibit 17]
+### 4.1 Direcciones IP y geolocalización [^exhibit-14] [^exhibit-15] [^exhibit-16] [^exhibit-17]
 
 | IP | Hostname (PTR) | Geolocalización | Proveedor |
 |---|---|---|---|
@@ -145,15 +145,15 @@
 - Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026)
 - Dominio secundario `rcsmm.es`: Nameservers `docks10.rzone.de` / `shades03.rzone.de` (Strato)
 - **Shodan / Censys**: La consulta a Shodan y Censys para estas IPs requiere suscripción API para resultados completos. Escaneos públicos previos muestran servicios HTTP/HTTPS en 62.97.84.197 y múltiples puertos en 213.172.39.24 (SMTP, POP3, IMAP, HTTP, HTTPS). Pendiente de análisis detallado con API.
-- **Registro CAA**: No encontrado (`dig rcsmm.eu CAA +short` → sin salida) [Exhibit 18]
+- **Registro CAA**: No encontrado (`dig rcsmm.eu CAA +short` → sin salida) [^exhibit-18]
 
 ### 4.2 Servidor
 
 #### 4.2.1 Máquina virtual
 - Indicios de uso: No confirmado
 - Proveedor cloud (si se detecta): Servytec Networks S.L. — CPD propio en Madrid
-- **Nota**: Se detectó un panel de gestión SNPanel (posible panel de administración de hosting) accesible en `213.172.39.24:12000/tcp` según censys.io. Esto sugiere que el servidor aloja múltiples clientes y utiliza un panel de gestión de servicios. [Exhibit 20]
-- Subdominios confirmados por DNS pasivo: [Exhibit 19]
+- **Nota**: Se detectó un panel de gestión SNPanel (posible panel de administración de hosting) accesible en `213.172.39.24:12000/tcp` según censys.io. Esto sugiere que el servidor aloja múltiples clientes y utiliza un panel de gestión de servicios. [^exhibit-20]
+- Subdominios confirmados por DNS pasivo: [^exhibit-19]
 
 * [imap.tfe.rcsmm.eu](http://imap.tfe.rcsmm.eu)
 * [moodle.rcsmm.eu](http://moodle.rcsmm.eu)
@@ -284,17 +284,17 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 | Drupal CVE-2025-31674 | Alta (requiere auth) | Object Injection | ★★★☆☆ |
 
 #### 4.2.5 Tecnologías usadas
-- CMS: Drupal 9.5.11 (web principal, confirmado) [Exhibit 22] + Moodle (campus virtual, versión no confirmada pasivamente; stack consistente con 2.7–3.x EOL) [Exhibit 23]
+- CMS: Drupal 9.5.11 (web principal, confirmado) [^exhibit-22] + Moodle (campus virtual, versión no confirmada pasivamente; stack consistente con 2.7–3.x EOL) [^exhibit-23]
 - Frameworks: YUI 3.13.0 / YUI2 2.9.0 (Moodle), PHP 5.6.38 (confirmado por cabecera)
 - Librerías: Apache httpd
 - Analíticas: No detectadas
 - CDN: No detectada
 - Servicios externos: scncloud.com (gestor de citas), EducaMadrid, WebUntis (rcsmm.webuntis.com — horarios públicos sin autenticación), CODEX (codex.pro — gestión académica y notas de alumnos)
 - Plataformas propias: rta.rcsmm.eu (Registro de Trabajos de Alumnos)
-- Detección de tecnologías con whatweb [Exhibit 21]
-- SSL/TLS certificate [Exhibit 26]
-- robots.txt [Exhibit 24]
-- `/user/register` devuelve 403 Forbidden [Exhibit 25]
+- Detección de tecnologías con whatweb [^exhibit-21]
+- SSL/TLS certificate [^exhibit-26]
+- robots.txt [^exhibit-24]
+- `/user/register` devuelve 403 Forbidden [^exhibit-25]
 
 ## 5. Información corporativa
 
@@ -309,7 +309,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 > curl -s "https://rcsmm.webuntis.com/WebUntis/?school=RCSMM" | grep -oP '[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+ [A-ZÁÉÍÓÚÑ][a-záéíóúñ]+'
 > ```
 
-### 5.1 Equipo directivo [Exhibit 27]
+### 5.1 Equipo directivo [^exhibit-27]
 - Nombres públicos:
   - Consuelo de la Vega Sestelo — Directora (2020–presente), catedrática de Pedagogía
   - Ana Guijarro Malagón — Directora (2012–2013 y 2014–2020), catedrática de piano
@@ -327,7 +327,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
   - César Ausejo — Jefe de estudios Erasmus (jefestudio4@rcsmm.eu)
   - Isabel Menéndez — Jefa de Secretaría
   - Patricia Arbolí — Secretaria
-  - Profesorado del Departamento de Cuerda listado públicamente en web (25+ profesores con nombre completo y especialidad) [Exhibit 28]
+  - Profesorado del Departamento de Cuerda listado públicamente en web (25+ profesores con nombre completo y especialidad) [^exhibit-28]
 
 #### 5.2.2 Redes sociales
 - Perfiles corporativos relevantes: @RCSMM_oficial (X/Twitter), @conservatorio_superior_madrid (Instagram)
@@ -373,17 +373,17 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
   - **`nombre@rcsmm.eu`** — Formato administrativo. Se observó en `infosecre@rcsmm.eu`, `erasmus@rcsmm.eu`. Se infiere que el personal de administración usa este formato simple.
   - **`nombre.apellido@rcsmm.es`** — Formato del profesorado. Inferido de la presencia de un dominio separado `rcsmm.es` con SPF de Outlook (`include:spf.protection.outlook.com`), lo que indica Microsoft 365. El patrón `nombre.apellido` es el estándar en Exchange Online para cuentas de personal docente. Combinando la lista pública de profesores del Departamento de Cuerda (25+ nombres), se puede reconstruir el correo de cualquier docente.
 
-### 6.1.4 Registros TXT confirmados [Exhibit 31] [Exhibit 32]
+### 6.1.4 Registros TXT confirmados [^exhibit-31] [^exhibit-32]
 - SPF: `v=spf1 ip4:213.172.39.16/28 ip4:217.172.77.96/27 ip6:2a11:1f40::/29 -all`
   **Definición**: El registro SPF (Sender Policy Framework) autoriza qué servidores pueden enviar correos en nombre del dominio
-- DMARC: `_dmarc.rcsmm.eu` → `v=DMARC1; p=quarantine; rua=mailto:dmarc-analysis@rcsmm.eu; ruf=mailto:dmarc-forensics@rcsmm.eu` [Exhibit 33]
+- DMARC: `_dmarc.rcsmm.eu` → `v=DMARC1; p=quarantine; rua=mailto:dmarc-analysis@rcsmm.eu; ruf=mailto:dmarc-forensics@rcsmm.eu` [^exhibit-33]
   **Definición**: El registro DMARC (Domain-based Message Authentication Reporting) establece cómo los mensajes fallan en verificaciones SPF/DKIM y quién recibe informes
 - Microsoft verification: `MS=ms13757792` (en rcsmm.eu)
   **Definición**: El token de verificación de Microsoft confirma propiedad del dominio para servicios de Microsoft 365
 - Posibles selectores DKIM (detectados como registros TXT en raíz del dominio, formato compatible con Microsoft 365): `_j086yc6fkdff4hfxni3svuz2k437bxd`, `_2t2d9xz3ow186tdizt6vge7kenyxfoc`, `ls86y0hdz3l881ws89g4592m4qc52s6w`, `8lrtrcstkqy8dx7zw3fkzy3n29hc9wf9`
   **Definición**: Los selectores DKIM (DomainKeys Identified Mail) son claves criptográficas usadas para firmar y verificar la autenticidad de los correos salientes
 
-### 6.1.2 Dominio secundario identificado [Exhibit 34] [Exhibit 35]
+### 6.1.2 Dominio secundario identificado [^exhibit-34] [^exhibit-35]
 - `rcsmm.es` — Dominio separado para email del profesorado
 - Patrón de correo: `nombre.apellido@rcsmm.es`
 - Infraestructura: Hosting en Strato AG (Alemania), correo en Microsoft 365 / Exchange Online (Outlook)
@@ -402,7 +402,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 - Documentos analizados: PDFs públicos del sitio (ver §3.3). No se descargaron documentos adicionales para análisis de metadatos
 - Información extraída: Autor "Patricia Arbolí" detectado en múltiples PDFs de Secretaría publicados en `/sites/default/files/`
 
-### 6.3 Exposición histórica de datos en Wayback Machine [Exhibit 40]
+### 6.3 Exposición histórica de datos en Wayback Machine [^exhibit-40]
 
 Se ha identificado una exposición masiva de datos personales a través del **Internet Archive Wayback Machine**. El sitio `rcsmm.eu` utilizaba un script `download.php?table=sn_repositorio&id=XXX` que servía PDFs públicos almacenados en la base de datos (tabla `sn_repositorio`). Aunque el script ya no está accesible en el sitio actual, Wayback Machine conservó **decenas de PDFs** con IDs entre 118 y 1189.
 
@@ -459,7 +459,7 @@ Además, la **exposición de datos personales** (listados públicos de profesora
   **Definición**: DMARC en modo quarantine (p=quarantine) mantiene los correos sospechosos en cuarentena pero no los rechaza
 
 - Buenas prácticas detectadas:
-  - HSTS activo con `max-age=63072000` (2 años) [Exhibit 39]
+  - HSTS activo con `max-age=63072000` (2 años) [^exhibit-39]
   - SPF restrictivo con `-all`
   - DMARC implementado (aunque en modo quarantine y no reject)
   - **DKIM configurado** (4 posibles selectores activos en TXT)
@@ -482,59 +482,43 @@ Además, la **exposición de datos personales** (listados públicos de profesora
 | **CVE-2024-55638** | Drupal 8.9.6–9.4.9 | **9.8** | Cadena de gadgets (PHPGGC). RCE si `unserialize()` expuesto.  |
 | **CVE-2025-31674** | Drupal 9.x         | 7.5     | Object Injection. Requiere autenticación.                     |
 
-## 9. Exhibit Index
-
-Para respaldar visualmente la información del informe, se incluyen los siguientes exhibits. Cada imagen debe capturarse en **Kali Linux** con la terminal mostrando comando y salida. Las capturas se almacenan en la carpeta `annexes/`.
-
-### §2 — Información del objetivo
-
-- **Exhibit 1**: ![Resultados Google dorking site:rcsmm.eu filetype:pdf](annexes/exhibit_01.png)
-- **Exhibit 2**: ![Página de Wikipedia Madrid Royal Conservatory](annexes/exhibit_02.png)
-- **Exhibit 3**: ![Titular El Mundo — protesta Santa Cecilia (26/11/2025)](annexes/exhibit_03.png)
-- **Exhibit 5**: ![Perfil de Twitter/X @RCSMM_oficial](annexes/exhibit_05.png)
-- **Exhibit 7**: ![Canal de YouTube del RCSMM](annexes/exhibit_07.png)
-
-### §3 — Información administrativa
-
-- **Exhibit 9**: ![NIF Q2868055A en einforma.com](annexes/exhibit_09.png)
-- **Exhibit 11**: ![Página /preguntas-frecuentes con tabla de precios](annexes/exhibit_11.png)
-- **Exhibit 12**: ![Página /portal-transparencia mostrando "En construcción"](annexes/exhibit_12.png)
-- **Exhibit 13**: ![Terminal: pdfinfo /tmp/23.pdf — metadatos del PDF](annexes/exhibit_13.png)
-
-### §4 — Información técnica
-
-- **Exhibit 14**: ![Terminal: dig rcsmm.eu A +short + NS +short + SOA](annexes/exhibit_14.png)
-- **Exhibit 15**: ![Terminal: for s in moodle intranet webmail ftp; do dig $s.rcsmm.eu A +short; done](annexes/exhibit_15.png)
-- **Exhibit 16**: ![Terminal: dig -x 62.97.84.197 +short → arvy.futurvia.net](annexes/exhibit_16.png)
-- **Exhibit 17**: ![Terminal: dig -x 213.172.39.24 +short → orfeo.servytec.es](annexes/exhibit_17.png)
-- **Exhibit 18**: ![Terminal: dig rcsmm.eu CAA +short — sin salida (sin CAA)](annexes/exhibit_18.png)
-- **Exhibit 19**: ![Terminal: curl crt.sh + jq — subdominios por CT logs](annexes/exhibit_19.png)
-- **Exhibit 20**: ![Censys/Shodan — panel SNPanel en 213.172.39.24:12000](annexes/exhibit_20.png)
-- **Exhibit 21**: ![Terminal: whatweb rcsmm.eu — detección de tecnologías](annexes/exhibit_21a.png) + ![Terminal: whatweb moodle.rcsmm.eu](annexes/exhibit_21b.png)
-- **Exhibit 22**: ![Terminal: curl -sI https://rcsmm.eu — X-Generator: Drupal 9](annexes/exhibit_22.png)
-- **Exhibit 23**: ![Terminal: curl -sI https://moodle.rcsmm.eu/login/index.php — X-Powered-By: PHP/5.6.38](annexes/exhibit_23.png)
-- **Exhibit 24**: ![Terminal: curl -s https://rcsmm.eu/robots.txt](annexes/exhibit_24.png)
-- **Exhibit 25**: ![Terminal: curl -sI https://rcsmm.eu/user/register — respuesta 403](annexes/exhibit_25.png)
-- **Exhibit 26**: ![Terminal: openssl s_client — certificado SSL/TLS](annexes/exhibit_26.png)
-
-### §5 — Información corporativa
-
-- **Exhibit 27**: ![Página /equipo-directivo con organigrama](annexes/exhibit_27.png)
-- **Exhibit 28**: ![Página /departamento-cuerda con listado de profesores](annexes/exhibit_28.png)
-- **Exhibit 30**: ![WebUntis público rcsmm.webuntis.com con horarios](annexes/exhibit_30.png)
-
-### §6 — Otra información
-
-- **Exhibit 31**: ![Terminal: dig rcsmm.eu MX +short + TXT +short](annexes/exhibit_31.png)
-- **Exhibit 32**: ![Terminal: dig rcsmm.eu TXT +short \| grep "v=spf1"](annexes/exhibit_32.png)
-- **Exhibit 33**: ![Terminal: dig _dmarc.rcsmm.eu TXT +short](annexes/exhibit_33.png)
-- **Exhibit 34**: ![Terminal: dig _dmarc.rcsmm.es TXT +short](annexes/exhibit_34.png)
-- **Exhibit 35**: ![Terminal: dig rcsmm.es TXT +short](annexes/exhibit_35.png)
-- **Exhibit 39**: ![Terminal: curl -sI cabeceras HTTP completas](annexes/exhibit_39.png)
-- **Exhibit 40**: ![Terminal: curl + jq en CDX API de Wayback — PDFs expuestos con DNIs de aspirantes](annexes/exhibit_40.png)
-
 ### Notas
 - Todas las capturas de terminal deben mostrar el **comando y su salida** en la misma ventana para trazabilidad
 - Fecha de las capturas: coincidente con la fecha del informe
 - Sistema recomendado: **Kali Linux** (con `dig`, `curl`, `jq`, `whatweb`, `pdfinfo`, `openssl`)
 - Si alguna fuente no está accesible en el momento de la captura, indicar "No accesible" en el pie de foto
+
+---
+
+[^exhibit-1]: **Dorking Google** — `site:rcsmm.eu filetype:pdf`. ![](annexes/exhibit_01.png)
+[^exhibit-2]: **Wikipedia**. ![](annexes/exhibit_02.png)
+[^exhibit-3]: **Caso acoso**. ![](annexes/exhibit_03.png)
+[^exhibit-5]: **Twitter/X** — Perfil oficial @RCSMM_oficial. ![](annexes/exhibit_05.png)
+[^exhibit-7]: **YouTube** — Canal oficial del RCSMM. ![](annexes/exhibit_07.png)
+[^exhibit-9]: **NIF** — Q2868055A localizado en einforma.com. ![](annexes/exhibit_09.png)
+[^exhibit-11]: **Precios** — Tabla de tasas en /preguntas-frecuentes. ![](annexes/exhibit_11.png)
+[^exhibit-12]: **Transparencia** — Portal "En construcción". ![](annexes/exhibit_12.png)
+[^exhibit-13]: **Metadatos PDF** — Autor "Patricia Arbolí" desde pdfinfo. ![](annexes/exhibit_13.png)
+[^exhibit-14]: **DNS básico** — Registros A, NS y SOA de rcsmm.eu. ![](annexes/exhibit_14.png)
+[^exhibit-15]: **Subdominios** — moodle, intranet, webmail, ftp resueltos. ![](annexes/exhibit_15.png)
+[^exhibit-16]: **IP 62.97.84.197** — PTR arvy.futurvia.net (COLT). ![](annexes/exhibit_16.png)
+[^exhibit-17]: **IP 213.172.39.24** — PTR orfeo.servytec.es (Servytec). ![](annexes/exhibit_17.png)
+[^exhibit-18]: **CAA** — Sin resultados. ![](annexes/exhibit_18.png)
+[^exhibit-19]: **CT logs** — Subdominios descubiertos vía crt.sh. ![](annexes/exhibit_19.png)
+[^exhibit-20]: **SNPanel** — Panel de hosting en 213.172.39.24:12000. ![](annexes/exhibit_20.png)
+[^exhibit-21]: **Whatweb** — Tecnologías detectadas en rcsmm.eu + moodle. ![](annexes/exhibit_21a.png) ![](annexes/exhibit_21b.png)
+[^exhibit-22]: **Drupal 9** — Cabecera X-Generator confirma versión 9.5.11. ![](annexes/exhibit_22.png)
+[^exhibit-23]: **PHP 5.6** — Moodle ejecuta PHP 5.6.38 (EOL). ![](annexes/exhibit_23.png)
+[^exhibit-24]: **robots.txt**. ![](annexes/exhibit_24.png)
+[^exhibit-25]: **403 Forbidden** — /user/register bloqueado. ![](annexes/exhibit_25.png)
+[^exhibit-26]: **SSL/TLS** — Certificado y cadena de confianza. ![](annexes/exhibit_26.png)
+[^exhibit-27]: **Equipo directivo** — Organigrama en /equipo-directivo. ![](annexes/exhibit_27.png)
+[^exhibit-28]: **Profesorado** — Listado Departamento de Cuerda. ![](annexes/exhibit_28.png)
+[^exhibit-30]: **WebUntis** — Horarios públicos sin autenticación. ![](annexes/exhibit_30.png)
+[^exhibit-31]: **MX + TXT** — Registros de correo de rcsmm.eu. ![](annexes/exhibit_31.png)
+[^exhibit-32]: **SPF** — `v=spf1 ip4:213.172.39.16/28 ... -all`. ![](annexes/exhibit_32.png)
+[^exhibit-33]: **DMARC rcsmm.eu** — Política `p=quarantine`. ![](annexes/exhibit_33.png)
+[^exhibit-34]: **DMARC rcsmm.es** — Dominio secundario. ![](annexes/exhibit_34.png)
+[^exhibit-35]: **TXT rcsmm.es** — Verificación Microsoft 365. ![](annexes/exhibit_35.png)
+[^exhibit-39]: **Cabeceras HTTP** — HSTS, X-Frame-Options, etc. ![](annexes/exhibit_39.png)
+[^exhibit-40]: **Wayback Machine** — ~90 PDFs con DNIs de aspirantes expuestos. ![](annexes/exhibit_40.png)
