@@ -10,7 +10,7 @@ Abrir navegador, buscar:
 site:rcsmm.eu filetype:pdf
 ```
 **Captura**: Pantalla completa con la URL y resultados.
-
+![](attachments/{7E330799-DB0B-4176-97A0-C2E87BA960A4}.png)
 ---
 
 ## Exhibit 2 — Wikipedia
@@ -18,7 +18,7 @@ site:rcsmm.eu filetype:pdf
 https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
 ```
 **Captura**: Entrada completa de Wikipedia.
-
+![](attachments/{6360986E-5903-46B7-AD1B-81EB4D1B12AC}.png)
 ---
 
 ## Exhibit 3 — El Mundo (protesta Santa Cecilia)
@@ -26,14 +26,10 @@ https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
 https://www.elmundo.es/cultura/2025/11/26/69272c5fe4d4d89f458b4585.html
 ```
 **Captura**: Titular y entradilla.
-
+![](attachments/Pasted%20image%2020260616193605.png)
 ---
 
-## Exhibit 4 — El Mundo (carta alumnos Consejería)
-```
-https://www.elmundo.es/cultura/2025/12/10/69399676e85eceb4778b4584.html
-```
-**Captura**: Titular y entradilla.
+EXHIBIT 4, borrar
 
 ---
 
@@ -42,14 +38,10 @@ https://www.elmundo.es/cultura/2025/12/10/69399676e85eceb4778b4584.html
 https://x.com/RCSMM_oficial
 ```
 **Captura**: Perfil completo (avatar, banner, bio, follower count).
-
+![](attachments/Pasted%20image%2020260616193654.png)
 ---
 
-## Exhibit 6 — Instagram @conservatorio_superior_madrid
-```
-https://www.instagram.com/conservatorio_superior_madrid
-```
-**Captura**: Perfil completo.
+## Exhibit 6 BORRAR
 
 ---
 
@@ -58,10 +50,10 @@ https://www.instagram.com/conservatorio_superior_madrid
 https://www.youtube.com/channel/UCBGKPm5YfetqA73juM7jVBg
 ```
 **Captura**: Canal oficial (about page con enlaces).
-
+![](attachments/{B2DDF442-EB98-48CC-8D5E-57B7B590B615}.png)
 ---
 
-## Exhibit 8 — Facebook oficial
+## Exhibit 8 — BORRAR
 ```
 https://www.facebook.com/RealConservatorioSuperiordeMusicadeMadrid/
 ```
@@ -69,15 +61,16 @@ https://www.facebook.com/RealConservatorioSuperiordeMusicadeMadrid/
 
 ---
 
-## Exhibit 9 — NIF en aviso legal
+## Exhibit 9 — NIF en aviso legal BORRAR
 ```
 https://rcsmm.eu/aviso-legal
 ```
-**Captura**: Sección donde aparece NIF Q2868055A.
+**Captura**: Sección donde aparece NIF Q2868055A. #OPENCODE NO APARECE EN ESA PÁGINA, APARECE EN https://www.einforma.com/informacion-empresa/real-conservatorio-superior-musica-madrid-mec
+![](attachments/{E6156CE8-7368-4F5F-80E6-816C9B392684}.png)
 
 ---
 
-## Exhibit 10 — Política de privacidad
+## Exhibit 10 — Política de privacidad BORRAR, NO ES NECESARIO PARA OSINT
 ```
 https://rcsmm.eu/politica-privacidad
 ```
@@ -90,7 +83,7 @@ https://rcsmm.eu/politica-privacidad
 https://rcsmm.eu/preguntas-frecuentes
 ```
 **Captura**: Tabla de precios (216,10 €/crédito, 49 € prueba acceso).
-
+![](attachments/{B8706EDA-91A1-4B0F-8C83-B1B344C44FA6}.png)
 ---
 
 ## Exhibit 12 — Portal de Transparencia
@@ -98,7 +91,7 @@ https://rcsmm.eu/preguntas-frecuentes
 https://rcsmm.eu/portal-transparencia
 ```
 **Captura**: Mensaje "En construcción".
-
+![](attachments/Pasted%20image%2020260616194035.png)
 ---
 
 ## Exhibit 13 — Metadatos PDF (pdfinfo)
@@ -107,7 +100,7 @@ curl -s -k -o /tmp/23.pdf "https://rcsmm.eu/sites/default/files/2023-11/23.pdf"
 pdfinfo /tmp/23.pdf
 ```
 **Captura**: Salida mostrando Author (Patricia Arbolí), Creator (Microsoft Word 2019), fechas.
-
+![](attachments/{3B8133D7-B64B-4F20-A111-B4CBECE7AE0A}.png)
 ---
 
 ## Exhibit 14 — DNS básico (A, NS, SOA)
@@ -117,7 +110,7 @@ dig rcsmm.eu NS +short
 dig rcsmm.eu SOA
 ```
 **Captura**: IP 62.97.84.197, ns1-4.servytec.es, SOA serial 2026031201.
-
+![](attachments/{F3F40143-7E21-4F30-8390-92A558B2472C}.png)
 ---
 
 ## Exhibit 15 — Subdominios
@@ -125,7 +118,7 @@ dig rcsmm.eu SOA
 for s in moodle intranet webmail ftp; do dig $s.rcsmm.eu A +short; done
 ```
 **Captura**: Los 4 devuelven 213.172.39.24.
-
+![](attachments/Pasted%20image%2020260616194438.png)
 ---
 
 ## Exhibit 16 — PTR servidor web
@@ -133,7 +126,7 @@ for s in moodle intranet webmail ftp; do dig $s.rcsmm.eu A +short; done
 dig -x 62.97.84.197 +short
 ```
 **Captura**: `arvy.futurvia.net`
-
+![16](attachments/Pasted%20image%2020260616194321.png)
 ---
 
 ## Exhibit 17 — PTR servidor interno
