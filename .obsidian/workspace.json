@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberTesting/XXE.md",
+                "file": "OSINT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "XXE"
+              "title": "OSINT"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "447c60c6f620624e",
   "lastOpenFiles": [
+    "CyberTesting/XXE.md",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/OSSTMM.3.pdf",
     "CyberTesting/Nmap Checklist.md",
