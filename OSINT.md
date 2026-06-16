@@ -28,7 +28,7 @@
 
 ### 2.2 Apariciones destacadas en los medios
 
-#### Caso de acoso (2025) [Exhibit 3] [Exhibit 4]
+#### Caso de acoso (2025) [Exhibit 3]
 - En nov-dic 2025, varios medios nacionales cubrieron denuncias de alumnas por presuntos abusos sexuales y acoso por parte del catedrático de clarinete Pedro Garbajosa. La Policía Nacional abrió investigación de oficio. El centro se remitió al expediente abierto desde hacía año y medio.
   - El Mundo (26/11/2025): https://www.elmundo.es/cultura/2025/11/26/69272c5fe4d4d89f458b4585.html
   - El Mundo (10/12/2025): https://www.elmundo.es/cultura/2025/12/10/69399676e85eceb4778b4584.html
@@ -39,7 +39,7 @@
   - 20minutos (29/11/2025): https://www.20minutos.es/madrid/alumnas-real-conservatorio-madrid-denuncian-anos-abusos-un-profesor-te-tocaba-con-excusa-ensenarte-respirar_6904016_0.html
   - La Vanguardia (12/12/2025): https://www.lavanguardia.com/local/madrid/20251212/11355942/policia-investiga-acusaciones-abusos-sexuales-profesor-clarinete-conservatorio-musica-madrid.html
 
-#### Otras apariciones en medios [Exhibit 40]
+#### Otras apariciones en medios
 | Medio | Fecha | Título / Evento | Enlace |
 |-------|-------|----------------|--------|
 | RTVE | 11/06/2026 | Clausura III edición Máster Interpretación Sinfónica (OCRTVE + RCSMM). Padrino: Josu de Solaun | https://www.rtve.es/rtve/20260611/clausura-iii-edicion-del-master-interpretacion-sinfonica-orquesta-coro-rtve-rcsmm/17110576.shtml |
@@ -59,7 +59,7 @@
 ### 2.3 Contacto y redes sociales
 
 - Página web oficial: https://rcsmm.eu
-- Redes sociales: [Exhibit 5] [Exhibit 6] [Exhibit 7] [Exhibit 8]
+- Redes sociales: [Exhibit 5] [Exhibit 7]
   - Twitter/X: https://x.com/RCSMM_oficial — Perfil oficial verificado (@RCSMM_oficial)
   - Instagram: https://www.instagram.com/conservatorio_superior_madrid — Perfil oficial
   - YouTube: https://www.youtube.com/channel/UCBGKPm5YfetqA73juM7jVBg — Canal oficial
@@ -70,9 +70,6 @@
   - **CODEX** (https://www.codex.pro/) — Gestión académica y calificaciones de alumnos. Plataforma externa desarrollada por Dial S.L. (http://www.dialsl.es/). Sistema SaaS con login. 
   - **WebUntis** (https://rcsmm.webuntis.com/) — Horario público. Sin autenticación lista horarios completos con nombres de profesores, asignaturas, aulas y grupos.
 - Teléfono: +34 91 539 29 01 | Fax: +34 91 527 58 22
-
-### 2.4 Política de privacidad [Exhibit 10]
-- Página disponible en https://rcsmm.eu/politica-privacidad
 
 ## 3. Información administrativa
 
@@ -330,7 +327,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
   - César Ausejo — Jefe de estudios Erasmus (jefestudio4@rcsmm.eu)
   - Isabel Menéndez — Jefa de Secretaría
   - Patricia Arbolí — Secretaria
-  - Profesorado del Departamento de Cuerda listado públicamente en web (25+ profesores con nombre completo y especialidad) [Exhibit 28] [Exhibit 29]
+  - Profesorado del Departamento de Cuerda listado públicamente en web (25+ profesores con nombre completo y especialidad) [Exhibit 28]
 
 #### 5.2.2 Redes sociales
 - Perfiles corporativos relevantes: @RCSMM_oficial (X/Twitter), @conservatorio_superior_madrid (Instagram)
@@ -368,7 +365,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 - Correos publicados en web oficial (extraídos mediante `curl + greP -oP` del HTML y de registros DNS DMARC):
   - `infosecre@rcsmm.eu` — Secretaría académica / contacto general
   - `info@rcsmm.eu` — Contacto general (según AEC)
-  - `biblioteca@rcsmm.eu` — Biblioteca del centro (confirmado en /informacion) [Exhibit 38]
+  - `biblioteca@rcsmm.eu` — Biblioteca del centro (confirmado en /informacion)
   - `erasmus@rcsmm.eu` — Coordinación Erasmus
   - `dmarc-analysis@rcsmm.eu` — Informes agregados DMARC (RUA) (extraído del registro TXT `_dmarc.rcsmm.eu`)
   - `dmarc-forensics@rcsmm.eu` — Informes forenses DMARC (RUF) (extraído del registro TXT `_dmarc.rcsmm.eu`)
@@ -383,7 +380,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
   **Definición**: El registro DMARC (Domain-based Message Authentication Reporting) establece cómo los mensajes fallan en verificaciones SPF/DKIM y quién recibe informes
 - Microsoft verification: `MS=ms13757792` (en rcsmm.eu)
   **Definición**: El token de verificación de Microsoft confirma propiedad del dominio para servicios de Microsoft 365
-- Posibles selectores DKIM (detectados como registros TXT en raíz del dominio, formato compatible con Microsoft 365): `_j086yc6fkdff4hfxni3svuz2k437bxd`, `_2t2d9xz3ow186tdizt6vge7kenyxfoc`, `ls86y0hdz3l881ws89g4592m4qc52s6w`, `8lrtrcstkqy8dx7zw3fkzy3n29hc9wf9` [Exhibit 36]
+- Posibles selectores DKIM (detectados como registros TXT en raíz del dominio, formato compatible con Microsoft 365): `_j086yc6fkdff4hfxni3svuz2k437bxd`, `_2t2d9xz3ow186tdizt6vge7kenyxfoc`, `ls86y0hdz3l881ws89g4592m4qc52s6w`, `8lrtrcstkqy8dx7zw3fkzy3n29hc9wf9`
   **Definición**: Los selectores DKIM (DomainKeys Identified Mail) son claves criptográficas usadas para firmar y verificar la autenticidad de los correos salientes
 
 ### 6.1.2 Dominio secundario identificado [Exhibit 34] [Exhibit 35]
@@ -478,16 +475,12 @@ Para respaldar visualmente la información del informe, se incluyen los siguient
 - **Exhibit 1**: ![Resultados Google dorking site:rcsmm.eu filetype:pdf](annexes/exhibit_01.png)
 - **Exhibit 2**: ![Página de Wikipedia Madrid Royal Conservatory](annexes/exhibit_02.png)
 - **Exhibit 3**: ![Titular El Mundo — protesta Santa Cecilia (26/11/2025)](annexes/exhibit_03.png)
-- **Exhibit 4**: ![Titular El Mundo — carta alumnos Consejería (10/12/2025)](annexes/exhibit_04.png)
 - **Exhibit 5**: ![Perfil de Twitter/X @RCSMM_oficial](annexes/exhibit_05.png)
-- **Exhibit 6**: ![Perfil de Instagram @conservatorio_superior_madrid](annexes/exhibit_06.png)
 - **Exhibit 7**: ![Canal de YouTube del RCSMM](annexes/exhibit_07.png)
-- **Exhibit 8**: ![Página de Facebook oficial](annexes/exhibit_08.png)
 
 ### §3 — Información administrativa
 
-- **Exhibit 9**: ![Página /aviso-legal con NIF Q2868055A](annexes/exhibit_09.png)
-- **Exhibit 10**: ![Página /politica-privacidad](annexes/exhibit_10.png)
+- **Exhibit 9**: ![NIF Q2868055A en einforma.com](annexes/exhibit_09.png)
 - **Exhibit 11**: ![Página /preguntas-frecuentes con tabla de precios](annexes/exhibit_11.png)
 - **Exhibit 12**: ![Página /portal-transparencia mostrando "En construcción"](annexes/exhibit_12.png)
 - **Exhibit 13**: ![Terminal: pdfinfo /tmp/23.pdf — metadatos del PDF](annexes/exhibit_13.png)
@@ -501,7 +494,7 @@ Para respaldar visualmente la información del informe, se incluyen los siguient
 - **Exhibit 18**: ![Terminal: dig rcsmm.eu CAA +short — sin salida (sin CAA)](annexes/exhibit_18.png)
 - **Exhibit 19**: ![Terminal: curl crt.sh + jq — subdominios por CT logs](annexes/exhibit_19.png)
 - **Exhibit 20**: ![Censys/Shodan — panel SNPanel en 213.172.39.24:12000](annexes/exhibit_20.png)
-- **Exhibit 21**: ![Terminal: whatweb rcsmm.eu — detección de tecnologías](annexes/exhibit_21.png)
+- **Exhibit 21**: ![Terminal: whatweb rcsmm.eu — detección de tecnologías](annexes/exhibit_21a.png) + ![Terminal: whatweb moodle.rcsmm.eu](annexes/exhibit_21b.png)
 - **Exhibit 22**: ![Terminal: curl -sI https://rcsmm.eu — X-Generator: Drupal 9](annexes/exhibit_22.png)
 - **Exhibit 23**: ![Terminal: curl -sI https://moodle.rcsmm.eu/login/index.php — X-Powered-By: PHP/5.6.38](annexes/exhibit_23.png)
 - **Exhibit 24**: ![Terminal: curl -s https://rcsmm.eu/robots.txt](annexes/exhibit_24.png)
@@ -512,21 +505,17 @@ Para respaldar visualmente la información del informe, se incluyen los siguient
 
 - **Exhibit 27**: ![Página /equipo-directivo con organigrama](annexes/exhibit_27.png)
 - **Exhibit 28**: ![Página /departamento-cuerda con listado de profesores](annexes/exhibit_28.png)
-- **Exhibit 29**: ![Terminal: grep -oP extracción de nombres de profesores del HTML](annexes/exhibit_29.png)
 - **Exhibit 30**: ![WebUntis público rcsmm.webuntis.com con horarios](annexes/exhibit_30.png)
 
 ### §6 — Otra información
 
 - **Exhibit 31**: ![Terminal: dig rcsmm.eu MX +short + TXT +short](annexes/exhibit_31.png)
-- **Exhibit 32**: ![Terminal: dig rcsmm.eu TXT +short | grep "v=spf1"](annexes/exhibit_32.png)
+- **Exhibit 32**: ![Terminal: dig rcsmm.eu TXT +short \| grep "v=spf1"](annexes/exhibit_32.png)
 - **Exhibit 33**: ![Terminal: dig _dmarc.rcsmm.eu TXT +short](annexes/exhibit_33.png)
 - **Exhibit 34**: ![Terminal: dig _dmarc.rcsmm.es TXT +short](annexes/exhibit_34.png)
 - **Exhibit 35**: ![Terminal: dig rcsmm.es TXT +short](annexes/exhibit_35.png)
-- **Exhibit 36**: ![Terminal: dig _domainkey.rcsmm.eu TXT +short — DKIM](annexes/exhibit_36.png)
-- **Exhibit 37**: ![Terminal: curl + grep -oP extracción de emails del HTML](annexes/exhibit_37.png)
-- **Exhibit 38**: ![Página /informacion con biblioteca@rcsmm.eu](annexes/exhibit_38.png)
+- **Exhibit 37**: ![Terminal: curl + grep -oP extracción de emails del HTML (home + /informacion + /contacto)](annexes/exhibit_37.png)
 - **Exhibit 39**: ![Terminal: curl -sI cabeceras HTTP completas](annexes/exhibit_39.png)
-- **Exhibit 40**: ![Captura de §2.2 — tabla Otras apariciones en medios](annexes/exhibit_40.png)
 
 ### Notas
 - Todas las capturas de terminal deben mostrar el **comando y su salida** en la misma ventana para trazabilidad
