@@ -108,7 +108,7 @@
 
 ## 4. Información técnica
 
-> **Comandos utilizados (Kali Linux):**
+> **Comandos utilizados :**
 > ```bash
 > # DNS básico
 > dig rcsmm.eu A +short
@@ -121,7 +121,7 @@
 > # PTR (resolución inversa)
 > dig -x 62.97.84.197 +short
 > dig -x 213.172.39.24 +short
-> # CAA (requiere dig con soporte → Kali sí, Windows no)
+> # CAA
 > dig rcsmm.eu CAA +short
 > # crt.sh → subdominios por CT logs
 > curl -s "https://crt.sh/?q=%25.rcsmm.eu&output=json" | jq -r '.[].name_value | split("\n") | .[]' | sort -u | sed 's/^\*\.//'
@@ -176,7 +176,7 @@
 - Hosting secundario: Strato AG (81.169.145.158) para rcsmm.es (email profesorado)
 - Ubicación aproximada: Madrid, España / Frankfurt, Alemania (rcsmm.es)
 
-> **Comandos utilizados (Kali Linux):**
+> **Comandos utilizados :**
 > ```bash
 > # Cabeceras HTTP
 > curl -sI https://rcsmm.eu
@@ -219,11 +219,11 @@
   - **DKIM configurado** (4 posibles selectores detectados en TXT) — Spoofing mitigado parcialmente
   - **DMARC en quarantine** (no reject)  — Correos suplantados no se rechazan
   - **FTP expuesto (Pure-FTPd)** — DNS confirma subdominio ftp.rcsmm.eu en 213.172.39.24. Shodan confirma Pure-FTPd con listado de directorios y capacidades de subida. Es el vector de entrada más directo para un atacante: acceso a archivos internos del servidor y posibilidad de plantar contenido malicioso (defacement).
-  - **Sin registro CAA** — Cualquier CA puede emitir certificados (confirmado con `dig rcsmm.eu CAA +short` → sin salida en Kali)
+  - **Sin registro CAA** — Cualquier CA puede emitir certificados
 - Referencias:
-  - Tenable: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768
-  - NVD: CVE-2018-19518, CVE-2015-6836, CVE-2016-4538
-  - OSV.dev: Múltiples CVEs PHP
+  - Tenable: [CVE-2016-7124](https://www.tenable.com/cve/CVE-2016-7124), [CVE-2016-5771](https://www.tenable.com/cve/CVE-2016-5771), [CVE-2016-5768](https://www.suse.com/security/cve/CVE-2016-5768.html)
+  - NVD: [CVE-2018-19518](https://nvd.nist.gov/vuln/detail/CVE-2018-19518), [CVE-2015-6836](https://nvd.nist.gov/vuln/detail/CVE-2015-6836), [CVE-2016-4538](https://nvd.nist.gov/vuln/detail/CVE-2016-4538)
+  - OSV.dev: Múltiples CVEs PHP ([OSV.dev](https://osv.dev/list?q=php))
   - Wikipedia: https://en.wikipedia.org/wiki/Madrid_Royal_Conservatory
 
 #### 4.2.4 Análisis de vectores de explotación (defacement)
@@ -264,13 +264,11 @@ Drupal 9 alcanzó EOL en **noviembre de 2023**. No recibe parches de seguridad d
 
 ### Vía 3: Exposición de servicios internos
 
-| Servicio | URL | Riesgo |
-|----------|-----|--------|
-| FTP | `ftp.rcsmm.eu` | **Alto** — Si permite acceso anónimo, subida de webshell, reemplazo de index.html, exfiltración de datos |
-| Intranet | `intranet.rcsmm.eu` | Panel interno sin autenticación visible |
-| phpMyAdmin? | `webmail.rcsmm.eu` | Webmail expuesto |
-
-La exposición del servicio FTP es especialmente crítica: es un punto de entrada habitual para actores de amenazas, permitiendo desde defacement hasta establecimiento de persistencia. Debería priorizarse su revisión inmediata.
+| Servicio    | URL                 | Riesgo                                                                                                   |
+| ----------- | ------------------- | -------------------------------------------------------------------------------------------------------- |
+| FTP         | `ftp.rcsmm.eu`      | **Alto** — Si permite acceso anónimo, subida de webshell, reemplazo de index.html, exfiltración de datos |
+| Intranet    | `intranet.rcsmm.eu` | Panel interno sin autenticación visible                                                                  |
+| phpMyAdmin? | `webmail.rcsmm.eu`  | Webmail expuesto                                                                                         |
 
 ### Resumen de prioridad de mitigación
 
@@ -297,7 +295,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 
 ## 5. Información corporativa
 
-> **Fuentes utilizadas (Kali Linux):**
+> **Fuentes utilizadas :**
 > ```bash
 > curl -s https://rcsmm.eu/nuestro-centro
 > curl -s https://rcsmm.eu/departamento-cuerda
@@ -339,7 +337,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 
 ## 6. Otra información
 
-> **Comandos utilizados (Kali Linux):**
+> **Comandos utilizados :**
 > ```bash
 > # Registros MX y TXT
 > dig rcsmm.eu MX +short
@@ -372,7 +370,7 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
   - **`nombre@rcsmm.eu`** — Formato administrativo. Se observó en `infosecre@rcsmm.eu`, `erasmus@rcsmm.eu`. Se infiere que el personal de administración usa este formato simple.
   - **`nombre.apellido@rcsmm.es`** — Formato del profesorado. Inferido de la presencia de un dominio separado `rcsmm.es` con SPF de Outlook (`include:spf.protection.outlook.com`), lo que indica Microsoft 365. El patrón `nombre.apellido` es el estándar en Exchange Online para cuentas de personal docente. Combinando la lista pública de profesores del Departamento de Cuerda (25+ nombres), se puede reconstruir el correo de cualquier docente.
 
-### 6.1.4 Registros TXT confirmados [^exhibit-31] [^exhibit-32]
+### 6.1.4 Registros TXT [^exhibit-31] [^exhibit-32]
 - SPF: `v=spf1 ip4:213.172.39.16/28 ip4:217.172.77.96/27 ip6:2a11:1f40::/29 -all`
   **Definición**: El registro SPF (Sender Policy Framework) autoriza qué servidores pueden enviar correos en nombre del dominio
 - DMARC: `_dmarc.rcsmm.eu` → `v=DMARC1; p=quarantine; rua=mailto:dmarc-analysis@rcsmm.eu; ruf=mailto:dmarc-forensics@rcsmm.eu` [^exhibit-33]
@@ -398,20 +396,10 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 - Todos resuelven a `213.172.39.24`
 
 ### 6.2 Metadatos
-- Documentos analizados: PDFs públicos del sitio (ver [3.3 Metadatos de documentos públicos [^exhibit-13]](#3.3%20Metadatos%20de%20documentos%20públicos%20[%20exhibit-13])). No se descargaron documentos adicionales para análisis de metadatos
+- Documentos analizados: PDFs públicos del sitio (ver [3.3 Metadatos de documentos públicos [^exhibit-13]](#3.3%20Metadatos%20de%20documentos%20públicos%20[%20exhibit-13])). 
 - Información extraída: Autor "Patricia Arbolí" detectado en múltiples PDFs de Secretaría publicados en `/sites/default/files/`
 
 ### 6.3 Exposición de datos en Wayback Machine [^exhibit-40]
-
-Se ha identificado una exposición masiva de datos personales a través del **Internet Archive Wayback Machine**.
-
-Según la muestra analizada, estos PDFs contienen **DNI/NIF de aspirantes a pruebas de acceso** del conservatorio. Cualquier persona con acceso a Wayback Machine podía —y puede— descargar estos documentos. 
-
-**Si bien algunos PDFs solo muestran los DNI, otros muestran nombres + parte de DNI, por lo que la identificación completa resultaría trivial**.
-
-**Implicación legal**: Esta exposición constituye una violación del **RGPD** (Reglamento General de Protección de Datos, art. 32: seguridad del tratamiento) y de la **LOPDGDD** (Ley Orgánica 3/2018, art. 19: medidas de seguridad).
-
-**Alcance estimado**: ~90+ PDFs con documentos de aspirantes a pruebas de acceso, fechados entre 2014 y 2023.
 
 **Comando de búsqueda**:
 ```bash
@@ -419,9 +407,17 @@ curl -s "https://web.archive.org/cdx/search/cdx?url=rcsmm.eu/download.php*&outpu
 | jq -r '.[] | select(.[2] | test("\\.pdf|id=")) | "https://web.archive.org/web/\(.[1])/\(.[2])"'
 ```
 
-## 7. Recomendaciones
+Se ha identificado una exposición masiva de datos personales a través del Internet Archive Wayback Machine.
 
-### Resumen ejecutivo
+Según la muestra analizada, estos PDFs contienen DNI/NIF de aspirantes a pruebas de acceso del conservatorio. Cualquier persona con acceso a Wayback Machine podía —y puede— descargar estos documentos. 
+
+**Si bien algunos PDFs solo muestran los DNI, otros muestran nombres + parte de DNI, por lo que la identificación completa resultaría trivial**.
+
+**Implicación legal**: Esta exposición constituye una violación del **RGPD** (Reglamento General de Protección de Datos, art. 32: seguridad del tratamiento) y de la **LOPDGDD** (Ley Orgánica 3/2018, art. 19: medidas de seguridad).
+
+**Alcance estimado**: ~90+ PDFs con documentos de aspirantes a pruebas de acceso, fechados entre 2014 y 2023.
+
+## 7. Recomendaciones
 
 El RCSMM presenta **tres prioridades críticas de mitigación** ordenadas por impacto potencial:
 
@@ -436,6 +432,7 @@ El RCSMM presenta **tres prioridades críticas de mitigación** ordenadas por im
 > - Accesibilidad del servicio desde Internet
 > - Impacto potencial en la confidencialidad, integridad y disponibilidad
 > - Exposición de datos personales en fuentes públicas
+
 - Mejora de seguridad visible:
   - **🔴 Crítico inmediato**: Restringir **FTP por IP/VPN o deshabilitarlo**. Aislar servidor Moodle (PHP 5.6 + Debian 8 — todo EOL). Migrar a PHP 8.x, Debian 12, Moodle 4.x. Realizar forensia por posible compromiso previo.
   - **🟡 Alto**: Implementar DKIM y subir DMARC a `p=reject`. Migrar Drupal 9 a versión soportada. Revisar acceso a Intranet desde Internet.
