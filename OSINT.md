@@ -404,11 +404,13 @@ La exposición del servicio FTP es especialmente crítica: es un punto de entrad
 
 ### 6.3 Exposición de datos en Wayback Machine [^exhibit-40]
 
-Se ha identificado una exposición masiva de datos personales a través del **Internet Archive Wayback Machine**. El sitio `rcsmm.eu` utilizaba un script `download.php?table=sn_repositorio&id=XXX` que servía PDFs públicos almacenados en la base de datos (tabla `sn_repositorio`). Aunque el script ya no está accesible en el sitio actual, Wayback Machine conservó **decenas de PDFs** con IDs entre 118 y 1189.
+Se ha identificado una exposición masiva de datos personales a través del **Internet Archive Wayback Machine**.
 
-Según la muestra analizada, estos PDFs contienen **DNI/NIF de aspirantes a pruebas de acceso** del conservatorio. Cualquier persona con acceso a Wayback Machine podía —y puede— descargar estos documentos.
+Según la muestra analizada, estos PDFs contienen **DNI/NIF de aspirantes a pruebas de acceso** del conservatorio. Cualquier persona con acceso a Wayback Machine podía —y puede— descargar estos documentos. 
 
-**Implicación legal**: Esta exposición constituye una violación del **RGPD** (Reglamento General de Protección de Datos, art. 32: seguridad del tratamiento) y de la **LOPDGDD** (Ley Orgánica 3/2018, art. 19: medidas de seguridad). La publicacíón de datos identificativos de aspirantes sin seudonimización ni control de acceso expone al RCSMM a posibles sanciones.
+**Si bien algunos PDFs solo muestran los DNI, otros muestran nombres + parte de DNI, por lo que la identificación completa resultaría trivial**.
+
+**Implicación legal**: Esta exposición constituye una violación del **RGPD** (Reglamento General de Protección de Datos, art. 32: seguridad del tratamiento) y de la **LOPDGDD** (Ley Orgánica 3/2018, art. 19: medidas de seguridad).
 
 **Alcance estimado**: ~90+ PDFs con documentos de aspirantes a pruebas de acceso, fechados entre 2014 y 2023.
 
