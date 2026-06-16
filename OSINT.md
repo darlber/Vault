@@ -513,4 +513,4 @@ El RCSMM presenta **tres prioridades críticas de mitigación** ordenadas por im
 [^exhibit-35]: **TXT rcsmm.es** — Verificación Microsoft 365. ![](annexes/exhibit_35.png)
 [^exhibit-39]: **Cabeceras HTTP** — HSTS, X-Frame-Options, etc. ![](annexes/exhibit_39.png)
 [^exhibit-40]: **Wayback Machine** — ~90 PDFs con DNIs de aspirantes expuestos. ![](annexes/exhibit_40.png)
-[^exhibit-41] ![](annexes/exhibit_41.png)
+[^exhibit-41]: ![](annexes/exhibit_41.png)
