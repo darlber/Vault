@@ -204,15 +204,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "54860b64a846bba8",
   "lastOpenFiles": [
-    "annexes/exhibit_41.png",
     "serradilla_alberto_ejercicioOSINT.md",
+    "annexes/exhibit_41.png",
     "attachments",
     "annexes/exhibit_40.png",
     "listado.md",
