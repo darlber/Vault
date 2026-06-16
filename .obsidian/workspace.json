@@ -148,7 +148,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md"
+                "file": "README.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -209,7 +209,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "666427ab929da33d",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
     "listado.md",
     "README.md",
