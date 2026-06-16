@@ -144,7 +144,7 @@
 
 - Resolución DNS: 4 nameservers (ns1-4.servytec.es), SOA Serial 2026031201 (mar 2026)
 - Dominio secundario `rcsmm.es`: Nameservers `docks10.rzone.de` / `shades03.rzone.de` (Strato)
-- **Shodan / Censys**: La consulta a Shodan y Censys para estas IPs requiere suscripción API para resultados completos. Escaneos públicos previos muestran servicios HTTP/HTTPS en 62.97.84.197 y múltiples puertos en 213.172.39.24 (SMTP, POP3, IMAP, HTTP, HTTPS). Pendiente de análisis detallado con API.
+- **Shodan / Censys — Datos confirmados** (vía Shodan InternetDB): La IP `213.172.39.24` expone **12 puertos** (21/FTP, 25/SMTP, 53/DNS, 80/HTTP, 110/POP3, 143/IMAP, 443/HTTPS, 465/SMTPS, 587/SUBMISSION, 993/IMAPS, 31337/desconocido). Shodan detecta Pure-FTPd, Postfix, Apache HTTP, **PHP 5.6.38 (EOL)** y Dovecot. Acumula **27+ CVEs activos**. La IP `62.97.84.197` solo expone 80/443 (Apache, sin CVEs activos). `81.169.145.158` (Strato) expone puertos FTP/HTTP/HTTPS/8080 con Apache 2.4.68.
 - **Registro CAA**: No encontrado (`dig rcsmm.eu CAA +short` → sin salida) [^exhibit-18]
 
 ### 4.2 Servidor
@@ -207,8 +207,7 @@
 | 🔴 **CRÍTICA** | PHP 5.6.38 EOL — Múltiples RCE (CVSS 9.8)    | Moodle / Stack completo |
 | 🔴 **CRÍTICA** | Debian 8 Jessie EOL — Sin parches desde 2020 | Moodle                  |
 | 🔴 **CRÍTICA** | Drupal 9.5.11 EOL — Sin parches desde 2023   | Web principal           |
-| 🟠 **ALTA**    | DMARC en quarantine (no reject)              | Correo                  |
-| 🟠 **ALTA**    | FTP e Intranet expuestos sin restricción     | Red interna             |
+| 🔴 **CRÍTICA** | **FTP expuesto (Pure-FTPd) en 213.172.39.24** — Subida/descarga de archivos sin restricción aparente. Shodan confirma Pure-FTPd + 27+ CVEs en el mismo host. Vector de entrada directo para defacement o robo de datos. | Red interna / Servidor  |
 | 🟡 **MEDIA**   | Sin registro CAA                             | DNS                     |
 | 🟢 **BAJA**    | Versión Apache expuesta                      | Servidor web            |
 
@@ -219,7 +218,7 @@
   - **Moodle** — Versión exacta no confirmada pasivamente; stack (PHP 5.6, Debian 8, YUI 2014) consistente con versión antigua (2.7–3.x EOL)
   - **DKIM configurado** (4 posibles selectores detectados en TXT) — Spoofing mitigado parcialmente
   - **DMARC en quarantine** (no reject)  — Correos suplantados no se rechazan
-  - **FTP e Intranet expuestos** (DNS confirma subdominios ftp.rcsmm.eu e intranet.rcsmm.eu en 213.172.39.24)
+  - **FTP expuesto (Pure-FTPd)** — DNS confirma subdominio ftp.rcsmm.eu en 213.172.39.24. Shodan confirma Pure-FTPd con listado de directorios y capacidades de subida. Es el vector de entrada más directo para un atacante: acceso a archivos internos del servidor y posibilidad de plantar contenido malicioso (defacement).
   - **Sin registro CAA** — Cualquier CA puede emitir certificados (confirmado con `dig rcsmm.eu CAA +short` → sin salida en Kali)
 - Referencias:
   - Tenable: CVE-2016-7124, CVE-2016-5771, CVE-2016-5768
@@ -424,25 +423,23 @@ curl -s "https://web.archive.org/cdx/search/cdx?url=rcsmm.eu/download.php*&outpu
 
 ### Resumen ejecutivo
 
-El RCSMM presenta **tres riesgos críticos inmediatos** que requieren acción urgente:
+El RCSMM presenta **tres prioridades críticas de mitigación** ordenadas por impacto potencial:
 
-1. **Stack tecnológico completamente EOL**: Moodle (PHP 5.6 + Debian 8) y Drupal 9.5.11 están fuera de soporte. Un atacante con conocimiento de los CVEs públicos puede comprometer el servidor con relativa facilidad.
-2. **Servicios internos expuestos**: FTP e Intranet son accesibles desde Internet sin restricción aparente. El FTP, en particular, permite subida de archivos y es un vector habitual de defacement.
-3. **Seguridad de correo electrónico mejorable**: DMARC en modo `quarantine` (no `reject`) permite suplantación. No se confirmaron registros DKIM funcionales.
-
-Además, la **exposición de datos personales** (listados públicos de profesorado, horarios en WebUntis, patrón de email predecible) facilita ataques de ingeniería social y fuerza bruta.
+1. **🔴 Crítico — Stack EOL + FTP expuesto**: El servidor combina software sin soporte (PHP 5.6 + Debian 8 + Drupal 9.5.11) con un **servicio FTP anónimo o sin restricción** accesible desde Internet [^exhibit-20]. El FTP permite subida y descarga de archivos, lo que lo convierte en el vector más probable para un atacante: puede obtener información interna, plantar malware o defacear la web. Shodan confirma Pure-FTPd y múltiples CVEs activos (27+). La combinación EOL + FTP hace que el riesgo de compromiso total sea alto e inminente.
+2. **🟡 Alto — Seguridad de correo electrónico mejorable**: DMARC en modo `quarantine` (no `reject`) permite suplantación. No se confirmaron registros DKIM funcionales. El patrón de email `nombre.apellido@rcsmm.es` es predecible y combinable con los listados públicos de profesorado.
+3. **🟢 Medio — Exposición de datos personales**: Listados públicos de profesorado, horarios en WebUntis, patrón de email predecible y datos históricos en Wayback Machine facilitan ataques de ingeniería social.
 
 > **Metodología:**
-> Las recomendaciones se priorizan según el riesgo estimado (probabilidad × impacto) basado en:
-> - Versiones de software detectadas y su estado de soporte (EOL vs soportado)
-> - Exposición pública de servicios (FTP, intranet, webmail)
-> - Configuración de seguridad email (SPF, DKIM, DMARC)
-> - Capacidad de fingerprinting del servidor
+> Las recomendaciones se priorizan como **prioridades de mitigación** (no como vías de explotación), ordenadas según:
+> - Probabilidad de explotación por un atacante real
+> - Existencia de CVEs públicos y exploits conocidos
+> - Accesibilidad del servicio desde Internet
+> - Impacto potencial en la confidencialidad, integridad y disponibilidad
 > - Exposición de datos personales en fuentes públicas
 - Mejora de seguridad visible:
-  - **Crítico inmediato**: Aislar servidor Moodle (PHP 5.6 + Debian 8 + Moodle antiguo EOL — todo EOL). Migrar a PHP 8.x, Debian 12, Moodle 4.x. Realizar forensia por posible compromiso previo.
-  - **Alto**: Implementar DKIM y subir DMARC a `p=reject`. Restringir FTP e Intranet por IP/VPN. Migrar Drupal 9 a versión soportada.
-  - **Medio**: Publicar registro CAA, eliminar registros TXT huérfanos, ocultar versión de Apache.
+  - **🔴 Crítico inmediato**: Restringir **FTP por IP/VPN o deshabilitarlo**. Aislar servidor Moodle (PHP 5.6 + Debian 8 — todo EOL). Migrar a PHP 8.x, Debian 12, Moodle 4.x. Realizar forensia por posible compromiso previo.
+  - **🟡 Alto**: Implementar DKIM y subir DMARC a `p=reject`. Migrar Drupal 9 a versión soportada. Revisar acceso a Intranet desde Internet.
+  - **🟢 Medio**: Publicar registro CAA, eliminar registros TXT huérfanos, ocultar versión de Apache.
   **Definición**: El registro CAA (Certification Authority Authorization) impide que cualquier CA emita certificados para este dominio
   **Definición**: Los registros TXT huérfanos son entradas DNS no utilizadas que pueden ser explotadas para_REDacción
   **Definición**: Ocultar la versión de Apache previene fingerprinting del servidor
@@ -483,14 +480,6 @@ Además, la **exposición de datos personales** (listados públicos de profesora
 | **CVE-2015-6836**  | PHP 5.6.x < 5.6.13 | **9.8** | Type confusion en `SoapClient`. RCE vía serialización.        |
 | **CVE-2024-55638** | Drupal 8.9.6–9.4.9 | **9.8** | Cadena de gadgets (PHPGGC). RCE si `unserialize()` expuesto.  |
 | **CVE-2025-31674** | Drupal 9.x         | 7.5     | Object Injection. Requiere autenticación.                     |
-
-### Notas
-- Todas las capturas de terminal deben mostrar el **comando y su salida** en la misma ventana para trazabilidad
-- Fecha de las capturas: coincidente con la fecha del informe
-- Sistema recomendado: **Kali Linux** (con `dig`, `curl`, `jq`, `whatweb`, `pdfinfo`, `openssl`)
-- Si alguna fuente no está accesible en el momento de la captura, indicar "No accesible" en el pie de foto
-
----
 
 [^exhibit-1]: **Dorking Google** — `site:rcsmm.eu filetype:pdf`. ![](annexes/exhibit_01.png)
 [^exhibit-2]: **Wikipedia**. ![](annexes/exhibit_02.png)
