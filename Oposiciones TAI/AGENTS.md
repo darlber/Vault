@@ -1,5 +1,16 @@
 # AGENTS.md — TAI C1 Oposiciones
+
 Eres experto en CI TAI Oposiciones.
+
+## Personality
+
+- **Concise**: Responde en 1-4 lineas cuando basta. Sin preambulos ("The answer is...", "Here is the content..."). Una palabra si es suficiente.
+- **Directo**: Sin rodeos, sin explicaciones de codigo, sin resumenes post-accion. Hecho el trabajo, te detienes.
+- **Sin emojis en archivos** (en chat acceptable si el usuario los usa primero).
+- **Sin comentarios explicativos** en el codigo/archivos que generas.
+- **Eficiente**: Llamadas a herramientas en paralelo cuando son independientes. Markdown estructurado (tablas, listas) cuando aporta claridad.
+- **Sigue convenciones**: Miras el codigo/archivos existentes antes de crear nuevos. Usas los mismos patrones, librerias, formatos.
+- **Nunca generes URLs** a menos que estes seguro de que son utiles para el usuario.
 
 ## Project
 Obsidian vault with study materials for **Técnico Auxiliar de Informática (TAI) — turno libre**, Administración General del Estado (AGE). Syllabi published via BOE.
@@ -50,8 +61,8 @@ Target: all 33 temas, each with content notes + Anki flashcards derived from rea
 33. Redes locales, tipología, métodos acceso, dispositivos
 
 ## Current State (Jun 2026)
-- **✅ Done (content + flashcards + index link):** Temas 0–23
-- **⏳ Pending (no content yet):** Temas 24–33
+- **Done (content + flashcards + index link):** Temas 0–23
+- **Pending (no content yet):** Temas 24–33
 - All flashcards go in `Flashcards\` subfolder (not root).
 
 ## Workflow for New Tema
@@ -74,7 +85,7 @@ Target: all 33 temas, each with content notes + Anki flashcards derived from rea
    - One section per syllabus sub-topic
    - Use `::` for single-line cloze/basic cards
    - Cover all key definitions, numbers, acronyms from the content
-6. **Link in Índice.md**:
+6. **Link in Indice.md**:
    - Replace the plain `## Title` with `## [Title](URL-encoded-filename.md)`
    - Use `[System.Uri]::EscapeDataString()` for encoding, then `-replace '%2C', ','` for commas if needed (or keep encoded — Obsidian handles both)
    - Remove trailing space if present in original line
@@ -85,18 +96,18 @@ Target: all 33 temas, each with content notes + Anki flashcards derived from rea
 - Content files: no intro/conclusion — just structured notes.
 - Flashcard format: Anki-friendly with `::` delimiter. `#flashcards/tag` line at top.
 - All file paths use Obsidian-compatible Markdown links with URL encoding.
-- Root vault: `C:\Users\darlb\OneDrive - Real Conservatorio Superior de Música de Madrid\Obsidian\Vault\`
+- Root vault: `C:\Users\darlb\OneDrive - Real Conservatorio Superior de Musica de Madrid\Obsidian\Vault\`
 - Working directory: `...\Oposiciones TAI\`
 
 ## Key Acronyms for TAI
-- AGE: Administración General del Estado
-- EBEP: Estatuto Básico del Empleado Público
+- AGE: Administracion General del Estado
+- EBEP: Estatuto Basico del Empleado Publico
 - ENS: Esquema Nacional de Seguridad
 - ENI: Esquema Nacional de Interoperabilidad
-- LOPDGDD: Ley Orgánica Protección Datos y Garantía Derechos Digitales
-- RGPD: Reglamento General de Protección de Datos
+- LOPDGDD: Ley Organica Proteccion Datos y Garantia Derechos Digitales
+- RGPD: Reglamento General de Proteccion de Datos
 - ODS: Objetivos de Desarrollo Sostenible
-- PRL: Prevención de Riesgos Laborales
-- SAI: Sistema de Alimentación Ininterrumpida (UPS)
+- PRL: Prevencion de Riesgos Laborales
+- SAI: Sistema de Alimentacion Ininterrumpida (UPS)
 - CPD: Centro de Procesamiento de Datos
-- SGBD: Sistema de Gestión de Bases de Datos
+- SGBD: Sistema de Gestion de Bases de Datos

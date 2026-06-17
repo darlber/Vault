@@ -13,16 +13,16 @@
         "startupType": "instant"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-git": {
         "startupType": "instant"
       },
       "obsidian-icon-folder": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-kanban": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-minimal-settings": {
         "startupType": "disabled"
@@ -46,7 +46,7 @@
         "startupType": "disabled"
       },
       "obsidian-spaced-repetition": {
-        "startupType": "instant"
+        "startupType": "long"
       }
     }
   }
