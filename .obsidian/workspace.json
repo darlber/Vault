@@ -11,14 +11,15 @@
             "id": "666427ab929da33d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Oposiciones TAI/AGENTS.md",
-                "bFile": "Oposiciones TAI/AGENTS.md",
-                "aRef": ""
+                "file": "Oposiciones TAI/Flashcards/Flashcards - Tema 23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: AGENTS  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Flashcards - Tema 23"
             }
           }
         ]
@@ -132,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Oposiciones TAI/Flashcards/Flashcards - Tema 23.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Flashcards - Tema 23"
             }
           },
           {
@@ -182,8 +184,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -201,11 +203,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "666427ab929da33d",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
+    "Oposiciones TAI/Flashcards - Tema 1.md",
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 23.md",
     "Oposiciones TAI/AGENTS.md",
     "README.md",
     "listado.md",
@@ -243,14 +250,13 @@
     "sh_scripts/03_web_app_scan.sh",
     "Oposiciones TAI/Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas.md",
     "Oposiciones TAI/Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo.md",
-    "Oposiciones TAI/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
+    "Oposiciones TAI/Flashcards/TAI_C1_PREGUNTAS_TEMAS_3_4_5.md",
     "Oposiciones Guitarra/Programación Didáctica.md",
     "Oposiciones Guitarra/Tema 34. TIC.md",
     "Oposiciones TAI/Flashcards - Tema 11.md",
     "Oposiciones TAI/Flashcards - Tema 10.md",
     "Oposiciones TAI/Flashcards - Tema 9.md",
     "Oposiciones TAI/Flashcards - Tema 8.md",
-    "Oposiciones TAI/Flashcards - Tema 7.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
