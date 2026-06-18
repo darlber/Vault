@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0641fa879ee0c160",
+        "id": "2900ca585528d121",
         "type": "tabs",
         "children": [
           {
-            "id": "666427ab929da33d",
+            "id": "fac46de054a424e4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +178,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -201,34 +197,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "54860b64a846bba8",
   "lastOpenFiles": [
     "serradilla_alberto_ejercicioOSINT.md",
+    "annexes/exhibit_41.png",
+    "annexes/exhibit_39.png",
+    "annexes/exhibit_35.png",
+    "annexes/exhibit_40.png",
+    "annexes/exhibit_34.png",
+    "annexes/exhibit_32.png",
+    "annexes/exhibit_33.png",
+    "annexes/exhibit_31.png",
+    "annexes/exhibit_30.png",
+    "annexes/exhibit_28.png",
+    "annexes",
     "Oposiciones TAI/AGENTS.md",
     "Oposiciones TAI/Flashcards/Flashcards - Tema 23.md",
     "Oposiciones TAI/Flashcards - Tema 1.md",
     "Oposiciones TAI/AGENTS.md",
     "README.md",
     "listado.md",
-    "annexes/exhibit_41.png",
     "attachments",
-    "annexes/exhibit_40.png",
-    "annexes/exhibit_31.png",
-    "annexes/exhibit_19.png",
-    "annexes/exhibit_12.png",
-    "annexes/exhibit_07.png",
-    "annexes/exhibit_35.png",
-    "annexes/exhibit_09.png",
-    "annexes/exhibit_14.png",
-    "annexes/exhibit_21b.png",
     "Chemistry/Estequiometría de reactivo limitante/Gravimetría por precipitación.md",
-    "annexes",
     "CyberTesting/XXE.md",
     "CyberTesting/Pentesting Checklist.md",
     "CyberTesting/OSSTMM.3.pdf",
@@ -254,7 +247,6 @@
     "Oposiciones Guitarra/Tema 34. TIC.md",
     "Oposiciones TAI/Flashcards - Tema 11.md",
     "Oposiciones TAI/Flashcards - Tema 10.md",
-    "Oposiciones TAI/Flashcards - Tema 9.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
