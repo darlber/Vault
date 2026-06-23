@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -208,8 +208,14 @@
   },
   "active": "fac46de054a424e4",
   "lastOpenFiles": [
-    "serradilla_alberto_ejercicioOSINT.md",
+    "Santander/NIST CSF.md",
+    "Santander/SAS.md",
+    "Santander/R.md",
+    "Santander/SQL.md",
+    "Santander/Python.md",
+    "Santander/Oferta.md",
     "Santander.md",
+    "serradilla_alberto_ejercicioOSINT.md",
     "Santander/JWT Authentication.md",
     "Santander/API Security.md",
     "Santander/Container Security.md",
@@ -228,12 +234,6 @@
     "Santander/IT General Controls.md",
     "Santander/SOX.md",
     "Santander/FFIEC IT Examination Handbook.md",
-    "Santander/NIST 800-53.md",
-    "Santander/Three Lines of Defense.md",
-    "Santander/Internal Audit.md",
-    "Santander/Vulnerability Management.md",
-    "Santander/Logging.md",
-    "Santander/Secrets Management.md",
     "Santander",
     "annexes/exhibit_41.png",
     "annexes/exhibit_39.png",
