@@ -67,7 +67,7 @@ Realiza una pequeña tabla resumen comparando cuantas vulnerabilidades ha encont
 
 | Escáner           | Críticas | Altas | Medias | Bajas |
 | ----------------- | -------- | ----- | ------ | ----- |
-| Greenbone/OpenVAS | 24 | 13 | 44 | 7 |
+| Greenbone/OpenVAS | 12 | 10 | 40 | 6 |
 | Nessus Black Box  | 9  | 7  | 25 | 9 |
 | Nessus White Box  | 26 | 95 | 140| 18 |
 

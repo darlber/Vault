@@ -56,15 +56,14 @@
             "id": "14745fd6adbf377c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ejercicio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "ejercicio.md",
+                "bFile": "ejercicio.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ejercicio"
+              "icon": "diff",
+              "title": "Diff: ejercicio  (Working Tree)"
             }
           }
         ],
@@ -255,11 +254,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "14745fd6adbf377c",
   "lastOpenFiles": [
+    "ejercicio.md",
     "exportar_nessus_essentials_api.md",
     "templates_html_pdf_nessus.md",
-    "ejercicio.md",
     "templates_html_pdf_nessus 1.md",
     "serradilla_alberto_ejercicioOSINT.md",
     "Santander.md",
