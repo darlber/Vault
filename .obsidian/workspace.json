@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exportar_nessus_essentials_api.md",
+                "file": "ejercicio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "exportar_nessus_essentials_api"
+              "title": "ejercicio"
             }
           }
         ],
@@ -230,12 +230,12 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -249,13 +249,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
-    "templates_html_pdf_nessus.md",
     "exportar_nessus_essentials_api.md",
+    "templates_html_pdf_nessus.md",
     "ejercicio.md",
     "templates_html_pdf_nessus 1.md",
     "serradilla_alberto_ejercicioOSINT.md",
