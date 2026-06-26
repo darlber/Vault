@@ -43,31 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exportar_nessus_essentials_api.md",
+                "file": "serradilla_alberto_ejercicioScanner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "exportar_nessus_essentials_api"
-            }
-          },
-          {
-            "id": "14745fd6adbf377c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "ejercicio.md",
-                "bFile": "ejercicio.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: ejercicio  (Working Tree)"
+              "title": "serradilla_alberto_ejercicioScanner"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates_html_pdf_nessus.md",
+                "file": "serradilla_alberto_ejercicioScanner.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of templates_html_pdf_nessus"
+              "title": "Outline of serradilla_alberto_ejercicioScanner"
             }
           },
           {
@@ -234,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -251,15 +237,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14745fd6adbf377c",
+  "active": "34165313a1f959ab",
   "lastOpenFiles": [
-    "ejercicio.md",
     "exportar_nessus_essentials_api.md",
+    "ejercicio.md",
+    "serradilla_alberto_ejercicioScanner.md",
     "templates_html_pdf_nessus.md",
-    "templates_html_pdf_nessus 1.md",
-    "serradilla_alberto_ejercicioOSINT.md",
-    "Santander.md",
     "README.md",
+    "Santander.md",
+    "serradilla_alberto_ejercicioOSINT.md",
+    "templates_html_pdf_nessus 1.md",
     "Santander/NIST CSF.md",
     "Santander/SAS.md",
     "Santander/R.md",

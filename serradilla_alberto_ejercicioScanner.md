@@ -1,5 +1,3 @@
-# Ejercicio análisis de vulnerabilidades
-
 Antes de ejecutar los scripts:
 1. **Autenticarse** y obtener token:
 
@@ -31,13 +29,13 @@ curl -k -s -X GET "https://localhost:8834/scans/ID" \
 python3 nessus2pdf.py scan.json ID "Black Box" "TOKEN"
 ```
 
-## Ejercicio 1 \- OpenVAS
+# Ejercicio 1 \- OpenVAS
 
 Realizar un análisis de vulnerabilidades sobre el equipo Metasploitable2 utilizando  
 OpenVAS.  
 Exportar informe PDF y adjuntarlo con la entrega.
 
-## Ejercicio 2 \- Nessus
+# Ejercicio 2 \- Nessus
 
 Realizar un análisis de vulnerabilidades sobre el equipo Metasploitable2 en modo  
 Black Box:  
@@ -48,7 +46,7 @@ Exportar informe en dos PDFs y adjuntarlos con la entrega:
 Ejecutivo: Complete List of Vulnerabilities by Host  
 Técnico: Detailed Vulnerabilities by Host
 
-## Ejercicio 3 \- Nessus
+# Ejercicio 3 \- Nessus
 
 Realizar un análisis de vulnerabilidades sobre el equipo Metasploitable2 en modo  
 White Box:  
@@ -59,9 +57,9 @@ Exportar informe en dos PDFs y adjuntarlos con la entrega:
 Ejecutivo: Complete List of Vulnerabilities by Host  
 Técnico: Detailed Vulnerabilities by Host
 
-## Ejercicio 4 \- Comparación de resultados
+# Ejercicio 4 \- Comparación de resultados
 
-### 4.1. Tabla
+## 4.1. Tabla
 
 Realiza una pequeña tabla resumen comparando cuantas vulnerabilidades ha encontrado cada herramienta.
 
@@ -71,13 +69,12 @@ Realiza una pequeña tabla resumen comparando cuantas vulnerabilidades ha encont
 | Nessus Black Box  | 9  | 7  | 25 | 9 |
 | Nessus White Box  | 26 | 95 | 140| 18 |
 
-### 4.2. Vulnerabilidades del escáner White Box
+## 4.2. Vulnerabilidades del escáner White Box
 
 Lista las vulnerabilidades que se han encontrado en el análisis autenticado (White box), que el análisis no autenticado (Black Box) no había encontrado. Pon nombre, CVE, CVSS, CWE, en qué consisten, qué impacto pueden tener, y las recomendaciones de mitigación.
 
-Se detectaron **265 vulnerabilidades exclusivas** del White Box (con credenciales). De ellas, **19 son críticas** y **88 son altas**. A continuación se detallan las críticas:
-
----
+Se detectaron 265 vulnerabilidades exclusivas del White Box (con credenciales). De ellas, 19 
+### Críticas
 
 #### 1. Bash Remote Code Execution (Shellshock)
 - **Plugin ID:** 77823
@@ -250,6 +247,96 @@ Se detectaron **265 vulnerabilidades exclusivas** del White Box (con credenciale
 - **Impacto:** Obtención de privilegios de root, denegación de servicio.
 - **Mitigación:** Actualizar el kernel de Linux.
 
+### Altas (seleccción)
+
+#### 20. Ubuntu 7.04 / 7.10 / 8.04 LTS : ssl-cert vulnerability (USN-612-4)
+- **CVE:** CVE-2008-0166
+- **CVSS v2:** 7.5
+- **CWE:** 310
+- **Descripción:** El paquete ssl-cert en Debian/Ubuntu genera claves SSL débiles con poca entropía.
+- **Impacto:** Un atacante puede predecir claves SSL, comprometiendo la confidencialidad de las comunicaciones cifradas.
+- **Mitigación:** Actualizar el paquete ssl-cert y regenerar los certificados SSL.
+
+#### 21. Ubuntu 7.04 / 7.10 / 8.04 LTS : openssh update (USN-612-5)
+- **CVE:** CVE-2008-0166
+- **CVSS v2:** 7.5
+- **CWE:** 310
+- **Descripción:** Claves SSH generadas en sistemas Debian/Ubuntu con el generador de números aleatorios de OpenSSL comprometido.
+- **Impacto:** Un atacante puede realizar fuerza bruta contra las claves SSH débiles y obtener acceso no autorizado al sistema.
+- **Mitigación:** Actualizar OpenSSH y regenerar todas las claves de host y de usuario.
+
+#### 22. Ubuntu 6.06 LTS / 7.04 / 7.10 / 8.04 LTS : samba vulnerabilities (USN-617-1)
+- **CVE:** CVE-2008-1105, CVE-2008-2050, CVE-2008-3789
+- **CVSS v2:** 7.5
+- **CWE:** 119
+- **Descripción:** Múltiples vulnerabilidades en Samba que permiten desbordamiento de búfer en el manejo de respuestas SMB.
+- **Impacto:** Ejecución de código arbitrario o denegación de servicio en el servicio Samba.
+- **Mitigación:** Actualizar los paquetes de Samba.
+
+#### 23. Ubuntu 7.10 / 8.04 LTS / 8.10 : udev vulnerabilities (USN-758-1)
+- **CVE:** CVE-2009-1185, CVE-2009-1186
+- **CVSS v2:** 7.5
+- **CWE:** 264
+- **Descripción:** udev no verificaba correctamente los mensajes NETLINK, permitiendo a un atacante local ejecutar comandos con privilegios de root.
+- **Impacto:** Escalada de privilegios local a root.
+- **Mitigación:** Actualizar udev.
+
+#### 24. Ubuntu 6.06 LTS / 8.04 LTS / 8.10 / 9.04 : apache2 vulnerability (USN-787-1)
+- **CVE:** CVE-2009-1890, CVE-2009-1891
+- **CVSS v2:** 7.5
+- **CWE:** 399
+- **Descripción:** Apache2 sufre una vulnerabilidad de denegación de servicio en el manejo de conexiones y un fallo en el módulo mod_proxy.
+- **Impacto:** Denegación de servicio remota o posible ejecución de código.
+- **Mitigación:** Actualizar Apache2.
+
+#### 25. Ubuntu 6.06 LTS / 8.04 LTS / 8.10 / 9.04 : cron vulnerability (USN-778-1)
+- **CVE:** CVE-2009-1572
+- **CVSS v2:** 7.5
+- **CWE:** 264
+- **Descripción:** Fallo en cron que permite a un atacante local ejecutar comandos arbitrarios mediante un enlace simbólico.
+- **Impacto:** Escalada de privilegios local.
+- **Mitigación:** Actualizar cron.
+
+#### 26. Ubuntu 6.06 LTS / 8.04 LTS / 8.10 / 9.04 : curl vulnerability (USN-818-1)
+- **CVE:** CVE-2009-2417, CVE-2009-2418
+- **CVSS v2:** 7.5
+- **CWE:** 119
+- **Descripción:** cURL no verificaba correctamente la longitud de las respuestas SSL, permitiendo desbordamiento de búfer.
+- **Impacto:** Ejecución de código arbitrario al procesar respuestas SSL maliciosas.
+- **Mitigación:** Actualizar cURL.
+
+#### 27. Ubuntu 6.06 LTS / 8.04 LTS / 8.10 / 9.04 / 9.10 : mysql-dfsg-5.0, mysql-dfsg-5.1 vulnerabilities (USN-897-1)
+- **CVE:** CVE-2009-4028, CVE-2009-4030
+- **CVSS v2:** 7.5
+- **CWE:** 264
+- **Descripción:** MySQL permite a atacantes remotos eludir la autenticación y modificar privilegios mediante consultas especialmente diseñadas.
+- **Impacto:** Modificación de privilegios y acceso no autorizado a la base de datos.
+- **Mitigación:** Actualizar MySQL.
+
+#### 28. Ubuntu 6.06 LTS / 8.04 LTS / 9.10 / 10.04 LTS / 10.10 : cups, cupsys vulnerability (USN-1012-1)
+- **CVE:** CVE-2010-2431, CVE-2010-2941
+- **CVSS v2:** 7.5
+- **CWE:** 119
+- **Descripción:** CUPS contiene múltiples desbordamientos de búfer que pueden ser explotados mediante archivos PDF maliciosos.
+- **Impacto:** Ejecución de código arbitrario con permisos del servicio CUPS.
+- **Mitigación:** Actualizar los paquetes CUPS.
+
+#### 29. Ubuntu 6.06 LTS / 8.04 LTS / 9.04 / 9.10 / 10.04 LTS : php5 vulnerabilities (USN-989-1)
+- **CVE:** CVE-2008-4767, CVE-2009-0754, CVE-2009-1271, CVE-2009-2657
+- **CVSS v2:** 7.5
+- **CWE:** 264
+- **Descripción:** Múltiples vulnerabilidades en PHP5 incluyendo elusión de restricciones en sesiones, desbordamiento en json_encode y fallos en posix.
+- **Impacto:** Ejecución de código arbitrario y elusión de restricciones de seguridad.
+- **Mitigación:** Actualizar PHP5.
+
+#### 30. Ubuntu 7.10 / 8.04 LTS : linux-ubuntu-modules-2.6.22/24 vulnerability (USN-662-2)
+- **CVE:** CVE-2008-3535, CVE-2008-4118
+- **CVSS v2:** 7.5
+- **CWE:** 399
+- **Descripción:** Vulnerabilidades en los módulos del kernel de Ubuntu que afectan al subsistema de red y al manejo de interrupciones.
+- **Impacto:** Denegación de servicio y posible escalada de privilegios.
+- **Mitigación:** Actualizar los módulos del kernel de Ubuntu.
+
 ---
 
-**Nota:** Además de estas 19 críticas, se encontraron **88 vulnerabilidades altas** exclusivas del White Box, principalmente parches de seguridad de Ubuntu (USN) para paquetes como: kernel Linux, OpenSSL, Apache2, PHP5, Samba, MySQL, PostgreSQL, glibc, libxml2, OpenSSH, sudo, curl, tiff, freetype, libpng, perl, bind9, apt, entre otros. Todas ellas requieren actualización de los paquetes afectados.
+**Nota:** Estas son 11 de las 88 vulnerabilidades altas exclusivas del White Box. El resto incluyen parches de seguridad de Ubuntu (USN) para paquetes como: kernel Linux, OpenSSL, Apache2, PHP5, Samba, MySQL, PostgreSQL, glibc, libxml2, OpenSSH, sudo, curl, tiff, freetype, libpng, perl, bind9, apt, entre otros. Todas requieren actualización de los paquetes afectados.
