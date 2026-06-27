@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Santander.md",
+                "file": "Sox-NIST/Hardening.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Santander"
+              "title": "Hardening"
             }
           }
         ],
@@ -227,9 +227,9 @@
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "Santander.md",
     "Sox-NIST/Action Plan.md",
     "README.md",
-    "Santander.md",
     "serradilla_alberto_ejercicioScanner.md",
     "serradilla_alberto_ejercicioOSINT.md",
     "exportar_nessus_essentials_api.md",
