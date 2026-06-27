@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
       "LiBookOpen",
       "LiCode2",
       "LiMusic",
-      "LiCalculator",
-      "LiSkull"
+      "LiCalculator"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,9 @@
   "Proyecto": "☠",
   "Music": "LiMusic",
   "Prog": "LiCode2",
-  "Oposiciones TAI": "LiBookOpen"
+  "Oposiciones TAI": "LiBookOpen",
+  "Sox-NIST/Oferta.md": {
+    "iconName": "LiAlbum",
+    "iconColor": "#ff0000"
+  }
 }

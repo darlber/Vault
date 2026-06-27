@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sox-NIST/Hardening.md",
+                "file": "Santander.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hardening"
+              "title": "Santander"
             }
           }
         ],
@@ -227,6 +227,8 @@
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "Sox-NIST/Oferta.md",
+    "Sox-NIST/Hardening.md",
     "Santander.md",
     "Sox-NIST/Action Plan.md",
     "README.md",
@@ -241,7 +243,6 @@
     "Sox-NIST/R.md",
     "Sox-NIST/SQL.md",
     "Sox-NIST/Python.md",
-    "Sox-NIST/Oferta.md",
     "Sox-NIST/JWT Authentication.md",
     "Sox-NIST/API Security.md",
     "Sox-NIST/Container Security.md",
@@ -252,7 +253,6 @@
     "Sox-NIST/Risk Assessment.md",
     "Sox-NIST/Audit Work Papers.md",
     "Sox-NIST/Risk.md",
-    "Sox-NIST/Walkthrough.md",
     "Sox-NIST",
     "annexes/exhibit_41.png",
     "annexes/exhibit_39.png",
