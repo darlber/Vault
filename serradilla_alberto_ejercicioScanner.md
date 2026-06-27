@@ -336,7 +336,3 @@ Se detectaron 265 vulnerabilidades exclusivas del White Box (con credenciales). 
 - **Descripción:** Vulnerabilidades en los módulos del kernel de Ubuntu que afectan al subsistema de red y al manejo de interrupciones.
 - **Impacto:** Denegación de servicio y posible escalada de privilegios.
 - **Mitigación:** Actualizar los módulos del kernel de Ubuntu.
-
----
-
-**Nota:** Estas son 11 de las 88 vulnerabilidades altas exclusivas del White Box. El resto incluyen parches de seguridad de Ubuntu (USN) para paquetes como: kernel Linux, OpenSSL, Apache2, PHP5, Samba, MySQL, PostgreSQL, glibc, libxml2, OpenSSH, sudo, curl, tiff, freetype, libpng, perl, bind9, apt, entre otros. Todas requieren actualización de los paquetes afectados.
