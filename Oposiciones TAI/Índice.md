@@ -32,7 +32,7 @@
 ## Repositorios: estructura y actualización. Generación de código y documentación. Metodologías de desarrollo. Pruebas. Programas para control de versiones. Plataformas de desarrollo colaborativo de software. 
 
 # IV. Sistemas y comunicaciones 
-## Administración del Sistema operativo y software de base. Actualización, mantenimiento y reparación del sistema operativo. 
+## [Administración del Sistema operativo y software de base. Actualización, mantenimiento y reparación del sistema operativo.](Tema%2024.%20Administraci%C3%B3n%20del%20SO%20y%20software%20de%20base.md)
 ## Administración de bases de datos. Sistemas de almacenamiento y su virtualización. Políticas, sistemas y procedimientos de backup y su recuperación. Backup de sistemas físicos y virtuales. Virtualización de sistemas y virtualización de puestos de usuario. 
 ## Administración de servidores de correo electrónico sus protocolos. Administración de contenedores y microservicios. 
 ## Administración de redes de área local. Gestión de usuarios. Gestión de dispositivos. Monitorización y control de tráfico. 

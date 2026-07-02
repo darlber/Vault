@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Santander.md",
+                "file": "Oposiciones TAI/Tema 24. Administración del SO y software de base.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Santander"
+              "title": "Tema 24. Administración del SO y software de base"
             }
           }
         ],
@@ -215,17 +215,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +234,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "add3c26d8921029f",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
+    "Oposiciones TAI/Flashcards/Flashcards - Tema 24.md",
+    "Oposiciones Guitarra/Tema 34. TIC.md",
+    "Oposiciones TAI/Tema 24. Administración del SO y software de base.md",
+    "Oposiciones TAI/Índice.md",
     "Santander.md",
     "Sox-NIST/Oferta.md",
     "Sox-NIST/Audit Report.md",
@@ -262,10 +268,6 @@
     "Sox-NIST/R.md",
     "Sox-NIST/SQL.md",
     "Sox-NIST/Python.md",
-    "Sox-NIST/JWT Authentication.md",
-    "Sox-NIST/API Security.md",
-    "Sox-NIST/Container Security.md",
-    "Sox-NIST/CI CD Security.md",
     "Sox-NIST",
     "annexes/exhibit_41.png",
     "annexes/exhibit_39.png",
