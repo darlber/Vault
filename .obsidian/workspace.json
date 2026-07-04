@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/1. Guía de Estudio Musical.md",
+                "file": "Santander.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Guía de Estudio Musical"
+              "title": "Santander"
             }
           }
         ],
@@ -215,8 +215,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -234,13 +234,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "7a686458bfea5e14",
   "lastOpenFiles": [
     "Music/1. Guía de Estudio Musical.md",
     "Oposiciones TAI/Tema 13. Sistemas operativos.md",
