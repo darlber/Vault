@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "serradilla_alberto_ejercicioScanner.md",
+                "file": "Santander.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of serradilla_alberto_ejercicioScanner"
+              "title": "Outline of Santander"
             }
           },
           {
@@ -215,12 +215,12 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -234,11 +234,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7a686458bfea5e14",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
+    "Santander.md",
+    "Beethoven/orquestacion_cuarteto.md",
+    "Beethoven/images/piston_ej375_beethoven9.png",
+    "Beethoven/images/piston_cuerdas_maderas.png",
+    "Beethoven/images/piston_ej375b_beethoven9.png",
+    "Beethoven/images/piston_fig129_130_unisonos.png",
+    "Beethoven/images/piston_fig127_128_duplicacion.png",
+    "Beethoven/images/piston_fig143_solucion_b.png",
+    "Beethoven/images/piston_fig145_146_solucion_cd.png",
+    "Beethoven/images/piston_unisonos_lista.png",
+    "Beethoven/images/piston_fig153_154_equilibrio.png",
+    "Beethoven/images/piston_metal_madera.png",
+    "Beethoven/images",
+    "Beethoven/Orquestacion Piston.pdf",
+    "Beethoven/cuarteto_ivmov.xml",
+    "Beethoven/cuarteto_ivmov.mscz",
+    "Beethoven/cuarteto_fugue.xml",
+    "Beethoven/cuarteto_fugue.mscz",
+    "Beethoven/corregido.musicxml",
+    "Beethoven/Beethoven.musicxml",
+    "Beethoven/adler-el-estudio-de-la-orquestacion.pdf",
+    "Beethoven",
     "Music/1. Guía de Estudio Musical.md",
     "Oposiciones TAI/Tema 13. Sistemas operativos.md",
     "Oposiciones TAI/AGENTS.md",
@@ -247,7 +272,6 @@
     "Oposiciones TAI/Flashcards/Flashcards - Tema 24.md",
     "Oposiciones Guitarra/Tema 34. TIC.md",
     "Oposiciones TAI/Índice.md",
-    "Santander.md",
     "Sox-NIST/Oferta.md",
     "Sox-NIST/Audit Report.md",
     "Sox-NIST/SOX.md",
@@ -263,28 +287,6 @@
     "exportar_nessus_essentials_api.md",
     "ejercicio.md",
     "templates_html_pdf_nessus.md",
-    "templates_html_pdf_nessus 1.md",
-    "Sox-NIST/NIST CSF.md",
-    "Sox-NIST",
-    "annexes/exhibit_41.png",
-    "annexes/exhibit_39.png",
-    "annexes/exhibit_35.png",
-    "annexes/exhibit_40.png",
-    "annexes/exhibit_34.png",
-    "annexes/exhibit_32.png",
-    "annexes/exhibit_33.png",
-    "annexes/exhibit_31.png",
-    "annexes/exhibit_30.png",
-    "annexes/exhibit_28.png",
-    "annexes",
-    "attachments",
-    "CyberTesting/OSSTMM.3.pdf",
-    "test.txt",
-    "sh_scripts/07_datoscif.sh",
-    "sh_scripts/run_all.sh",
-    "sh_scripts/06_vulns_exploit.sh",
-    "sh_scripts/05_shodan_osint.sh",
-    "sh_scripts/04_service_enum.sh",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
