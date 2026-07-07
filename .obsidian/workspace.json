@@ -220,11 +220,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30c66a756c80d7ae",
+  "active": "7a686458bfea5e14",
   "lastOpenFiles": [
+    "serradilla_alberto_ejercicioOSINT.md",
     "Santander.md",
     "Beethoven/orquestacion_cuarteto.md",
     "Beethoven/images/piston_ej375_beethoven9.png",
@@ -280,7 +281,6 @@
     "Sox-NIST/Action Plan.md",
     "README.md",
     "serradilla_alberto_ejercicioScanner.md",
-    "serradilla_alberto_ejercicioOSINT.md",
     "exportar_nessus_essentials_api.md",
     "ejercicio.md",
     "templates_html_pdf_nessus.md",
