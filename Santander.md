@@ -172,6 +172,18 @@ Both fields complement each other: music gave me discipline and abstraction skil
 
 ---
 
+## 🔥 Technical rapid-fire (preguntas técnicas cortas)
+41. Walk me through a SOX ITGC audit process end-to-end.
+42. What's the difference between a control deficiency and a material weakness?
+43. Design vs Operating Effectiveness — how do you test each?
+44. What's the difference between a preventive and a detective control?
+45. What is a compensating control? Give an example.
+46. How do you select a sample for testing?
+47. What would you audit in a cloud migration?
+48. What's the difference between ITGC and application controls?
+49. Explain the concept of "least privilege" and why it matters for SOX.
+50. What's the difference between NIST CSF and NIST 800-53?
+
 ## 🔥 Pressure / tricky (muy típico)
 
 29. Why should we hire you with no direct audit experience?
