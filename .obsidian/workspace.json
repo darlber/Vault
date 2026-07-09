@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Santander.md",
+                "file": "serradilla_alberto_ejercicioWeb.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Santander"
+              "title": "serradilla_alberto_ejercicioWeb"
             }
           }
         ],
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.51103591918945
+    "width": 292.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Santander.md",
+                "file": "serradilla_alberto_ejercicioWeb.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Santander"
+              "title": "Outline of serradilla_alberto_ejercicioWeb"
             }
           },
           {
@@ -220,11 +221,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 441.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,19 +241,23 @@
   },
   "active": "7a686458bfea5e14",
   "lastOpenFiles": [
+    "attachments/{AA13776E-EB7F-4351-8638-3741C7EBFD43}.png",
+    "attachments/{DCC1AE03-05D7-4336-859F-517013E7364E}.png",
+    "attachments/{CDCC19C8-D312-4DDF-B6E6-68548CB25BFD}.png",
+    "attachments/{1653F326-5B5D-4D96-9B83-1127762BCAEC}.png",
+    "attachments/{1EE14A53-59C9-485F-B90E-65A0EF76C545}.png",
+    "attachments/{2E46916D-353D-4200-B7ED-F34BC1683E00}.png",
+    "attachments/{63CADBC5-0F80-48B6-9E19-BB1D6D4009B6} 3.png",
+    "attachments/{63CADBC5-0F80-48B6-9E19-BB1D6D4009B6} 2.png",
+    "attachments/{63CADBC5-0F80-48B6-9E19-BB1D6D4009B6} 1.png",
+    "attachments/{63CADBC5-0F80-48B6-9E19-BB1D6D4009B6}.png",
+    "attachments/{BCE1A2E3-89B9-447E-ACF1-9E626ED464F2}.png",
+    "attachments",
     "serradilla_alberto_ejercicioOSINT.md",
+    "serradilla_alberto_ejercicioWeb.md",
     "Santander.md",
+    "images",
     "Beethoven/orquestacion_cuarteto.md",
-    "Beethoven/images/piston_ej375_beethoven9.png",
-    "Beethoven/images/piston_cuerdas_maderas.png",
-    "Beethoven/images/piston_ej375b_beethoven9.png",
-    "Beethoven/images/piston_fig129_130_unisonos.png",
-    "Beethoven/images/piston_fig127_128_duplicacion.png",
-    "Beethoven/images/piston_fig143_solucion_b.png",
-    "Beethoven/images/piston_fig145_146_solucion_cd.png",
-    "Beethoven/images/piston_unisonos_lista.png",
-    "Beethoven/images/piston_fig153_154_equilibrio.png",
-    "Beethoven/images/piston_metal_madera.png",
     "Beethoven/images",
     "Beethoven/Orquestacion Piston.pdf",
     "Beethoven/cuarteto_ivmov.xml",
@@ -260,8 +266,6 @@
     "Beethoven/cuarteto_fugue.mscz",
     "Beethoven/corregido.musicxml",
     "Beethoven/Beethoven.musicxml",
-    "Beethoven/adler-el-estudio-de-la-orquestacion.pdf",
-    "Beethoven",
     "Music/1. Guía de Estudio Musical.md",
     "Oposiciones TAI/Tema 13. Sistemas operativos.md",
     "Oposiciones TAI/AGENTS.md",
@@ -283,7 +287,6 @@
     "serradilla_alberto_ejercicioScanner.md",
     "exportar_nessus_essentials_api.md",
     "ejercicio.md",
-    "templates_html_pdf_nessus.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
