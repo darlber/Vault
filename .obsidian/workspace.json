@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "serradilla_alberto_ejercicioOSINT.md",
+                "file": "Beethoven/Lista cambios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "serradilla_alberto_ejercicioOSINT"
+              "title": "Lista cambios"
             }
           }
         ]
@@ -204,11 +204,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "Beethoven/attachments/{743CAEE7-1635-4E51-B7ED-668C310715A6}.png",
+    "serradilla_alberto_ejercicioOSINT.md",
     "attachments/Pasted image 20260707194005.png",
     "attachments/Pasted image 20260707185600.png",
     "attachments/Pasted image 20260707200647.png",
@@ -216,14 +221,12 @@
     "attachments/{63CADBC5-0F80-48B6-9E19-BB1D6D4009B6} 2.png",
     "attachments/{2E46916D-353D-4200-B7ED-F34BC1683E00}.png",
     "attachments/{1EE14A53-59C9-485F-B90E-65A0EF76C545}.png",
-    "serradilla_alberto_ejercicioOSINT.md",
     "serradilla_alberto_ejercicioWeb.md",
     "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{3447CAEC-68BE-4992-998D-8CEBC3760906}.png",
     "Beethoven/attachments/{7B57D8DE-F199-4AD9-BC2A-C5352C6A7E28}.png",
     "Beethoven/attachments/{8D89FDA5-A0AF-4A09-9B6B-B060CD3D02D3}.png",
     "Beethoven/orquestacion_cuarteto.md",
-    "Beethoven/images/piston_violin_inicio.png",
     "Beethoven/images",
     "Beethoven/serradilla_alberto_ejercicioWeb.md",
     "orquestacion_cuarteto.md",
