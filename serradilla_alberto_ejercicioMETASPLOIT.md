@@ -154,9 +154,10 @@ exploit
 getuid
 sysinfo
 ifconfig
-getsystem
 ```
 ![](attachments/Pasted%20image%2020260714182144.png)
+![](attachments/Pasted%20image%2020260714182429.png)
+![](attachments/Pasted%20image%2020260714182448.png)
 
 ## AVANZADO
 
@@ -192,8 +193,6 @@ db_import /tmp/scan.xml
 hosts
 services
 ```
-
----
 
 ## Ejercicio 5 — EternalBlue (MS17-010)
 
