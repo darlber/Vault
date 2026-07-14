@@ -183,7 +183,7 @@ hosts          # Equipos descubiertos
 services       # Servicios y puertos
 vulns          # Vulnerabilidades asociadas
 
-# 6. Exportar resultados de nmap a archivo XML
+# 6. Exportar resultados de nmap a archivo XML (por ej.)
 nmap -sV -p- -oX /tmp/scan.xml <IP_VICTIMA>
 
 # 7. Importar resultados a la base de datos de Metasploit
@@ -193,8 +193,8 @@ db_import /tmp/scan.xml
 hosts
 services
 ```
-
-
+![](attachments/{DA8CAB05-F539-4061-A0E2-DDD893615C76}.png)
+![](attachments/Pasted%20image%2020260714183419.png)
 
 ## Ejercicio 5 — EternalBlue (MS17-010)
 
