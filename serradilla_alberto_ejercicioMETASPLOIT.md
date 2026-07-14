@@ -235,7 +235,8 @@ sessions
 sessions -i <ID_SESION>
 ```
 
----
+![](attachments/{AB45CCEF-8064-45F4-B8C4-3760816710CE}.png)
+
 
 ## Ejercicio 6 — Backdoors
 
