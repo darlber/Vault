@@ -2,13 +2,8 @@
 
 ### Prerrequisitos
 
-- [x] Kali Linux
-- [x] Metasploitable2
-
 Para las siguientes vulnerabilidades, escanea la máquina Metasploitable2 (o utiliza un escaneo anterior si lo tienes guardado), investiga las vulnerabilidades, encuentra el puerto y servicio donde pueden darse y comprueba si puedes explotarlas. En caso de elegir un payload, explica tu elección.
 Como extra, una vez comprometida la máquina, puedes buscar información como el usuario actual, hostname, versión del sistema, o interfaces de red.
-
----
 
 ## BÁSICO
 
@@ -16,15 +11,15 @@ Como extra, una vez comprometida la máquina, puedes buscar información como el
 
 ### Ficha de la vulnerabilidad
 
-| Campo | Valor |
-|-------|-------|
-| **CVE** | CVE-2004-2687 [^1] |
-| **Descripción** | distcc 2.x, cuando no está configurado para restringir el acceso al puerto del servidor, permite a atacantes remotos ejecutar comandos arbitrarios mediante trabajos de compilación, los cuales son ejecutados por el servidor sin comprobaciones de autorización [^1] |
-| **Software afectado** | distcc (distccd) |
-| **Utilidad del software** | Sistema de compilación distribuida que permite distribuir tareas de compilación de código fuente entre múltiples máquinas en red para acelerar el proceso |
-| **Versiones afectadas** | distcc 2.x (incluyendo la versión incluida en XCode 1.5) [^1] |
-| **Puertos** | 3632/TCP |
-| **Módulos Metasploit** | `exploit/unix/misc/distcc_exec` [^2] |
+| Campo                     | Valor                                                                                                                                                                                                                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CVE**                   | CVE-2004-2687 [^1]                                                                                                                                                                                                                                                     |
+| **Descripción**           | distcc 2.x, cuando no está configurado para restringir el acceso al puerto del servidor, permite a atacantes remotos ejecutar comandos arbitrarios mediante trabajos de compilación, los cuales son ejecutados por el servidor sin comprobaciones de autorización [^1] |
+| **Software afectado**     | distcc (distccd)                                                                                                                                                                                                                                                       |
+| **Utilidad del software** | Sistema de compilación distribuida que permite distribuir tareas de compilación de código fuente entre múltiples máquinas en red para acelerar el proceso                                                                                                              |
+| **Versiones afectadas**   | distcc 2.x (incluyendo la versión incluida en XCode 1.5) [^1]                                                                                                                                                                                                          |
+| **Puertos**               | 3632/TCP                                                                                                                                                                                                                                                               |
+| **Módulos Metasploit**    | `exploit/unix/misc/distcc_exec` [^2]                                                                                                                                                                                                                                   |
 
 ### Guía de explotación
 
