@@ -53,23 +53,24 @@ hostname
 uname -a
 ifconfig
 ```
+
 ![](attachments/{911F40C7-C6B8-4E5E-A5F7-35055A1FD85A}%201.png)
 ![](attachments/{4C5D7EA3-8D70-45DD-81D3-A2BEE15DD36D}.png)
-
+![](attachments/{F42FF184-6EE8-4B37-AF80-FD01F808E9E3}.png)
 
 ## Ejercicio 2 — Samba Usermap Script
 
 ### Ficha de la vulnerabilidad
 
-| Campo | Valor |
-|-------|-------|
-| **CVE** | CVE-2007-2447 [^3] |
-| **Descripción** | Vulnerabilidad de inyección de comandos en Samba. Los parámetros de entrada de usuario sin escapar se pasan como argumentos a `/bin/sh`, permitiendo ejecución remota de comandos a través de la opción no predeterminada "username map script" [^3] |
-| **Software afectado** | Samba |
-| **Utilidad del software** | Suite de interoperabilidad que proporciona servicios de archivos e impresión para clientes Windows (SMB/CIFS) en sistemas Unix/Linux |
-| **Versiones afectadas** | Samba 3.0.0 — 3.0.25rc3 (inclusive) [^3] |
-| **Puertos** | 139/TCP (netbios-ssn), 445/TCP (microsoft-ds) |
-| **Módulos Metasploit** | `exploit/multi/samba/usermap_script` [^4] |
+| Campo                     | Valor                                                                                                                                                                                                                                                |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CVE**                   | CVE-2007-2447 [^3]                                                                                                                                                                                                                                   |
+| **Descripción**           | Vulnerabilidad de inyección de comandos en Samba. Los parámetros de entrada de usuario sin escapar se pasan como argumentos a `/bin/sh`, permitiendo ejecución remota de comandos a través de la opción no predeterminada "username map script" [^3] |
+| **Software afectado**     | Samba                                                                                                                                                                                                                                                |
+| **Utilidad del software** | Suite de interoperabilidad que proporciona servicios de archivos e impresión para clientes Windows (SMB/CIFS) en sistemas Unix/Linux                                                                                                                 |
+| **Versiones afectadas**   | Samba 3.0.0 — 3.0.25rc3 (inclusive) [^3]                                                                                                                                                                                                             |
+| **Puertos**               | 139/TCP (netbios-ssn), 445/TCP (microsoft-ds)                                                                                                                                                                                                        |
+| **Módulos Metasploit**    | `exploit/multi/samba/usermap_script` [^4]                                                                                                                                                                                                            |
 
 ### Explotación
 
@@ -105,7 +106,8 @@ uname -a
 id
 ```
 
----
+![](attachments/Pasted%20image%2020260714180912.png)
+![](attachments/{FCCD99D4-64C3-4499-BFF3-6B0115534273}.png)
 
 ## Ejercicio 3 — Java RMI
 
