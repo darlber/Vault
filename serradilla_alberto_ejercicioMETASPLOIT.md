@@ -365,6 +365,8 @@ exploit
 ```
 ![](attachments/{1B8BE9E7-78A1-48F5-883D-ADC5AB797D69}.png)
 ![](attachments/{1C9E4E2D-2719-4326-947A-A12C9E3D9066}.png)
+![](attachments/{9AEA9537-54AD-4AAB-BA67-7C60DE48BC91}.png)
+![](attachments/{733E61A8-EFDD-4CEB-8DD9-B3A97A707C3C}.png)
 
 ### VNC Server — Fuerza bruta
 
