@@ -58,7 +58,7 @@ ifconfig
 ![](attachments/{4C5D7EA3-8D70-45DD-81D3-A2BEE15DD36D}.png)
 ![](attachments/{F42FF184-6EE8-4B37-AF80-FD01F808E9E3}.png)
 > [!TIP]
-> Usamos setg para no tener que escribir el RHOSTS y el LHOST en cada uso de exploit.
+> Usamos `setg` para no tener que escribir el RHOSTS y el LHOST en cada uso de exploit.
 ![](attachments/{6A8E97A6-2AE6-4D51-92BB-4FC50EB0C81E}%201.png)
 ## Ejercicio 2 — Samba Usermap Script
 
