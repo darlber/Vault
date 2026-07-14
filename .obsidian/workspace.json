@@ -11,15 +11,14 @@
             "id": "d4547140d4916c17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "serradilla_alberto_ejercicioMETASPLOIT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "serradilla_alberto_ejercicioMETASPLOIT.md",
+                "bFile": "serradilla_alberto_ejercicioMETASPLOIT.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "serradilla_alberto_ejercicioMETASPLOIT"
+              "icon": "diff",
+              "title": "Diff: serradilla_alberto_ejercicioMETASPLOIT  (Working Tree)"
             }
           }
         ]
@@ -69,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.51103591918945,
-    "collapsed": true
+    "width": 292.51103591918945
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -134,13 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "serradilla_alberto_ejercicioMETASPLOIT.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of serradilla_alberto_ejercicioMETASPLOIT"
+              "title": "Outline"
             }
           },
           {
@@ -190,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -212,6 +209,7 @@
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "serradilla_alberto_ejercicioMETASPLOIT.md",
     "attachments/{5AAA15A9-BB74-49D9-89AB-C75D705D910F}.png",
     "attachments/Pasted image 20260714210857.png",
     "attachments/{107C38FC-EBD9-4818-AB9A-9191BB3CF3CC}.png",
@@ -222,8 +220,6 @@
     "attachments/{460848D4-543D-4CD6-AB85-CCD68853B1D5}.png",
     "attachments/{1715C8D5-701B-49BD-AC33-80BC87453E4C}.png",
     "attachments/Pasted image 20260714204429.png",
-    "attachments/Pasted image 20260714204425.png",
-    "serradilla_alberto_ejercicioMETASPLOIT.md",
     "attachments",
     "Beethoven/Lista cambios.md",
     "EJERCICIOS METASPLOIT.md",
