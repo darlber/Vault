@@ -194,6 +194,8 @@ hosts
 services
 ```
 
+
+
 ## Ejercicio 5 — EternalBlue (MS17-010)
 
 ### Ficha de la vulnerabilidad
