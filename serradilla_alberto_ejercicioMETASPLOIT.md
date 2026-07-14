@@ -443,7 +443,9 @@ hostname
 cat /etc/*release
 ```
 
-![](attachments/{31B6ABFC-7C0C-48D0-B5D5-0F0212BA1B6B}.png)
+![](attachments/{76217B7C-0EC9-4FC0-B541-5E3610524F24}.png)
+![](attachments/{8C2BC42A-7936-4244-AEE3-EEBF32E73977}.png)
+
 
 
 ## Referencias
