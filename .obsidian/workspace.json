@@ -11,14 +11,15 @@
             "id": "d4547140d4916c17",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "serradilla_alberto_ejercicioMETASPLOIT.md",
-                "bFile": "serradilla_alberto_ejercicioMETASPLOIT.md",
-                "aRef": ""
+                "file": "Santander.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: serradilla_alberto_ejercicioMETASPLOIT  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Santander"
             }
           }
         ]
@@ -132,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Santander.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Santander"
             }
           },
           {
@@ -209,17 +211,18 @@
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "images/img2.png",
+    "attachments/Pasted image 20260714210857.png",
+    "attachments/{674523C6-EE36-4540-9228-FB5563D7A4CF}.png",
+    "attachments/{107C38FC-EBD9-4818-AB9A-9191BB3CF3CC}.png",
+    "attachments/{6A8E97A6-2AE6-4D51-92BB-4FC50EB0C81E}.png",
+    "attachments/{1C9E4E2D-2719-4326-947A-A12C9E3D9066}.png",
     "serradilla_alberto_ejercicioMETASPLOIT.md",
     "attachments/{5AAA15A9-BB74-49D9-89AB-C75D705D910F}.png",
-    "attachments/Pasted image 20260714210857.png",
-    "attachments/{107C38FC-EBD9-4818-AB9A-9191BB3CF3CC}.png",
     "attachments/{D308DFB2-C0D5-4B2F-8213-8D638B4A0382}.png",
     "attachments/{F9D10D78-318D-4A1B-B53E-8338CB9A08AD}.png",
-    "attachments/{674523C6-EE36-4540-9228-FB5563D7A4CF}.png",
     "attachments/{D1B19ABD-49AE-4F4F-A7BF-66E49F489C68}.png",
     "attachments/{460848D4-543D-4CD6-AB85-CCD68853B1D5}.png",
-    "attachments/{1715C8D5-701B-49BD-AC33-80BC87453E4C}.png",
-    "attachments/Pasted image 20260714204429.png",
     "attachments",
     "Beethoven/Lista cambios.md",
     "EJERCICIOS METASPLOIT.md",
