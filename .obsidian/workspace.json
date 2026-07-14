@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.51103591918945,
-    "collapsed": true
+    "width": 292.51103591918945
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -185,17 +184,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 441.5,
-    "collapsed": true
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +209,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d4547140d4916c17",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
     "attachments/{1B8BE9E7-78A1-48F5-883D-ADC5AB797D69}.png",
     "attachments/{F6BEE95D-8563-4545-B0AF-CB18FF0A27A0}.png",
