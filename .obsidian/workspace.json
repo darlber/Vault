@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "serradilla_alberto_ejercicioWeb.md",
+                "file": "serradilla_alberto_ejercicioMETASPLOIT.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of serradilla_alberto_ejercicioWeb"
+              "title": "Outline of serradilla_alberto_ejercicioMETASPLOIT"
             }
           },
           {
@@ -190,12 +190,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 441.5,
-    "collapsed": true
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,18 +212,18 @@
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "attachments/{5AAA15A9-BB74-49D9-89AB-C75D705D910F}.png",
+    "attachments/Pasted image 20260714210857.png",
+    "attachments/{107C38FC-EBD9-4818-AB9A-9191BB3CF3CC}.png",
+    "attachments/{D308DFB2-C0D5-4B2F-8213-8D638B4A0382}.png",
+    "attachments/{F9D10D78-318D-4A1B-B53E-8338CB9A08AD}.png",
+    "attachments/{674523C6-EE36-4540-9228-FB5563D7A4CF}.png",
+    "attachments/{D1B19ABD-49AE-4F4F-A7BF-66E49F489C68}.png",
     "attachments/{460848D4-543D-4CD6-AB85-CCD68853B1D5}.png",
     "attachments/{1715C8D5-701B-49BD-AC33-80BC87453E4C}.png",
     "attachments/Pasted image 20260714204429.png",
     "attachments/Pasted image 20260714204425.png",
-    "attachments/{1CEDA37D-5CF2-44BF-92E3-8407BCE3C56B} 1.png",
-    "attachments/{1CEDA37D-5CF2-44BF-92E3-8407BCE3C56B}.png",
-    "attachments/{8C2BC42A-7936-4244-AEE3-EEBF32E73977}.png",
-    "attachments/{76217B7C-0EC9-4FC0-B541-5E3610524F24}.png",
     "serradilla_alberto_ejercicioMETASPLOIT.md",
-    "attachments/{31B6ABFC-7C0C-48D0-B5D5-0F0212BA1B6B}.png",
-    "attachments/{E0730FE4-DBC3-41F4-9E3A-00E4141F3D16}.png",
-    "attachments/{4BEDD47D-F0B3-48BB-ADF7-0A978F81A7FC}.png",
     "attachments",
     "Beethoven/Lista cambios.md",
     "EJERCICIOS METASPLOIT.md",
