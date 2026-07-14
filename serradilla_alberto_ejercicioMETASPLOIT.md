@@ -195,6 +195,8 @@ services
 ```
 ![](attachments/{DA8CAB05-F539-4061-A0E2-DDD893615C76}.png)
 ![](attachments/Pasted%20image%2020260714183419.png)
+![](attachments/{FB529EFE-3F39-482D-BE67-F2E4B14463D9}.png)
+![](attachments/{1052C9E7-4E8F-4184-8D04-49303C8443EB}.png)
 
 ## Ejercicio 5 — EternalBlue (MS17-010)
 
@@ -271,7 +273,8 @@ set RPORT 21
 run
 # Payload: cmd/unix/interact (por defecto, interactúa directamente con la shell)
 ```
-
+![](attachments/{AA746A9D-E5DD-4EF4-88BC-51EB0C86DB5C}.png)
+![](attachments/{046C2359-FB56-4FF3-8D62-C303BC2989F2}%201.png)
 ### UnrealIRCd
 
 | Campo | Valor |
