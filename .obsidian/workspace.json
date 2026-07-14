@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "serradilla_alberto_ejercicioMETASPLOIT.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.51103591918945
+    "width": 292.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -212,6 +213,10 @@
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "attachments/{4C5D7EA3-8D70-45DD-81D3-A2BEE15DD36D}.png",
+    "attachments/{911F40C7-C6B8-4E5E-A5F7-35055A1FD85A} 1.png",
+    "attachments/{911F40C7-C6B8-4E5E-A5F7-35055A1FD85A}.png",
+    "attachments",
     "Beethoven/Lista cambios.md",
     "EJERCICIOS METASPLOIT.md",
     "serradilla_alberto_ejercicioMETASPLOIT.md",
@@ -225,15 +230,12 @@
     "attachments/{2E46916D-353D-4200-B7ED-F34BC1683E00}.png",
     "attachments/{1EE14A53-59C9-485F-B90E-65A0EF76C545}.png",
     "serradilla_alberto_ejercicioWeb.md",
-    "Beethoven/attachments/{3447CAEC-68BE-4992-998D-8CEBC3760906}.png",
-    "Beethoven/attachments/{7B57D8DE-F199-4AD9-BC2A-C5352C6A7E28}.png",
     "Beethoven/orquestacion_cuarteto.md",
     "Beethoven/images",
     "Beethoven/serradilla_alberto_ejercicioWeb.md",
     "orquestacion_cuarteto.md",
     "Beethoven/attachments",
     "Beethoven",
-    "attachments",
     "Santander.md",
     "images",
     "Beethoven/Orquestacion Piston.pdf",
@@ -257,7 +259,6 @@
     "Sox-NIST/SoD.md",
     "Sox-NIST/Risk.md",
     "Sox-NIST/Hardening.md",
-    "Sox-NIST/Action Plan.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
