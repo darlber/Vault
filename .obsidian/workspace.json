@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.51103591918945
+    "width": 292.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "3758bb5d797d7982",
@@ -193,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 441.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +211,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "attachments/{1C9E4E2D-2719-4326-947A-A12C9E3D9066}.png",
     "attachments/{1B8BE9E7-78A1-48F5-883D-ADC5AB797D69}.png",
     "attachments/{F6BEE95D-8563-4545-B0AF-CB18FF0A27A0}.png",
     "attachments/{B0942F80-E03B-4A62-B91F-DE299539FBBC}.png",
@@ -221,7 +224,6 @@
     "attachments/Pasted image 20260714184917.png",
     "attachments/{046C2359-FB56-4FF3-8D62-C303BC2989F2} 1.png",
     "attachments/{046C2359-FB56-4FF3-8D62-C303BC2989F2}.png",
-    "attachments/{AA746A9D-E5DD-4EF4-88BC-51EB0C86DB5C}.png",
     "attachments",
     "Beethoven/Lista cambios.md",
     "EJERCICIOS METASPLOIT.md",

