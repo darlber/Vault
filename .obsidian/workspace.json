@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "serradilla_alberto_ejercicioOSINT.md",
+                "file": "Beethoven/Lista cambios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "serradilla_alberto_ejercicioOSINT"
+              "title": "Lista cambios"
             }
           }
         ]
@@ -184,12 +184,12 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -203,11 +203,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "Beethoven/attachments/{4E828EE7-4277-48C7-A9E7-378B635B1533}.png",
+    "Beethoven/attachments/{000AA23C-74C0-46E5-9547-1FA834D44C5D}.png",
+    "serradilla_alberto_ejercicioOSINT.md",
     "Santander.md",
     "images/img2.png",
     "attachments/Pasted image 20260714210857.png",
@@ -219,11 +225,9 @@
     "attachments/{5AAA15A9-BB74-49D9-89AB-C75D705D910F}.png",
     "attachments/{D308DFB2-C0D5-4B2F-8213-8D638B4A0382}.png",
     "attachments/{F9D10D78-318D-4A1B-B53E-8338CB9A08AD}.png",
-    "attachments/{D1B19ABD-49AE-4F4F-A7BF-66E49F489C68}.png",
     "attachments",
     "Beethoven/Lista cambios.md",
     "EJERCICIOS METASPLOIT.md",
-    "serradilla_alberto_ejercicioOSINT.md",
     "serradilla_alberto_ejercicioWeb.md",
     "Beethoven/orquestacion_cuarteto.md",
     "Beethoven/images",
