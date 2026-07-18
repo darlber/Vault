@@ -184,8 +184,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -203,11 +203,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "Beethoven/attachments/{A0BC52B8-210E-42DF-B134-EB9936B0F313}.png",
+    "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{506A95A8-6780-476D-9BBA-4BC267536699}.png",
     "Beethoven/attachments/{51EE7A35-4D26-4390-A2BE-B78A77DB047D}.png",
     "Beethoven/attachments/{4E828EE7-4277-48C7-A9E7-378B635B1533}.png",
@@ -221,9 +226,7 @@
     "attachments/{6A8E97A6-2AE6-4D51-92BB-4FC50EB0C81E}.png",
     "attachments/{1C9E4E2D-2719-4326-947A-A12C9E3D9066}.png",
     "serradilla_alberto_ejercicioMETASPLOIT.md",
-    "attachments/{5AAA15A9-BB74-49D9-89AB-C75D705D910F}.png",
     "attachments",
-    "Beethoven/Lista cambios.md",
     "EJERCICIOS METASPLOIT.md",
     "serradilla_alberto_ejercicioWeb.md",
     "Beethoven/orquestacion_cuarteto.md",
