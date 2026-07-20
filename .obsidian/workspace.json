@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beethoven/Lista cambios.md",
+                "file": "Music/Miscelánea/Miscelánea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lista cambios"
+              "title": "Miscelánea"
             }
           }
         ]
@@ -208,8 +208,14 @@
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
-    "Beethoven/attachments/{A0BC52B8-210E-42DF-B134-EB9936B0F313}.png",
+    "Music/Miscelánea/Buscar buena guitarra.md",
+    "Music/Miscelánea/Año estudiando.md",
+    "Music/Miscelánea/Research.md",
+    "Music/Miscelánea/Musicales en España.md",
+    "Music/Miscelánea/Miscelánea.md",
+    "Music/Flamenco Dominantes y palos.md",
     "Beethoven/Lista cambios.md",
+    "Beethoven/attachments/{A0BC52B8-210E-42DF-B134-EB9936B0F313}.png",
     "Beethoven/attachments/{506A95A8-6780-476D-9BBA-4BC267536699}.png",
     "Beethoven/attachments/{51EE7A35-4D26-4390-A2BE-B78A77DB047D}.png",
     "Beethoven/attachments/{4E828EE7-4277-48C7-A9E7-378B635B1533}.png",
@@ -221,7 +227,6 @@
     "attachments/{674523C6-EE36-4540-9228-FB5563D7A4CF}.png",
     "attachments/{107C38FC-EBD9-4818-AB9A-9191BB3CF3CC}.png",
     "attachments/{6A8E97A6-2AE6-4D51-92BB-4FC50EB0C81E}.png",
-    "attachments/{1C9E4E2D-2719-4326-947A-A12C9E3D9066}.png",
     "serradilla_alberto_ejercicioMETASPLOIT.md",
     "attachments",
     "EJERCICIOS METASPLOIT.md",
@@ -249,11 +254,6 @@
     "Sox-NIST/Oferta.md",
     "Sox-NIST/Audit Report.md",
     "Sox-NIST/SOX.md",
-    "Sox-NIST/IT General Controls.md",
-    "Sox-NIST/Walkthrough.md",
-    "Sox-NIST/SoD.md",
-    "Sox-NIST/Risk.md",
-    "Sox-NIST/Hardening.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
