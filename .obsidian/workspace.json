@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Miscelánea/Miscelánea.md",
+                "file": "Beethoven/orquestacion_cuarteto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Miscelánea"
+              "title": "orquestacion_cuarteto"
             }
           }
         ]
@@ -184,8 +184,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -203,18 +203,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "Beethoven/Lista cambios.md",
+    "Beethoven/orquestacion_cuarteto.md",
+    "Music/Miscelánea/Miscelánea.md",
     "Music/Miscelánea/Buscar buena guitarra.md",
     "Music/Miscelánea/Año estudiando.md",
     "Music/Miscelánea/Research.md",
     "Music/Miscelánea/Musicales en España.md",
-    "Music/Miscelánea/Miscelánea.md",
     "Music/Flamenco Dominantes y palos.md",
-    "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{A0BC52B8-210E-42DF-B134-EB9936B0F313}.png",
     "Beethoven/attachments/{506A95A8-6780-476D-9BBA-4BC267536699}.png",
     "Beethoven/attachments/{51EE7A35-4D26-4390-A2BE-B78A77DB047D}.png",
@@ -231,7 +235,6 @@
     "attachments",
     "EJERCICIOS METASPLOIT.md",
     "serradilla_alberto_ejercicioWeb.md",
-    "Beethoven/orquestacion_cuarteto.md",
     "Beethoven/images",
     "Beethoven/serradilla_alberto_ejercicioWeb.md",
     "orquestacion_cuarteto.md",
