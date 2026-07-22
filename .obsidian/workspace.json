@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beethoven/orquestacion_cuarteto.md",
+                "file": "serradilla_alberto_ejercicioOSINT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "orquestacion_cuarteto"
+              "title": "serradilla_alberto_ejercicioOSINT"
             }
           }
         ]
@@ -184,8 +184,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -203,16 +203,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
-    "Beethoven/Lista cambios.md",
     "Beethoven/orquestacion_cuarteto.md",
+    "Beethoven/Lista cambios.md",
     "Music/Miscelánea/Miscelánea.md",
     "Music/Miscelánea/Buscar buena guitarra.md",
     "Music/Miscelánea/Año estudiando.md",
