@@ -281,3 +281,67 @@ A control does not operate as designed, or is missing entirely, so it doesn't ad
 
 40. What is remediation in audit?
 The process where management implements corrective actions to fix a control failure. Audit then verifies the fix is effective through follow-up testing.
+
+---
+
+## 📋 Process Tracking (OSINT verified)
+
+### Contactos verificados
+
+**David Cano Chica**
+- LinkedIn: `es.linkedin.com/in/davidcanochica`
+- Senior IT Talent Acquisition Partner — Cloud, DevOps, Data y Ciberseguridad | Banca & Fintech
+- 9+ años en recruiting end-to-end
+- **Activo**: publicó sobre recruiting hace 1 y 3 semanas. No está de vacaciones.
+
+**Pritesh Patel**
+- LinkedIn: `linkedin.com/in/pritesh-patel` (verificar URL exacta)
+- **Executive Director - Head of Cybersecurity Audit** — Santander US
+- Base: New York, NY
+- 20+ años en IT Audit (Morgan Stanley, Nomura, GM, HP)
+- Certificaciones: CISA
+- En Santander desde 2018 (8 años)
+- Sin actividad pública reciente en LinkedIn
+
+**María Dolores Segovia (Dolores Segovia)**
+- LinkedIn: `linkedin.com/in/dolores-segovia-38846927`
+- **Data & AI Internal Audit Director** — Santander (Group, Madrid)
+- Background: NTT Data, Accenture, Medtronic
+- Educación: ETSIT-UPM (Ingeniería de Telecomunicación)
+- **Activa**: publicó hace 2 semanas sobre Internal Audit como carrera
+- Intervino en tu proceso como Directora (entrevista en español)
+
+**Borja Guisasola**
+- LinkedIn: `linkedin.com/in/borja-guisasola-45a12633`
+- **Chief Audit Executive, Santander US** — base: Greater Boston
+- 20+ años en Santander (empezó 2000), PwC 2005-2009
+- Confirmado como CAE post-Webster (SEC filing 29 abril 2026)
+- CV envía tu CV a él para aprobación final
+
+**Julia Bayón**
+- Group CAE Santander (reporta a Ana Botín)
+- Aprueba a nivel global — último filtro
+
+### Estado del proceso
+
+| Fecha | Evento |
+|---|---|
+| ~Jun 2026 | Entrevista Pritesh Patel (screening, imperfecto pero pasaste) |
+| ~Jun 2026 | Entrevista María Dolores Segovia (excelente, feedback positivo) |
+| ~Jun 2026 | CV enviado a Borja Guisasola para aprobación |
+| ~Jul 2026 | David Cano confirma posición on hold hasta septiembre |
+| 22 Jul 2026 | Santander publica resultados H1 2026: récord €7.3B (+15%) |
+| **Sep 2026** | **Próximo contacto — follow-up con David Cano** |
+
+### Webster integration status
+- OCC aprobó adquisición: junio 2026
+- "Walk the Walls" session: mayo 2026 (250+ dependencias, 225 milestones)
+- Cierre previsto: H2 2026
+- Borja Guisasola confirmado como CAE de entidad combinada
+
+### Señales de mercado
+- ✅ Santander sin hiring freeze — resultados récord
+- ✅ David Cano activo contratando (publicaciones recientes)
+- ✅ Borja Guisasola confirmado en su rol post-Webster
+- ⚠️ 0 vacantes Audit publicadas en Santander US careers (posición interna no pública)
+- ⚠️ Sr. IT Auditor (Dorchester, MA) ya no está publicado
