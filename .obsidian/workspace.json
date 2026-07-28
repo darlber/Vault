@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beethoven/Lista cambios.md",
+                "file": "Santander.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lista cambios"
+              "title": "Santander"
             }
           }
         ]
@@ -184,12 +184,12 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,13 +203,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d4547140d4916c17",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
-    "Beethoven/attachments/{3553DFF7-BAD5-4124-B874-3FE4ED8D89D1}.png",
     "Beethoven/Lista cambios.md",
+    "Beethoven/attachments/{3553DFF7-BAD5-4124-B874-3FE4ED8D89D1}.png",
     "serradilla_alberto_ejercicioOSINT.md",
     "Beethoven/orquestacion_cuarteto.md",
     "Music/Miscelánea/Miscelánea.md",
@@ -228,7 +231,6 @@
     "attachments/Pasted image 20260714210857.png",
     "attachments/{674523C6-EE36-4540-9228-FB5563D7A4CF}.png",
     "attachments/{107C38FC-EBD9-4818-AB9A-9191BB3CF3CC}.png",
-    "attachments/{6A8E97A6-2AE6-4D51-92BB-4FC50EB0C81E}.png",
     "serradilla_alberto_ejercicioMETASPLOIT.md",
     "attachments",
     "EJERCICIOS METASPLOIT.md",
