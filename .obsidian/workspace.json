@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Santander.md",
+                "file": "serradilla_alberto_ejercicioOSINT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Santander"
+              "title": "serradilla_alberto_ejercicioOSINT"
+            }
+          },
+          {
+            "id": "e579b54597606fff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -189,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -206,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "e579b54597606fff",
   "lastOpenFiles": [
+    "Santander.md",
     "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{3553DFF7-BAD5-4124-B874-3FE4ED8D89D1}.png",
     "serradilla_alberto_ejercicioOSINT.md",
@@ -223,7 +239,6 @@
     "Beethoven/attachments/{51EE7A35-4D26-4390-A2BE-B78A77DB047D}.png",
     "Beethoven/attachments/{4E828EE7-4277-48C7-A9E7-378B635B1533}.png",
     "Beethoven/attachments/{000AA23C-74C0-46E5-9547-1FA834D44C5D}.png",
-    "Santander.md",
     "images/img2.png",
     "attachments/Pasted image 20260714210857.png",
     "attachments/{674523C6-EE36-4540-9228-FB5563D7A4CF}.png",
