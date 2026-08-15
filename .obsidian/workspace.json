@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "serradilla_alberto_ejercicioOSINT"
             }
-          },
-          {
-            "id": "e579b54597606fff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e579b54597606fff",
+  "active": "d4547140d4916c17",
   "lastOpenFiles": [
     "Santander.md",
     "Beethoven/Lista cambios.md",
