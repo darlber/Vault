@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "serradilla_alberto_ejercicioOSINT"
             }
+          },
+          {
+            "id": "484521da0abf023e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,12 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4547140d4916c17",
+  "active": "add3c26d8921029f",
   "lastOpenFiles": [
+    "serradilla_alberto_ejercicioOSINT.md",
     "Santander.md",
     "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{3553DFF7-BAD5-4124-B874-3FE4ED8D89D1}.png",
-    "serradilla_alberto_ejercicioOSINT.md",
     "Beethoven/orquestacion_cuarteto.md",
     "Music/Miscelánea/Miscelánea.md",
     "Music/Miscelánea/Buscar buena guitarra.md",
