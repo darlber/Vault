@@ -202,8 +202,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -221,16 +221,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "484521da0abf023e",
   "lastOpenFiles": [
+    "Beethoven/attachments/{5EC7FA98-84A4-4808-ADDA-51BB9960826A}.png",
+    "Beethoven/attachments/{2A6F7489-C195-416F-8340-6DAF106C0F07}.png",
+    "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{A9AC56FA-7D0B-496D-951E-5C154FC4382A}.png",
     "Beethoven/attachments/{64A1DD18-6E96-4175-A2E6-7EBE1C0C95F2}.png",
     "serradilla_alberto_ejercicioOSINT.md",
     "Santander.md",
-    "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{3553DFF7-BAD5-4124-B874-3FE4ED8D89D1}.png",
     "Beethoven/orquestacion_cuarteto.md",
     "Music/Miscelánea/Miscelánea.md",
@@ -245,8 +250,6 @@
     "Beethoven/attachments/{4E828EE7-4277-48C7-A9E7-378B635B1533}.png",
     "Beethoven/attachments/{000AA23C-74C0-46E5-9547-1FA834D44C5D}.png",
     "images/img2.png",
-    "attachments/Pasted image 20260714210857.png",
-    "attachments/{674523C6-EE36-4540-9228-FB5563D7A4CF}.png",
     "serradilla_alberto_ejercicioMETASPLOIT.md",
     "attachments",
     "EJERCICIOS METASPLOIT.md",
