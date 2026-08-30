@@ -202,8 +202,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -221,18 +221,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "484521da0abf023e",
   "lastOpenFiles": [
+    "Beethoven/attachments/{5EAB7923-47D3-445C-981E-193E299F33FF}.png",
+    "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{93F5F9BF-5E31-4C81-8618-D8D3441A161B}.png",
     "Beethoven/attachments/{018A038E-2445-4223-852E-09F53515597D}.png",
     "Beethoven/attachments/{15A4A85D-66D0-45CA-95E7-2092510E1369} 1.png",
     "Beethoven/attachments/{15A4A85D-66D0-45CA-95E7-2092510E1369}.png",
     "Beethoven/attachments/{5EC7FA98-84A4-4808-ADDA-51BB9960826A}.png",
     "Beethoven/attachments/{2A6F7489-C195-416F-8340-6DAF106C0F07}.png",
-    "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{A9AC56FA-7D0B-496D-951E-5C154FC4382A}.png",
     "Beethoven/attachments/{64A1DD18-6E96-4175-A2E6-7EBE1C0C95F2}.png",
     "serradilla_alberto_ejercicioOSINT.md",
@@ -246,7 +250,6 @@
     "Music/Miscelánea/Musicales en España.md",
     "Music/Flamenco Dominantes y palos.md",
     "Beethoven/attachments/{A0BC52B8-210E-42DF-B134-EB9936B0F313}.png",
-    "Beethoven/attachments/{506A95A8-6780-476D-9BBA-4BC267536699}.png",
     "serradilla_alberto_ejercicioMETASPLOIT.md",
     "attachments",
     "EJERCICIOS METASPLOIT.md",
